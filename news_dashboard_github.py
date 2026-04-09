@@ -81,20 +81,35 @@ except ImportError:
     bigquery = None
 
 # ── peek-deck integration ──────────────────────────────────────────────────
-# Add peek-deck to sys.path to use its core utilities
-peek_deck_src = Path("./peek_deck/src")
-if peek_deck_src.exists():
-    if str(peek_deck_src) not in sys.path:
-        sys.path.append(str(peek_deck_src))
+# Robust path discovery for both GitHub Actions (Linux) and Local Dev (Windows)
+search_paths = [
+    Path.cwd() / "peek_deck" / "src",            # Repo root (peek_deck)
+    Path.cwd() / "peek-deck-1.0.0" / "src",      # Repo root (versioned name)
+    Path(__file__).parent / "peek_deck" / "src", # Relative to script
+    Path.home() / "Downloads" / "peek-deck-1.0.0" / "src" # Windows Downloads
+]
+
+found_path = None
+for p in search_paths:
+    if p.exists():
+        found_path = str(p.resolve())
+        if found_path not in sys.path:
+            sys.path.append(found_path)
+        print(f"✅ peek_deck source found at: {found_path}")
+        break
 
 try:
     from peek_deck.core.utils import resolve_google_news_url
     from peek_deck.core.url_metadata import extract_url_metadata
     from peek_deck.core.url_fetch_manager import get_url_fetch_manager
     from bs4 import BeautifulSoup
-except ImportError:
-    print("⚠️  peek_deck core modules not found. Ensure peek-deck-1.0.0/src is in PYTHONPATH.")
-    # Fallback to dummy functions if peek_deck is missing
+except ImportError as e:
+    if not found_path:
+        print("⚠️  peek_deck core modules not found. Check your folder names in the repo.")
+    else:
+        print(f"❌ Found path but import failed: {e}")
+
+    # Fallback to dummy functions to prevent script crash
     def resolve_google_news_url(url, timeout=10): return url
     def extract_url_metadata(url, **kwargs): 
         class MockMeta:

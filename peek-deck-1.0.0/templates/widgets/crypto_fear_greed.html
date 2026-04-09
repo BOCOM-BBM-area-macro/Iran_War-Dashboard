@@ -1,0 +1,383 @@
+<style>
+.widget-crypto-fear-greed {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.widget-crypto-fear-greed .widget-header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.widget-crypto-fear-greed .chart-tabs {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.widget-crypto-fear-greed .chart-tab-btn {
+    padding: 8px 16px;
+    min-width: 60px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #9ca3af;
+    text-align: center;
+}
+
+.widget-crypto-fear-greed .chart-tab-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-color);
+}
+
+.widget-crypto-fear-greed .chart-tab-btn.active {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    color: #000;
+}
+
+.widget-crypto-fear-greed .widget-body {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 30px;
+    align-items: center;
+    height: 280px;
+    padding-bottom: 10px;
+}
+
+/* Left: Current Value Display */
+.widget-crypto-fear-greed .current-value-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+}
+
+.widget-crypto-fear-greed .current-value {
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+
+.widget-crypto-fear-greed .current-classification {
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    opacity: 0.9;
+}
+
+/* Right: Line Chart */
+.widget-crypto-fear-greed .chart-section {
+    position: relative;
+    height: 100%;
+    max-height: 280px;
+    overflow: hidden;
+}
+
+.widget-crypto-fear-greed .chart-tab-content {
+    display: none;
+    height: 100%;
+}
+
+.widget-crypto-fear-greed .chart-tab-content.active {
+    display: block;
+}
+
+.widget-crypto-fear-greed canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Mobile responsive */
+@media (max-width: 968px) {
+    .widget-crypto-fear-greed {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Flatten structure on mobile using display: contents */
+    .widget-crypto-fear-greed .widget-header {
+        display: contents;
+    }
+
+    .widget-crypto-fear-greed .widget-body {
+        display: contents;
+    }
+
+    /* Order: 1. Title, 2. Current Value, 3. Tabs, 4. Chart, 5. Footer */
+    .widget-crypto-fear-greed h3 {
+        order: 1;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .widget-crypto-fear-greed .current-value-section {
+        order: 2;
+        padding: 12px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        margin-bottom: 15px;
+    }
+
+    .widget-crypto-fear-greed .chart-tabs {
+        order: 3;
+        margin-bottom: 15px;
+    }
+
+    .widget-crypto-fear-greed .chart-section {
+        order: 4;
+        height: 280px;
+        min-height: 280px;
+        max-height: 280px;
+        overflow: hidden;
+        flex-shrink: 0;
+    }
+
+    .widget-crypto-fear-greed .chart-tab-content {
+        height: 280px;
+    }
+
+    .widget-crypto-fear-greed .widget-footer {
+        order: 5;
+    }
+
+    .widget-crypto-fear-greed .current-value {
+        font-size: 2.5rem;
+        margin-bottom: 6px;
+    }
+
+    .widget-crypto-fear-greed .current-classification {
+        font-size: 0.85rem;
+    }
+}
+
+@media (min-width: 969px) {
+    .widget-crypto-fear-greed .widget-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+</style>
+
+<div class="widget widget-crypto-fear-greed">
+    <div class="widget-header">
+        <h3>Fear & Greed Index</h3>
+        <div class="chart-tabs">
+            <button class="chart-tab-btn active" data-timeframe="7d">7d</button>
+            <button class="chart-tab-btn" data-timeframe="30d">30d</button>
+            <button class="chart-tab-btn" data-timeframe="90d">90d</button>
+            <button class="chart-tab-btn" data-timeframe="1y">1y</button>
+        </div>
+    </div>
+    <div class="widget-body">
+        <!-- Left: Current Value Display -->
+        <div class="current-value-section">
+            <div class="current-value" style="color: {{ gauge_color }};">
+                {{ current_value }}
+            </div>
+            <div class="current-classification" style="color: {{ gauge_color }};">
+                {{ current_classification }}
+            </div>
+        </div>
+
+        <!-- Right: Line Chart with Tabs -->
+        <div class="chart-section">
+            <div class="chart-tab-content active" data-timeframe="7d">
+                <canvas id="lineChart7d"></canvas>
+            </div>
+            <div class="chart-tab-content" data-timeframe="30d">
+                <canvas id="lineChart30d"></canvas>
+            </div>
+            <div class="chart-tab-content" data-timeframe="90d">
+                <canvas id="lineChart90d"></canvas>
+            </div>
+            <div class="chart-tab-content" data-timeframe="1y">
+                <canvas id="lineChart1y"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+<script>
+(function() {
+    // Tab switching logic
+    const tabButtons = document.querySelectorAll('.widget-crypto-fear-greed .chart-tab-btn');
+    const tabContents = document.querySelectorAll('.widget-crypto-fear-greed .chart-tab-content');
+
+    tabButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const timeframe = btn.getAttribute('data-timeframe');
+
+            // Update active button
+            tabButtons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            // Update active content
+            tabContents.forEach(content => {
+                if (content.getAttribute('data-timeframe') === timeframe) {
+                    content.classList.add('active');
+                } else {
+                    content.classList.remove('active');
+                }
+            });
+        });
+    });
+
+    // Line Chart Data
+    const historical7d = {{ historical_7d | tojson }};
+    const historical30d = {{ historical_30d | tojson }};
+    const historical90d = {{ historical_90d | tojson }};
+    const historical1y = {{ historical_1y | tojson }};
+
+    // Common chart options - matching crypto-price-chart style
+    const commonOptions = {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: false,
+        interaction: {
+            mode: 'index',
+            intersect: false
+        },
+        plugins: {
+            legend: { display: false },
+            tooltip: {
+                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                padding: 12,
+                titleColor: '#fff',
+                bodyColor: '#fff',
+                borderColor: 'rgba(255, 255, 255, 0.1)',
+                borderWidth: 1,
+                displayColors: false,
+                callbacks: {
+                    title: function(context) {
+                        const date = new Date(context[0].parsed.x);
+                        return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+                    },
+                    label: function(context) {
+                        const value = context.parsed.y;
+                        let classification = 'Neutral';
+                        if (value <= 24) classification = 'Extreme Fear';
+                        else if (value <= 44) classification = 'Fear';
+                        else if (value <= 54) classification = 'Neutral';
+                        else if (value <= 74) classification = 'Greed';
+                        else classification = 'Extreme Greed';
+                        return `${value} - ${classification}`;
+                    }
+                }
+            },
+        },
+        scales: {
+            x: {
+                type: 'time',
+                time: {
+                    unit: 'day',
+                    displayFormats: {
+                        day: 'MMM d'
+                    }
+                },
+                grid: {
+                    display: true,
+                    color: 'rgba(255, 255, 255, 0.05)',
+                    drawBorder: false
+                },
+                ticks: {
+                    display: false
+                },
+                border: {
+                    display: false
+                }
+            },
+            y: {
+                min: 0,
+                max: 100,
+                grid: {
+                    display: true,
+                    color: 'rgba(255, 255, 255, 0.05)',
+                    drawBorder: false
+                },
+                ticks: {
+                    color: '#6b7280',
+                    font: {
+                        size: 11
+                    },
+                    stepSize: 25
+                },
+                border: {
+                    display: false
+                }
+            }
+        }
+    };
+
+    // Create line charts for each timeframe
+    function createLineChart(canvasId, historicalData) {
+        const ctx = document.getElementById(canvasId).getContext('2d');
+
+        // Normalize timestamps to midnight local time to avoid time display issues
+        const labels = historicalData.map(item => {
+            const date = new Date(item.timestamp * 1000);
+            return new Date(date.getFullYear(), date.getMonth(), date.getDate());
+        });
+        const values = historicalData.map(item => item.value);
+
+        // Determine time unit based on data length
+        let timeUnit = 'day';
+        let displayFormat = 'MMM d';
+        if (historicalData.length > 180) {
+            timeUnit = 'month';
+            displayFormat = 'MMM yyyy';
+        }
+
+        const chartOptions = JSON.parse(JSON.stringify(commonOptions)); // Deep clone
+        chartOptions.scales.x.time.unit = timeUnit;
+        chartOptions.scales.x.time.displayFormats = {};
+        chartOptions.scales.x.time.displayFormats[timeUnit] = displayFormat;
+        chartOptions.scales.x.time.tooltipFormat = displayFormat; // Ensure tooltip doesn't show time
+
+        return new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Fear & Greed Index',
+                    data: values,
+                    borderColor: '#f97316',  // Use orange as primary color
+                    backgroundColor: 'rgba(249, 115, 22, 0.05)',  // Very subtle fill
+                    borderWidth: 2,
+                    fill: true,
+                    tension: 0.3,
+                    pointRadius: 0,
+                    pointHoverRadius: 6,
+                    pointHoverBackgroundColor: '#f97316',
+                    pointHoverBorderColor: '#fff',
+                    pointHoverBorderWidth: 2
+                }]
+            },
+            options: chartOptions
+        });
+    }
+
+    // Initialize all line charts
+    createLineChart('lineChart7d', historical7d);
+    createLineChart('lineChart30d', historical30d);
+    createLineChart('lineChart90d', historical90d);
+    createLineChart('lineChart1y', historical1y);
+})();
+</script>

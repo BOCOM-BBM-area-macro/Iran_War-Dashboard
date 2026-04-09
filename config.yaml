@@ -1,0 +1,85 @@
+# ──────────────────────────────────────────────
+#  News Dashboard — Configuration File
+#  Fill in the fields below and run:
+#    python news_dashboard.py --config config.yaml
+# ──────────────────────────────────────────────
+
+dashboard:
+  title: "Iran War Monitor"          # [REQUIRED] Title shown on the dashboard
+  topic: "Iran War"                 # [REQUIRED] Main topic to search on Google News
+  max_articles_recent: 1                       # Number of articles from current + previous day (Step 1)
+  max_articles_older: 1                           # Number of articles from previous dates (Step 2)
+  language: "en"                                   # Language code for Google News (default: "en")
+  country: "US"                                    # Country code for Google News (default: "US")
+  period: "7d"                                     # Lookback window: 1d | 7d | 30d (default: "7d")
+  restrict_to_sources: true                        # [OPTIONAL] If true, only fetch from the domains below
+  sources:                                         # [OPTIONAL] List of sources (domains only)
+    - "reuters.com"
+    - "bloomberg.com"
+    - "ft.com"
+    - "nytimes.com"
+    - "wsj.com"
+    - "washingtonpost.com"
+    - "axios.com"
+    - "timesofisrael.com"
+    - "cbc.ca"
+    - "jpost.com"
+
+llm:
+  enabled: false                                  # [OPTIONAL] Set to false to disable AI generated features
+  digest_model: "gemini-2.5-flash"               # Gemini model for digest
+  watch_model: "gemini-3.1-flash-lite-preview"               # Gemini model for 'things to watch'
+  sentiment_model: "llama-3.3-70b-versatile"     # Use "llama-3.3-70b-versatile" for Groq OR "grok-2-1212" for xAI
+  sentiment_api_key: "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"    # API Key for Groq or xAI
+  gemini_api_key: "AIzaSyDC9_PU2c2YW964qzrS4PG3kVnk4JL4BY0"    # Gemini API Key
+  api_base_url: "https://api.groq.com/openai/v1" # Use "https://api.groq.com/openai/v1" for Groq OR "https://api.x.ai/v1" for xAI
+  summary_focus:                                  # [OPTIONAL] Bullet-point focus areas for summaries
+
+  digest_focus:                                   # [OPTIONAL] Extra instructions for the overall digest
+    - "Highlight relevant events that happened during the period"
+    - "Expose diplomatic stance updates (if any) from the parties evolved in the war"
+    - "Be concise and dense. The main goal is to provide as much information as possible, in a digestable way."
+    - "Keep it technical and objective. Avoid ambiguity, be very precise and factual"
+
+output:
+  filename: "dashboard.html"                       # Output HTML file name (default: dashboard.html)
+  theme: "dark"                                    # "dark" or "light" (default: "dark")
+  show_source_logos: true                          # Show source favicons next to article titles
+  open_browser: true                               # Auto-open dashboard in browser after generation
+
+commodities:
+  enabled: true                                    # [OPTIONAL] Set to false to disable the commodities section
+  items:
+    - name: "Crude Oil (WTI)"
+      symbol: "CL=F"
+    - name: "Brent Crude Oil"
+      symbol: "BZ=F"
+    - name: "Gold"
+      symbol: "GC=F"
+    - name: "US Gasoline"
+      symbol: "RB=F"
+    - name: "Heating Oil (Diesel)"
+      symbol: "HO=F"
+    
+trade_tracker:
+   enabled: true
+   chokepoint: "Strait of Hormuz"
+   lookback_days: 365
+
+missile_tracker:
+  enabled: true
+  url: "https://xyeshxlnlompwrzzcaqf.supabase.co/rest/v1/attacks?select=*&order=date.asc"
+
+maritime_tracker:
+  enabled: false
+  api_key: "ac819529cdc3fd9fe994aac9dc9db94150ac0374" # Get one at https://aisstream.io
+  chokepoint: "Strait of Hormuz"
+  bounding_box: [[22.0, 48.0], [30.5, 60.0]]
+  collect_duration: 60 # Seconds to listen for AIS messages
+
+gdelt_tracker:
+  enabled: false
+  project_id: "iran-war-492622" # [REQUIRED] Your Google Cloud Project ID for BigQuery
+  lookback_days: 365                           # Number of days to look back for GDELT events
+  location_filter: "IR"                      # Country code for Iran in GDELT (IR)
+  

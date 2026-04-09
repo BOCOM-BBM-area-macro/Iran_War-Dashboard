@@ -1,0 +1,69 @@
+# Ethereum monitoring dashboard
+category: crypto
+id: ethereum
+name: Ethereum
+description: Live Ethereum monitoring dashboard
+icon: "Ξ"
+enabled: true
+
+# Visual theme
+theme:
+  primary_color: "#627EEA"      # Ethereum purple/blue
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
+
+# Page-specific parameters (passed to all widgets)
+params:
+  symbol: ETHUSDT  # Binance US symbol (ETHUSDT has continuous data, ETHUSD has gaps)
+  coin_id: ethereum  # For CoinGecko API
+
+# Widget layout
+widgets:
+  - type: crypto-price
+    update_minutes: 5
+
+  - type: crypto-price-chart
+    update_minutes: 10
+    params:
+      tabs:
+        - interval: "1h"
+          limit: 24
+          label: "24h"
+        - interval: "1d"
+          limit: 7
+          label: "7d"
+        - interval: "1d"
+          limit: 30
+          label: "30d"
+        - interval: "1d"
+          limit: 90
+          label: "90d"
+        - interval: "1d"
+          limit: 365
+          label: "1y"
+
+  - type: crypto-market-stats
+    update_minutes: 30
+
+  - type: reddit-posts
+    update_minutes: 30
+    params:
+      subreddit: ethereum
+      limit: 10
+
+  - type: google-news
+    update_minutes: 30
+    params:
+      query: ethereum
+      limit: 10
+
+  - type: youtube-videos
+    update_minutes: 120
+    params:
+      query: ethereum
+      limit: 10
+      order: relevance
+      days: 3
+      relevance_language: en

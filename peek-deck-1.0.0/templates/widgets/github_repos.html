@@ -1,0 +1,309 @@
+<style>
+/* GitHub-specific card styling */
+.widget-github-repos .carousel-card {
+    border-left: 3px solid #238636;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
+    flex-shrink: 0;
+}
+
+.widget-github-repos .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(35, 134, 54, 0.2);
+}
+
+/* Rich preview image (repository preview) */
+.widget-github-repos .repo-preview {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+/* Fallback icon for repos without preview images */
+.widget-github-repos .repo-preview:not([style*="background-image"])::before {
+    content: "";
+    width: 48px;
+    height: 48px;
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="%23238636"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"/></svg>');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.3;
+}
+
+.widget-github-repos .repo-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0; /* Allow flex children to shrink below content size */
+}
+
+/* Repository name (first line after preview) - single line only */
+.widget-github-repos .repo-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-height: calc(0.95rem * 1.4);
+    min-width: 0;
+}
+
+.widget-github-repos .repo-name a {
+    color: var(--text-color);
+    text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-github-repos .repo-name a:hover {
+    color: #238636;
+}
+
+/* Owner line with avatar (second line) */
+.widget-github-repos .repo-owner-line {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-github-repos .repo-owner-avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.widget-github-repos .repo-owner {
+    color: #9ca3af;
+    font-size: 0.8rem;
+    font-weight: 400;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex: 1;
+    min-width: 0;
+}
+
+.widget-github-repos .repo-owner a {
+    color: #9ca3af;
+    text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-github-repos .repo-owner a:hover {
+    color: #238636;
+    text-decoration: underline;
+}
+
+.widget-github-repos .repo-description {
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+    min-width: 0;
+}
+
+.widget-github-repos .repo-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-top: auto;
+    min-width: 0;
+}
+
+.widget-github-repos .repo-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap; /* Allow tags to wrap */
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-github-repos .repo-meta-line.tags-line {
+    min-height: calc((0.7rem + 4px) * 2 + 4px);
+    max-height: calc((0.7rem + 4px) * 2 + 4px);
+    overflow: hidden;
+    align-items: flex-start;
+    row-gap: 4px;
+    column-gap: 8px;
+}
+
+.widget-github-repos .repo-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+}
+
+.widget-github-repos .repo-tag {
+    background: rgba(35, 134, 54, 0.15);
+    color: #238636;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+}
+
+.widget-github-repos .repo-stats {
+    color: #9ca3af;
+    font-weight: 500;
+}
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-github-repos .repo-preview {
+        /* aspect-ratio already set above, no need to redefine */
+    }
+
+    .widget-github-repos .repo-description {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.72rem * 1.4 * 4);
+    }
+
+    .widget-github-repos .repo-tag {
+        padding: 4px 6px;
+    }
+
+    .widget-github-repos .repo-meta-line.tags-line {
+        min-height: calc((0.7rem + 8px) * 2 + 4px);
+        max-height: calc((0.7rem + 8px) * 2 + 4px);
+    }
+}
+</style>
+
+<div class="widget widget-github-repos">
+    <div class="widget-header">
+        <h3><a href="https://github.com/search?q={{ search_query|urlencode }}&type=repositories&s=stars&o=desc" target="_blank" style="color: inherit; text-decoration: none;">GitHub Repos</a></h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "{{ query }}" · Last {{ days }} days
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="github-repos-carousel">
+                {% for repo in repos %}
+                <div class="carousel-card" onclick="window.open('{{ repo.url }}', '_blank')">
+                    <!-- Rich preview image (with fallback icon) -->
+                    <div class="repo-preview" {% if repo.preview_image %}style="background-image: url('{{ repo.preview_image }}');"{% endif %}></div>
+
+                    <div class="repo-content">
+                        <!-- Repository name (first line after preview) -->
+                        <div class="repo-name">
+                            <a href="{{ repo.url }}" target="_blank" onclick="event.stopPropagation();">
+                                {{ repo.name }}
+                            </a>
+                        </div>
+
+                        <!-- Owner with avatar (second line) -->
+                        <div class="repo-owner-line">
+                            {% if repo.owner_avatar %}
+                            <img src="{{ repo.owner_avatar }}" alt="{{ repo.owner }}" class="repo-owner-avatar">
+                            {% endif %}
+                            <div class="repo-owner">
+                                <a href="https://github.com/{{ repo.owner }}" target="_blank" onclick="event.stopPropagation();">{{ repo.owner }}</a>
+                            </div>
+                        </div>
+
+                        <!-- Description -->
+                        {% if repo.description %}
+                        <div class="repo-description">
+                            {{ repo.description }}
+                        </div>
+                        {% endif %}
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
+                            {% if repo.language %}
+                            <span class="repo-tag">{{ repo.language }}</span>
+                            {% endif %}
+                            {% for topic in repo.topics %}
+                            <span class="repo-tag">{{ topic }}</span>
+                            {% endfor %}
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ {{ repo.stars_display }}</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">{{ repo.forks_display }}</span>
+                            </div>
+                        </div>
+                        {% if repo.updated_at %}
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="{{ repo.updated_at }}"></span>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(35, 134, 54, 0.05); border-color: #238636; width: 280px;"
+                     onclick="window.open('https://github.com/search?q={{ search_query|urlencode }}&type=repositories&s=stars&o=desc', '_blank')">
+                    <div style="text-align: center;">
+                        <svg height="48" width="48" viewBox="0 0 16 16" style="margin-bottom: 8px; fill: #238636;">
+                            <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
+                        </svg>
+                        <div style="color: #238636; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on GitHub</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->

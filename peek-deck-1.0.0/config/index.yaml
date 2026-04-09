@@ -1,0 +1,24 @@
+# Index page configuration
+
+# Base URL for deployment (required for canonical URLs, sitemap, Open Graph)
+base_url: "https://peekdeck.ruidiao.dev"
+
+# GitHub repository URL (displayed in page footer)
+github_url: "https://github.com/diaorui/peek-deck"
+
+# Optional: Google Analytics tracking ID
+# Format: G-XXXXXXXXXX (Google Analytics 4)
+google_analytics_id: "G-117VEW1TRM"
+
+# Optional: Custom SEO metadata for index page
+# If not provided, will auto-generate from pages
+seo:
+  description: "A glance is all you need - Live monitoring dashboards for cryptocurrency, AI, and more"
+  # keywords: ["dashboard", "monitoring", "crypto", "AI"]  # Optional
+
+# Optional: LLM Configuration for AI-powered features
+# Environment variables required:
+#   - GEMINI_API_KEY: Your Google Gemini API key
+llm:
+  provider: gemini
+  model: gemini-2.5-flash-lite

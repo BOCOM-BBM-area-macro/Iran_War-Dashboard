@@ -11,7 +11,7 @@ try:
 except ImportError:
     _collect_ais_messages = None
 
-CONFIG_PATH = "config-2.yaml"
+CONFIG_PATH = "config.yaml"
 DB_FILE = "maritime_history.json"
 
 def load_config():

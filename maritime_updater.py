@@ -5,7 +5,7 @@ import yaml
 from datetime import datetime, timezone
 
 # Files
-CONFIG_PATH = "config-2.yaml"
+CONFIG_PATH = "config.yaml"
 DB_FILE = "maritime_history.json"
 
 def load_config():

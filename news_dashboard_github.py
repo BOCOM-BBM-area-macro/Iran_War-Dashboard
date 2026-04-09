@@ -82,7 +82,7 @@ except ImportError:
 
 # ── peek-deck integration ──────────────────────────────────────────────────
 # Add peek-deck to sys.path to use its core utilities
-peek_deck_src = Path("./peek_deck")
+peek_deck_src = Path("./peek_deck/src")
 if peek_deck_src.exists():
     if str(peek_deck_src) not in sys.path:
         sys.path.append(str(peek_deck_src))

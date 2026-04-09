@@ -20,6 +20,12 @@ jobs:
 
       - name: Install Dependencies
         run: |
+          python -m pip install --upgrade pip
+          # 1. Install modern versions of what pygooglenews needs
+          pip install feedparser>=6.0.10 beautifulsoup4 dateparser 
+          # 2. Force install pygooglenews ignoring its old dependencies
+          pip install pygooglenews==0.1.2 --no-deps 
+          # 3. Install the rest of your app's needs
           pip install -r requirements.txt
 
       - name: Run Updater

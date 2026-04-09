@@ -1,0 +1,130 @@
+<style>
+.widget-crypto-price-chart .widget-header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.widget-crypto-price-chart .chart-tabs {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+    .widget-crypto-price-chart .chart-tabs {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        scroll-behavior: smooth;
+        scrollbar-width: none; /* Firefox */
+        -ms-overflow-style: none; /* IE/Edge */
+        -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+        scroll-snap-type: x proximity;
+        padding-bottom: 4px;
+    }
+
+    .widget-crypto-price-chart .chart-tabs::-webkit-scrollbar {
+        display: none; /* Chrome/Safari */
+    }
+
+    .widget-crypto-price-chart .chart-tab-btn {
+        flex-shrink: 0;
+        scroll-snap-align: start;
+    }
+}
+
+.widget-crypto-price-chart .chart-tab-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 8px 12px;
+    min-width: 70px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.widget-crypto-price-chart .chart-tab-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.widget-crypto-price-chart .chart-tab-btn.active {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.widget-crypto-price-chart .tab-label {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #9ca3af;
+}
+
+.widget-crypto-price-chart .chart-tab-btn.active .tab-label {
+    color: #000;
+}
+
+.widget-crypto-price-chart .tab-change {
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.widget-crypto-price-chart .chart-tab-btn.active .tab-change {
+    color: #000 !important;
+}
+
+.widget-crypto-price-chart .chart-tab-btn:hover .tab-label {
+    color: var(--text-color);
+}
+
+.widget-crypto-price-chart .chart-tab-content {
+    display: block;
+}
+
+.widget-crypto-price-chart .chart-tab-content[style*="display: none"] {
+    display: none;
+}
+
+.widget-crypto-price-chart .widget-body {
+    position: relative;
+    height: 400px;
+}
+
+.widget-crypto-price-chart canvas {
+    position: absolute !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+@media (min-width: 769px) {
+    .widget-crypto-price-chart .widget-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+</style>
+
+<div class="widget widget-crypto-price-chart">
+    <div class="widget-header">
+        <h3>{{ display_name }} Chart</h3>
+        <div class="chart-tabs">
+            {% for tab in tab_buttons %}
+            {{ tab|safe }}
+            {% endfor %}
+        </div>
+    </div>
+    {% for tab_content in tab_contents %}
+    {{ tab_content|safe }}
+    {% endfor %}
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-financial@0.2.0/dist/chartjs-chart-financial.min.js"></script>
+{% for chart_script in chart_scripts %}
+{{ chart_script|safe }}
+{% endfor %}

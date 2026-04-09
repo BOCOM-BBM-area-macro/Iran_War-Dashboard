@@ -1,0 +1,39 @@
+<style>
+.widget-crypto-price {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.widget-crypto-price .widget-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.widget-crypto-price .price-display {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.widget-crypto-price .price-value {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+</style>
+
+<div class="widget widget-crypto-price">
+    <div class="widget-header">
+        <h3>{{ display_name }} Price</h3>
+    </div>
+    <div class="widget-body">
+        <div class="price-display">
+            <span class="price-value">${{ "{:,.2f}".format(price) }}</span>
+        </div>
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>

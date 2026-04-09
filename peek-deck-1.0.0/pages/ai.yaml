@@ -1,0 +1,66 @@
+# AI monitoring dashboard
+category: tech
+id: ai
+name: Artificial Intelligence
+description: AI news, discussions, and developments
+icon: "✨"
+enabled: true
+
+# Visual theme
+theme:
+  primary_color: "#4A90E2"      # Tech blue
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
+
+# Widget layout (ordered by time sensitivity - most frequently updated first)
+widgets:
+  - type: reddit-posts
+    update_minutes: 30
+    params:
+      subreddit: artificial
+      limit: 10
+
+  - type: google-news
+    update_minutes: 30
+    params:
+      query: ai
+      limit: 10
+
+  - type: hackernews-posts
+    update_minutes: 30
+    params:
+      query: ai
+      limit: 10
+      min_points: 0
+      sort_by: relevance
+      days: 3
+
+  - type: youtube-videos
+    update_minutes: 120
+    params:
+      query: ai
+      limit: 10
+      order: relevance
+      days: 3
+      relevance_language: en
+
+  - type: huggingface-models
+    update_minutes: 30
+    params:
+      limit: 10
+
+  - type: huggingface-papers
+    update_minutes: 60
+    params:
+      limit: 10
+      sort: trending
+
+  - type: github-repos
+    update_minutes: 60
+    params:
+      query: ai
+      days: 30
+      date_filter: created
+      limit: 10

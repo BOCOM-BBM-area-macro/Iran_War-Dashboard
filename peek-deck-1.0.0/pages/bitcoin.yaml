@@ -1,0 +1,81 @@
+# Bitcoin monitoring dashboard
+category: crypto
+id: bitcoin
+name: Bitcoin
+description: Live Bitcoin monitoring dashboard
+icon: "₿"
+enabled: true
+
+# Visual theme
+theme:
+  primary_color: "#f7931a"      # Bitcoin orange
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
+
+# Page-specific parameters (passed to all widgets)
+params:
+  symbol: BTCUSDT  # Binance US symbol (BTCUSDT has continuous data, BTCUSD has gaps)
+  coin_id: bitcoin  # For CoinGecko API
+
+# Widget layout
+widgets:
+  - type: crypto-price
+    update_minutes: 5
+
+  - type: crypto-price-chart
+    update_minutes: 10
+    params:
+      tabs:
+        - interval: "1h"
+          limit: 24
+          label: "24h"
+        - interval: "1d"
+          limit: 7
+          label: "7d"
+        - interval: "1d"
+          limit: 30
+          label: "30d"
+        - interval: "1d"
+          limit: 90
+          label: "90d"
+        - interval: "1d"
+          limit: 365
+          label: "1y"
+
+  - type: crypto-market-stats
+    update_minutes: 30
+
+  - type: crypto-fear-greed
+    update_minutes: 360
+
+  - type: reddit-posts
+    update_minutes: 30
+    params:
+      subreddit: Bitcoin
+      limit: 10
+
+  - type: google-news
+    update_minutes: 30
+    params:
+      query: bitcoin
+      limit: 10
+
+  - type: hackernews-posts
+    update_minutes: 30
+    params:
+      query: bitcoin
+      limit: 10
+      min_points: 0
+      sort_by: relevance
+      days: 7
+
+  - type: youtube-videos
+    update_minutes: 120
+    params:
+      query: bitcoin
+      limit: 10
+      order: relevance
+      days: 3
+      relevance_language: en        

@@ -1,0 +1,331 @@
+<style>
+    /* HuggingFace Papers-specific card styling */
+    .widget-huggingface-papers .carousel-card {
+        border-left: 3px solid #ff9d00;
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+        /* Prevent any child from expanding card */
+        min-width: 0;
+        /* Allow flex children to shrink below content size */
+        flex-shrink: 0;
+    }
+
+    .widget-huggingface-papers .carousel-card:hover {
+        box-shadow: 0 4px 12px rgba(255, 157, 0, 0.2);
+    }
+
+    /* Rich preview image */
+    .widget-huggingface-papers .paper-thumbnail {
+        width: 100%;
+        aspect-ratio: 1.85 / 1;
+        background-size: cover;
+        background-position: center;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        background-color: rgba(255, 255, 255, 0.03);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3rem;
+    }
+
+    /* Fallback icon for papers without images */
+    .widget-huggingface-papers .paper-thumbnail:not([style*="background-image"])::before {
+        content: "📄";
+        opacity: 0.3;
+    }
+
+    .widget-huggingface-papers .paper-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        min-width: 0;
+        /* Allow flex children to shrink below content size */
+    }
+
+    .widget-huggingface-papers .paper-title {
+        font-size: 0.95rem;
+        font-weight: 500;
+        margin-bottom: 8px;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-height: calc(0.95rem * 1.4 * 2);
+        min-width: 0;
+    }
+
+    .widget-huggingface-papers .paper-title a {
+        color: var(--text-color);
+        text-decoration: none;
+    }
+
+    .widget-huggingface-papers .paper-title a:hover {
+        color: #ff9d00;
+    }
+
+    .widget-huggingface-papers .paper-authors {
+        font-size: 0.75rem;
+        color: #9ca3af;
+        margin-bottom: 6px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-width: 0;
+    }
+
+    /* Organization line with avatar - always takes one line for consistent card height */
+    .widget-huggingface-papers .paper-organization {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin-bottom: 8px;
+        overflow: hidden;
+        min-width: 0;
+        font-size: 0.75rem;
+        line-height: 1.2;
+        min-height: calc(0.75rem * 1.2);
+        /* Reserve space even when empty */
+    }
+
+    .widget-huggingface-papers .org-avatar {
+        width: 18px;
+        height: 18px;
+        border-radius: 3px;
+        object-fit: cover;
+        flex-shrink: 0;
+    }
+
+    .widget-huggingface-papers .paper-organization a {
+        color: #ff9d00;
+        font-size: 0.75rem;
+        font-weight: 500;
+        text-decoration: none;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        flex: 1;
+        min-width: 0;
+        line-height: 1.2;
+    }
+
+    .widget-huggingface-papers .paper-organization a:hover {
+        text-decoration: underline;
+    }
+
+    /* Rich description (AI summary or full summary) */
+    .widget-huggingface-papers .paper-summary {
+        font-size: 0.75rem;
+        color: #9ca3af;
+        line-height: 1.4;
+        margin-bottom: 10px;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-width: 0;
+    }
+
+    .widget-huggingface-papers .paper-meta {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        font-size: 0.72rem;
+        color: #9ca3af;
+        margin-top: auto;
+        min-width: 0;
+    }
+
+    .widget-huggingface-papers .paper-meta-line {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: nowrap;
+        overflow: hidden;
+        min-width: 0;
+    }
+
+    .widget-huggingface-papers .paper-meta-item {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+    }
+
+    .widget-huggingface-papers .paper-link {
+        color: #60a5fa;
+        text-decoration: none;
+    }
+
+    .widget-huggingface-papers .paper-link:hover {
+        text-decoration: underline;
+    }
+
+    .widget-huggingface-papers .paper-stats {
+        color: #ff9d00;
+        font-weight: 500;
+    }
+
+    /* Mobile adjustments: more lines for better readability */
+    @media (max-width: 768px) {
+        .widget-huggingface-papers .paper-thumbnail {
+            background-size: contain;
+        }
+
+        .widget-huggingface-papers .paper-title {
+            -webkit-line-clamp: 3;
+            min-height: calc(0.95rem * 1.4 * 3);
+        }
+
+        .widget-huggingface-papers .paper-summary {
+            -webkit-line-clamp: 5;
+            min-height: calc(0.75rem * 1.4 * 5);
+        }
+    }
+</style>
+
+<div class="widget widget-huggingface-papers">
+    <div class="widget-header">
+        <h3><a href="https://huggingface.co/papers" target="_blank" style="color: inherit; text-decoration: none;">HuggingFace Papers</a></h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            {% if sort == 'trending' %}
+            🔥 Trending
+            {% else %}
+            📅 Latest
+            {% endif %}
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hf-papers-carousel">
+                {% for paper in papers %}
+                <div class="carousel-card" onclick="window.open('{{ paper.hf_url }}', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="paper-thumbnail" {% if paper.thumbnail
+                        %}style="background-image: url('{{ paper.thumbnail }}');" {% endif %}></div>
+
+                    <div class="paper-content">
+                        <!-- Paper title (fixed 2-line height) -->
+                        <div class="paper-title">
+                            <a href="{{ paper.hf_url }}" target="_blank" onclick="event.stopPropagation();">{{
+                                paper.title }}</a>
+                        </div>
+
+                        <!-- Authors -->
+                        <div class="paper-authors">
+                            {{ paper.authors }}
+                        </div>
+
+                        <!-- Organization (always reserve space for consistent card height) -->
+                        <div class="paper-organization">
+                            {% if paper.organization_fullname %}
+                            {% if paper.organization_avatar %}
+                            <img src="{{ paper.organization_avatar }}" alt="{{ paper.organization_fullname }}"
+                                class="org-avatar">
+                            {% endif %}
+                            <a href="https://huggingface.co/{{ paper.organization_name }}" target="_blank"
+                                onclick="event.stopPropagation();">
+                                {{ paper.organization_fullname }}
+                            </a>
+                            {% endif %}
+                        </div>
+
+                        <!-- Rich description (AI summary if available, otherwise full summary) -->
+                        {% if paper.ai_summary %}
+                        <div class="paper-summary">
+                            {{ paper.ai_summary }}
+                        </div>
+                        {% elif paper.summary %}
+                        <div class="paper-summary">
+                            {{ paper.summary }}
+                        </div>
+                        {% endif %}
+
+                        <!-- Metadata (stats, links, time) -->
+                        <div class="paper-meta">
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-stats">▲ {{ paper.upvotes }}</span>
+                                </div>
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">💬 {{ paper.num_comments }}</span>
+                                </div>
+                                {% if paper.github_stars %}
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">⭐ {{ "{:,}".format(paper.github_stars) }}</span>
+                                </div>
+                                {% endif %}
+                            </div>
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <a href="{{ paper.arxiv_url }}" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🎓 arXiv
+                                    </a>
+                                </div>
+                                {% if paper.github_repo %}
+                                <div class="paper-meta-item">
+                                    <a href="{{ paper.github_repo }}" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        💻 code
+                                    </a>
+                                </div>
+                                {% endif %}
+                                {% if paper.project_page %}
+                                <div class="paper-meta-item">
+                                    <a href="{{ paper.project_page }}" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🔗 project
+                                    </a>
+                                </div>
+                                {% endif %}
+                            </div>
+                            {% if paper.published_at %}
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-age" data-timestamp="{{ paper.published_at }}"></span>
+                                </div>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card"
+                    style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 157, 0, 0.05); border-color: #ff9d00;"
+                    onclick="window.open('https://huggingface.co/papers', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📄</div>
+                        <div style="color: #ff9d00; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on HuggingFace</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->

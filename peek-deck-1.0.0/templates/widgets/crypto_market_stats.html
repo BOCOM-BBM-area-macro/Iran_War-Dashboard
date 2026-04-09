@@ -1,0 +1,81 @@
+<style>
+.widget-crypto-market-stats .market-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    row-gap: 20px;
+}
+
+.widget-crypto-market-stats .stat-item {
+    padding: 0;
+}
+
+.widget-crypto-market-stats .stat-label {
+    color: #9ca3af;
+    font-size: 0.85rem;
+    margin-bottom: 4px;
+}
+
+.widget-crypto-market-stats .stat-value {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+
+.widget-crypto-market-stats .stat-value-large {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.widget-crypto-market-stats .stat-meta {
+    color: #9ca3af;
+    font-size: 0.75rem;
+}
+</style>
+
+<div class="widget widget-crypto-market-stats">
+    <div class="widget-header">
+        <h3>{{ name }} Market Stats</h3>
+    </div>
+    <div class="widget-body">
+        <div class="market-stats-grid">
+            <div class="stat-item">
+                <div class="stat-label">Market Cap</div>
+                <div class="stat-value stat-value-large">{{ market_cap_display }}</div>
+                <div class="stat-meta">Rank #{{ rank }}</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-label">Circulating Supply</div>
+                <div class="stat-value">{{ circulating_display }} {{ symbol }}</div>
+                {% if supply_percent != "N/A" %}
+                <div class="stat-meta">{{ supply_percent }} of max</div>
+                {% else %}
+                <div class="stat-meta">No max supply</div>
+                {% endif %}
+            </div>
+            <div class="stat-item">
+                <div class="stat-label">All-Time High</div>
+                <div class="stat-value">${{ "{:,.2f}".format(ath_price) }}</div>
+                <div class="stat-meta">
+                    <span class="stat-date" data-date="{{ ath_date_iso }}"></span> ·
+                    <span style="color: {% if ath_change_percent < 0 %}var(--color-negative){% else %}var(--color-positive){% endif %};">
+                        {{ ath_change_sign }}{{ "{:.1f}".format(ath_change_percent) }}%
+                    </span>
+                </div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-label">All-Time Low</div>
+                <div class="stat-value">${{ "{:,.2f}".format(atl_price) }}</div>
+                <div class="stat-meta">
+                    <span class="stat-date" data-date="{{ atl_date_iso }}"></span> ·
+                    <span style="color: {% if atl_change_percent >= 0 %}var(--color-positive){% else %}var(--color-negative){% endif %};">
+                        {{ atl_change_sign }}{{ "{:.1f}".format(atl_change_percent) }}%
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>

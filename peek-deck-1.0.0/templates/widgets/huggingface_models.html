@@ -1,0 +1,300 @@
+<style>
+/* HuggingFace Models-specific card styling */
+.widget-huggingface-models .carousel-card {
+    border-left: 3px solid #ff9d00;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
+    flex-shrink: 0;
+}
+
+.widget-huggingface-models .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 157, 0, 0.2);
+}
+
+/* Rich preview image (model thumbnail) */
+.widget-huggingface-models .model-thumbnail {
+    width: 100%;
+    aspect-ratio: 1.85 / 1;
+    background-size: cover;
+    background-position: center;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+/* Fallback icon for models without thumbnails */
+.widget-huggingface-models .model-thumbnail:not([style*="background-image"])::before {
+    content: "🤗";
+    opacity: 0.3;
+}
+
+.widget-huggingface-models .model-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0; /* Allow flex children to shrink below content size */
+}
+
+/* Model name (first line after thumbnail) - single line only */
+.widget-huggingface-models .model-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-height: calc(0.95rem * 1.4);
+    min-width: 0;
+}
+
+.widget-huggingface-models .model-name a {
+    color: var(--text-color);
+    text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-huggingface-models .model-name a:hover {
+    color: #ff9d00;
+}
+
+/* AI-generated description (appears after author, similar to HuggingFace Papers) */
+.widget-huggingface-models .model-description {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    line-height: 1.4;
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;  /* Limit to 4 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-width: 0;
+}
+
+/* Author line with avatar (second line) */
+.widget-huggingface-models .model-author-line {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-huggingface-models .model-avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.widget-huggingface-models .model-author {
+    color: #ff9d00;
+    font-size: 0.8rem;
+    font-weight: 400;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex: 1;
+    min-width: 0;
+}
+
+.widget-huggingface-models .model-author a {
+    color: #ff9d00;
+    text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-huggingface-models .model-author a:hover {
+    text-decoration: underline;
+}
+
+.widget-huggingface-models .model-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-top: auto;
+    min-width: 0;
+}
+
+.widget-huggingface-models .model-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-huggingface-models .model-meta-line.tags-line {
+    min-height: calc(0.7rem + 4px);
+    max-height: calc(0.7rem + 4px);
+    overflow: hidden;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.widget-huggingface-models .model-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+.widget-huggingface-models .model-tag {
+    background: rgba(255, 157, 0, 0.15);
+    color: #ff9d00;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+}
+
+.widget-huggingface-models .model-stats {
+    color: #9ca3af;
+    font-weight: 500;
+}
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-huggingface-models .model-thumbnail {
+        background-size: contain;
+    }
+
+    .widget-huggingface-models .model-description {
+        -webkit-line-clamp: 5;  /* More lines on mobile */
+        min-height: calc(0.75rem * 1.4 * 5);  /* Reserve space for 5 lines */
+    }
+
+    .widget-huggingface-models .model-tag {
+        padding: 4px 6px;
+    }
+
+    .widget-huggingface-models .model-meta-line.tags-line {
+        min-height: calc(0.7rem + 8px);
+        max-height: calc(0.7rem + 8px);
+    }
+}
+</style>
+
+<div class="widget widget-huggingface-models">
+    <div class="widget-header">
+        <h3><a href="https://huggingface.co/models?sort=trending" target="_blank" style="color: inherit; text-decoration: none;">HuggingFace Models</a></h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            🔥 Trending
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hf-models-carousel">
+                {% for model in models %}
+                <div class="carousel-card" onclick="window.open('{{ model.url }}', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" {% if model.thumbnail %}style="background-image: url('{{ model.thumbnail }}');"{% endif %}></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="{{ model.url }}" target="_blank" onclick="event.stopPropagation();">
+                                {{ model.name }}
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            {% if model.avatar %}
+                            <img src="{{ model.avatar }}" alt="{{ model.author_fullname or model.author }}" class="model-avatar">
+                            {% endif %}
+                            <div class="model-author">
+                                <a href="https://huggingface.co/{{ model.author }}" target="_blank" onclick="event.stopPropagation();">{{ model.author_fullname or model.author }}</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        {% if has_descriptions %}
+                        <div class="model-description">
+                            {{ model.description or '' }}
+                        </div>
+                        {% endif %}
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                {% if model.pipeline_tag %}
+                                <span class="model-tag">{{ model.pipeline_tag }}</span>
+                                {% endif %}
+                                {% if model.num_parameters %}
+                                <span class="model-tag">{{ model.num_parameters }}</span>
+                                {% endif %}
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ {{ "{:,}".format(model.downloads) }}</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ {{ "{:,}".format(model.likes) }}</span>
+                                </div>
+                            </div>
+                            {% if model.last_modified %}
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="{{ model.last_modified }}"></span>
+                                </div>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 157, 0, 0.05); border-color: #ff9d00; width: 280px;"
+                     onclick="window.open('https://huggingface.co/models?sort=trending', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">🤗</div>
+                        <div style="color: #ff9d00; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on HuggingFace</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->

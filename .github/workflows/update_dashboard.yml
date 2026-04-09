@@ -41,5 +41,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONPATH: ${{ github.workspace }}/peek-deck-1.0.0/sr
           publish_dir: ./ # Points to where dashboard.html is generated
           publish_branch: gh-pages

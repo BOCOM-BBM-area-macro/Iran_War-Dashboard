@@ -1031,15 +1031,18 @@ def categorize_sentiment(articles: list[dict], cfg: dict) -> list[dict]:
 
 
 def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) -> dict:
-    """Generate daily digest using Gemini with full text support."""
+    """Generate daily digest with fallback to environment variables for security."""
     if not genai:
-        print("⚠️  Google Generative AI library not found. Digest skipped.")
         return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}
         
-    api_key = cfg["llm"].get("gemini_api_key")
-    if not api_key or api_key == "YOUR_GEMINI_API_KEY":
-        print("⚠️  Gemini API key missing. Digest skipped.")
+    # ── SECURITY UPDATE ──
+    # Prioritize GitHub Secrets (environment variable) over the config file
+    api_key = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
+    
+    if not api_key or any(placeholder in api_key for placeholder in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
+        print("⚠️  Gemini API key missing or placeholder detected. Digest skipped.")
         return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}
+    # ──────────────────────
         
     genai.configure(api_key=api_key)
     

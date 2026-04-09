@@ -863,7 +863,7 @@ Here are the article titles and summaries:
 
 Write a comprehensive executive digest that:
 - Identifies the most relevant events of the current and previous day
-- Is comprehensive yet objective, providing a thorough analysis with 8-12 lines
+- Is comprehensive yet objective, providing a thorough analysis with 8-10 lines
 - DO NOT cut the analysis short; ensure it is a complete, well-rounded executive summary that ends with a full sentence
 - Avoid qualitative analysis, focus solely on exposing information
 - PLEASE don't assume things or create subjective texts, focus on concrete facts and events

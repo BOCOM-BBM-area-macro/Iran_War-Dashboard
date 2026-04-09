@@ -1,0 +1,34 @@
+name: Maritime Traffic Logger
+
+on:
+  schedule:
+    # Runs every 5 minutes (Note: GitHub may delay this by a few mins)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install pyyaml requests websockets
+
+      - name: Run Updater
+        run: python maritime_updater.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "Maritime-Bot"
+          git config --global user.email "bot@github.com"
+          git add maritime_history.json
+          git commit -m "Update maritime history snapshot" || exit 0
+          git push

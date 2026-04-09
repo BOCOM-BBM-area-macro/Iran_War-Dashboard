@@ -1,0 +1,40 @@
+name: Update News Dashboard
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:      # Allows you to run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          # If peek-deck is a local folder, ensure it's in the repo or installed
+
+      - name: Run Dashboard Script
+        env:
+          # If you use a cloud LLM, put the API key here
+          # GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AIS_API_KEY: ${{ secrets.AIS_API_KEY }}
+        run: python news_dashboard_github.py --config config.yaml
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./ # Points to where dashboard.html is generated
+          publish_branch: gh-pages

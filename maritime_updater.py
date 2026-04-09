@@ -61,40 +61,54 @@ def fetch_ais_snapshot(cfg):
 def main():
     cfg = load_config()
     
-    # 1. Get the 'Lagged' Latest Date from Port Watch
+    # 1. Get the 'Lagged' Latest Date from Port Watch (Reference Point)
     latest_pw_dt = get_latest_portwatch_date(cfg)
     if not latest_pw_dt:
+        print("❌ Could not determine Port Watch lag date. Skipping update.")
         return
 
     # 2. Fetch new AIS snapshot
+    print(f"📡 Requesting live AIS burst for {cfg['maritime_tracker']['chokepoint']}...")
     new_vessels = fetch_ais_snapshot(cfg)
     
-    # 3. Load/Create local History
+    # 3. Load existing History
     history = []
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r") as f:
             try:
                 history = json.load(f)
-            except: history = []
+            except: 
+                history = []
 
-    if new_vessels:
-        history.append({
-            "snapshot_ts": datetime.now(timezone.utc).isoformat(),
-            "vessels": new_vessels
-        })
+    # 4. Add new snapshot with enriched info
+    # We save the exact ISO timestamp for pruning and a pretty version for your eyes
+    now = datetime.now(timezone.utc)
+    
+    snapshot_entry = {
+        "snapshot_ts": now.isoformat(),                   # For script processing
+        "readable_time": now.strftime("%Y-%m-%d %H:%M:%S UTC"), # For humans
+        "port_watch_lag_reference": latest_pw_dt.strftime("%Y-%m-%d"),
+        "vessel_count": len(new_vessels),
+        "vessels": new_vessels                            # The actual ship data
+    }
+    
+    history.append(snapshot_entry)
 
-    # 4. PRUNE: Only keep data from (latest_pw_dt) to (Present)
-    # This ignores the lookback window and focuses purely on the Port Watch lag.
+    # 5. PRUNE: Only keep data from the 'Lag Date' forward
+    # This ensures your DB only grows from the point Port Watch currently stops.
     pruned_history = [
         snap for snap in history 
         if datetime.fromisoformat(snap["snapshot_ts"]) >= latest_pw_dt
     ]
 
-    # 5. Save locally (to be committed by GitHub Action)
+    # 6. Save back to the JSON file
     with open(DB_FILE, "w") as f:
         json.dump(pruned_history, f, indent=2)
     
-    print(f"✅ DB Updated. Range: {latest_pw_dt.date()} to Present. Total snapshots: {len(pruned_history)}")
+    print(f"✅ DB Updated.")
+    print(f"   - PW Latest Date: {latest_pw_dt.date()}")
+    print(f"   - Vessels Found: {len(new_vessels)}")
+    print(f"   - Total Snapshots Stored: {len(pruned_history)}")
 
 if __name__ == "__main__":
     main()

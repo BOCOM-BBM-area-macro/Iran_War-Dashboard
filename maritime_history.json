@@ -271,5 +271,20 @@
         "timestamp": "23:05:41 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-10T23:52:20.579108+00:00",
+    "readable_time": "2026-04-10 23:52:20 UTC",
+    "vessel_count": 1,
+    "vessels": [
+      {
+        "name": "MERCURY LUCKY",
+        "mmsi": 630001218,
+        "lat": 25.50077,
+        "lon": 55.01117,
+        "type": "Unknown",
+        "timestamp": "23:51:36 UTC"
+      }
+    ]
   }
 ]

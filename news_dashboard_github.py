@@ -2136,10 +2136,16 @@ function switchTab(tabName, btn) {
     window.dispatchEvent(new Event('resize'));
   }
   if (tabName === 'maritime') {
-    setTimeout(initMap, 100);
+    setTimeout(function() {
+      initMap();
+      if (map) map.invalidateSize();
+    }, 100);
   }
   if (tabName === 'refinery') {
-    setTimeout(initRefineryMap, 100);
+    setTimeout(function() {
+      initRefineryMap();
+      if (refineryMap) refineryMap.invalidateSize();
+    }, 100);
   }
   if (tabName === 'missile') {
     setTimeout(function() {

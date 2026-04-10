@@ -838,12 +838,12 @@ def fetch_refinery_attacks_data(cfg: dict) -> list[dict]:
     """Fetch refinery attack data from CSV and group by facility with coordinates."""
     # Look for the refinery CSV in standard locations
     paths_to_check = [
-        Path("Downloads/refinaries/master_refinery_attacks_2026.csv"),
-        Path.cwd() / "Downloads" / "refinaries" / "master_refinery_attacks_2026.csv",
-        Path(__file__).parent / "refinaries" / "master_refinery_attacks_2026.csv",
+        Path("master_refinery_attacks_2026.csv"),
+        Path.cwd() / "master_refinery_attacks_2026.csv",
+        Path(__file__).parent / "master_refinery_attacks_2026.csv",
         Path.home() / "Downloads" / "refinaries" / "master_refinery_attacks_2026.csv"
     ]
-    
+  
     csv_path = None
     for p in paths_to_check:
         if p.exists():

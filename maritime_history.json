@@ -182,5 +182,28 @@
         "timestamp": "15:36:22 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-10T16:35:25.494104+00:00",
+    "readable_time": "2026-04-10 16:35:25 UTC",
+    "vessel_count": 2,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 538011959,
+        "lat": 25.63355,
+        "lon": 55.14565,
+        "type": "Unknown",
+        "timestamp": "16:34:56 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "16:35:04 UTC"
+      }
+    ]
   }
 ]

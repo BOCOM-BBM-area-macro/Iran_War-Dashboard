@@ -167,5 +167,20 @@
     "readable_time": "2026-04-10 14:41:30 UTC",
     "vessel_count": 0,
     "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-10T15:37:09.460171+00:00",
+    "readable_time": "2026-04-10 15:37:09 UTC",
+    "vessel_count": 1,
+    "vessels": [
+      {
+        "name": "HAANA",
+        "mmsi": 538011959,
+        "lat": 25.63355,
+        "lon": 55.14565,
+        "type": "Unknown",
+        "timestamp": "15:36:22 UTC"
+      }
+    ]
   }
 ]

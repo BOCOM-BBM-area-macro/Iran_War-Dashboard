@@ -843,7 +843,7 @@ def fetch_refinery_attacks_data(cfg: dict) -> list[dict]:
         Path(__file__).parent / "master_refinery_attacks_2026.csv",
         Path.home() / "Downloads" / "refinaries" / "master_refinery_attacks_2026.csv"
     ]
-  
+    
     csv_path = None
     for p in paths_to_check:
         if p.exists():
@@ -1338,7 +1338,7 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
 
 
 
-def render_html(articles: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], digest: dict, cfg: dict) -> str:
+def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], digest: dict, cfg: dict) -> str:
     env = Environment(autoescape=True)
     
     def _safe_tojson(d):
@@ -2789,15 +2789,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </body>
 </html>
 """
-
-def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], digest: dict, cfg: dict) -> str:
-    env = Environment(autoescape=True)
-    
-    def _safe_tojson(d):
-        serialized = json.dumps(d).replace('</', '<\\/')
-        return Markup(serialized)
-    env.filters['tojson'] = _safe_tojson
-        
     tmpl_html = env.from_string(template_content)
     
     raw_dates = sorted(list(set(a["pub_date"] for a in articles if a.get("pub_date"))), reverse=True)

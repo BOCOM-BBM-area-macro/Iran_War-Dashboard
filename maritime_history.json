@@ -76,5 +76,44 @@
     "readable_time": "2026-04-10 10:16:12 UTC",
     "vessel_count": 0,
     "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-10T11:15:46.640282+00:00",
+    "readable_time": "2026-04-10 11:15:46 UTC",
+    "vessel_count": 4,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 470009199,
+        "lat": 25.18943,
+        "lon": 55.21522,
+        "type": "Unknown",
+        "timestamp": "11:14:56 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470010441,
+        "lat": 25.17547,
+        "lon": 55.20574,
+        "type": "Unknown",
+        "timestamp": "11:15:00 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.18795,
+        "lon": 55.20295,
+        "type": "Unknown",
+        "timestamp": "11:15:17 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18574,
+        "lon": 55.22197,
+        "type": "Unknown",
+        "timestamp": "11:15:22 UTC"
+      }
+    ]
   }
 ]

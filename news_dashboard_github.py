@@ -149,6 +149,7 @@ def load_config(path: str) -> dict:
         
     cfg["llm"].setdefault("digest_model", "gemini-1.5-flash")
     cfg["llm"].setdefault("watch_model", "gemini-1.5-flash")
+    cfg["llm"].setdefault("relevant_news_model", "gemini-1.5-flash")
     cfg["llm"].setdefault("sentiment_model", "llama-3.3-70b-versatile")
 
     cfg["llm"]["summary_focus"] = cfg["llm"].get("summary_focus") or []
@@ -833,6 +834,124 @@ def fetch_gdelt_data(cfg: dict) -> dict:
     return {"events": [], "error": "GDELT Web API failed: Maximum retries reached (Rate Limited)."}
 
 
+def fetch_refinery_attacks_data(cfg: dict) -> list[dict]:
+    """Fetch refinery attack data from CSV and group by facility with coordinates."""
+    # Look for the refinery CSV in standard locations
+    paths_to_check = [
+        Path("master_refinery_attacks_2026.csv"),
+        Path.cwd() / "master_refinery_attacks_2026.csv",
+        Path(__file__).parent / "master_refinery_attacks_2026.csv",
+        Path.home() / "Downloads" / "refinaries" / "master_refinery_attacks_2026.csv"
+    ]
+    
+    csv_path = None
+    for p in paths_to_check:
+        if p.exists():
+            csv_path = p
+            break
+
+    if not csv_path:
+        print(f"⚠️  Refinery attacks CSV not found.")
+        return []
+
+    print(f"🏭  Fetching refinery attack data from {csv_path}...")
+    
+    # Predefined coordinates for major facilities
+    COORDINATES = {
+        "bazan": (32.7937, 35.0326),
+        "haifa": (32.7937, 35.0326),
+        "ras tanura": (26.7408, 50.1147),
+        "bapco": (26.1214, 50.6074),
+        "bahrain": (26.1214, 50.6074),
+        "ruwais": (24.1133, 52.7303),
+        "south pars": (27.4851, 52.6146),
+        "asaluyeh": (27.4851, 52.6146),
+        "kharg": (29.2317, 50.3117),
+        "tehran": (35.5900, 51.3500),
+        "kuwait": (29.0700, 48.1300),
+        "jubail": (27.0117, 49.6583),
+        "fujairah": (25.1164, 56.3265),
+        "duqm": (19.6644, 57.7056),
+        "salalah": (17.0194, 54.0906),
+        "basra": (30.5081, 47.8219),
+        "basrah": (30.5081, 47.8219),
+        "krasnodar": (45.0393, 38.9872),
+        "tabriz": (38.0700, 46.2900),
+        "isfahan": (32.6500, 51.6700),
+        "khor mor": (35.1200, 44.5000),
+        "leviathan": (33.0000, 34.0000),
+        "karish": (33.0000, 34.0000),
+        "oman": (23.5859, 58.4059),
+        "qatar": (25.2854, 51.5310),
+        "ras laffan": (25.9000, 51.5500),
+        "erbil": (36.1901, 44.0091),
+        "fujairah": (25.1164, 56.3265),
+        "jubail": (27.0117, 49.6583),
+        "abu dhabi": (24.4539, 54.3773),
+        "uae": (24.4539, 54.3773),
+        "habshan": (23.6000, 53.7000),
+        "manama": (26.2285, 50.5860),
+        "bushehr": (28.9234, 50.8327),
+        "shiraz": (29.5918, 52.5837),
+        "lavan": (26.8122, 53.3514),
+        "beersheba": (31.2518, 34.7913),
+        "port arthur": (29.8849, -93.9399),
+        "whiting": (41.6792, -87.4950),
+        "panipat": (29.3909, 76.9635),
+    }
+
+    try:
+        df = pd.read_csv(csv_path)
+        refineries = {}
+
+        for _, row in df.iterrows():
+            facility = str(row['Facility']).strip()
+            date = str(row['Date']).strip()
+            desc = str(row['Description']).strip()
+            
+            # Find coordinates
+            coords = None
+            fac_lower = facility.lower()
+            for key, val in COORDINATES.items():
+                if key in fac_lower:
+                    coords = val
+                    break
+            
+            if not coords:
+                # Optional: Log if needed
+                continue 
+                
+            if facility not in refineries:
+                refineries[facility] = {
+                    "name": facility,
+                    "lat": coords[0],
+                    "lon": coords[1],
+                    "events": []
+                }
+            
+            refineries[facility]["events"].append({
+                "date": date,
+                "description": desc
+            })
+
+        # Sort events by date for each refinery (approximate)
+        for r in refineries.values():
+            r["events"].sort(key=lambda x: x["date"], reverse=True)
+
+        if not refineries:
+            print("⚠️  No refineries with coordinates found in CSV.")
+        else:
+            print(f"    ✅  Loaded {len(refineries)} refineries with attack data.")
+        
+        # Sort refineries by number of attacks (descending)
+        sorted_refineries = sorted(refineries.values(), key=lambda x: len(x["events"]), reverse=True)
+        return sorted_refineries
+
+    except Exception as exc:
+        print(f"    ⚠️  Failed to fetch refinery attacks data: {exc}")
+        return []
+
+
 # ── LLM operations ───────────────────────────────────────────────────────────
 
 ARTICLE_PROMPT_TEMPLATE = """\
@@ -908,6 +1027,26 @@ Respond ONLY with a valid JSON object (no markdown fences):
 }}
 """
 
+RELEVANT_NEWS_PROMPT_TEMPLATE = """\
+You are a Senior Intelligence Analyst. Your task is to select the 5 most relevant and impactful news articles from the list below for the topic: {topic}.
+
+Current date: {current_date}
+
+Articles:
+{articles_text}
+
+Criteria:
+- Relevance to the core topic.
+- Significance and impact of the event.
+- Recency (prefer events that happened in the last 24-48 hours).
+- Variety of perspectives (if applicable).
+
+Respond ONLY with a valid JSON object (no markdown fences) containing the indices of the selected articles (starting from 1).
+{{
+  "selected_indices": [1, 5, 8, 12, 15]
+}}
+"""
+
 SENTIMENT_PROMPT_TEMPLATE = """\
 You are an expert news analyst. Categorize the sentiment of the following news article as positive, negative, or neutral based on its title and description.
 
@@ -919,6 +1058,65 @@ Respond ONLY with a valid JSON object (no markdown fences) in this exact schema:
   "sentiment": "<positive|negative|neutral>"
 }}
 """
+
+def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
+    """Select the top 5 most relevant articles from a list using Gemini."""
+    if not genai or not articles:
+        return articles[:5]
+        
+    api_key = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
+    if not api_key or any(placeholder in api_key for placeholder in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
+        print("⚠️  Gemini API key missing. Relevant news selection skipped.")
+        return articles[:5]
+        
+    genai.configure(api_key=api_key)
+    model_name = cfg["llm"].get("relevant_news_model", "gemini-1.5-flash")
+    print(f"  🧠  Selecting top 5 relevant news with {model_name}…")
+    
+    try:
+        model = genai.GenerativeModel(model_name)
+    except Exception as e:
+        print(f"⚠️  Failed to initialize Gemini model for relevant news: {e}")
+        return articles[:5]
+
+    articles_text = "\n".join(
+        f"{i}. {sanitize_for_format(a['source'])} - {sanitize_for_format(a['title'])}"
+        for i, a in enumerate(articles, 1)
+    )
+
+    prompt = (
+        RELEVANT_NEWS_PROMPT_TEMPLATE
+        .replace("{topic}", cfg["dashboard"]["topic"])
+        .replace("{current_date}", datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+        .replace("{articles_text}", articles_text)
+        .replace("{{", "{").replace("}}", "}")
+    )
+
+    for attempt in range(3):
+        try:
+            response = model.generate_content(
+                prompt,
+                generation_config=genai.types.GenerationConfig(
+                    temperature=0.1,
+                    response_mime_type="application/json"
+                )
+            )
+            data = try_extract_json(response.text)
+            indices = data.get("selected_indices", [])
+            selected = []
+            for idx in indices:
+                if isinstance(idx, int) and 1 <= idx <= len(articles):
+                    selected.append(articles[idx-1])
+            
+            if selected:
+                print(f"    ✅  Selected {len(selected)} relevant articles.")
+                return selected[:5]
+        except Exception as exc:
+            if attempt == 2: print(f"    ⚠️   Relevant news selection failed: {exc}")
+            time.sleep(1)
+
+    return articles[:5]
+
 
 def summarise_articles(articles: list[dict], cfg: dict) -> list[dict]:
     """Extract summaries and full text for articles using peek_deck core metadata extractor."""
@@ -1140,7 +1338,7 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
 
 
 
-def render_html(articles: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], digest: dict, cfg: dict) -> str:
+def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], digest: dict, cfg: dict) -> str:
     env = Environment(autoescape=True)
     
     def _safe_tojson(d):
@@ -1372,6 +1570,9 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% if cfg.gdelt_tracker.enabled %}
     <button class="tab-btn" onclick="switchTab('gdelt', this)">🌍 GDELT Events</button>
     {% endif %}
+    {% if refinery_data %}
+    <button class="tab-btn" onclick="switchTab('refinery', this)">🏭 Refinery Attacks</button>
+    {% endif %}
   </div>
 
   <div id="newsTab" class="tab-content active">
@@ -1417,6 +1618,20 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
 
     <div class="main-grid">
       <div>
+        {% if relevant_news %}
+        <div class="widget" style="background: var(--surface); border: 1px solid var(--border); margin-bottom: 24px;">
+          <div class="widget-title" style="color: var(--accent); border-bottom: 1px solid var(--accent); margin-bottom: 15px;">🔥 Top Stories (Selected by AI)</div>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px;">
+            {% for art in relevant_news %}
+            <div style="border-left: 2px solid var(--accent); padding-left: 12px;">
+              <div style="font-size: 10px; color: var(--muted);">{{ art.source }} · {{ art.published.split('·')[0] }}</div>
+              <div style="font-family: var(--font-head); font-size: 13px; font-weight: 600; margin-top: 4px;"><a href="{{ art.url }}" target="_blank" style="color: inherit; text-decoration: none;">{{ art.title }}</a></div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
         <div class="digest-card">
           <h2>📊 Daily Intelligence Summary</h2>
           <p class="digest-text">{{ digest.digest }}</p>
@@ -1657,6 +1872,39 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
   </div>
   {% endif %}
 
+  {% if refinery_data %}
+  <div id="refineryTab" class="tab-content">
+    <div class="hourly-section">
+      <div class="section-header">
+        <div class="section-title">🏭 Refinery Attacks — Timeline Map</div>
+        <div class="search-wrap" style="margin-left: 20px;">
+          <input type="text" id="refinerySearch" placeholder="Filter facilities…" oninput="filterRefineries()" style="background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius); padding: 6px 12px; font-size: 12px; outline: none; width: 220px;" />
+        </div>
+      </div>
+      <div class="main-grid" style="grid-template-columns: 1fr 340px;">
+        <div class="hourly-card" style="padding: 0; overflow: hidden; height: 700px; position: relative;">
+          <div id="refinery-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
+        </div>
+        <aside class="sidebar hide-mobile">
+          <div class="widget">
+            <div class="widget-title">Affected Facilities ({{ refinery_data | length }})</div>
+            <div id="refineryList" style="max-height: 640px; overflow-y: auto;">
+              {% for ref in refinery_data %}
+              <div class="article-card refinery-item" data-name="{{ ref.name | lower }}" style="padding: 12px; margin-bottom: 8px; cursor: pointer;" onclick="focusRefinery({{ ref.lat }}, {{ ref.lon }}, '{{ ref.name }}')">
+                <div class="card-title" style="font-size: 13px;">{{ ref.name }}</div>
+                <div class="card-meta">
+                  <span class="card-source">{{ ref.events | length }} Attacks Detected</span>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
   <footer>
     {{ title }} · Summaries via {{ model }} · {{ generated_at }}
   </footer>
@@ -1679,9 +1927,12 @@ const INTRADAY_DATA = {{ hourly_commodities | tojson }};
 const FULL_TRADE_DATA = {{ trade_data | tojson }};
 const FULL_MISSILE_DATA = {{ missile_data | tojson }};
 const FULL_AIS_DATA = {{ ais_data | tojson }};
+const FULL_REFINERY_DATA = {{ refinery_data | tojson }};
 
 let map = null;
+let refineryMap = null;
 let shipMarkers = [];
+let refineryMarkers = [];
 
 function initMap() {
   if (map) return;
@@ -1708,6 +1959,83 @@ function initMap() {
       
       marker.bindPopup(`<b>${ship.name || 'Unknown'}</b><br>MMSI: ${ship.mmsi}<br>Type: ${ship.type}<br>Pos: ${ship.lat.toFixed(4)}, ${ship.lon.toFixed(4)}`);
       shipMarkers.push({mmsi: ship.mmsi, marker: marker});
+    }
+  });
+}
+
+function initRefineryMap() {
+  if (refineryMap) return;
+  
+  refineryMap = L.map('refinery-map').setView([27.0, 50.0], 5);
+  
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 20
+  }).addTo(refineryMap);
+
+  FULL_REFINERY_DATA.forEach(ref => {
+    if (ref.lat && ref.lon) {
+      const marker = L.circleMarker([ref.lat, ref.lon], {
+        radius: 8,
+        fillColor: "#ef4444",
+        color: "#fff",
+        weight: 2,
+        opacity: 1,
+        fillOpacity: 0.8
+      }).addTo(refineryMap);
+      
+      let timelineHtml = `<div style="max-height: 300px; overflow-y: auto; color: #fff; background: #111620; padding: 10px; border-radius: 4px; font-family: sans-serif; min-width: 250px;">`;
+      timelineHtml += `<h3 style="margin-top: 0; color: #ef4444; border-bottom: 1px solid #1e2a3a; padding-bottom: 5px;">${ref.name}</h3>`;
+      
+      ref.events.forEach(event => {
+        timelineHtml += `<div style="margin-bottom: 15px; border-left: 2px solid #ef4444; padding-left: 10px;">`;
+        timelineHtml += `<div style="font-weight: bold; font-size: 11px; color: #5a7090;">${event.date}</div>`;
+        timelineHtml += `<div style="font-size: 13px; line-height: 1.4; margin-top: 4px;">${event.description}</div>`;
+        timelineHtml += `</div>`;
+      });
+      
+      timelineHtml += `</div>`;
+      
+      marker.bindPopup(timelineHtml, { maxWidth: 350 });
+      refineryMarkers.push({name: ref.name, marker: marker});
+    }
+  });
+}
+
+function focusRefinery(lat, lon, name) {
+  if (refineryMap && lat && lon) {
+    refineryMap.setView([lat, lon], 10);
+    const refMarker = refineryMarkers.find(m => m.name === name);
+    if (refMarker) {
+      refMarker.marker.openPopup();
+    }
+  }
+}
+
+function filterRefineries() {
+  const query = document.getElementById('refinerySearch').value.toLowerCase();
+  
+  // Filter sidebar list
+  document.querySelectorAll('.refinery-item').forEach(item => {
+    const name = item.dataset.name;
+    if (name.includes(query)) {
+      item.style.display = 'block';
+    } else {
+      item.style.display = 'none';
+    }
+  });
+  
+  // Filter map markers
+  refineryMarkers.forEach(item => {
+    if (item.name.toLowerCase().includes(query)) {
+      if (!refineryMap.hasLayer(item.marker)) {
+        refineryMap.addLayer(item.marker);
+      }
+    } else {
+      if (refineryMap.hasLayer(item.marker)) {
+        refineryMap.removeLayer(item.marker);
+      }
     }
   });
 }
@@ -1804,11 +2132,14 @@ function switchTab(tabName, btn) {
   content.classList.add('active');
   btn.classList.add('active');
   
-  if (tabName === 'markets' || tabName === 'trade' || tabName === 'maritime') {
+  if (tabName === 'markets' || tabName === 'trade' || tabName === 'maritime' || tabName === 'refinery') {
     window.dispatchEvent(new Event('resize'));
   }
   if (tabName === 'maritime') {
     setTimeout(initMap, 100);
+  }
+  if (tabName === 'refinery') {
+    setTimeout(initRefineryMap, 100);
   }
   if (tabName === 'missile') {
     setTimeout(function() {
@@ -2458,9 +2789,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </body>
 </html>
 """
-
-    safe_missile_data = missile_data
-
     tmpl_html = env.from_string(template_content)
     
     raw_dates = sorted(list(set(a["pub_date"] for a in articles if a.get("pub_date"))), reverse=True)
@@ -2494,17 +2822,19 @@ document.addEventListener('DOMContentLoaded', function() {
         period=dash["period"],
         generated_at=f"{datetime.now(timezone.utc).strftime('%b %d, %Y · %H:%M UTC')} / {(datetime.now(timezone.utc) - timedelta(hours=3)).strftime('%H:%M BRT')}",
         articles=articles,
+        relevant_news=relevant_news,
         commodities=commodities,
         hourly_commodities=intraday_commodities,
         trade_data=trade_data,
-        missile_data=safe_missile_data,
+        missile_data=missile_data,
         ais_data=ais_data,
         gdelt_data=gdelt_data,
+        refinery_data=refinery_data,
         digest=digest,
         sentiment_counts=sentiment_counts,
         all_tags=top_tags,
         unique_dates=unique_dates,
-        model=f"{cfg['llm'].get('digest_model', 'N/A')} & {cfg['llm'].get('watch_model', 'N/A')}" if cfg["llm"].get("enabled", True) else "Metadata Extraction",
+        model=f"{cfg['llm'].get('digest_model', 'N/A')} & {cfg['llm'].get('watch_model', 'N/A')} & {cfg['llm'].get('relevant_news_model', 'N/A')}" if cfg["llm"].get("enabled", True) else "Metadata Extraction",
         theme=cfg["output"]["theme"],
         cfg=cfg
     )
@@ -2520,10 +2850,11 @@ def main():
     cfg = load_config(args.config)
     dash = cfg["dashboard"]
 
-    print(f"\\n📰  News Dashboard Pipeline: {dash['title']}")
+    print(f"\n📰  News Dashboard Pipeline: {dash['title']}")
     
     print("⏳  Step 1: Fetching recent news (current + previous day)...")
-    recent_articles = fetch_articles(cfg, period="2d", max_articles=dash["max_articles_recent"])
+    # Fetch a bit more to allow selection of top 5
+    recent_articles = fetch_articles(cfg, period="2d", max_articles=max(20, dash["max_articles_recent"]))
     
     today_dt = datetime.now(timezone.utc).date()
     digest_dates = [(today_dt - timedelta(days=i)).isoformat() for i in range(2)]
@@ -2551,26 +2882,30 @@ def main():
     missile_data = fetch_missile_tracker_data(cfg)
     ais_data = fetch_ais_data(cfg)
     gdelt_data = fetch_gdelt_data(cfg)
+    refinery_data = fetch_refinery_attacks_data(cfg)
 
-    print(f"\\n📸  Extracting news previews...")
+    print(f"\n📸  Extracting news previews...")
     articles = summarise_articles(articles, cfg)
 
+    relevant_news = []
     if cfg["llm"].get("enabled", True):
         articles = categorize_sentiment(articles, cfg)
-
         digest = generate_digest(llama_context_articles, commodities, cfg)
+        
+        # New Step: Select Top 5 Relevant News from recent articles
+        relevant_news = select_relevant_news(llama_context_articles, cfg)
     else:
-        print("\\n🚫  AI generated features (sentiment, digest) are disabled in config.")
+        print("\n🚫  AI generated features (sentiment, digest, relevant news) are disabled in config.")
         digest = {
             "digest": "AI generated digest is disabled in the configuration.",
             "top_themes": [],
             "next_events": []
         }
 
-    print("\\n🎨  Rendering HTML dashboard…")
+    print("\n🎨  Rendering HTML dashboard…")
     out_path = Path(cfg["output"]["filename"])
     
-    html = render_html(articles, commodities, intraday_commodities, trade_data, missile_data, ais_data, gdelt_data, digest, cfg)
+    html = render_html(articles, relevant_news, commodities, intraday_commodities, trade_data, missile_data, ais_data, gdelt_data, refinery_data, digest, cfg)
     
     out_path.write_text(html, encoding="utf-8")
     

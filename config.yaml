@@ -27,7 +27,7 @@ dashboard:
 
 llm:
   enabled: true                                  # [OPTIONAL] Set to false to disable AI generated features
-  digest_model: "gemini-2.5-flash"               # Gemini model for digest
+  digest_model: "gemini-3.1-flash-lite-preview"               # Gemini model for digest
   watch_model: "gemini-3.1-flash-lite-preview"               # Gemini model for 'things to watch'
   relevant_news_model: "gemini-2.5-flash-lite"           # Gemini model for most relevant news selection
   sentiment_model: "llama-3.3-70b-versatile"     # Use "llama-3.3-70b-versatile" for Groq OR "grok-2-1212" for xAI

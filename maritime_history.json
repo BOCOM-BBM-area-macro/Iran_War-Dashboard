@@ -115,5 +115,36 @@
         "timestamp": "11:15:22 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-10T12:04:26.366509+00:00",
+    "readable_time": "2026-04-10 12:04:26 UTC",
+    "vessel_count": 3,
+    "vessels": [
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.20804,
+        "lon": 55.20474,
+        "type": "Unknown",
+        "timestamp": "12:03:40 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18572,
+        "lon": 55.22176,
+        "type": "Unknown",
+        "timestamp": "12:03:53 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470009199,
+        "lat": 25.19255,
+        "lon": 55.21146,
+        "type": "Unknown",
+        "timestamp": "12:03:57 UTC"
+      }
+    ]
   }
 ]

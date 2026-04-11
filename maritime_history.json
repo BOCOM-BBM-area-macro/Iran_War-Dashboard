@@ -378,5 +378,20 @@
         "timestamp": "06:44:05 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-11T07:41:44.072488+00:00",
+    "readable_time": "2026-04-11 07:41:44 UTC",
+    "vessel_count": 1,
+    "vessels": [
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.2621,
+        "lon": 55.27407,
+        "type": "Unknown",
+        "timestamp": "07:41:21 UTC"
+      }
+    ]
   }
 ]

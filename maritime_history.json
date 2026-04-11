@@ -508,5 +508,20 @@
     "readable_time": "2026-04-11 14:54:28 UTC",
     "vessel_count": 0,
     "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-11T15:38:08.012170+00:00",
+    "readable_time": "2026-04-11 15:38:08 UTC",
+    "vessel_count": 1,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 470229000,
+        "lat": 25.26188,
+        "lon": 55.27408,
+        "type": "Unknown",
+        "timestamp": "15:37:20 UTC"
+      }
+    ]
   }
 ]

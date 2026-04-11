@@ -332,5 +332,36 @@
         "timestamp": "04:35:27 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-11T05:48:37.943498+00:00",
+    "readable_time": "2026-04-11 05:48:37 UTC",
+    "vessel_count": 3,
+    "vessels": [
+      {
+        "name": "TOPAZ AMUR",
+        "mmsi": 538007319,
+        "lat": 25.24653,
+        "lon": 55.26411,
+        "type": "Unknown",
+        "timestamp": "05:47:43 UTC"
+      },
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "05:47:46 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26188,
+        "lon": 55.27382,
+        "type": "Unknown",
+        "timestamp": "05:48:05 UTC"
+      }
+    ]
   }
 ]

@@ -556,5 +556,28 @@
         "timestamp": "19:04:30 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-11T19:49:42.862487+00:00",
+    "readable_time": "2026-04-11 19:49:42 UTC",
+    "vessel_count": 2,
+    "vessels": [
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "19:48:50 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26223,
+        "lon": 55.27378,
+        "type": "Unknown",
+        "timestamp": "19:49:21 UTC"
+      }
+    ]
   }
 ]

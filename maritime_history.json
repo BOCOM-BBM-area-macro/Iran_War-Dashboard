@@ -301,5 +301,36 @@
         "timestamp": "02:34:08 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-11T04:36:12.864683+00:00",
+    "readable_time": "2026-04-11 04:36:12 UTC",
+    "vessel_count": 3,
+    "vessels": [
+      {
+        "name": "MERCURY LUCKY",
+        "mmsi": 630001218,
+        "lat": 25.73332,
+        "lon": 54.8167,
+        "type": "Unknown",
+        "timestamp": "04:35:20 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26192,
+        "lon": 55.27378,
+        "type": "Unknown",
+        "timestamp": "04:35:23 UTC"
+      },
+      {
+        "name": "TOPAZ AMUR",
+        "mmsi": 538007319,
+        "lat": 25.24689,
+        "lon": 55.26337,
+        "type": "Unknown",
+        "timestamp": "04:35:27 UTC"
+      }
+    ]
   }
 ]

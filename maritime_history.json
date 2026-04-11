@@ -579,5 +579,28 @@
         "timestamp": "19:49:21 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-11T20:18:16.907419+00:00",
+    "readable_time": "2026-04-11 20:18:16 UTC",
+    "vessel_count": 2,
+    "vessels": [
+      {
+        "name": "TOPAZ AMUR",
+        "mmsi": 538007319,
+        "lat": 25.24658,
+        "lon": 55.26397,
+        "type": "Unknown",
+        "timestamp": "20:17:34 UTC"
+      },
+      {
+        "name": "AL JAMOH",
+        "mmsi": 471164000,
+        "lat": 25.00574,
+        "lon": 54.72994,
+        "type": "Unknown",
+        "timestamp": "20:18:00 UTC"
+      }
+    ]
   }
 ]

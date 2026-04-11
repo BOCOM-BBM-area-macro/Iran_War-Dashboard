@@ -437,5 +437,28 @@
         "timestamp": "10:00:28 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-11T10:51:04.449551+00:00",
+    "readable_time": "2026-04-11 10:51:04 UTC",
+    "vessel_count": 2,
+    "vessels": [
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "10:50:05 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470229000,
+        "lat": 25.26195,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "10:50:11 UTC"
+      }
+    ]
   }
 ]

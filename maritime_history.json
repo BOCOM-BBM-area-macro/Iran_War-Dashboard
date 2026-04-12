@@ -699,5 +699,212 @@
         "timestamp": "00:05:03 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T03:45:46.763699+00:00",
+    "readable_time": "2026-04-12 03:45:46 UTC",
+    "vessel_count": 25,
+    "vessels": [
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.19881,
+        "lon": 55.20947,
+        "type": "Unknown",
+        "timestamp": "03:44:48 UTC"
+      },
+      {
+        "name": "WAN HAI A07",
+        "mmsi": 563170300,
+        "lat": 25.83171,
+        "lon": 54.84429,
+        "type": "Unknown",
+        "timestamp": "03:44:49 UTC"
+      },
+      {
+        "name": "TOPAZ VOLGA",
+        "mmsi": 538007324,
+        "lat": 25.37583,
+        "lon": 55.05388,
+        "type": "Unknown",
+        "timestamp": "03:44:50 UTC"
+      },
+      {
+        "name": "NASHWAN",
+        "mmsi": 470111111,
+        "lat": 25.20914,
+        "lon": 55.23463,
+        "type": "Unknown",
+        "timestamp": "03:44:51 UTC"
+      },
+      {
+        "name": "MARINE CHARGE",
+        "mmsi": 563180700,
+        "lat": 25.37522,
+        "lon": 55.07368,
+        "type": "Unknown",
+        "timestamp": "03:44:51 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.17853,
+        "lon": 55.21344,
+        "type": "Unknown",
+        "timestamp": "03:44:59 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.265,
+        "lon": 55.27569,
+        "type": "Unknown",
+        "timestamp": "03:45:01 UTC"
+      },
+      {
+        "name": "HADI 50",
+        "mmsi": 408890000,
+        "lat": 25.27358,
+        "lon": 55.26003,
+        "type": "Unknown",
+        "timestamp": "03:45:02 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17828,
+        "lon": 55.21288,
+        "type": "Unknown",
+        "timestamp": "03:45:03 UTC"
+      },
+      {
+        "name": "DELTA 22",
+        "mmsi": 352006511,
+        "lat": 25.26774,
+        "lon": 55.26029,
+        "type": "Unknown",
+        "timestamp": "03:45:03 UTC"
+      },
+      {
+        "name": "BROTHER GLORY",
+        "mmsi": 352978126,
+        "lat": 25.64455,
+        "lon": 55.13629,
+        "type": "Unknown",
+        "timestamp": "03:45:08 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.1965,
+        "lon": 55.21181,
+        "type": "Unknown",
+        "timestamp": "03:45:10 UTC"
+      },
+      {
+        "name": "PLATINUM",
+        "mmsi": 319187800,
+        "lat": 25.2621,
+        "lon": 55.27467,
+        "type": "Unknown",
+        "timestamp": "03:45:10 UTC"
+      },
+      {
+        "name": "RAZEEN1",
+        "mmsi": 470014000,
+        "lat": 25.41977,
+        "lon": 54.92103,
+        "type": "Unknown",
+        "timestamp": "03:45:11 UTC"
+      },
+      {
+        "name": "W KITHIRA",
+        "mmsi": 538009144,
+        "lat": 25.41753,
+        "lon": 55.06378,
+        "type": "Unknown",
+        "timestamp": "03:45:15 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18703,
+        "lon": 55.22127,
+        "type": "Unknown",
+        "timestamp": "03:45:15 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 750907000,
+        "lat": 25.71264,
+        "lon": 55.07756,
+        "type": "Unknown",
+        "timestamp": "03:45:17 UTC"
+      },
+      {
+        "name": "SARV SHAKTI",
+        "mmsi": 538005632,
+        "lat": 25.43185,
+        "lon": 55.04766,
+        "type": "Unknown",
+        "timestamp": "03:45:18 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26512,
+        "lon": 55.26009,
+        "type": "Unknown",
+        "timestamp": "03:45:44 UTC"
+      },
+      {
+        "name": "AL JAMOH",
+        "mmsi": 471164000,
+        "lat": 25.17316,
+        "lon": 55.20687,
+        "type": "Unknown",
+        "timestamp": "03:45:25 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26473,
+        "lon": 55.26029,
+        "type": "Unknown",
+        "timestamp": "03:45:26 UTC"
+      },
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "03:45:31 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 419002024,
+        "lat": 25.49779,
+        "lon": 55.07958,
+        "type": "Unknown",
+        "timestamp": "03:45:39 UTC"
+      },
+      {
+        "name": "BLISS",
+        "mmsi": 319065700,
+        "lat": 25.21046,
+        "lon": 55.23387,
+        "type": "Unknown",
+        "timestamp": "03:45:42 UTC"
+      },
+      {
+        "name": "MUBARAK 241",
+        "mmsi": 471068000,
+        "lat": 25.26184,
+        "lon": 55.26047,
+        "type": "Unknown",
+        "timestamp": "03:45:46 UTC"
+      }
+    ]
   }
 ]

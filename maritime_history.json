@@ -2792,5 +2792,92 @@
         "timestamp": "14:24:13 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T15:07:59.435181+00:00",
+    "readable_time": "2026-04-12 15:07:59 UTC",
+    "vessel_count": 10,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.1992,
+        "lon": 55.2105,
+        "type": "Unknown",
+        "timestamp": "15:07:15 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18677,
+        "lon": 55.22106,
+        "type": "Unknown",
+        "timestamp": "15:07:16 UTC"
+      },
+      {
+        "name": "SSL KAVERI",
+        "mmsi": 419001812,
+        "lat": 25.4752,
+        "lon": 55.2738,
+        "type": "Unknown",
+        "timestamp": "15:07:19 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.17342,
+        "lon": 55.21045,
+        "type": "Unknown",
+        "timestamp": "15:07:22 UTC"
+      },
+      {
+        "name": "COASTAL VICTORY",
+        "mmsi": 244811000,
+        "lat": 25.19014,
+        "lon": 55.21502,
+        "type": "Unknown",
+        "timestamp": "15:07:23 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.16998,
+        "lon": 55.19457,
+        "type": "Unknown",
+        "timestamp": "15:07:26 UTC"
+      },
+      {
+        "name": "COASTAL RANGER",
+        "mmsi": 246515000,
+        "lat": 25.19028,
+        "lon": 55.21309,
+        "type": "Unknown",
+        "timestamp": "15:07:29 UTC"
+      },
+      {
+        "name": "YAN DANG SHAN",
+        "mmsi": 538007453,
+        "lat": 25.42248,
+        "lon": 55.06082,
+        "type": "Unknown",
+        "timestamp": "15:07:37 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 563180700,
+        "lat": 25.37587,
+        "lon": 55.07627,
+        "type": "Unknown",
+        "timestamp": "15:07:38 UTC"
+      },
+      {
+        "name": "SK MAINSTAY",
+        "mmsi": 376506000,
+        "lat": 25.26901,
+        "lon": 55.26038,
+        "type": "Unknown",
+        "timestamp": "15:07:40 UTC"
+      }
+    ]
   }
 ]

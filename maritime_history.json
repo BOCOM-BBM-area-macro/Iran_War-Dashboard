@@ -3030,5 +3030,100 @@
         "timestamp": "15:52:22 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T16:44:23.830811+00:00",
+    "readable_time": "2026-04-12 16:44:23 UTC",
+    "vessel_count": 11,
+    "vessels": [
+      {
+        "name": "TOPAZ AMUR",
+        "mmsi": 538007319,
+        "lat": 25.24655,
+        "lon": 55.2641,
+        "type": "Unknown",
+        "timestamp": "16:43:22 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26502,
+        "lon": 55.2757,
+        "type": "Unknown",
+        "timestamp": "16:43:24 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470010441,
+        "lat": 25.19591,
+        "lon": 55.20349,
+        "type": "Unknown",
+        "timestamp": "16:43:27 UTC"
+      },
+      {
+        "name": "FESCO ASKOLD",
+        "mmsi": 667022351,
+        "lat": 25.40398,
+        "lon": 55.0937,
+        "type": "Unknown",
+        "timestamp": "16:43:29 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.19913,
+        "lon": 55.21048,
+        "type": "Unknown",
+        "timestamp": "16:43:33 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17123,
+        "lon": 55.19624,
+        "type": "Unknown",
+        "timestamp": "16:43:35 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26193,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "16:43:38 UTC"
+      },
+      {
+        "name": "W KITHIRA",
+        "mmsi": 538009144,
+        "lat": 25.41623,
+        "lon": 55.06729,
+        "type": "Unknown",
+        "timestamp": "16:44:01 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26513,
+        "lon": 55.26008,
+        "type": "Unknown",
+        "timestamp": "16:44:04 UTC"
+      },
+      {
+        "name": "VOLVOX OLYMPIA",
+        "mmsi": 419002003,
+        "lat": 25.16752,
+        "lon": 55.18407,
+        "type": "Unknown",
+        "timestamp": "16:44:12 UTC"
+      },
+      {
+        "name": "OCEAN CLEVER",
+        "mmsi": 377709000,
+        "lat": 25.27037,
+        "lon": 55.26027,
+        "type": "Unknown",
+        "timestamp": "16:44:13 UTC"
+      }
+    ]
   }
 ]

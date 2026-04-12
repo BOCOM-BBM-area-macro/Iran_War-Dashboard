@@ -3379,5 +3379,108 @@
         "timestamp": "18:03:35 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T19:08:02.126888+00:00",
+    "readable_time": "2026-04-12 19:08:02 UTC",
+    "vessel_count": 12,
+    "vessels": [
+      {
+        "name": "STANFORD HAWK",
+        "mmsi": 376955000,
+        "lat": 25.27264,
+        "lon": 55.25964,
+        "type": "Unknown",
+        "timestamp": "19:07:02 UTC"
+      },
+      {
+        "name": "NASHWAN",
+        "mmsi": 470111111,
+        "lat": 25.20916,
+        "lon": 55.23463,
+        "type": "Unknown",
+        "timestamp": "19:07:08 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17026,
+        "lon": 55.19448,
+        "type": "Unknown",
+        "timestamp": "19:07:11 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.17237,
+        "lon": 55.21063,
+        "type": "Unknown",
+        "timestamp": "19:07:15 UTC"
+      },
+      {
+        "name": "PLATINUM",
+        "mmsi": 319187800,
+        "lat": 25.2623,
+        "lon": 55.27462,
+        "type": "Unknown",
+        "timestamp": "19:07:19 UTC"
+      },
+      {
+        "name": "BLUESHARK 14",
+        "mmsi": 470010441,
+        "lat": 25.16767,
+        "lon": 55.19818,
+        "type": "Unknown",
+        "timestamp": "19:07:22 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26192,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "19:07:34 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17241,
+        "lon": 55.21016,
+        "type": "Unknown",
+        "timestamp": "19:07:38 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 341256002,
+        "lat": 25.27499,
+        "lon": 55.25867,
+        "type": "Unknown",
+        "timestamp": "19:07:38 UTC"
+      },
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "19:07:39 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 370088000,
+        "lat": 25.26515,
+        "lon": 55.2601,
+        "type": "Unknown",
+        "timestamp": "19:07:40 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26504,
+        "lon": 55.27568,
+        "type": "Unknown",
+        "timestamp": "19:07:43 UTC"
+      }
+    ]
   }
 ]

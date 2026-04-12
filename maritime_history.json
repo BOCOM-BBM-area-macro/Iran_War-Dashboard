@@ -3821,5 +3821,52 @@
         "timestamp": "21:56:25 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T22:39:07.391292+00:00",
+    "readable_time": "2026-04-12 22:39:07 UTC",
+    "vessel_count": 5,
+    "vessels": [
+      {
+        "name": "DUBAI SHADOW",
+        "mmsi": 470890000,
+        "lat": 25.26907,
+        "lon": 55.27517,
+        "type": "Unknown",
+        "timestamp": "22:38:06 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20462,
+        "lon": 55.17129,
+        "type": "Unknown",
+        "timestamp": "22:38:31 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.17076,
+        "lon": 55.20448,
+        "type": "Unknown",
+        "timestamp": "22:38:32 UTC"
+      },
+      {
+        "name": "BLUE SHARK 13",
+        "mmsi": 470009199,
+        "lat": 25.1847,
+        "lon": 55.21248,
+        "type": "Unknown",
+        "timestamp": "22:38:35 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 370088000,
+        "lat": 25.26517,
+        "lon": 55.26008,
+        "type": "Unknown",
+        "timestamp": "22:38:53 UTC"
+      }
+    ]
   }
 ]

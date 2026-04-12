@@ -2879,5 +2879,156 @@
         "timestamp": "15:07:40 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T15:52:26.441846+00:00",
+    "readable_time": "2026-04-12 15:52:26 UTC",
+    "vessel_count": 18,
+    "vessels": [
+      {
+        "name": "RAWABI 43",
+        "mmsi": 572532220,
+        "lat": 25.26993,
+        "lon": 55.26065,
+        "type": "Unknown",
+        "timestamp": "15:51:26 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470132000,
+        "lat": 25.1735,
+        "lon": 55.21078,
+        "type": "Unknown",
+        "timestamp": "15:51:37 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470018000,
+        "lat": 25.26159,
+        "lon": 55.27296,
+        "type": "Unknown",
+        "timestamp": "15:51:40 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636022731,
+        "lat": 25.26796,
+        "lon": 55.2601,
+        "type": "Unknown",
+        "timestamp": "15:51:43 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 235083529,
+        "lat": 25.17138,
+        "lon": 55.19622,
+        "type": "Unknown",
+        "timestamp": "15:51:44 UTC"
+      },
+      {
+        "name": "LEGENDE",
+        "mmsi": 232032637,
+        "lat": 25.20927,
+        "lon": 55.23496,
+        "type": "Unknown",
+        "timestamp": "15:51:44 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26517,
+        "lon": 55.2601,
+        "type": "Unknown",
+        "timestamp": "15:51:51 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 352006511,
+        "lat": 25.26773,
+        "lon": 55.26036,
+        "type": "Unknown",
+        "timestamp": "15:51:53 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18659,
+        "lon": 55.22107,
+        "type": "Unknown",
+        "timestamp": "15:51:55 UTC"
+      },
+      {
+        "name": "NASHWAN",
+        "mmsi": 470111111,
+        "lat": 25.20914,
+        "lon": 55.23464,
+        "type": "Unknown",
+        "timestamp": "15:51:56 UTC"
+      },
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "15:51:58 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470010441,
+        "lat": 25.17959,
+        "lon": 55.21549,
+        "type": "Unknown",
+        "timestamp": "15:52:04 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.19904,
+        "lon": 55.21042,
+        "type": "Unknown",
+        "timestamp": "15:52:04 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26193,
+        "lon": 55.27388,
+        "type": "Unknown",
+        "timestamp": "15:52:08 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 244030951,
+        "lat": 25.17822,
+        "lon": 55.21295,
+        "type": "Unknown",
+        "timestamp": "15:52:08 UTC"
+      },
+      {
+        "name": "Z",
+        "mmsi": 319062900,
+        "lat": 25.26211,
+        "lon": 55.27538,
+        "type": "Unknown",
+        "timestamp": "15:52:13 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636022785,
+        "lat": 25.35801,
+        "lon": 55.04328,
+        "type": "Unknown",
+        "timestamp": "15:52:18 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470000000,
+        "lat": 25.17341,
+        "lon": 55.21047,
+        "type": "Unknown",
+        "timestamp": "15:52:22 UTC"
+      }
+    ]
   }
 ]

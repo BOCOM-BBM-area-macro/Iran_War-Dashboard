@@ -2315,5 +2315,180 @@
         "timestamp": "11:38:03 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T12:03:56.901280+00:00",
+    "readable_time": "2026-04-12 12:03:56 UTC",
+    "vessel_count": 21,
+    "vessels": [
+      {
+        "name": "COASTAL VICTORY",
+        "mmsi": 244811000,
+        "lat": 25.18537,
+        "lon": 55.18714,
+        "type": "Unknown",
+        "timestamp": "12:03:01 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17739,
+        "lon": 55.20295,
+        "type": "Unknown",
+        "timestamp": "12:03:02 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26516,
+        "lon": 55.26013,
+        "type": "Unknown",
+        "timestamp": "12:03:05 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 319029600,
+        "lat": 25.26187,
+        "lon": 55.27571,
+        "type": "Unknown",
+        "timestamp": "12:03:06 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17154,
+        "lon": 55.19569,
+        "type": "Unknown",
+        "timestamp": "12:03:09 UTC"
+      },
+      {
+        "name": "VALIANT VORTEX",
+        "mmsi": 636023712,
+        "lat": 25.26859,
+        "lon": 55.25764,
+        "type": "Unknown",
+        "timestamp": "12:03:12 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26507,
+        "lon": 55.27572,
+        "type": "Unknown",
+        "timestamp": "12:03:17 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 413563030,
+        "lat": 25.4298,
+        "lon": 55.07134,
+        "type": "Unknown",
+        "timestamp": "12:03:21 UTC"
+      },
+      {
+        "name": "RAWABI 61",
+        "mmsi": 572584220,
+        "lat": 25.27274,
+        "lon": 55.25999,
+        "type": "Unknown",
+        "timestamp": "12:03:24 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26478,
+        "lon": 55.26027,
+        "type": "Unknown",
+        "timestamp": "12:03:24 UTC"
+      },
+      {
+        "name": "RAWABI 43",
+        "mmsi": 572532220,
+        "lat": 25.27002,
+        "lon": 55.26065,
+        "type": "Unknown",
+        "timestamp": "12:03:27 UTC"
+      },
+      {
+        "name": "ZAYA DIAMOND",
+        "mmsi": 470347000,
+        "lat": 25.25377,
+        "lon": 55.17365,
+        "type": "Unknown",
+        "timestamp": "12:03:30 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18694,
+        "lon": 55.22111,
+        "type": "Unknown",
+        "timestamp": "12:03:32 UTC"
+      },
+      {
+        "name": "RAWABI 5",
+        "mmsi": 403283690,
+        "lat": 25.33105,
+        "lon": 55.16194,
+        "type": "Unknown",
+        "timestamp": "12:03:34 UTC"
+      },
+      {
+        "name": "MONJASA SHAKER",
+        "mmsi": 636020734,
+        "lat": 25.26814,
+        "lon": 55.25744,
+        "type": "Unknown",
+        "timestamp": "12:03:35 UTC"
+      },
+      {
+        "name": "LEGENDE",
+        "mmsi": 232032637,
+        "lat": 25.20933,
+        "lon": 55.23496,
+        "type": "Unknown",
+        "timestamp": "12:03:43 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20468,
+        "lon": 55.1713,
+        "type": "Unknown",
+        "timestamp": "12:03:47 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.17635,
+        "lon": 55.20408,
+        "type": "Unknown",
+        "timestamp": "12:03:49 UTC"
+      },
+      {
+        "name": "STANFORD HAWK",
+        "mmsi": 376955000,
+        "lat": 25.27267,
+        "lon": 55.25959,
+        "type": "Unknown",
+        "timestamp": "12:03:51 UTC"
+      },
+      {
+        "name": "MUBARAK 241",
+        "mmsi": 471068000,
+        "lat": 25.2617,
+        "lon": 55.26067,
+        "type": "Unknown",
+        "timestamp": "12:03:54 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.19978,
+        "lon": 55.21047,
+        "type": "Unknown",
+        "timestamp": "12:03:56 UTC"
+      }
+    ]
   }
 ]

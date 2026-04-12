@@ -1336,5 +1336,268 @@
         "timestamp": "07:01:14 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T08:08:57.479939+00:00",
+    "readable_time": "2026-04-12 08:08:57 UTC",
+    "vessel_count": 32,
+    "vessels": [
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.2049,
+        "lon": 55.17131,
+        "type": "Unknown",
+        "timestamp": "08:07:57 UTC"
+      },
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "08:08:03 UTC"
+      },
+      {
+        "name": "PACIFIC 38",
+        "mmsi": 352005674,
+        "lat": 25.38439,
+        "lon": 55.1044,
+        "type": "Unknown",
+        "timestamp": "08:08:06 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26502,
+        "lon": 55.27569,
+        "type": "Unknown",
+        "timestamp": "08:08:06 UTC"
+      },
+      {
+        "name": "RAWABI 43",
+        "mmsi": 572532220,
+        "lat": 25.26995,
+        "lon": 55.26065,
+        "type": "Unknown",
+        "timestamp": "08:08:09 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.17535,
+        "lon": 55.20106,
+        "type": "Unknown",
+        "timestamp": "08:08:14 UTC"
+      },
+      {
+        "name": "HOKKAIDO",
+        "mmsi": 352006069,
+        "lat": 25.53707,
+        "lon": 54.96576,
+        "type": "Unknown",
+        "timestamp": "08:08:14 UTC"
+      },
+      {
+        "name": "TRANSSHELF",
+        "mmsi": 306704000,
+        "lat": 25.47595,
+        "lon": 55.20883,
+        "type": "Unknown",
+        "timestamp": "08:08:15 UTC"
+      },
+      {
+        "name": "VALIANT VORTEX",
+        "mmsi": 636023712,
+        "lat": 25.26854,
+        "lon": 55.25764,
+        "type": "Unknown",
+        "timestamp": "08:08:16 UTC"
+      },
+      {
+        "name": "CHI QIANG CHENG XING",
+        "mmsi": 352004383,
+        "lat": 25.57934,
+        "lon": 55.03611,
+        "type": "Unknown",
+        "timestamp": "08:08:18 UTC"
+      },
+      {
+        "name": "BUNUN MIRACLE",
+        "mmsi": 374448000,
+        "lat": 25.34342,
+        "lon": 54.90901,
+        "type": "Unknown",
+        "timestamp": "08:08:18 UTC"
+      },
+      {
+        "name": "ZAYA DIAMOND",
+        "mmsi": 470347000,
+        "lat": 25.25372,
+        "lon": 55.17363,
+        "type": "Unknown",
+        "timestamp": "08:08:18 UTC"
+      },
+      {
+        "name": "GERTRUDE OLDENDORFF",
+        "mmsi": 255805809,
+        "lat": 25.64176,
+        "lon": 54.99058,
+        "type": "Unknown",
+        "timestamp": "08:08:20 UTC"
+      },
+      {
+        "name": "CMA CGM MANAUS",
+        "mmsi": 419002024,
+        "lat": 25.447,
+        "lon": 55.04744,
+        "type": "Unknown",
+        "timestamp": "08:08:22 UTC"
+      },
+      {
+        "name": "GMS CONTINUITY",
+        "mmsi": 636022731,
+        "lat": 25.26791,
+        "lon": 55.26007,
+        "type": "Unknown",
+        "timestamp": "08:08:23 UTC"
+      },
+      {
+        "name": "COASTAL VICTORY",
+        "mmsi": 244811000,
+        "lat": 25.18154,
+        "lon": 55.16344,
+        "type": "Unknown",
+        "timestamp": "08:08:55 UTC"
+      },
+      {
+        "name": "YAN DANG SHAN",
+        "mmsi": 538007453,
+        "lat": 25.42506,
+        "lon": 55.05908,
+        "type": "Unknown",
+        "timestamp": "08:08:24 UTC"
+      },
+      {
+        "name": "AL JAMOH",
+        "mmsi": 471164000,
+        "lat": 25.17026,
+        "lon": 55.20469,
+        "type": "Unknown",
+        "timestamp": "08:08:25 UTC"
+      },
+      {
+        "name": "DEIRA 7",
+        "mmsi": 470746000,
+        "lat": 25.24757,
+        "lon": 55.26663,
+        "type": "Unknown",
+        "timestamp": "08:08:26 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26193,
+        "lon": 55.27385,
+        "type": "Unknown",
+        "timestamp": "08:08:28 UTC"
+      },
+      {
+        "name": "SK MAINSTAY",
+        "mmsi": 376506000,
+        "lat": 25.26902,
+        "lon": 55.26034,
+        "type": "Unknown",
+        "timestamp": "08:08:32 UTC"
+      },
+      {
+        "name": "RAZEEN1",
+        "mmsi": 470014000,
+        "lat": 25.41982,
+        "lon": 54.92099,
+        "type": "Unknown",
+        "timestamp": "08:08:33 UTC"
+      },
+      {
+        "name": "LEGENDE",
+        "mmsi": 232032637,
+        "lat": 25.20925,
+        "lon": 55.23496,
+        "type": "Unknown",
+        "timestamp": "08:08:34 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 212851000,
+        "lat": 25.08704,
+        "lon": 54.9393,
+        "type": "Unknown",
+        "timestamp": "08:08:34 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26513,
+        "lon": 55.2601,
+        "type": "Unknown",
+        "timestamp": "08:08:39 UTC"
+      },
+      {
+        "name": "LISBOA",
+        "mmsi": 353534000,
+        "lat": 25.61188,
+        "lon": 54.9864,
+        "type": "Unknown",
+        "timestamp": "08:08:39 UTC"
+      },
+      {
+        "name": "STANFORD HAWK",
+        "mmsi": 376955000,
+        "lat": 25.27265,
+        "lon": 55.25963,
+        "type": "Unknown",
+        "timestamp": "08:08:42 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18714,
+        "lon": 55.22129,
+        "type": "Unknown",
+        "timestamp": "08:08:43 UTC"
+      },
+      {
+        "name": "SSL KAVERI",
+        "mmsi": 419001812,
+        "lat": 25.4781,
+        "lon": 55.27292,
+        "type": "Unknown",
+        "timestamp": "08:08:45 UTC"
+      },
+      {
+        "name": "OCEAN CENTURY",
+        "mmsi": 636025162,
+        "lat": 25.19666,
+        "lon": 55.21195,
+        "type": "Unknown",
+        "timestamp": "08:08:54 UTC"
+      },
+      {
+        "name": "HAYAT",
+        "mmsi": 341256002,
+        "lat": 25.27441,
+        "lon": 55.25879,
+        "type": "Unknown",
+        "timestamp": "08:08:55 UTC"
+      },
+      {
+        "name": "RAWABI 208",
+        "mmsi": 572525220,
+        "lat": 25.27266,
+        "lon": 55.25981,
+        "type": "Unknown",
+        "timestamp": "08:08:55 UTC"
+      }
+    ]
   }
 ]

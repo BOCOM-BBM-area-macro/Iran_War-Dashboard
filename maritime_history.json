@@ -2490,5 +2490,172 @@
         "timestamp": "12:03:56 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T13:34:23.645858+00:00",
+    "readable_time": "2026-04-12 13:34:23 UTC",
+    "vessel_count": 20,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 352006511,
+        "lat": 25.26771,
+        "lon": 55.26028,
+        "type": "Unknown",
+        "timestamp": "13:33:25 UTC"
+      },
+      {
+        "name": "VOLVOX OLYMPIA",
+        "mmsi": 419002003,
+        "lat": 25.16842,
+        "lon": 55.18375,
+        "type": "Unknown",
+        "timestamp": "13:33:30 UTC"
+      },
+      {
+        "name": "COASTAL VICTORY",
+        "mmsi": 244811000,
+        "lat": 25.1758,
+        "lon": 55.2008,
+        "type": "Unknown",
+        "timestamp": "13:33:30 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26469,
+        "lon": 55.26025,
+        "type": "Unknown",
+        "timestamp": "13:33:30 UTC"
+      },
+      {
+        "name": "JAG PAVITRA",
+        "mmsi": 419001285,
+        "lat": 25.4239,
+        "lon": 54.27532,
+        "type": "Unknown",
+        "timestamp": "13:33:32 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.22765,
+        "lon": 55.21205,
+        "type": "Unknown",
+        "timestamp": "13:33:38 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470014000,
+        "lat": 25.41986,
+        "lon": 54.92103,
+        "type": "Unknown",
+        "timestamp": "13:33:45 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 355756000,
+        "lat": 25.27001,
+        "lon": 55.25671,
+        "type": "Unknown",
+        "timestamp": "13:33:45 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17734,
+        "lon": 55.20277,
+        "type": "Unknown",
+        "timestamp": "13:34:19 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 565425000,
+        "lat": 25.21506,
+        "lon": 54.79099,
+        "type": "Unknown",
+        "timestamp": "13:34:04 UTC"
+      },
+      {
+        "name": "RAWABI 5",
+        "mmsi": 403283690,
+        "lat": 25.27022,
+        "lon": 55.2575,
+        "type": "Unknown",
+        "timestamp": "13:34:04 UTC"
+      },
+      {
+        "name": "COASTAL RANGER",
+        "mmsi": 246515000,
+        "lat": 25.19005,
+        "lon": 55.20777,
+        "type": "Unknown",
+        "timestamp": "13:34:05 UTC"
+      },
+      {
+        "name": "BLUESHARK 14",
+        "mmsi": 470010441,
+        "lat": 25.17496,
+        "lon": 55.20882,
+        "type": "Unknown",
+        "timestamp": "13:34:07 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636020364,
+        "lat": 25.44238,
+        "lon": 55.06188,
+        "type": "Unknown",
+        "timestamp": "13:34:12 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18677,
+        "lon": 55.22111,
+        "type": "Unknown",
+        "timestamp": "13:34:13 UTC"
+      },
+      {
+        "name": "RAWABI 61",
+        "mmsi": 572584220,
+        "lat": 25.27268,
+        "lon": 55.25992,
+        "type": "Unknown",
+        "timestamp": "13:34:14 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20469,
+        "lon": 55.17129,
+        "type": "Unknown",
+        "timestamp": "13:34:15 UTC"
+      },
+      {
+        "name": "W KITHIRA",
+        "mmsi": 538009144,
+        "lat": 25.42099,
+        "lon": 55.06829,
+        "type": "Unknown",
+        "timestamp": "13:34:16 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26193,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "13:34:18 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 471068000,
+        "lat": 25.26167,
+        "lon": 55.26061,
+        "type": "Unknown",
+        "timestamp": "13:34:20 UTC"
+      }
+    ]
   }
 ]

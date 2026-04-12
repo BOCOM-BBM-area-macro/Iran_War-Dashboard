@@ -2657,5 +2657,140 @@
         "timestamp": "13:34:20 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T14:24:30.522357+00:00",
+    "readable_time": "2026-04-12 14:24:30 UTC",
+    "vessel_count": 16,
+    "vessels": [
+      {
+        "name": "SOLAR ROMA",
+        "mmsi": 636020364,
+        "lat": 25.44161,
+        "lon": 55.06385,
+        "type": "Unknown",
+        "timestamp": "14:23:32 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18677,
+        "lon": 55.22103,
+        "type": "Unknown",
+        "timestamp": "14:23:32 UTC"
+      },
+      {
+        "name": "MERCAN",
+        "mmsi": 355782000,
+        "lat": 25.25153,
+        "lon": 55.26573,
+        "type": "Unknown",
+        "timestamp": "14:23:34 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17835,
+        "lon": 55.21285,
+        "type": "Unknown",
+        "timestamp": "14:23:35 UTC"
+      },
+      {
+        "name": "W KITHIRA",
+        "mmsi": 538009144,
+        "lat": 25.42101,
+        "lon": 55.06848,
+        "type": "Unknown",
+        "timestamp": "14:23:36 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.17365,
+        "lon": 55.20735,
+        "type": "Unknown",
+        "timestamp": "14:24:02 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17389,
+        "lon": 55.20754,
+        "type": "Unknown",
+        "timestamp": "14:24:14 UTC"
+      },
+      {
+        "name": "RAZEEN1",
+        "mmsi": 470014000,
+        "lat": 25.42026,
+        "lon": 54.92103,
+        "type": "Unknown",
+        "timestamp": "14:23:44 UTC"
+      },
+      {
+        "name": "RAWABI 61",
+        "mmsi": 572584220,
+        "lat": 25.27268,
+        "lon": 55.25989,
+        "type": "Unknown",
+        "timestamp": "14:23:47 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20468,
+        "lon": 55.17127,
+        "type": "Unknown",
+        "timestamp": "14:23:48 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26515,
+        "lon": 55.26003,
+        "type": "Unknown",
+        "timestamp": "14:23:53 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26505,
+        "lon": 55.27568,
+        "type": "Unknown",
+        "timestamp": "14:23:57 UTC"
+      },
+      {
+        "name": "OCEAN CLEVER",
+        "mmsi": 377709000,
+        "lat": 25.27019,
+        "lon": 55.26024,
+        "type": "Unknown",
+        "timestamp": "14:24:02 UTC"
+      },
+      {
+        "name": "SWISSCO JUPITER",
+        "mmsi": 377493000,
+        "lat": 25.27003,
+        "lon": 55.27594,
+        "type": "Unknown",
+        "timestamp": "14:24:08 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 419001812,
+        "lat": 25.47893,
+        "lon": 55.27293,
+        "type": "Unknown",
+        "timestamp": "14:24:13 UTC"
+      },
+      {
+        "name": "NATALINA A",
+        "mmsi": 319110300,
+        "lat": 25.2628,
+        "lon": 55.27348,
+        "type": "Unknown",
+        "timestamp": "14:24:13 UTC"
+      }
+    ]
   }
 ]

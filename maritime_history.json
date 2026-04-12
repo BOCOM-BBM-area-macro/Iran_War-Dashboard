@@ -3244,5 +3244,140 @@
         "timestamp": "17:23:49 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T18:03:37.916385+00:00",
+    "readable_time": "2026-04-12 18:03:37 UTC",
+    "vessel_count": 16,
+    "vessels": [
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17829,
+        "lon": 55.21286,
+        "type": "Unknown",
+        "timestamp": "18:03:22 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.2651,
+        "lon": 55.2597,
+        "type": "Unknown",
+        "timestamp": "18:02:52 UTC"
+      },
+      {
+        "name": "BLUESHARK 14",
+        "mmsi": 470010441,
+        "lat": 25.16762,
+        "lon": 55.19818,
+        "type": "Unknown",
+        "timestamp": "18:02:55 UTC"
+      },
+      {
+        "name": "MUBARAK 241",
+        "mmsi": 471068000,
+        "lat": 25.26191,
+        "lon": 55.26052,
+        "type": "Unknown",
+        "timestamp": "18:02:55 UTC"
+      },
+      {
+        "name": "TEN MARS",
+        "mmsi": 352006371,
+        "lat": 25.46033,
+        "lon": 55.07095,
+        "type": "Unknown",
+        "timestamp": "18:02:57 UTC"
+      },
+      {
+        "name": "MERCAN",
+        "mmsi": 355782000,
+        "lat": 25.25183,
+        "lon": 55.26517,
+        "type": "Unknown",
+        "timestamp": "18:03:05 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 352006511,
+        "lat": 25.26774,
+        "lon": 55.26028,
+        "type": "Unknown",
+        "timestamp": "18:03:09 UTC"
+      },
+      {
+        "name": "LEGENDE",
+        "mmsi": 232032637,
+        "lat": 25.20929,
+        "lon": 55.23497,
+        "type": "Unknown",
+        "timestamp": "18:03:13 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17663,
+        "lon": 55.20362,
+        "type": "Unknown",
+        "timestamp": "18:03:13 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.19904,
+        "lon": 55.21037,
+        "type": "Unknown",
+        "timestamp": "18:03:18 UTC"
+      },
+      {
+        "name": "STANFORD HAWK",
+        "mmsi": 376955000,
+        "lat": 25.27262,
+        "lon": 55.25962,
+        "type": "Unknown",
+        "timestamp": "18:03:20 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26192,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "18:03:21 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 355756000,
+        "lat": 25.27019,
+        "lon": 55.25693,
+        "type": "Unknown",
+        "timestamp": "18:03:25 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 341517002,
+        "lat": 25.29209,
+        "lon": 55.26709,
+        "type": "Unknown",
+        "timestamp": "18:03:27 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26497,
+        "lon": 55.2757,
+        "type": "Unknown",
+        "timestamp": "18:03:30 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.17699,
+        "lon": 55.20325,
+        "type": "Unknown",
+        "timestamp": "18:03:35 UTC"
+      }
+    ]
   }
 ]

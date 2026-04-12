@@ -3868,5 +3868,76 @@
         "timestamp": "22:38:53 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T23:19:28.860730+00:00",
+    "readable_time": "2026-04-12 23:19:28 UTC",
+    "vessel_count": 8,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 470010441,
+        "lat": 25.1677,
+        "lon": 55.19818,
+        "type": "Unknown",
+        "timestamp": "23:18:31 UTC"
+      },
+      {
+        "name": "PLATINUM",
+        "mmsi": 319187800,
+        "lat": 25.26217,
+        "lon": 55.27464,
+        "type": "Unknown",
+        "timestamp": "23:18:42 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17829,
+        "lon": 55.2129,
+        "type": "Unknown",
+        "timestamp": "23:18:43 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20462,
+        "lon": 55.17128,
+        "type": "Unknown",
+        "timestamp": "23:18:52 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18649,
+        "lon": 55.22111,
+        "type": "Unknown",
+        "timestamp": "23:18:53 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17057,
+        "lon": 55.19417,
+        "type": "Unknown",
+        "timestamp": "23:19:16 UTC"
+      },
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.1993,
+        "lon": 55.21042,
+        "type": "Unknown",
+        "timestamp": "23:19:17 UTC"
+      },
+      {
+        "name": "BLUE SHARK 13",
+        "mmsi": 470009199,
+        "lat": 25.18464,
+        "lon": 55.21243,
+        "type": "Unknown",
+        "timestamp": "23:19:27 UTC"
+      }
+    ]
   }
 ]

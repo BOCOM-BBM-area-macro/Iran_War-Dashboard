@@ -906,5 +906,236 @@
         "timestamp": "03:45:46 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T05:49:11.244635+00:00",
+    "readable_time": "2026-04-12 05:49:11 UTC",
+    "vessel_count": 28,
+    "vessels": [
+      {
+        "name": "MUBARAK 241",
+        "mmsi": 471068000,
+        "lat": 25.26172,
+        "lon": 55.26056,
+        "type": "Unknown",
+        "timestamp": "05:48:12 UTC"
+      },
+      {
+        "name": "ATLAS",
+        "mmsi": 305026400,
+        "lat": 25.27639,
+        "lon": 55.25902,
+        "type": "Unknown",
+        "timestamp": "05:48:14 UTC"
+      },
+      {
+        "name": "HAANA",
+        "mmsi": 538011959,
+        "lat": 25.6328,
+        "lon": 55.14495,
+        "type": "Unknown",
+        "timestamp": "05:48:14 UTC"
+      },
+      {
+        "name": "BBT-105",
+        "mmsi": 408833000,
+        "lat": 25.26115,
+        "lon": 55.25877,
+        "type": "Unknown",
+        "timestamp": "05:48:26 UTC"
+      },
+      {
+        "name": "WHITE STAR",
+        "mmsi": 355080000,
+        "lat": 25.55948,
+        "lon": 55.08227,
+        "type": "Unknown",
+        "timestamp": "05:48:28 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.2619,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "05:48:30 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26513,
+        "lon": 55.26005,
+        "type": "Unknown",
+        "timestamp": "05:48:30 UTC"
+      },
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.19936,
+        "lon": 55.20945,
+        "type": "Unknown",
+        "timestamp": "05:48:42 UTC"
+      },
+      {
+        "name": "HAPPY CAMPER",
+        "mmsi": 314001122,
+        "lat": 25.62516,
+        "lon": 55.01689,
+        "type": "Unknown",
+        "timestamp": "05:48:42 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26474,
+        "lon": 55.26025,
+        "type": "Unknown",
+        "timestamp": "05:48:44 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025162,
+        "lat": 25.19646,
+        "lon": 55.21169,
+        "type": "Unknown",
+        "timestamp": "05:48:45 UTC"
+      },
+      {
+        "name": "DP WORLD EXPRESS",
+        "mmsi": 376796000,
+        "lat": 25.2707,
+        "lon": 55.27692,
+        "type": "Unknown",
+        "timestamp": "05:48:46 UTC"
+      },
+      {
+        "name": "BLUESHARK 14",
+        "mmsi": 470010441,
+        "lat": 25.17259,
+        "lon": 55.20202,
+        "type": "Unknown",
+        "timestamp": "05:48:47 UTC"
+      },
+      {
+        "name": "BLISS",
+        "mmsi": 319065700,
+        "lat": 25.21046,
+        "lon": 55.23387,
+        "type": "Unknown",
+        "timestamp": "05:49:06 UTC"
+      },
+      {
+        "name": "RAZEEN1",
+        "mmsi": 470014000,
+        "lat": 25.41966,
+        "lon": 54.92118,
+        "type": "Unknown",
+        "timestamp": "05:48:49 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17829,
+        "lon": 55.21284,
+        "type": "Unknown",
+        "timestamp": "05:48:50 UTC"
+      },
+      {
+        "name": "GERTRUDE OLDENDORFF",
+        "mmsi": 255805809,
+        "lat": 25.64107,
+        "lon": 54.99076,
+        "type": "Unknown",
+        "timestamp": "05:48:50 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 255805774,
+        "lat": 25.58465,
+        "lon": 55.06319,
+        "type": "Unknown",
+        "timestamp": "05:48:50 UTC"
+      },
+      {
+        "name": "GAZ IMPERIAL",
+        "mmsi": 538007631,
+        "lat": 25.63709,
+        "lon": 55.06464,
+        "type": "Unknown",
+        "timestamp": "05:48:51 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.25198,
+        "lon": 55.22836,
+        "type": "Unknown",
+        "timestamp": "05:48:53 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.17589,
+        "lon": 55.20059,
+        "type": "Unknown",
+        "timestamp": "05:48:55 UTC"
+      },
+      {
+        "name": "SWISSCO JUPITER",
+        "mmsi": 377493000,
+        "lat": 25.26987,
+        "lon": 55.27595,
+        "type": "Unknown",
+        "timestamp": "05:48:57 UTC"
+      },
+      {
+        "name": "WAN HAI A07",
+        "mmsi": 563170300,
+        "lat": 25.83529,
+        "lon": 54.8567,
+        "type": "Unknown",
+        "timestamp": "05:48:57 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18706,
+        "lon": 55.22133,
+        "type": "Unknown",
+        "timestamp": "05:49:00 UTC"
+      },
+      {
+        "name": "DELTA 22",
+        "mmsi": 352006511,
+        "lat": 25.26776,
+        "lon": 55.26026,
+        "type": "Unknown",
+        "timestamp": "05:49:00 UTC"
+      },
+      {
+        "name": "ORINOCCO",
+        "mmsi": 636024935,
+        "lat": 25.55437,
+        "lon": 55.09442,
+        "type": "Unknown",
+        "timestamp": "05:49:01 UTC"
+      },
+      {
+        "name": "BROTHER GLORY",
+        "mmsi": 352978126,
+        "lat": 25.82804,
+        "lon": 55.31639,
+        "type": "Unknown",
+        "timestamp": "05:49:03 UTC"
+      },
+      {
+        "name": "DESPINA",
+        "mmsi": 377277000,
+        "lat": 25.65808,
+        "lon": 55.01337,
+        "type": "Unknown",
+        "timestamp": "05:49:09 UTC"
+      }
+    ]
   }
 ]

@@ -1957,5 +1957,244 @@
         "timestamp": "09:59:48 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T10:54:04.591672+00:00",
+    "readable_time": "2026-04-12 10:54:04 UTC",
+    "vessel_count": 29,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 470010441,
+        "lat": 25.17487,
+        "lon": 55.20889,
+        "type": "Unknown",
+        "timestamp": "10:53:05 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 419002024,
+        "lat": 25.44649,
+        "lon": 55.0486,
+        "type": "Unknown",
+        "timestamp": "10:53:07 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636022731,
+        "lat": 25.26795,
+        "lon": 55.26008,
+        "type": "Unknown",
+        "timestamp": "10:53:09 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17736,
+        "lon": 55.20289,
+        "type": "Unknown",
+        "timestamp": "10:53:09 UTC"
+      },
+      {
+        "name": "VALIANT VORTEX",
+        "mmsi": 636023712,
+        "lat": 25.26858,
+        "lon": 55.25765,
+        "type": "Unknown",
+        "timestamp": "10:53:09 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.19025,
+        "lon": 55.20268,
+        "type": "Unknown",
+        "timestamp": "10:53:12 UTC"
+      },
+      {
+        "name": "RAWABI 5",
+        "mmsi": 403283690,
+        "lat": 25.33186,
+        "lon": 55.1481,
+        "type": "Unknown",
+        "timestamp": "10:53:14 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17835,
+        "lon": 55.21288,
+        "type": "Unknown",
+        "timestamp": "10:53:14 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 232032637,
+        "lat": 25.20929,
+        "lon": 55.23496,
+        "type": "Unknown",
+        "timestamp": "10:53:15 UTC"
+      },
+      {
+        "name": "SK MAINSTAY",
+        "mmsi": 376506000,
+        "lat": 25.26907,
+        "lon": 55.26032,
+        "type": "Unknown",
+        "timestamp": "10:53:20 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26478,
+        "lon": 55.26024,
+        "type": "Unknown",
+        "timestamp": "10:53:56 UTC"
+      },
+      {
+        "name": "SSL KAVERI",
+        "mmsi": 419001812,
+        "lat": 25.47828,
+        "lon": 55.2738,
+        "type": "Unknown",
+        "timestamp": "10:53:22 UTC"
+      },
+      {
+        "name": "COASTAL VICTORY",
+        "mmsi": 244811000,
+        "lat": 25.18801,
+        "lon": 55.20206,
+        "type": "Unknown",
+        "timestamp": "10:53:54 UTC"
+      },
+      {
+        "name": "MUBARAK 241",
+        "mmsi": 471068000,
+        "lat": 25.26168,
+        "lon": 55.26067,
+        "type": "Unknown",
+        "timestamp": "10:53:27 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "10:53:32 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 533110715,
+        "lat": 25.2621,
+        "lon": 55.2752,
+        "type": "Unknown",
+        "timestamp": "10:53:33 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470229000,
+        "lat": 25.26197,
+        "lon": 55.27388,
+        "type": "Unknown",
+        "timestamp": "10:53:34 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470111111,
+        "lat": 25.20915,
+        "lon": 55.2346,
+        "type": "Unknown",
+        "timestamp": "10:53:34 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26507,
+        "lon": 55.27571,
+        "type": "Unknown",
+        "timestamp": "10:53:58 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470014000,
+        "lat": 25.41978,
+        "lon": 54.92107,
+        "type": "Unknown",
+        "timestamp": "10:53:36 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470283000,
+        "lat": 25.20466,
+        "lon": 55.17129,
+        "type": "Unknown",
+        "timestamp": "10:53:42 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 563190800,
+        "lat": 25.47868,
+        "lon": 55.06122,
+        "type": "Unknown",
+        "timestamp": "10:53:43 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.19954,
+        "lon": 55.21048,
+        "type": "Unknown",
+        "timestamp": "10:53:50 UTC"
+      },
+      {
+        "name": "COASTAL RANGER",
+        "mmsi": 246515000,
+        "lat": 25.18975,
+        "lon": 55.20787,
+        "type": "Unknown",
+        "timestamp": "10:53:51 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 419002003,
+        "lat": 25.16741,
+        "lon": 55.1833,
+        "type": "Unknown",
+        "timestamp": "10:53:51 UTC"
+      },
+      {
+        "name": "BBT-105",
+        "mmsi": 408833000,
+        "lat": 25.2612,
+        "lon": 55.2587,
+        "type": "Unknown",
+        "timestamp": "10:53:56 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 352006511,
+        "lat": 25.26778,
+        "lon": 55.26038,
+        "type": "Unknown",
+        "timestamp": "10:54:01 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.1869,
+        "lon": 55.22117,
+        "type": "Unknown",
+        "timestamp": "10:54:02 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 667022351,
+        "lat": 25.40657,
+        "lon": 55.09371,
+        "type": "Unknown",
+        "timestamp": "10:54:02 UTC"
+      }
+    ]
   }
 ]

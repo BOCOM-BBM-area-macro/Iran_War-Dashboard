@@ -3607,5 +3607,84 @@
         "timestamp": "20:41:48 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T21:21:37.090046+00:00",
+    "readable_time": "2026-04-12 21:21:37 UTC",
+    "vessel_count": 9,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 377439000,
+        "lat": 25.2731,
+        "lon": 55.26008,
+        "type": "Unknown",
+        "timestamp": "21:20:46 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 377493000,
+        "lat": 25.26998,
+        "lon": 55.276,
+        "type": "Unknown",
+        "timestamp": "21:20:47 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 319065700,
+        "lat": 25.21049,
+        "lon": 55.23398,
+        "type": "Unknown",
+        "timestamp": "21:20:51 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470000000,
+        "lat": 25.19609,
+        "lon": 55.21145,
+        "type": "Unknown",
+        "timestamp": "21:21:00 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470004823,
+        "lat": 25.18662,
+        "lon": 55.221,
+        "type": "Unknown",
+        "timestamp": "21:21:07 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470009199,
+        "lat": 25.1847,
+        "lon": 55.21247,
+        "type": "Unknown",
+        "timestamp": "21:21:28 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 538007324,
+        "lat": 25.3786,
+        "lon": 55.05547,
+        "type": "Unknown",
+        "timestamp": "21:21:28 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 235083529,
+        "lat": 25.17055,
+        "lon": 55.1942,
+        "type": "Unknown",
+        "timestamp": "21:21:33 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470132000,
+        "lat": 25.17247,
+        "lon": 55.21031,
+        "type": "Unknown",
+        "timestamp": "21:21:34 UTC"
+      }
+    ]
   }
 ]

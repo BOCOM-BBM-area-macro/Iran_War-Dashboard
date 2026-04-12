@@ -3686,5 +3686,140 @@
         "timestamp": "21:21:34 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T21:56:30.150136+00:00",
+    "readable_time": "2026-04-12 21:56:30 UTC",
+    "vessel_count": 16,
+    "vessels": [
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "21:55:36 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.1866,
+        "lon": 55.221,
+        "type": "Unknown",
+        "timestamp": "21:55:42 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470009199,
+        "lat": 25.1847,
+        "lon": 55.21247,
+        "type": "Unknown",
+        "timestamp": "21:55:44 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26501,
+        "lon": 55.27573,
+        "type": "Unknown",
+        "timestamp": "21:55:44 UTC"
+      },
+      {
+        "name": "STANFORD HAWK",
+        "mmsi": 376955000,
+        "lat": 25.27265,
+        "lon": 55.25961,
+        "type": "Unknown",
+        "timestamp": "21:55:46 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.1783,
+        "lon": 55.21288,
+        "type": "Unknown",
+        "timestamp": "21:55:55 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17056,
+        "lon": 55.19423,
+        "type": "Unknown",
+        "timestamp": "21:55:59 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.19655,
+        "lon": 55.20503,
+        "type": "Unknown",
+        "timestamp": "21:56:00 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 370088000,
+        "lat": 25.26512,
+        "lon": 55.26007,
+        "type": "Unknown",
+        "timestamp": "21:56:01 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.1992,
+        "lon": 55.21046,
+        "type": "Unknown",
+        "timestamp": "21:56:07 UTC"
+      },
+      {
+        "name": "SWISSCO JUPITER",
+        "mmsi": 377493000,
+        "lat": 25.27026,
+        "lon": 55.27596,
+        "type": "Unknown",
+        "timestamp": "21:56:10 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20462,
+        "lon": 55.1713,
+        "type": "Unknown",
+        "timestamp": "21:56:16 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 413563030,
+        "lat": 25.42896,
+        "lon": 55.0716,
+        "type": "Unknown",
+        "timestamp": "21:56:19 UTC"
+      },
+      {
+        "name": "VOLVOX OLYMPIA",
+        "mmsi": 419002003,
+        "lat": 25.16771,
+        "lon": 55.18414,
+        "type": "Unknown",
+        "timestamp": "21:56:19 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 341517002,
+        "lat": 25.27189,
+        "lon": 55.28718,
+        "type": "Unknown",
+        "timestamp": "21:56:20 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17248,
+        "lon": 55.21031,
+        "type": "Unknown",
+        "timestamp": "21:56:25 UTC"
+      }
+    ]
   }
 ]

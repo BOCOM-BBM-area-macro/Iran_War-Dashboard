@@ -1137,5 +1137,204 @@
         "timestamp": "05:49:09 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T07:01:20.931786+00:00",
+    "readable_time": "2026-04-12 07:01:20 UTC",
+    "vessel_count": 24,
+    "vessels": [
+      {
+        "name": "COASTAL RANGER",
+        "mmsi": 246515000,
+        "lat": 25.17337,
+        "lon": 55.20693,
+        "type": "Unknown",
+        "timestamp": "07:00:20 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18707,
+        "lon": 55.22128,
+        "type": "Unknown",
+        "timestamp": "07:00:22 UTC"
+      },
+      {
+        "name": "CMA CGM MANAUS",
+        "mmsi": 419002024,
+        "lat": 25.44622,
+        "lon": 55.048,
+        "type": "Unknown",
+        "timestamp": "07:00:22 UTC"
+      },
+      {
+        "name": "Z",
+        "mmsi": 319062900,
+        "lat": 25.26208,
+        "lon": 55.27537,
+        "type": "Unknown",
+        "timestamp": "07:00:26 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26481,
+        "lon": 55.26007,
+        "type": "Unknown",
+        "timestamp": "07:00:28 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.265,
+        "lon": 55.2757,
+        "type": "Unknown",
+        "timestamp": "07:00:28 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17141,
+        "lon": 55.19618,
+        "type": "Unknown",
+        "timestamp": "07:00:31 UTC"
+      },
+      {
+        "name": "LEGENDE",
+        "mmsi": 232032637,
+        "lat": 25.20927,
+        "lon": 55.23494,
+        "type": "Unknown",
+        "timestamp": "07:00:33 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.17588,
+        "lon": 55.20055,
+        "type": "Unknown",
+        "timestamp": "07:00:37 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26192,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "07:00:39 UTC"
+      },
+      {
+        "name": "STANFORD HAWK",
+        "mmsi": 376955000,
+        "lat": 25.27267,
+        "lon": 55.25963,
+        "type": "Unknown",
+        "timestamp": "07:00:39 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.21242,
+        "lon": 55.20312,
+        "type": "Unknown",
+        "timestamp": "07:00:42 UTC"
+      },
+      {
+        "name": "AURORA X",
+        "mmsi": 533110715,
+        "lat": 25.26203,
+        "lon": 55.27518,
+        "type": "Unknown",
+        "timestamp": "07:00:42 UTC"
+      },
+      {
+        "name": "DELTA 22",
+        "mmsi": 352006511,
+        "lat": 25.26779,
+        "lon": 55.26039,
+        "type": "Unknown",
+        "timestamp": "07:00:44 UTC"
+      },
+      {
+        "name": "NASHWAN",
+        "mmsi": 470111111,
+        "lat": 25.20912,
+        "lon": 55.23464,
+        "type": "Unknown",
+        "timestamp": "07:00:44 UTC"
+      },
+      {
+        "name": "BLUESHARK 14",
+        "mmsi": 470010441,
+        "lat": 25.17463,
+        "lon": 55.20897,
+        "type": "Unknown",
+        "timestamp": "07:00:45 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 419001812,
+        "lat": 25.47737,
+        "lon": 55.27357,
+        "type": "Unknown",
+        "timestamp": "07:00:47 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17327,
+        "lon": 55.21059,
+        "type": "Unknown",
+        "timestamp": "07:00:58 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.1783,
+        "lon": 55.21286,
+        "type": "Unknown",
+        "timestamp": "07:01:02 UTC"
+      },
+      {
+        "name": "POSITIVE PIONEER",
+        "mmsi": 352824000,
+        "lat": 25.22643,
+        "lon": 54.59192,
+        "type": "Unknown",
+        "timestamp": "07:01:03 UTC"
+      },
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "07:01:08 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26513,
+        "lon": 55.26006,
+        "type": "Unknown",
+        "timestamp": "07:01:11 UTC"
+      },
+      {
+        "name": "ZAYA DIAMOND",
+        "mmsi": 470347000,
+        "lat": 25.25371,
+        "lon": 55.17361,
+        "type": "Unknown",
+        "timestamp": "07:01:12 UTC"
+      },
+      {
+        "name": "BUNUN MIRACLE",
+        "mmsi": 374448000,
+        "lat": 25.34403,
+        "lon": 54.90801,
+        "type": "Unknown",
+        "timestamp": "07:01:14 UTC"
+      }
+    ]
   }
 ]

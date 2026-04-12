@@ -3488,5 +3488,124 @@
     "readable_time": "2026-04-12 19:52:44 UTC",
     "vessel_count": 0,
     "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-12T20:42:07.917724+00:00",
+    "readable_time": "2026-04-12 20:42:07 UTC",
+    "vessel_count": 14,
+    "vessels": [
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18659,
+        "lon": 55.22101,
+        "type": "Unknown",
+        "timestamp": "20:41:09 UTC"
+      },
+      {
+        "name": "MOONLIGHT II",
+        "mmsi": 215934000,
+        "lat": 25.25802,
+        "lon": 54.25139,
+        "type": "Unknown",
+        "timestamp": "20:41:13 UTC"
+      },
+      {
+        "name": "SK MAINSTAY",
+        "mmsi": 376506000,
+        "lat": 25.26898,
+        "lon": 55.26039,
+        "type": "Unknown",
+        "timestamp": "20:41:24 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.19598,
+        "lon": 55.21166,
+        "type": "Unknown",
+        "timestamp": "20:41:25 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 563180700,
+        "lat": 25.37562,
+        "lon": 55.07497,
+        "type": "Unknown",
+        "timestamp": "20:41:28 UTC"
+      },
+      {
+        "name": "RAWABI 73",
+        "mmsi": 572765220,
+        "lat": 25.27058,
+        "lon": 55.25707,
+        "type": "Unknown",
+        "timestamp": "20:41:29 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 408890000,
+        "lat": 25.27342,
+        "lon": 55.25991,
+        "type": "Unknown",
+        "timestamp": "20:41:30 UTC"
+      },
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.19925,
+        "lon": 55.21036,
+        "type": "Unknown",
+        "timestamp": "20:41:32 UTC"
+      },
+      {
+        "name": "LEGENDE",
+        "mmsi": 232032637,
+        "lat": 25.20924,
+        "lon": 55.23497,
+        "type": "Unknown",
+        "timestamp": "20:41:33 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17827,
+        "lon": 55.21287,
+        "type": "Unknown",
+        "timestamp": "20:41:33 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17243,
+        "lon": 55.21031,
+        "type": "Unknown",
+        "timestamp": "20:41:37 UTC"
+      },
+      {
+        "name": "STANFORD HAWK",
+        "mmsi": 376955000,
+        "lat": 25.27262,
+        "lon": 55.25966,
+        "type": "Unknown",
+        "timestamp": "20:41:43 UTC"
+      },
+      {
+        "name": "NASHWAN",
+        "mmsi": 470111111,
+        "lat": 25.20907,
+        "lon": 55.23462,
+        "type": "Unknown",
+        "timestamp": "20:41:45 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17049,
+        "lon": 55.1943,
+        "type": "Unknown",
+        "timestamp": "20:41:48 UTC"
+      }
+    ]
   }
 ]

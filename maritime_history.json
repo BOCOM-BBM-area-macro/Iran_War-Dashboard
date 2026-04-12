@@ -1814,5 +1814,148 @@
         "timestamp": "09:06:10 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T09:59:49.325908+00:00",
+    "readable_time": "2026-04-12 09:59:49 UTC",
+    "vessel_count": 17,
+    "vessels": [
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.1764,
+        "lon": 55.20374,
+        "type": "Unknown",
+        "timestamp": "09:58:48 UTC"
+      },
+      {
+        "name": "RAZEEN1",
+        "mmsi": 470014000,
+        "lat": 25.41982,
+        "lon": 54.92101,
+        "type": "Unknown",
+        "timestamp": "09:58:58 UTC"
+      },
+      {
+        "name": "GRACE",
+        "mmsi": 339332000,
+        "lat": 25.25792,
+        "lon": 55.11063,
+        "type": "Unknown",
+        "timestamp": "09:59:04 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18695,
+        "lon": 55.22108,
+        "type": "Unknown",
+        "timestamp": "09:59:27 UTC"
+      },
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.19961,
+        "lon": 55.21041,
+        "type": "Unknown",
+        "timestamp": "09:59:05 UTC"
+      },
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26197,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "09:59:10 UTC"
+      },
+      {
+        "name": "BC AGILITY",
+        "mmsi": 314142000,
+        "lat": 25.58423,
+        "lon": 54.65794,
+        "type": "Unknown",
+        "timestamp": "09:59:13 UTC"
+      },
+      {
+        "name": "ZAYA DIAMOND",
+        "mmsi": 470347000,
+        "lat": 25.25375,
+        "lon": 55.17359,
+        "type": "Unknown",
+        "timestamp": "09:59:14 UTC"
+      },
+      {
+        "name": "RAWABI 5",
+        "mmsi": 403283690,
+        "lat": 25.33229,
+        "lon": 55.14781,
+        "type": "Unknown",
+        "timestamp": "09:59:18 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20468,
+        "lon": 55.17125,
+        "type": "Unknown",
+        "timestamp": "09:59:28 UTC"
+      },
+      {
+        "name": "MOUNT",
+        "mmsi": 511101673,
+        "lat": 25.27012,
+        "lon": 55.26072,
+        "type": "Unknown",
+        "timestamp": "09:59:29 UTC"
+      },
+      {
+        "name": "PACIFIC 38",
+        "mmsi": 352005674,
+        "lat": 25.38514,
+        "lon": 55.10527,
+        "type": "Unknown",
+        "timestamp": "09:59:32 UTC"
+      },
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26504,
+        "lon": 55.27567,
+        "type": "Unknown",
+        "timestamp": "09:59:35 UTC"
+      },
+      {
+        "name": "SWISSCO JUPITER",
+        "mmsi": 377493000,
+        "lat": 25.26991,
+        "lon": 55.27604,
+        "type": "Unknown",
+        "timestamp": "09:59:37 UTC"
+      },
+      {
+        "name": "OCEAN FLUORITE",
+        "mmsi": 341188000,
+        "lat": 25.174,
+        "lon": 55.20027,
+        "type": "Unknown",
+        "timestamp": "09:59:37 UTC"
+      },
+      {
+        "name": "MV DEEP CLEANER",
+        "mmsi": 355756000,
+        "lat": 25.26999,
+        "lon": 55.25673,
+        "type": "Unknown",
+        "timestamp": "09:59:46 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17835,
+        "lon": 55.21284,
+        "type": "Unknown",
+        "timestamp": "09:59:48 UTC"
+      }
+    ]
   }
 ]

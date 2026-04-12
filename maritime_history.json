@@ -3939,5 +3939,108 @@
         "timestamp": "23:19:27 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T23:57:24.740728+00:00",
+    "readable_time": "2026-04-12 23:57:24 UTC",
+    "vessel_count": 12,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 470010441,
+        "lat": 25.16769,
+        "lon": 55.19819,
+        "type": "Unknown",
+        "timestamp": "23:56:29 UTC"
+      },
+      {
+        "name": "TOPAZ AMUR",
+        "mmsi": 538007319,
+        "lat": 25.24626,
+        "lon": 55.264,
+        "type": "Unknown",
+        "timestamp": "23:56:37 UTC"
+      },
+      {
+        "name": "SK MAINSTAY",
+        "mmsi": 376506000,
+        "lat": 25.26898,
+        "lon": 55.26036,
+        "type": "Unknown",
+        "timestamp": "23:56:50 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17828,
+        "lon": 55.21289,
+        "type": "Unknown",
+        "timestamp": "23:56:54 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17767,
+        "lon": 55.20289,
+        "type": "Unknown",
+        "timestamp": "23:56:57 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 413563030,
+        "lat": 25.42886,
+        "lon": 55.07126,
+        "type": "Unknown",
+        "timestamp": "23:57:03 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18648,
+        "lon": 55.2211,
+        "type": "Unknown",
+        "timestamp": "23:57:03 UTC"
+      },
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.19926,
+        "lon": 55.21046,
+        "type": "Unknown",
+        "timestamp": "23:57:13 UTC"
+      },
+      {
+        "name": "PLATINUM",
+        "mmsi": 319187800,
+        "lat": 25.2623,
+        "lon": 55.27459,
+        "type": "Unknown",
+        "timestamp": "23:57:15 UTC"
+      },
+      {
+        "name": "VOLVOX OLYMPIA",
+        "mmsi": 419002003,
+        "lat": 25.16759,
+        "lon": 55.18411,
+        "type": "Unknown",
+        "timestamp": "23:57:18 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26511,
+        "lon": 55.2601,
+        "type": "Unknown",
+        "timestamp": "23:57:18 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20461,
+        "lon": 55.1713,
+        "type": "Unknown",
+        "timestamp": "23:57:23 UTC"
+      }
+    ]
   }
 ]

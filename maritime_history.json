@@ -2196,5 +2196,124 @@
         "timestamp": "10:54:02 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T11:38:05.279637+00:00",
+    "readable_time": "2026-04-12 11:38:05 UTC",
+    "vessel_count": 14,
+    "vessels": [
+      {
+        "name": "DEEP BREATH",
+        "mmsi": 470229000,
+        "lat": 25.26198,
+        "lon": 55.27387,
+        "type": "Unknown",
+        "timestamp": "11:37:06 UTC"
+      },
+      {
+        "name": "BBT-105",
+        "mmsi": 408833000,
+        "lat": 25.26113,
+        "lon": 55.25875,
+        "type": "Unknown",
+        "timestamp": "11:37:06 UTC"
+      },
+      {
+        "name": "YAN DANG SHAN",
+        "mmsi": 538007453,
+        "lat": 25.42444,
+        "lon": 55.06028,
+        "type": "Unknown",
+        "timestamp": "11:37:10 UTC"
+      },
+      {
+        "name": "RAWABI 5",
+        "mmsi": 403283690,
+        "lat": 25.33061,
+        "lon": 55.15699,
+        "type": "Unknown",
+        "timestamp": "11:37:18 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.22734,
+        "lon": 55.21215,
+        "type": "Unknown",
+        "timestamp": "11:37:21 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17042,
+        "lon": 55.19444,
+        "type": "Unknown",
+        "timestamp": "11:37:48 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26518,
+        "lon": 55.26013,
+        "type": "Unknown",
+        "timestamp": "11:37:32 UTC"
+      },
+      {
+        "name": "BLUE SHARK 13",
+        "mmsi": 470009199,
+        "lat": 25.18962,
+        "lon": 55.2078,
+        "type": "Unknown",
+        "timestamp": "11:37:38 UTC"
+      },
+      {
+        "name": "BLUESHARK 14",
+        "mmsi": 470010441,
+        "lat": 25.17492,
+        "lon": 55.20894,
+        "type": "Unknown",
+        "timestamp": "11:37:42 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18694,
+        "lon": 55.22113,
+        "type": "Unknown",
+        "timestamp": "11:37:46 UTC"
+      },
+      {
+        "name": "MERCAN",
+        "mmsi": 355782000,
+        "lat": 25.25161,
+        "lon": 55.26565,
+        "type": "Unknown",
+        "timestamp": "11:37:49 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20466,
+        "lon": 55.17129,
+        "type": "Unknown",
+        "timestamp": "11:37:49 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17834,
+        "lon": 55.21288,
+        "type": "Unknown",
+        "timestamp": "11:37:58 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26478,
+        "lon": 55.26027,
+        "type": "Unknown",
+        "timestamp": "11:38:03 UTC"
+      }
+    ]
   }
 ]

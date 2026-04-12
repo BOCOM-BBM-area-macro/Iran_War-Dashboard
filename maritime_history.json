@@ -3125,5 +3125,124 @@
         "timestamp": "16:44:13 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-12T17:23:50.029508+00:00",
+    "readable_time": "2026-04-12 17:23:50 UTC",
+    "vessel_count": 14,
+    "vessels": [
+      {
+        "name": "FESCO ASKOLD",
+        "mmsi": 667022351,
+        "lat": 25.40371,
+        "lon": 55.09274,
+        "type": "Unknown",
+        "timestamp": "17:22:50 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470018000,
+        "lat": 25.2616,
+        "lon": 55.27289,
+        "type": "Unknown",
+        "timestamp": "17:22:55 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 470010441,
+        "lat": 25.17126,
+        "lon": 55.20601,
+        "type": "Unknown",
+        "timestamp": "17:22:57 UTC"
+      },
+      {
+        "name": "STURGEON ANN 2",
+        "mmsi": 470283000,
+        "lat": 25.20465,
+        "lon": 55.17129,
+        "type": "Unknown",
+        "timestamp": "17:23:15 UTC"
+      },
+      {
+        "name": "SWISSCO JUPITER",
+        "mmsi": 377493000,
+        "lat": 25.26988,
+        "lon": 55.27592,
+        "type": "Unknown",
+        "timestamp": "17:23:17 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.19595,
+        "lon": 55.21156,
+        "type": "Unknown",
+        "timestamp": "17:23:19 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.16997,
+        "lon": 55.19455,
+        "type": "Unknown",
+        "timestamp": "17:23:22 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.1783,
+        "lon": 55.21287,
+        "type": "Unknown",
+        "timestamp": "17:23:24 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 408890000,
+        "lat": 25.27344,
+        "lon": 55.25996,
+        "type": "Unknown",
+        "timestamp": "17:23:24 UTC"
+      },
+      {
+        "name": "SPEARFISH ANN 2",
+        "mmsi": 470132000,
+        "lat": 25.17669,
+        "lon": 55.20357,
+        "type": "Unknown",
+        "timestamp": "17:23:28 UTC"
+      },
+      {
+        "name": "OCEAN CLEVER",
+        "mmsi": 377709000,
+        "lat": 25.2703,
+        "lon": 55.26026,
+        "type": "Unknown",
+        "timestamp": "17:23:34 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26517,
+        "lon": 55.26008,
+        "type": "Unknown",
+        "timestamp": "17:23:40 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.19908,
+        "lon": 55.21037,
+        "type": "Unknown",
+        "timestamp": "17:23:43 UTC"
+      },
+      {
+        "name": "PLC-03",
+        "mmsi": 470000000,
+        "lat": 25.17697,
+        "lon": 55.20323,
+        "type": "Unknown",
+        "timestamp": "17:23:49 UTC"
+      }
+    ]
   }
 ]

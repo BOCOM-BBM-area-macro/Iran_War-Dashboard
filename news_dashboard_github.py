@@ -838,9 +838,9 @@ def fetch_refinery_attacks_data(cfg: dict) -> list[dict]:
     """Fetch refinery attack data from CSV and group by facility with coordinates."""
     # Look for the refinery CSV in standard locations
     paths_to_check = [
-        Path("master_refinery_attacks_2026.csv"),
-        Path.cwd() / "master_refinery_attacks_2026.csv",
-        Path(__file__).parent / "master_refinery_attacks_2026.csv",
+        Path("Downloads/refinaries/master_refinery_attacks_2026.csv"),
+        Path.cwd() / "Downloads" / "refinaries" / "master_refinery_attacks_2026.csv",
+        Path(__file__).parent / "refinaries" / "master_refinery_attacks_2026.csv",
         Path.home() / "Downloads" / "refinaries" / "master_refinery_attacks_2026.csv"
     ]
     
@@ -981,7 +981,7 @@ Here are the article titles and summaries:
 {articles_text}
 
 Write a comprehensive executive digest that:
-- Identifies the most relevant events of the current and previous day
+- Identifies the most relevant events of the current and previous 3 days
 - Is comprehensive yet objective, providing a thorough analysis with 8-10 lines
 - DO NOT cut the analysis short; ensure it is a complete, well-rounded executive summary that ends with a full sentence
 - Avoid qualitative analysis, focus solely on exposing information
@@ -2852,19 +2852,19 @@ def main():
 
     print(f"\n📰  News Dashboard Pipeline: {dash['title']}")
     
-    print("⏳  Step 1: Fetching recent news (current + previous day)...")
+    print("⏳  Step 1: Fetching recent news (current + previous 3 days)...")
     # Fetch a bit more to allow selection of top 5
-    recent_articles = fetch_articles(cfg, period="2d", max_articles=max(20, dash["max_articles_recent"]))
+    recent_articles = fetch_articles(cfg, period="4d", max_articles=max(20, dash["max_articles_recent"]))
     
     today_dt = datetime.now(timezone.utc).date()
-    digest_dates = [(today_dt - timedelta(days=i)).isoformat() for i in range(2)]
+    digest_dates = [(today_dt - timedelta(days=i)).isoformat() for i in range(4)]
     
     llama_context_articles = [
         a for a in recent_articles 
         if a.get("pub_date") in digest_dates
     ]
     
-    print(f"📌  LLM Context: Filtered {len(llama_context_articles)} articles strictly from the current and previous day.")
+    print(f"📌  LLM Context: Filtered {len(llama_context_articles)} articles strictly from the current and previous 3 days.")
 
     print(f"⏳  Step 2: Fetching remaining news (lookback: {dash['period']})...")
     older_articles = fetch_articles(cfg, period=dash["period"], max_articles=dash["max_articles_older"] + len(recent_articles))

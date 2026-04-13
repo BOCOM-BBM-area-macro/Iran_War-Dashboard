@@ -4042,5 +4042,108 @@
         "timestamp": "23:57:23 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-13T03:30:21.199786+00:00",
+    "readable_time": "2026-04-13 03:30:21 UTC",
+    "vessel_count": 12,
+    "vessels": [
+      {
+        "name": "SHAHEEN  2020",
+        "mmsi": 470424000,
+        "lat": 25.26499,
+        "lon": 55.2757,
+        "type": "Unknown",
+        "timestamp": "03:29:27 UTC"
+      },
+      {
+        "name": "DELTA XVI",
+        "mmsi": 352958000,
+        "lat": 25.26514,
+        "lon": 55.26019,
+        "type": "Unknown",
+        "timestamp": "03:29:28 UTC"
+      },
+      {
+        "name": "SWISSCO JUPITER",
+        "mmsi": 377493000,
+        "lat": 25.26982,
+        "lon": 55.27599,
+        "type": "Unknown",
+        "timestamp": "03:29:31 UTC"
+      },
+      {
+        "name": "BARDSEY ISLAND",
+        "mmsi": 235083529,
+        "lat": 25.17134,
+        "lon": 55.19612,
+        "type": "Unknown",
+        "timestamp": "03:29:34 UTC"
+      },
+      {
+        "name": "OCEAN ENERGY",
+        "mmsi": 636025158,
+        "lat": 25.19949,
+        "lon": 55.20974,
+        "type": "Unknown",
+        "timestamp": "03:29:44 UTC"
+      },
+      {
+        "name": "BLUESHARK 14",
+        "mmsi": 470010441,
+        "lat": 25.17165,
+        "lon": 55.20848,
+        "type": "Unknown",
+        "timestamp": "03:29:44 UTC"
+      },
+      {
+        "name": "AFFABLE",
+        "mmsi": 370088000,
+        "lat": 25.26513,
+        "lon": 55.26009,
+        "type": "Unknown",
+        "timestamp": "03:29:49 UTC"
+      },
+      {
+        "name": "DELTA 22",
+        "mmsi": 352006511,
+        "lat": 25.26774,
+        "lon": 55.26036,
+        "type": "Unknown",
+        "timestamp": "03:29:53 UTC"
+      },
+      {
+        "name": "BLUE SHARK 13",
+        "mmsi": 470009199,
+        "lat": 25.19243,
+        "lon": 55.20732,
+        "type": "Unknown",
+        "timestamp": "03:30:05 UTC"
+      },
+      {
+        "name": "AL AMLAQ",
+        "mmsi": 470000000,
+        "lat": 25.17764,
+        "lon": 55.20292,
+        "type": "Unknown",
+        "timestamp": "03:30:06 UTC"
+      },
+      {
+        "name": "TUG GULF DOLPHIN",
+        "mmsi": 470004823,
+        "lat": 25.18632,
+        "lon": 55.22112,
+        "type": "Unknown",
+        "timestamp": "03:30:07 UTC"
+      },
+      {
+        "name": "GTO 202",
+        "mmsi": 244030951,
+        "lat": 25.17828,
+        "lon": 55.21288,
+        "type": "Unknown",
+        "timestamp": "03:30:08 UTC"
+      }
+    ]
   }
 ]

@@ -4145,5 +4145,44 @@
         "timestamp": "03:30:08 UTC"
       }
     ]
+  },
+  {
+    "snapshot_ts": "2026-04-13T06:03:51.835659+00:00",
+    "readable_time": "2026-04-13 06:03:51 UTC",
+    "vessel_count": 4,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 235083529,
+        "lat": 25.17128,
+        "lon": 55.19615,
+        "type": "Unknown",
+        "timestamp": "06:03:00 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 370088000,
+        "lat": 25.26513,
+        "lon": 55.26008,
+        "type": "Unknown",
+        "timestamp": "06:03:40 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 636025158,
+        "lat": 25.19961,
+        "lon": 55.20992,
+        "type": "Unknown",
+        "timestamp": "06:03:22 UTC"
+      },
+      {
+        "name": "",
+        "mmsi": 246526000,
+        "lat": 25.17584,
+        "lon": 55.20072,
+        "type": "Unknown",
+        "timestamp": "06:03:33 UTC"
+      }
+    ]
   }
 ]

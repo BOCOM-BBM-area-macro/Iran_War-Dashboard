@@ -4586,5 +4586,20 @@
     "readable_time": "2026-04-14 03:11:08 UTC",
     "vessel_count": 0,
     "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:16:09.416578+00:00",
+    "readable_time": "2026-04-14 03:16:09 UTC",
+    "vessel_count": 1,
+    "vessels": [
+      {
+        "name": "ZHI LI 828",
+        "mmsi": 413903059,
+        "lat": 22.35396,
+        "lon": 58.19192,
+        "type": "Unknown",
+        "timestamp": "03:15:58 UTC"
+      }
+    ]
   }
 ]

@@ -1315,20 +1315,24 @@ Respond ONLY with a valid JSON object (no markdown fences) in this exact schema:
 def get_gemini_keys(cfg: dict) -> list[str]:
     """Get all available Gemini API keys from environment variables and config."""
     keys = []
-    # Primary key from env or config
+    
+    # 1. Primary key (Env preferred, then Config)
+    # This covers "GEMINI_API_KEY"
     primary = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
     if primary and not any(p in primary for p in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
         keys.append(primary)
     
-    # Additional keys from environment only
-    i = 2
+    # 2. Sequential keys from environment: GEMINI_API_KEY_1, GEMINI_API_KEY_2, etc.
+    i = 1
     while True:
-        key = os.environ.get(f"GEMINI_API_KEY_{i}")
-        if not key:
+        env_key = os.environ.get(f"GEMINI_API_KEY_{i}")
+        if not env_key:
+            # Stop if we hit a gap in the numbering (standard convention)
             break
-        if key not in keys:
-            keys.append(key)
+        if env_key not in keys:
+            keys.append(env_key)
         i += 1
+        
     return keys
 
 

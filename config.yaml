@@ -7,8 +7,8 @@
 dashboard:
   title: "Iran War Monitor"          # [REQUIRED] Title shown on the dashboard
   topic: "Iran War"                 # [REQUIRED] Main topic to search on Google News
-  max_articles_recent: 1                       # Number of articles from current + previous day (Step 1)
-  max_articles_older: 1                           # Number of articles from previous dates (Step 2)
+  max_articles_recent: 20                       # Number of articles from current + previous day (Step 1)
+  max_articles_older: 30                           # Number of articles from previous dates (Step 2)
   language: "en"                                   # Language code for Google News (default: "en")
   country: "US"                                    # Country code for Google News (default: "US")
   period: "7d"                                     # Lookback window: 1d | 7d | 30d (default: "7d")
@@ -26,7 +26,7 @@ dashboard:
     - "jpost.com"
 
 llm:
-  enabled: false                                  # [OPTIONAL] Set to false to disable AI generated features
+  enabled: true                                  # [OPTIONAL] Set to false to disable AI generated features
   digest_model: "gemini-3.1-flash-lite-preview"               # Gemini model for digest
   watch_model: "gemini-3.1-flash-lite-preview"               # Gemini model for 'things to watch'
   relevant_news_model: "gemini-2.5-flash-lite"           # Gemini model for most relevant news selection

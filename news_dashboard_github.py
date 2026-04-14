@@ -176,6 +176,9 @@ def load_config(path: str) -> dict:
     cfg["trade_tracker"].setdefault("chokepoint", "Strait of Hormuz")
     cfg["trade_tracker"].setdefault("lookback_days", 365)
 
+    cfg.setdefault("hormuz_tracker", {})
+    cfg["hormuz_tracker"].setdefault("enabled", True)
+
     cfg.setdefault("missile_tracker", {})
     cfg["missile_tracker"].setdefault("enabled", True)
     cfg["missile_tracker"].setdefault("url", "https://xyeshxlnlompwrzzcaqf.supabase.co/rest/v1/attacks?select=*&order=date.asc")
@@ -191,6 +194,13 @@ def load_config(path: str) -> dict:
     cfg["gdelt_tracker"].setdefault("project_id", None)
     cfg["gdelt_tracker"].setdefault("lookback_days", 7)
     cfg["gdelt_tracker"].setdefault("location_filter", "IR")
+
+    cfg.setdefault("infrastructure_damage_tracker", {})
+    cfg["infrastructure_damage_tracker"].setdefault("enabled", True)
+    cfg["infrastructure_damage_tracker"].setdefault("url", "https://www.hazardsentinel.info/api/energy-incidents")
+
+    cfg.setdefault("refinery_tracker", {})
+    cfg["refinery_tracker"].setdefault("enabled", True)
 
     return cfg
 
@@ -560,6 +570,152 @@ def fetch_trade_tracker_data(cfg: dict) -> list[dict]:
         return []
 
 
+def fetch_hormuz_historical_data(cfg: dict, fallback_trade_data: list = None) -> list[dict]:
+    """Fetch daily transit data from hormuztracking.com/api/historical-crossings.
+    Falls back to trade_data (IMF PortWatch) if the site is down.
+    """
+    if not cfg.get("hormuz_tracker", {}).get("enabled", True):
+        return []
+
+    print("🚢  Fetching Hormuz Tracking historical data...")
+    url = "https://hormuztracking.com/api/historical-crossings"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
+    
+    data = []
+    try:
+        response = requests.get(url, headers=headers, timeout=15)
+        if response.ok:
+            try:
+                raw_data = response.json()
+                data = raw_data.get("data", [])
+                if data:
+                    print(f"    ✅  Successfully retrieved {len(data)} records from Hormuz Tracking.")
+                    return data
+            except:
+                print("    ⚠️  Hormuz historical data is not JSON.")
+        else:
+            print(f"    ❌  Hormuz historical data fetch failed [{response.status_code}]")
+    except Exception as exc:
+        print(f"    ⚠️  Failed to fetch Hormuz historical data: {exc}")
+
+    # Fallback to IMF PortWatch data if available
+    if fallback_trade_data:
+        print("    🔄  Using IMF PortWatch as fallback for Hormuz historical data...")
+        normalized = []
+        for d in fallback_trade_data:
+            normalized.append({
+                "date": d["date"],
+                "Crude Tankers": d.get("tanker", 0),
+                "Container": d.get("container", 0),
+                "Gas (LPG/LNG)": 0,
+                "Dry Bulk": d.get("dry_bulk", 0),
+                "Other/Cargo": d.get("general_cargo", 0) + d.get("roro", 0),
+                "total": d.get("tanker", 0) + d.get("container", 0) + d.get("dry_bulk", 0) + d.get("general_cargo", 0) + d.get("roro", 0)
+            })
+        return normalized
+
+    return []
+
+
+def fetch_hormuz_vessels_data(cfg: dict, fallback_ais_data: list = None) -> list[dict]:
+    """Fetch vessel positions from maritime_history.json.
+    Groups history by MMSI to track vessel movements over time.
+    """
+    if not cfg.get("hormuz_tracker", {}).get("enabled", True):
+        return []
+
+    print("⛴️   Fetching vessel data from maritime_history.json...")
+    
+    # Discovery logic similar to refinery attacks
+    paths_to_check = [
+        Path("Downloads/maritime_history.json"),
+        Path.cwd() / "Downloads" / "maritime_history.json",
+        Path(__file__).parent / "maritime_history.json",
+        Path.home() / "Downloads" / "maritime_history.json"
+    ]
+    
+    json_path = None
+    for p in paths_to_check:
+        if p.exists():
+            json_path = p
+            break
+            
+    if not json_path:
+        print("⚠️  maritime_history.json not found. Using fallback logic.")
+        # Re-implementing the original logic as a fallback just in case
+        url = "https://hormuztracking.com/api/vessels"
+        headers = {"User-Agent": "Mozilla/5.0"}
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            if response.ok:
+                return response.json().get("data", [])
+        except:
+            pass
+        return []
+
+    try:
+        with open(json_path, 'r') as f:
+            history_data = json.load(f)
+            
+        vessels_map = {} # mmsi -> {name, lat, lon, type, updated_at, last_update, history: []}
+        
+        for snapshot in history_data:
+            ts_str = snapshot.get("snapshot_ts")
+            try:
+                dt = datetime.fromisoformat(ts_str.replace('Z', '+00:00'))
+                ts_ms = int(dt.timestamp() * 1000)
+            except:
+                ts_ms = 0
+                
+            for v in snapshot.get("vessels", []):
+                mmsi = v.get("mmsi")
+                if not mmsi: continue
+                
+                if mmsi not in vessels_map:
+                    vessels_map[mmsi] = {
+                        "name": v.get("name") or "Unknown",
+                        "mmsi": mmsi,
+                        "lat": v.get("lat"),
+                        "lon": v.get("lon"),
+                        "type": v.get("type", "Unknown"),
+                        "updated_at": v.get("timestamp", ""),
+                        "last_update": ts_ms,
+                        "history": []
+                    }
+                else:
+                    if ts_ms > vessels_map[mmsi]["last_update"]:
+                        vessels_map[mmsi]["history"].append({
+                            "lat": vessels_map[mmsi]["lat"],
+                            "lon": vessels_map[mmsi]["lon"],
+                            "time": vessels_map[mmsi]["last_update"]
+                        })
+                        vessels_map[mmsi]["lat"] = v.get("lat")
+                        vessels_map[mmsi]["lon"] = v.get("lon")
+                        vessels_map[mmsi]["last_update"] = ts_ms
+                        vessels_map[mmsi]["updated_at"] = v.get("timestamp", "")
+                        if v.get("name"): vessels_map[mmsi]["name"] = v.get("name")
+                    else:
+                        vessels_map[mmsi]["history"].append({
+                            "lat": v.get("lat"),
+                            "lon": v.get("lon"),
+                            "time": ts_ms
+                        })
+        
+        # Sort and return
+        for mmsi in vessels_map:
+            vessels_map[mmsi]["history"].sort(key=lambda x: x["time"])
+
+        print(f"    ✅  Captured {len(vessels_map)} vessels across {len(history_data)} snapshots from local JSON.")
+        return {
+            "vessels": list(vessels_map.values()),
+            "snapshots": history_data
+        }
+
+    except Exception as exc:
+        print(f"    ⚠️  Failed to process maritime_history.json: {exc}")
+        return {"vessels": [], "snapshots": []}
+
+
 def fetch_missile_tracker_data(cfg: dict) -> list[dict]:
     """Fetch daily attack data directly from the official tracker site via Supabase REST API."""
     tracker_cfg = cfg.get("missile_tracker", {})
@@ -668,6 +824,11 @@ async def _collect_ais_messages(api_key: str, bounding_boxes: list, duration: in
                     metadata = msg_json.get("MetaData", {})
                     mmsi = metadata.get("MMSI")
                     if mmsi:
+                        # Extract Sog and Cog from PositionReport
+                        msg_payload = msg_json.get("Message", {}).get("PositionReport", {})
+                        sog = msg_payload.get("Sog", 0.0)
+                        cog = msg_payload.get("Cog", 0.0)
+                        
                         # Keep only latest position for each ship
                         ships[mmsi] = {
                             "name": metadata.get("ShipName", "Unknown").strip(),
@@ -675,7 +836,10 @@ async def _collect_ais_messages(api_key: str, bounding_boxes: list, duration: in
                             "lat": metadata.get("latitude"),
                             "lon": metadata.get("longitude"),
                             "type": metadata.get("ShipType", "Unknown"),
-                            "timestamp": datetime.now(timezone.utc).strftime("%H:%M:%S UTC")
+                            "sog": sog,
+                            "cog": cog,
+                            "timestamp": datetime.now(timezone.utc).strftime("%H:%M:%S UTC"),
+                            "last_update": int(time.time() * 1000)
                         }
                 except asyncio.TimeoutError:
                     # This is normal if no message arrives in 1s
@@ -836,6 +1000,10 @@ def fetch_gdelt_data(cfg: dict) -> dict:
 
 def fetch_refinery_attacks_data(cfg: dict) -> list[dict]:
     """Fetch refinery attack data from CSV and group by facility with coordinates."""
+    ref_cfg = cfg.get("refinery_tracker", {})
+    if not ref_cfg.get("enabled", True):
+        return []
+
     # Look for the refinery CSV in standard locations
     paths_to_check = [
         Path("Downloads/refinaries/master_refinery_attacks_2026.csv"),
@@ -952,6 +1120,88 @@ def fetch_refinery_attacks_data(cfg: dict) -> list[dict]:
         return []
 
 
+def fetch_infrastructure_damage_data(cfg: dict) -> list[dict]:
+    """Fetch infrastructure damage / energy incidents from Hazard Sentinel API."""
+    id_cfg = cfg.get("infrastructure_damage_tracker", {})
+    if not id_cfg.get("enabled", True):
+        return []
+
+    # Use the specific URL requested by the user
+    url = id_cfg.get("url", "https://www.hazardsentinel.info/api/public/lop/incidents")
+    print(f"🔥  Fetching infrastructure damage data from Hazard Sentinel...")
+    
+    # Specific headers provided by the user in the screenshot
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0",
+        "Accept": "application/json",
+        "Referer": "https://www.hazardsentinel.info/public-map",
+        "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+    }
+    
+    # Middle East focus - standard list of countries
+    MIDDLE_EAST_COUNTRIES = {
+        "Saudi Arabia", "United Arab Emirates", "UAE", "Qatar", "Kuwait", 
+        "Bahrain", "Oman", "Iran", "Iraq", "Israel", "Jordan", 
+        "Lebanon", "Syria", "Yemen", "Egypt", "Palestine"
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=20)
+        if not response.ok:
+            print(f"    ❌  Infrastructure damage fetch failed [{response.status_code}]: {response.text[:100]}")
+            return []
+            
+        data = response.json()
+        if not data:
+            print("    ⚠️  No infrastructure damage data found.")
+            return []
+            
+        incidents = []
+        for row in data:
+            country = row.get("country", "Unknown")
+            
+            # Filter for Middle East facilities only
+            if country not in MIDDLE_EAST_COUNTRIES:
+                continue
+                
+            facility = row.get("facility", "Unknown Facility")
+            date = row.get("incidentDate", "Unknown Date")
+            
+            # Map coordinates
+            lat = row.get("latitude")
+            lon = row.get("longitude")
+            
+            # Skip if no coordinates (we need them for the map)
+            if lat is None or lon is None:
+                continue
+                
+            incidents.append({
+                "id": row.get("id"),
+                "facility": facility,
+                "country": country,
+                "date": date,
+                "lat": float(lat),
+                "lon": float(lon),
+                "operator": row.get("operator", "N/A"),
+                "asset_type": row.get("assetType", "N/A"),
+                "cause": row.get("cause", "N/A"),
+                "fire_type": row.get("fireType", "N/A"),
+                "capacity": row.get("capacityBpd", 0),
+                "loss_pct": row.get("estimatedProductionLossPct", "0"),
+                "loss_bpd": row.get("estimatedLossBpd", 0),
+                "notes": row.get("notes", ""),
+                "created_at": row.get("createdAt", "")
+            })
+            
+        print(f"    ✅  Successfully retrieved {len(incidents)} Middle East incidents from Hazard Sentinel.")
+        # Sort by date descending
+        return sorted(incidents, key=lambda x: x["date"], reverse=True)
+
+    except Exception as exc:
+        print(f"    ⚠️  Failed to fetch infrastructure damage data: {exc}")
+        return []
+
+
 # ── LLM operations ───────────────────────────────────────────────────────────
 
 ARTICLE_PROMPT_TEMPLATE = """\
@@ -1028,7 +1278,7 @@ Respond ONLY with a valid JSON object (no markdown fences):
 """
 
 RELEVANT_NEWS_PROMPT_TEMPLATE = """\
-You are a Senior Intelligence Analyst. Your task is to select the 5 most relevant and impactful news articles from the list below for the topic: {topic}.
+You are a Senior Intelligence Analyst. Your task is to select the 6 most relevant and impactful news articles from the list below for the topic: {topic}.
 
 Current date: {current_date}
 
@@ -1043,7 +1293,7 @@ Criteria:
 
 Respond ONLY with a valid JSON object (no markdown fences) containing the indices of the selected articles (starting from 1).
 {{
-  "selected_indices": [1, 5, 8, 12, 15]
+  "selected_indices": [1, 5, 8, 12, 15, 18]
 }}
 """
 
@@ -1060,24 +1310,24 @@ Respond ONLY with a valid JSON object (no markdown fences) in this exact schema:
 """
 
 def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
-    """Select the top 5 most relevant articles from a list using Gemini."""
+    """Select the top 6 most relevant articles from a list using Gemini."""
     if not genai or not articles:
-        return articles[:5]
+        return articles[:6]
         
     api_key = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
     if not api_key or any(placeholder in api_key for placeholder in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
         print("⚠️  Gemini API key missing. Relevant news selection skipped.")
-        return articles[:5]
+        return articles[:6]
         
     genai.configure(api_key=api_key)
     model_name = cfg["llm"].get("relevant_news_model", "gemini-1.5-flash")
-    print(f"  🧠  Selecting top 5 relevant news with {model_name}…")
+    print(f"  🧠  Selecting top 6 relevant news with {model_name}…")
     
     try:
         model = genai.GenerativeModel(model_name)
     except Exception as e:
         print(f"⚠️  Failed to initialize Gemini model for relevant news: {e}")
-        return articles[:5]
+        return articles[:6]
 
     articles_text = "\n".join(
         f"{i}. {sanitize_for_format(a['source'])} - {sanitize_for_format(a['title'])}"
@@ -1110,12 +1360,12 @@ def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
             
             if selected:
                 print(f"    ✅  Selected {len(selected)} relevant articles.")
-                return selected[:5]
+                return selected[:6]
         except Exception as exc:
             if attempt == 2: print(f"    ⚠️   Relevant news selection failed: {exc}")
             time.sleep(1)
 
-    return articles[:5]
+    return articles[:6]
 
 
 def summarise_articles(articles: list[dict], cfg: dict) -> list[dict]:
@@ -1338,12 +1588,17 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
 
 
 
-def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], digest: dict, cfg: dict) -> str:
+def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], hormuz_historical: list[dict], hormuz_vessels: list[dict], hormuz_snapshots: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], infra_damage_data: list[dict], digest: dict, cfg: dict) -> str:
     env = Environment(autoescape=True)
     
     def _safe_tojson(d):
-        serialized = json.dumps(d).replace('</', '<\\/')
-        return Markup(serialized)
+        if hasattr(d, '__class__') and d.__class__.__name__ == 'Undefined':
+            return Markup('null')
+        try:
+            serialized = json.dumps(d).replace('</', '<\\/')
+            return Markup(serialized)
+        except (TypeError, ValueError):
+            return Markup('null')
     env.filters['tojson'] = _safe_tojson
         
     template_content = """
@@ -1553,13 +1808,24 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
         </span>
       </div>
     </div>
+    {% if infra_damage_data %}
+    <div class="header-right">
+      <div>
+        <div class="stat-num" style="color: var(--negative);">{{ infra_damage_data | length }}</div>
+        <div class="stat-label">ME Strikes</div>
+      </div>
+    </div>
+    {% endif %}
   </header>
 
   <div class="tab-container">
     <button class="tab-btn active" onclick="switchTab('news', this)">📰 News Feed</button>
     <button class="tab-btn" onclick="switchTab('markets', this)">📊 Market Analysis</button>
+    {% if cfg.hormuz_tracker.enabled and (hormuz_historical or hormuz_vessels) %}
+    <button class="tab-btn" onclick="switchTab('hormuz', this)">🚢 Hormuz Tracker</button>
+    {% endif %}
     {% if cfg.trade_tracker.enabled and trade_data %}
-    <button class="tab-btn" onclick="switchTab('trade', this)">🚢 Trade Tracker</button>
+    <button class="tab-btn" onclick="switchTab('trade', this)">🚢 Hormuz Tracker (IMF)</button>
     {% endif %}
     {% if cfg.maritime_tracker.enabled %}
     <button class="tab-btn" onclick="switchTab('maritime', this)">⛴️ Maritime Movement</button>
@@ -1573,49 +1839,12 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% if refinery_data %}
     <button class="tab-btn" onclick="switchTab('refinery', this)">🏭 Refinery Attacks</button>
     {% endif %}
+    {% if infra_damage_data %}
+    <button class="tab-btn" onclick="switchTab('infra', this)">🔥 ME Infrastructure Damage</button>
+    {% endif %}
   </div>
 
   <div id="newsTab" class="tab-content active">
-    <div class="controls">
-      <div class="search-wrap" style="margin-left: 0;">
-        <input type="text" id="searchInput" placeholder="Search keywords…" oninput="applyFilters()" />
-      </div>
-      
-      <div style="margin-left: 20px; display: flex; align-items: center; gap: 8px;" class="hide-mobile">
-        <label for="newsLimit" style="font-size: 11px; color: var(--muted); text-transform: uppercase;">Show:</label>
-        <select id="newsLimit" onchange="applyFilters()" style="background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius); padding: 4px; font-size: 11px;">
-          <option value="5">5</option>
-          <option value="10">10</option>
-          <option value="20">20</option>
-          <option value="all" selected>All</option>
-        </select>
-      </div>
-
-      <div style="margin-left: 20px; display: flex; align-items: center; gap: 8px;">
-        <label for="sortOrder" style="font-size: 11px; color: var(--muted); text-transform: uppercase;">Sort:</label>
-        <select id="sortOrder" onchange="applySort()" style="background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius); padding: 4px; font-size: 11px;">
-          <option value="relevance" selected>Most Relevant</option>
-          <option value="desc">Newest First</option>
-          <option value="asc">Oldest First</option>
-        </select>
-      </div>
-
-      <div style="width: 100%; margin-top: 16px; border-top: 1px solid var(--border); padding-top: 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-        <span style="font-size: 11px; color: var(--muted); text-transform: uppercase;">Filter Dates:</span>
-        <button class="filter-btn active" id="date-all" onclick="toggleDate('all')">All Dates</button>
-        {% for date in unique_dates %}
-        <button class="filter-btn" id="date-{{ date.iso }}" onclick="toggleDate('{{ date.iso }}')">{{ date.label }}</button>
-        {% endfor %}
-      </div>
-
-      <div style="margin-left: auto; display: flex; gap: 8px;">
-        <button class="filter-btn active" onclick="filterSentiment('all', this)">All</button>
-        <button class="filter-btn" onclick="filterSentiment('positive', this)">🟢 Pos</button>
-        <button class="filter-btn" onclick="filterSentiment('negative', this)">🔴 Neg</button>
-        <button class="filter-btn" onclick="filterSentiment('neutral', this)">⚪ Neut</button>
-      </div>
-    </div>
-
     <div class="main-grid">
       <div>
         {% if relevant_news %}
@@ -1635,6 +1864,46 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
         <div class="digest-card">
           <h2>📊 Daily Intelligence Summary</h2>
           <p class="digest-text">{{ digest.digest }}</p>
+        </div>
+
+        <div class="controls" style="margin-bottom: 24px;">
+          <div class="search-wrap" style="margin-left: 0;">
+            <input type="text" id="searchInput" placeholder="Search keywords…" oninput="applyFilters()" />
+          </div>
+          
+          <div style="margin-left: 20px; display: flex; align-items: center; gap: 8px;" class="hide-mobile">
+            <label for="newsLimit" style="font-size: 11px; color: var(--muted); text-transform: uppercase;">Show:</label>
+            <select id="newsLimit" onchange="applyFilters()" style="background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius); padding: 4px; font-size: 11px;">
+              <option value="5">5</option>
+              <option value="10">10</option>
+              <option value="20">20</option>
+              <option value="all" selected>All</option>
+            </select>
+          </div>
+
+          <div style="margin-left: 20px; display: flex; align-items: center; gap: 8px;">
+            <label for="sortOrder" style="font-size: 11px; color: var(--muted); text-transform: uppercase;">Sort:</label>
+            <select id="sortOrder" onchange="applySort()" style="background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius); padding: 4px; font-size: 11px;">
+              <option value="relevance" selected>Most Relevant</option>
+              <option value="desc">Newest First</option>
+              <option value="asc">Oldest First</option>
+            </select>
+          </div>
+
+          <div style="width: 100%; margin-top: 16px; border-top: 1px solid var(--border); padding-top: 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+            <span style="font-size: 11px; color: var(--muted); text-transform: uppercase;">Filter Dates:</span>
+            <button class="filter-btn active" id="date-all" onclick="toggleDate('all')">All Dates</button>
+            {% for date in unique_dates %}
+            <button class="filter-btn" id="date-{{ date.iso }}" onclick="toggleDate('{{ date.iso }}')">{{ date.label }}</button>
+            {% endfor %}
+          </div>
+
+          <div style="margin-left: auto; display: flex; gap: 8px;">
+            <button class="filter-btn active" onclick="filterSentiment('all', this)">All</button>
+            <button class="filter-btn" onclick="filterSentiment('positive', this)">🟢 Pos</button>
+            <button class="filter-btn" onclick="filterSentiment('negative', this)">🔴 Neg</button>
+            <button class="filter-btn" onclick="filterSentiment('neutral', this)">⚪ Neut</button>
+          </div>
         </div>
 
         <div class="articles-grid" id="articlesGrid">
@@ -1765,12 +2034,78 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% endif %}
   </div>
 
+  {% if cfg.hormuz_tracker.enabled %}
+  <div id="hormuzTab" class="tab-content">
+    {% if hormuz_historical %}
+    <div class="hourly-section">
+      <div class="section-header">
+        <div class="section-title">🚢 Hormuz Daily Transit Overview</div>
+      </div>
+      <div class="hourly-card">
+        <div class="hourly-chart-wrap" style="height: 450px;">
+          <canvas id="hormuzHistoricalChart"></canvas>
+        </div>
+        <div class="chart-controls" style="margin-top: 15px;">
+          <button class="chart-btn" onclick="updateHormuzChart('1mo', this)">1M</button>
+          <button class="chart-btn" onclick="updateHormuzChart('3mo', this)">3M</button>
+          <button class="chart-btn" onclick="updateHormuzChart('6mo', this)">6M</button>
+          <button class="chart-btn active" id="defaultHormuzBtn" onclick="updateHormuzChart('all', this)">ALL</button>
+        </div>
+        <div style="margin-top: 20px; padding: 0 20px;">
+          <input type="range" id="hormuzSlider" style="width: 100%; accent-color: var(--accent);" min="5" max="365" value="365" oninput="updateHormuzChartFromSlider(this.value)">
+          <div style="display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); margin-top: 5px;">
+            <span>5 Days</span>
+            <span id="sliderValue">Look back: 365 Days</span>
+            <span>All Data</span>
+          </div>
+        </div>
+        <div class="hourly-note">Data source: Hormuz Tracking.</div>
+      </div>
+    </div>
+    {% endif %}
+
+    {% if hormuz_vessels %}
+    <div class="hourly-section">
+      <div class="section-header">
+        <div class="section-title">⛴️ Hormuz Real-Time Tracker Map</div>
+        <div style="display: flex; align-items: center; gap: 10px; background: var(--surface2); padding: 4px 12px; border-radius: var(--radius); border: 1px solid var(--border);">
+          <span style="font-size: 10px; color: var(--muted); white-space: nowrap;">Snapshot:</span>
+          <input type="range" id="hormuzMapSlider" style="width: 240px; accent-color: var(--accent2);" min="0" max="{{ hormuz_snapshots | length - 1 }}" value="{{ hormuz_snapshots | length - 1 }}" step="1" oninput="updateHormuzMapFromSlider(this.value)">
+          <span id="mapSliderValue" style="font-size: 10px; color: var(--accent2); width: 140px; font-weight: 600;">Latest</span>
+        </div>
+      </div>
+      <div class="main-grid" style="grid-template-columns: 1fr 340px;">
+        <div class="hourly-card" style="padding: 0; overflow: hidden; height: 600px; position: relative;">
+          <div id="hormuz-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
+        </div>
+        <aside class="sidebar hide-mobile">
+          <div class="widget">
+            <div class="widget-title">Live Vessels ({{ hormuz_vessels | length }})</div>
+            <div id="hormuzShipList" style="max-height: 540px; overflow-y: auto;">
+              {% for ship in hormuz_vessels %}
+              <div class="article-card" style="padding: 12px; margin-bottom: 8px; cursor: pointer;" onclick="focusHormuzShip({{ ship.lat }}, {{ ship.lon }}, '{{ ship.name }}')">
+                <div class="card-title" style="font-size: 13px;">{{ ship.name or 'Unknown' }}</div>
+                <div class="card-meta">
+                  <span class="card-source">Type: {{ ship.type }}</span>
+                  <span>{{ ship.updated_at or '' }}</span>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+
   {% if cfg.trade_tracker.enabled %}
   <div id="tradeTab" class="tab-content">
     {% if trade_data %}
     <div class="hourly-section">
       <div class="section-header">
-        <div class="section-title">🚢 {{ cfg.trade_tracker.chokepoint }} Daily Transit & Capacity</div>
+        <div class="section-title">🚢 Hormuz Tracker (IMF) — Daily Transit & Capacity</div>
       </div>
       <div class="hourly-card">
         <div class="hourly-chart-wrap" style="height: 500px;">
@@ -1905,6 +2240,55 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
   </div>
   {% endif %}
 
+  {% if infra_damage_data %}
+  <div id="infraTab" class="tab-content">
+    <div class="hourly-section">
+      <div class="section-header">
+        <div class="section-title">🔥 Middle East Infrastructure Damage — Incident Map</div>
+        <div class="search-wrap" style="margin-left: 20px;">
+          <input type="text" id="infraSearch" placeholder="Search facilities or causes…" oninput="filterInfra()" style="background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius); padding: 6px 12px; font-size: 12px; outline: none; width: 220px;" />
+        </div>
+      </div>
+      <div class="main-grid" style="grid-template-columns: 1fr 340px;">
+        <div class="hourly-card" style="padding: 0; overflow: hidden; height: 750px; position: relative;">
+          <div id="infra-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
+          <!-- Legend for Proportional Colors -->
+          <div style="position: absolute; bottom: 24px; right: 24px; z-index: 1000; background: rgba(10, 12, 16, 0.9); border: 1px solid var(--border); padding: 15px; border-radius: 8px; font-size: 11px; color: var(--text); backdrop-filter: blur(4px);">
+            <div style="font-weight: 700; margin-bottom: 10px; border-bottom: 1px solid var(--border); padding-bottom: 6px; color: #fff; text-transform: uppercase; letter-spacing: 0.05em;">Production Loss %</div>
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;"><span style="width: 14px; height: 14px; border-radius: 50%; background: #991b1b; border: 1px solid #fff;"></span> <span>75% - 100% (Critical)</span></div>
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;"><span style="width: 14px; height: 14px; border-radius: 50%; background: #ef4444; border: 1px solid #fff;"></span> <span>50% - 75% (High Impact)</span></div>
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;"><span style="width: 14px; height: 14px; border-radius: 50%; background: #ff9800; border: 1px solid #fff;"></span> <span>25% - 50% (Medium Impact)</span></div>
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;"><span style="width: 14px; height: 14px; border-radius: 50%; background: #ffeb3b; border: 1px solid #fff;"></span> <span>1% - 25% (Low Impact)</span></div>
+            <div style="display: flex; align-items: center; gap: 10px;"><span style="width: 14px; height: 14px; border-radius: 50%; background: #5a7090; border: 1px solid #fff;"></span> <span>Unknown / Assessment pending</span></div>
+          </div>
+        </div>
+        <aside class="sidebar hide-mobile">
+          <div class="widget">
+            <div class="widget-title">Recent Incidents ({{ infra_damage_data | length }})</div>
+            <div id="infraList" style="max-height: 680px; overflow-y: auto;">
+              {% for incident in infra_damage_data %}
+              <div class="article-card infra-item" data-content="{{ incident.facility | lower }} {{ incident.cause | lower }} {{ incident.country | lower }}" style="padding: 12px; margin-bottom: 8px; cursor: pointer;" onclick="focusInfra({{ incident.lat }}, {{ incident.lon }}, '{{ incident.id }}')">
+                <div class="card-title" style="font-size: 13px; color: var(--accent);">{{ incident.facility }}</div>
+                <div style="font-size: 11px; margin-top: 4px; color: #fff;">{{ incident.cause }}</div>
+                <div class="card-meta">
+                  <span class="card-source">{{ incident.country }}</span>
+                  <span>{{ incident.date }}</span>
+                </div>
+                {% if incident.loss_pct and incident.loss_pct != "0" %}
+                <div style="font-size: 10px; color: var(--negative); font-weight: 600; margin-top: 4px;">
+                  ⚠️ Loss: {{ incident.loss_pct }}% ({{ incident.loss_bpd }} bpd)
+                </div>
+                {% endif %}
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
   <footer>
     {{ title }} · Summaries via {{ model }} · {{ generated_at }}
   </footer>
@@ -1919,20 +2303,117 @@ let activeDates = new Set(['all']);
 let intradayOverlayChart = null;
 const intradayAbsCharts = [];
 let tradeChartRef = null;
+let hormuzHistoricalChartRef = null;
 let missileChartRef = null;
 
 // Data constants — must be declared before any function that references them
 const DAILY_DATA = {{ commodities | tojson }};
 const INTRADAY_DATA = {{ hourly_commodities | tojson }};
 const FULL_TRADE_DATA = {{ trade_data | tojson }};
+const HORMUZ_HISTORICAL = {{ hormuz_historical | tojson }};
+const HORMUZ_VESSELS = {{ hormuz_vessels | tojson }};
+const HORMUZ_SNAPSHOTS = {{ hormuz_snapshots | tojson }};
 const FULL_MISSILE_DATA = {{ missile_data | tojson }};
 const FULL_AIS_DATA = {{ ais_data | tojson }};
 const FULL_REFINERY_DATA = {{ refinery_data | tojson }};
+const FULL_INFRA_DATA = {{ infra_damage_data | tojson }};
 
 let map = null;
+let hormuzMap = null;
 let refineryMap = null;
+let infraMap = null;
 let shipMarkers = [];
+let hormuzMarkers = [];
 let refineryMarkers = [];
+let infraMarkers = [];
+
+function initHormuzMap() {
+  if (hormuzMap) return;
+  hormuzMap = L.map('hormuz-map').setView([26.7, 56.3], 8);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; CARTO',
+    subdomains: 'abcd',
+    maxZoom: 20
+  }).addTo(hormuzMap);
+
+  // Initialize with latest snapshot
+  if (HORMUZ_SNAPSHOTS && HORMUZ_SNAPSHOTS.length > 0) {
+    updateHormuzMapFromSlider(HORMUZ_SNAPSHOTS.length - 1);
+  }
+}
+
+function updateHormuzSidebar(vessels) {
+  const list = document.getElementById('hormuzShipList');
+  const title = document.querySelector('#hormuzTab .widget-title');
+  if (!list || !vessels) return;
+  
+  if (title) title.innerText = `Vessels in Snapshot (${vessels.length})`;
+  
+  list.innerHTML = '';
+  vessels.forEach(ship => {
+    const card = document.createElement('div');
+    card.className = 'article-card';
+    card.style.padding = '12px';
+    card.style.marginBottom = '8px';
+    card.style.cursor = 'pointer';
+    card.onclick = () => focusHormuzShip(ship.lat, ship.lon, ship.name);
+    
+    card.innerHTML = `
+      <div class="card-title" style="font-size: 13px;">${ship.name || 'Unknown'}</div>
+      <div class="card-meta">
+        <span class="card-source">Type: ${ship.type}</span>
+        <span>${ship.timestamp || ''}</span>
+      </div>
+    `;
+    list.appendChild(card);
+  });
+}
+
+function updateHormuzMapFromSlider(index) {
+  const label = document.getElementById('mapSliderValue');
+  if (!HORMUZ_SNAPSHOTS || !HORMUZ_SNAPSHOTS[index]) return;
+  
+  const snapshot = HORMUZ_SNAPSHOTS[index];
+  if (label) {
+    label.innerText = snapshot.readable_time || snapshot.snapshot_ts;
+  }
+
+  if (!hormuzMap) return;
+
+  // Clear existing markers
+  hormuzMarkers.forEach(m => hormuzMap.removeLayer(m.marker));
+  hormuzMarkers = [];
+
+  const vessels = snapshot.vessels || [];
+  vessels.forEach(ship => {
+    if (ship.lat && ship.lon) {
+      const marker = L.circleMarker([ship.lat, ship.lon], {
+        radius: 6,
+        fillColor: "#00e5ff",
+        color: "#fff",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.8
+      }).addTo(hormuzMap);
+      
+      marker.bindPopup(`<b>${ship.name || 'Unknown'}</b><br>Type: ${ship.type}<br>Updated: ${ship.timestamp || ''}`);
+      hormuzMarkers.push({
+        name: ship.name, 
+        marker: marker
+      });
+    }
+  });
+  
+  updateHormuzSidebar(vessels);
+}
+
+function focusHormuzShip(lat, lon, name) {
+  if (hormuzMap && lat && lon) {
+    hormuzMap.setView([lat, lon], 12);
+    const m = hormuzMarkers.find(h => h.name === name);
+    if (m) m.marker.openPopup();
+  }
+}
 
 function initMap() {
   if (map) return;
@@ -2040,6 +2521,112 @@ function filterRefineries() {
   });
 }
 
+function initInfraMap() {
+  if (infraMap) return;
+  
+  infraMap = L.map('infra-map').setView([26.0, 50.0], 5);
+  
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 20
+  }).addTo(infraMap);
+
+  FULL_INFRA_DATA.forEach(incident => {
+    if (incident.lat && incident.lon) {
+      // Calculate color and radius proportional to loss
+      const loss = parseFloat(incident.loss_pct) || 0;
+      let color = "#5a7090"; // Default muted blue for minor/unknown loss
+      let radius = 6;
+      
+      if (loss > 0) {
+        radius = 7 + (loss / 8); // Scale radius from 7 to ~20
+        // Proportional color scale: Yellow -> Orange -> Red -> Dark Red
+        if (loss < 25) color = "#ffeb3b";      // Yellow
+        else if (loss < 50) color = "#ff9800"; // Orange
+        else if (loss < 75) color = "#ef4444"; // Red
+        else color = "#991b1b";                // Dark Red (Critical)
+      } else if (incident.cause && (incident.cause.toLowerCase().includes("strike") || incident.cause.toLowerCase().includes("attack"))) {
+        color = "#ef4444"; // Fallback to red for attacks with unknown loss %
+      }
+      
+      const marker = L.circleMarker([incident.lat, incident.lon], {
+        radius: radius,
+        fillColor: color,
+        color: "#fff",
+        weight: 1.5,
+        opacity: 1,
+        fillOpacity: 0.85
+      }).addTo(infraMap);
+      
+      let popupHtml = `<div style="max-height: 400px; overflow-y: auto; color: #fff; background: #111620; padding: 10px; border-radius: 4px; font-family: sans-serif; min-width: 250px;">`;
+      popupHtml += `<h3 style="margin-top: 0; color: var(--accent); border-bottom: 1px solid #1e2a3a; padding-bottom: 5px;">${incident.facility}</h3>`;
+      popupHtml += `<div style="font-size: 11px; color: #5a7090; margin-bottom: 8px;">${incident.country} · ${incident.date}</div>`;
+      
+      popupHtml += `<div style="margin-bottom: 10px;">`;
+      popupHtml += `<div><b>Asset:</b> ${incident.asset_type}</div>`;
+      popupHtml += `<div><b>Cause:</b> <span style="color: #ef4444; font-weight: bold;">${incident.cause}</span></div>`;
+      popupHtml += `<div><b>Fire Type:</b> ${incident.fire_type}</div>`;
+      popupHtml += `<div><b>Operator:</b> ${incident.operator}</div>`;
+      popupHtml += `</div>`;
+      
+      if (incident.loss_pct && incident.loss_pct !== "0") {
+        popupHtml += `<div style="background: rgba(239, 68, 68, 0.2); border: 1px solid #ef4444; padding: 6px; border-radius: 4px; margin-bottom: 10px; font-size: 12px;">`;
+        popupHtml += `⚠️ <b>Production Loss:</b> ${incident.loss_pct}% (${incident.loss_bpd.toLocaleString()} bpd)`;
+        popupHtml += `</div>`;
+      }
+      
+      if (incident.notes) {
+        popupHtml += `<div style="font-size: 12px; line-height: 1.4; color: #c8d8e8; font-style: italic; border-top: 1px solid #1e2a3a; padding-top: 8px;">`;
+        popupHtml += incident.notes;
+        popupHtml += `</div>`;
+      }
+      
+      popupHtml += `</div>`;
+      
+      marker.bindPopup(popupHtml, { maxWidth: 350 });
+      infraMarkers.push({id: incident.id, content: (incident.facility + ' ' + incident.cause + ' ' + incident.country).toLowerCase(), marker: marker});
+    }
+  });
+}
+
+function focusInfra(lat, lon, id) {
+  if (infraMap && lat && lon) {
+    infraMap.setView([lat, lon], 11);
+    const markerObj = infraMarkers.find(m => m.id === id);
+    if (markerObj) {
+      markerObj.marker.openPopup();
+    }
+  }
+}
+
+function filterInfra() {
+  const query = document.getElementById('infraSearch').value.toLowerCase();
+  
+  // Filter sidebar list
+  document.querySelectorAll('.infra-item').forEach(item => {
+    const content = item.dataset.content;
+    if (content.includes(query)) {
+      item.style.display = 'block';
+    } else {
+      item.style.display = 'none';
+    }
+  });
+  
+  // Filter map markers
+  infraMarkers.forEach(item => {
+    if (item.content.includes(query)) {
+      if (!infraMap.hasLayer(item.marker)) {
+        infraMap.addLayer(item.marker);
+      }
+    } else {
+      if (infraMap.hasLayer(item.marker)) {
+        infraMap.removeLayer(item.marker);
+      }
+    }
+  });
+}
+
 function focusShip(lat, lon, name) {
   if (map && lat && lon) {
     map.setView([lat, lon], 12);
@@ -2122,6 +2709,59 @@ function updateTradeChart(period, btn) {
   }
 }
 
+function updateHormuzChart(period, btn) {
+  if (!hormuzHistoricalChartRef || !HORMUZ_HISTORICAL || !Array.isArray(HORMUZ_HISTORICAL)) return;
+  
+  let sliceSize = HORMUZ_HISTORICAL.length;
+  if (period === '1mo') sliceSize = 30;
+  else if (period === '3mo') sliceSize = 90;
+  else if (period === '6mo') sliceSize = 180;
+  
+  const slider = document.getElementById('hormuzSlider');
+  if (slider) {
+    slider.value = sliceSize;
+    const label = document.getElementById('sliderValue');
+    if (label) label.innerText = 'Look back: ' + sliceSize + ' Days';
+  }
+
+  renderHormuzChart(sliceSize);
+  
+  if (btn && btn.parentElement) {
+    btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
+}
+
+function updateHormuzChartFromSlider(val) {
+  const label = document.getElementById('sliderValue');
+  if (label) label.innerText = 'Look back: ' + val + ' Days';
+  
+  // Deactivate buttons when using slider
+  const btnContainer = document.querySelector('#hormuzTab .chart-controls');
+  if (btnContainer) {
+    btnContainer.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+  }
+  
+  renderHormuzChart(parseInt(val));
+}
+
+function renderHormuzChart(sliceSize) {
+  if (!hormuzHistoricalChartRef || !HORMUZ_HISTORICAL) return;
+  
+  if (sliceSize > HORMUZ_HISTORICAL.length) sliceSize = HORMUZ_HISTORICAL.length;
+  const slice = HORMUZ_HISTORICAL.slice(HORMUZ_HISTORICAL.length - sliceSize);
+  
+  hormuzHistoricalChartRef.data.labels = slice.map(d => d.date || '');
+  if (hormuzHistoricalChartRef.data.datasets[0]) hormuzHistoricalChartRef.data.datasets[0].data = slice.map(d => d['Crude Tankers'] || 0);
+  if (hormuzHistoricalChartRef.data.datasets[1]) hormuzHistoricalChartRef.data.datasets[1].data = slice.map(d => d['Container'] || 0);
+  if (hormuzHistoricalChartRef.data.datasets[2]) hormuzHistoricalChartRef.data.datasets[2].data = slice.map(d => d['Gas (LPG/LNG)'] || 0);
+  if (hormuzHistoricalChartRef.data.datasets[3]) hormuzHistoricalChartRef.data.datasets[3].data = slice.map(d => d['Dry Bulk'] || 0);
+  if (hormuzHistoricalChartRef.data.datasets[4]) hormuzHistoricalChartRef.data.datasets[4].data = slice.map(d => d['Other/Cargo'] || 0);
+  if (hormuzHistoricalChartRef.data.datasets[5]) hormuzHistoricalChartRef.data.datasets[5].data = slice.map(d => d.total || 0);
+  
+  hormuzHistoricalChartRef.update();
+}
+
 function switchTab(tabName, btn) {
   const content = document.getElementById(tabName + 'Tab');
   if (!content || !btn) return;
@@ -2132,14 +2772,20 @@ function switchTab(tabName, btn) {
   content.classList.add('active');
   btn.classList.add('active');
   
-  if (tabName === 'markets' || tabName === 'trade' || tabName === 'maritime' || tabName === 'refinery') {
+  if (tabName === 'markets' || tabName === 'trade' || tabName === 'maritime' || tabName === 'refinery' || tabName === 'infra' || tabName === 'hormuz') {
     window.dispatchEvent(new Event('resize'));
   }
   if (tabName === 'maritime') {
     setTimeout(initMap, 100);
   }
+  if (tabName === 'hormuz') {
+    setTimeout(initHormuzMap, 100);
+  }
   if (tabName === 'refinery') {
     setTimeout(initRefineryMap, 100);
+  }
+  if (tabName === 'infra') {
+    setTimeout(initInfraMap, 100);
   }
   if (tabName === 'missile') {
     setTimeout(function() {
@@ -2455,7 +3101,7 @@ document.addEventListener('DOMContentLoaded', function() {
     },
     {% endfor %}
   ];
-  const hourlyLabels = {{ hourly_commodities[0].labels | tojson }};
+  const hourlyLabels = {{ (hourly_commodities[0].labels if (hourly_commodities and hourly_commodities|length > 0) else []) | tojson }};
 
   intradayOverlayChart = new Chart(document.getElementById('hourlyChart'), {
     type: 'line',
@@ -2680,6 +3326,73 @@ document.addEventListener('DOMContentLoaded', function() {
   })();
   {% endif %}
 
+  // ── Hormuz slider init ──────────────────────────────────────────────────
+  {% if hormuz_historical %}
+  (function() {
+    const slider = document.getElementById('hormuzSlider');
+    const label = document.getElementById('sliderValue');
+    if (slider && HORMUZ_HISTORICAL) {
+      slider.max = HORMUZ_HISTORICAL.length;
+      slider.value = HORMUZ_HISTORICAL.length;
+      if (label) label.innerText = 'Look back: ' + slider.value + ' Days';
+    }
+  })();
+  {% endif %}
+
+  // ── Hormuz Historical Chart ──────────────────────────────────────────────
+  {% if hormuz_historical %}
+  (function() {
+    const ctx = document.getElementById('hormuzHistoricalChart');
+    if (ctx) {
+      hormuzHistoricalChartRef = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: HORMUZ_HISTORICAL.map(d => d.date),
+          datasets: [
+            { label: 'Crude Tankers', data: HORMUZ_HISTORICAL.map(d => d['Crude Tankers'] || 0), backgroundColor: '#ef4444' },
+            { label: 'Container', data: HORMUZ_HISTORICAL.map(d => d['Container'] || 0), backgroundColor: '#7c3aed' },
+            { label: 'Gas (LPG/LNG)', data: HORMUZ_HISTORICAL.map(d => d['Gas (LPG/LNG)'] || 0), backgroundColor: '#00e5ff' },
+            { label: 'Dry Bulk', data: HORMUZ_HISTORICAL.map(d => d['Dry Bulk'] || 0), backgroundColor: '#f59e0b' },
+            { label: 'Other/Cargo', data: HORMUZ_HISTORICAL.map(d => d['Other/Cargo'] || 0), backgroundColor: '#22c55e' },
+            { 
+              label: 'Total', 
+              data: HORMUZ_HISTORICAL.map(d => d.total || 0), 
+              type: 'line', 
+              borderColor: '#fff', 
+              borderWidth: 2, 
+              pointRadius: 0, 
+              fill: false,
+              tension: 0.1,
+              order: -1
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { intersect: false, mode: 'index' },
+          scales: {
+            x: { stacked: true, ticks: { color: '#c8d8e8', maxRotation: 45, maxTicksLimit: 15 }, grid: { color: 'rgba(255, 255, 255, 0.05)' } },
+            y: { stacked: true, ticks: { color: '#c8d8e8' }, grid: { color: 'rgba(255, 255, 255, 0.05)' }, title: { display: true, text: 'Vessel Count', color: '#c8d8e8' } }
+          },
+          plugins: {
+            legend: { position: 'top', labels: { color: '#c8d8e8', font: { family: 'IBM Plex Mono', size: 11 } } },
+            tooltip: {
+              backgroundColor: 'rgba(10, 12, 16, 0.9)',
+              titleColor: '#00e5ff',
+              bodyColor: '#fff',
+              borderColor: '#1e2a3a',
+              borderWidth: 1,
+              titleFont: { family: 'Inter', weight: 'bold' },
+              bodyFont: { family: 'IBM Plex Mono' }
+            }
+          }
+        }
+      });
+    }
+  })();
+  {% endif %}
+
   // ── Missile Tracker Chart ────────────────────────────────────────────────
   {% if missile_data %}
   (function() {
@@ -2816,6 +3529,7 @@ document.addEventListener('DOMContentLoaded', function() {
     top_tags = [t for t, _ in Counter(all_tags).most_common(20)]
     
     dash = cfg["dashboard"]
+    
     context = dict(
         title=dash["title"],
         topic=dash["topic"],
@@ -2826,10 +3540,15 @@ document.addEventListener('DOMContentLoaded', function() {
         commodities=commodities,
         hourly_commodities=intraday_commodities,
         trade_data=trade_data,
+        hormuz_historical=hormuz_historical,
+        hormuz_vessels=hormuz_vessels,
+        hormuz_snapshots=hormuz_snapshots,
         missile_data=missile_data,
         ais_data=ais_data,
+
         gdelt_data=gdelt_data,
         refinery_data=refinery_data,
+        infra_damage_data=infra_damage_data,
         digest=digest,
         sentiment_counts=sentiment_counts,
         all_tags=top_tags,
@@ -2853,8 +3572,7 @@ def main():
     print(f"\n📰  News Dashboard Pipeline: {dash['title']}")
     
     print("⏳  Step 1: Fetching recent news (current + previous 3 days)...")
-    # Fetch a bit more to allow selection of top 5
-    recent_articles = fetch_articles(cfg, period="4d", max_articles=max(20, dash["max_articles_recent"]))
+    recent_articles = fetch_articles(cfg, period="4d", max_articles=dash["max_articles_recent"])
     
     today_dt = datetime.now(timezone.utc).date()
     digest_dates = [(today_dt - timedelta(days=i)).isoformat() for i in range(4)]
@@ -2867,6 +3585,7 @@ def main():
     print(f"📌  LLM Context: Filtered {len(llama_context_articles)} articles strictly from the current and previous 3 days.")
 
     print(f"⏳  Step 2: Fetching remaining news (lookback: {dash['period']})...")
+    # Fetch a bit more to account for duplicates that will be filtered
     older_articles = fetch_articles(cfg, period=dash["period"], max_articles=dash["max_articles_older"] + len(recent_articles))
     
     recent_urls = {a["url"] for a in recent_articles}
@@ -2879,10 +3598,23 @@ def main():
     commodities = fetch_commodity_prices(cfg)
     intraday_commodities = fetch_commodity_intraday(cfg)
     trade_data = fetch_trade_tracker_data(cfg)
-    missile_data = fetch_missile_tracker_data(cfg)
     ais_data = fetch_ais_data(cfg)
+    
+    # Use trade_data and ais_data as fallbacks for Hormuz tracker if its primary API is down (503)
+    hormuz_historical = fetch_hormuz_historical_data(cfg, fallback_trade_data=trade_data)
+    hormuz_vessels_full = fetch_hormuz_vessels_data(cfg, fallback_ais_data=ais_data)
+    
+    if isinstance(hormuz_vessels_full, dict):
+        hormuz_vessels = hormuz_vessels_full.get("vessels", [])
+        hormuz_snapshots = hormuz_vessels_full.get("snapshots", [])
+    else:
+        hormuz_vessels = hormuz_vessels_full
+        hormuz_snapshots = []
+    
+    missile_data = fetch_missile_tracker_data(cfg)
     gdelt_data = fetch_gdelt_data(cfg)
     refinery_data = fetch_refinery_attacks_data(cfg)
+    infra_damage_data = fetch_infrastructure_damage_data(cfg)
 
     print(f"\n📸  Extracting news previews...")
     articles = summarise_articles(articles, cfg)
@@ -2892,7 +3624,7 @@ def main():
         articles = categorize_sentiment(articles, cfg)
         digest = generate_digest(llama_context_articles, commodities, cfg)
         
-        # New Step: Select Top 5 Relevant News from recent articles
+        # New Step: Select Top 6 Relevant News from recent articles
         relevant_news = select_relevant_news(llama_context_articles, cfg)
     else:
         print("\n🚫  AI generated features (sentiment, digest, relevant news) are disabled in config.")
@@ -2905,7 +3637,7 @@ def main():
     print("\n🎨  Rendering HTML dashboard…")
     out_path = Path(cfg["output"]["filename"])
     
-    html = render_html(articles, relevant_news, commodities, intraday_commodities, trade_data, missile_data, ais_data, gdelt_data, refinery_data, digest, cfg)
+    html = render_html(articles, relevant_news, commodities, intraday_commodities, trade_data, hormuz_historical, hormuz_vessels, hormuz_snapshots, missile_data, ais_data, gdelt_data, refinery_data, infra_damage_data, digest, cfg)
     
     out_path.write_text(html, encoding="utf-8")
     

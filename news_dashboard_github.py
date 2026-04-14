@@ -44,8 +44,10 @@ except ImportError:
 
 try:
     import google.generativeai as genai
+    from google.api_core import exceptions as google_exceptions
 except ImportError:
     genai = None
+    google_exceptions = None
 
 try:
     from openai import OpenAI
@@ -151,6 +153,7 @@ def load_config(path: str) -> dict:
     cfg["llm"].setdefault("watch_model", "gemini-1.5-flash")
     cfg["llm"].setdefault("relevant_news_model", "gemini-1.5-flash")
     cfg["llm"].setdefault("sentiment_model", "llama-3.3-70b-versatile")
+    cfg["llm"].setdefault("digest_history_days", 3)
 
     cfg["llm"]["summary_focus"] = cfg["llm"].get("summary_focus") or []
     cfg["llm"]["digest_focus"] = cfg["llm"].get("digest_focus") or []
@@ -1231,7 +1234,7 @@ Here are the article titles and summaries:
 {articles_text}
 
 Write a comprehensive executive digest that:
-- Identifies the most relevant events of the current and previous 3 days
+- Identifies the most relevant events of the current and previous {history_days} days
 - Is comprehensive yet objective, providing a thorough analysis with 8-10 lines
 - DO NOT cut the analysis short; ensure it is a complete, well-rounded executive summary that ends with a full sentence
 - Avoid qualitative analysis, focus solely on exposing information
@@ -1309,25 +1312,37 @@ Respond ONLY with a valid JSON object (no markdown fences) in this exact schema:
 }}
 """
 
+def get_gemini_keys(cfg: dict) -> list[str]:
+    """Get all available Gemini API keys from environment variables and config."""
+    keys = []
+    # Primary key from env or config
+    primary = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
+    if primary and not any(p in primary for p in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
+        keys.append(primary)
+    
+    # Additional keys from environment only
+    i = 2
+    while True:
+        key = os.environ.get(f"GEMINI_API_KEY_{i}")
+        if not key:
+            break
+        if key not in keys:
+            keys.append(key)
+        i += 1
+    return keys
+
+
 def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
     """Select the top 6 most relevant articles from a list using Gemini."""
     if not genai or not articles:
         return articles[:6]
         
-    api_key = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
-    if not api_key or any(placeholder in api_key for placeholder in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
-        print("⚠️  Gemini API key missing. Relevant news selection skipped.")
+    api_keys = get_gemini_keys(cfg)
+    if not api_keys:
+        print("⚠️  Gemini API key(s) missing. Relevant news selection skipped.")
         return articles[:6]
         
-    genai.configure(api_key=api_key)
     model_name = cfg["llm"].get("relevant_news_model", "gemini-1.5-flash")
-    print(f"  🧠  Selecting top 6 relevant news with {model_name}…")
-    
-    try:
-        model = genai.GenerativeModel(model_name)
-    except Exception as e:
-        print(f"⚠️  Failed to initialize Gemini model for relevant news: {e}")
-        return articles[:6]
 
     articles_text = "\n".join(
         f"{i}. {sanitize_for_format(a['source'])} - {sanitize_for_format(a['title'])}"
@@ -1342,28 +1357,41 @@ def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
         .replace("{{", "{").replace("}}", "}")
     )
 
-    for attempt in range(3):
+    for key_idx, current_key in enumerate(api_keys):
+        genai.configure(api_key=current_key)
+        print(f"  🧠  Selecting top 6 relevant news with {model_name} (Key {key_idx+1}/{len(api_keys)})…")
+        
         try:
-            response = model.generate_content(
-                prompt,
-                generation_config=genai.types.GenerationConfig(
-                    temperature=0.1,
-                    response_mime_type="application/json"
+            model = genai.GenerativeModel(model_name)
+        except Exception as e:
+            print(f"⚠️  Failed to initialize Gemini model: {e}")
+            continue
+
+        for attempt in range(3):
+            try:
+                response = model.generate_content(
+                    prompt,
+                    generation_config=genai.types.GenerationConfig(
+                        temperature=0.1,
+                        response_mime_type="application/json"
+                    )
                 )
-            )
-            data = try_extract_json(response.text)
-            indices = data.get("selected_indices", [])
-            selected = []
-            for idx in indices:
-                if isinstance(idx, int) and 1 <= idx <= len(articles):
-                    selected.append(articles[idx-1])
-            
-            if selected:
-                print(f"    ✅  Selected {len(selected)} relevant articles.")
-                return selected[:6]
-        except Exception as exc:
-            if attempt == 2: print(f"    ⚠️   Relevant news selection failed: {exc}")
-            time.sleep(1)
+                data = try_extract_json(response.text)
+                indices = data.get("selected_indices", [])
+                selected = []
+                for idx in indices:
+                    if isinstance(idx, int) and 1 <= idx <= len(articles):
+                        selected.append(articles[idx-1])
+                
+                if selected:
+                    print(f"    ✅  Selected {len(selected)} relevant articles.")
+                    return selected[:6]
+            except Exception as exc:
+                if google_exceptions and isinstance(exc, google_exceptions.ResourceExhausted):
+                    print(f"⚠️  Gemini quota exceeded for Key {key_idx+1}.")
+                    break # Try next key
+                if attempt == 2: print(f"    ⚠️   Relevant news selection failed: {exc}")
+                time.sleep(1)
 
     return articles[:6]
 
@@ -1483,30 +1511,14 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
     if not genai:
         return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}
         
-    # ── SECURITY UPDATE ──
-    # Prioritize GitHub Secrets (environment variable) over the config file
-    api_key = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
-    
-    if not api_key or any(placeholder in api_key for placeholder in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
-        print("⚠️  Gemini API key missing or placeholder detected. Digest skipped.")
+    api_keys = get_gemini_keys(cfg)
+    if not api_keys:
+        print("⚠️  Gemini API key(s) missing or placeholder detected. Digest skipped.")
         return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}
-    # ──────────────────────
         
-    genai.configure(api_key=api_key)
-    
     digest_model_name = cfg["llm"].get("digest_model", "gemini-1.5-flash")
     watch_model_name = cfg["llm"].get("watch_model", "gemini-1.5-flash")
     
-    print(f"\n🧠  Initializing models: Digest ({digest_model_name}), Watch ({watch_model_name})...")
-    
-    # Select Gemini models
-    try:
-        digest_model = genai.GenerativeModel(digest_model_name)
-        watch_model = genai.GenerativeModel(watch_model_name)
-    except Exception as e:
-        print(f"⚠️  Failed to initialize Gemini models: {e}")
-        return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}
-
     # Format articles with full text if available
     articles_text = "\n\n".join(
         f"{i}. [{sanitize_for_format(a['source'])}] {sanitize_for_format(a['title'])}\n   "
@@ -1519,61 +1531,105 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
         items = "\n".join(f"  - {sanitize_for_format(d)}" for d in cfg["llm"]["digest_focus"])
         digest_instructions = f"Additionally address:\n{items}"
 
-    # --- Step 1: Executive Digest ---
-    print(f"  🧠  Generating executive digest with {digest_model_name}…")
-    digest_prompt = (
-        EXECUTIVE_DIGEST_PROMPT_TEMPLATE
-        .replace("{topic}", cfg["dashboard"]["topic"])
-        .replace("{count}", str(len(articles)))
-        .replace("{articles_text}", articles_text)
-        .replace("{digest_instructions}", digest_instructions)
-        .replace("{{", "{").replace("}}", "}")
-    )
-
+    key_idx = 0
     digest_data = {"digest": "Digest unavailable.", "top_themes": []}
-    for attempt in range(3):
+    watch_data = {"next_events": []}
+
+    # --- Step 1: Executive Digest ---
+    while key_idx < len(api_keys):
+        current_key = api_keys[key_idx]
+        genai.configure(api_key=current_key)
+        print(f"  🧠  Generating executive digest with {digest_model_name} (Key {key_idx+1}/{len(api_keys)})…")
+        
         try:
-            response = digest_model.generate_content(
-                digest_prompt,
-                generation_config=genai.types.GenerationConfig(
-                    temperature=0.1,
-                    response_mime_type="application/json"
+            digest_model = genai.GenerativeModel(digest_model_name)
+        except Exception as e:
+            print(f"⚠️  Failed to initialize Gemini model: {e}")
+            key_idx += 1
+            continue
+
+        digest_prompt = (
+            EXECUTIVE_DIGEST_PROMPT_TEMPLATE
+            .replace("{topic}", cfg["dashboard"]["topic"])
+            .replace("{count}", str(len(articles)))
+            .replace("{articles_text}", articles_text)
+            .replace("{digest_instructions}", digest_instructions)
+            .replace("{history_days}", str(cfg["llm"].get("digest_history_days", 3)))
+            .replace("{{", "{").replace("}}", "}")
+        )
+
+        success = False
+        for attempt in range(3):
+            try:
+                response = digest_model.generate_content(
+                    digest_prompt,
+                    generation_config=genai.types.GenerationConfig(
+                        temperature=0.1,
+                        # Use application/json if supported by model
+                        response_mime_type="application/json" if "flash" in digest_model_name.lower() or "pro" in digest_model_name.lower() else "text/plain"
+                    )
                 )
-            )
-            data = try_extract_json(response.text)
-            if data and "digest" in data:
-                digest_data = data
-                break
-        except Exception as exc:
-            if attempt == 2: print(f"    ⚠️   Executive digest failed: {exc}")
-            time.sleep(1)
+                data = try_extract_json(response.text)
+                if data and "digest" in data:
+                    digest_data = data
+                    success = True
+                    break
+            except Exception as exc:
+                if google_exceptions and isinstance(exc, google_exceptions.ResourceExhausted):
+                    print(f"⚠️  Gemini quota exceeded for Key {key_idx+1} (Digest).")
+                    key_idx += 1
+                    break # Try next key
+                if attempt == 2: print(f"    ⚠️   Executive digest failed: {exc}")
+                time.sleep(1)
+        
+        if success or (key_idx >= len(api_keys)):
+            break
 
     # --- Step 2: Things to Watch ---
-    print(f"  🔭  Identifying things to watch with {watch_model_name}…")
-    watch_prompt = (
-        THINGS_TO_WATCH_PROMPT_TEMPLATE
-        .replace("{topic}", cfg["dashboard"]["topic"])
-        .replace("{articles_text}", articles_text)
-        .replace("{{", "{").replace("}}", "}")
-    )
-
-    watch_data = {"next_events": []}
-    for attempt in range(3):
+    while key_idx < len(api_keys):
+        current_key = api_keys[key_idx]
+        genai.configure(api_key=current_key)
+        print(f"  🔭  Identifying things to watch with {watch_model_name} (Key {key_idx+1}/{len(api_keys)})…")
+        
         try:
-            response = watch_model.generate_content(
-                watch_prompt,
-                generation_config=genai.types.GenerationConfig(
-                    temperature=0.1,
-                    response_mime_type="application/json"
+            watch_model = genai.GenerativeModel(watch_model_name)
+        except Exception as e:
+            print(f"⚠️  Failed to initialize Gemini model: {e}")
+            key_idx += 1
+            continue
+
+        watch_prompt = (
+            THINGS_TO_WATCH_PROMPT_TEMPLATE
+            .replace("{topic}", cfg["dashboard"]["topic"])
+            .replace("{articles_text}", articles_text)
+            .replace("{{", "{").replace("}}", "}")
+        )
+
+        success = False
+        for attempt in range(3):
+            try:
+                response = watch_model.generate_content(
+                    watch_prompt,
+                    generation_config=genai.types.GenerationConfig(
+                        temperature=0.1,
+                        response_mime_type="application/json" if "flash" in watch_model_name.lower() or "pro" in watch_model_name.lower() else "text/plain"
+                    )
                 )
-            )
-            data = try_extract_json(response.text)
-            if data and "next_events" in data:
-                watch_data = data
-                break
-        except Exception as exc:
-            if attempt == 2: print(f"    ⚠️   Things to watch failed: {exc}")
-            time.sleep(1)
+                data = try_extract_json(response.text)
+                if data and "next_events" in data:
+                    watch_data = data
+                    success = True
+                    break
+            except Exception as exc:
+                if google_exceptions and isinstance(exc, google_exceptions.ResourceExhausted):
+                    print(f"⚠️  Gemini quota exceeded for Key {key_idx+1} (Watch).")
+                    key_idx += 1
+                    break # Try next key
+                if attempt == 2: print(f"    ⚠️   Things to watch failed: {exc}")
+                time.sleep(1)
+        
+        if success or (key_idx >= len(api_keys)):
+            break
 
     return {
         "digest": digest_data.get("digest", "Digest unavailable."),
@@ -3571,18 +3627,21 @@ def main():
 
     print(f"\n📰  News Dashboard Pipeline: {dash['title']}")
     
-    print("⏳  Step 1: Fetching recent news (current + previous 3 days)...")
-    recent_articles = fetch_articles(cfg, period="4d", max_articles=dash["max_articles_recent"])
+    history_days = cfg["llm"].get("digest_history_days", 3)
+    fetch_period = f"{history_days + 1}d"
+    
+    print(f"⏳  Step 1: Fetching recent news (current + previous {history_days} days)...")
+    recent_articles = fetch_articles(cfg, period=fetch_period, max_articles=dash["max_articles_recent"])
     
     today_dt = datetime.now(timezone.utc).date()
-    digest_dates = [(today_dt - timedelta(days=i)).isoformat() for i in range(4)]
+    digest_dates = [(today_dt - timedelta(days=i)).isoformat() for i in range(history_days + 1)]
     
     llama_context_articles = [
         a for a in recent_articles 
         if a.get("pub_date") in digest_dates
     ]
     
-    print(f"📌  LLM Context: Filtered {len(llama_context_articles)} articles strictly from the current and previous 3 days.")
+    print(f"📌  LLM Context: Filtered {len(llama_context_articles)} articles strictly from the current and previous {history_days} days.")
 
     print(f"⏳  Step 2: Fetching remaining news (lookback: {dash['period']})...")
     # Fetch a bit more to account for duplicates that will be filtered

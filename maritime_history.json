@@ -1,691 +1,5 @@
 [
   {
-    "snapshot_ts": "2026-04-09T18:09:50.957299+00:00",
-    "readable_time": "2026-04-09 18:09:50 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-09T18:40:06.092663+00:00",
-    "readable_time": "2026-04-09 18:40:06 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-09T19:51:37.632620+00:00",
-    "readable_time": "2026-04-09 19:51:37 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-09T20:56:51.403583+00:00",
-    "readable_time": "2026-04-09 20:56:51 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-09T21:50:54.393999+00:00",
-    "readable_time": "2026-04-09 21:50:54 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-09T22:30:22.321152+00:00",
-    "readable_time": "2026-04-09 22:30:22 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-09T23:24:17.398019+00:00",
-    "readable_time": "2026-04-09 23:24:17 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T00:04:02.937910+00:00",
-    "readable_time": "2026-04-10 00:04:02 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T03:39:41.815930+00:00",
-    "readable_time": "2026-04-10 03:39:41 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T05:51:51.031896+00:00",
-    "readable_time": "2026-04-10 05:51:51 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T07:48:30.736981+00:00",
-    "readable_time": "2026-04-10 07:48:30 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T08:58:38.871136+00:00",
-    "readable_time": "2026-04-10 08:58:38 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T10:16:12.686801+00:00",
-    "readable_time": "2026-04-10 10:16:12 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T11:15:46.640282+00:00",
-    "readable_time": "2026-04-10 11:15:46 UTC",
-    "vessel_count": 4,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 470009199,
-        "lat": 25.18943,
-        "lon": 55.21522,
-        "type": "Unknown",
-        "timestamp": "11:14:56 UTC"
-      },
-      {
-        "name": "",
-        "mmsi": 470010441,
-        "lat": 25.17547,
-        "lon": 55.20574,
-        "type": "Unknown",
-        "timestamp": "11:15:00 UTC"
-      },
-      {
-        "name": "BARDSEY ISLAND",
-        "mmsi": 235083529,
-        "lat": 25.18795,
-        "lon": 55.20295,
-        "type": "Unknown",
-        "timestamp": "11:15:17 UTC"
-      },
-      {
-        "name": "TUG GULF DOLPHIN",
-        "mmsi": 470004823,
-        "lat": 25.18574,
-        "lon": 55.22197,
-        "type": "Unknown",
-        "timestamp": "11:15:22 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-10T12:04:26.366509+00:00",
-    "readable_time": "2026-04-10 12:04:26 UTC",
-    "vessel_count": 3,
-    "vessels": [
-      {
-        "name": "OCEAN ENERGY",
-        "mmsi": 636025158,
-        "lat": 25.20804,
-        "lon": 55.20474,
-        "type": "Unknown",
-        "timestamp": "12:03:40 UTC"
-      },
-      {
-        "name": "TUG GULF DOLPHIN",
-        "mmsi": 470004823,
-        "lat": 25.18572,
-        "lon": 55.22176,
-        "type": "Unknown",
-        "timestamp": "12:03:53 UTC"
-      },
-      {
-        "name": "",
-        "mmsi": 470009199,
-        "lat": 25.19255,
-        "lon": 55.21146,
-        "type": "Unknown",
-        "timestamp": "12:03:57 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-10T13:48:04.573472+00:00",
-    "readable_time": "2026-04-10 13:48:04 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 538007319,
-        "lat": 25.24621,
-        "lon": 55.26411,
-        "type": "Unknown",
-        "timestamp": "13:47:27 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-10T14:41:30.123406+00:00",
-    "readable_time": "2026-04-10 14:41:30 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T15:37:09.460171+00:00",
-    "readable_time": "2026-04-10 15:37:09 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "HAANA",
-        "mmsi": 538011959,
-        "lat": 25.63355,
-        "lon": 55.14565,
-        "type": "Unknown",
-        "timestamp": "15:36:22 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-10T16:35:25.494104+00:00",
-    "readable_time": "2026-04-10 16:35:25 UTC",
-    "vessel_count": 2,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 538011959,
-        "lat": 25.63355,
-        "lon": 55.14565,
-        "type": "Unknown",
-        "timestamp": "16:34:56 UTC"
-      },
-      {
-        "name": "",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "16:35:04 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-10T17:33:37.864168+00:00",
-    "readable_time": "2026-04-10 17:33:37 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T18:33:35.710243+00:00",
-    "readable_time": "2026-04-10 18:33:35 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T19:32:01.819813+00:00",
-    "readable_time": "2026-04-10 19:32:01 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "19:31:43 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-10T20:07:57.814889+00:00",
-    "readable_time": "2026-04-10 20:07:57 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T20:56:18.051017+00:00",
-    "readable_time": "2026-04-10 20:56:18 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T21:42:29.094471+00:00",
-    "readable_time": "2026-04-10 21:42:29 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T22:23:20.804755+00:00",
-    "readable_time": "2026-04-10 22:23:20 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-10T23:05:45.128066+00:00",
-    "readable_time": "2026-04-10 23:05:45 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "23:05:41 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-10T23:52:20.579108+00:00",
-    "readable_time": "2026-04-10 23:52:20 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "MERCURY LUCKY",
-        "mmsi": 630001218,
-        "lat": 25.50077,
-        "lon": 55.01117,
-        "type": "Unknown",
-        "timestamp": "23:51:36 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T02:34:28.740891+00:00",
-    "readable_time": "2026-04-11 02:34:28 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "02:34:08 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T04:36:12.864683+00:00",
-    "readable_time": "2026-04-11 04:36:12 UTC",
-    "vessel_count": 3,
-    "vessels": [
-      {
-        "name": "MERCURY LUCKY",
-        "mmsi": 630001218,
-        "lat": 25.73332,
-        "lon": 54.8167,
-        "type": "Unknown",
-        "timestamp": "04:35:20 UTC"
-      },
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.26192,
-        "lon": 55.27378,
-        "type": "Unknown",
-        "timestamp": "04:35:23 UTC"
-      },
-      {
-        "name": "TOPAZ AMUR",
-        "mmsi": 538007319,
-        "lat": 25.24689,
-        "lon": 55.26337,
-        "type": "Unknown",
-        "timestamp": "04:35:27 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T05:48:37.943498+00:00",
-    "readable_time": "2026-04-11 05:48:37 UTC",
-    "vessel_count": 3,
-    "vessels": [
-      {
-        "name": "TOPAZ AMUR",
-        "mmsi": 538007319,
-        "lat": 25.24653,
-        "lon": 55.26411,
-        "type": "Unknown",
-        "timestamp": "05:47:43 UTC"
-      },
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "05:47:46 UTC"
-      },
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.26188,
-        "lon": 55.27382,
-        "type": "Unknown",
-        "timestamp": "05:48:05 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T06:44:59.853471+00:00",
-    "readable_time": "2026-04-11 06:44:59 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.26193,
-        "lon": 55.27385,
-        "type": "Unknown",
-        "timestamp": "06:44:05 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T07:41:44.072488+00:00",
-    "readable_time": "2026-04-11 07:41:44 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.2621,
-        "lon": 55.27407,
-        "type": "Unknown",
-        "timestamp": "07:41:21 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T08:28:33.301961+00:00",
-    "readable_time": "2026-04-11 08:28:33 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T09:12:11.030564+00:00",
-    "readable_time": "2026-04-11 09:12:11 UTC",
-    "vessel_count": 2,
-    "vessels": [
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.26195,
-        "lon": 55.27385,
-        "type": "Unknown",
-        "timestamp": "09:12:04 UTC"
-      },
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "09:12:10 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T10:01:03.346539+00:00",
-    "readable_time": "2026-04-11 10:01:03 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "10:00:28 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T10:51:04.449551+00:00",
-    "readable_time": "2026-04-11 10:51:04 UTC",
-    "vessel_count": 2,
-    "vessels": [
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "10:50:05 UTC"
-      },
-      {
-        "name": "",
-        "mmsi": 470229000,
-        "lat": 25.26195,
-        "lon": 55.27387,
-        "type": "Unknown",
-        "timestamp": "10:50:11 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T11:21:58.329073+00:00",
-    "readable_time": "2026-04-11 11:21:58 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "11:21:24 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T11:56:02.436744+00:00",
-    "readable_time": "2026-04-11 11:56:02 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.26198,
-        "lon": 55.27383,
-        "type": "Unknown",
-        "timestamp": "11:55:33 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T13:06:32.882463+00:00",
-    "readable_time": "2026-04-11 13:06:32 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T14:01:52.412387+00:00",
-    "readable_time": "2026-04-11 14:01:52 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T14:54:28.747512+00:00",
-    "readable_time": "2026-04-11 14:54:28 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T15:38:08.012170+00:00",
-    "readable_time": "2026-04-11 15:38:08 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 470229000,
-        "lat": 25.26188,
-        "lon": 55.27408,
-        "type": "Unknown",
-        "timestamp": "15:37:20 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T16:55:05.755506+00:00",
-    "readable_time": "2026-04-11 16:55:05 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T17:36:28.820431+00:00",
-    "readable_time": "2026-04-11 17:36:28 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T18:03:16.605277+00:00",
-    "readable_time": "2026-04-11 18:03:16 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T19:05:07.973588+00:00",
-    "readable_time": "2026-04-11 19:05:07 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.26188,
-        "lon": 55.27388,
-        "type": "Unknown",
-        "timestamp": "19:04:30 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T19:49:42.862487+00:00",
-    "readable_time": "2026-04-11 19:49:42 UTC",
-    "vessel_count": 2,
-    "vessels": [
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "19:48:50 UTC"
-      },
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.26223,
-        "lon": 55.27378,
-        "type": "Unknown",
-        "timestamp": "19:49:21 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T20:18:16.907419+00:00",
-    "readable_time": "2026-04-11 20:18:16 UTC",
-    "vessel_count": 2,
-    "vessels": [
-      {
-        "name": "TOPAZ AMUR",
-        "mmsi": 538007319,
-        "lat": 25.24658,
-        "lon": 55.26397,
-        "type": "Unknown",
-        "timestamp": "20:17:34 UTC"
-      },
-      {
-        "name": "AL JAMOH",
-        "mmsi": 471164000,
-        "lat": 25.00574,
-        "lon": 54.72994,
-        "type": "Unknown",
-        "timestamp": "20:18:00 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T20:55:48.291498+00:00",
-    "readable_time": "2026-04-11 20:55:48 UTC",
-    "vessel_count": 2,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "20:54:50 UTC"
-      },
-      {
-        "name": "DEEP BREATH",
-        "mmsi": 470229000,
-        "lat": 25.2619,
-        "lon": 55.27385,
-        "type": "Unknown",
-        "timestamp": "20:54:50 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T21:38:05.715922+00:00",
-    "readable_time": "2026-04-11 21:38:05 UTC",
-    "vessel_count": 2,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "21:37:17 UTC"
-      },
-      {
-        "name": "",
-        "mmsi": 470229000,
-        "lat": 25.26192,
-        "lon": 55.27387,
-        "type": "Unknown",
-        "timestamp": "21:37:52 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T22:02:34.176675+00:00",
-    "readable_time": "2026-04-11 22:02:34 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "MOONLIGHT II",
-        "mmsi": 215934000,
-        "lat": 25.25802,
-        "lon": 54.25139,
-        "type": "Unknown",
-        "timestamp": "22:01:45 UTC"
-      }
-    ]
-  },
-  {
-    "snapshot_ts": "2026-04-11T22:52:08.956762+00:00",
-    "readable_time": "2026-04-11 22:52:08 UTC",
-    "vessel_count": 0,
-    "vessels": []
-  },
-  {
-    "snapshot_ts": "2026-04-11T23:40:03.703379+00:00",
-    "readable_time": "2026-04-11 23:40:03 UTC",
-    "vessel_count": 1,
-    "vessels": [
-      {
-        "name": "",
-        "mmsi": 325946000,
-        "lat": 24.10586,
-        "lon": 55.7624,
-        "type": "Unknown",
-        "timestamp": "23:40:00 UTC"
-      }
-    ]
-  },
-  {
     "snapshot_ts": "2026-04-12T00:05:51.870336+00:00",
     "readable_time": "2026-04-12 00:05:51 UTC",
     "vessel_count": 1,
@@ -4386,6 +3700,3387 @@
   {
     "snapshot_ts": "2026-04-14T00:26:08.585326+00:00",
     "readable_time": "2026-04-14 00:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T00:31:09.133173+00:00",
+    "readable_time": "2026-04-14 00:31:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T00:36:08.221862+00:00",
+    "readable_time": "2026-04-14 00:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T00:41:08.385631+00:00",
+    "readable_time": "2026-04-14 00:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T00:46:08.729011+00:00",
+    "readable_time": "2026-04-14 00:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T00:51:08.884209+00:00",
+    "readable_time": "2026-04-14 00:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T00:56:09.385617+00:00",
+    "readable_time": "2026-04-14 00:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:01:08.423592+00:00",
+    "readable_time": "2026-04-14 01:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:06:08.512017+00:00",
+    "readable_time": "2026-04-14 01:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:11:08.333224+00:00",
+    "readable_time": "2026-04-14 01:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:16:08.381112+00:00",
+    "readable_time": "2026-04-14 01:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:21:08.534411+00:00",
+    "readable_time": "2026-04-14 01:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:26:08.735374+00:00",
+    "readable_time": "2026-04-14 01:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:31:09.095793+00:00",
+    "readable_time": "2026-04-14 01:31:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:36:08.125215+00:00",
+    "readable_time": "2026-04-14 01:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:41:08.398796+00:00",
+    "readable_time": "2026-04-14 01:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:46:08.883451+00:00",
+    "readable_time": "2026-04-14 01:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:51:08.850478+00:00",
+    "readable_time": "2026-04-14 01:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T01:56:08.921687+00:00",
+    "readable_time": "2026-04-14 01:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:01:09.097749+00:00",
+    "readable_time": "2026-04-14 02:01:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:06:08.062439+00:00",
+    "readable_time": "2026-04-14 02:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:11:08.018973+00:00",
+    "readable_time": "2026-04-14 02:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:16:07.955206+00:00",
+    "readable_time": "2026-04-14 02:16:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:21:09.058636+00:00",
+    "readable_time": "2026-04-14 02:21:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:26:08.164247+00:00",
+    "readable_time": "2026-04-14 02:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:31:10.566577+00:00",
+    "readable_time": "2026-04-14 02:31:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:36:08.752784+00:00",
+    "readable_time": "2026-04-14 02:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:41:08.870024+00:00",
+    "readable_time": "2026-04-14 02:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:46:08.827541+00:00",
+    "readable_time": "2026-04-14 02:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:51:08.886524+00:00",
+    "readable_time": "2026-04-14 02:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T02:56:09.275740+00:00",
+    "readable_time": "2026-04-14 02:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:01:08.502089+00:00",
+    "readable_time": "2026-04-14 03:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:06:08.587654+00:00",
+    "readable_time": "2026-04-14 03:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:11:08.669251+00:00",
+    "readable_time": "2026-04-14 03:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:16:09.416578+00:00",
+    "readable_time": "2026-04-14 03:16:09 UTC",
+    "vessel_count": 1,
+    "vessels": [
+      {
+        "name": "ZHI LI 828",
+        "mmsi": 413903059,
+        "lat": 22.35396,
+        "lon": 58.19192,
+        "type": "Unknown",
+        "timestamp": "03:15:58 UTC"
+      }
+    ]
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:21:08.620354+00:00",
+    "readable_time": "2026-04-14 03:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:26:09.074788+00:00",
+    "readable_time": "2026-04-14 03:26:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:31:08.028918+00:00",
+    "readable_time": "2026-04-14 03:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:36:08.086097+00:00",
+    "readable_time": "2026-04-14 03:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:41:07.995731+00:00",
+    "readable_time": "2026-04-14 03:41:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:46:09.165900+00:00",
+    "readable_time": "2026-04-14 03:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:51:08.080449+00:00",
+    "readable_time": "2026-04-14 03:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T03:56:08.026309+00:00",
+    "readable_time": "2026-04-14 03:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:01:08.031356+00:00",
+    "readable_time": "2026-04-14 04:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:06:07.936300+00:00",
+    "readable_time": "2026-04-14 04:06:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:11:08.004035+00:00",
+    "readable_time": "2026-04-14 04:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:16:08.087213+00:00",
+    "readable_time": "2026-04-14 04:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:21:08.118992+00:00",
+    "readable_time": "2026-04-14 04:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:26:08.510279+00:00",
+    "readable_time": "2026-04-14 04:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:31:08.305041+00:00",
+    "readable_time": "2026-04-14 04:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:36:08.229171+00:00",
+    "readable_time": "2026-04-14 04:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:41:08.238426+00:00",
+    "readable_time": "2026-04-14 04:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:46:08.540726+00:00",
+    "readable_time": "2026-04-14 04:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:51:08.460937+00:00",
+    "readable_time": "2026-04-14 04:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T04:56:08.543886+00:00",
+    "readable_time": "2026-04-14 04:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:01:08.755315+00:00",
+    "readable_time": "2026-04-14 05:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:06:08.812619+00:00",
+    "readable_time": "2026-04-14 05:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:11:08.879894+00:00",
+    "readable_time": "2026-04-14 05:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:16:09.088727+00:00",
+    "readable_time": "2026-04-14 05:16:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:21:08.342515+00:00",
+    "readable_time": "2026-04-14 05:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:26:08.398066+00:00",
+    "readable_time": "2026-04-14 05:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:31:08.601918+00:00",
+    "readable_time": "2026-04-14 05:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:36:08.571377+00:00",
+    "readable_time": "2026-04-14 05:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:41:08.691631+00:00",
+    "readable_time": "2026-04-14 05:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:46:09.275002+00:00",
+    "readable_time": "2026-04-14 05:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:51:08.498652+00:00",
+    "readable_time": "2026-04-14 05:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T05:56:08.653867+00:00",
+    "readable_time": "2026-04-14 05:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:01:08.858545+00:00",
+    "readable_time": "2026-04-14 06:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:06:09.154473+00:00",
+    "readable_time": "2026-04-14 06:06:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:11:08.374114+00:00",
+    "readable_time": "2026-04-14 06:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:16:08.585207+00:00",
+    "readable_time": "2026-04-14 06:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:21:08.661886+00:00",
+    "readable_time": "2026-04-14 06:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:26:08.997741+00:00",
+    "readable_time": "2026-04-14 06:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:31:08.318833+00:00",
+    "readable_time": "2026-04-14 06:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:36:08.366849+00:00",
+    "readable_time": "2026-04-14 06:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:41:08.368794+00:00",
+    "readable_time": "2026-04-14 06:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:46:09.092516+00:00",
+    "readable_time": "2026-04-14 06:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:51:08.042657+00:00",
+    "readable_time": "2026-04-14 06:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T06:56:08.391714+00:00",
+    "readable_time": "2026-04-14 06:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:01:09.299927+00:00",
+    "readable_time": "2026-04-14 07:01:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:06:10.415326+00:00",
+    "readable_time": "2026-04-14 07:06:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:11:08.497366+00:00",
+    "readable_time": "2026-04-14 07:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:16:13.405771+00:00",
+    "readable_time": "2026-04-14 07:16:13 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:21:08.864189+00:00",
+    "readable_time": "2026-04-14 07:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:26:09.062410+00:00",
+    "readable_time": "2026-04-14 07:26:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:31:08.075787+00:00",
+    "readable_time": "2026-04-14 07:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:36:08.144815+00:00",
+    "readable_time": "2026-04-14 07:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:41:08.293826+00:00",
+    "readable_time": "2026-04-14 07:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:46:08.362810+00:00",
+    "readable_time": "2026-04-14 07:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:51:08.279525+00:00",
+    "readable_time": "2026-04-14 07:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T07:56:08.754592+00:00",
+    "readable_time": "2026-04-14 07:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:01:08.732062+00:00",
+    "readable_time": "2026-04-14 08:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:06:09.248043+00:00",
+    "readable_time": "2026-04-14 08:06:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:11:08.558664+00:00",
+    "readable_time": "2026-04-14 08:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:16:08.952490+00:00",
+    "readable_time": "2026-04-14 08:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:21:08.155994+00:00",
+    "readable_time": "2026-04-14 08:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:26:08.547705+00:00",
+    "readable_time": "2026-04-14 08:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:31:08.820099+00:00",
+    "readable_time": "2026-04-14 08:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:36:09.249446+00:00",
+    "readable_time": "2026-04-14 08:36:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:41:08.250117+00:00",
+    "readable_time": "2026-04-14 08:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:46:08.473931+00:00",
+    "readable_time": "2026-04-14 08:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:51:08.779046+00:00",
+    "readable_time": "2026-04-14 08:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T08:56:08.852736+00:00",
+    "readable_time": "2026-04-14 08:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:01:09.040350+00:00",
+    "readable_time": "2026-04-14 09:01:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:06:07.853956+00:00",
+    "readable_time": "2026-04-14 09:06:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:11:08.781421+00:00",
+    "readable_time": "2026-04-14 09:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:16:08.746320+00:00",
+    "readable_time": "2026-04-14 09:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:21:08.926711+00:00",
+    "readable_time": "2026-04-14 09:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:26:09.199489+00:00",
+    "readable_time": "2026-04-14 09:26:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:31:08.337283+00:00",
+    "readable_time": "2026-04-14 09:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:36:08.345348+00:00",
+    "readable_time": "2026-04-14 09:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:41:08.250363+00:00",
+    "readable_time": "2026-04-14 09:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:46:08.167327+00:00",
+    "readable_time": "2026-04-14 09:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:51:08.300320+00:00",
+    "readable_time": "2026-04-14 09:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T09:56:08.372331+00:00",
+    "readable_time": "2026-04-14 09:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:01:08.290981+00:00",
+    "readable_time": "2026-04-14 10:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:06:08.158924+00:00",
+    "readable_time": "2026-04-14 10:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:11:08.007154+00:00",
+    "readable_time": "2026-04-14 10:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:16:07.986585+00:00",
+    "readable_time": "2026-04-14 10:16:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:21:07.918756+00:00",
+    "readable_time": "2026-04-14 10:21:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:26:08.843629+00:00",
+    "readable_time": "2026-04-14 10:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:31:08.807961+00:00",
+    "readable_time": "2026-04-14 10:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:36:08.781615+00:00",
+    "readable_time": "2026-04-14 10:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:41:08.925488+00:00",
+    "readable_time": "2026-04-14 10:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:46:09.437667+00:00",
+    "readable_time": "2026-04-14 10:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:51:08.638046+00:00",
+    "readable_time": "2026-04-14 10:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T10:56:08.898542+00:00",
+    "readable_time": "2026-04-14 10:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:01:08.925884+00:00",
+    "readable_time": "2026-04-14 11:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:06:08.883477+00:00",
+    "readable_time": "2026-04-14 11:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:11:08.684011+00:00",
+    "readable_time": "2026-04-14 11:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:16:08.802275+00:00",
+    "readable_time": "2026-04-14 11:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:21:08.630568+00:00",
+    "readable_time": "2026-04-14 11:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:26:08.663360+00:00",
+    "readable_time": "2026-04-14 11:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:31:08.718327+00:00",
+    "readable_time": "2026-04-14 11:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:36:08.486701+00:00",
+    "readable_time": "2026-04-14 11:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:41:08.640830+00:00",
+    "readable_time": "2026-04-14 11:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:46:08.622761+00:00",
+    "readable_time": "2026-04-14 11:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:51:09.602574+00:00",
+    "readable_time": "2026-04-14 11:51:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T11:56:09.055417+00:00",
+    "readable_time": "2026-04-14 11:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:01:08.562551+00:00",
+    "readable_time": "2026-04-14 12:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:06:08.847370+00:00",
+    "readable_time": "2026-04-14 12:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:11:08.942693+00:00",
+    "readable_time": "2026-04-14 12:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:16:08.142505+00:00",
+    "readable_time": "2026-04-14 12:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:21:08.470476+00:00",
+    "readable_time": "2026-04-14 12:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:26:08.440041+00:00",
+    "readable_time": "2026-04-14 12:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:31:08.998992+00:00",
+    "readable_time": "2026-04-14 12:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:36:07.938650+00:00",
+    "readable_time": "2026-04-14 12:36:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:41:08.050673+00:00",
+    "readable_time": "2026-04-14 12:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:46:08.186311+00:00",
+    "readable_time": "2026-04-14 12:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:51:08.211641+00:00",
+    "readable_time": "2026-04-14 12:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T12:56:11.525854+00:00",
+    "readable_time": "2026-04-14 12:56:11 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:01:08.585755+00:00",
+    "readable_time": "2026-04-14 13:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:06:08.405579+00:00",
+    "readable_time": "2026-04-14 13:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:11:08.383996+00:00",
+    "readable_time": "2026-04-14 13:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:16:08.348338+00:00",
+    "readable_time": "2026-04-14 13:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:21:09.062111+00:00",
+    "readable_time": "2026-04-14 13:21:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:26:08.162058+00:00",
+    "readable_time": "2026-04-14 13:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:31:08.273523+00:00",
+    "readable_time": "2026-04-14 13:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:36:08.278753+00:00",
+    "readable_time": "2026-04-14 13:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:41:08.548965+00:00",
+    "readable_time": "2026-04-14 13:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:46:08.764540+00:00",
+    "readable_time": "2026-04-14 13:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:51:08.673741+00:00",
+    "readable_time": "2026-04-14 13:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T13:56:08.373981+00:00",
+    "readable_time": "2026-04-14 13:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:01:08.122194+00:00",
+    "readable_time": "2026-04-14 14:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:06:08.014159+00:00",
+    "readable_time": "2026-04-14 14:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:11:07.990193+00:00",
+    "readable_time": "2026-04-14 14:11:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:16:08.170205+00:00",
+    "readable_time": "2026-04-14 14:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:21:08.066345+00:00",
+    "readable_time": "2026-04-14 14:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:26:25.101732+00:00",
+    "readable_time": "2026-04-14 14:26:25 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:31:08.009788+00:00",
+    "readable_time": "2026-04-14 14:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:36:08.001371+00:00",
+    "readable_time": "2026-04-14 14:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:41:07.930881+00:00",
+    "readable_time": "2026-04-14 14:41:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:46:09.257321+00:00",
+    "readable_time": "2026-04-14 14:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:51:08.386620+00:00",
+    "readable_time": "2026-04-14 14:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T14:56:08.500387+00:00",
+    "readable_time": "2026-04-14 14:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:01:08.794758+00:00",
+    "readable_time": "2026-04-14 15:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:06:08.977520+00:00",
+    "readable_time": "2026-04-14 15:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:11:08.112185+00:00",
+    "readable_time": "2026-04-14 15:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:16:08.381379+00:00",
+    "readable_time": "2026-04-14 15:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:21:08.977378+00:00",
+    "readable_time": "2026-04-14 15:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:26:08.069817+00:00",
+    "readable_time": "2026-04-14 15:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:31:07.946219+00:00",
+    "readable_time": "2026-04-14 15:31:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:36:08.849888+00:00",
+    "readable_time": "2026-04-14 15:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:41:08.833310+00:00",
+    "readable_time": "2026-04-14 15:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:46:08.866146+00:00",
+    "readable_time": "2026-04-14 15:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:51:09.542284+00:00",
+    "readable_time": "2026-04-14 15:51:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T15:56:08.686551+00:00",
+    "readable_time": "2026-04-14 15:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:01:08.650529+00:00",
+    "readable_time": "2026-04-14 16:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:06:08.618406+00:00",
+    "readable_time": "2026-04-14 16:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:11:08.678523+00:00",
+    "readable_time": "2026-04-14 16:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:16:08.506417+00:00",
+    "readable_time": "2026-04-14 16:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:21:11.266817+00:00",
+    "readable_time": "2026-04-14 16:21:11 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:26:17.765530+00:00",
+    "readable_time": "2026-04-14 16:26:17 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:30:18.728633+00:00",
+    "readable_time": "2026-04-14 16:30:18 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:36:08.732741+00:00",
+    "readable_time": "2026-04-14 16:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:41:09.114718+00:00",
+    "readable_time": "2026-04-14 16:41:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:46:08.014753+00:00",
+    "readable_time": "2026-04-14 16:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:51:07.772022+00:00",
+    "readable_time": "2026-04-14 16:51:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T16:56:08.902422+00:00",
+    "readable_time": "2026-04-14 16:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:01:09.062676+00:00",
+    "readable_time": "2026-04-14 17:01:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:06:08.178482+00:00",
+    "readable_time": "2026-04-14 17:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:11:08.058528+00:00",
+    "readable_time": "2026-04-14 17:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:16:08.058273+00:00",
+    "readable_time": "2026-04-14 17:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:21:08.162816+00:00",
+    "readable_time": "2026-04-14 17:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:26:08.235757+00:00",
+    "readable_time": "2026-04-14 17:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:31:08.279118+00:00",
+    "readable_time": "2026-04-14 17:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:36:08.254324+00:00",
+    "readable_time": "2026-04-14 17:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:41:08.337914+00:00",
+    "readable_time": "2026-04-14 17:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:46:08.771394+00:00",
+    "readable_time": "2026-04-14 17:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:51:09.156490+00:00",
+    "readable_time": "2026-04-14 17:51:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T17:56:11.302731+00:00",
+    "readable_time": "2026-04-14 17:56:11 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:01:08.440035+00:00",
+    "readable_time": "2026-04-14 18:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:06:08.681692+00:00",
+    "readable_time": "2026-04-14 18:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:11:08.893711+00:00",
+    "readable_time": "2026-04-14 18:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:16:08.977777+00:00",
+    "readable_time": "2026-04-14 18:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:21:08.025636+00:00",
+    "readable_time": "2026-04-14 18:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:26:08.058463+00:00",
+    "readable_time": "2026-04-14 18:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:31:08.122798+00:00",
+    "readable_time": "2026-04-14 18:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:36:08.187064+00:00",
+    "readable_time": "2026-04-14 18:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:41:08.330591+00:00",
+    "readable_time": "2026-04-14 18:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:46:09.027213+00:00",
+    "readable_time": "2026-04-14 18:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:51:08.163293+00:00",
+    "readable_time": "2026-04-14 18:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T18:56:08.262945+00:00",
+    "readable_time": "2026-04-14 18:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:01:08.911336+00:00",
+    "readable_time": "2026-04-14 19:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:06:09.031077+00:00",
+    "readable_time": "2026-04-14 19:06:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:11:08.550977+00:00",
+    "readable_time": "2026-04-14 19:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:16:08.849949+00:00",
+    "readable_time": "2026-04-14 19:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:21:10.471304+00:00",
+    "readable_time": "2026-04-14 19:21:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:26:08.740089+00:00",
+    "readable_time": "2026-04-14 19:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:31:09.128888+00:00",
+    "readable_time": "2026-04-14 19:31:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:36:08.190822+00:00",
+    "readable_time": "2026-04-14 19:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:41:08.206299+00:00",
+    "readable_time": "2026-04-14 19:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:46:08.390957+00:00",
+    "readable_time": "2026-04-14 19:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:51:08.278305+00:00",
+    "readable_time": "2026-04-14 19:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T19:56:08.286799+00:00",
+    "readable_time": "2026-04-14 19:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:01:08.195456+00:00",
+    "readable_time": "2026-04-14 20:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:06:08.159111+00:00",
+    "readable_time": "2026-04-14 20:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:11:08.039117+00:00",
+    "readable_time": "2026-04-14 20:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:16:08.147305+00:00",
+    "readable_time": "2026-04-14 20:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:21:08.240168+00:00",
+    "readable_time": "2026-04-14 20:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:26:08.439188+00:00",
+    "readable_time": "2026-04-14 20:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:31:10.171071+00:00",
+    "readable_time": "2026-04-14 20:31:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:36:08.462238+00:00",
+    "readable_time": "2026-04-14 20:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:41:08.878253+00:00",
+    "readable_time": "2026-04-14 20:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:46:11.160707+00:00",
+    "readable_time": "2026-04-14 20:46:11 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:51:08.289371+00:00",
+    "readable_time": "2026-04-14 20:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T20:56:08.426978+00:00",
+    "readable_time": "2026-04-14 20:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:01:08.735811+00:00",
+    "readable_time": "2026-04-14 21:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:06:09.005380+00:00",
+    "readable_time": "2026-04-14 21:06:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:11:08.065714+00:00",
+    "readable_time": "2026-04-14 21:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:16:08.186268+00:00",
+    "readable_time": "2026-04-14 21:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:21:08.221449+00:00",
+    "readable_time": "2026-04-14 21:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:26:08.244259+00:00",
+    "readable_time": "2026-04-14 21:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:31:08.081772+00:00",
+    "readable_time": "2026-04-14 21:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:36:07.913407+00:00",
+    "readable_time": "2026-04-14 21:36:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:41:08.679292+00:00",
+    "readable_time": "2026-04-14 21:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:46:09.254008+00:00",
+    "readable_time": "2026-04-14 21:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:51:08.230042+00:00",
+    "readable_time": "2026-04-14 21:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T21:56:08.102323+00:00",
+    "readable_time": "2026-04-14 21:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:01:07.940295+00:00",
+    "readable_time": "2026-04-14 22:01:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:06:07.851023+00:00",
+    "readable_time": "2026-04-14 22:06:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:11:08.907656+00:00",
+    "readable_time": "2026-04-14 22:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:16:09.027293+00:00",
+    "readable_time": "2026-04-14 22:16:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:21:08.622586+00:00",
+    "readable_time": "2026-04-14 22:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:26:08.644936+00:00",
+    "readable_time": "2026-04-14 22:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:31:08.544333+00:00",
+    "readable_time": "2026-04-14 22:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:36:08.599674+00:00",
+    "readable_time": "2026-04-14 22:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:41:08.598109+00:00",
+    "readable_time": "2026-04-14 22:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:46:08.540526+00:00",
+    "readable_time": "2026-04-14 22:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:51:08.465786+00:00",
+    "readable_time": "2026-04-14 22:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T22:56:08.464368+00:00",
+    "readable_time": "2026-04-14 22:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:01:08.569945+00:00",
+    "readable_time": "2026-04-14 23:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:06:08.550210+00:00",
+    "readable_time": "2026-04-14 23:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:11:08.446541+00:00",
+    "readable_time": "2026-04-14 23:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:16:08.314345+00:00",
+    "readable_time": "2026-04-14 23:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:21:08.377967+00:00",
+    "readable_time": "2026-04-14 23:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:26:08.277995+00:00",
+    "readable_time": "2026-04-14 23:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:31:08.154479+00:00",
+    "readable_time": "2026-04-14 23:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:36:08.006386+00:00",
+    "readable_time": "2026-04-14 23:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:41:10.826755+00:00",
+    "readable_time": "2026-04-14 23:41:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:46:08.759217+00:00",
+    "readable_time": "2026-04-14 23:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:51:08.678873+00:00",
+    "readable_time": "2026-04-14 23:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-14T23:56:09.019591+00:00",
+    "readable_time": "2026-04-14 23:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:01:08.776836+00:00",
+    "readable_time": "2026-04-15 00:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:06:08.866685+00:00",
+    "readable_time": "2026-04-15 00:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:11:10.297299+00:00",
+    "readable_time": "2026-04-15 00:11:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:16:08.407431+00:00",
+    "readable_time": "2026-04-15 00:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:21:09.131789+00:00",
+    "readable_time": "2026-04-15 00:21:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:26:08.213515+00:00",
+    "readable_time": "2026-04-15 00:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:31:08.284873+00:00",
+    "readable_time": "2026-04-15 00:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:36:08.211988+00:00",
+    "readable_time": "2026-04-15 00:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:41:08.851269+00:00",
+    "readable_time": "2026-04-15 00:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:46:09.056584+00:00",
+    "readable_time": "2026-04-15 00:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:51:08.062409+00:00",
+    "readable_time": "2026-04-15 00:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T00:56:08.162256+00:00",
+    "readable_time": "2026-04-15 00:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:01:08.146649+00:00",
+    "readable_time": "2026-04-15 01:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:06:08.259169+00:00",
+    "readable_time": "2026-04-15 01:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:11:08.202524+00:00",
+    "readable_time": "2026-04-15 01:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:16:08.678762+00:00",
+    "readable_time": "2026-04-15 01:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:21:08.454153+00:00",
+    "readable_time": "2026-04-15 01:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:26:08.362664+00:00",
+    "readable_time": "2026-04-15 01:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:31:08.126902+00:00",
+    "readable_time": "2026-04-15 01:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:36:08.299568+00:00",
+    "readable_time": "2026-04-15 01:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:41:08.860485+00:00",
+    "readable_time": "2026-04-15 01:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:46:08.751551+00:00",
+    "readable_time": "2026-04-15 01:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:51:08.632997+00:00",
+    "readable_time": "2026-04-15 01:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T01:56:08.990037+00:00",
+    "readable_time": "2026-04-15 01:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:01:09.341866+00:00",
+    "readable_time": "2026-04-15 02:01:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:06:08.284562+00:00",
+    "readable_time": "2026-04-15 02:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:11:08.529760+00:00",
+    "readable_time": "2026-04-15 02:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:16:08.620407+00:00",
+    "readable_time": "2026-04-15 02:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:21:08.867861+00:00",
+    "readable_time": "2026-04-15 02:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:26:08.959403+00:00",
+    "readable_time": "2026-04-15 02:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:31:08.219356+00:00",
+    "readable_time": "2026-04-15 02:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:36:08.309283+00:00",
+    "readable_time": "2026-04-15 02:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:41:08.380359+00:00",
+    "readable_time": "2026-04-15 02:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:46:08.461200+00:00",
+    "readable_time": "2026-04-15 02:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:51:08.561714+00:00",
+    "readable_time": "2026-04-15 02:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T02:56:08.826117+00:00",
+    "readable_time": "2026-04-15 02:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:01:08.854303+00:00",
+    "readable_time": "2026-04-15 03:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:06:08.857848+00:00",
+    "readable_time": "2026-04-15 03:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:11:08.829500+00:00",
+    "readable_time": "2026-04-15 03:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:16:08.745639+00:00",
+    "readable_time": "2026-04-15 03:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:21:08.630328+00:00",
+    "readable_time": "2026-04-15 03:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:26:08.471994+00:00",
+    "readable_time": "2026-04-15 03:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:31:08.542077+00:00",
+    "readable_time": "2026-04-15 03:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:36:08.427374+00:00",
+    "readable_time": "2026-04-15 03:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:41:08.233602+00:00",
+    "readable_time": "2026-04-15 03:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:46:08.142064+00:00",
+    "readable_time": "2026-04-15 03:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:51:08.111261+00:00",
+    "readable_time": "2026-04-15 03:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T03:56:10.400221+00:00",
+    "readable_time": "2026-04-15 03:56:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:01:08.533301+00:00",
+    "readable_time": "2026-04-15 04:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:06:08.641212+00:00",
+    "readable_time": "2026-04-15 04:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:11:08.797593+00:00",
+    "readable_time": "2026-04-15 04:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:16:08.834222+00:00",
+    "readable_time": "2026-04-15 04:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:21:09.740333+00:00",
+    "readable_time": "2026-04-15 04:21:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:26:09.004978+00:00",
+    "readable_time": "2026-04-15 04:26:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:31:08.261099+00:00",
+    "readable_time": "2026-04-15 04:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:36:08.466938+00:00",
+    "readable_time": "2026-04-15 04:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:41:08.668469+00:00",
+    "readable_time": "2026-04-15 04:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:46:08.965260+00:00",
+    "readable_time": "2026-04-15 04:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:51:07.811304+00:00",
+    "readable_time": "2026-04-15 04:51:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T04:56:08.643031+00:00",
+    "readable_time": "2026-04-15 04:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:01:08.357065+00:00",
+    "readable_time": "2026-04-15 05:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:06:08.210075+00:00",
+    "readable_time": "2026-04-15 05:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:11:07.980880+00:00",
+    "readable_time": "2026-04-15 05:11:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:16:09.082520+00:00",
+    "readable_time": "2026-04-15 05:16:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:21:08.090339+00:00",
+    "readable_time": "2026-04-15 05:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:26:07.954776+00:00",
+    "readable_time": "2026-04-15 05:26:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:31:08.755618+00:00",
+    "readable_time": "2026-04-15 05:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:36:08.567115+00:00",
+    "readable_time": "2026-04-15 05:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:41:08.827121+00:00",
+    "readable_time": "2026-04-15 05:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:46:08.972025+00:00",
+    "readable_time": "2026-04-15 05:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:51:07.839017+00:00",
+    "readable_time": "2026-04-15 05:51:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T05:56:09.151107+00:00",
+    "readable_time": "2026-04-15 05:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:01:08.246690+00:00",
+    "readable_time": "2026-04-15 06:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:06:11.197084+00:00",
+    "readable_time": "2026-04-15 06:06:11 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:11:08.296839+00:00",
+    "readable_time": "2026-04-15 06:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:16:08.477916+00:00",
+    "readable_time": "2026-04-15 06:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:21:08.825195+00:00",
+    "readable_time": "2026-04-15 06:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:26:08.998345+00:00",
+    "readable_time": "2026-04-15 06:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:31:08.115115+00:00",
+    "readable_time": "2026-04-15 06:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:36:08.510121+00:00",
+    "readable_time": "2026-04-15 06:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:41:08.789901+00:00",
+    "readable_time": "2026-04-15 06:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:46:08.982861+00:00",
+    "readable_time": "2026-04-15 06:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:51:07.942563+00:00",
+    "readable_time": "2026-04-15 06:51:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T06:56:08.671298+00:00",
+    "readable_time": "2026-04-15 06:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:01:08.767824+00:00",
+    "readable_time": "2026-04-15 07:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:06:08.706352+00:00",
+    "readable_time": "2026-04-15 07:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:11:08.566182+00:00",
+    "readable_time": "2026-04-15 07:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:16:08.471493+00:00",
+    "readable_time": "2026-04-15 07:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:21:08.455504+00:00",
+    "readable_time": "2026-04-15 07:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:26:08.706964+00:00",
+    "readable_time": "2026-04-15 07:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:31:08.534512+00:00",
+    "readable_time": "2026-04-15 07:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:36:08.556149+00:00",
+    "readable_time": "2026-04-15 07:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:41:08.968446+00:00",
+    "readable_time": "2026-04-15 07:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:46:09.044248+00:00",
+    "readable_time": "2026-04-15 07:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:51:08.149027+00:00",
+    "readable_time": "2026-04-15 07:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T07:56:08.289193+00:00",
+    "readable_time": "2026-04-15 07:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:01:08.587078+00:00",
+    "readable_time": "2026-04-15 08:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:06:08.985110+00:00",
+    "readable_time": "2026-04-15 08:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:11:08.287181+00:00",
+    "readable_time": "2026-04-15 08:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:16:08.474574+00:00",
+    "readable_time": "2026-04-15 08:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:21:08.589753+00:00",
+    "readable_time": "2026-04-15 08:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:26:08.664114+00:00",
+    "readable_time": "2026-04-15 08:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:31:09.454752+00:00",
+    "readable_time": "2026-04-15 08:31:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:36:08.507290+00:00",
+    "readable_time": "2026-04-15 08:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:41:08.466585+00:00",
+    "readable_time": "2026-04-15 08:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:46:08.370294+00:00",
+    "readable_time": "2026-04-15 08:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:51:08.211758+00:00",
+    "readable_time": "2026-04-15 08:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T08:56:08.179226+00:00",
+    "readable_time": "2026-04-15 08:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:01:08.287726+00:00",
+    "readable_time": "2026-04-15 09:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:06:08.471049+00:00",
+    "readable_time": "2026-04-15 09:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:11:08.586945+00:00",
+    "readable_time": "2026-04-15 09:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:16:08.430953+00:00",
+    "readable_time": "2026-04-15 09:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:21:08.494301+00:00",
+    "readable_time": "2026-04-15 09:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:26:08.474677+00:00",
+    "readable_time": "2026-04-15 09:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:31:08.604112+00:00",
+    "readable_time": "2026-04-15 09:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:36:08.557311+00:00",
+    "readable_time": "2026-04-15 09:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:41:08.515722+00:00",
+    "readable_time": "2026-04-15 09:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:46:08.756485+00:00",
+    "readable_time": "2026-04-15 09:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:51:08.694936+00:00",
+    "readable_time": "2026-04-15 09:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T09:56:09.652349+00:00",
+    "readable_time": "2026-04-15 09:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:01:08.706748+00:00",
+    "readable_time": "2026-04-15 10:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:06:08.559899+00:00",
+    "readable_time": "2026-04-15 10:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:11:08.602549+00:00",
+    "readable_time": "2026-04-15 10:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:16:10.342608+00:00",
+    "readable_time": "2026-04-15 10:16:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:21:08.518418+00:00",
+    "readable_time": "2026-04-15 10:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:26:08.702719+00:00",
+    "readable_time": "2026-04-15 10:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:31:08.851168+00:00",
+    "readable_time": "2026-04-15 10:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:36:08.954898+00:00",
+    "readable_time": "2026-04-15 10:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:41:07.976730+00:00",
+    "readable_time": "2026-04-15 10:41:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:46:09.055147+00:00",
+    "readable_time": "2026-04-15 10:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:51:07.879796+00:00",
+    "readable_time": "2026-04-15 10:51:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T10:56:08.952523+00:00",
+    "readable_time": "2026-04-15 10:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:01:08.972756+00:00",
+    "readable_time": "2026-04-15 11:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:06:07.948715+00:00",
+    "readable_time": "2026-04-15 11:06:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:11:09.208896+00:00",
+    "readable_time": "2026-04-15 11:11:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:16:08.353261+00:00",
+    "readable_time": "2026-04-15 11:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:21:08.460163+00:00",
+    "readable_time": "2026-04-15 11:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:26:08.494115+00:00",
+    "readable_time": "2026-04-15 11:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:31:08.422962+00:00",
+    "readable_time": "2026-04-15 11:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:36:08.347665+00:00",
+    "readable_time": "2026-04-15 11:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:41:08.331684+00:00",
+    "readable_time": "2026-04-15 11:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:46:08.279741+00:00",
+    "readable_time": "2026-04-15 11:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:51:08.207115+00:00",
+    "readable_time": "2026-04-15 11:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T11:56:08.290715+00:00",
+    "readable_time": "2026-04-15 11:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:01:08.756406+00:00",
+    "readable_time": "2026-04-15 12:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:06:08.674315+00:00",
+    "readable_time": "2026-04-15 12:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:11:08.559053+00:00",
+    "readable_time": "2026-04-15 12:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:16:08.548227+00:00",
+    "readable_time": "2026-04-15 12:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:21:08.722565+00:00",
+    "readable_time": "2026-04-15 12:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:26:09.333429+00:00",
+    "readable_time": "2026-04-15 12:26:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:31:08.671395+00:00",
+    "readable_time": "2026-04-15 12:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:36:10.045772+00:00",
+    "readable_time": "2026-04-15 12:36:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:41:08.038200+00:00",
+    "readable_time": "2026-04-15 12:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:46:08.140839+00:00",
+    "readable_time": "2026-04-15 12:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:51:08.286897+00:00",
+    "readable_time": "2026-04-15 12:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T12:56:08.231067+00:00",
+    "readable_time": "2026-04-15 12:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:01:08.206188+00:00",
+    "readable_time": "2026-04-15 13:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:06:08.151553+00:00",
+    "readable_time": "2026-04-15 13:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:11:08.476169+00:00",
+    "readable_time": "2026-04-15 13:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:16:08.515560+00:00",
+    "readable_time": "2026-04-15 13:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:21:08.723280+00:00",
+    "readable_time": "2026-04-15 13:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:26:08.903448+00:00",
+    "readable_time": "2026-04-15 13:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:31:08.943557+00:00",
+    "readable_time": "2026-04-15 13:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:36:08.291583+00:00",
+    "readable_time": "2026-04-15 13:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:41:08.376269+00:00",
+    "readable_time": "2026-04-15 13:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:46:08.722342+00:00",
+    "readable_time": "2026-04-15 13:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:51:12.377987+00:00",
+    "readable_time": "2026-04-15 13:51:12 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T13:56:08.765529+00:00",
+    "readable_time": "2026-04-15 13:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:01:09.241695+00:00",
+    "readable_time": "2026-04-15 14:01:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:06:08.282346+00:00",
+    "readable_time": "2026-04-15 14:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:11:08.587911+00:00",
+    "readable_time": "2026-04-15 14:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:16:08.609015+00:00",
+    "readable_time": "2026-04-15 14:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:21:08.459820+00:00",
+    "readable_time": "2026-04-15 14:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:26:08.491736+00:00",
+    "readable_time": "2026-04-15 14:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:31:08.551660+00:00",
+    "readable_time": "2026-04-15 14:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:36:08.663665+00:00",
+    "readable_time": "2026-04-15 14:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:41:08.859144+00:00",
+    "readable_time": "2026-04-15 14:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:46:09.031197+00:00",
+    "readable_time": "2026-04-15 14:46:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:51:08.010390+00:00",
+    "readable_time": "2026-04-15 14:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T14:56:09.539806+00:00",
+    "readable_time": "2026-04-15 14:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:01:08.729908+00:00",
+    "readable_time": "2026-04-15 15:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:06:08.850841+00:00",
+    "readable_time": "2026-04-15 15:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:11:09.043403+00:00",
+    "readable_time": "2026-04-15 15:11:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:16:07.950875+00:00",
+    "readable_time": "2026-04-15 15:16:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:21:08.120257+00:00",
+    "readable_time": "2026-04-15 15:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:26:08.498282+00:00",
+    "readable_time": "2026-04-15 15:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:31:10.293848+00:00",
+    "readable_time": "2026-04-15 15:31:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:36:11.109723+00:00",
+    "readable_time": "2026-04-15 15:36:11 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:41:08.349151+00:00",
+    "readable_time": "2026-04-15 15:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:46:08.367179+00:00",
+    "readable_time": "2026-04-15 15:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:51:09.774881+00:00",
+    "readable_time": "2026-04-15 15:51:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T15:56:08.779423+00:00",
+    "readable_time": "2026-04-15 15:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:01:10.027065+00:00",
+    "readable_time": "2026-04-15 16:01:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:06:08.179309+00:00",
+    "readable_time": "2026-04-15 16:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:11:08.319439+00:00",
+    "readable_time": "2026-04-15 16:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:16:08.247050+00:00",
+    "readable_time": "2026-04-15 16:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:21:08.306716+00:00",
+    "readable_time": "2026-04-15 16:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:26:08.483263+00:00",
+    "readable_time": "2026-04-15 16:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:31:08.503636+00:00",
+    "readable_time": "2026-04-15 16:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:36:08.543376+00:00",
+    "readable_time": "2026-04-15 16:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:41:08.971699+00:00",
+    "readable_time": "2026-04-15 16:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:46:08.264146+00:00",
+    "readable_time": "2026-04-15 16:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:51:08.429080+00:00",
+    "readable_time": "2026-04-15 16:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T16:56:08.774972+00:00",
+    "readable_time": "2026-04-15 16:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:01:09.061803+00:00",
+    "readable_time": "2026-04-15 17:01:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:06:08.153205+00:00",
+    "readable_time": "2026-04-15 17:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:11:08.195035+00:00",
+    "readable_time": "2026-04-15 17:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:16:08.375215+00:00",
+    "readable_time": "2026-04-15 17:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:21:08.583183+00:00",
+    "readable_time": "2026-04-15 17:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:26:08.654482+00:00",
+    "readable_time": "2026-04-15 17:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:31:08.607157+00:00",
+    "readable_time": "2026-04-15 17:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:36:08.639266+00:00",
+    "readable_time": "2026-04-15 17:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:41:08.543943+00:00",
+    "readable_time": "2026-04-15 17:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:46:08.598477+00:00",
+    "readable_time": "2026-04-15 17:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:51:08.537339+00:00",
+    "readable_time": "2026-04-15 17:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T17:56:09.395145+00:00",
+    "readable_time": "2026-04-15 17:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:01:08.899342+00:00",
+    "readable_time": "2026-04-15 18:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:06:09.114749+00:00",
+    "readable_time": "2026-04-15 18:06:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:11:08.423454+00:00",
+    "readable_time": "2026-04-15 18:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:16:13.349038+00:00",
+    "readable_time": "2026-04-15 18:16:13 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:21:08.600051+00:00",
+    "readable_time": "2026-04-15 18:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:26:08.930936+00:00",
+    "readable_time": "2026-04-15 18:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:31:08.103041+00:00",
+    "readable_time": "2026-04-15 18:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:36:08.593943+00:00",
+    "readable_time": "2026-04-15 18:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:41:08.743306+00:00",
+    "readable_time": "2026-04-15 18:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:46:08.739792+00:00",
+    "readable_time": "2026-04-15 18:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:51:09.923155+00:00",
+    "readable_time": "2026-04-15 18:51:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T18:56:09.071642+00:00",
+    "readable_time": "2026-04-15 18:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:01:08.232304+00:00",
+    "readable_time": "2026-04-15 19:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:06:08.171616+00:00",
+    "readable_time": "2026-04-15 19:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:11:08.651106+00:00",
+    "readable_time": "2026-04-15 19:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:13:51.542936+00:00",
+    "readable_time": "2026-04-15 19:13:51 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:16:08.881918+00:00",
+    "readable_time": "2026-04-15 19:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:18:48.459901+00:00",
+    "readable_time": "2026-04-15 19:18:48 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:21:08.859781+00:00",
+    "readable_time": "2026-04-15 19:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:26:08.332390+00:00",
+    "readable_time": "2026-04-15 19:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:31:08.612580+00:00",
+    "readable_time": "2026-04-15 19:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:36:08.792305+00:00",
+    "readable_time": "2026-04-15 19:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:41:08.820304+00:00",
+    "readable_time": "2026-04-15 19:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:46:08.083206+00:00",
+    "readable_time": "2026-04-15 19:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:51:08.025877+00:00",
+    "readable_time": "2026-04-15 19:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T19:56:08.191089+00:00",
+    "readable_time": "2026-04-15 19:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:01:08.208822+00:00",
+    "readable_time": "2026-04-15 20:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:06:08.599518+00:00",
+    "readable_time": "2026-04-15 20:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:11:08.030819+00:00",
+    "readable_time": "2026-04-15 20:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:16:08.526856+00:00",
+    "readable_time": "2026-04-15 20:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:21:09.331168+00:00",
+    "readable_time": "2026-04-15 20:21:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:26:08.663042+00:00",
+    "readable_time": "2026-04-15 20:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:31:08.963610+00:00",
+    "readable_time": "2026-04-15 20:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:36:08.050388+00:00",
+    "readable_time": "2026-04-15 20:36:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:41:08.330822+00:00",
+    "readable_time": "2026-04-15 20:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:46:08.646215+00:00",
+    "readable_time": "2026-04-15 20:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:51:09.035440+00:00",
+    "readable_time": "2026-04-15 20:51:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T20:56:08.268612+00:00",
+    "readable_time": "2026-04-15 20:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:01:08.523435+00:00",
+    "readable_time": "2026-04-15 21:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:06:10.051710+00:00",
+    "readable_time": "2026-04-15 21:06:10 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:11:08.045930+00:00",
+    "readable_time": "2026-04-15 21:11:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:16:08.915824+00:00",
+    "readable_time": "2026-04-15 21:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:21:08.012064+00:00",
+    "readable_time": "2026-04-15 21:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:26:08.424314+00:00",
+    "readable_time": "2026-04-15 21:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:31:08.815592+00:00",
+    "readable_time": "2026-04-15 21:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:36:09.132344+00:00",
+    "readable_time": "2026-04-15 21:36:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:41:08.264825+00:00",
+    "readable_time": "2026-04-15 21:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:46:08.525196+00:00",
+    "readable_time": "2026-04-15 21:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:50:17.285106+00:00",
+    "readable_time": "2026-04-15 21:50:17 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T21:56:08.479748+00:00",
+    "readable_time": "2026-04-15 21:56:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:01:08.564713+00:00",
+    "readable_time": "2026-04-15 22:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:06:08.755864+00:00",
+    "readable_time": "2026-04-15 22:06:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:11:07.941417+00:00",
+    "readable_time": "2026-04-15 22:11:07 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:16:08.236485+00:00",
+    "readable_time": "2026-04-15 22:16:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:21:08.607488+00:00",
+    "readable_time": "2026-04-15 22:21:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:26:08.592014+00:00",
+    "readable_time": "2026-04-15 22:26:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:31:08.659408+00:00",
+    "readable_time": "2026-04-15 22:31:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:36:09.247111+00:00",
+    "readable_time": "2026-04-15 22:36:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:41:08.467732+00:00",
+    "readable_time": "2026-04-15 22:41:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:46:08.886519+00:00",
+    "readable_time": "2026-04-15 22:46:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:51:08.328683+00:00",
+    "readable_time": "2026-04-15 22:51:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T22:56:09.205026+00:00",
+    "readable_time": "2026-04-15 22:56:09 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T23:01:08.367674+00:00",
+    "readable_time": "2026-04-15 23:01:08 UTC",
+    "vessel_count": 0,
+    "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-15T23:06:08.725273+00:00",
+    "readable_time": "2026-04-15 23:06:08 UTC",
     "vessel_count": 0,
     "vessels": []
   }

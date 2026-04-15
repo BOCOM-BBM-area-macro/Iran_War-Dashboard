@@ -35,6 +35,14 @@ llm:
   sentiment_api_key: "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" # API Key for Groq or xAI
   gemini_api_key: "AIzaSyDC9_PU2c2YW964qzrS4PG3kVnk4JL4BY0"    # Gemini API Key
   api_base_url: "https://api.groq.com/openai/v1" # Use "https://api.groq.com/openai/v1" for Groq OR "https://api.x.ai/v1" for xAI
+
+    # Fallback LLM (Grok/Groq) for features when Gemini fails or times out
+  fallback_enabled: true
+  fallback_api_key: "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"                    # API Key for Grok or xAI (different from sentiment if needed)
+  fallback_api_base_url: "https://api.groq.com/openai/v1"   # Base URL for fallback API
+  fallback_digest_model: "llama-3.3-70b-versatile" 
+  fallback_watch_model: "llama-3.3-70b-versatile" 
+  fallback_relevant_news_model: "llama-3.3-70b-versatile" 
   summary_focus:                                  # [OPTIONAL] Bullet-point focus areas for summaries
 
   digest_focus:                                   # [OPTIONAL] Extra instructions for the overall digest

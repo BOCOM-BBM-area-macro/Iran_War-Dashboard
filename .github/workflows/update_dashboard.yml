@@ -1,8 +1,11 @@
 name: Update News Dashboard
 
 on:
-  schedule:
-  - cron: '0 10 * * *'
+  repository_dispatch:
+      # This 'type' acts as a filter so you can have multiple triggers
+      types: [trigger_from_cronjob_org]
+  #schedule:
+  #- cron: '0 10 * * *'
   workflow_dispatch:      # Allows you to run it manually
 
 permissions:

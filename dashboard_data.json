@@ -422,6 +422,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-13"
+    },
+    "https://www.reuters.com/world/africa/dollar-set-second-weekly-loss-iran-war-peace-hopes-2026-04-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-16"
+    },
+    "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.washingtonpost.com/opinions/2026/04/17/lindsey-graham-future-senate-could-hang-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
     }
   },
   "last_run_success": true,

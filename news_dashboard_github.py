@@ -2090,6 +2090,78 @@ code, pre, .font-mono { font-family: 'IBM Plex Mono', 'SFMono-Regular', Consolas
 body { background: var(--bg); color: var(--text); font-family: var(--font-mono); font-size: 13px; line-height: 1.6; min-height: 100vh; }
 .container { max-width: 1280px; margin: 0 auto; padding: 24px; position: relative; z-index: 1; }
 
+/* ── Dual Range Slider ── */
+.range-wrapper {
+    margin-top: 15px;
+    padding: 0 10px;
+    width: 100%;
+}
+.range-slider {
+    height: 5px;
+    position: relative;
+    background: var(--surface2);
+    border-radius: 5px;
+}
+.range-selected {
+    height: 100%;
+    left: 0;
+    right: 0;
+    position: absolute;
+    border-radius: 5px;
+    background: var(--accent);
+}
+.range-input {
+    position: relative;
+}
+.range-input input {
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    top: -5px;
+    background: none;
+    pointer-events: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.range-input input::-webkit-slider-thumb {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background: var(--accent);
+    pointer-events: auto;
+    -webkit-appearance: none;
+    cursor: pointer;
+    border: 2px solid var(--surface);
+}
+.range-input input::-moz-range-thumb {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background: var(--accent);
+    pointer-events: auto;
+    -moz-appearance: none;
+    cursor: pointer;
+    border: 2px solid var(--surface);
+}
+.range-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+    font-size: 10px;
+    color: var(--muted);
+    font-family: var(--font-mono);
+}
+.range-labels span {
+    background: var(--surface2);
+    padding: 2px 6px;
+    border-radius: 3px;
+    border: 1px solid var(--border);
+}
+.range-labels .current-range {
+    color: var(--accent);
+    font-weight: 600;
+}
+
 /* ── Header ── */
 header { border-bottom: 1px solid var(--border); padding-bottom: 20px; display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
 .header-left { display: flex; flex-direction: column; gap: 4px; }
@@ -2295,9 +2367,8 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% if themed_news %}
     <button class="tab-btn" onclick="switchTab('themes', this)">News By Theme</button>
     {% endif %}
-    <button class="tab-btn" onclick="switchTab('markets', this)">Market Analysis</button>
     {% if cfg.hormuz_tracker.enabled and (hormuz_historical or hormuz_vessels) %}
-    <button class="tab-btn" onclick="switchTab('hormuz', this)">Hormuz Tracker</button>
+    <button class="tab-btn" onclick="switchTab('hormuz', this)">Hormuz Tracker (Hormuztracking.com Project)</button>
     {% endif %}
     {% if cfg.trade_tracker.enabled and trade_data %}
     <button class="tab-btn" onclick="switchTab('trade', this)">Hormuz Tracker (IMF)</button>
@@ -2317,6 +2388,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% if infra_damage_data %}
     <button class="tab-btn" onclick="switchTab('infra', this)">ME Infrastructure Damage</button>
     {% endif %}
+    <button class="tab-btn" onclick="switchTab('markets', this)">Market Analysis</button>
     </div>
 
     <div id="newsTab" class="tab-content active">
@@ -2506,6 +2578,20 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <button class="chart-btn" onclick="updateIntradayOverlay('3mo', this)">3M</button>
     <button class="chart-btn" onclick="updateIntradayOverlay('1y', this)">1Y</button>
     </div>
+    <div class="range-wrapper" id="hourlyRangeWrapper">
+        <div class="range-slider">
+            <span class="range-selected"></span>
+        </div>
+        <div class="range-input">
+            <input type="range" class="min" min="0" max="100" value="0" step="1" oninput="handleRangeInput('hourly', 'min')">
+            <input type="range" class="max" min="0" max="100" value="100" step="1" oninput="handleRangeInput('hourly', 'max')">
+        </div>
+        <div class="range-labels">
+            <span class="min-date">Start</span>
+            <span class="current-range">Select Range</span>
+            <span class="max-date">End</span>
+        </div>
+    </div>
     <div class="hourly-note">Y-axis shows % change from period open · Data via Yahoo Finance (5m interval)</div>
     </div>
 
@@ -2534,6 +2620,20 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <button class="chart-btn" onclick="updateIntradayAbsChart({{ loop.index0 }}, '3mo', this)">3M</button>
     <button class="chart-btn" onclick="updateIntradayAbsChart({{ loop.index0 }}, '1y', this)">1Y</button>
     </div>
+    <div class="range-wrapper" id="absRangeWrapper-{{ loop.index0 }}">
+        <div class="range-slider">
+            <span class="range-selected"></span>
+        </div>
+        <div class="range-input">
+            <input type="range" class="min" min="0" max="100" value="0" step="1" oninput="handleRangeInput('abs-{{ loop.index0 }}', 'min')">
+            <input type="range" class="max" min="0" max="100" value="100" step="1" oninput="handleRangeInput('abs-{{ loop.index0 }}', 'max')">
+        </div>
+        <div class="range-labels">
+            <span class="min-date">Start</span>
+            <span class="current-range">Select Range</span>
+            <span class="max-date">End</span>
+        </div>
+    </div>
     </div>
     {% endfor %}
     </div>
@@ -2559,13 +2659,19 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <button class="chart-btn" onclick="updateHormuzChart('6mo', this)">6M</button>
     <button class="chart-btn active" id="defaultHormuzBtn" onclick="updateHormuzChart('all', this)">ALL</button>
     </div>
-    <div style="margin-top: 20px; padding: 0 20px;">
-    <input type="range" id="hormuzSlider" style="width: 100%; accent-color: var(--accent);" min="5" max="365" value="365" oninput="updateHormuzChartFromSlider(this.value)">
-    <div style="display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); margin-top: 5px;">
-    <span>5 Days</span>
-    <span id="sliderValue">Look back: 365 Days</span>
-    <span>All Data</span>
-    </div>
+    <div class="range-wrapper" id="hormuzRangeWrapper">
+        <div class="range-slider">
+            <span class="range-selected"></span>
+        </div>
+        <div class="range-input">
+            <input type="range" class="min" min="0" max="100" value="0" step="1" oninput="handleRangeInput('hormuz', 'min')">
+            <input type="range" class="max" min="0" max="100" value="100" step="1" oninput="handleRangeInput('hormuz', 'max')">
+        </div>
+        <div class="range-labels">
+            <span class="min-date">Start</span>
+            <span class="current-range">Select Range</span>
+            <span class="max-date">End</span>
+        </div>
     </div>
     <div class="hourly-note">Data source: Hormuz Tracking.</div>
     </div>
@@ -2626,6 +2732,20 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <button class="chart-btn active" id="defaultTradeBtn" onclick="updateTradeChart('ytd', this)">YTD</button>
     <button class="chart-btn" onclick="updateTradeChart('1y', this)">1Y</button>
     </div>
+    <div class="range-wrapper" id="tradeRangeWrapper">
+        <div class="range-slider">
+            <span class="range-selected"></span>
+        </div>
+        <div class="range-input">
+            <input type="range" class="min" min="0" max="100" value="0" step="1" oninput="handleRangeInput('trade', 'min')">
+            <input type="range" class="max" min="0" max="100" value="100" step="1" oninput="handleRangeInput('trade', 'max')">
+        </div>
+        <div class="range-labels">
+            <span class="min-date">Start</span>
+            <span class="current-range">Select Range</span>
+            <span class="max-date">End</span>
+        </div>
+    </div>
     <div class="hourly-note">Data source: IMF PortWatch / University of Oxford.</div>
     </div>
     </div>
@@ -2674,6 +2794,26 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div class="hourly-card">
     <div class="hourly-chart-wrap" style="height: 500px;">
     <canvas id="missileChart"></canvas>
+    </div>
+    <div class="chart-controls" style="margin-top: 15px;">
+    <button class="chart-btn" onclick="updateMissileChart('1mo', this)">1M</button>
+    <button class="chart-btn" onclick="updateMissileChart('3mo', this)">3M</button>
+    <button class="chart-btn" onclick="updateMissileChart('6mo', this)">6M</button>
+    <button class="chart-btn active" id="defaultMissileBtn" onclick="updateMissileChart('all', this)">ALL</button>
+    </div>
+    <div class="range-wrapper" id="missileRangeWrapper">
+        <div class="range-slider">
+            <span class="range-selected"></span>
+        </div>
+        <div class="range-input">
+            <input type="range" class="min" min="0" max="100" value="0" step="1" oninput="handleRangeInput('missile', 'min')">
+            <input type="range" class="max" min="0" max="100" value="100" step="1" oninput="handleRangeInput('missile', 'max')">
+        </div>
+        <div class="range-labels">
+            <span class="min-date">Start</span>
+            <span class="current-range">Select Range</span>
+            <span class="max-date">End</span>
+        </div>
     </div>
     </div>
     {% endif %}
@@ -3194,6 +3334,24 @@ function focusShip(lat, lon, name) {
     }
 }
 
+function renderMissileChartRange(start, end) {
+    if (!missileChartRef || !FULL_MISSILE_DATA || !Array.isArray(FULL_MISSILE_DATA)) return;
+    const labels = FULL_MISSILE_DATA.map(d => d.date || '');
+    if (labels.length === 0) return;
+
+    const slice = FULL_MISSILE_DATA.slice(start, end + 1);
+    
+    if (missileChartRef.data) missileChartRef.data.FULL_MISSILE_SLICE = slice;
+    missileChartRef.data.labels = slice.map(d => d.date || '');
+    if (missileChartRef.data.datasets[0]) missileChartRef.data.datasets[0].data = slice.map(d => d.ballistic_missiles || 0);
+    if (missileChartRef.data.datasets[1]) missileChartRef.data.datasets[1].data = slice.map(d => d.cruise_missiles || 0);
+    if (missileChartRef.data.datasets[2]) missileChartRef.data.datasets[2].data = slice.map(d => d.drones || 0);
+    if (missileChartRef.data.datasets[3]) missileChartRef.data.datasets[3].data = slice.map(d => d.total_iranian || 0);
+    missileChartRef.update();
+    
+    syncRangeSlider('missile', start, end, FULL_MISSILE_DATA.length - 1, labels);
+}
+
 function updateMissileChart(period, btn) {
     if (!missileChartRef || !FULL_MISSILE_DATA || !Array.isArray(FULL_MISSILE_DATA)) return;
     const labels = FULL_MISSILE_DATA.map(d => d.date || '');
@@ -3206,22 +3364,37 @@ function updateMissileChart(period, btn) {
     else if (period === '1y') sliceSize = 365;
 
     if (sliceSize > labels.length) sliceSize = labels.length;
-    const slice = FULL_MISSILE_DATA.slice(labels.length - sliceSize);
+    const end = labels.length - 1;
+    const start = Math.max(0, labels.length - sliceSize);
     
-    // Store current slice for tooltips
-    if (missileChartRef.data) missileChartRef.data.FULL_MISSILE_SLICE = slice;
-
-    missileChartRef.data.labels = slice.map(d => d.date || '');
-    if (missileChartRef.data.datasets[0]) missileChartRef.data.datasets[0].data = slice.map(d => d.ballistic_missiles || 0);
-    if (missileChartRef.data.datasets[1]) missileChartRef.data.datasets[1].data = slice.map(d => d.cruise_missiles || 0);
-    if (missileChartRef.data.datasets[2]) missileChartRef.data.datasets[2].data = slice.map(d => d.drones || 0);
-    if (missileChartRef.data.datasets[3]) missileChartRef.data.datasets[3].data = slice.map(d => d.total_iranian || 0);
-    missileChartRef.update();
+    renderMissileChartRange(start, end);
 
     if (btn && btn.parentElement) {
-    btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
+        btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
     }
+}
+
+function renderTradeChartRange(start, end) {
+    if (!tradeChartRef || !FULL_TRADE_DATA || !Array.isArray(FULL_TRADE_DATA)) return;
+    const labels = FULL_TRADE_DATA.map(d => d.date || '');
+    if (labels.length === 0) return;
+
+    const slice = FULL_TRADE_DATA.slice(start, end + 1);
+    
+    tradeChartRef.data.labels = slice.map(d => d.date || '');
+    if (tradeChartRef.data.datasets[0]) tradeChartRef.data.datasets[0].data = slice.map(d => d.tanker || 0);
+    if (tradeChartRef.data.datasets[1]) tradeChartRef.data.datasets[1].data = slice.map(d => d.container || 0);
+    if (tradeChartRef.data.datasets[2]) tradeChartRef.data.datasets[2].data = slice.map(d => d.dry_bulk || 0);
+    if (tradeChartRef.data.datasets[3]) tradeChartRef.data.datasets[3].data = slice.map(d => d.general_cargo || 0);
+    if (tradeChartRef.data.datasets[4]) tradeChartRef.data.datasets[4].data = slice.map(d => d.roro || 0);
+    if (tradeChartRef.data.datasets[5]) {
+        tradeChartRef.data.datasets[5].data = slice.map(d => 
+            (d.tanker || 0) + (d.container || 0) + (d.dry_bulk || 0) + (d.general_cargo || 0) + (d.roro || 0)
+        );
+    }
+    tradeChartRef.update();
+    syncRangeSlider('trade', start, end, FULL_TRADE_DATA.length - 1, labels);
 }
 
 function updateTradeChart(period, btn) {
@@ -3236,76 +3409,109 @@ function updateTradeChart(period, btn) {
     else if (period === '6mo') sliceSize = 180;
     else if (period === '1y') sliceSize = 365;
     else if (period === 'ytd') {
-    const currentYear = now.getFullYear();
-    const startOfYearStr = currentYear + '-01-01';
-    const startIdx = labels.findIndex(l => l >= startOfYearStr);
-    sliceSize = startIdx === -1 ? 0 : labels.length - startIdx;
+        const currentYear = now.getFullYear();
+        const startOfYearStr = currentYear + '-01-01';
+        const startIdx = labels.findIndex(l => l >= startOfYearStr);
+        sliceSize = startIdx === -1 ? 0 : labels.length - startIdx;
     }
     
     if (sliceSize > labels.length) sliceSize = labels.length;
-    const slice = FULL_TRADE_DATA.slice(labels.length - sliceSize);
+    const end = labels.length - 1;
+    const start = Math.max(0, labels.length - sliceSize);
     
-    tradeChartRef.data.labels = slice.map(d => d.date || '');
-    if (tradeChartRef.data.datasets[0]) tradeChartRef.data.datasets[0].data = slice.map(d => d.tanker || 0);
-    if (tradeChartRef.data.datasets[1]) tradeChartRef.data.datasets[1].data = slice.map(d => d.container || 0);
-    if (tradeChartRef.data.datasets[2]) tradeChartRef.data.datasets[2].data = slice.map(d => d.dry_bulk || 0);
-    if (tradeChartRef.data.datasets[3]) tradeChartRef.data.datasets[3].data = slice.map(d => d.general_cargo || 0);
-    if (tradeChartRef.data.datasets[4]) tradeChartRef.data.datasets[4].data = slice.map(d => d.roro || 0);
-    if (tradeChartRef.data.datasets[5]) {
-    tradeChartRef.data.datasets[5].data = slice.map(d => 
-    (d.tanker || 0) + (d.container || 0) + (d.dry_bulk || 0) + (d.general_cargo || 0) + (d.roro || 0)
-    );
-    }
-    
-    tradeChartRef.update();
+    renderTradeChartRange(start, end);
     
     if (btn && btn.parentElement) {
-    btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
+        btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
     }
 }
 
-function updateHormuzChart(period, btn) {
-    if (!hormuzHistoricalChartRef || !HORMUZ_HISTORICAL || !Array.isArray(HORMUZ_HISTORICAL)) return;
+function syncRangeSlider(type, start, end, maxVal, labels) {
+    const wrapperId = type === 'hourly' ? 'hourlyRangeWrapper' : 
+                      type.startsWith('abs-') ? 'absRangeWrapper-' + type.split('-')[1] :
+                      type + 'RangeWrapper';
+    const wrapper = document.getElementById(wrapperId);
+    if (!wrapper) return;
     
-    let sliceSize = HORMUZ_HISTORICAL.length;
-    if (period === '1mo') sliceSize = 30;
-    else if (period === '3mo') sliceSize = 90;
-    else if (period === '6mo') sliceSize = 180;
+    const minInput = wrapper.querySelector('.min');
+    const maxInput = wrapper.querySelector('.max');
+    const selected = wrapper.querySelector('.range-selected');
+    const minDateLabel = wrapper.querySelector('.min-date');
+    const maxDateLabel = wrapper.querySelector('.max-date');
+    const currentRangeLabel = wrapper.querySelector('.current-range');
     
-    const slider = document.getElementById('hormuzSlider');
-    if (slider) {
-    slider.value = sliceSize;
-    const label = document.getElementById('sliderValue');
-    if (label) label.innerText = 'Look back: ' + sliceSize + ' Days';
-    }
-
-    renderHormuzChart(sliceSize);
+    minInput.max = maxVal;
+    maxInput.max = maxVal;
+    minInput.value = start;
+    maxInput.value = end;
     
-    if (btn && btn.parentElement) {
-    btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
+    selected.style.left = (start / maxVal * 100) + "%";
+    selected.style.right = (100 - (end / maxVal * 100)) + "%";
+    
+    if (labels) {
+        if (minDateLabel) minDateLabel.innerText = labels[start] || 'Start';
+        if (maxDateLabel) maxDateLabel.innerText = labels[end] || 'End';
+        if (currentRangeLabel) {
+            const days = end - start + 1;
+            currentRangeLabel.innerText = days + (type.includes('hourly') || type.includes('abs') ? ' Data Pts' : ' Days');
+        }
     }
 }
 
-function updateHormuzChartFromSlider(val) {
-    const label = document.getElementById('sliderValue');
-    if (label) label.innerText = 'Look back: ' + val + ' Days';
+function handleRangeInput(type, handle) {
+    const wrapperId = type === 'hourly' ? 'hourlyRangeWrapper' : 
+                      type.startsWith('abs-') ? 'absRangeWrapper-' + type.split('-')[1] :
+                      type + 'RangeWrapper';
+    const wrapper = document.getElementById(wrapperId);
+    if (!wrapper) return;
     
-    // Deactivate buttons when using slider
-    const btnContainer = document.querySelector('#hormuzTab .chart-controls');
+    const minInput = wrapper.querySelector('.min');
+    const maxInput = wrapper.querySelector('.max');
+    const selected = wrapper.querySelector('.range-selected');
+    const minVal = parseInt(minInput.value);
+    const maxVal = parseInt(maxInput.value);
+    const totalMax = parseInt(minInput.max);
+    
+    if (maxVal - minVal < 1) {
+        if (handle === 'min') minInput.value = maxVal - 1;
+        else maxInput.value = minVal + 1;
+    }
+    
+    selected.style.left = (minInput.value / totalMax * 100) + "%";
+    selected.style.right = (100 - (maxInput.value / totalMax * 100)) + "%";
+    
+    // Deactivate buttons
+    let btnContainer = null;
+    if (type === 'hourly') btnContainer = document.querySelector('#marketsTab .chart-controls');
+    else if (type.startsWith('abs-')) {
+        const card = wrapper.closest('.commodity-card');
+        if (card) btnContainer = card.querySelector('.chart-controls');
+    }
+    else {
+        const tabId = type === 'hormuz' ? 'hormuzTab' : type === 'trade' ? 'tradeTab' : type === 'missile' ? 'missileTab' : '';
+        if (tabId) btnContainer = document.querySelector('#' + tabId + ' .chart-controls');
+    }
+    
     if (btnContainer) {
-    btnContainer.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+        btnContainer.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
     }
     
-    renderHormuzChart(parseInt(val));
+    const start = parseInt(minInput.value);
+    const end = parseInt(maxInput.value);
+    
+    if (type === 'hourly') renderIntradayOverlayRange(start, end);
+    else if (type.startsWith('abs-')) renderIntradayAbsRange(parseInt(type.split('-')[1]), start, end);
+    else if (type === 'hormuz') renderHormuzChartRange(start, end);
+    else if (type === 'trade') renderTradeChartRange(start, end);
+    else if (type === 'missile') renderMissileChartRange(start, end);
 }
 
-function renderHormuzChart(sliceSize) {
+function renderHormuzChartRange(start, end) {
     if (!hormuzHistoricalChartRef || !HORMUZ_HISTORICAL) return;
     
-    if (sliceSize > HORMUZ_HISTORICAL.length) sliceSize = HORMUZ_HISTORICAL.length;
-    const slice = HORMUZ_HISTORICAL.slice(HORMUZ_HISTORICAL.length - sliceSize);
+    const slice = HORMUZ_HISTORICAL.slice(start, end + 1);
+    const labels = HORMUZ_HISTORICAL.map(d => d.date || '');
     
     hormuzHistoricalChartRef.data.labels = slice.map(d => d.date || '');
     if (hormuzHistoricalChartRef.data.datasets[0]) hormuzHistoricalChartRef.data.datasets[0].data = slice.map(d => d['Crude Tankers'] || 0);
@@ -3316,6 +3522,27 @@ function renderHormuzChart(sliceSize) {
     if (hormuzHistoricalChartRef.data.datasets[5]) hormuzHistoricalChartRef.data.datasets[5].data = slice.map(d => d.total || 0);
     
     hormuzHistoricalChartRef.update();
+    syncRangeSlider('hormuz', start, end, HORMUZ_HISTORICAL.length - 1, labels);
+}
+
+function updateHormuzChart(period, btn) {
+    if (!hormuzHistoricalChartRef || !HORMUZ_HISTORICAL || !Array.isArray(HORMUZ_HISTORICAL)) return;
+    
+    let sliceSize = HORMUZ_HISTORICAL.length;
+    if (period === '1mo') sliceSize = 30;
+    else if (period === '3mo') sliceSize = 90;
+    else if (period === '6mo') sliceSize = 180;
+    
+    if (sliceSize > HORMUZ_HISTORICAL.length) sliceSize = HORMUZ_HISTORICAL.length;
+    const end = HORMUZ_HISTORICAL.length - 1;
+    const start = Math.max(0, HORMUZ_HISTORICAL.length - sliceSize);
+
+    renderHormuzChartRange(start, end);
+    
+    if (btn && btn.parentElement) {
+        btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+    }
 }
 
 function switchTab(tabName, btn) {
@@ -3465,180 +3692,219 @@ const map = { '1w': 5, '7d': 7, '1mo': 30, '3mo': 90, '6mo': 180, '1y': 365 };
 return map[period] || 365;
 }
 
-function updateIntradayOverlay(period, btn) {
-const chart = intradayOverlayChart;
-if (!chart || !INTRADAY_DATA || INTRADAY_DATA.length === 0) return;
+function renderIntradayOverlayRange(start, end) {
+    const chart = intradayOverlayChart;
+    if (!chart || !INTRADAY_DATA || INTRADAY_DATA.length === 0) return;
 
-const isDaily = ['3mo', '6mo', '1y'].includes(period);
-const dataRef = (isDaily && DAILY_DATA && DAILY_DATA.length > 0) ? DAILY_DATA : INTRADAY_DATA;
+    const hourlySection = document.getElementById('hourlySection');
+    const activeBtn = hourlySection ? hourlySection.querySelector('.chart-btn.active') : null;
+    const btnText = activeBtn ? activeBtn.innerText.trim() : '7D';
+    const isDaily = ['3M', '1Y'].includes(btnText);
+    const dataRef = (isDaily && DAILY_DATA && DAILY_DATA.length > 0) ? DAILY_DATA : INTRADAY_DATA;
+    if (!dataRef || dataRef.length === 0) return;
 
-if (!dataRef || dataRef.length === 0) return;
-const labels = isDaily ? dataRef[0].history_labels : dataRef[0].labels;
-const timestamps = isDaily ? dataRef[0].history_timestamps : dataRef[0].timestamps;
+    const labels = isDaily ? dataRef[0].history_labels : dataRef[0].labels;
+    if (!labels) return;
 
-if (!labels || labels.length === 0) return;
+    const changeElements = hourlySection ? hourlySection.querySelectorAll('.legend-change') : [];
 
-let sliceSize = labels.length;
+    chart.data.datasets.forEach((dataset, idx) => {
+        const commName = dataset.label;
+        let comm = dataRef.find(c => c.name === commName) || dataRef[idx];
+        if (!comm) return;
 
-if (period === '1h' || period === '4h') {
-    const hours = period === '1h' ? 1 : 4;
-    const lastTs = timestamps[timestamps.length - 1];
-    const targetTs = lastTs - (hours * 60 * 60 * 1000);
-    const startIdx = timestamps.findIndex(t => t >= targetTs);
-    sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
-} else if (period === 'open') {
-    const lastLabel = labels[labels.length - 1];
-    if (lastLabel) {
-        const lastDate = lastLabel.split(' ').slice(0, 2).join(' '); // e.g. "Oct 24"
-        const firstIndexToday = labels.findIndex(l => l && l.startsWith(lastDate));
-        sliceSize = labels.length - (firstIndexToday === -1 ? 0 : firstIndexToday);
+        const values = isDaily ? comm.history_values : comm.raw_values;
+        if (!values || values.length === 0) return;
+
+        const slice = values.slice(start, end + 1);
+        const base = slice[0] || 1;
+        const latest = slice[slice.length - 1];
+        const changeValue = ((latest - base) / base * 100);
+        const change = isNaN(changeValue) ? "0.00" : changeValue.toFixed(2);
+
+        dataset.data = slice.map(v => ((v - base) / base * 100));
+
+        if (changeElements[idx]) {
+            changeElements[idx].innerText = (changeValue >= 0 ? '+' : '') + change + '%';
+            changeElements[idx].className = 'legend-change ' + (changeValue >= 0 ? 'up' : 'down');
+        }
+    });
+
+    let currentLabels = labels.slice(start, end + 1);
+    if (isDaily || labels.length > 200) {
+        currentLabels = currentLabels.map(l => {
+            if (!l) return '';
+            return isDaily ? l.split('-').slice(1).join('/') : l.split(' ').slice(0, 2).join(' ');
+        });
+    } else {
+        currentLabels = currentLabels.map(l => l ? l.split(' ').pop() : '');
     }
-} else if (period === 'all') {
-    const lastTs = timestamps[timestamps.length - 1];
-    const targetTs = lastTs - (7 * 24 * 60 * 60 * 1000);
-    const startIdx = timestamps.findIndex(t => t >= targetTs);
-    sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
-} else if (period === '1mo' && !isDaily) {
-    sliceSize = labels.length;
-} else if (isDaily) {
-    sliceSize = getPeriodDays(period);
+
+    chart.data.labels = currentLabels;
+    chart.update();
+    syncRangeSlider('hourly', start, end, labels.length - 1, labels);
 }
 
-const hourlySection = document.getElementById('hourlySection');
-const changeElements = hourlySection ? hourlySection.querySelectorAll('.legend-change') : [];
+function updateIntradayOverlay(period, btn) {
+    const chart = intradayOverlayChart;
+    if (!chart || !INTRADAY_DATA || INTRADAY_DATA.length === 0) return;
 
-chart.data.datasets.forEach((dataset, idx) => {
-    // Find the matching commodity in dataRef by name if possible, otherwise use index
-    const commName = dataset.label;
-    let comm = dataRef.find(c => c.name === commName) || dataRef[idx];
-    if (!comm) return;
+    const isDaily = ['3mo', '6mo', '1y'].includes(period);
+    const dataRef = (isDaily && DAILY_DATA && DAILY_DATA.length > 0) ? DAILY_DATA : INTRADAY_DATA;
 
-    const values = isDaily ? comm.history_values : comm.raw_values;
-    if (!values || values.length === 0) return;
+    if (!dataRef || dataRef.length === 0) return;
+    const labels = isDaily ? dataRef[0].history_labels : dataRef[0].labels;
+    const timestamps = isDaily ? dataRef[0].history_timestamps : dataRef[0].timestamps;
 
-    const slice = values.slice(-sliceSize);
-    const base = slice[0] || 1;
-    const latest = slice[slice.length - 1];
-    const changeValue = ((latest - base) / base * 100);
+    if (!labels || labels.length === 0) return;
+
+    let sliceSize = labels.length;
+
+    if (period === '1h' || period === '4h') {
+        const hours = period === '1h' ? 1 : 4;
+        const lastTs = timestamps[timestamps.length - 1];
+        const targetTs = lastTs - (hours * 60 * 60 * 1000);
+        const startIdx = timestamps.findIndex(t => t >= targetTs);
+        sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
+    } else if (period === 'open') {
+        const lastLabel = labels[labels.length - 1];
+        if (lastLabel) {
+            const lastDate = lastLabel.split(' ').slice(0, 2).join(' '); 
+            const firstIndexToday = labels.findIndex(l => l && l.startsWith(lastDate));
+            sliceSize = labels.length - (firstIndexToday === -1 ? 0 : firstIndexToday);
+        }
+    } else if (period === 'all') {
+        const lastTs = timestamps[timestamps.length - 1];
+        const targetTs = lastTs - (7 * 24 * 60 * 60 * 1000);
+        const startIdx = timestamps.findIndex(t => t >= targetTs);
+        sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
+    } else if (period === '1mo' && !isDaily) {
+        sliceSize = labels.length;
+    } else if (isDaily) {
+        sliceSize = getPeriodDays(period);
+    }
+
+    if (sliceSize > labels.length) sliceSize = labels.length;
+    const end = labels.length - 1;
+    const start = Math.max(0, labels.length - sliceSize);
+
+    if (btn && btn.parentElement) {
+        btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+    }
+
+    renderIntradayOverlayRange(start, end);
+}
+
+function renderIntradayAbsRange(idx, start, end) {
+    const chart = intradayAbsCharts[idx];
+    if (!chart) return;
+
+    const card = chart.canvas.closest('.commodity-card');
+    const activeBtn = card ? card.querySelector('.chart-btn.active') : null;
+    const btnText = activeBtn ? activeBtn.innerText.trim() : '7D';
+    const isDaily = ['3M', '1Y'].includes(btnText);
+    const dataSet = (isDaily && DAILY_DATA && DAILY_DATA.length > 0) ? DAILY_DATA : INTRADAY_DATA;
+
+    const data = dataSet[idx];
+    if (!data) return;
+
+    const labels = isDaily ? data.history_labels : data.labels;
+    const values = isDaily ? data.history_values : data.raw_values;
+    if (!labels || !values) return;
+
+    const slice = values.slice(start, end + 1);
+    const first = slice[0];
+    const last = slice[slice.length - 1];
+    const changeValue = ((last - first) / first * 100);
     const change = isNaN(changeValue) ? "0.00" : changeValue.toFixed(2);
 
-    dataset.data = slice.map(v => ((v - base) / base * 100));
+    const changeEl = card ? card.querySelector('.comm-change') : null;
+    const priceEl = card ? card.querySelector('.comm-price') : null;
 
-    if (changeElements[idx]) {
-        changeElements[idx].innerText = (changeValue >= 0 ? '+' : '') + change + '%';
-        changeElements[idx].className = 'legend-change ' + (changeValue >= 0 ? 'up' : 'down');
+    if (changeEl) {
+        changeEl.innerText = (changeValue >= 0 ? '+' : '') + change + '%';
+        changeEl.className = 'comm-change ' + (changeValue >= 0 ? 'up' : 'down');
     }
-});
+    if (priceEl && last !== undefined) {
+        priceEl.innerText = '$' + last.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
+    }
 
-let currentLabels = labels.slice(-sliceSize);
-if (isDaily || period === 'all' || period === '1mo') {
-    currentLabels = currentLabels.map(l => {
-        if (!l) return '';
-        return isDaily ? l.split('-').slice(1).join('/') : l.split(' ').slice(0, 2).join(' ');
-    });
-} else {
-    currentLabels = currentLabels.map(l => l ? l.split(' ').pop() : '');
-}
+    let currentLabels = labels.slice(start, end + 1);
+    if (isDaily || labels.length > 200) {
+        currentLabels = currentLabels.map(l => {
+            if (!l) return '';
+            return isDaily ? l.split('-').slice(1).join('/') : l.split(' ').slice(0, 2).join(' ');
+        });
+    } else {
+        currentLabels = currentLabels.map(l => l ? l.split(' ').pop() : '');
+    }
 
-chart.data.labels = currentLabels;
-chart.update();
+    chart.data.labels = currentLabels;
+    chart.data.datasets[0].data = slice;
 
-if (btn && btn.parentElement) {
-    btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-}
+    const color = last >= first ? '#22c55e' : '#ef4444';
+    const bg = last >= first ? 'rgba(34, 197, 94, 0.1)' : 'rgba(239, 68, 68, 0.1)';
+
+    chart.data.datasets[0].borderColor = color;
+    chart.data.datasets[0].backgroundColor = bg;
+
+    chart.update();
+    syncRangeSlider('abs-' + idx, start, end, labels.length - 1, labels);
 }
 
 function updateIntradayAbsChart(idx, period, btn) {
-const chart = intradayAbsCharts[idx];
-if (!chart) return;
+    const chart = intradayAbsCharts[idx];
+    if (!chart) return;
 
-const isDaily = ['3mo', '6mo', '1y'].includes(period);
-const dataSet = (isDaily && DAILY_DATA && DAILY_DATA.length > 0) ? DAILY_DATA : INTRADAY_DATA;
+    const isDaily = ['3mo', '6mo', '1y'].includes(period);
+    const dataSet = (isDaily && DAILY_DATA && DAILY_DATA.length > 0) ? DAILY_DATA : INTRADAY_DATA;
 
-// Try to find by name if we can, but we usually have idx from the loop
-const data = dataSet[idx];
-if (!data) return;
+    const data = dataSet[idx];
+    if (!data) return;
 
-const labels = isDaily ? data.history_labels : data.labels;
-const timestamps = isDaily ? data.history_timestamps : data.timestamps;
+    const labels = isDaily ? data.history_labels : data.labels;
+    const timestamps = isDaily ? data.history_timestamps : data.timestamps;
 
-if (!labels || labels.length === 0) return;
+    if (!labels || labels.length === 0) return;
 
-let sliceSize = labels.length;
+    let sliceSize = labels.length;
 
-if (period === '1h' || period === '4h') {
-    const hours = period === '1h' ? 1 : 4;
-    const lastTs = timestamps[timestamps.length - 1];
-    const targetTs = lastTs - (hours * 60 * 60 * 1000);
-    const startIdx = timestamps.findIndex(t => t >= targetTs);
-    sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
-} else if (period === 'open') {
-    const lastLabel = labels[labels.length - 1];
-    if (lastLabel) {
-        const lastDate = lastLabel.split(' ').slice(0, 2).join(' ');
-        const firstIndexToday = labels.findIndex(l => l && l.startsWith(lastDate));
-        sliceSize = labels.length - (firstIndexToday === -1 ? 0 : firstIndexToday);
+    if (period === '1h' || period === '4h') {
+        const hours = period === '1h' ? 1 : 4;
+        const lastTs = timestamps[timestamps.length - 1];
+        const targetTs = lastTs - (hours * 60 * 60 * 1000);
+        const startIdx = timestamps.findIndex(t => t >= targetTs);
+        sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
+    } else if (period === 'open') {
+        const lastLabel = labels[labels.length - 1];
+        if (lastLabel) {
+            const lastDate = lastLabel.split(' ').slice(0, 2).join(' ');
+            const firstIndexToday = labels.findIndex(l => l && l.startsWith(lastDate));
+            sliceSize = labels.length - (firstIndexToday === -1 ? 0 : firstIndexToday);
+        }
+    } else if (period === 'all') {
+        const lastTs = timestamps[timestamps.length - 1];
+        const targetTs = lastTs - (7 * 24 * 60 * 60 * 1000);
+        const startIdx = timestamps.findIndex(t => t >= targetTs);
+        sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
+    } else if (period === '1mo' && !isDaily) {
+        sliceSize = labels.length;
+    } else if (isDaily) {
+        sliceSize = getPeriodDays(period);
     }
-} else if (period === 'all') {
-    const lastTs = timestamps[timestamps.length - 1];
-    const targetTs = lastTs - (7 * 24 * 60 * 60 * 1000);
-    const startIdx = timestamps.findIndex(t => t >= targetTs);
-    sliceSize = labels.length - (startIdx === -1 ? 0 : startIdx);
-} else if (period === '1mo' && !isDaily) {
-    sliceSize = labels.length;
-} else if (isDaily) {
-    sliceSize = getPeriodDays(period);
+
+    if (sliceSize > labels.length) sliceSize = labels.length;
+    const end = labels.length - 1;
+    const start = Math.max(0, labels.length - sliceSize);
+
+    if (btn && btn.parentElement) {
+        btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+    }
+
+    renderIntradayAbsRange(idx, start, end);
 }
-
-const card = btn ? btn.closest('.commodity-card') : null;
-const changeEl = card ? card.querySelector('.comm-change') : null;
-const priceEl = card ? card.querySelector('.comm-price') : null;
-
-const values = isDaily ? data.history_values : data.raw_values;
-if (!values || values.length === 0) return;
-
-const slice = values.slice(-sliceSize);
-const first = slice[0];
-const last = slice[slice.length - 1];
-const changeValue = ((last - first) / first * 100);
-const change = isNaN(changeValue) ? "0.00" : changeValue.toFixed(2);
-
-if (changeEl) {
-    changeEl.innerText = (changeValue >= 0 ? '+' : '') + change + '%';
-    changeEl.className = 'comm-change ' + (changeValue >= 0 ? 'up' : 'down');
-}
-if (priceEl && last !== undefined) {
-    priceEl.innerText = '$' + last.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
-}
-
-let currentLabels = labels.slice(-sliceSize);
-if (isDaily || period === 'all' || period === '1mo') {
-    currentLabels = currentLabels.map(l => {
-        if (!l) return '';
-        return isDaily ? l.split('-').slice(1).join('/') : l.split(' ').slice(0, 2).join(' ');
-    });
-} else {
-    currentLabels = currentLabels.map(l => l ? l.split(' ').pop() : '');
-}
-
-chart.data.labels = currentLabels;
-chart.data.datasets[0].data = slice;
-
-const color = last >= first ? '#22c55e' : '#ef4444';
-const bg = last >= first ? 'rgba(34, 197, 94, 0.1)' : 'rgba(239, 68, 68, 0.1)';
-
-chart.data.datasets[0].borderColor = color;
-chart.data.datasets[0].backgroundColor = bg;
-
-chart.update();
-
-if (btn && btn.parentElement) {
-    btn.parentElement.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-}
-}
-
 document.addEventListener('DOMContentLoaded', function() {
 //  Hourly intraday overlay chart
 {% if hourly_commodities %}
@@ -3882,19 +4148,6 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
     })();
 {% endif %}
 
-//  Hormuz slider init
-{% if hormuz_historical %}
-    (function() {
-        const slider = document.getElementById('hormuzSlider');
-        const label = document.getElementById('sliderValue');
-        if (slider && HORMUZ_HISTORICAL) {
-            slider.max = HORMUZ_HISTORICAL.length;
-            slider.value = HORMUZ_HISTORICAL.length;
-            if (label) label.innerText = 'Look back: ' + slider.value + ' Days';
-        }
-    })();
-{% endif %}
-
 //  Hormuz Historical Chart
 {% if hormuz_historical %}
     (function() {
@@ -3945,6 +4198,9 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
                     }
                 }
             });
+            // Set default view to ALL
+            const defaultHormuzBtn = document.getElementById('defaultHormuzBtn');
+            if (defaultHormuzBtn) updateHormuzChart('all', defaultHormuzBtn);
         }
     })();
 {% endif %}
@@ -4050,9 +4306,13 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
                         }
                         }
                         });
-                        }
-                        })();
-                        {% endif %}
+            // Set default view to ALL
+            const defaultMissileBtn = document.getElementById('defaultMissileBtn');
+            if (defaultMissileBtn) updateMissileChart('all', defaultMissileBtn);
+        }
+    })();
+{% endif %}
+
                         });
                         </script>
                         </body>

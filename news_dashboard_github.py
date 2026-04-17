@@ -375,6 +375,28 @@ def resolve_url(url: str) -> str:
         return url
 
 
+STORAGE_FILE = "dashboard_data.json"
+
+def load_stored_data() -> dict:
+    if os.path.exists(STORAGE_FILE):
+        try:
+            with open(STORAGE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f" Error loading storage file: {e}")
+    return {}
+
+def save_stored_data(data: dict):
+    try:
+        with open(STORAGE_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f" Error saving storage file: {e}")
+
+def get_brt_now():
+    return datetime.now(timezone.utc) - timedelta(hours=3)
+
+# -- favicon_url ---------------------------------------------------------------
 def favicon_url(article_url: str) -> str:
     domain = domain_from_url(article_url)
     return f"https://www.google.com/s2/favicons?sz=32&domain={domain}"
@@ -1628,10 +1650,18 @@ def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
     return articles[:6]
 
 
-def summarise_articles(articles: list[dict], cfg: dict) -> list[dict]:
+def summarise_articles(articles: list[dict], cfg: dict, cache: dict = None) -> list[dict]:
     """Extract summaries and full text for articles using peek_deck core metadata extractor."""
+    if not cache: cache = {}
     fetcher = get_url_fetch_manager()
     for i, art in enumerate(articles, 1):
+        url = art["url"]
+        if url in cache and cache[url].get("summary"):
+            art["summary"] = cache[url]["summary"]
+            art["tags"] = cache[url].get("tags", [])
+            art["sentiment"] = cache[url].get("sentiment", "neutral")
+            continue
+
         print(f" Extracting content [{i}/{len(articles)}] {art['title'][:60]}…")
         
         try:
@@ -1682,8 +1712,9 @@ def summarise_articles(articles: list[dict], cfg: dict) -> list[dict]:
     return articles
 
 
-def categorize_sentiment(articles: list[dict], cfg: dict) -> list[dict]:
+def categorize_sentiment(articles: list[dict], cfg: dict, cache: dict = None) -> list[dict]:
     """Categorize sentiment of news articles using a configurable OpenAI-compatible API (Groq/xAI)."""
+    if not cache: cache = {}
     if not OpenAI:
         print(" OpenAI library not found. Sentiment analysis skipped.")
         return articles
@@ -1701,6 +1732,13 @@ def categorize_sentiment(articles: list[dict], cfg: dict) -> list[dict]:
     client = OpenAI(api_key=api_key, base_url=base_url)
     
     for i, art in enumerate(articles, 1):
+        url = art["url"]
+        # Only skip if we have a successful sentiment analysis in cache
+        if url in cache and cache[url].get("sentiment_success"):
+            art["sentiment"] = cache[url]["sentiment"]
+            art["sentiment_success"] = True
+            continue
+
         description = art.get("summary", "") or "No description available."
         
         print(f" Sentiment [{i}/{len(articles)}] {art['title'][:60]}…")
@@ -1716,6 +1754,7 @@ def categorize_sentiment(articles: list[dict], cfg: dict) -> list[dict]:
         ]
         
         art["sentiment"] = "neutral"
+        art["sentiment_success"] = False
         
         try:
             response = client.chat.completions.create(
@@ -1732,6 +1771,7 @@ def categorize_sentiment(articles: list[dict], cfg: dict) -> list[dict]:
                     if "positive" in sentiment: art["sentiment"] = "positive"
                     elif "negative" in sentiment: art["sentiment"] = "negative"
                     else: art["sentiment"] = "neutral"
+                    art["sentiment_success"] = True
         except Exception as exc:
             print(f" Sentiment categorization failed for '{art['title'][:30]}': {exc}")
     
@@ -2197,14 +2237,12 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
                     AI-Generated Summaries · {{ generated_at }}
             </span>
     </div> </div>
-    {% if infra_damage_data %}
     <div class="header-right">
     <div>
-    <div class="stat-num" style="color: var(--negative);">{{ infra_damage_data | length }}</div>
-    <div class="stat-label">ME Strikes</div>
+    <div class="stat-num" style="color: var(--accent);">{{ conflict_days }}</div>
+    <div class="stat-label">Days of Conflict</div>
     </div>
     </div>
-    {% endif %}
     </header>
 
     <div class="tab-container">
@@ -4003,11 +4041,16 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
 
     dash = cfg["dashboard"]
 
+    # Calculate days since start of conflict (Feb 28, 2026)
+    conflict_start = datetime(2026, 2, 28, tzinfo=timezone.utc)
+    conflict_days = (datetime.now(timezone.utc) - conflict_start).days
+
     context = dict(
         title=dash["title"],
         topic=dash["topic"],
         period=dash["period"],
         generated_at=f"{datetime.now(timezone.utc).strftime('%b %d, %Y  %H:%M UTC')} / {(datetime.now(timezone.utc) - timedelta(hours=3)).strftime('%H:%M BRT')}",
+        conflict_days=conflict_days,
         articles=articles,
         relevant_news=relevant_news,
         commodities=commodities,
@@ -4044,6 +4087,10 @@ def main():
 
     cfg = load_config(args.config)
     dash = cfg["dashboard"]
+    
+    # Load stored data
+    stored_data = load_stored_data()
+    news_cache = stored_data.setdefault("news_cache", {})
 
     print(f"\n News Dashboard Pipeline: {dash['title']}")
 
@@ -4100,20 +4147,76 @@ def main():
     themed_news = fetch_themed_news(cfg)
 
     print(f"\n Extracting news previews...")
-    articles = summarise_articles(articles, cfg)
+    articles = summarise_articles(articles, cfg, cache=news_cache)
 
     relevant_news = []
+    digest = {
+        "digest": "AI generated digest is disabled or skipped.",
+        "top_themes": [],
+        "next_events": []
+    }
+
+    # Time conditions for Gemini / LLM features
+    now_brt = get_brt_now()
+    today_iso = now_brt.date().isoformat()
+    last_gen_date = stored_data.get("last_generated_date")
+    last_run_success = stored_data.get("last_run_success", True)
+    
+    # Past 7:30 AM BRT is past 10:30 AM UTC
+    is_past_730 = now_brt.hour > 7 or (now_brt.hour == 7 and now_brt.minute >= 30)
+    is_new_day = last_gen_date != today_iso
+    
+    # Run if it's past 7:30 AM AND (it's a new day OR the last attempt today/yesterday failed)
+    should_run_gemini = cfg["llm"].get("enabled", True) and is_past_730 and (is_new_day or not last_run_success)
+
     if cfg["llm"].get("enabled", True):
-        articles = categorize_sentiment(articles, cfg)
-        digest = generate_digest(llama_context_articles, commodities, cfg)
-        relevant_news = select_relevant_news(llama_context_articles, cfg)
+        # Sentiment always runs (with cache) if LLM is enabled
+        articles = categorize_sentiment(articles, cfg, cache=news_cache)
+        
+        if should_run_gemini:
+            reason = "new day" if is_new_day else "retrying after failure"
+            print(f" Past 7:30 AM BRT and {reason} ({today_iso}) - Updating Gemini features...")
+            digest = generate_digest(llama_context_articles, commodities, cfg)
+            relevant_news = select_relevant_news(llama_context_articles, cfg)
+            
+            # Check if it actually succeeded (didn't return placeholder)
+            success = digest.get("digest") != "Digest unavailable."
+            
+            if success:
+                # Persist to storage
+                stored_data["last_run_success"] = True
+                stored_data["last_generated_date"] = today_iso
+                stored_data["last_generated_time"] = now_brt.isoformat()
+                stored_data["digest"] = digest
+                stored_data["relevant_news"] = relevant_news
+                print(" Gemini features updated successfully.")
+            else:
+                print(" Gemini update failed (placeholder received). Will retry on next execution.")
+                stored_data["last_run_success"] = False
+                # Fallback to whatever we have stored if anything
+                digest = stored_data.get("digest", digest)
+                relevant_news = stored_data.get("relevant_news", [])
+        else:
+            print(f"\n Skipping Gemini update (Past 7:30 AM: {is_past_730}, New Day: {is_new_day}, Last Success: {last_run_success})")
+            # Use stored data
+            digest = stored_data.get("digest", digest)
+            relevant_news = stored_data.get("relevant_news", [])
     else:
         print("\n AI generated features (sentiment, digest, relevant news) are disabled in config.")
-        digest = {
-            "digest": "AI generated digest is disabled in the configuration.",
-            "top_themes": [],
-            "next_events": []
+
+    # Update news cache with ALL articles fetched (with their summaries and sentiments)
+    for art in articles:
+        news_cache[art["url"]] = {
+            "summary": art["summary"],
+            "tags": art["tags"],
+            "sentiment": art["sentiment"],
+            "sentiment_success": art.get("sentiment_success", False),
+            "pub_date": art["pub_date"]
         }
+    
+    # Save storage
+    stored_data["news_cache"] = news_cache
+    save_stored_data(stored_data)
 
     print("\n Rendering HTML dashboard")
     out_path = Path(cfg["output"]["filename"])

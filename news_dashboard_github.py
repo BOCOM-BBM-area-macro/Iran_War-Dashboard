@@ -1702,7 +1702,7 @@ def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
     return articles[:6]
 
 
-def summarise_articles(articles: list[dict], cfg: dict, cache: dict = None) -> list[dict]:
+def summarise_articles(articles: list[dict], cfg: dict, cache: dict = None, extract_full_text: bool = True) -> list[dict]:
     """Extract summaries and full text for articles using peek_deck core metadata extractor."""
     if not cache: cache = {}
     fetcher = get_url_fetch_manager()
@@ -1728,8 +1728,8 @@ def summarise_articles(articles: list[dict], cfg: dict, cache: dict = None) -> l
                 else:
                     art["tags"] = ["extracted", art["domain"]]
             
-            # Full text extraction (as requested)
-            if fetcher:
+            # Full text extraction (only if requested)
+            if extract_full_text and fetcher:
                 try:
                     print(f" Extracting full text...")
                     html = fetcher.get(art['url'], response_type="text", timeout=10)
@@ -1751,7 +1751,7 @@ def summarise_articles(articles: list[dict], cfg: dict, cache: dict = None) -> l
                     print(f" Full text extraction failed: {e}")
                     art["full_text"] = art["summary"]
             else:
-                art["full_text"] = art["summary"]
+                art["full_text"] = art.get("summary", "")
 
             art["sentiment"] = "neutral"
             
@@ -4201,8 +4201,17 @@ def main():
     infra_damage_data = fetch_infrastructure_damage_data(cfg)
     themed_news = fetch_themed_news(cfg)
 
-    print(f"\n Extracting news previews...")
-    articles = summarise_articles(articles, cfg, cache=news_cache)
+    # Determine if Gemini / LLM features should run (past 7:30 BRT and first time today or retry after failure)
+    now_brt = get_brt_now()
+    today_iso = now_brt.date().isoformat()
+    last_gen_date = stored_data.get("last_generated_date")
+    last_run_success = stored_data.get("last_run_success", True)
+    is_past_730 = now_brt.hour > 7 or (now_brt.hour == 7 and now_brt.minute >= 30)
+    is_new_day = last_gen_date != today_iso
+    should_run_gemini = cfg["llm"].get("enabled", True) and is_past_730 and (is_new_day or not last_run_success)
+
+    print(f"\n Extracting news previews (Full text: {should_run_gemini})...")
+    articles = summarise_articles(articles, cfg, cache=news_cache, extract_full_text=should_run_gemini)
 
     relevant_news = []
     digest = {
@@ -4210,19 +4219,6 @@ def main():
         "top_themes": [],
         "next_events": []
     }
-
-    # Time conditions for Gemini / LLM features
-    now_brt = get_brt_now()
-    today_iso = now_brt.date().isoformat()
-    last_gen_date = stored_data.get("last_generated_date")
-    last_run_success = stored_data.get("last_run_success", True)
-    
-    # Past 7:30 AM BRT is past 10:30 AM UTC
-    is_past_730 = now_brt.hour > 7 or (now_brt.hour == 7 and now_brt.minute >= 30)
-    is_new_day = last_gen_date != today_iso
-    
-    # Run if it's past 7:30 AM AND (it's a new day OR the last attempt today/yesterday failed)
-    should_run_gemini = cfg["llm"].get("enabled", True) and is_past_730 and (is_new_day or not last_run_success)
 
     if cfg["llm"].get("enabled", True):
         # Sentiment always runs (with cache) if LLM is enabled

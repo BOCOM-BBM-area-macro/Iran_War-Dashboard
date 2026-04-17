@@ -7,7 +7,7 @@
         "reuters.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.axios.com/2026/04/16/trump-iran-war-powers-vote-fails-democrats": {
@@ -16,8 +16,8 @@
         "extracted",
         "axios.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-16"
     },
     "https://www.wsj.com/world/middle-east/irans-war-shattered-economy-means-it-has-an-urgent-reason-to-negotiate-43937f36": {
@@ -37,7 +37,7 @@
         "timesofisrael.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.timesofisrael.com/trump-says-second-round-of-talks-with-iran-could-take-place-this-weekend/": {
@@ -46,8 +46,8 @@
         "extracted",
         "timesofisrael.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html": {
@@ -56,8 +56,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.reuters.com/business/energy/european-oil-majors-outshine-us-rivals-with-iran-war-trading-bonanza-2026-04-17/": {
@@ -66,8 +66,8 @@
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.axios.com/2026/04/17/iran-us-deal-20-billion-frozen-funds-uranium": {
@@ -76,8 +76,8 @@
         "extracted",
         "axios.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.wsj.com/politics/gop-anxiety-iran-war-a6b14e84": {
@@ -126,8 +126,8 @@
         "extracted",
         "washingtonpost.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.reuters.com/world/asia-pacific/iran-war-spurs-rubber-glove-price-hikes-raising-caution-hospitals-2026-04-17/": {
@@ -199,8 +199,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-16"
     },
     "https://www.nytimes.com/2026/04/14/opinion/trump-iran-war-regime.html": {
@@ -210,7 +210,7 @@
         "nytimes.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-14"
     },
     "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump": {
@@ -219,8 +219,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-15"
     },
     "https://www.nytimes.com/2026/04/11/opinion/trump-iran-war-middle-east.html": {
@@ -229,8 +229,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-11"
     },
     "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html": {
@@ -239,8 +239,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-14"
     },
     "https://www.nytimes.com/2026/04/12/opinion/trump-iran-war-incompetence-america.html": {
@@ -249,8 +249,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-12"
     },
     "https://www.washingtonpost.com/national-security/2026/04/15/us-troops-iran-blockade/": {
@@ -269,8 +269,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-15"
     },
     "https://www.nytimes.com/2026/04/14/us/politics/iran-military-action-americans-poll.html": {
@@ -289,8 +289,8 @@
         "extracted",
         "axios.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-15"
     },
     "https://www.nytimes.com/2026/04/13/world/middleeast/israeli-iran-war-polls.html": {
@@ -299,8 +299,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-13"
     },
     "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon": {
@@ -310,7 +310,7 @@
         "nytimes.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-12"
     },
     "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html": {
@@ -320,7 +320,7 @@
         "nytimes.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-16"
     },
     "https://www.washingtonpost.com/politics/2026/04/10/trump-goals-iran-achieved/": {
@@ -339,8 +339,8 @@
         "extracted",
         "axios.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-16"
     },
     "https://www.reuters.com/world/china/nornickel-says-higher-prices-offset-increased-costs-delivery-times-iran-war-2026-04-17/": {
@@ -349,8 +349,8 @@
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.reuters.com/markets/commodities/iran-wars-sulfurous-fallout-spreads-copper-nickel-2026-04-17/": {
@@ -369,8 +369,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-14"
     },
     "https://www.wsj.com/arts-culture/fine-art/iran-heritage-museums-war-damage-a57abf10": {
@@ -399,8 +399,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-11"
     },
     "https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html": {
@@ -409,8 +409,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-12"
     },
     "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html": {
@@ -419,8 +419,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-13"
     },
     "https://www.reuters.com/world/africa/dollar-set-second-weekly-loss-iran-war-peace-hopes-2026-04-17/": {
@@ -429,8 +429,8 @@
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-16"
     },
     "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html": {
@@ -439,8 +439,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.washingtonpost.com/opinions/2026/04/17/lindsey-graham-future-senate-could-hang-iran-war/": {
@@ -459,8 +459,8 @@
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.nytimes.com/2026/04/17/business/stocks-oil-iran-war-strait-of-hormuz.html": {
@@ -469,8 +469,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.reuters.com/sustainability/climate-energy/eu-push-jet-fuel-diversification-iran-war-threatens-supply-2026-04-17/": {
@@ -479,8 +479,8 @@
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.reuters.com/world/middle-east/us-recover-uranium-iran-trump-tells-reuters-2026-04-17/": {
@@ -500,7 +500,7 @@
         "washingtonpost.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.axios.com/2026/04/16/renewable-energy-iran-war-coal-solar-wind": {
@@ -519,8 +519,8 @@
         "extracted",
         "wsj.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.timesofisrael.com/pm-says-israel-ready-for-iran-war-resumption-while-us-gears-for-another-round-of-talks/": {
@@ -552,11 +552,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-17"
+    },
+    "https://www.reuters.com/business/us-buyers-redirect-imported-fertilizer-overseas-iran-war-drives-up-global-prices-2026-04-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.washingtonpost.com/world/2026/04/17/lebanon-israel-hezbollah-ceasefire-iran-trump-explain/7e99de44-3a88-11f1-90c4-9772c7fabc03_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.nytimes.com/2026/04/13/opinion/uae-iran-war-trump-gulf-oil-dubai.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-13"
+    },
+    "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-14"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-17",
-  "last_generated_time": "2026-04-17T15:04:19.678345+00:00",
+  "last_generated_time": "2026-04-17T15:20:07.068699+00:00",
   "digest": {
     "digest": "Recent developments indicate a potential shift in the Iran war, with discussions around a $20 billion cash-for-uranium deal and the release of frozen Iranian funds. The Strait of Hormuz has been declared open following a deal with Lebanon, and President Trump anticipates an Iran deal 'soon,' suggesting a potential end to the conflict. This easing of tensions has contributed to a rally in stock markets and a drop in the dollar. However, the war has had significant economic repercussions, including an estimated $50 billion loss in oil value and increased costs for commodities like copper and nickel, impacting global trade fairs. European oil majors have reportedly benefited from trading activities related to the conflict. Meanwhile, US political discourse shows a split, with Democrats seeking new strategies after failing to pass war powers votes, while Republicans express anxiety but vote against curbing presidential powers. Public sentiment in Israel, however, is reportedly pessimistic about the war's outcome despite a ceasefire. The US plans to recover uranium from Iran at a 'leisurely pace,' and efforts are underway to diversify jet fuel supplies due to war-related threats.",
     "top_themes": [

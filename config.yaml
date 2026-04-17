@@ -32,6 +32,7 @@ llm:
   watch_model: "gemini-2.5-flash"               # Gemini model for 'things to watch'
   relevant_news_model: "gemini-2.5-flash-lite"           # Gemini model for most relevant news selection
   sentiment_model: "meta-llama/llama-4-scout-17b-16e-instruct"      # Use "llama-3.3-70b-versatile" for Groq OR "grok-2-1212" for xAI
+  sentiment_api_key: "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"
   gemini_api_key: "AIzaSyDC9_PU2c2YW964qzrS4PG3kVnk4JL4BY0"    # Gemini API Key
   api_base_url: "https://api.groq.com/openai/v1" # Use "https://api.groq.com/openai/v1" for Groq OR "https://api.x.ai/v1" for xAI
 

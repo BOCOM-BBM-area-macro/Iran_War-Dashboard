@@ -378,12 +378,31 @@ def resolve_url(url: str) -> str:
 STORAGE_FILE = "dashboard_data.json"
 
 def load_stored_data() -> dict:
+    # 1. Try local file (works in local dev or if committed to branch)
     if os.path.exists(STORAGE_FILE):
         try:
             with open(STORAGE_FILE, "r", encoding="utf-8") as f:
                 return json.load(f)
         except Exception as e:
             print(f" Error loading storage file: {e}")
+    
+    # 2. GitHub Actions Fallback: Try to load from the gh-pages or main branch
+    # This allows the script on 'main' to access data saved in the last deploy
+    if os.environ.get("GITHUB_ACTIONS"):
+        repo = os.environ.get("GITHUB_REPOSITORY")
+        if repo:
+            print(f" Local storage not found. Attempting to load from repository {repo} branches...")
+            # We try both gh-pages (where it's likely being saved) and main (as a fallback)
+            for branch in ["gh-pages", "main"]:
+                remote_url = f"https://raw.githubusercontent.com/{repo}/{branch}/{STORAGE_FILE}"
+                try:
+                    response = requests.get(remote_url, timeout=10)
+                    if response.status_code == 200:
+                        print(f" Successfully loaded storage from {branch} branch.")
+                        return response.json()
+                except Exception:
+                    pass
+                    
     return {}
 
 def save_stored_data(data: dict):

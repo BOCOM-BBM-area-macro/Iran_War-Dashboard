@@ -20,6 +20,7 @@ import sys
 import textwrap
 import time
 import webbrowser
+import math
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
@@ -41,7 +42,8 @@ def fetch_asset(url: str, is_binary: bool = False):
     """Fetch an asset from a URL and return it as text or base64 encoded string."""
     print(f" Fetching asset: {url[:60]}...")
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+        # Using a more descriptive User-Agent for Wikimedia Maps compliance
+        headers = {'User-Agent': 'NewsDashboard/1.0 (https://github.com/brunodalben/iran-war-dashboard)'}
         response = requests.get(url, timeout=15, headers=headers)
         if response.status_code == 200:
             if is_binary:
@@ -53,17 +55,68 @@ def fetch_asset(url: str, is_binary: bool = False):
         print(f"  Error fetching asset: {e}")
     return None
 
+def tile_bounds(x, y, zoom):
+    """Convert OSM tile coordinates X, Y to Lat/Lon bounds."""
+    n = 2.0 ** zoom
+    lon_l = x / n * 360.0 - 180.0
+    lon_r = (x + 1) / n * 360.0 - 180.0
+    
+    def y_to_lat(yt):
+        lat_rad = math.atan(math.sinh(math.pi * (1 - 2 * yt / n)))
+        return math.degrees(lat_rad)
+    
+    lat_t = y_to_lat(y)
+    lat_b = y_to_lat(y + 1)
+    return [[lat_b, lon_l], [lat_t, lon_r]]
+
+def latlon_to_tile(lat, lon, zoom):
+    """Convert Lat/Lon to OSM tile coordinates X, Y."""
+    lat_rad = math.radians(lat)
+    n = 2.0 ** zoom
+    xtile = int((lon + 180.0) / 360.0 * n)
+    ytile = int((1.0 - math.log(math.tan(lat_rad) + (1 / math.cos(lat_rad))) / math.pi) / 2.0 * n)
+    return xtile, ytile
+
 def get_offline_assets():
-    """Download and prepare Leaflet, Chart.js and a static map for the Middle East."""
+    """Download and prepare Leaflet, Chart.js and static fallback maps for the dashboard."""
+    
+    # Regional Overview tiles (Lon 45W-90E, Lat 0-66) at Zoom 3.
+    # This covers Screenshot 1 area (Morocco to India) with higher granularity.
+    reg_tiles = [
+        {"id": "r1", "x": 3, "y": 1, "z": 3}, # Lon 45W-0, Lat 45-66 (West Europe/North Atlantic)
+        {"id": "r2", "x": 4, "y": 1, "z": 3}, # Lon 0-45E, Lat 45-66 (Europe/Russia)
+        {"id": "r3", "x": 5, "y": 1, "z": 3}, # Lon 45-90E, Lat 45-66 (Central Asia)
+        {"id": "r4", "x": 3, "y": 2, "z": 3}, # Lon 45W-0, Lat 22-45 (Morocco/Algeria/Spain)
+        {"id": "r5", "x": 4, "y": 2, "z": 3}, # Lon 0-45E, Lat 22-45 (Mediterranean/Egypt/Iraq)
+        {"id": "r6", "x": 5, "y": 2, "z": 3}, # Lon 45-90E, Lat 22-45 (Iran/Pakistan/India North)
+        {"id": "r7", "x": 3, "y": 3, "z": 3}, # Lon 45W-0, Lat 0-22 (West Africa)
+        {"id": "r8", "x": 4, "y": 3, "z": 3}, # Lon 0-45E, Lat 0-22 (Central Africa/Saudi South)
+        {"id": "r9", "x": 5, "y": 3, "z": 3}  # Lon 45-90E, Lat 0-22 (Oman/India South/Arabian Sea)
+    ]
+    
+    # Detail View tiles (Lon 45-90E, Lat 0-41) at Zoom 4 for maximum granularity in the Gulf.
+    # This covers Screenshot 2 area (Persian Gulf) with high-res labels.
+    hor_tiles = [
+        {"id": "h1", "x": 10, "y": 6, "z": 4}, # Lon 45-67.5, Lat 22-41 (Iran/Gulf/Iraq)
+        {"id": "h2", "x": 11, "y": 6, "z": 4}, # Lon 67.5-90, Lat 22-41 (Pakistan/Afgh.)
+        {"id": "h3", "x": 10, "y": 7, "z": 4}, # Lon 45-67.5, Lat 0-22 (Oman/Yemen/UAE)
+        {"id": "h4", "x": 11, "y": 7, "z": 4}  # Lon 67.5-90, Lat 0-22 (India/Arabian Sea)
+    ]
+
     assets = {
         "leaflet_js": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"),
         "leaflet_css": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"),
         "chart_js": fetch_asset("https://cdn.jsdelivr.net/npm/chart.js"),
-        # Static map of the Middle East (centered on Persian Gulf)
-        # Using a reliable OSM static map service or fallback
-        "static_map_me": fetch_asset("https://static-maps.yandex.ru/1.x/?ll=54.0,26.0&z=5&l=map&size=600,450&lang=en_US", is_binary=True),
-        "static_map_hormuz": fetch_asset("https://static-maps.yandex.ru/1.x/?ll=56.3,26.7&z=8&l=map&size=600,450&lang=en_US", is_binary=True)
     }
+
+    for t in reg_tiles + hor_tiles:
+        key = f"static_map_{t['id']}"
+        assets[key] = fetch_asset(
+            f"https://a.basemaps.cartocdn.com/dark_all/{t['z']}/{t['x']}/{t['y']}@2x.png", 
+            is_binary=True
+        )
+        assets[f"{key}_bounds"] = tile_bounds(t['x'], t['y'], t['z'])
+
     return assets
 
 try:
@@ -248,6 +301,10 @@ def load_config(path: str) -> dict:
     cfg.setdefault("refinery_tracker", {})
     cfg["refinery_tracker"].setdefault("enabled", True)
 
+    cfg.setdefault("news_by_theme", {})
+    cfg["news_by_theme"].setdefault("enabled", False)
+    cfg["news_by_theme"].setdefault("themes", [])
+
     return cfg
 
 
@@ -337,8 +394,10 @@ def _parse_entry(entry: dict) -> dict:
     pub_ts = 0
     try:
         pub_dt = datetime(*entry.get("published_parsed", [])[:6], tzinfo=timezone.utc)
-        pub_fmt = pub_dt.strftime("%b %d, %Y · %H:%M UTC")
-        pub_date_iso = pub_dt.strftime("%Y-%m-%d")
+        # Convert to Brazilian time (UTC-3)
+        br_dt = pub_dt - timedelta(hours=3)
+        pub_fmt = br_dt.strftime("%b %d, %Y · %H:%M BRT")
+        pub_date_iso = br_dt.strftime("%Y-%m-%d")
         pub_ts = int(pub_dt.timestamp())
     except Exception:
         pub_fmt = pub
@@ -438,6 +497,66 @@ def fetch_articles(cfg: dict, period: str = None, max_articles: int = None) -> l
         print(f" Source distribution: { {k: v for k, v in source_dist.most_common()} }")
 
     return articles
+
+
+def fetch_themed_news(cfg: dict) -> list[dict]:
+    """Fetch news for each theme, combined with the main topic context."""
+    if not cfg.get("news_by_theme", {}).get("enabled", True):
+        return []
+
+    main_topic = cfg["dashboard"]["topic"]
+    period = cfg["dashboard"]["period"]
+    themes = cfg["news_by_theme"].get("themes", [])
+    gn = GoogleNews(lang=cfg["dashboard"]["language"], country=cfg["dashboard"]["country"])
+    
+    # We want to restrict to the same sources as the main news feed
+    sources = cfg["dashboard"].get("sources") or []
+    restrict = cfg["dashboard"].get("restrict_to_sources", False) and bool(sources)
+    allowed_domains = {d.lower().replace("www.", "") for d in sources}
+
+    themed_data = []
+    seen_global_urls = set()
+
+    for theme in themes:
+        name = theme.get("name")
+        keywords = theme.get("keywords", [])
+        if not keywords: continue
+        
+        # Build search query: "Main Topic" (Keyword1 OR Keyword2 OR ...)
+        keyword_query = " OR ".join(f'"{kw}"' for kw in keywords)
+        full_query = f'"{main_topic}" ({keyword_query})'
+        
+        print(f" Fetching news for theme '{name}': {full_query}")
+        
+        try:
+            search = gn.search(full_query, when=period)
+            entries = search.get("entries", [])
+            theme_articles = []
+            
+            for entry in entries:
+                if len(theme_articles) >= 20: # Limit articles per theme for scrolling
+                    break
+                
+                art = _parse_entry(entry)
+                # SKIP RESOLUTION (resolve_url) to speed up process for themed news
+                # Just check domain restriction if enabled
+                if restrict:
+                    if not _entry_matches_sources(entry, art, allowed_domains):
+                        continue
+                
+                if art["url"] not in seen_global_urls:
+                    seen_global_urls.add(art["url"])
+                    theme_articles.append(art)
+            
+            if theme_articles:
+                themed_data.append({
+                    "theme": name,
+                    "articles": theme_articles
+                })
+        except Exception as exc:
+            print(f" Failed to fetch theme '{name}': {exc}")
+
+    return themed_data
 
 
 # -- commodity prices ----------------------------------------------------------
@@ -884,7 +1003,7 @@ async def _collect_ais_messages(api_key: str, bounding_boxes: list, duration: in
                             "type": metadata.get("ShipType", "Unknown"),
                             "sog": sog,
                             "cog": cog,
-                            "timestamp": datetime.now(timezone.utc).strftime("%H:%M:%S UTC"),
+                            "timestamp": (datetime.now(timezone.utc) - timedelta(hours=3)).strftime("%H:%M:%S BRT"),
                             "last_update": int(time.time() * 1000)
                         }
                 except asyncio.TimeoutError:
@@ -1429,7 +1548,7 @@ def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
     prompt = (
         RELEVANT_NEWS_PROMPT_TEMPLATE
         .replace("{topic}", cfg["dashboard"]["topic"])
-        .replace("{current_date}", datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+        .replace("{current_date}", (datetime.now(timezone.utc) - timedelta(hours=3)).strftime("%Y-%m-%d"))
         .replace("{articles_text}", articles_text)
         .replace("{{", "{").replace("}}", "}")
     )
@@ -1812,7 +1931,7 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
 
 
 
-def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], hormuz_historical: list[dict], hormuz_vessels: list[dict], hormuz_snapshots: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], infra_damage_data: list[dict], digest: dict, cfg: dict, offline_assets: dict = None) -> str:
+def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], hormuz_historical: list[dict], hormuz_vessels: list[dict], hormuz_snapshots: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], infra_damage_data: list[dict], themed_news: list[dict], digest: dict, cfg: dict, offline_assets: dict = None) -> str:
     env = Environment(autoescape=True)
     
     def _safe_tojson(d):
@@ -1914,6 +2033,9 @@ h1 { font-family: var(--font-head); font-size: 28px; font-weight: 800; color: #f
     padding: 6px 14px; font-size: 11px; cursor: pointer; transition: all 0.2s;
 }
 .filter-btn:hover, .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 600; }
+.filter-btn.pos:hover, .filter-btn.pos.active { background: var(--positive); border-color: var(--positive); color: #000; }
+.filter-btn.neg:hover, .filter-btn.neg.active { background: var(--negative); border-color: var(--negative); color: #fff; }
+.filter-btn.neut:hover, .filter-btn.neut.active { background: var(--neutral); border-color: var(--neutral); color: #000; }
 .search-wrap { margin-left: auto; }
 .search-wrap input {
     background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius);
@@ -1922,6 +2044,15 @@ h1 { font-family: var(--font-head); font-size: 28px; font-weight: 800; color: #f
 
 /* ── Layout ── */
 .main-grid { display: grid; grid-template-columns: 1fr 340px; gap: 24px; }
+
+.theme-section { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+.theme-title { font-size: 13px; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 12px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+.theme-article { margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.theme-article:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+.theme-art-title { font-size: 12px; font-weight: 600; line-height: 1.4; }
+.theme-art-title a { color: #fff; text-decoration: none; }
+.theme-art-title a:hover { color: var(--accent); }
+.theme-art-meta { font-size: 10px; color: var(--muted); margin-top: 4px; }
 
 /* ── Components ── */
 .digest-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; margin-bottom: 24px; border-left: 4px solid var(--accent2); }
@@ -1962,6 +2093,12 @@ h1 { font-family: var(--font-head); font-size: 28px; font-weight: 800; color: #f
 .tag { background: var(--surface2); border: 1px solid var(--border); border-radius: 4px; padding: 2px 8px; font-size: 10px; color: var(--muted); cursor: pointer; }
 .tag:hover { color: var(--accent); border-color: var(--accent); }
 
+/* Custom Scrollbar for Themes */
+.custom-scrollbar::-webkit-scrollbar { width: 4px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: var(--surface2); }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+.custom-scrollbar::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
 /* ── Sidebar ── */
 .widget { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; margin-bottom: 16px; }
 .widget-title { font-size: 14px; text-transform: uppercase; color: var(--muted); margin-bottom: 15px; border-bottom: 1px solid var(--border); padding-bottom: 8px; letter-spacing: 0.1em; }
@@ -1996,7 +2133,16 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
 .hourly-chart-wrap { height: 260px; position: relative; }
 .hourly-note { font-size: 10px; color: var(--muted); margin-top: 10px; text-align: right; }
 
+/* ── Map Fallback Styles ── */
+#map, #hormuz-map, #refinery-map, #infra-map {
+    background-color: #0a0c10;
+}
+
 /* ── Mobile Responsiveness ── */
+@media (max-width: 1200px) {
+    .theme-grid { grid-template-columns: 1fr !important; }
+}
+
 @media (max-width: 900px) {
     .main-grid { grid-template-columns: 1fr; }
     .header-right { display: none; }
@@ -2063,6 +2209,9 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
 
     <div class="tab-container">
     <button class="tab-btn active" onclick="switchTab('news', this)">News Feed</button>
+    {% if themed_news %}
+    <button class="tab-btn" onclick="switchTab('themes', this)">News By Theme</button>
+    {% endif %}
     <button class="tab-btn" onclick="switchTab('markets', this)">Market Analysis</button>
     {% if cfg.hormuz_tracker.enabled and (hormuz_historical or hormuz_vessels) %}
     <button class="tab-btn" onclick="switchTab('hormuz', this)">Hormuz Tracker</button>
@@ -2089,14 +2238,14 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
 
     <div id="newsTab" class="tab-content active">
     <div class="main-grid">
-    <div>
+    <div class="main-feed">
     {% if relevant_news %}
     <div class="widget" style="background: var(--surface); border: 1px solid var(--border); margin-bottom: 24px;">
     <div class="widget-title" style="color: var(--accent); border-bottom: 1px solid var(--accent); margin-bottom: 15px;">Top Stories (Selected by AI)</div>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px;">
     {% for art in relevant_news %}
     <div style="border-left: 2px solid var(--accent); padding-left: 12px;">
-    <div style="font-size: 10px; color: var(--muted);">{{ art.source }} · {{ art.published.split('·')[0] }}</div>
+    <div style="font-size: 10px; color: var(--muted);">{{ art.source }} · {{ art.published }}</div>
     <div style="font-family: var(--font-head); font-size: 13px; font-weight: 600; margin-top: 4px;"><a href="{{ art.url }}" target="_blank" style="color: inherit; text-decoration: none;">{{ art.title }}</a></div>
     </div>
     {% endfor %}
@@ -2143,9 +2292,9 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
 
     <div style="margin-left: auto; display: flex; gap: 8px;">
     <button class="filter-btn active" onclick="filterSentiment('all', this)">All</button>
-    <button class="filter-btn" onclick="filterSentiment('positive', this)">Pos</button>
-    <button class="filter-btn" onclick="filterSentiment('negative', this)">Neg</button>
-    <button class="filter-btn" onclick="filterSentiment('neutral', this)">Neut</button>
+    <button class="filter-btn pos" onclick="filterSentiment('positive', this)">🟢 Pos</button>
+    <button class="filter-btn neg" onclick="filterSentiment('negative', this)">🔴 Neg</button>
+    <button class="filter-btn neut" onclick="filterSentiment('neutral', this)">⚪ Neut</button>
     </div>
     </div>
 
@@ -2210,6 +2359,39 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </aside>
     </div>
     </div>
+
+    {% if themed_news %}
+    <div id="themesTab" class="tab-content">
+        <div class="hourly-section">
+            <div class="section-header">
+                <div class="section-title">News By Theme — Middle East Conflict Context</div>
+            </div>
+            
+            <div class="theme-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;">
+                {% for group in themed_news %}
+                <div class="theme-section" style="background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; display: flex; flex-direction: column;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; border-bottom: 1px solid var(--border); padding-bottom: 10px;">
+                        <div class="theme-title" style="margin-bottom: 0; border-bottom: none; font-size: 16px; font-weight: 800; color: var(--accent);">{{ group.theme }}</div>
+                    </div>
+                    
+                    <div class="theme-scroll-container custom-scrollbar" style="display: block; height: 240px; overflow-y: auto; scroll-behavior: smooth;">
+                        {% for art in group.articles %}
+                        <div class="theme-article" style="height: 80px; min-height: 80px; display: flex; flex-direction: column; justify-content: center; border-bottom: 1px solid rgba(255,255,255,0.05); padding: 0 4px;">
+                            <div class="theme-art-title" style="font-size: 14px; font-weight: 700; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">
+                                <a href="{{ art.url }}" target="_blank" style="color: #fff; text-decoration: none;">{{ art.title }}</a>
+                            </div>
+                            <div class="theme-art-meta" style="margin-top: 6px; font-size: 11px; opacity: 0.8; color: var(--muted);">
+                                {{ art.source }} · {{ art.published }}
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
 
     <div id="marketsTab" class="tab-content">
     {% if hourly_commodities %}
@@ -2318,7 +2500,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     <div class="main-grid" style="grid-template-columns: 1fr 340px;">
-    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 600px; position: relative;">
+    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 700px; position: relative;">
     <div id="hormuz-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
     </div>
     <aside class="sidebar hide-mobile">
@@ -2375,7 +2557,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div class="section-title">{{ cfg.maritime_tracker.chokepoint }} Real-Time Traffic</div>
     </div>
     <div class="main-grid" style="grid-template-columns: 1fr 340px;">
-    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 600px; position: relative;">
+    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 700px; position: relative;">
     <div id="map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
     </div>
     <aside class="sidebar hide-mobile">
@@ -2460,7 +2642,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     <div class="main-grid" style="grid-template-columns: 1fr 340px;">
-    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 700px; position: relative;">
+    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 800px; position: relative;">
     <div id="refinery-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
     </div>
     <aside class="sidebar hide-mobile">
@@ -2493,7 +2675,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     <div class="main-grid" style="grid-template-columns: 1fr 340px;">
-    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 750px; position: relative;">
+    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 850px; position: relative;">
     <div id="infra-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
     <!-- Legend for Proportional Colors -->
     <div style="position: absolute; bottom: 24px; right: 24px; z-index: 1000; background: rgba(10, 12, 16, 0.9); border: 1px solid var(--border); padding: 15px; border-radius: 8px; font-size: 11px; color: var(--text); backdrop-filter: blur(4px);">
@@ -2574,9 +2756,18 @@ function initHormuzMap() {
     if (hormuzMap) return;
     hormuzMap = L.map('hormuz-map').setView([26.7, 56.3], 8);
     
-    {% if offline_assets and offline_assets.static_map_hormuz %}
-    L.imageOverlay('data:image/png;base64,{{ offline_assets.static_map_hormuz }}', [[26.7 - 1.23, 56.3 - 1.85], [26.7 + 1.23, 56.3 + 1.85]]).addTo(hormuzMap);
+    // Add high-priority static fallback from local storage (base64)
+    {% for part in hor_parts %}
+    {% set img_key = 'static_map_' ~ part %}
+    {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
+    {% if offline_assets and offline_assets[img_key] %}
+    L.imageOverlay('data:image/png;base64,{{ offline_assets[img_key] }}', {{ offline_assets[bounds_key] | tojson }}, {
+        pane: 'tilePane',
+        zIndex: 1,
+        alt: 'Map Part {{ part }}'
+    }).addTo(hormuzMap);
     {% endif %}
+    {% endfor %}
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; CARTO',
@@ -2590,6 +2781,75 @@ function initHormuzMap() {
     }
 }
 
+function updateHormuzMapFromSlider(val) {
+    const idx = parseInt(val);
+    if (!hormuzMap || !HORMUZ_SNAPSHOTS || !HORMUZ_SNAPSHOTS[idx]) return;
+    
+    const snapshot = HORMUZ_SNAPSHOTS[idx];
+    const label = document.getElementById('mapSliderValue');
+    if (label) {
+        label.innerText = snapshot.snapshot_ts ? snapshot.snapshot_ts.replace('T', ' ').split('.')[0].replace('Z', '') + ' UTC' : 'Snapshot ' + idx;
+    }
+    
+    // Clear old markers
+    hormuzMarkers.forEach(m => hormuzMap.removeLayer(m.marker));
+    hormuzMarkers = [];
+    
+    const shipList = document.getElementById('hormuzShipList');
+    if (shipList) shipList.innerHTML = '';
+
+    // Add new markers
+    snapshot.vessels.forEach(v => {
+        if (v.lat && v.lon) {
+            const marker = L.circleMarker([v.lat, v.lon], {
+                radius: 6,
+                fillColor: "#7c3aed",
+                color: "#fff",
+                weight: 1,
+                opacity: 1,
+                fillOpacity: 0.8
+            }).addTo(hormuzMap);
+            
+            const vName = v.name || 'Unknown Vessel';
+            marker.bindPopup(`<b>${vName}</b><br>MMSI: ${v.mmsi}<br>Type: ${v.type}<br>Pos: ${v.lat.toFixed(4)}, ${v.lon.toFixed(4)}<br>Updated: ${v.timestamp || ''}`);
+            hormuzMarkers.push({mmsi: v.mmsi, name: vName, marker: marker});
+
+            if (shipList) {
+                const card = document.createElement('div');
+                card.className = 'article-card';
+                card.style.padding = '12px';
+                card.style.marginBottom = '8px';
+                card.style.cursor = 'pointer';
+                card.onclick = function() { focusHormuzShip(v.lat, v.lon, vName); };
+                card.innerHTML = `
+                    <div class="card-title" style="font-size: 13px;">${vName}</div>
+                    <div class="card-meta">
+                        <span class="card-source">Type: ${v.type}</span>
+                        <span>${v.timestamp || ''}</span>
+                    </div>
+                `;
+                shipList.appendChild(card);
+            }
+        }
+    });
+    
+    if (shipList && (!snapshot.vessels || snapshot.vessels.length === 0)) {
+        shipList.innerHTML = '<div style="font-size: 11px; color: var(--muted); text-align: center; padding: 20px;">No vessels captured in this snapshot.</div>';
+    }
+}
+
+function focusHormuzShip(lat, lon, name) {
+    if (hormuzMap) {
+        const markerObj = hormuzMarkers.find(m => m.name === name);
+        if (markerObj) {
+            const pos = markerObj.marker.getLatLng();
+            hormuzMap.setView(pos, 12);
+            markerObj.marker.openPopup();
+        } else if (lat && lon) {
+            hormuzMap.setView([lat, lon], 12);
+        }
+    }
+}
 
 
 function initMap() {
@@ -2598,9 +2858,17 @@ function initMap() {
     // Default center for Strait of Hormuz
     map = L.map('map').setView([26.7, 56.3], 8);
     
-    {% if offline_assets and offline_assets.static_map_hormuz %}
-    L.imageOverlay('data:image/png;base64,{{ offline_assets.static_map_hormuz }}', [[26.7 - 1.23, 56.3 - 1.85], [26.7 + 1.23, 56.3 + 1.85]]).addTo(map);
+    {% for part in hor_parts %}
+    {% set img_key = 'static_map_' ~ part %}
+    {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
+    {% if offline_assets and offline_assets[img_key] %}
+    L.imageOverlay('data:image/png;base64,{{ offline_assets[img_key] }}', {{ offline_assets[bounds_key] | tojson }}, {
+        pane: 'tilePane',
+        zIndex: 1,
+        alt: 'Map Part {{ part }}'
+    }).addTo(map);
     {% endif %}
+    {% endfor %}
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -2630,9 +2898,17 @@ function initRefineryMap() {
     
     refineryMap = L.map('refinery-map').setView([27.0, 50.0], 5);
     
-    {% if offline_assets and offline_assets.static_map_me %}
-    L.imageOverlay('data:image/png;base64,{{ offline_assets.static_map_me }}', [[26.0 - 9.9, 54.0 - 14.6], [26.0 + 9.9, 54.0 + 14.6]]).addTo(refineryMap);
+    {% for part in reg_parts %}
+    {% set img_key = 'static_map_' ~ part %}
+    {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
+    {% if offline_assets and offline_assets[img_key] %}
+    L.imageOverlay('data:image/png;base64,{{ offline_assets[img_key] }}', {{ offline_assets[bounds_key] | tojson }}, {
+        pane: 'tilePane',
+        zIndex: 1,
+        alt: 'Map Part {{ part }}'
+    }).addTo(refineryMap);
     {% endif %}
+    {% endfor %}
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -2711,9 +2987,17 @@ function initInfraMap() {
     
     infraMap = L.map('infra-map').setView([26.0, 50.0], 5);
     
-    {% if offline_assets and offline_assets.static_map_me %}
-    L.imageOverlay('data:image/png;base64,{{ offline_assets.static_map_me }}', [[26.0 - 9.9, 54.0 - 14.6], [26.0 + 9.9, 54.0 + 14.6]]).addTo(infraMap);
+    {% for part in reg_parts %}
+    {% set img_key = 'static_map_' ~ part %}
+    {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
+    {% if offline_assets and offline_assets[img_key] %}
+    L.imageOverlay('data:image/png;base64,{{ offline_assets[img_key] }}', {{ offline_assets[bounds_key] | tojson }}, {
+        pane: 'tilePane',
+        zIndex: 1,
+        alt: 'Map Part {{ part }}'
+    }).addTo(infraMap);
     {% endif %}
+    {% endfor %}
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -3695,7 +3979,7 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
 
     raw_dates = sorted(list(set(a["pub_date"] for a in articles if a.get("pub_date"))), reverse=True)
 
-    today = datetime.now(timezone.utc).date()
+    today = (datetime.now(timezone.utc) - timedelta(hours=3)).date()
     yesterday = today - timedelta(days=1)
 
     unique_dates = []
@@ -3737,6 +4021,7 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
         gdelt_data=gdelt_data,
         refinery_data=refinery_data,
         infra_damage_data=infra_damage_data,
+        themed_news=themed_news,
         digest=digest,
         sentiment_counts=sentiment_counts,
         all_tags=top_tags,
@@ -3744,7 +4029,9 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
         model=f"{cfg['llm'].get('digest_model', 'N/A')} & {cfg['llm'].get('watch_model', 'N/A')} & {cfg['llm'].get('relevant_news_model', 'N/A')}" if cfg["llm"].get("enabled", True) else "Metadata Extraction",
         theme=cfg["output"]["theme"],
         cfg=cfg,
-        offline_assets=offline_assets
+        offline_assets=offline_assets,
+        reg_parts=['r1', 'r2', 'r3', 'r4', 'r5', 'r6', 'r7', 'r8', 'r9'],
+        hor_parts=['h1', 'h2', 'h3', 'h4']
     )
 
     return tmpl_html.render(**context)
@@ -3769,7 +4056,7 @@ def main():
     print(f" Step 1: Fetching recent news (current + previous {history_days} days)...")
     recent_articles = fetch_articles(cfg, period=fetch_period, max_articles=dash["max_articles_recent"])
 
-    today_dt = datetime.now(timezone.utc).date()
+    today_dt = (datetime.now(timezone.utc) - timedelta(hours=3)).date()
     digest_dates = [(today_dt - timedelta(days=i)).isoformat() for i in range(history_days + 1)]
 
     llama_context_articles = [
@@ -3810,6 +4097,7 @@ def main():
     gdelt_data = fetch_gdelt_data(cfg)
     refinery_data = fetch_refinery_attacks_data(cfg)
     infra_damage_data = fetch_infrastructure_damage_data(cfg)
+    themed_news = fetch_themed_news(cfg)
 
     print(f"\n Extracting news previews...")
     articles = summarise_articles(articles, cfg)
@@ -3834,7 +4122,7 @@ def main():
         articles, relevant_news, commodities, intraday_commodities,
         trade_data, hormuz_historical, hormuz_vessels, hormuz_snapshots,
         missile_data, ais_data, gdelt_data, refinery_data, infra_damage_data,
-        digest, cfg, offline_assets
+        themed_news, digest, cfg, offline_assets
     )
 
     out_path.write_text(html, encoding="utf-8")
@@ -3847,4 +4135,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

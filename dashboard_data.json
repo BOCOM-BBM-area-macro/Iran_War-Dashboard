@@ -372,6 +372,56 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-14"
+    },
+    "https://www.wsj.com/arts-culture/fine-art/iran-heritage-museums-war-damage-a57abf10": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.timesofisrael.com/liveblog-april-17-2026/": {
+      "summary": "Iran says it's opening Strait of Hormuz after Lebanon truce * Trump: US to maintain blockade of Iran ships until deal with Tehran reached * IDF lifts all wartime restrictions across country as Lebanon ceasefire appears to hold",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-11"
+    },
+    "https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-12"
+    },
+    "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-13"
     }
   },
   "last_run_success": true,

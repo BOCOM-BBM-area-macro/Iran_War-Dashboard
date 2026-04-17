@@ -1851,20 +1851,18 @@ def categorize_sentiment(articles: list[dict], cfg: dict, cache: dict = None) ->
     return articles
 
 
-def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) -> tuple[dict, bool, bool]:
-    """Generate daily digest with fallback to environment variables for security.
-    Returns (digest_data, digest_success, watch_success).
+def generate_executive_digest(articles: list[dict], cfg: dict) -> tuple[dict, bool]:
+    """Generate daily executive digest with fallback.
+    Returns (digest_data, success_flag).
     """
-    if not genai:
-        return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}, False, False
+    if not genai or not articles:
+        return {"digest": "Digest unavailable.", "top_themes": []}, False
     
     api_keys = get_gemini_keys(cfg)
     if not api_keys:
-        print(" Gemini API key(s) missing or placeholder detected. Digest skipped.")
-        return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}, False, False
+        return {"digest": "Digest unavailable.", "top_themes": []}, False
     
-    digest_model_name = cfg["llm"].get("digest_model", "gemini-1.5-flash")
-    watch_model_name = cfg["llm"].get("watch_model", "gemini-1.5-flash")
+    model_name = cfg["llm"].get("digest_model", "gemini-1.5-flash")
     
     # Format articles with full text if available
     articles_text = "\n\n".join(
@@ -1879,73 +1877,49 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
         digest_instructions = f"Additionally address:\n{items}"
 
     digest_data = {"digest": "Digest unavailable.", "top_themes": []}
-    watch_data = {"next_events": []}
+    success = False
 
-    # --- Step 1: Executive Digest ---
-    success_digest = False
+    digest_prompt = (
+        EXECUTIVE_DIGEST_PROMPT_TEMPLATE
+        .replace("{topic}", cfg["dashboard"]["topic"])
+        .replace("{count}", str(len(articles)))
+        .replace("{articles_text}", articles_text)
+        .replace("{digest_instructions}", digest_instructions)
+        .replace("{history_days}", str(cfg["llm"].get("digest_history_days", 3)))
+        .replace("{{", "{").replace("}}", "}")
+    )
+
     for key_idx, current_key in enumerate(api_keys):
         genai.configure(api_key=current_key)
-        print(f" Generating executive digest with {digest_model_name} (Key {key_idx+1}/{len(api_keys)})…")
+        print(f" Generating executive digest with {model_name} (Key {key_idx+1}/{len(api_keys)})…")
         
         try:
-            digest_model = genai.GenerativeModel(digest_model_name)
+            model = genai.GenerativeModel(model_name)
+            for attempt in range(3):
+                try:
+                    response = model.generate_content(
+                        digest_prompt,
+                        generation_config=genai.types.GenerationConfig(
+                            temperature=0.1,
+                            response_mime_type="application/json" if "flash" in model_name.lower() or "pro" in model_name.lower() else "text/plain"
+                        ),
+                        request_options={"timeout": 300}
+                    )
+                    data = try_extract_json(response.text)
+                    if data and "digest" in data:
+                        digest_data = data
+                        success = True
+                        break
+                except Exception as exc:
+                    if attempt == 2: print(f" Gemini attempt failed: {exc}")
+                    else: time.sleep(1)
+            if success: break
         except Exception as e:
             print(f" Failed to initialize Gemini model: {e}")
             continue
 
-        digest_prompt = (
-            EXECUTIVE_DIGEST_PROMPT_TEMPLATE
-            .replace("{topic}", cfg["dashboard"]["topic"])
-            .replace("{count}", str(len(articles)))
-            .replace("{articles_text}", articles_text)
-            .replace("{digest_instructions}", digest_instructions)
-            .replace("{history_days}", str(cfg["llm"].get("digest_history_days", 3)))
-            .replace("{{", "{").replace("}}", "}")
-        )
-
-        for attempt in range(3):
-            try:
-                response = digest_model.generate_content(
-                    digest_prompt,
-                    generation_config=genai.types.GenerationConfig(
-                        temperature=0.1,
-                        response_mime_type="application/json" if "flash" in digest_model_name.lower() or "pro" in digest_model_name.lower() else "text/plain"
-                    ),
-                    request_options={"timeout": 300} # 5 minute timeout
-                )
-                data = try_extract_json(response.text)
-                if data and "digest" in data:
-                    digest_data = data
-                    success_digest = True
-                    break
-            except Exception as exc:
-                is_fatal = False
-                if google_exceptions:
-                    fatal_errors = (
-                        google_exceptions.DeadlineExceeded,
-                        google_exceptions.ResourceExhausted,
-                        google_exceptions.InvalidArgument,
-                        google_exceptions.PermissionDenied,
-                        google_exceptions.Unauthenticated
-                    )
-                    if isinstance(exc, fatal_errors):
-                        print(f" Gemini fatal error or limit exceeded for Key {key_idx+1}: {exc}")
-                        is_fatal = True
-                
-                if is_fatal:
-                    break # Stop retrying this key and try next key
-                
-                if attempt == 2:
-                    print(f" Gemini operation failed after 3 attempts with Key {key_idx+1}: {exc}")
-                else:
-                    time.sleep(1)
-        
-        if success_digest:
-            break
-
-    # --- Step 1 Fallback: Grok/Groq for Digest ---
-    if not success_digest and cfg["llm"].get("fallback_enabled"):
-        print(f" Gemini failed or timed out. Falling back to Grok for Executive Digest…")
+    if not success and cfg["llm"].get("fallback_enabled"):
+        print(f" Falling back to Grok for Executive Digest…")
         fallback_model = cfg["llm"].get("fallback_digest_model", "grok-2-1212")
         content = call_openai_compatible(
             cfg, fallback_model, digest_prompt,
@@ -1956,70 +1930,71 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
             data = try_extract_json(content)
             if data and "digest" in data:
                 digest_data = data
-                success_digest = True
+                success = True
 
-    # --- Step 2: Things to Watch ---
-    success_watch = False
+    return digest_data, success
+
+
+def identify_things_to_watch(articles: list[dict], cfg: dict) -> tuple[list, bool]:
+    """Identify things to watch with fallback.
+    Returns (next_events_list, success_flag).
+    """
+    if not genai or not articles:
+        return [], False
+    
+    api_keys = get_gemini_keys(cfg)
+    if not api_keys:
+        return [], False
+    
+    model_name = cfg["llm"].get("watch_model", "gemini-1.5-flash")
+    
+    articles_text = "\n\n".join(
+        f"{i}. [{sanitize_for_format(a['source'])}] {sanitize_for_format(a['title'])}\n "
+        f"EXTRACTED CONTENT: {sanitize_for_format(a.get('full_text', a['summary']))}"
+        for i, a in enumerate(articles, 1)
+    )
+
+    next_events = []
+    success = False
+
+    watch_prompt = (
+        THINGS_TO_WATCH_PROMPT_TEMPLATE
+        .replace("{topic}", cfg["dashboard"]["topic"])
+        .replace("{articles_text}", articles_text)
+        .replace("{{", "{").replace("}}", "}")
+    )
+
     for key_idx, current_key in enumerate(api_keys):
         genai.configure(api_key=current_key)
-        print(f" Identifying things to watch with {watch_model_name} (Key {key_idx+1}/{len(api_keys)})…")
+        print(f" Identifying things to watch with {model_name} (Key {key_idx+1}/{len(api_keys)})…")
         
         try:
-            watch_model = genai.GenerativeModel(watch_model_name)
+            model = genai.GenerativeModel(model_name)
+            for attempt in range(3):
+                try:
+                    response = model.generate_content(
+                        watch_prompt,
+                        generation_config=genai.types.GenerationConfig(
+                            temperature=0.1,
+                            response_mime_type="application/json" if "flash" in model_name.lower() or "pro" in model_name.lower() else "text/plain"
+                        ),
+                        request_options={"timeout": 300}
+                    )
+                    data = try_extract_json(response.text)
+                    if data and "next_events" in data:
+                        next_events = data["next_events"]
+                        success = True
+                        break
+                except Exception as exc:
+                    if attempt == 2: print(f" Gemini attempt failed: {exc}")
+                    else: time.sleep(1)
+            if success: break
         except Exception as e:
             print(f" Failed to initialize Gemini model: {e}")
             continue
 
-        watch_prompt = (
-            THINGS_TO_WATCH_PROMPT_TEMPLATE
-            .replace("{topic}", cfg["dashboard"]["topic"])
-            .replace("{articles_text}", articles_text)
-            .replace("{{", "{").replace("}}", "}")
-        )
-
-        for attempt in range(3):
-            try:
-                response = watch_model.generate_content(
-                    watch_prompt,
-                    generation_config=genai.types.GenerationConfig(
-                        temperature=0.1,
-                        response_mime_type="application/json" if "flash" in watch_model_name.lower() or "pro" in watch_model_name.lower() else "text/plain"
-                    ),
-                    request_options={"timeout": 300} # 5 minute timeout
-                )
-                data = try_extract_json(response.text)
-                if data and "next_events" in data:
-                    watch_data = data
-                    success_watch = True
-                    break
-            except Exception as exc:
-                is_fatal = False
-                if google_exceptions:
-                    fatal_errors = (
-                        google_exceptions.DeadlineExceeded,
-                        google_exceptions.ResourceExhausted,
-                        google_exceptions.InvalidArgument,
-                        google_exceptions.PermissionDenied,
-                        google_exceptions.Unauthenticated
-                    )
-                    if isinstance(exc, fatal_errors):
-                        print(f" Gemini fatal error or limit exceeded for Key {key_idx+1}: {exc}")
-                        is_fatal = True
-                
-                if is_fatal:
-                    break # Stop retrying this key and try next key
-                
-                if attempt == 2:
-                    print(f" Gemini operation failed after 3 attempts with Key {key_idx+1}: {exc}")
-                else:
-                    time.sleep(1)
-        
-        if success_watch:
-            break
-
-    # --- Step 2 Fallback: Grok/Groq for Things to Watch ---
-    if not success_watch and cfg["llm"].get("fallback_enabled"):
-        print(f" Gemini failed or timed out. Falling back to Grok for Things to Watch…")
+    if not success and cfg["llm"].get("fallback_enabled"):
+        print(f" Falling back to Grok for Things to Watch…")
         fallback_model = cfg["llm"].get("fallback_watch_model", "grok-2-1212")
         content = call_openai_compatible(
             cfg, fallback_model, watch_prompt,
@@ -2029,16 +2004,10 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
         if content:
             data = try_extract_json(content)
             if data and "next_events" in data:
-                watch_data = data
-                success_watch = True
+                next_events = data["next_events"]
+                success = True
 
-    final_data = {
-        "digest": digest_data.get("digest", "Digest unavailable."),
-        "top_themes": digest_data.get("top_themes", []),
-        "next_events": watch_data.get("next_events", [])
-    }
-    
-    return final_data, success_digest, success_watch
+    return next_events, success
 
 
 # ── HTML rendering ─────────────────────────────────────────────────────────────
@@ -4237,11 +4206,12 @@ def main():
     should_run_llm = cfg["llm"].get("enabled", True) and is_past_730
     
     # We run a feature if it's a new day OR if it failed in the previous run
-    run_digest = should_run_llm and (is_new_day or not digest_success or not watch_success)
+    run_digest = should_run_llm and (is_new_day or not digest_success)
+    run_watch = should_run_llm and (is_new_day or not watch_success)
     run_relevant = should_run_llm and (is_new_day or not relevant_success)
 
-    print(f"\n Extracting news previews (Full text: {run_digest or run_relevant})...")
-    articles = summarise_articles(articles, cfg, cache=news_cache, extract_full_text=run_digest or run_relevant)
+    print(f"\n Extracting news previews (Full text: {run_digest or run_watch or run_relevant})...")
+    articles = summarise_articles(articles, cfg, cache=news_cache, extract_full_text=run_digest or run_watch or run_relevant)
 
     # Initial values from storage
     relevant_news = stored_data.get("relevant_news", [])
@@ -4256,39 +4226,41 @@ def main():
         articles = categorize_sentiment(articles, cfg, cache=news_cache)
         
         if run_digest:
-            reason = "new day" if is_new_day else "retrying after previous failure"
-            print(f" Generating Digest & Watch Events ({reason})...")
-            digest_result, d_ok, w_ok = generate_digest(llama_context_articles, commodities, cfg)
-            
-            # Merge or update
-            if d_ok:
-                digest["digest"] = digest_result["digest"]
-                digest["top_themes"] = digest_result["top_themes"]
+            reason = "new day" if is_new_day else "retrying after failure"
+            print(f" Generating Executive Digest ({reason})...")
+            digest_data, ok = generate_executive_digest(llama_context_articles, cfg)
+            if ok:
+                digest["digest"] = digest_data["digest"]
+                digest["top_themes"] = digest_data["top_themes"]
                 stored_data["last_digest_success"] = True
-                print(" Executive Digest updated successfully.")
+                print(" Executive Digest updated.")
             else:
                 stored_data["last_digest_success"] = False
                 print(" Executive Digest update failed.")
+            stored_data["digest"] = digest
 
-            if w_ok:
-                digest["next_events"] = digest_result["next_events"]
+        if run_watch:
+            reason = "new day" if is_new_day else "retrying after failure"
+            print(f" Identifying Things to Watch ({reason})...")
+            next_events, ok = identify_things_to_watch(llama_context_articles, cfg)
+            if ok:
+                digest["next_events"] = next_events
                 stored_data["last_watch_success"] = True
-                print(" Things to Watch updated successfully.")
+                print(" Things to Watch updated.")
             else:
                 stored_data["last_watch_success"] = False
                 print(" Things to Watch update failed.")
-            
             stored_data["digest"] = digest
 
         if run_relevant:
-            reason = "new day" if is_new_day else "retrying after previous failure"
+            reason = "new day" if is_new_day else "retrying after failure"
             print(f" Selecting Relevant News ({reason})...")
-            relevant_news_result, r_ok = select_relevant_news(llama_context_articles, cfg)
-            if r_ok:
+            relevant_news_result, ok = select_relevant_news(llama_context_articles, cfg)
+            if ok:
                 relevant_news = relevant_news_result
                 stored_data["relevant_news"] = relevant_news
                 stored_data["last_relevant_success"] = True
-                print(" Relevant News updated successfully.")
+                print(" Relevant News updated.")
             else:
                 stored_data["last_relevant_success"] = False
                 print(" Relevant News update failed.")

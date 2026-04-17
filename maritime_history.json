@@ -10461,5 +10461,23 @@
     "readable_time": "2026-04-17 21:51:08 UTC",
     "vessel_count": 0,
     "vessels": []
+  },
+  {
+    "snapshot_ts": "2026-04-17T21:56:09.342671+00:00",
+    "readable_time": "2026-04-17 21:56:09 UTC",
+    "vessel_count": 1,
+    "vessels": [
+      {
+        "name": "",
+        "mmsi": 1049728663,
+        "lat": 26.22811,
+        "lon": 58.83564,
+        "type": "Unknown",
+        "sog": 51.7,
+        "cog": 218.8,
+        "timestamp": "18:55:34 BRT",
+        "last_update": 1776462934573
+      }
+    ]
   }
 ]

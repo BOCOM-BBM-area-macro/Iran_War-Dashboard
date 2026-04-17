@@ -1497,33 +1497,37 @@ def call_openai_compatible(cfg, model, prompt, system_prompt="You are a helpful 
     if not OpenAI:
         return None
     
-    # Priority: Fallback keys -> Sentiment keys -> Global defaults
-    api_key = cfg["llm"].get("fallback_api_key") or cfg["llm"].get("sentiment_api_key")
+    api_keys = get_grok_keys(cfg)
+    if not api_keys:
+        return None
+        
     base_url = cfg["llm"].get("fallback_api_base_url") or cfg["llm"].get("api_base_url")
     
-    if not api_key or "key_goes_here" in api_key:
-        return None
-    
-    client = OpenAI(api_key=api_key, base_url=base_url)
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": prompt}
-    ]
-    
-    try:
-        kwargs = {
-            "model": model,
-            "messages": messages,
-            "temperature": 0.1,
-        }
-        if response_format:
-            kwargs["response_format"] = response_format
-        
-        response = client.chat.completions.create(**kwargs)
-        return response.choices[0].message.content
-    except Exception as e:
-        print(f" Fallback API call failed: {e}")
-        return None
+    for key_idx, current_key in enumerate(api_keys):
+        try:
+            client = OpenAI(api_key=current_key, base_url=base_url)
+            messages = [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt}
+            ]
+            
+            kwargs = {
+                "model": model,
+                "messages": messages,
+                "temperature": 0.1,
+            }
+            if response_format:
+                kwargs["response_format"] = response_format
+            
+            response = client.chat.completions.create(**kwargs)
+            return response.choices[0].message.content
+        except Exception as e:
+            if key_idx == len(api_keys) - 1:
+                print(f" Fallback API call failed after trying all keys. Last error: {e}")
+            else:
+                print(f" Key {key_idx+1} failed, trying next key…")
+                
+    return None
 
 
 def get_gemini_keys(cfg: dict) -> list[str]:
@@ -1547,6 +1551,35 @@ def get_gemini_keys(cfg: dict) -> list[str]:
             keys.append(env_key)
         i += 1
     
+    return keys
+
+
+def get_grok_keys(cfg: dict) -> list[str]:
+    """Get all available Grok/Groq API keys from environment variables and config."""
+    keys = []
+    
+    # 1. Primary keys from Env (check both GROK and GROQ common names)
+    for env_name in ["GROK_API_KEY", "GROQ_API_KEY", "XAI_API_KEY"]:
+        val = os.environ.get(env_name)
+        if val and val not in keys:
+            keys.append(val)
+            
+    # 2. Config keys (priority: fallback -> sentiment)
+    for cfg_key in ["fallback_api_key", "sentiment_api_key"]:
+        val = cfg["llm"].get(cfg_key)
+        if val and val not in keys and not any(p in val for p in ["YOUR_GROK_API_KEY", "key_goes_here"]):
+            keys.append(val)
+            
+    # 3. Sequential keys from environment: GROK_API_KEY_1, GROQ_API_KEY_1, etc.
+    for base_name in ["GROK_API_KEY", "GROQ_API_KEY", "XAI_API_KEY"]:
+        i = 1
+        while True:
+            env_key = os.environ.get(f"{base_name}_{i}")
+            if not env_key: break
+            if env_key not in keys:
+                keys.append(env_key)
+            i += 1
+            
     return keys
 
 
@@ -1719,17 +1752,14 @@ def categorize_sentiment(articles: list[dict], cfg: dict, cache: dict = None) ->
         print(" OpenAI library not found. Sentiment analysis skipped.")
         return articles
     
-    api_key = cfg["llm"].get("sentiment_api_key")
-    base_url = cfg["llm"].get("api_base_url", "https://api.groq.com/openai/v1")
-    
-    if not api_key or "key_goes_here" in api_key:
-        print(f" Sentiment API key missing. Sentiment analysis skipped.")
+    api_keys = get_grok_keys(cfg)
+    if not api_keys:
+        print(f" Grok/Groq API key(s) missing. Sentiment analysis skipped.")
         return articles
     
+    base_url = cfg["llm"].get("api_base_url", "https://api.groq.com/openai/v1")
     model = cfg["llm"].get("sentiment_model", "llama-3.3-70b-versatile")
     print(f"\n Categorizing article sentiments with {model} via {base_url}...")
-    
-    client = OpenAI(api_key=api_key, base_url=base_url)
     
     for i, art in enumerate(articles, 1):
         url = art["url"]
@@ -1740,7 +1770,6 @@ def categorize_sentiment(articles: list[dict], cfg: dict, cache: dict = None) ->
             continue
 
         description = art.get("summary", "") or "No description available."
-        
         print(f" Sentiment [{i}/{len(articles)}] {art['title'][:60]}…")
         
         prompt = SENTIMENT_PROMPT_TEMPLATE.format(
@@ -1748,32 +1777,39 @@ def categorize_sentiment(articles: list[dict], cfg: dict, cache: dict = None) ->
             description=description
         )
         
-        messages = [
-            {"role": "system", "content": "You are a sentiment analyst. Output JSON only."},
-            {"role": "user", "content": prompt}
-        ]
-        
         art["sentiment"] = "neutral"
         art["sentiment_success"] = False
         
-        try:
-            response = client.chat.completions.create(
-                model=model,
-                messages=messages,
-                temperature=0.1,
-                response_format={"type": "json_object"}
-            )
-            content = response.choices[0].message.content
-            data = try_extract_json(content)
-            if data and "sentiment" in data:
-                sentiment = data["sentiment"].lower().strip()
-                if any(s in sentiment for s in ["positive", "negative", "neutral"]):
-                    if "positive" in sentiment: art["sentiment"] = "positive"
-                    elif "negative" in sentiment: art["sentiment"] = "negative"
-                    else: art["sentiment"] = "neutral"
-                    art["sentiment_success"] = True
-        except Exception as exc:
-            print(f" Sentiment categorization failed for '{art['title'][:30]}': {exc}")
+        for key_idx, current_key in enumerate(api_keys):
+            try:
+                client = OpenAI(api_key=current_key, base_url=base_url)
+                messages = [
+                    {"role": "system", "content": "You are a sentiment analyst. Output JSON only."},
+                    {"role": "user", "content": prompt}
+                ]
+                
+                response = client.chat.completions.create(
+                    model=model,
+                    messages=messages,
+                    temperature=0.1,
+                    response_format={"type": "json_object"}
+                )
+                content = response.choices[0].message.content
+                data = try_extract_json(content)
+                if data and "sentiment" in data:
+                    sentiment = data["sentiment"].lower().strip()
+                    if any(s in sentiment for s in ["positive", "negative", "neutral"]):
+                        if "positive" in sentiment: art["sentiment"] = "positive"
+                        elif "negative" in sentiment: art["sentiment"] = "negative"
+                        else: art["sentiment"] = "neutral"
+                        art["sentiment_success"] = True
+                        break # Success with this key, break inner key loop
+            except Exception as exc:
+                if key_idx == len(api_keys) - 1:
+                    print(f" Sentiment categorization failed for '{art['title'][:30]}' after trying all keys: {exc}")
+                else:
+                    # Silence key errors to avoid clutter in the loop
+                    pass
     
     return articles
 
@@ -2279,7 +2315,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div class="main-feed">
     {% if relevant_news %}
     <div class="widget" style="background: var(--surface); border: 1px solid var(--border); margin-bottom: 24px;">
-    <div class="widget-title" style="color: var(--accent); border-bottom: 1px solid var(--accent); margin-bottom: 15px;">Top Stories (Selected by AI)</div>
+    <div class="widget-title" style="color: var(--accent); border-bottom: 1px solid var(--accent); margin-bottom: 15px;">Top Stories (Selected by AI) - {{ generated_at }}</div>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px;">
     {% for art in relevant_news %}
     <div style="border-left: 2px solid var(--accent); padding-left: 12px;">
@@ -2292,7 +2328,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% endif %}
 
     <div class="digest-card">
-    <h2>Daily Intelligence Summary</h2>
+    <h2>Morning AI Briefing - {{ generated_at }}</h2>
     <p class="digest-text">{{ digest.digest }}</p>
     </div>
 
@@ -2374,7 +2410,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
 
     <div class="widget" style="background: transparent; border: none; padding: 0;">
-    <div class="widget-title" style="padding-left: 0;">Things to watch</div>
+    <div class="widget-title" style="padding-left: 0;">Things to watch - {{ generated_at }}</div>
     {% for event in digest.next_events %}
     <div class="event-card">
     <div class="event-num">{{ loop.index }}</div>

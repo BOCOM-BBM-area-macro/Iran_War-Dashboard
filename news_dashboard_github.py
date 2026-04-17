@@ -2409,7 +2409,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% endif %}
 
     <div class="digest-card">
-    <h2>Morning AI Briefing - {{ generated_at }}</h2>
+    <h2>Daily AI Briefing - {{ generated_at }}</h2>
     <p class="digest-text">{{ digest.digest }}</p>
     </div>
 

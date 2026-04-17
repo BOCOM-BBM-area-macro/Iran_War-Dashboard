@@ -321,7 +321,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-16"
     },
     "https://www.washingtonpost.com/politics/2026/04/10/trump-goals-iran-achieved/": {
       "summary": "",
@@ -390,7 +390,7 @@
         "timesofisrael.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html": {
@@ -605,11 +605,31 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-17"
+    },
+    "https://www.axios.com/2026/04/17/trump-iran-deal-interview-pakistan-talks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.wsj.com/economy/global/iran-war-casts-gloom-over-outlook-of-world-finance-ministers-and-investors-df15aaae": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-17"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-17",
-  "last_generated_time": "2026-04-17T17:01:45.310394+00:00",
+  "last_generated_time": "2026-04-17T18:01:45.726878+00:00",
   "digest": {
     "digest": "Recent developments indicate a potential shift in the Iran war, with discussions around a $20 billion cash-for-uranium deal and the release of frozen Iranian funds. The Strait of Hormuz has been declared open following a deal with Lebanon, and President Trump anticipates an Iran deal 'soon,' suggesting a potential end to the conflict. This easing of tensions has contributed to a rally in stock markets and a drop in the dollar. However, the war has had significant economic repercussions, including an estimated $50 billion loss in oil value and increased costs for commodities like copper and nickel, impacting global trade fairs. European oil majors have reportedly benefited from trading activities related to the conflict. Meanwhile, US political discourse shows a split, with Democrats seeking new strategies after failing to pass war powers votes, while Republicans express anxiety but vote against curbing presidential powers. Public sentiment in Israel, however, is reportedly pessimistic about the war's outcome despite a ceasefire. The US plans to recover uranium from Iran at a 'leisurely pace,' and efforts are underway to diversify jet fuel supplies due to war-related threats.",
     "top_themes": [

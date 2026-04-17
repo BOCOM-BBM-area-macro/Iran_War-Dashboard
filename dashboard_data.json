@@ -28,7 +28,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-16"
     },
     "https://www.timesofisrael.com/liveblog_entry/war-ending-proposal-would-see-iran-hand-over-uranium-stockpile-for-us-release-of-20-billion-in-frozen-funds/": {
       "summary": "",
@@ -452,25 +452,121 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-17"
+    },
+    "https://www.reuters.com/business/energy/how-50-days-iran-war-led-loss-50-billion-worth-oil-2026-04-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.nytimes.com/2026/04/17/business/stocks-oil-iran-war-strait-of-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.reuters.com/sustainability/climate-energy/eu-push-jet-fuel-diversification-iran-war-threatens-supply-2026-04-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.reuters.com/world/middle-east/us-recover-uranium-iran-trump-tells-reuters-2026-04-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.washingtonpost.com/opinions/2026/04/17/matt-davies-cartoon-white-house-expansion-trump-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-17",
-  "last_generated_time": "2026-04-17T11:21:20.829268+00:00",
+  "last_generated_time": "2026-04-17T14:20:55.522789+00:00",
   "digest": {
-    "digest": "President Trump indicated that a second round of talks with Iran could occur this weekend, expressing optimism that the war \"should\" end soon and characterizing the conflict as a \"little diversion.\" A proposal is reportedly on the table for Iran to transfer its uranium stockpile in exchange for the release of $20 billion in frozen funds. The US has maintained a naval blockade of Iranian ports, claiming to have halted all maritime trade, and has also imposed new sanctions on Iran's oil industry. The House of Representatives has repeatedly voted against measures to curb the President's war powers, thwarting challenges to his authority. Meanwhile, Iran has declared the Strait of Hormuz open, leading to an 11% drop in oil prices. European oil majors have seen significant trading gains due to the war. In Israel, a recent poll revealed widespread pessimism regarding the war's outcome, with a majority of Israelis viewing the recent ceasefire as an American concession rather than a sign of Iranian submission. The economic impact of the war is also evident, with disruptions affecting China's largest trade fair and causing price hikes for essential medical supplies like rubber gloves. The White House has declined to provide Congress with an estimate of the war's cost, underscoring a lack of transparency regarding financial expenditures.",
+    "digest": "Recent developments indicate a potential shift in the Iran war, with discussions around a $20 billion cash-for-uranium deal and the release of frozen Iranian funds. The Strait of Hormuz has been declared open following a deal with Lebanon, and President Trump anticipates an Iran deal 'soon,' suggesting a potential end to the conflict. This easing of tensions has contributed to a rally in stock markets and a drop in the dollar. However, the war has had significant economic repercussions, including an estimated $50 billion loss in oil value and increased costs for commodities like copper and nickel, impacting global trade fairs. European oil majors have reportedly benefited from trading activities related to the conflict. Meanwhile, US political discourse shows a split, with Democrats seeking new strategies after failing to pass war powers votes, while Republicans express anxiety but vote against curbing presidential powers. Public sentiment in Israel, however, is reportedly pessimistic about the war's outcome despite a ceasefire. The US plans to recover uranium from Iran at a 'leisurely pace,' and efforts are underway to diversify jet fuel supplies due to war-related threats.",
     "top_themes": [
-      "US-Iran Negotiations and Diplomacy",
-      "Strait of Hormuz Control and Blockade",
-      "Economic Impacts of the Iran War",
-      "Congressional Oversight and War Powers",
-      "Israeli Public Opinion on the War"
+      "Diplomatic Negotiations",
+      "Economic Impact",
+      "Resource Management"
     ],
-    "next_events": []
+    "next_events": [
+      {
+        "title": "Finalization of US-Iran Nuclear Deal",
+        "description": "Multiple reports indicate ongoing talks for a $20 billion cash-for-uranium deal and a broader resolution to the conflict. Analysts should closely monitor the specifics of any agreement, including the timeline for Iran's uranium handover and the release of frozen funds, as this will be a critical determinant of future US-Iran relations and regional stability."
+      },
+      {
+        "title": "Stability and Security of the Strait of Hormuz",
+        "description": "Despite Iran's declaration that the Strait of Hormuz is open, its long-term security remains paramount for global energy markets. Watch for any incidents, statements, or naval activities that could challenge this status, as disruptions would have immediate and significant economic repercussions worldwide."
+      },
+      {
+        "title": "US Congressional Action on War Powers",
+        "description": "Following the failed war powers vote, Democrats are reportedly strategizing new approaches to curb presidential authority regarding military action in Iran. Observe legislative efforts, potential bipartisan support, and the administration's response, as this impacts the checks and balances on future US foreign policy and military engagements."
+      },
+      {
+        "title": "Global Economic Recovery and Commodity Market Trends",
+        "description": "The easing of Middle East tensions has already spurred stock rallies and currency shifts, but the full economic impact on oil, copper, nickel, and global trade is still unfolding. Monitor commodity prices, supply chain adjustments (e.g., jet fuel diversification), and overall market sentiment for signs of sustained recovery or lingering instability from the conflict."
+      },
+      {
+        "title": "Shifts in Regional Geopolitical Alliances",
+        "description": "The 'Iran War' has reportedly pushed America's allies in Asia to court its rivals, indicating potential shifts in regional power dynamics. Analysts should observe diplomatic engagements, trade agreements, and security partnerships in Asia and the broader Middle East for signs of new strategic realignments and their long-term implications."
+      },
+      {
+        "title": "Iranian Compliance with Uranium Handover",
+        "description": "Should a deal involving Iran handing over its uranium stockpile materialize, verifying its compliance will be crucial for the agreement's credibility. Watch for statements from international bodies, inspection reports, and any challenges or delays in the process, as this will determine the effectiveness and longevity of any resolution."
+      },
+      {
+        "title": "Israeli Public and Political Response to Ceasefire",
+        "description": "Polls indicate significant Israeli public dissatisfaction and pessimism regarding the ceasefire and the war's outcome. Monitor Israeli political discourse, security posture, and any actions taken in response to the perceived outcome or the terms of any US-Iran deal, as this could impact regional stability and future diplomatic efforts."
+      }
+    ]
   },
   "relevant_news": [
     {
-      "title": "Trump says Iran war should end 'soon', allies to meet on Strait of Hormuz - Reuters",
+      "title": "How 50 days of the Iran war led to the loss of $50 billion worth of oil - Reuters",
+      "url": "https://www.reuters.com/business/energy/how-50-days-iran-war-led-loss-50-billion-worth-oil-2026-04-17/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 17, 2026 · 13:48 BRT",
+      "pub_date": "2026-04-17",
+      "pub_ts": 1776444489,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran says Hormuz Strait open after Lebanon deal, Trump expects Iran deal 'soon' - Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-should-end-soon-both-sides-may-meet-weekend-2026-04-17/",
       "source": "Reuters",
       "domain": "reuters.com",
@@ -489,71 +585,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran’s War-Shattered Economy Means It Has an Urgent Reason to Negotiate - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/irans-war-shattered-economy-means-it-has-an-urgent-reason-to-negotiate-43937f36",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Apr 17, 2026 · 01:32 BRT",
-      "pub_date": "2026-04-17",
-      "pub_ts": 1776400373,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Scoop: U.S. considers $20 billion cash-for-uranium deal with Iran - Axios",
-      "url": "https://www.axios.com/2026/04/17/iran-us-deal-20-billion-frozen-funds-uranium",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Apr 17, 2026 · 09:27 BRT",
-      "pub_date": "2026-04-17",
-      "pub_ts": 1776428869,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US military: 'locked and loaded' to strike Iran's power plants, energy industry if ordered - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-forces-ready-restart-combat-if-iran-doesnt-agree-deal-says-hegseth-2026-04-16/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 16, 2026 · 19:46 BRT",
-      "pub_date": "2026-04-16",
-      "pub_ts": 1776379562,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran says Strait of Hormuz to reopen amid push to end war - The Washington Post",
+      "title": "Iran says Strait of Hormuz is now open amid push to end war - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Apr 17, 2026 · 10:39 BRT",
+      "published": "Apr 17, 2026 · 13:52 BRT",
       "pub_date": "2026-04-17",
-      "pub_ts": 1776433152,
+      "pub_ts": 1776444774,
       "summary": "",
       "tags": [
         "extracted",
@@ -565,14 +604,52 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil falls by 11% after Iran's foreign minister declares Strait of Hormuz open - Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-falls-prospects-talks-end-iran-war-revive-supply-2026-04-17/",
+      "title": "War-ending proposal would see Iran hand over uranium stockpile for US release of $20 billion in frozen funds - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/war-ending-proposal-would-see-iran-hand-over-uranium-stockpile-for-us-release-of-20-billion-in-frozen-funds/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Apr 17, 2026 · 10:04 BRT",
+      "pub_date": "2026-04-17",
+      "pub_ts": 1776431073,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Forces America’s Friends in Asia to Court Its Rivals - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Apr 17, 2026 · 03:59 BRT",
+      "pub_date": "2026-04-17",
+      "pub_ts": 1776409143,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US to recover uranium from Iran at a 'leisurely pace', Trump tells Reuters - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-recover-uranium-iran-trump-tells-reuters-2026-04-17/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 16, 2026 · 22:02 BRT",
-      "pub_date": "2026-04-16",
-      "pub_ts": 1776387720,
+      "published": "Apr 17, 2026 · 13:14 BRT",
+      "pub_date": "2026-04-17",
+      "pub_ts": 1776442442,
       "summary": "",
       "tags": [
         "extracted",
@@ -583,5 +660,8 @@
       "full_text": "",
       "sentiment_success": false
     }
-  ]
+  ],
+  "last_digest_success": true,
+  "last_watch_success": true,
+  "last_relevant_success": true
 }

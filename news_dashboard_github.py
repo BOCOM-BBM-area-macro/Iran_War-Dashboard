@@ -232,10 +232,13 @@ def load_config(path: str) -> dict:
     
     # API Keys are required if LLM is enabled
     if cfg["llm"]["enabled"]:
-        if not cfg["llm"].get("gemini_api_key") or "key_goes_here" in cfg["llm"].get("gemini_api_key", ""):
-            print(" gemini_api_key not found in config. AI features might fail.")
-        if not cfg["llm"].get("sentiment_api_key") or "key_goes_here" in cfg["llm"].get("sentiment_api_key", ""):
-            print(" sentiment_api_key not found in config. Sentiment analysis might fail.")
+        has_gemini = any(k.startswith("GEMINI_API_KEY") for k in os.environ) or (cfg["llm"].get("gemini_api_key") and "key_goes_here" not in cfg["llm"].get("gemini_api_key", ""))
+        if not has_gemini:
+            print(" gemini_api_key not found in config or environment. AI features might fail.")
+            
+        has_grok = any(k.startswith(("GROK_API_KEY", "GROQ_API_KEY", "XAI_API_KEY")) for k in os.environ) or (cfg["llm"].get("sentiment_api_key") and "key_goes_here" not in cfg["llm"].get("sentiment_api_key", ""))
+        if not has_grok:
+            print(" sentiment/fallback API key not found in config or environment. Sentiment analysis might fail.")
     
     cfg["llm"].setdefault("digest_model", "gemini-1.5-flash")
     cfg["llm"].setdefault("watch_model", "gemini-1.5-flash")
@@ -1520,11 +1523,24 @@ def call_openai_compatible(cfg, model, prompt, system_prompt="You are a helpful 
     if not api_keys:
         return None
         
-    base_url = cfg["llm"].get("fallback_api_base_url") or cfg["llm"].get("api_base_url")
+    config_base_url = cfg["llm"].get("fallback_api_base_url") or cfg["llm"].get("api_base_url")
     
     for key_idx, current_key in enumerate(api_keys):
+        # Determine base URL: xAI keys or models should use xAI endpoint
+        current_base_url = config_base_url
+        if "xai" in current_key.lower() or (model and "grok" in model.lower()):
+             if "groq" not in config_base_url.lower(): # Only override if not explicitly groq
+                current_base_url = "https://api.x.ai/v1"
+        
+        # Heuristic: if key starts with gsk_ it's definitely Groq
+        if current_key.startswith("gsk_"):
+            current_base_url = "https://api.groq.com/openai/v1"
+        elif "xai" in current_key.lower() or current_key.startswith("xai-"):
+            current_base_url = "https://api.x.ai/v1"
+
         try:
-            client = OpenAI(api_key=current_key, base_url=base_url)
+            print(f" Calling OpenAI-compatible API (Key {key_idx+1}/{len(api_keys)}) via {current_base_url}...")
+            client = OpenAI(api_key=current_key, base_url=current_base_url)
             messages = [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": prompt}
@@ -1544,7 +1560,7 @@ def call_openai_compatible(cfg, model, prompt, system_prompt="You are a helpful 
             if key_idx == len(api_keys) - 1:
                 print(f" Fallback API call failed after trying all keys. Last error: {e}")
             else:
-                print(f" Key {key_idx+1} failed, trying next key…")
+                print(f" Key {key_idx+1} failed, trying next key… Error: {e}")
                 
     return None
 
@@ -1553,23 +1569,26 @@ def get_gemini_keys(cfg: dict) -> list[str]:
     """Get all available Gemini API keys from environment variables and config."""
     keys = []
     
-    # 1. Primary key (Env preferred, then Config)
-    # This covers "GEMINI_API_KEY"
-    primary = os.environ.get("GEMINI_API_KEY") or cfg["llm"].get("gemini_api_key")
-    if primary and not any(p in primary for p in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
-        keys.append(primary)
+    # 1. Environment variables: GEMINI_API_KEY and GEMINI_API_KEY_1, _2, etc.
+    # We use a set for values to keep them unique but preserve order of discovery for keys
+    env_keys = []
+    for k, v in os.environ.items():
+        if k.startswith("GEMINI_API_KEY") and v:
+            clean_v = v.strip().strip("'").strip('"')
+            if clean_v and clean_v not in env_keys:
+                env_keys.append(clean_v)
     
-    # 2. Sequential keys from environment: GEMINI_API_KEY_1, GEMINI_API_KEY_2, etc.
-    i = 1
-    while True:
-        env_key = os.environ.get(f"GEMINI_API_KEY_{i}")
-        if not env_key:
-            # Stop if we hit a gap in the numbering (standard convention)
-            break
-        if env_key not in keys:
-            keys.append(env_key)
-        i += 1
+    # Sort to ensure GEMINI_API_KEY comes before GEMINI_API_KEY_1
+    # Standard alphabetical sort puts GEMINI_API_KEY before GEMINI_API_KEY_1
+    keys.extend(env_keys)
+
+    # 2. Config key (only if not already in environment)
+    cfg_key = cfg["llm"].get("gemini_api_key")
+    if cfg_key and cfg_key not in keys and not any(p in cfg_key for p in ["YOUR_GEMINI_API_KEY", "key_goes_here"]):
+        keys.append(cfg_key)
     
+    if keys:
+        print(f" Found {len(keys)} Gemini API key(s).")
     return keys
 
 
@@ -1577,28 +1596,25 @@ def get_grok_keys(cfg: dict) -> list[str]:
     """Get all available Grok/Groq API keys from environment variables and config."""
     keys = []
     
-    # 1. Primary keys from Env (check both GROK and GROQ common names)
-    for env_name in ["GROK_API_KEY", "GROQ_API_KEY", "XAI_API_KEY"]:
-        val = os.environ.get(env_name)
-        if val and val not in keys:
-            keys.append(val)
-            
+    # 1. Environment variables: GROK_API_KEY, GROQ_API_KEY, XAI_API_KEY and sequential
+    prefixes = ["GROK_API_KEY", "GROQ_API_KEY", "XAI_API_KEY"]
+    env_keys = []
+    for k, v in os.environ.items():
+        if any(k.startswith(p) for p in prefixes) and v:
+            clean_v = v.strip().strip("'").strip('"')
+            if clean_v and clean_v not in env_keys:
+                env_keys.append(clean_v)
+    
+    keys.extend(env_keys)
+
     # 2. Config keys (priority: fallback -> sentiment)
     for cfg_key in ["fallback_api_key", "sentiment_api_key"]:
         val = cfg["llm"].get(cfg_key)
         if val and val not in keys and not any(p in val for p in ["YOUR_GROK_API_KEY", "key_goes_here"]):
             keys.append(val)
             
-    # 3. Sequential keys from environment: GROK_API_KEY_1, GROQ_API_KEY_1, etc.
-    for base_name in ["GROK_API_KEY", "GROQ_API_KEY", "XAI_API_KEY"]:
-        i = 1
-        while True:
-            env_key = os.environ.get(f"{base_name}_{i}")
-            if not env_key: break
-            if env_key not in keys:
-                keys.append(env_key)
-            i += 1
-            
+    if keys:
+        print(f" Found {len(keys)} Grok/Groq/xAI API key(s).")
     return keys
 
 

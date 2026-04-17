@@ -1618,15 +1618,17 @@ def get_grok_keys(cfg: dict) -> list[str]:
     return keys
 
 
-def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
-    """Select the top 6 most relevant articles from a list using Gemini."""
+def select_relevant_news(articles: list[dict], cfg: dict) -> tuple[list[dict], bool]:
+    """Select the top 6 most relevant articles from a list using Gemini.
+    Returns (selected_articles, success_flag).
+    """
     if not genai or not articles:
-        return articles[:6]
+        return articles[:6], False
     
     api_keys = get_gemini_keys(cfg)
     if not api_keys:
         print(" Gemini API key(s) missing. Relevant news selection skipped.")
-        return articles[:6]
+        return articles[:6], False
     
     model_name = cfg["llm"].get("relevant_news_model", "gemini-1.5-flash")
 
@@ -1672,7 +1674,7 @@ def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
                 
                 if selected:
                     print(f" Selected {len(selected)} relevant articles.")
-                    return selected[:6]
+                    return selected[:6], True
             except Exception as exc:
                 is_fatal = False
                 if google_exceptions:
@@ -1713,9 +1715,9 @@ def select_relevant_news(articles: list[dict], cfg: dict) -> list[dict]:
                     selected.append(articles[idx-1])
             if selected:
                 print(f" Selected {len(selected)} relevant articles via fallback.")
-                return selected[:6]
+                return selected[:6], True
 
-    return articles[:6]
+    return articles[:6], False
 
 
 def summarise_articles(articles: list[dict], cfg: dict, cache: dict = None, extract_full_text: bool = True) -> list[dict]:
@@ -1849,15 +1851,17 @@ def categorize_sentiment(articles: list[dict], cfg: dict, cache: dict = None) ->
     return articles
 
 
-def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) -> dict:
-    """Generate daily digest with fallback to environment variables for security."""
+def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) -> tuple[dict, bool, bool]:
+    """Generate daily digest with fallback to environment variables for security.
+    Returns (digest_data, digest_success, watch_success).
+    """
     if not genai:
-        return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}
+        return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}, False, False
     
     api_keys = get_gemini_keys(cfg)
     if not api_keys:
         print(" Gemini API key(s) missing or placeholder detected. Digest skipped.")
-        return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}
+        return {"digest": "Digest unavailable.", "top_themes": [], "next_events": []}, False, False
     
     digest_model_name = cfg["llm"].get("digest_model", "gemini-1.5-flash")
     watch_model_name = cfg["llm"].get("watch_model", "gemini-1.5-flash")
@@ -1874,12 +1878,11 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
         items = "\n".join(f" - {sanitize_for_format(d)}" for d in cfg["llm"]["digest_focus"])
         digest_instructions = f"Additionally address:\n{items}"
 
-    key_idx = 0
     digest_data = {"digest": "Digest unavailable.", "top_themes": []}
     watch_data = {"next_events": []}
 
     # --- Step 1: Executive Digest ---
-    success = False
+    success_digest = False
     for key_idx, current_key in enumerate(api_keys):
         genai.configure(api_key=current_key)
         print(f" Generating executive digest with {digest_model_name} (Key {key_idx+1}/{len(api_keys)})…")
@@ -1913,7 +1916,7 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
                 data = try_extract_json(response.text)
                 if data and "digest" in data:
                     digest_data = data
-                    success = True
+                    success_digest = True
                     break
             except Exception as exc:
                 is_fatal = False
@@ -1937,11 +1940,11 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
                 else:
                     time.sleep(1)
         
-        if success:
+        if success_digest:
             break
 
     # --- Step 1 Fallback: Grok/Groq for Digest ---
-    if not success and cfg["llm"].get("fallback_enabled"):
+    if not success_digest and cfg["llm"].get("fallback_enabled"):
         print(f" Gemini failed or timed out. Falling back to Grok for Executive Digest…")
         fallback_model = cfg["llm"].get("fallback_digest_model", "grok-2-1212")
         content = call_openai_compatible(
@@ -1953,7 +1956,7 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
             data = try_extract_json(content)
             if data and "digest" in data:
                 digest_data = data
-                success = True
+                success_digest = True
 
     # --- Step 2: Things to Watch ---
     success_watch = False
@@ -2029,11 +2032,13 @@ def generate_digest(articles: list[dict], commodities: list[dict], cfg: dict) ->
                 watch_data = data
                 success_watch = True
 
-    return {
+    final_data = {
         "digest": digest_data.get("digest", "Digest unavailable."),
         "top_themes": digest_data.get("top_themes", []),
         "next_events": watch_data.get("next_events", [])
     }
+    
+    return final_data, success_digest, success_watch
 
 
 # ── HTML rendering ─────────────────────────────────────────────────────────────
@@ -4221,53 +4226,80 @@ def main():
     now_brt = get_brt_now()
     today_iso = now_brt.date().isoformat()
     last_gen_date = stored_data.get("last_generated_date")
-    last_run_success = stored_data.get("last_run_success", True)
-    is_past_730 = now_brt.hour > 7 or (now_brt.hour == 7 and now_brt.minute >= 30)
     is_new_day = last_gen_date != today_iso
-    should_run_gemini = cfg["llm"].get("enabled", True) and is_past_730 and (is_new_day or not last_run_success)
+    is_past_730 = now_brt.hour > 7 or (now_brt.hour == 7 and now_brt.minute >= 30)
 
-    print(f"\n Extracting news previews (Full text: {should_run_gemini})...")
-    articles = summarise_articles(articles, cfg, cache=news_cache, extract_full_text=should_run_gemini)
+    # Granular success tracking
+    digest_success = stored_data.get("last_digest_success", False)
+    watch_success = stored_data.get("last_watch_success", False)
+    relevant_success = stored_data.get("last_relevant_success", False)
 
-    relevant_news = []
-    digest = {
+    should_run_llm = cfg["llm"].get("enabled", True) and is_past_730
+    
+    # We run a feature if it's a new day OR if it failed in the previous run
+    run_digest = should_run_llm and (is_new_day or not digest_success or not watch_success)
+    run_relevant = should_run_llm and (is_new_day or not relevant_success)
+
+    print(f"\n Extracting news previews (Full text: {run_digest or run_relevant})...")
+    articles = summarise_articles(articles, cfg, cache=news_cache, extract_full_text=run_digest or run_relevant)
+
+    # Initial values from storage
+    relevant_news = stored_data.get("relevant_news", [])
+    digest = stored_data.get("digest", {
         "digest": "AI generated digest is disabled or skipped.",
         "top_themes": [],
         "next_events": []
-    }
+    })
 
     if cfg["llm"].get("enabled", True):
         # Sentiment always runs (with cache) if LLM is enabled
         articles = categorize_sentiment(articles, cfg, cache=news_cache)
         
-        if should_run_gemini:
-            reason = "new day" if is_new_day else "retrying after failure"
-            print(f" Past 7:30 AM BRT and {reason} ({today_iso}) - Updating Gemini features...")
-            digest = generate_digest(llama_context_articles, commodities, cfg)
-            relevant_news = select_relevant_news(llama_context_articles, cfg)
+        if run_digest:
+            reason = "new day" if is_new_day else "retrying after previous failure"
+            print(f" Generating Digest & Watch Events ({reason})...")
+            digest_result, d_ok, w_ok = generate_digest(llama_context_articles, commodities, cfg)
             
-            # Check if it actually succeeded (didn't return placeholder)
-            success = digest.get("digest") != "Digest unavailable."
-            
-            if success:
-                # Persist to storage
-                stored_data["last_run_success"] = True
-                stored_data["last_generated_date"] = today_iso
-                stored_data["last_generated_time"] = now_brt.isoformat()
-                stored_data["digest"] = digest
-                stored_data["relevant_news"] = relevant_news
-                print(" Gemini features updated successfully.")
+            # Merge or update
+            if d_ok:
+                digest["digest"] = digest_result["digest"]
+                digest["top_themes"] = digest_result["top_themes"]
+                stored_data["last_digest_success"] = True
+                print(" Executive Digest updated successfully.")
             else:
-                print(" Gemini update failed (placeholder received). Will retry on next execution.")
-                stored_data["last_run_success"] = False
-                # Fallback to whatever we have stored if anything
-                digest = stored_data.get("digest", digest)
-                relevant_news = stored_data.get("relevant_news", [])
-        else:
-            print(f"\n Skipping Gemini update (Past 7:30 AM: {is_past_730}, New Day: {is_new_day}, Last Success: {last_run_success})")
-            # Use stored data
-            digest = stored_data.get("digest", digest)
-            relevant_news = stored_data.get("relevant_news", [])
+                stored_data["last_digest_success"] = False
+                print(" Executive Digest update failed.")
+
+            if w_ok:
+                digest["next_events"] = digest_result["next_events"]
+                stored_data["last_watch_success"] = True
+                print(" Things to Watch updated successfully.")
+            else:
+                stored_data["last_watch_success"] = False
+                print(" Things to Watch update failed.")
+            
+            stored_data["digest"] = digest
+
+        if run_relevant:
+            reason = "new day" if is_new_day else "retrying after previous failure"
+            print(f" Selecting Relevant News ({reason})...")
+            relevant_news_result, r_ok = select_relevant_news(llama_context_articles, cfg)
+            if r_ok:
+                relevant_news = relevant_news_result
+                stored_data["relevant_news"] = relevant_news
+                stored_data["last_relevant_success"] = True
+                print(" Relevant News updated successfully.")
+            else:
+                stored_data["last_relevant_success"] = False
+                print(" Relevant News update failed.")
+
+        if is_past_730:
+            stored_data["last_generated_date"] = today_iso
+            stored_data["last_generated_time"] = now_brt.isoformat()
+            # Overall success for backward compatibility
+            stored_data["last_run_success"] = stored_data.get("last_digest_success", False) and \
+                                              stored_data.get("last_watch_success", False) and \
+                                              stored_data.get("last_relevant_success", False)
     else:
         print("\n AI generated features (sentiment, digest, relevant news) are disabled in config.")
 

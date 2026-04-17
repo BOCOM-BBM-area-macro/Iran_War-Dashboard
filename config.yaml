@@ -51,6 +51,24 @@ llm:
     - "Be concise and dense. The main goal is to provide as much information as possible, in a digestable way."
     - "Keep it technical and objective. Avoid ambiguity, be very precise and factual"
 
+news_by_theme:
+  enabled: true
+  themes:
+    - name: "Oil"
+      keywords: ["Oil", "Crude", "Petroleum"]
+    - name: "Refined Petroleum Products"
+      keywords: ["Refined Petroleum", "Gasoline", "Diesel", "Fuel Oil"]
+    - name: "LNG"
+      keywords: ["LNG", "Liquefied Natural Gas", "Gas"]
+    - name: "Jet Fuel"
+      keywords: ["Jet Fuel", "Aviation Fuel", "Kerosene"]
+    - name: "Fertilizers/food"
+      keywords: ["Fertilizers", "Food Supply", "Agriculture", "Wheat", "Grain"]
+    - name: "Naphta/Petrochemical"
+      keywords: ["Naphta", "Petrochemicals", "Ethylene", "Propylene"]
+    - name: "Aluminum"
+      keywords: ["Aluminum", "Aluminium", "Metals"]
+
 output:
   filename: "dashboard.html"                       # Output HTML file name (default: dashboard.html)
   theme: "dark"                                    # "dark" or "light" (default: "dark")

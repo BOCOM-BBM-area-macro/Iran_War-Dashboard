@@ -51,7 +51,7 @@
       "pub_date": "2026-04-17"
     },
     "https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html": {
-      "summary": "",
+      "summary": "The severe disruption of oil supplies from the Middle East as a result of the war has prompted South Korea and the Philippines to make deals with Russia and Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -314,7 +314,7 @@
       "pub_date": "2026-04-14"
     },
     "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html": {
-      "summary": "",
+      "summary": "Despite the economic risks from the war, Beijing will likely stick to a hands-off approach. It is wary of being entangled in a conflict it opposed and has little sway over.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -770,7 +770,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-18"
     },
     "https://www.reuters.com/world/asia-pacific/trump-says-he-has-good-news-iran-no-clarity-peace-deal-2026-04-18/": {
       "summary": "",
@@ -841,125 +841,148 @@
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-04-18"
+    },
+    "https://www.timesofisrael.com/iranians-fear-fresh-government-crackdown-after-war-theres-fire-under-the-ashes/": {
+      "summary": "Iran's regime looks as entrenched as ever after surviving weeks of conflict, as difficulties that spurred mass unrest that led to the bloody crackdown look likely to worsen",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-04-17",
-  "last_generated_time": "2026-04-17T23:01:48.270197+00:00",
+  "last_generated_date": "2026-04-18",
+  "last_generated_time": "2026-04-18T08:01:54.393325+00:00",
   "digest": {
-    "digest": "Recent developments indicate a potential shift in the Iran war, with discussions around a $20 billion cash-for-uranium deal and the release of frozen Iranian funds. The Strait of Hormuz has been declared open following a deal with Lebanon, and President Trump anticipates an Iran deal 'soon,' suggesting a potential end to the conflict. This easing of tensions has contributed to a rally in stock markets and a drop in the dollar. However, the war has had significant economic repercussions, including an estimated $50 billion loss in oil value and increased costs for commodities like copper and nickel, impacting global trade fairs. European oil majors have reportedly benefited from trading activities related to the conflict. Meanwhile, US political discourse shows a split, with Democrats seeking new strategies after failing to pass war powers votes, while Republicans express anxiety but vote against curbing presidential powers. Public sentiment in Israel, however, is reportedly pessimistic about the war's outcome despite a ceasefire. The US plans to recover uranium from Iran at a 'leisurely pace,' and efforts are underway to diversify jet fuel supplies due to war-related threats.",
+    "digest": "Recent developments indicate a complex and fluid situation surrounding the Iran War. President Trump has made numerous claims regarding the imminent end of the conflict and significant concessions from Iran, including the reopening of the Strait of Hormuz. However, Iranian officials have disputed many of these assertions, characterizing some as false and emphasizing that the Strait's openness is conditional and under Iranian supervision. Negotiations appear to be progressing towards a framework agreement, with a potential 60-day negotiation period, though key issues remain unresolved. The economic repercussions of the war continue to be felt globally, with disruptions to oil supplies impacting prices and leading some Asian nations to seek deals with rivals like Russia and Iran. Domestically, there are concerns within Iran about potential government crackdowns and worsening economic conditions following the conflict, despite a temporary ceasefire. China is maintaining a cautious, behind-the-scenes role, wary of entanglement. The US has renewed a sanctions exemption on Russian oil, partly in response to economic pressures stemming from the Iran war. The overall situation remains precarious, with conflicting narratives and underlying tensions persisting.",
     "top_themes": [
-      "Diplomatic Negotiations",
-      "Economic Impact",
-      "Resource Management"
+      "Strait of Hormuz reopening and control",
+      "US-Iran peace negotiations and claims",
+      "Economic impacts of the Iran War",
+      "Internal Iranian sentiment and potential crackdown",
+      "International involvement and shifting alliances"
     ],
     "next_events": [
       {
-        "title": "Finalization of US-Iran Nuclear Deal",
-        "description": "Multiple reports indicate ongoing talks for a $20 billion cash-for-uranium deal and a broader resolution to the conflict. Analysts should closely monitor the specifics of any agreement, including the timeline for Iran's uranium handover and the release of frozen funds, as this will be a critical determinant of future US-Iran relations and regional stability."
+        "title": "US-Iran Peace Talks and Ceasefire Extension",
+        "description": "The current ceasefire between the US and Iran is set to expire next week, with American and Iranian negotiators expected to meet for another round of peace talks in Pakistan. Analysts should monitor the progress of these negotiations, particularly the agreement on a formal framework and the 60-day clock for a comprehensive deal, as well as any potential extension of the ceasefire."
       },
       {
-        "title": "Stability and Security of the Strait of Hormuz",
-        "description": "Despite Iran's declaration that the Strait of Hormuz is open, its long-term security remains paramount for global energy markets. Watch for any incidents, statements, or naval activities that could challenge this status, as disruptions would have immediate and significant economic repercussions worldwide."
+        "title": "Strait of Hormuz Re-closure Risk",
+        "description": "While Iran has announced the Strait of Hormuz is open, it has explicitly stated this is conditional on the US lifting its naval blockade of Iranian ports. Watch for any developments regarding the US blockade and Iran's response, as the strait's re-closure would severely impact global oil markets and escalate tensions."
       },
       {
-        "title": "US Congressional Action on War Powers",
-        "description": "Following the failed war powers vote, Democrats are reportedly strategizing new approaches to curb presidential authority regarding military action in Iran. Observe legislative efforts, potential bipartisan support, and the administration's response, as this impacts the checks and balances on future US foreign policy and military engagements."
+        "title": "Post-War Internal Crackdown in Iran",
+        "description": "Following weeks of war and economic damage, there are significant fears among Iranians of increased government repression once a peace deal is reached. Analysts should observe any signs of a renewed crackdown on dissent, the enforcement of social restrictions, and the potential for popular frustration to reignite protests."
       },
       {
-        "title": "Global Economic Recovery and Commodity Market Trends",
-        "description": "The easing of Middle East tensions has already spurred stock rallies and currency shifts, but the full economic impact on oil, copper, nickel, and global trade is still unfolding. Monitor commodity prices, supply chain adjustments (e.g., jet fuel diversification), and overall market sentiment for signs of sustained recovery or lingering instability from the conflict."
+        "title": "US Sanctions Policy and Global Energy Markets",
+        "description": "The US recently renewed a sanctions exemption on Russian oil but is set to let one on Iranian oil expire, impacting global energy markets. Monitor the effects of these decisions on oil prices and the broader economy, as well as any further adjustments to sanctions policy in response to economic pressures or negotiation outcomes."
       },
       {
-        "title": "Shifts in Regional Geopolitical Alliances",
-        "description": "The 'Iran War' has reportedly pushed America's allies in Asia to court its rivals, indicating potential shifts in regional power dynamics. Analysts should observe diplomatic engagements, trade agreements, and security partnerships in Asia and the broader Middle East for signs of new strategic realignments and their long-term implications."
-      },
-      {
-        "title": "Iranian Compliance with Uranium Handover",
-        "description": "Should a deal involving Iran handing over its uranium stockpile materialize, verifying its compliance will be crucial for the agreement's credibility. Watch for statements from international bodies, inspection reports, and any challenges or delays in the process, as this will determine the effectiveness and longevity of any resolution."
-      },
-      {
-        "title": "Israeli Public and Political Response to Ceasefire",
-        "description": "Polls indicate significant Israeli public dissatisfaction and pessimism regarding the ceasefire and the war's outcome. Monitor Israeli political discourse, security posture, and any actions taken in response to the perceived outcome or the terms of any US-Iran deal, as this could impact regional stability and future diplomatic efforts."
+        "title": "Iran's Nuclear Enrichment Stance",
+        "description": "A major sticking point in negotiations is Iran's nuclear program, with Trump demanding zero uranium enrichment while Iran has only offered a temporary suspension. Watch for any shifts in either side's position on this critical issue, as well as the feasibility and timeline for managing Iran's enriched uranium stockpile."
       }
     ]
   },
   "relevant_news": [
+    {
+      "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Apr 17, 2026 · 18:08 BRT",
+      "pub_date": "2026-04-17",
+      "pub_ts": 1776460139,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "positive",
+      "_rank": 0,
+      "full_text": "Trump\nFrames\nIran\nWar\nas\nAll\nbut\nOver\nin\nOptimistic\nSocial\nMedia\nFlurry\n-\nThe\nNew\nYork\nTimes\nAdvertisement\nSKIP\nADVERTISEMENT\nYou\nhave\na\npreview\nview\nof\nthis\narticle\nwhile\nwe\nare\nchecking\nyour\naccess.\nWhen\nwe\nhave\nconfirmed\naccess,\nthe\nfull\narticle\ncontent\nwill\nload.\nPresident\nTrump\nwent\non\na\nmedia\ntear\non\nFriday,\ngranting\ninterviews\nand\nunleashing\na\nflurry\nof\nsocial\nmedia\nposts\nthat\nframed\npeace\ntalks\nwith\nIran\nas\nall\nbut\ncomplete.\nAfter\nan\nannouncement\nby\nIran’s\nforeign\nminister\nthat\nthe\nStrait\nof\nHormuz\nhad\nbeen\nreopened,\nMr.\nTrump\nmade\na\nseries\nof\noptimistic\nposts\non\nhis\nsocial\nmedia\nplatform,\nTruth\nSocial.\nHe\nalso\nspoke\nto\nseveral\nnews\noutlets,\nasserting\nthat\nTehran\nhad\nagreed\nto\nmany\ndemands\nand\npredicting\na\nquick\nresolution\nto\nthe\nconflict.\nIranian\nofficials\ndid\nnot\nconfirm\nmost\nof\nMr.\nTrump’s\nclaims\nand\ndisputed\nseveral\nof\nthem.\nMohammad\nBagher\nGhalibaf,\nIran’s\ntop\nnegotiator\nand\nthe\nspeaker\nof\nits\nParliament,\nsaid\non\nsocial\nmedia\nFriday\nevening\nthat\nMr.\nTrump\nmade\nseveral\nfalse\nclaims.\n“The\npresident\nof\nthe\nUnited\nStates\nmade\nseven\nclaims\nin\none\nhour,\nall\nof\nwhich\nare\nfalse,”\nsaid\nGen.\nGhalibaf,\na\nmilitary\nand\npolitical\ninfluential\nfigure\nin\nIran\nleading\nnegotiations.\n“They\ndid\nnot\nwin\nthe\nwar\nwith\nthese\nlies,\nthey\nwill\ncertainly\nnot\nget\nany\nwhere\nin\nnegotiations\neither.”\nIt\nwas\nnot\nimmediately\nclear\nwhich\nclaims\nhe\nwas\nreferring\nto,\nbut\nMr.\nGhalibaf\nsaid\nthe\nUnited\nStates\nwould\nnot\nmake\nprogress\nin\nnegotiations\nwith\nwhat\nhe\ndescribed\nas\nlies.\nMr.\nTrump\nhas\nmade\nexaggerated\nand\noutlandish\nclaims\nrelated\nto\nthe\nwar\nsince\nthe\nUnited\nStates\nand\nIsrael\nattacked\nIran\non\nFeb.\n28.\nHe\nhas\nthreatened\nto\nwipe\nout\nIranian\ncivilization\n,\nattacked\nthe\npope\nfor\ncriticizing\nthe\nviolence\nand\noffered\nseemingly\ncontradictory\nvisions\nof\nhow\nthe\nwar\nmight\nunfold.\nThe\npresident’s\nremarks\ncould\nshape\nthe\nnarrative\naround\nthe\npeace\ntalks\nin\na\nconflict\nthat\nhas\njolted\nthe\nworld\neconomy\nand\ndamaged\nhis\npopularity\nat\nhome.\nWe\nare\nhaving\ntrouble\nretrieving\nthe\narticle\ncontent.\nPlease\nenable\nJavaScript\nin\nyour\nbrowser\nsettings.\nThank\nyou\nfor\nyour\npatience\nwhile\nwe\nverify\naccess.\nIf\nyou\nare\nin\nReader\nmode\nplease\nexit\nand\nlog\ninto\nyour\nTimes\naccount,\nor\nsubscribe\nfor\nall\nof\nThe\nTimes.\nThank\nyou\nfor\nyour\npatience\nwhile\nwe\nverify\naccess.\nAlready\na\nsubscriber?\nLog\nin\n.\nWant\nall\nof\nThe\nTimes?\nSubscribe\n.\nRelated\nContent\nAdvertisement\nSKIP\nADVERTISEMENT",
+      "sentiment_success": true
+    },
+    {
+      "title": "Tankers move through Hormuz, but Tehran signals strait may close again - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-he-has-good-news-iran-no-clarity-peace-deal-2026-04-18/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 18, 2026 · 01:53 BRT",
+      "pub_date": "2026-04-18",
+      "pub_ts": 1776487980,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Stocks are soaring. But the Iran war’s economic damage is far from over. - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/04/18/iran-oil-stock-market-economy/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Apr 18, 2026 · 07:31 BRT",
+      "pub_date": "2026-04-18",
+      "pub_ts": 1776508313,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
     {
       "title": "How 50 days of the Iran war led to the loss of $50 billion worth of oil - Reuters",
       "url": "https://www.reuters.com/business/energy/how-50-days-iran-war-led-loss-50-billion-worth-oil-2026-04-17/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 17, 2026 · 13:48 BRT",
+      "published": "Apr 17, 2026 · 13:44 BRT",
       "pub_date": "2026-04-17",
-      "pub_ts": 1776444489,
+      "pub_ts": 1776444240,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": true
     },
     {
-      "title": "Iran says Hormuz Strait open after Lebanon deal, Trump expects Iran deal 'soon' - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-should-end-soon-both-sides-may-meet-weekend-2026-04-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 17, 2026 · 02:22 BRT",
-      "pub_date": "2026-04-17",
-      "pub_ts": 1776403320,
+      "title": "Why Iran’s ‘Mosquito Fleet’ Remains a Potent Threat in the Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Apr 18, 2026 · 01:01 BRT",
+      "pub_date": "2026-04-18",
+      "pub_ts": 1776484868,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "nytimes.com"
       ],
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran says Strait of Hormuz is now open amid push to end war - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Apr 17, 2026 · 13:52 BRT",
-      "pub_date": "2026-04-17",
-      "pub_ts": 1776444774,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "War-ending proposal would see Iran hand over uranium stockpile for US release of $20 billion in frozen funds - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/war-ending-proposal-would-see-iran-hand-over-uranium-stockpile-for-us-release-of-20-billion-in-frozen-funds/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Apr 17, 2026 · 10:04 BRT",
-      "pub_date": "2026-04-17",
-      "pub_ts": 1776431073,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": true
     },
     {
       "title": "Iran War Forces America’s Friends in Asia to Court Its Rivals - The New York Times",
@@ -970,34 +993,15 @@
       "published": "Apr 17, 2026 · 03:59 BRT",
       "pub_date": "2026-04-17",
       "pub_ts": 1776409143,
-      "summary": "",
+      "summary": "The severe disruption of oil supplies from the Middle East as a result of the war has prompted South Korea and the Philippines to make deals with Russia and Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US to recover uranium from Iran at a 'leisurely pace', Trump tells Reuters - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-recover-uranium-iran-trump-tells-reuters-2026-04-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 17, 2026 · 13:14 BRT",
-      "pub_date": "2026-04-17",
-      "pub_ts": 1776442442,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "full_text": "The severe disruption of oil supplies from the Middle East as a result of the war has prompted South Korea and the Philippines to make deals with Russia and Iran.",
+      "sentiment_success": true
     }
   ],
   "last_digest_success": true,

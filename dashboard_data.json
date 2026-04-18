@@ -1027,11 +1027,41 @@
       "sentiment": "positive",
       "sentiment_success": true,
       "pub_date": "2026-04-18"
+    },
+    "https://www.cbc.ca/news/world/strait-of-hormuz-blocked-iran-us-9.7169212": {
+      "summary": "The duelling blockades in the Strait of Hormuz lurched into uncharted waters on Saturday as the United States pressed ahead with its campaign to choke off Iranian ports and Iran reversed an initial move to reopen the waterway.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
+    },
+    "https://www.wsj.com/politics/policy/white-house-fields-warnings-about-iran-wars-economic-hit-e1208cf0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-12"
+    },
+    "https://www.nytimes.com/2026/04/12/us/politics/jd-vance-pakistan-iran-war-talks.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-18",
-  "last_generated_time": "2026-04-18T18:01:48.511871+00:00",
+  "last_generated_time": "2026-04-18T19:01:46.880753+00:00",
   "digest": {
     "digest": "Recent developments indicate a complex and fluid situation surrounding the Iran War. President Trump has made numerous claims regarding the imminent end of the conflict and significant concessions from Iran, including the reopening of the Strait of Hormuz. However, Iranian officials have disputed many of these assertions, characterizing some as false and emphasizing that the Strait's openness is conditional and under Iranian supervision. Negotiations appear to be progressing towards a framework agreement, with a potential 60-day negotiation period, though key issues remain unresolved. The economic repercussions of the war continue to be felt globally, with disruptions to oil supplies impacting prices and leading some Asian nations to seek deals with rivals like Russia and Iran. Domestically, there are concerns within Iran about potential government crackdowns and worsening economic conditions following the conflict, despite a temporary ceasefire. China is maintaining a cautious, behind-the-scenes role, wary of entanglement. The US has renewed a sanctions exemption on Russian oil, partly in response to economic pressures stemming from the Iran war. The overall situation remains precarious, with conflicting narratives and underlying tensions persisting.",
     "top_themes": [

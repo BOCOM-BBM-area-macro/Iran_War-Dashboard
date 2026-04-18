@@ -614,7 +614,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-18"
+      "pub_date": "2026-04-17"
     },
     "https://www.wsj.com/economy/global/iran-war-casts-gloom-over-outlook-of-world-finance-ministers-and-investors-df15aaae": {
       "summary": "",
@@ -710,7 +710,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-18"
     },
     "https://www.cbc.ca/news/world/strait-of-hormuz-open-oil-iran-us-israel-middle-east-war-9.7169075": {
       "summary": "Despite assurances from both Iran and the U.S. that the Strait of Hormuz was open to marine traffic, very little appeared to have changed on Friday. Not for the first time in seven weeks of war and tenuous ceasefire, the details of developments have been sparse. Here's what we know and don't know about the movement of shipping through the strait, and the wider effects of all this uncertainty.",
@@ -770,7 +770,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-18"
     },
     "https://www.reuters.com/world/asia-pacific/trump-says-he-has-good-news-iran-no-clarity-peace-deal-2026-04-18/": {
       "summary": "",
@@ -974,11 +974,21 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-18"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-prepares-board-iran-linked-ships-coming-days-wsj-reports-2026-04-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-18",
-  "last_generated_time": "2026-04-18T13:01:42.398886+00:00",
+  "last_generated_time": "2026-04-18T14:01:53.380318+00:00",
   "digest": {
     "digest": "Recent developments indicate a complex and fluid situation surrounding the Iran War. President Trump has made numerous claims regarding the imminent end of the conflict and significant concessions from Iran, including the reopening of the Strait of Hormuz. However, Iranian officials have disputed many of these assertions, characterizing some as false and emphasizing that the Strait's openness is conditional and under Iranian supervision. Negotiations appear to be progressing towards a framework agreement, with a potential 60-day negotiation period, though key issues remain unresolved. The economic repercussions of the war continue to be felt globally, with disruptions to oil supplies impacting prices and leading some Asian nations to seek deals with rivals like Russia and Iran. Domestically, there are concerns within Iran about potential government crackdowns and worsening economic conditions following the conflict, despite a temporary ceasefire. China is maintaining a cautious, behind-the-scenes role, wary of entanglement. The US has renewed a sanctions exemption on Russian oil, partly in response to economic pressures stemming from the Iran war. The overall situation remains precarious, with conflicting narratives and underlying tensions persisting.",
     "top_themes": [

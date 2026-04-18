@@ -529,8 +529,8 @@
         "extracted",
         "timesofisrael.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-04-15"
     },
     "https://www.nytimes.com/2026/04/15/opinion/iran-drone-war.html": {
@@ -717,6 +717,16 @@
       "tags": [
         "extracted",
         "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": true,

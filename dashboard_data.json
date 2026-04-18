@@ -166,8 +166,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-04-17"
     },
     "https://www.reuters.com/business/energy/oil-falls-prospects-talks-end-iran-war-revive-supply-2026-04-17/": {
@@ -741,6 +741,16 @@
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-04-17"
+    },
+    "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
     }
   },
   "last_run_success": true,

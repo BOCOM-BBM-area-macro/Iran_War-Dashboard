@@ -540,7 +540,7 @@
         "nytimes.com"
       ],
       "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment_success": true,
       "pub_date": "2026-04-15"
     },
     "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel": {
@@ -747,6 +747,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
+    },
+    "https://www.washingtonpost.com/world/2026/04/18/iran-us-war-families-children-displacement-stress/4c8580a4-3ae5-11f1-90c4-9772c7fabc03_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "negative",
       "sentiment_success": true,

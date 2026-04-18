@@ -128,7 +128,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-18"
     },
     "https://www.reuters.com/world/asia-pacific/iran-war-spurs-rubber-glove-price-hikes-raising-caution-hospitals-2026-04-17/": {
       "summary": "",
@@ -727,6 +727,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.reuters.com/business/energy/us-extends-waiver-allowing-countries-buy-russian-oil-2026-04-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": true,

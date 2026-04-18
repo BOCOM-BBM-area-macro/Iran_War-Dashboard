@@ -811,6 +811,36 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-18"
+    },
+    "https://www.washingtonpost.com/world/2026/04/18/china-iran-war-xi-trump/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
+    },
+    "https://www.washingtonpost.com/business/2026/04/18/iran-oil-stock-market-economy/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-18/nigeria-maintains-single-digit-inflation-target-despite-iran-war-pains": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
     }
   },
   "last_run_success": true,

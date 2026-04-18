@@ -761,6 +761,26 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-18"
+    },
+    "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-04-17"
+    },
+    "https://www.reuters.com/world/asia-pacific/trump-says-he-has-good-news-iran-no-clarity-peace-deal-2026-04-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
     }
   },
   "last_run_success": true,

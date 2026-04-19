@@ -1123,6 +1123,36 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-18"
+    },
+    "https://www.wsj.com/politics/national-security/trump-public-bravado-private-fear-59814dca": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
+    },
+    "https://www.reuters.com/sustainability/boards-policy-regulation/bangladesh-raises-fuel-prices-iran-war-drives-up-costs-2026-04-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
+    },
+    "https://www.nytimes.com/2026/04/14/world/middleeast/xi-iran-war-china.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-14"
     }
   },
   "last_run_success": true,

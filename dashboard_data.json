@@ -870,7 +870,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-18"
+      "pub_date": "2026-04-19"
     },
     "https://www.ft.com/content/4e163a6e-c151-47da-9e3a-35ce5cd0dd06": {
       "summary": "",
@@ -1153,6 +1153,26 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-14"
+    },
+    "https://www.ft.com/content/08629b39-9d82-4046-a1b9-3023009ffa81?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-19"
+    },
+    "https://www.wsj.com/opinion/the-iran-war-is-a-boon-for-the-petrodollar-bbcad6e7": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-04-12"
     }
   },
   "last_run_success": true,

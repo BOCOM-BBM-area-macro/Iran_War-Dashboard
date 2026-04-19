@@ -1196,6 +1196,26 @@
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-04-19"
+    },
+    "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-19"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/wsj-trumps-iran-war-decisions-social-media-posts-are-improvised-he-screamed-at-aides-for-hours-when-jet-shot-down/": {
+      "summary": "* * *",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-19"
     }
   },
   "last_run_success": true,

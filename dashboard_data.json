@@ -1173,6 +1173,16 @@
       "sentiment": "positive",
       "sentiment_success": true,
       "pub_date": "2026-04-12"
+    },
+    "https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-yonhap-news-says-2026-04-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
     }
   },
   "last_run_success": true,

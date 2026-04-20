@@ -1135,7 +1135,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-18"
     },
     "https://www.reuters.com/sustainability/boards-policy-regulation/bangladesh-raises-fuel-prices-iran-war-drives-up-costs-2026-04-19/": {
       "summary": "",
@@ -1484,7 +1484,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-20"
     },
     "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html": {
       "summary": "",
@@ -1494,13 +1494,16 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-20"
     },
     "https://www.bloomberg.com/news/articles/2026-04-20/asia-hedge-funds-log-big-losses-from-iran-war-before-truce-rally": {
-      "summary": "",
+      "summary": "To see how Asian hedge funds got blindsided by the Iran war, look no further than Trivest Advisors Ltd.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Hedge Funds",
+        "War",
+        "ASTIGNES CAPITAL ASIA PTE LT",
+        "Iran",
+        "Asia"
       ],
       "sentiment": "negative",
       "sentiment_success": true,
@@ -1597,10 +1600,13 @@
       "pub_date": "2026-04-20"
     },
     "https://www.bloomberg.com/opinion/articles/2026-04-20/iran-war-logic-demands-an-iran-deal-will-trump-s-fantasies-allow-one": {
-      "summary": "",
+      "summary": "In the logical world that markets seem to believe will prevail in the Middle East, this war will end — and soon — because there’s little realistic prospect of either side winning a decisive victory by restarting the conflict. The costs of trying, meanwhile, range from punitive to ruinous.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "War",
+        "Donald John Trump",
+        "Middle East",
+        "Israel"
       ],
       "sentiment": "negative",
       "sentiment_success": true,
@@ -1621,6 +1627,39 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.reuters.com/world/india/gold-falls-stronger-dollar-amid-renewed-us-iran-tensions-2026-04-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-20/iran-war-deepens-china-s-dependence-on-the-us-for-niche-gas": {
+      "summary": "China is set to import a record volume of US ethane this month as petrochemical producers seek alternative feedstocks for their operations after the war in the Middle East choked off crucial supplies.",
+      "tags": [
+        "China",
+        "Trade War",
+        "Iran",
+        "Middle East",
+        "WANHUA CHEMICAL GROUP CO -A"
       ],
       "sentiment": "negative",
       "sentiment_success": true,

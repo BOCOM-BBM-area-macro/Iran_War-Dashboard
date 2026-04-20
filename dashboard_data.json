@@ -1535,6 +1535,36 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-19"
+    },
+    "https://www.axios.com/2026/04/19/oil-prices-us-iran-war-strait-hormuz-ship-seized": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-19"
+    },
+    "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-15"
+    },
+    "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-15"
     }
   },
   "last_run_success": true,

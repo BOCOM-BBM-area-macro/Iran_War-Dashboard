@@ -634,6 +634,7 @@ def fetch_commodity_prices(cfg: dict) -> list[dict]:
     commodities_data = []
     print(f" Fetching commodity trajectories for 1y period...")
 
+    # First pass: Fetch all data and calculate individual metrics
     for item in cfg["commodities"].get("items", []):
         name = item.get("name")
         symbol = item.get("symbol")
@@ -653,10 +654,6 @@ def fetch_commodity_prices(cfg: dict) -> list[dict]:
 
             df = df.sort_index()
             
-            all_labels = [d.strftime("%Y-%m-%d") for d in df.index]
-            all_values = [round(float(p), 2) for p in df['Close']]
-            all_timestamps = [int(d.timestamp() * 1000) for d in df.index]
-
             days_map = {"1d": 1, "7d": 7, "30d": 30}
             lookback_days = days_map.get(period_str, 7)
             
@@ -683,23 +680,41 @@ def fetch_commodity_prices(cfg: dict) -> list[dict]:
                 "peak_price": round(peak_price, 2),
                 "change_pct": round(change_pct, 2),
                 "trend": trend,
-                "history_labels": all_labels,
-                "history_values": all_values,
-                "history_timestamps": all_timestamps,
+                "df": df[["Close"]].rename(columns={"Close": name}), # Store DF for alignment
                 "period_label": period_str
             })
         except Exception as exc:
             print(f" Failed to fetch {name}: {exc}")
 
+    if not commodities_data:
+        return []
+
+    # Second pass: Align all historical trajectories onto a common timeline
+    all_dfs = [c["df"] for c in commodities_data]
+    merged_df = pd.concat(all_dfs, axis=1).sort_index()
+    merged_df = merged_df.ffill().bfill()
+    
+    global_labels = [d.strftime("%Y-%m-%d") for d in merged_df.index]
+    global_timestamps = [int(d.timestamp() * 1000) for d in merged_df.index]
+    
+    for c in commodities_data:
+        name = c["name"]
+        values = [round(float(p), 2) for p in merged_df[name]]
+        c["history_labels"] = global_labels
+        c["history_values"] = values
+        c["history_timestamps"] = global_timestamps
+        # Remove the helper DF before returning
+        del c["df"]
+
     return commodities_data
 
 
 def fetch_commodity_intraday(cfg: dict) -> list[dict]:
-    """Fetch intraday (2-minute) price data for the last 1 month."""
+    """Fetch intraday (2-minute) price data for the last 1 month and align them onto a common timeline."""
     if not cfg["commodities"].get("enabled", True):
         return []
 
-    intraday_data = []
+    raw_data_list = []
     print(" Fetching intraday 2-minute commodity prices (1-month window)...")
 
     for item in cfg["commodities"].get("items", []):
@@ -722,30 +737,57 @@ def fetch_commodity_intraday(cfg: dict) -> list[dict]:
                 continue
 
             df = df.sort_index()
-            labels = [d.strftime("%b %d %H:%M") for d in df.index]
-            timestamps = [int(d.timestamp() * 1000) for d in df.index]
-            values = [round(float(p), 2) for p in df["Close"]]
-
-            base = values[0] if values[0] != 0 else 1
-            pct_values = [round((v - base) / base * 100, 4) for v in values]
-
-            latest = values[-1]
-            change_pct = round((latest - values[0]) / values[0] * 100, 2)
-
-            intraday_data.append({
-                "name": name,
-                "code": symbol,
-                "latest_price": latest,
-                "change_pct": change_pct,
-                "labels": labels,
-                "timestamps": timestamps,
-                "raw_values": values,
-                "pct_values": pct_values,
+            # We only need the Close price for the merged view
+            df_close = df[["Close"]].rename(columns={"Close": name})
+            raw_data_list.append({
+                "name": name, 
+                "symbol": symbol, 
+                "df": df_close,
+                "original_df": df # Keep for absolute price charts
             })
         except Exception as exc:
             print(f" Failed intraday fetch for {name}: {exc}")
 
-    return intraday_data
+    if not raw_data_list:
+        return []
+
+    # Merge all into one common timeline using pandas to ensure alignment
+    all_dfs = [r["df"] for r in raw_data_list]
+    merged_df = pd.concat(all_dfs, axis=1).sort_index()
+    
+    # Fill gaps to ensure continuous lines and prevent misalignment due to different trading hours
+    merged_df = merged_df.ffill().bfill()
+    
+    global_labels = [d.strftime("%b %d %H:%M") for d in merged_df.index]
+    global_timestamps = [int(d.timestamp() * 1000) for d in merged_df.index]
+    
+    aligned_data = []
+    for r in raw_data_list:
+        name = r["name"]
+        symbol = r["symbol"]
+        values = [round(float(p), 2) for p in merged_df[name]]
+        
+        # Calculate percentage changes relative to the start of the visible period
+        base = values[0] if values[0] != 0 else 1
+        pct_values = [round((v - base) / base * 100, 4) for v in values]
+        
+        # Use the original DF for accurate metadata (latest price, change pct)
+        orig_df = r["original_df"]
+        latest = float(orig_df["Close"].iloc[-1])
+        change_pct = round((latest - float(orig_df["Close"].iloc[0])) / float(orig_df["Close"].iloc[0]) * 100, 2)
+        
+        aligned_data.append({
+            "name": name,
+            "code": symbol,
+            "latest_price": round(latest, 2),
+            "change_pct": change_pct,
+            "labels": global_labels, # Common labels
+            "timestamps": global_timestamps, # Common timestamps
+            "raw_values": values, # Aligned raw values
+            "pct_values": pct_values, # Aligned percentage values
+        })
+        
+    return aligned_data
 
 
 def fetch_trade_tracker_data(cfg: dict) -> list[dict]:

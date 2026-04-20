@@ -1565,6 +1565,26 @@
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-04-15"
+    },
+    "https://www.reuters.com/world/asia-pacific/world-weighs-fate-mideast-ceasefire-after-us-seizes-iranian-cargo-ship-2026-04-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-20/us-opens-record-drills-with-philippines-as-iran-war-rattles-allies": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-19"
     }
   },
   "last_run_success": true,

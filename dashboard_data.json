@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-18"
     },
     "https://www.axios.com/2026/04/16/trump-iran-war-powers-vote-fails-democrats": {
       "summary": "",
@@ -1484,7 +1484,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-19"
     },
     "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html": {
       "summary": "",
@@ -1577,7 +1577,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-20"
     },
     "https://www.bloomberg.com/news/articles/2026-04-20/us-opens-record-drills-with-philippines-as-iran-war-rattles-allies": {
       "summary": "",
@@ -1664,6 +1664,16 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-20"
+    },
+    "https://www.reuters.com/business/finance/national-australia-bank-flags-503-million-impairment-hit-mideast-volatility-2026-04-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-19"
     }
   },
   "last_run_success": true,

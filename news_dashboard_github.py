@@ -418,6 +418,25 @@ def save_stored_data(data: dict):
 def get_brt_now():
     return datetime.now(timezone.utc) - timedelta(hours=3)
 
+def format_generated_at(dt_utc=None):
+    if dt_utc is None:
+        return "N/A"
+    
+    if isinstance(dt_utc, str):
+        if not dt_utc or dt_utc == "N/A":
+            return "N/A"
+        try:
+            dt_utc = datetime.fromisoformat(dt_utc)
+            if dt_utc.tzinfo is None:
+                dt_utc = dt_utc.replace(tzinfo=timezone.utc)
+        except:
+            return dt_utc
+            
+    utc_str = dt_utc.strftime('%b %d, %Y  %H:%M UTC')
+    brt_dt = dt_utc - timedelta(hours=3)
+    brt_str = brt_dt.strftime('%H:%M BRT')
+    return f"{utc_str} / {brt_str}"
+
 # -- favicon_url ---------------------------------------------------------------
 def favicon_url(article_url: str) -> str:
     domain = domain_from_url(article_url)
@@ -2016,7 +2035,7 @@ def identify_things_to_watch(articles: list[dict], cfg: dict) -> tuple[list, boo
 
 
 
-def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], hormuz_historical: list[dict], hormuz_vessels: list[dict], hormuz_snapshots: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], infra_damage_data: list[dict], themed_news: list[dict], digest: dict, cfg: dict, offline_assets: dict = None) -> str:
+def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], hormuz_historical: list[dict], hormuz_vessels: list[dict], hormuz_snapshots: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], infra_damage_data: list[dict], themed_news: list[dict], digest: dict, cfg: dict, offline_assets: dict = None, digest_time=None, watch_time=None, relevant_time=None) -> str:
     env = Environment(autoescape=True)
     
     def _safe_tojson(d):
@@ -2351,7 +2370,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div style="display: flex; align-items: center; gap: 12px; margin-top: 4px;">
             <span class="topic-badge">{{ topic }}</span>
             <span style="font-size: 11px; color: var(--muted); background: rgba(255,255,255,0.03); padding: 4px 10px; border-radius: 4px; border: 1px solid var(--border);">
-                    AI-Generated Summaries · {{ generated_at }}
+                    AI-Generated Summaries · {{ ai_generated_at }}
             </span>
     </div> </div>
     <div class="header-right">
@@ -2396,7 +2415,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div class="main-feed">
     {% if relevant_news %}
     <div class="widget" style="background: var(--surface); border: 1px solid var(--border); margin-bottom: 24px;">
-    <div class="widget-title" style="color: var(--accent); border-bottom: 1px solid var(--accent); margin-bottom: 15px;">Top Stories (Selected by AI) - {{ generated_at }}</div>
+    <div class="widget-title" style="color: var(--accent); border-bottom: 1px solid var(--accent); margin-bottom: 15px;">Top Stories (Selected by AI) - {{ relevant_generated_at }}</div>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px;">
     {% for art in relevant_news %}
     <div style="border-left: 2px solid var(--accent); padding-left: 12px;">
@@ -2409,7 +2428,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% endif %}
 
     <div class="digest-card">
-    <h2>Daily AI Briefing - {{ generated_at }}</h2>
+    <h2>Daily AI Briefing - {{ digest_generated_at }}</h2>
     <p class="digest-text">{{ digest.digest }}</p>
     </div>
 
@@ -2491,7 +2510,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
 
     <div class="widget" style="background: transparent; border: none; padding: 0;">
-    <div class="widget-title" style="padding-left: 0;">Things to watch - {{ generated_at }}</div>
+    <div class="widget-title" style="padding-left: 0;">Things to watch - {{ watch_generated_at }}</div>
     {% for event in digest.next_events %}
     <div class="event-card">
     <div class="event-num">{{ loop.index }}</div>
@@ -4350,11 +4369,19 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
     conflict_start = datetime(2026, 2, 28, tzinfo=timezone.utc)
     conflict_days = (datetime.now(timezone.utc) - conflict_start).days
 
+    # Calculate overall AI generation time (latest of all features)
+    ai_times = [t for t in [digest_time, watch_time, relevant_time] if t and t != "N/A"]
+    latest_ai_iso = max(ai_times) if ai_times else None
+
     context = dict(
         title=dash["title"],
         topic=dash["topic"],
         period=dash["period"],
-        generated_at=f"{datetime.now(timezone.utc).strftime('%b %d, %Y  %H:%M UTC')} / {(datetime.now(timezone.utc) - timedelta(hours=3)).strftime('%H:%M BRT')}",
+        generated_at=format_generated_at(datetime.now(timezone.utc)), # Dashboard generation time
+        ai_generated_at=format_generated_at(latest_ai_iso),
+        digest_generated_at=format_generated_at(digest_time),
+        watch_generated_at=format_generated_at(watch_time),
+        relevant_generated_at=format_generated_at(relevant_time),
         conflict_days=conflict_days,
         articles=articles,
         relevant_news=relevant_news,
@@ -4480,6 +4507,11 @@ def main():
         "top_themes": [],
         "next_events": []
     })
+    
+    # Load feature timestamps
+    digest_time = stored_data.get("last_digest_time")
+    watch_time = stored_data.get("last_watch_time")
+    relevant_time = stored_data.get("last_relevant_time")
 
     if cfg["llm"].get("enabled", True):
         # Sentiment always runs (with cache) if LLM is enabled
@@ -4493,6 +4525,8 @@ def main():
                 digest["digest"] = digest_data["digest"]
                 digest["top_themes"] = digest_data["top_themes"]
                 stored_data["last_digest_success"] = True
+                stored_data["last_digest_time"] = datetime.now(timezone.utc).isoformat()
+                digest_time = stored_data["last_digest_time"]
                 print(" Executive Digest updated.")
             else:
                 stored_data["last_digest_success"] = False
@@ -4506,6 +4540,8 @@ def main():
             if ok:
                 digest["next_events"] = next_events
                 stored_data["last_watch_success"] = True
+                stored_data["last_watch_time"] = datetime.now(timezone.utc).isoformat()
+                watch_time = stored_data["last_watch_time"]
                 print(" Things to Watch updated.")
             else:
                 stored_data["last_watch_success"] = False
@@ -4520,6 +4556,8 @@ def main():
                 relevant_news = relevant_news_result
                 stored_data["relevant_news"] = relevant_news
                 stored_data["last_relevant_success"] = True
+                stored_data["last_relevant_time"] = datetime.now(timezone.utc).isoformat()
+                relevant_time = stored_data["last_relevant_time"]
                 print(" Relevant News updated.")
             else:
                 stored_data["last_relevant_success"] = False
@@ -4556,7 +4594,8 @@ def main():
         articles, relevant_news, commodities, intraday_commodities,
         trade_data, hormuz_historical, hormuz_vessels, hormuz_snapshots,
         missile_data, ais_data, gdelt_data, refinery_data, infra_damage_data,
-        themed_news, digest, cfg, offline_assets
+        themed_news, digest, cfg, offline_assets,
+        digest_time=digest_time, watch_time=watch_time, relevant_time=relevant_time
     )
 
     out_path.write_text(html, encoding="utf-8")

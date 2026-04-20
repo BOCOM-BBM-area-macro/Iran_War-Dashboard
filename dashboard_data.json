@@ -1135,7 +1135,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-20"
     },
     "https://www.reuters.com/sustainability/boards-policy-regulation/bangladesh-raises-fuel-prices-iran-war-drives-up-costs-2026-04-19/": {
       "summary": "",
@@ -1580,14 +1580,17 @@
       "pub_date": "2026-04-20"
     },
     "https://www.bloomberg.com/news/articles/2026-04-20/us-opens-record-drills-with-philippines-as-iran-war-rattles-allies": {
-      "summary": "",
+      "summary": "The US on Monday kicked off its major annual joint Indo-Pacific military drills in the Philippines, seeking to reassure allies of its regional defense commitments while embroiled in a war with Iran.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "China",
+        "Asia",
+        "Iran",
+        "Philippines",
+        "Military"
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-20"
     },
     "https://www.reuters.com/world/asia-pacific/bank-indonesia-hold-rates-475-through-2026-iran-war-fuels-inflation-risks-2026-04-20/": {
       "summary": "",
@@ -1673,7 +1676,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-20"
     },
     "https://www.ft.com/content/12ae430c-2909-4b1c-b121-7376dce76fa3?syn-25a6b1a6=1": {
       "summary": "",
@@ -1692,6 +1695,16 @@
         "bloomberg.com"
       ],
       "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.reuters.com/business/value-global-dealmaking-recovers-firms-pursue-big-transactions-after-iran-war-2026-04-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "positive",
       "sentiment_success": true,
       "pub_date": "2026-04-20"
     }

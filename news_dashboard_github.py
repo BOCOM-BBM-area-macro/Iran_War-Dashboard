@@ -38,21 +38,57 @@ except ImportError:
 
 # -- asset management for offline use ------------------------------------------
 
-def fetch_asset(url: str, is_binary: bool = False):
-    """Fetch an asset from a URL and return it as text or base64 encoded string."""
+ASSETS_DIR = Path("assets_cache")
+ASSETS_DIR.mkdir(exist_ok=True)
+
+def fetch_asset(url: str, is_binary: bool = False, cache_key: str = None):
+    """Fetch an asset from a URL and return it as text or base64 encoded string.
+    Caches to ASSETS_DIR to ensure stability in protected environments.
+    """
+    if not cache_key:
+        cache_key = url.split("/")[-1].split("?")[0]
+        if not cache_key or len(cache_key) < 3:
+            import hashlib
+            cache_key = hashlib.md5(url.encode()).hexdigest()
+    
+    cache_path = ASSETS_DIR / f"{cache_key}.{'bin' if is_binary else 'txt'}"
+    
+    # Try loading from cache first if generation environment is restricted
+    if cache_path.exists():
+        try:
+            if is_binary:
+                return base64.b64encode(cache_path.read_bytes()).decode('utf-8')
+            return cache_path.read_text(encoding="utf-8")
+        except Exception as e:
+            print(f"  Error reading cache for {cache_key}: {e}")
+
     print(f" Fetching asset: {url[:60]}...")
     try:
         # Using a more descriptive User-Agent for Wikimedia Maps compliance
         headers = {'User-Agent': 'NewsDashboard/1.0 (https://github.com/brunodalben/iran-war-dashboard)'}
-        response = requests.get(url, timeout=15, headers=headers)
-        if response.status_code == 200:
-            if is_binary:
-                return base64.b64encode(response.content).decode('utf-8')
-            return response.text
-        else:
-            print(f"  Failed to fetch asset [{response.status_code}]")
+        # Try multiple times for robustness
+        for attempt in range(2):
+            try:
+                response = requests.get(url, timeout=15, headers=headers)
+                if response.status_code == 200:
+                    # Save to cache
+                    if is_binary:
+                        cache_path.write_bytes(response.content)
+                        return base64.b64encode(response.content).decode('utf-8')
+                    else:
+                        cache_path.write_text(response.text, encoding="utf-8")
+                        return response.text
+                elif response.status_code == 429:
+                    time.sleep(2) # Backoff
+                else:
+                    print(f"  Failed to fetch asset [{response.status_code}]")
+                    break
+            except Exception:
+                if attempt == 1: raise
+                time.sleep(1)
     except Exception as e:
-        print(f"  Error fetching asset: {e}")
+        print(f"  Error fetching asset {url[:40]}: {e}")
+    
     return None
 
 def tile_bounds(x, y, zoom):
@@ -69,51 +105,83 @@ def tile_bounds(x, y, zoom):
     lat_b = y_to_lat(y + 1)
     return [[lat_b, lon_l], [lat_t, lon_r]]
 
-def latlon_to_tile(lat, lon, zoom):
-    """Convert Lat/Lon to OSM tile coordinates X, Y."""
-    lat_rad = math.radians(lat)
-    n = 2.0 ** zoom
-    xtile = int((lon + 180.0) / 360.0 * n)
-    ytile = int((1.0 - math.log(math.tan(lat_rad) + (1 / math.cos(lat_rad))) / math.pi) / 2.0 * n)
-    return xtile, ytile
-
 def get_offline_assets():
-    """Download and prepare Leaflet, Chart.js and static fallback maps for the dashboard."""
+    """Download and prepare Leaflet, Chart.js and static fallback maps for the dashboard.
+    Includes regional overview and detailed Gulf zoom levels.
+    """
     
-    # Regional Overview tiles (Lon 45W-90E, Lat 0-66) at Zoom 3.
-    # This covers Screenshot 1 area (Morocco to India) with higher granularity.
+    # World Overview tiles (Zoom 1) - Global coverage
+    world_tiles = [
+        {"id": "w1", "x": 0, "y": 0, "z": 1},
+        {"id": "w2", "x": 1, "y": 0, "z": 1},
+        {"id": "w3", "x": 0, "y": 1, "z": 1},
+        {"id": "w4", "x": 1, "y": 1, "z": 1}
+    ]
+
+    # Zoom 2 tiles for better global overview
+    world_tiles_z2 = [
+        {"id": "w2_1", "x": 1, "y": 1, "z": 2}, # Europe/Africa
+        {"id": "w2_2", "x": 2, "y": 1, "z": 2}, # Asia/Middle East
+    ]
+
+    # Regional Overview tiles (Zoom 3)
     reg_tiles = [
-        {"id": "r1", "x": 3, "y": 1, "z": 3}, # Lon 45W-0, Lat 45-66 (West Europe/North Atlantic)
-        {"id": "r2", "x": 4, "y": 1, "z": 3}, # Lon 0-45E, Lat 45-66 (Europe/Russia)
-        {"id": "r3", "x": 5, "y": 1, "z": 3}, # Lon 45-90E, Lat 45-66 (Central Asia)
-        {"id": "r4", "x": 3, "y": 2, "z": 3}, # Lon 45W-0, Lat 22-45 (Morocco/Algeria/Spain)
-        {"id": "r5", "x": 4, "y": 2, "z": 3}, # Lon 0-45E, Lat 22-45 (Mediterranean/Egypt/Iraq)
-        {"id": "r6", "x": 5, "y": 2, "z": 3}, # Lon 45-90E, Lat 22-45 (Iran/Pakistan/India North)
-        {"id": "r7", "x": 3, "y": 3, "z": 3}, # Lon 45W-0, Lat 0-22 (West Africa)
-        {"id": "r8", "x": 4, "y": 3, "z": 3}, # Lon 0-45E, Lat 0-22 (Central Africa/Saudi South)
-        {"id": "r9", "x": 5, "y": 3, "z": 3}  # Lon 45-90E, Lat 0-22 (Oman/India South/Arabian Sea)
+        {"id": "r1", "x": 3, "y": 1, "z": 3}, 
+        {"id": "r2", "x": 4, "y": 1, "z": 3}, 
+        {"id": "r3", "x": 5, "y": 1, "z": 3}, 
+        {"id": "r4", "x": 3, "y": 2, "z": 3}, 
+        {"id": "r5", "x": 4, "y": 2, "z": 3}, 
+        {"id": "r6", "x": 5, "y": 2, "z": 3}, 
+        {"id": "r7", "x": 3, "y": 3, "z": 3}, 
+        {"id": "r8", "x": 4, "y": 3, "z": 3}, 
+        {"id": "r9", "x": 5, "y": 3, "z": 3}
     ]
     
-    # Detail View tiles (Lon 45-90E, Lat 0-41) at Zoom 4 for maximum granularity in the Gulf.
-    # This covers Screenshot 2 area (Persian Gulf) with high-res labels.
-    hor_tiles = [
-        {"id": "h1", "x": 10, "y": 6, "z": 4}, # Lon 45-67.5, Lat 22-41 (Iran/Gulf/Iraq)
-        {"id": "h2", "x": 11, "y": 6, "z": 4}, # Lon 67.5-90, Lat 22-41 (Pakistan/Afgh.)
-        {"id": "h3", "x": 10, "y": 7, "z": 4}, # Lon 45-67.5, Lat 0-22 (Oman/Yemen/UAE)
-        {"id": "h4", "x": 11, "y": 7, "z": 4}  # Lon 67.5-90, Lat 0-22 (India/Arabian Sea)
+    # Detail View tiles (Zoom 4)
+    hor_tiles_z4 = [
+        {"id": "h4_1", "x": 10, "y": 6, "z": 4}, 
+        {"id": "h4_2", "x": 11, "y": 6, "z": 4}, 
+        {"id": "h4_3", "x": 10, "y": 7, "z": 4}, 
+        {"id": "h4_4", "x": 11, "y": 7, "z": 4}
+    ]
+    
+    # Enhanced Detail View tiles (Zoom 5) - Strait of Hormuz area
+    hor_tiles_z5 = [
+        {"id": "h5_1", "x": 20, "y": 12, "z": 5},
+        {"id": "h5_2", "x": 21, "y": 12, "z": 5},
+        {"id": "h5_3", "x": 20, "y": 13, "z": 5},
+        {"id": "h5_4", "x": 21, "y": 13, "z": 5},
+        {"id": "h5_5", "x": 20, "y": 14, "z": 5},
+        {"id": "h5_6", "x": 21, "y": 14, "z": 5}
+    ]
+    
+    # High-Res Detail View tiles (Zoom 6) - Concentrated on Hormuz/Gulf
+    hor_tiles_z6 = [
+        {"id": "h6_1", "x": 40, "y": 24, "z": 6}, {"id": "h6_2", "x": 41, "y": 24, "z": 6},
+        {"id": "h6_3", "x": 42, "y": 24, "z": 6}, {"id": "h6_4", "x": 43, "y": 24, "z": 6},
+        {"id": "h6_5", "x": 40, "y": 25, "z": 6}, {"id": "h6_6", "x": 41, "y": 25, "z": 6},
+        {"id": "h6_7", "x": 42, "y": 25, "z": 6}, {"id": "h6_8", "x": 43, "y": 25, "z": 6},
+        {"id": "h6_9", "x": 40, "y": 26, "z": 6}, {"id": "h6_10", "x": 41, "y": 26, "z": 6},
+        {"id": "h6_11", "x": 42, "y": 26, "z": 6}, {"id": "h6_12", "x": 43, "y": 26, "z": 6},
+        {"id": "h6_13", "x": 40, "y": 27, "z": 6}, {"id": "h6_14", "x": 41, "y": 27, "z": 6},
+        {"id": "h6_15", "x": 42, "y": 27, "z": 6}, {"id": "h6_16", "x": 43, "y": 27, "z": 6}
     ]
 
     assets = {
-        "leaflet_js": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"),
-        "leaflet_css": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"),
-        "chart_js": fetch_asset("https://cdn.jsdelivr.net/npm/chart.js"),
+        "leaflet_js": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js", cache_key="leaflet_js"),
+        "leaflet_css": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css", cache_key="leaflet_css"),
+        "chart_js": fetch_asset("https://cdn.jsdelivr.net/npm/chart.js", cache_key="chart_js"),
+        "leaflet_marker_icon": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png", is_binary=True, cache_key="marker_icon"),
+        "leaflet_marker_shadow": fetch_asset("https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png", is_binary=True, cache_key="marker_shadow"),
     }
 
-    for t in reg_tiles + hor_tiles:
+    all_tiles = world_tiles + world_tiles_z2 + reg_tiles + hor_tiles_z4 + hor_tiles_z5 + hor_tiles_z6
+    for t in all_tiles:
         key = f"static_map_{t['id']}"
         assets[key] = fetch_asset(
             f"https://a.basemaps.cartocdn.com/dark_all/{t['z']}/{t['x']}/{t['y']}@2x.png", 
-            is_binary=True
+            is_binary=True,
+            cache_key=key
         )
         assets[f"{key}_bounds"] = tile_bounds(t['x'], t['y'], t['z'])
 
@@ -2356,6 +2424,36 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     background-color: #0a0c10;
 }
 
+.map-error {
+    background: var(--surface);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius);
+}
+
+.map-status-note {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    z-index: 1000;
+    background: rgba(0,0,0,0.6);
+    color: #fff;
+    padding: 2px 8px;
+    font-size: 9px;
+    border-radius: 3px;
+    pointer-events: none;
+}
+
+/* Hide broken tiles in restricted environments */
+.leaflet-tile-container img {
+    background-color: var(--bg);
+}
+.leaflet-tile-pane img {
+    visibility: hidden;
+}
+.leaflet-tile-loaded {
+    visibility: visible !important;
+}
+
 /* ── Mobile Responsiveness ── */
 @media (max-width: 1200px) {
     .theme-grid { grid-template-columns: 1fr !important; }
@@ -3004,6 +3102,30 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
 </div>
 
 <script>
+/* CDN & Restricted Environment Detection */
+(function() {
+    // Detect if we are in a known restricted environment (Citrix, corporate proxy)
+    const isRestricted = /citrix|workspace|proxy/i.test(navigator.userAgent) || 
+                         window.location.hostname === '' || 
+                         window.location.protocol === 'file:';
+    
+    if (isRestricted) {
+        console.log("Restricted environment detected, prioritizing offline assets.");
+    }
+
+    // Global error handler for script loading failures
+    window.addEventListener('error', function(e) {
+        if (e.target && (e.target.src || e.target.href)) {
+            const url = e.target.src || e.target.href;
+            if (url.indexOf('unpkg.com') > -1 || url.indexOf('jsdelivr.net') > -1) {
+                console.warn("CDN blocked: " + url + ". Switching to embedded assets.");
+                // We can't easily 'switch' once the tag failed, but our logic handles L === undefined
+            }
+        }
+    }, true);
+})();
+</script>
+<script>
 let activeSentiment = 'all';
 let activeTag = null;
 let activeDates = new Set(['all']);
@@ -3041,6 +3163,7 @@ function initHormuzMap() {
     hormuzMap = L.map('hormuz-map').setView([26.7, 56.3], 8);
     
     // Add high-priority static fallback from local storage (base64)
+    let offlineCount = 0;
     {% for part in hor_parts %}
     {% set img_key = 'static_map_' ~ part %}
     {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
@@ -3050,14 +3173,27 @@ function initHormuzMap() {
         zIndex: 1,
         alt: 'Map Part {{ part }}'
     }).addTo(hormuzMap);
+    offlineCount++;
     {% endif %}
     {% endfor %}
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; CARTO',
-    subdomains: 'abcd',
-    maxZoom: 20
+    const arcgisUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+    const liveLayer = L.tileLayer(arcgisUrl, {
+        attribution: '&copy; Esri',
+        maxZoom: 16
     }).addTo(hormuzMap);
+
+    const statusNote = document.createElement('div');
+    statusNote.className = 'map-status-note';
+    statusNote.innerText = `Mode: Hybrid | Layers: ${offlineCount} offline`;
+    hormuzMap.getContainer().appendChild(statusNote);
+
+    liveLayer.on('tileerror', function() {
+        statusNote.innerText = 'Live Map Blocked - Using Offline Fallback';
+        statusNote.style.color = '#ff9800';
+    });
+    
+    setTimeout(() => { hormuzMap.invalidateSize(); }, 200);
 
     // Initialize with latest snapshot
     if (HORMUZ_SNAPSHOTS && HORMUZ_SNAPSHOTS.length > 0) {
@@ -3139,9 +3275,21 @@ function focusHormuzShip(lat, lon, name) {
 function initMap() {
     if (map) return;
     
+    // Fix Leaflet default icon path if assets are embedded
+    {% if offline_assets and offline_assets.leaflet_marker_icon %}
+    delete L.Icon.Default.prototype._getIconUrl;
+    L.Icon.Default.mergeOptions({
+        iconRetinaUrl: 'data:image/png;base64,{{ offline_assets.leaflet_marker_icon }}',
+        iconUrl: 'data:image/png;base64,{{ offline_assets.leaflet_marker_icon }}',
+        shadowUrl: 'data:image/png;base64,{{ offline_assets.leaflet_marker_shadow }}',
+    });
+    {% endif %}
+
     // Default center for Strait of Hormuz
     map = L.map('map').setView([26.7, 56.3], 8);
     
+    // Add high-priority static fallback from local storage (base64)
+    let offlineCount = 0;
     {% for part in hor_parts %}
     {% set img_key = 'static_map_' ~ part %}
     {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
@@ -3151,14 +3299,31 @@ function initMap() {
         zIndex: 1,
         alt: 'Map Part {{ part }}'
     }).addTo(map);
+    offlineCount++;
     {% endif %}
     {% endfor %}
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    subdomains: 'abcd',
-    maxZoom: 20
+    // Corporate-safe live map fallback (ArcGIS often bypasses Citrix filters)
+    const arcgisUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+    const cartoUrl = 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png';
+    
+    const liveLayer = L.tileLayer(arcgisUrl, {
+        attribution: '&copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
+        maxZoom: 16
     }).addTo(map);
+
+    // Diagnostic status note
+    const statusNote = document.createElement('div');
+    statusNote.className = 'map-status-note';
+    statusNote.innerText = `Mode: ${offlineCount > 0 ? 'Hybrid' : 'Live Only'} | Layers: ${offlineCount} offline`;
+    map.getContainer().appendChild(statusNote);
+
+    liveLayer.on('tileerror', function() {
+        statusNote.innerText = 'Live Map Blocked - Using Offline Fallback';
+        statusNote.style.color = '#ff9800';
+    });
+    
+    setTimeout(() => { map.invalidateSize(); }, 200);
 
     FULL_AIS_DATA.forEach(ship => {
     if (ship.lat && ship.lon) {
@@ -3182,6 +3347,8 @@ function initRefineryMap() {
     
     refineryMap = L.map('refinery-map').setView([27.0, 50.0], 5);
     
+    // Add high-priority static fallback from local storage (base64)
+    let offlineCount = 0;
     {% for part in reg_parts %}
     {% set img_key = 'static_map_' ~ part %}
     {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
@@ -3191,14 +3358,27 @@ function initRefineryMap() {
         zIndex: 1,
         alt: 'Map Part {{ part }}'
     }).addTo(refineryMap);
+    offlineCount++;
     {% endif %}
     {% endfor %}
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    subdomains: 'abcd',
-    maxZoom: 20
+    const arcgisUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+    const liveLayer = L.tileLayer(arcgisUrl, {
+        attribution: '&copy; Esri',
+        maxZoom: 16
     }).addTo(refineryMap);
+
+    const statusNote = document.createElement('div');
+    statusNote.className = 'map-status-note';
+    statusNote.innerText = `Mode: Hybrid | Layers: ${offlineCount} offline`;
+    refineryMap.getContainer().appendChild(statusNote);
+
+    liveLayer.on('tileerror', function() {
+        statusNote.innerText = 'Live Map Blocked - Using Offline Fallback';
+        statusNote.style.color = '#ff9800';
+    });
+    
+    setTimeout(() => { refineryMap.invalidateSize(); }, 200);
 
     FULL_REFINERY_DATA.forEach(ref => {
     if (ref.lat && ref.lon) {
@@ -3271,6 +3451,8 @@ function initInfraMap() {
     
     infraMap = L.map('infra-map').setView([26.0, 50.0], 5);
     
+    // Add high-priority static fallback from local storage (base64)
+    let offlineCount = 0;
     {% for part in reg_parts %}
     {% set img_key = 'static_map_' ~ part %}
     {% set bounds_key = 'static_map_' ~ part ~ '_bounds' %}
@@ -3280,14 +3462,27 @@ function initInfraMap() {
         zIndex: 1,
         alt: 'Map Part {{ part }}'
     }).addTo(infraMap);
+    offlineCount++;
     {% endif %}
     {% endfor %}
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    subdomains: 'abcd',
-    maxZoom: 20
+    const arcgisUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+    const liveLayer = L.tileLayer(arcgisUrl, {
+        attribution: '&copy; Esri',
+        maxZoom: 16
     }).addTo(infraMap);
+
+    const statusNote = document.createElement('div');
+    statusNote.className = 'map-status-note';
+    statusNote.innerText = `Mode: Hybrid | Layers: ${offlineCount} offline`;
+    infraMap.getContainer().appendChild(statusNote);
+
+    liveLayer.on('tileerror', function() {
+        statusNote.innerText = 'Live Map Blocked - Using Offline Fallback';
+        statusNote.style.color = '#ff9800';
+    });
+    
+    setTimeout(() => { infraMap.invalidateSize(); }, 200);
 
     FULL_INFRA_DATA.forEach(incident => {
     if (incident.lat && incident.lon) {
@@ -3616,6 +3811,26 @@ function switchTab(tabName, btn) {
     content.classList.add('active');
     btn.classList.add('active');
     
+    // Check if Leaflet is loaded for map tabs
+    const mapTabs = ['maritime', 'refinery', 'infra', 'hormuz'];
+    if (mapTabs.includes(tabName)) {
+        if (typeof L === 'undefined') {
+            const mapId = tabName === 'maritime' ? 'map' : tabName + '-map';
+            const mapEl = document.getElementById(mapId);
+            if (mapEl && !mapEl.querySelector('.map-error')) {
+                mapEl.innerHTML = `
+                    <div class="map-error" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; color: var(--muted); padding: 40px; text-align: center;">
+                        <div style="font-size: 48px; margin-bottom: 20px;">📍</div>
+                        <h3 style="color: #fff; margin-bottom: 10px;">Map Library Not Loaded</h3>
+                        <p style="font-size: 13px; max-width: 400px;">Leaflet.js could not be loaded. This often happens in protected environments (like Citrix) if the offline assets were not bundled during generation.</p>
+                        <div style="margin-top: 20px; font-size: 11px; opacity: 0.7;">Check your network connection or ensure 'assets_cache' exists when running the script.</div>
+                    </div>
+                `;
+            }
+            return;
+        }
+    }
+
     if (tabName === 'markets' || tabName === 'trade' || tabName === 'maritime' || tabName === 'refinery' || tabName === 'infra' || tabName === 'hormuz') {
     window.dispatchEvent(new Event('resize'));
     }
@@ -4447,8 +4662,13 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
         theme=cfg["output"]["theme"],
         cfg=cfg,
         offline_assets=offline_assets,
-        reg_parts=['r1', 'r2', 'r3', 'r4', 'r5', 'r6', 'r7', 'r8', 'r9'],
-        hor_parts=['h1', 'h2', 'h3', 'h4']
+        reg_parts=['w1', 'w2', 'w3', 'w4', 'w2_1', 'w2_2', 'r1', 'r2', 'r3', 'r4', 'r5', 'r6', 'r7', 'r8', 'r9'],
+        hor_parts=[
+            'h4_1', 'h4_2', 'h4_3', 'h4_4',
+            'h5_1', 'h5_2', 'h5_3', 'h5_4', 'h5_5', 'h5_6',
+            'h6_1', 'h6_2', 'h6_3', 'h6_4', 'h6_5', 'h6_6', 'h6_7', 'h6_8',
+            'h6_9', 'h6_10', 'h6_11', 'h6_12', 'h6_13', 'h6_14', 'h6_15', 'h6_16'
+        ]
     )
 
     return tmpl_html.render(**context)
@@ -4470,6 +4690,11 @@ def main():
 
     # Fetch offline assets (Leaflet, Chart.js, Static Maps)
     offline_assets = get_offline_assets()
+    missing_assets = [k for k, v in offline_assets.items() if v is None and not k.endswith("_bounds")]
+    if missing_assets:
+        print(f" Warning: {len(missing_assets)} offline assets could not be fetched/loaded. Dashboard might require internet to show maps correctly.")
+    else:
+        print(f" Successfully loaded all {len(offline_assets)//2} offline assets (including maps).")
 
     history_days = cfg["llm"].get("digest_history_days", 3)
     fetch_period = f"{history_days + 1}d"

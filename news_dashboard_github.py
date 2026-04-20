@@ -630,8 +630,8 @@ def fetch_articles(cfg: dict, period: str = None, max_articles: int = None) -> l
     return articles
 
 
-def fetch_themed_news(cfg: dict) -> list[dict]:
-    """Fetch news for each theme, combined with the main topic context."""
+def fetch_themed_news(cfg: dict, previous_themed_news: list = None) -> list[dict]:
+    """Fetch news for each theme, combined with the main topic context, merging with previous history."""
     if not cfg.get("news_by_theme", {}).get("enabled", True):
         return []
 
@@ -645,13 +645,26 @@ def fetch_themed_news(cfg: dict) -> list[dict]:
     restrict = cfg["dashboard"].get("restrict_to_sources", False) and bool(sources)
     allowed_domains = {d.lower().replace("www.", "") for d in sources}
 
+    # Convert previous_themed_news (list of dicts) to a lookup map for easier merging
+    prev_map = {item["theme"]: item["articles"] for item in (previous_themed_news or [])}
+
     themed_data = []
+    # seen_global_urls helps avoid the same article appearing in multiple themes in this run
     seen_global_urls = set()
+    
+    # Pre-populate seen_global_urls with all existing article URLs from history
+    for theme_item in (previous_themed_news or []):
+        for art in theme_item.get("articles", []):
+            seen_global_urls.add(art["url"])
 
     for theme in themes:
         name = theme.get("name")
         keywords = theme.get("keywords", [])
         if not keywords: continue
+        
+        # Get existing articles for this theme
+        theme_history = prev_map.get(name, [])
+        theme_urls = {a["url"] for a in theme_history}
         
         # Build search query: "Main Topic" (Keyword1 OR Keyword2 OR ...)
         keyword_query = " OR ".join(f'"{kw}"' for kw in keywords)
@@ -659,33 +672,44 @@ def fetch_themed_news(cfg: dict) -> list[dict]:
         
         print(f" Fetching news for theme '{name}': {full_query}")
         
+        new_articles_count = 0
         try:
             search = gn.search(full_query, when=period)
             entries = search.get("entries", [])
-            theme_articles = []
+            theme_articles = list(theme_history) # Start with history
             
             for entry in entries:
-                if len(theme_articles) >= 20: # Limit articles per theme for scrolling
+                if new_articles_count >= 20: # Limit new articles per theme fetch
                     break
                 
                 art = _parse_entry(entry)
-                # SKIP RESOLUTION (resolve_url) to speed up process for themed news
-                # Just check domain restriction if enabled
                 if restrict:
                     if not _entry_matches_sources(entry, art, allowed_domains):
                         continue
                 
-                if art["url"] not in seen_global_urls:
+                # Only add if it's not in this theme's history AND hasn't been seen in other themes this run
+                if art["url"] not in theme_urls and art["url"] not in seen_global_urls:
                     seen_global_urls.add(art["url"])
+                    theme_urls.add(art["url"])
                     theme_articles.append(art)
+                    new_articles_count += 1
+            
+            # Sort all (old + new) by pub_ts descending
+            theme_articles.sort(key=lambda x: x.get("pub_ts", 0), reverse=True)
             
             if theme_articles:
+                print(f"  Theme '{name}': {new_articles_count} new articles added. Total: {len(theme_articles)}")
                 themed_data.append({
                     "theme": name,
                     "articles": theme_articles
                 })
         except Exception as exc:
             print(f" Failed to fetch theme '{name}': {exc}")
+            if theme_history:
+                themed_data.append({
+                    "theme": name,
+                    "articles": theme_history
+                })
 
     return themed_data
 
@@ -2524,13 +2548,10 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div class="tab-container">
     <button class="tab-btn active" onclick="switchTab('news', this)">News Feed</button>
     {% if themed_news %}
-    <button class="tab-btn" onclick="switchTab('themes', this)">News By Theme</button>
+    <button class="tab-btn" onclick="switchTab('themes', this)">News - Supply Chain Disruptions</button>
     {% endif %}
-    {% if cfg.hormuz_tracker.enabled and (hormuz_historical or hormuz_vessels) %}
-    <button class="tab-btn" onclick="switchTab('hormuz', this)">Hormuz Tracker (Hormuztracking.com Project)</button>
-    {% endif %}
-    {% if cfg.trade_tracker.enabled and trade_data %}
-    <button class="tab-btn" onclick="switchTab('trade', this)">Hormuz Tracker (IMF)</button>
+    {% if (cfg.hormuz_tracker.enabled and (hormuz_historical or hormuz_vessels)) or (cfg.trade_tracker.enabled and trade_data) %}
+    <button class="tab-btn" onclick="switchTab('hormuz', this)">Hormuz Tracker</button>
     {% endif %}
     {% if cfg.maritime_tracker.enabled %}
     <button class="tab-btn" onclick="switchTab('maritime', this)">Maritime Movement</button>
@@ -2545,7 +2566,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <button class="tab-btn" onclick="switchTab('refinery', this)">Refinery Attacks</button>
     {% endif %}
     {% if infra_damage_data %}
-    <button class="tab-btn" onclick="switchTab('infra', this)">ME Infrastructure Damage</button>
+    <button class="tab-btn" onclick="switchTab('infra', this)">Infrastructure Damage</button>
     {% endif %}
     <button class="tab-btn" onclick="switchTab('markets', this)">Market Analysis</button>
     </div>
@@ -2678,7 +2699,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div id="themesTab" class="tab-content">
         <div class="hourly-section">
             <div class="section-header">
-                <div class="section-title">News By Theme — Middle East Conflict Context</div>
+                <div class="section-title">News - Supply Chain Disruptions — Middle East Conflict Context</div>
             </div>
             
             <div class="theme-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;">
@@ -2801,8 +2822,13 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% endif %}
     </div>
 
-    {% if cfg.hormuz_tracker.enabled %}
+    {% if (cfg.hormuz_tracker.enabled and (hormuz_historical or hormuz_vessels)) or (cfg.trade_tracker.enabled and trade_data) %}
     <div id="hormuzTab" class="tab-content">
+    
+    {% if hormuz_historical or hormuz_vessels %}
+    <div class="section-title" style="margin-bottom: 20px; color: var(--accent2); border-bottom: 2px solid var(--accent2);">Higher Frequency (hormuztracking.com)</div>
+    {% endif %}
+
     {% if hormuz_historical %}
     <div class="hourly-section">
     <div class="section-header">
@@ -2870,12 +2896,9 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     {% endif %}
-    </div>
-    {% endif %}
 
-    {% if cfg.trade_tracker.enabled %}
-    <div id="tradeTab" class="tab-content">
-    {% if trade_data %}
+    {% if cfg.trade_tracker.enabled and trade_data %}
+    <div class="section-title" style="margin-top: 40px; margin-bottom: 20px; color: var(--accent); border-bottom: 2px solid var(--accent);">More robust data treatment (IMF PortWatch)</div>
     <div class="hourly-section">
     <div class="section-header">
     <div class="section-title">Hormuz Tracker (IMF) — Daily Transit & Capacity</div>
@@ -2909,6 +2932,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     {% endif %}
+
     </div>
     {% endif %}
 
@@ -3051,7 +3075,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div id="infraTab" class="tab-content">
     <div class="hourly-section">
     <div class="section-header">
-    <div class="section-title">Middle East Infrastructure Damage — Incident Map</div>
+    <div class="section-title">Infrastructure Damage — Incident Map</div>
     <div class="search-wrap" style="margin-left: 20px;">
     <input type="text" id="infraSearch" placeholder="Search facilities or causes…" oninput="filterInfra()" style="background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: var(--radius); padding: 6px 12px; font-size: 12px; outline: none; width: 220px;" />
     </div>
@@ -3745,7 +3769,7 @@ function handleRangeInput(type, handle) {
         if (card) btnContainer = card.querySelector('.chart-controls');
     }
     else {
-        const tabId = type === 'hormuz' ? 'hormuzTab' : type === 'trade' ? 'tradeTab' : type === 'missile' ? 'missileTab' : '';
+        const tabId = (type === 'hormuz' || type === 'trade') ? 'hormuzTab' : type === 'missile' ? 'missileTab' : '';
         if (tabId) btnContainer = document.querySelector('#' + tabId + ' .chart-controls');
     }
     
@@ -3831,7 +3855,7 @@ function switchTab(tabName, btn) {
         }
     }
 
-    if (tabName === 'markets' || tabName === 'trade' || tabName === 'maritime' || tabName === 'refinery' || tabName === 'infra' || tabName === 'hormuz') {
+    if (tabName === 'markets' || tabName === 'maritime' || tabName === 'refinery' || tabName === 'infra' || tabName === 'hormuz') {
     window.dispatchEvent(new Event('resize'));
     }
     if (tabName === 'maritime') {
@@ -4743,7 +4767,10 @@ def main():
     gdelt_data = fetch_gdelt_data(cfg)
     refinery_data = fetch_refinery_attacks_data(cfg)
     infra_damage_data = fetch_infrastructure_damage_data(cfg)
-    themed_news = fetch_themed_news(cfg)
+    
+    # Load themed news from history and fetch new ones
+    previous_themed_news = stored_data.get("themed_news_cache", [])
+    themed_news = fetch_themed_news(cfg, previous_themed_news=previous_themed_news)
 
     # Determine if Gemini / LLM features should run (past 7:30 BRT and first time today or retry after failure)
     now_brt = get_brt_now()
@@ -4853,6 +4880,7 @@ def main():
     
     # Save storage
     stored_data["news_cache"] = news_cache
+    stored_data["themed_news_cache"] = themed_news
     save_stored_data(stored_data)
 
     print("\n Rendering HTML dashboard")

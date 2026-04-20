@@ -2035,7 +2035,7 @@ def identify_things_to_watch(articles: list[dict], cfg: dict) -> tuple[list, boo
 
 
 
-def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], hormuz_historical: list[dict], hormuz_vessels: list[dict], hormuz_snapshots: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], infra_damage_data: list[dict], themed_news: list[dict], digest: dict, cfg: dict, offline_assets: dict = None, digest_time=None, watch_time=None, relevant_time=None) -> str:
+def render_html(articles: list[dict], relevant_news: list[dict], commodities: list[dict], intraday_commodities: list[dict], trade_data: list[dict], hormuz_historical: list[dict], hormuz_vessels: list[dict], hormuz_snapshots: list[dict], missile_data: list[dict], ais_data: list[dict], gdelt_data: list[dict], refinery_data: list[dict], infra_damage_data: list[dict], themed_news: list[dict], digest: dict, cfg: dict, offline_assets: dict = None, digest_time=None, watch_time=None, relevant_time=None, last_gen_time=None) -> str:
     env = Environment(autoescape=True)
     
     def _safe_tojson(d):
@@ -4371,7 +4371,7 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
 
     # Calculate overall AI generation time (latest of all features)
     ai_times = [t for t in [digest_time, watch_time, relevant_time] if t and t != "N/A"]
-    latest_ai_iso = max(ai_times) if ai_times else None
+    latest_ai_iso = max(ai_times) if ai_times else last_gen_time
 
     context = dict(
         title=dash["title"],
@@ -4379,9 +4379,9 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
         period=dash["period"],
         generated_at=format_generated_at(datetime.now(timezone.utc)), # Dashboard generation time
         ai_generated_at=format_generated_at(latest_ai_iso),
-        digest_generated_at=format_generated_at(digest_time),
-        watch_generated_at=format_generated_at(watch_time),
-        relevant_generated_at=format_generated_at(relevant_time),
+        digest_generated_at=format_generated_at(digest_time or last_gen_time),
+        watch_generated_at=format_generated_at(watch_time or last_gen_time),
+        relevant_generated_at=format_generated_at(relevant_time or last_gen_time),
         conflict_days=conflict_days,
         articles=articles,
         relevant_news=relevant_news,
@@ -4508,10 +4508,11 @@ def main():
         "next_events": []
     })
     
-    # Load feature timestamps
-    digest_time = stored_data.get("last_digest_time")
-    watch_time = stored_data.get("last_watch_time")
-    relevant_time = stored_data.get("last_relevant_time")
+    # Load feature timestamps (fallback to last_generated_time for compatibility with old data)
+    last_gen_time = stored_data.get("last_generated_time")
+    digest_time = stored_data.get("last_digest_time", last_gen_time)
+    watch_time = stored_data.get("last_watch_time", last_gen_time)
+    relevant_time = stored_data.get("last_relevant_time", last_gen_time)
 
     if cfg["llm"].get("enabled", True):
         # Sentiment always runs (with cache) if LLM is enabled
@@ -4595,7 +4596,8 @@ def main():
         trade_data, hormuz_historical, hormuz_vessels, hormuz_snapshots,
         missile_data, ais_data, gdelt_data, refinery_data, infra_damage_data,
         themed_news, digest, cfg, offline_assets,
-        digest_time=digest_time, watch_time=watch_time, relevant_time=relevant_time
+        digest_time=digest_time, watch_time=watch_time, relevant_time=relevant_time,
+        last_gen_time=last_gen_time
     )
 
     out_path.write_text(html, encoding="utf-8")

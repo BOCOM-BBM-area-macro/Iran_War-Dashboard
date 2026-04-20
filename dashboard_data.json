@@ -1707,6 +1707,56 @@
       "sentiment": "positive",
       "sentiment_success": true,
       "pub_date": "2026-04-20"
+    },
+    "https://www.nytimes.com/2026/04/20/world/asia/pakistan-shiites-iran-diplomacy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-20/iran-war-accelerates-colombia-s-pivot-from-domestic-gas-under-petro": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-20/iran-war-seen-boosting-africa-s-renewable-energy-deals": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.reuters.com/commentary/breakingviews/iran-catastrophe-has-some-silver-linings-2026-04-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-18"
     }
   },
   "last_run_success": true,

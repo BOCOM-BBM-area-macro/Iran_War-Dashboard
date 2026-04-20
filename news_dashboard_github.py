@@ -2370,7 +2370,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div style="display: flex; align-items: center; gap: 12px; margin-top: 4px;">
             <span class="topic-badge">{{ topic }}</span>
             <span style="font-size: 11px; color: var(--muted); background: rgba(255,255,255,0.03); padding: 4px 10px; border-radius: 4px; border: 1px solid var(--border);">
-                    AI-Generated Summaries · {{ ai_generated_at }}
+                    AI-Generated Summaries · {{ generated_at }}
             </span>
     </div> </div>
     <div class="header-right">

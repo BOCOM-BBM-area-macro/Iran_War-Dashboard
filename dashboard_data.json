@@ -1484,7 +1484,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-19"
+      "pub_date": "2026-04-20"
     },
     "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html": {
       "summary": "",
@@ -1719,20 +1719,26 @@
       "pub_date": "2026-04-20"
     },
     "https://www.bloomberg.com/news/articles/2026-04-20/iran-war-accelerates-colombia-s-pivot-from-domestic-gas-under-petro": {
-      "summary": "",
+      "summary": "The Iran war is causing tectonic shifts in global energy markets as import-dependent countries scramble to adapt to steeper prices, especially for liquefied natural gas.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "War",
+        "Colombia",
+        "Iran",
+        "Generic 1st 'XW' Future",
+        "Generic 1st 'NG' Future"
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-04-20"
     },
     "https://www.bloomberg.com/news/articles/2026-04-20/iran-war-seen-boosting-africa-s-renewable-energy-deals": {
-      "summary": "",
+      "summary": "Private renewable-energy investments in Africa are set to accelerate as the Iran war drives nations to try and cut their dependence on imported oil and gas.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Africa",
+        "Iran",
+        "War",
+        "Renewable Energy",
+        "Generic 1st 'CL' Future"
       ],
       "sentiment": "positive",
       "sentiment_success": true,
@@ -1757,131 +1763,96 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-18"
+    },
+    "https://www.jpost.com/middle-east/article-893577": {
+      "summary": "During the war, Qatar faced around 700 Iranian missile and drone attacks targeting US bases on its territory. Although no civilian casualties were reported, its economy faced devastating impacts.",
+      "tags": [
+        "Iran",
+        "United States",
+        "oil",
+        "Qatar",
+        "Doha"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-04-19",
-  "last_generated_time": "2026-04-19T23:02:19.363352+00:00",
+  "last_generated_date": "2026-04-20",
+  "last_generated_time": "2026-04-20T08:01:56.838567+00:00",
   "digest": {
-    "digest": "Recent reports indicate that Iran is replenishing its missile launchers at a higher rate than before the conflict, with estimates suggesting it retains approximately 70% of its pre-war missile stocks and 60% of its launchers. The US military is preparing to board Iran-linked ships, signaling an escalation in maritime operations. Diplomatic efforts in Pakistan to reach a long-term agreement have failed, resulting in continued hostilities and the closure of the Strait of Hormuz by Iran, with two ships reporting attacks while attempting passage. This closure has led to increased fuel prices globally, impacting economies such as Bangladesh. Reports also suggest that President Trump's decision-making regarding the war has been improvised, with military brass reportedly sidelining him during a recent rescue operation due to concerns about his temper. Kamala Harris has claimed that Benjamin Netanyahu influenced Donald Trump to engage in the conflict. China is reportedly taking a behind-the-scenes role in managing the war. Luxury brands have seen their Middle East plans damaged by the ongoing conflict. North Korea has conducted ballistic missile tests amidst the Iran war, potentially as a show of force. The economic impact on the US is also being analyzed, with suggestions that the stock market may have misjudged certain aspects of the war's effects.",
+    "digest": "The Iran War continues to exert significant global economic pressure, with oil prices experiencing a jump following the U.S. seizure of an Iranian vessel, which has also imperiled a fragile ceasefire. This event has led Iran to shun peace talks, raising concerns about the stability of the current truce. China emerges as a notable beneficiary, leveraging the conflict to its strategic advantage, though it simultaneously deepens its dependence on the U.S. for niche gas supplies due to disrupted Middle Eastern feedstocks. Asia's financial markets have logged substantial losses, with hedge funds particularly impacted before a recent truce rally. Qatar faces a severe \"strategic shock,\" with its energy industry crippled by direct strikes and export disruptions, leading to an estimated annual revenue loss of $20 billion and a looming global helium shortage. Colombia's energy sector is undergoing a reckoning, accelerating its pivot from domestic gas due to increased international LNG prices. Globally, dealmaking value is recovering as firms pursue large transactions post-war, while some financial institutions, like Australia's NAB, anticipate doubled impairment charges. The conflict's long-term impact on the U.S. economy and Wall Street is a growing concern among economists, underscoring the pervasive and enduring economic consequences of the Iran War.",
     "top_themes": [
-      "US-Iran Conflict Dynamics",
-      "Economic Impacts of the War",
-      "Diplomatic Negotiations and Stalemate",
-      "Regional Security and International Involvement"
+      "Global Economic Repercussions",
+      "Geopolitical Instability and Ceasefire Fragility",
+      "Energy Market Volatility",
+      "China's Strategic Gains and Dependencies",
+      "Regional Economic Shocks (Qatar, Asia)"
     ],
     "next_events": [
       {
-        "title": "Strait of Hormuz Security and Shipping Disruptions",
-        "description": "The repeated blocking of the Strait of Hormuz and reported attacks on ships highlight its critical role in global trade and energy supply. Analysts should monitor any further Iranian actions to impede navigation, the effectiveness of US military responses to ensure freedom of passage, and the immediate impact on international oil prices and shipping routes."
+        "title": "Renegotiation of Global Energy Supply Chains",
+        "description": "The Iran war has disrupted global energy markets, and countries are scrambling to adapt to steeper prices. Analysts should watch for signs of renegotiation of global energy supply chains, particularly for liquefied natural gas, and how this may impact the global economy. Key countries to monitor include Qatar, Colombia, and the United States."
       },
       {
-        "title": "US-Iran Diplomatic Talks and Mediation Efforts",
-        "description": "Despite previous failures and contradictory statements from US leadership, ongoing diplomatic talks in Pakistan and Egypt remain a key avenue for de-escalation. Watch for any concrete breakthroughs, the specific terms of potential agreements, and the roles of mediating nations in bridging the significant gaps between the US and Iran."
+        "title": "Impact of Iran War on US Economy",
+        "description": "Economists warn that the impact of the Iran war will hurt the US even after the conflict ends. Analysts should monitor the US economy for signs of strain, including increased inflation, higher energy prices, and potential recession. The Federal Reserve's response to these challenges will be crucial to watch."
       },
       {
-        "title": "Iran's Military Buildup and Strategic Adaptations",
-        "description": "Reports indicate Iran is rapidly replenishing missile launchers and studying lessons from the Ukraine war, signaling a sustained and evolving military posture. Observe for evidence of new Iranian military tactics, the deployment of advanced weaponry, or changes in their operational strategy that could escalate the conflict or alter its dynamics."
+        "title": "Qatar's Economic Recovery",
+        "description": "Qatar's economy has been severely impacted by the Iran war, with estimated annual revenue losses of $20 billion. Analysts should watch for signs of Qatar's economic recovery, including the restoration of its liquefied natural gas production facilities and the potential for foreign investment to flow back into the country."
       },
       {
-        "title": "US Military Operations and Rules of Engagement",
-        "description": "The US military's preparation to board Iran-linked ships signals a potential for direct confrontation and escalation. Analysts should closely watch the execution of these operations, any resistance encountered, and the subsequent reactions from Iran, as these actions could significantly heighten tensions or lead to broader military engagement."
+        "title": "Trump's Decision-Making Process",
+        "description": "The Iran war has highlighted concerns about Trump's decision-making process, including his use of social media and improvised interviews. Analysts should monitor Trump's behavior and decision-making process, particularly in relation to the Iran war, and watch for signs of conflict with his aides and advisors."
       },
       {
-        "title": "US Presidential Decision-Making and Internal Policy Dynamics",
-        "description": "President Trump's improvised decisions, emotional responses, and reports of being sidelined by military advisors introduce significant unpredictability into US policy. Monitor for further impulsive presidential actions, public statements that contradict diplomatic efforts, and any signs of internal disagreement within the US administration regarding the war's strategy or exit plan."
+        "title": "Global Deal-Making Activity",
+        "description": "The value of global deal-making has recovered as firms pursue big transactions after the Iran war. Analysts should watch for signs of increased merger and acquisition activity, particularly in the energy and finance sectors, and monitor the impact of this activity on global markets."
       },
       {
-        "title": "Global Economic and Geopolitical Ripple Effects",
-        "description": "The conflict has already caused rising fuel prices and impacted regional investments, with China taking a behind-the-scenes role and North Korea flexing its military might. Watch for further global economic instability, the extent of China's involvement in mediation or support, and how other regional or global actors react to the prolonged conflict and its broader implications."
+        "title": "Colombia's Energy Pivot",
+        "description": "The Iran war has accelerated Colombia's pivot from domestic gas to imported liquefied natural gas. Analysts should monitor Colombia's energy sector for signs of adaptation to this new reality, including the development of new infrastructure and the potential for increased investment in renewable energy sources."
+      },
+      {
+        "title": "Australia's Banking Sector",
+        "description": "Australia's NAB expects impairment charges to double due to the Iran war. Analysts should watch for signs of strain in Australia's banking sector, including increased impairment charges and potential changes to lending practices."
+      },
+      {
+        "title": "Wall Street's Exposure to Iran War",
+        "description": "The Iran war has the potential to hurt Wall Street, particularly if the conflict escalates or if there are significant disruptions to global energy markets. Analysts should monitor Wall Street's exposure to the Iran war, including the potential impact on stock prices and the overall health of the financial sector."
+      },
+      {
+        "title": "Young Conservatives' Views on the War",
+        "description": "Young conservatives are split over the Iran war, with some supporting the conflict and others opposing it. Analysts should watch for signs of how this divide may impact the conservative movement and the Republican Party, particularly in the lead-up to the next US election."
+      },
+      {
+        "title": "China's Growing Influence",
+        "description": "The Iran war has been seen as a strategic opportunity for China, which has been able to increase its influence in the region without firing a shot. Analysts should monitor China's growing influence, particularly in the energy sector, and watch for signs of how this may impact the global balance of power."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Exclusive | U.S. Military Prepares to Board Iran-Linked Ships in Coming Days, Officials Say - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/u-s-military-prepares-to-board-iran-linked-ships-in-coming-days-officials-say-4dc0a718",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Apr 18, 2026 · 11:57 BRT",
-      "pub_date": "2026-04-18",
-      "pub_ts": 1776524220,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "Strait of Hormuz blocked as gaps remain on Iran peace talks - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 18, 2026 · 22:01 BRT",
-      "pub_date": "2026-04-18",
-      "pub_ts": 1776560460,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "The Iran war has revealed Trump's pressure point: the economy - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-war-has-revealed-trumps-pressure-point-economy-2026-04-18/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 18, 2026 · 02:01 BRT",
-      "pub_date": "2026-04-18",
-      "pub_ts": 1776488460,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "Trump: Iran ‘got a little cute’ by blocking Hormuz again, but talks going ‘really well’ - The Times of Israel",
-      "url": "https://www.timesofisrael.com/trump-iran-got-a-little-cute-by-blocking-hormuz-again-but-talks-going-really-well/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Apr 18, 2026 · 15:05 BRT",
-      "pub_date": "2026-04-18",
-      "pub_ts": 1776535500,
-      "summary": "Iranian security council says it will hold strait until 'the war fully ends'; Egypt's FM says Cairo, Islamabad working hard on 'final agreement' between Iran and US",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "positive",
-      "_rank": 0,
-      "sentiment_success": true
-    },
-    {
-      "title": "Iran closes Strait of Hormuz again; 2 ships report attacks while trying to cross - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/04/18/iran-strait-hormuz-us-oil/",
+      "title": "Oil prices jump after U.S. seizes Iranian vessel, imperiling ceasefire - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/04/19/trump-iran-war-hormuz-strait-negotiations/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Apr 19, 2026 · 00:35 BRT",
-      "pub_date": "2026-04-19",
-      "pub_ts": 1776569710,
+      "published": "Apr 20, 2026 · 07:52 BRT",
+      "pub_date": "2026-04-20",
+      "pub_ts": 1776682329,
       "summary": "",
       "tags": [
         "extracted",
@@ -1893,18 +1864,93 @@
       "sentiment_success": true
     },
     {
-      "title": "North Korea fires ballistic missiles again, flexing muscle amid Iran war - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-yonhap-news-says-2026-04-18/",
+      "title": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/world-weighs-fate-mideast-ceasefire-after-us-seizes-iranian-cargo-ship-2026-04-20/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 18, 2026 · 19:02 BRT",
-      "pub_date": "2026-04-18",
-      "pub_ts": 1776549720,
+      "published": "Apr 20, 2026 · 06:32 BRT",
+      "pub_date": "2026-04-20",
+      "pub_ts": 1776677524,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Impact of Iran war will hurt US even after conflict ends, economists warn - Financial Times",
+      "url": "https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Apr 19, 2026 · 14:00 BRT",
+      "pub_date": "2026-04-19",
+      "pub_ts": 1776618007,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Vance Heads to New Talks With Iran. At Stake: Peace and His Own Standing. - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Apr 20, 2026 · 06:04 BRT",
+      "pub_date": "2026-04-20",
+      "pub_ts": 1776675854,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Trump managing Iran war based on conflicting caprices that blindside his aides — report - The Times of Israel",
+      "url": "https://www.timesofisrael.com/trump-managing-iran-war-based-on-conflicting-caprices-that-blindside-his-aides-report/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Apr 19, 2026 · 10:39 BRT",
+      "pub_date": "2026-04-19",
+      "pub_ts": 1776605940,
+      "summary": "WSJ says advisers have urged US president to curb his improvised social media posts and media interviews; Trump yelled at aides 'for hours' when US jet was downed, was kept from situation room",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "sentiment_success": true
+    },
+    {
+      "title": "How the Iran war could hurt Wall Street - Financial Times",
+      "url": "https://www.ft.com/content/12ae430c-2909-4b1c-b121-7376dce76fa3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Apr 20, 2026 · 01:00 BRT",
+      "pub_date": "2026-04-20",
+      "pub_ts": 1776657622,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "negative",
       "_rank": 0,

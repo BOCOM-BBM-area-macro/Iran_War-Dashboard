@@ -1135,7 +1135,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-18"
+      "pub_date": "2026-04-19"
     },
     "https://www.reuters.com/sustainability/boards-policy-regulation/bangladesh-raises-fuel-prices-iran-war-drives-up-costs-2026-04-19/": {
       "summary": "",
@@ -1674,6 +1674,26 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-04-19"
+    },
+    "https://www.ft.com/content/12ae430c-2909-4b1c-b121-7376dce76fa3?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-20/india-widens-russian-insurance-list-as-iran-war-hurts-oil-flows": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-04-20"
     }
   },
   "last_run_success": true,

@@ -1128,10 +1128,13 @@
       "pub_date": "2026-04-18"
     },
     "https://www.wsj.com/politics/national-security/trump-public-bravado-private-fear-59814dca": {
-      "summary": "",
+      "summary": "The president’s impulsive style has never been tested in a sustained military conflict, and he’s been ruminating on Jimmy Carter’s failure in Iran.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "leder",
+        "Asia",
+        "Developing Economies",
+        "Iran",
+        "Middle East"
       ],
       "sentiment": "negative",
       "sentiment_success": true,
@@ -1301,7 +1304,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-19"
     },
     "https://www.nytimes.com/2026/04/19/nyregion/theyre-young-theyre-conservative-and-theyre-split-over-the-war.html": {
       "summary": "",
@@ -2224,6 +2227,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/energy/iran-war-fuel-hike-adds-100-long-haul-flight-cost-study-says-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-21/trump-signals-no-truce-extension-on-eve-of-scheduled-peace-talks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     }
   },
   "last_run_success": true,
@@ -2880,6 +2903,20 @@
           "_rank": 0
         },
         {
+          "title": "Iran war already taking a toll on the global economy, IMF says in new forecast - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHd2UGZFcTNiU0lIVkY4RjRqdHZLTHV6RlBRb09WMXA0SExBbnBjemo1Y1phNndhTGhFZEhVTU5DQmQ1WGR0bFlmSVIxdUN2OWJQOWNVUi1zVHV4TzZ4azlHUDBNNlhzV2kxNG5FTEd5WVJ4dDNhcEZQUGU1dHlUVkFnS2JGTndudnRyNw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 14, 2026 · 17:00 BRT",
+          "pub_date": "2026-04-14",
+          "pub_ts": 1776196800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran war projected to bring first oil demand drop since COVID - Axios",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VU0JSWTBTLW5aRUJWcXZZSlpTMUk0U3hSb0xnc05Qbk95UlVpR18yRUxGNklfSmxlajZLLXNpcTVqSk44Z1lJWEZpTFBUS3ljWG5ZeWpVQmFneHgtcWFKMGF3Q1p4bHc?oc=5",
           "source": "Axios",
@@ -3482,6 +3519,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Iran war fuel hike adds $100 to long-haul flight cost, study says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlFqeGkzNUpVWkZNX1htenFGNzJfQXRlOWhhZ0ZZamxNZThUWGxVLXB0by1qd05NS3pPNm9yTGVqbFdfNU1zcmZqVGxsMGM0Qkx0Qjg2b2k2Um9NOXhhY0UyNFhJZEgxZnBibDhVdGFfNG15NUxSTDkxS05mTDhUVTFqLS14ZTJZaGVCQTRNN1JjcmRWZWE4Nk5ZSzN5VkVhTUtmUXQ4NEZic0tmRW5Xc3hR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 03:06 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776751560,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Jet-Fuel Surge Is Making Global Flight Connections Disappear - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGdnNVZySGpFYVNaTmtrR3l4WFBhdGViS1dfc01aZ1BlQlZRdURnUUJxMTJGSExxVDFGMGRUVHg3R3Q5YmxBbllGTVhDUUlCX3J6dkxsV3l3b3hvN2x6OXYzSUd0S01vVTZ6UWRIcEVBbjJMS1lIWTRsX29JY3VocXhWNG52d2ZaZzhHTmphMUxORFhXUkEzeTVoZG9UekZMVlpiVnU5T1RJZ2JvSUhUZ3N1U0tlQQ?oc=5",

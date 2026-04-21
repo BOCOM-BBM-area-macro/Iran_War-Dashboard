@@ -1291,7 +1291,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-21"
     },
     "https://www.axios.com/2026/04/19/china-iran-war-winner-us-military": {
       "summary": "",
@@ -2174,6 +2174,56 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-20"
+    },
+    "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/energy/indias-march-crude-imports-slide-iran-war-russian-volumes-hit-record-high-data-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/world/middle-east/us-positive-iran-deal-talks-still-uncertain-ceasefire-end-nears-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/energy/biofuels-back-vogue-iran-war-triggers-oil-price-surge-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/bearings-maker-skfs-q1-profit-falls-less-than-expected-says-iran-war-increases-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     }
   },
   "last_run_success": true,
@@ -2353,6 +2403,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "India's March crude imports slide on Iran war, Russian volumes hit record high, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT2YwZmVYQllINENXNzhtNkxOdDlJZWY0dzk1bmVOUHZ1WlJIRkZKWkMxVmZyQW15cTFKdjZmQUY2LU0wUzZ6czZUM0lPT0k5ZXo3MHowNG1qSlZaamtaVjlHX3h3a3RabVMzV0pycUc1R2VxTl9iUzJ3U0tlMjFPZlFTa0tLdzZ5ei0yQ0dINEgwcXh0R2FsRlNaaWJ0bnJwWldOZHhQbC1Lb2xXSWVaelFzS1duLXMzNzc3MGFBXzBUbTFkZndCZUZB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 03:08 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776751680,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Biofuels back in vogue as Iran war triggers oil price surge - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1FDZnJBRWxIa1J0M0t5M1hPa1RITXBVV0NUSDNpZEFyZnRBVTNPZGRCbWZpSzV5VDdYMXVLYTJhbGx4UVJORGVzaGtyT1ZvYmNTRG9pbE9YaHRHRFhHTElvUDJEMG5OX0M3QUM1bHl6Nno4OWVJUHM3TlpkTWhWMjFaNkFBbEVud3B1MGtOWUtGblN3bk9lR2VjRUZ1UkdCTVNzZnBmRV8?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 03:02 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776751320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US oil refiners reap windfall from Iran war - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWFSZzBMeGdrLS1jZWd6SzcxT19xbXZ1NlJiSmp5VXVOaVBEQWxCb3l0Z3FrZWlBRmpERkgySWlnbExUSDRZZjRoMjRROGVaN1EzMHhQc0pVQWVyT2M2bGNUbDR0SFliZTJvS3E2OW1FNkF2M3N6a1RTUnVQWXNrZWJMbnY?oc=5",
@@ -3427,6 +3505,20 @@
           "published": "Apr 17, 2026 · 14:01 BRT",
           "pub_date": "2026-04-17",
           "pub_ts": 1776445260,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Europe faces summer flight cancellations from jet fuel shortage, IATA says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUm5JQTVTeFpqMDRNTkZ6MWlxMDdvaTRtSURMbEkzei1ucHdNdHBkU210QkZXLWE4MzhZY2RQS0pENnRpMW9URU8tcjl0U0owUEhfbi1WOU8yWUg0ZTc2a3NYSV83VzBVbmdBZHhaMG5QOFJ2TUdQeGZmbzJHRmlQaXRVdElwem9JSE1RTUxNVUpRRFV3bGFQNzliVEt2ODZvZ053WWpSTWRhZnkxMWNSRXZBWQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 17, 2026 · 08:22 BRT",
+          "pub_date": "2026-04-17",
+          "pub_ts": 1776424925,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

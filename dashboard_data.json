@@ -2033,7 +2033,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-21"
     },
     "https://www.washingtonpost.com/world/2026/04/20/pakistan-iran-war-peacemaker/": {
       "summary": "",
@@ -2480,11 +2480,61 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-21/us-iran-peace-talks-uncertain-with-vance-trip-scrapped": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/energy/eu-looks-ramp-up-us-jet-fuel-saf-tackle-strain-iran-war-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.axios.com/2026/04/21/trump-iran-war-ceasefire-extension": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.nytimes.com/2026/04/21/business/economy/us-uae-financial-support.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-21",
-  "last_generated_time": "2026-04-21T17:01:55.260530+00:00",
+  "last_generated_time": "2026-04-21T18:02:20.340374+00:00",
   "digest": {
     "digest": "The ongoing conflict in Iran has led to significant global repercussions, including major disruptions to the energy market, described as the largest in history. Crude oil imports for India have declined, while Russian volumes reached record highs, and marine fuel blenders are actively seeking alternative oil sources due to supply chain issues. The conflict has also directly impacted transportation costs, with a study indicating a $100 increase in long-haul flight expenses and a general expectation of higher gas prices throughout the year. Diplomatic efforts appear uncertain, with mixed signals from Tehran and Washington regarding potential talks, despite a nearing ceasefire deadline. Pakistan has emerged as an intermediary, attempting to navigate communication with the US. Meanwhile, China is positioned to potentially reshape the global order, leveraging its role as Iran's largest oil customer. The conflict has also triggered a decline in business confidence in South Africa and caused UK employers to adopt a cautious stance. In a separate development, a Mossad agent was reportedly killed abroad during operations against Iran, an event that significantly influenced the campaign against the nation.",
     "top_themes": [
@@ -2641,6 +2691,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUlkQ0h6SC1RMzl4aW92c2FhZTJualhoVTFaZmJyaUt2cmRxeWlIZGNBeXF5S0pzc2xpVF9wM0doSnRwVmtmTDVyN1hZZjFXd0xhTjJKSVhkRlFvODZ2VEZwNldTUGJUcEhMM1F1a1V5WDBsXzVYdmJBbDFvSlJoOF9FWmkzYnBzTnc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 12:52 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776786747,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India's March crude imports slide on Iran war, Russian volumes hit record high, data shows - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT2YwZmVYQllINENXNzhtNkxOdDlJZWY0dzk1bmVOUHZ1WlJIRkZKWkMxVmZyQW15cTFKdjZmQUY2LU0wUzZ6czZUM0lPT0k5ZXo3MHowNG1qSlZaamtaVjlHX3h3a3RabVMzV0pycUc1R2VxTl9iUzJ3U0tlMjFPZlFTa0tLdzZ5ei0yQ0dINEgwcXh0R2FsRlNaaWJ0bnJwWldOZHhQbC1Lb2xXSWVaelFzS1duLXMzNzc3MGFBXzBUbTFkZndCZUZB?oc=5",
@@ -3332,6 +3396,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US Gasoline Prices Likely Peaked Last Week, Energy Secretary Wright Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3Y1MllFdjVmQXBuTWhkMEtObTF3VzZVb0FURnBtYThmMTRpRHdPbmh3NHpFNnRVN2hyQXdRZTF5dHgtQk8yWnNvRU5WWDl1Znd5OVF3NzZ0cG9pcXNwWmlub2hMMy1ubXBzUkZxWmhkRkNDdWhZVkhjaFVEX2hTT0xCZDFoYWw3aGtFSWhPWTFJR2s2Q1F2YzR3Y19HVjMzOWdmVFJDYjBWRnVOcnFJR0xURQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 16:46 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776800778,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Record surge in gasoline receipts boosts US retail sales, but weakness is looming - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk41aVZNelVQejBid0FMNGVPdEllbHZWWVVCcWdJMG83TTlvT0d4TUtJZXJ1a3E5X1J3WWMxQWFpZDVPbHgzMHJ3YnRoWnViNHJVYTAxWFhzalhfZW5NMmJBSlRrd2ZONFdDRVNyYUYyV2hTbFQ2MjVUTWFHSV8xdGwyM2VLYzJjTjJPeTJrZzZuMEtOOE93aTZ5MWJmZjluSDZ3Sg?oc=5",

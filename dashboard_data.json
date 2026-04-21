@@ -551,7 +551,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-15"
+      "pub_date": "2026-04-17"
     },
     "https://www.reuters.com/business/us-buyers-redirect-imported-fertilizer-overseas-iran-war-drives-up-global-prices-2026-04-17/": {
       "summary": "",
@@ -2297,6 +2297,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-21/iran-us-peace-talks-how-strait-of-hormuz-nuclear-program-are-hurdles-to-a-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/finance/ecb-must-keep-cool-head-rates-amid-iran-war-de-guindos-says-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/healthcare-pharmaceuticals/worlds-top-condom-maker-karex-raise-prices-sharply-iran-war-strains-supply-chain-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     }
   },
   "last_run_success": true,
@@ -2499,6 +2529,20 @@
           "published": "Apr 21, 2026 · 03:02 BRT",
           "pub_date": "2026-04-21",
           "pub_ts": 1776751320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Opinion | What Chinese officials told me about Trump’s bewildering war in Iran - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2ZraEI4VjV0a1lPVHJBelZwQVFsX1dNZnhZMnZUeFlwUE5hZms0TWk5M0RJRGZ5ZElEWW03ay0wZ3loQVZzMWZ3SU9wakpjVUVza2FnSmFzRk14NnE3THp4dmVyU2REZzRkQ0d4cXItbXI4dFRhRF8tLS1JakFRRlkycDVLbXVhaWNURjMwa2lXbXkyVmF0dFVldllDRzB4?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 20, 2026 · 16:38 BRT",
+          "pub_date": "2026-04-20",
+          "pub_ts": 1776713939,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -3313,6 +3357,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Get used to higher gas prices this year due to Iran war - Axios",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55bk5jQW92YkdIaG1jLUV0Q2NHREhIQXBweDFPc0oyakRBN211VW5ON2JFQ1U2X2U3UXo3aUJuQkFlNjdXb0pUWFZBQXBEdUl6X3dhQXc3U09IWlVxNTEwSXJpQmZlYTZlN0JtSVc0M3NsaDN5aWc?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 06:01 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776762077,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "War in Iran is causing biggest energy crisis in history, IEA says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWV2Um1HX1V4ZXVkckVsNHNKQTFaR1IxaWt4SG1ScTBrVGc1Z1oxcUlodEFid08tMGVJLXFSbGVKQ0tET2FlWTlfMFJNdXNQSVdXOU5KSmVqb3FQcFJFZGxybUV2TUtTeVBxUnMyZTV4amplaWIxQUQ3UXBWdm9CTW9jRHBCNzU3cGN1VElsSk15TVhHQUF5dnJCY29JM0pwZmNILWwwVE5xd253Q3NZ?oc=5",
           "source": "Reuters",
@@ -3639,6 +3697,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "EU warns Europe faces fuel shortages as Iran war hits energy supplies - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZ2hheWtoZDFGc05Nb1F5aDhqZHcwMkhHQ1BRQVJhR1V6SXZVRHlHbFFOX1hJVWFIX0RtMmRYeDhOLWxaREltck5VRHJYNjB6Q0VncGZzZFNDVk1YcDJN?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 06:08 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776762513,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war fuel hike adds $100 to long-haul flight cost, study says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlFqeGkzNUpVWkZNX1htenFGNzJfQXRlOWhhZ0ZZamxNZThUWGxVLXB0by1qd05NS3pPNm9yTGVqbFdfNU1zcmZqVGxsMGM0Qkx0Qjg2b2k2Um9NOXhhY0UyNFhJZEgxZnBibDhVdGFfNG15NUxSTDkxS05mTDhUVTFqLS14ZTJZaGVCQTRNN1JjcmRWZWE4Nk5ZSzN5VkVhTUtmUXQ4NEZic0tmRW5Xc3hR?oc=5",

@@ -2083,7 +2083,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-21"
     },
     "https://www.timesofisrael.com/40-israelis-detained-in-moscow-airport-reportedly-over-war-with-iran/": {
       "summary": "Israel confirms incident, says it immediately contacted Russian authorities to secure release of travelers, who say they were told that any enemy of Tehran is 'our enemy as well'",
@@ -2327,176 +2327,201 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-21"
-    }
-  },
-  "last_run_success": true,
-  "last_generated_date": "2026-04-20",
-  "last_generated_time": "2026-04-20T23:02:04.765851+00:00",
-  "digest": {
-    "digest": "The Iran War continues to exert significant global economic pressure, with oil prices experiencing a jump following the U.S. seizure of an Iranian vessel, which has also imperiled a fragile ceasefire. This event has led Iran to shun peace talks, raising concerns about the stability of the current truce. China emerges as a notable beneficiary, leveraging the conflict to its strategic advantage, though it simultaneously deepens its dependence on the U.S. for niche gas supplies due to disrupted Middle Eastern feedstocks. Asia's financial markets have logged substantial losses, with hedge funds particularly impacted before a recent truce rally. Qatar faces a severe \"strategic shock,\" with its energy industry crippled by direct strikes and export disruptions, leading to an estimated annual revenue loss of $20 billion and a looming global helium shortage. Colombia's energy sector is undergoing a reckoning, accelerating its pivot from domestic gas due to increased international LNG prices. Globally, dealmaking value is recovering as firms pursue large transactions post-war, while some financial institutions, like Australia's NAB, anticipate doubled impairment charges. The conflict's long-term impact on the U.S. economy and Wall Street is a growing concern among economists, underscoring the pervasive and enduring economic consequences of the Iran War.",
-    "top_themes": [
-      "Global Economic Repercussions",
-      "Geopolitical Instability and Ceasefire Fragility",
-      "Energy Market Volatility",
-      "China's Strategic Gains and Dependencies",
-      "Regional Economic Shocks (Qatar, Asia)"
-    ],
-    "next_events": [
-      {
-        "title": "Renegotiation of Global Energy Supply Chains",
-        "description": "The Iran war has disrupted global energy markets, and countries are scrambling to adapt to steeper prices. Analysts should watch for signs of renegotiation of global energy supply chains, particularly for liquefied natural gas, and how this may impact the global economy. Key countries to monitor include Qatar, Colombia, and the United States."
-      },
-      {
-        "title": "Impact of Iran War on US Economy",
-        "description": "Economists warn that the impact of the Iran war will hurt the US even after the conflict ends. Analysts should monitor the US economy for signs of strain, including increased inflation, higher energy prices, and potential recession. The Federal Reserve's response to these challenges will be crucial to watch."
-      },
-      {
-        "title": "Qatar's Economic Recovery",
-        "description": "Qatar's economy has been severely impacted by the Iran war, with estimated annual revenue losses of $20 billion. Analysts should watch for signs of Qatar's economic recovery, including the restoration of its liquefied natural gas production facilities and the potential for foreign investment to flow back into the country."
-      },
-      {
-        "title": "Trump's Decision-Making Process",
-        "description": "The Iran war has highlighted concerns about Trump's decision-making process, including his use of social media and improvised interviews. Analysts should monitor Trump's behavior and decision-making process, particularly in relation to the Iran war, and watch for signs of conflict with his aides and advisors."
-      },
-      {
-        "title": "Global Deal-Making Activity",
-        "description": "The value of global deal-making has recovered as firms pursue big transactions after the Iran war. Analysts should watch for signs of increased merger and acquisition activity, particularly in the energy and finance sectors, and monitor the impact of this activity on global markets."
-      },
-      {
-        "title": "Colombia's Energy Pivot",
-        "description": "The Iran war has accelerated Colombia's pivot from domestic gas to imported liquefied natural gas. Analysts should monitor Colombia's energy sector for signs of adaptation to this new reality, including the development of new infrastructure and the potential for increased investment in renewable energy sources."
-      },
-      {
-        "title": "Australia's Banking Sector",
-        "description": "Australia's NAB expects impairment charges to double due to the Iran war. Analysts should watch for signs of strain in Australia's banking sector, including increased impairment charges and potential changes to lending practices."
-      },
-      {
-        "title": "Wall Street's Exposure to Iran War",
-        "description": "The Iran war has the potential to hurt Wall Street, particularly if the conflict escalates or if there are significant disruptions to global energy markets. Analysts should monitor Wall Street's exposure to the Iran war, including the potential impact on stock prices and the overall health of the financial sector."
-      },
-      {
-        "title": "Young Conservatives' Views on the War",
-        "description": "Young conservatives are split over the Iran war, with some supporting the conflict and others opposing it. Analysts should watch for signs of how this divide may impact the conservative movement and the Republican Party, particularly in the lead-up to the next US election."
-      },
-      {
-        "title": "China's Growing Influence",
-        "description": "The Iran war has been seen as a strategic opportunity for China, which has been able to increase its influence in the region without firing a shot. Analysts should monitor China's growing influence, particularly in the energy sector, and watch for signs of how this may impact the global balance of power."
-      }
-    ]
-  },
-  "relevant_news": [
-    {
-      "title": "Oil prices jump after U.S. seizes Iranian vessel, imperiling ceasefire - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/04/19/trump-iran-war-hormuz-strait-negotiations/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Apr 20, 2026 · 07:52 BRT",
-      "pub_date": "2026-04-20",
-      "pub_ts": 1776682329,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
     },
-    {
-      "title": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/world-weighs-fate-mideast-ceasefire-after-us-seizes-iranian-cargo-ship-2026-04-20/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 20, 2026 · 06:32 BRT",
-      "pub_date": "2026-04-20",
-      "pub_ts": 1776677524,
+    "https://www.reuters.com/world/us/many-americans-question-trumps-temperament-amid-iran-war-pope-spat-reutersipsos-2026-04-21/": {
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     },
-    {
-      "title": "Impact of Iran war will hurt US even after conflict ends, economists warn - Financial Times",
-      "url": "https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Apr 19, 2026 · 14:00 BRT",
-      "pub_date": "2026-04-19",
-      "pub_ts": 1776618007,
+    "https://www.axios.com/2026/04/21/gas-prices-high-iran-strait-hormuz": {
       "summary": "",
       "tags": [
         "extracted",
-        "ft.com"
+        "axios.com"
       ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     },
+    "https://www.jpost.com/israel-news/defense-news/article-893717": {
+      "summary": "Barnea did not specify who M. was, when they fell, or which incident it was. He did not say where M. fell, only noting that it was outside of Israel's borders.",
+      "tags": [
+        "Mossad",
+        "Israel Iran War",
+        "Mossad Agent",
+        "David Barnea",
+        "Operation Roaring Lion"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/world/africa/south-african-business-confidence-hits-fivemonth-low-impact-iran-war-2026-04-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    }
+  },
+  "last_run_success": true,
+  "last_generated_date": "2026-04-21",
+  "last_generated_time": "2026-04-21T08:01:45.329957+00:00",
+  "digest": {
+    "digest": "The ongoing conflict in Iran has led to significant global repercussions, including major disruptions to the energy market, described as the largest in history. Crude oil imports for India have declined, while Russian volumes reached record highs, and marine fuel blenders are actively seeking alternative oil sources due to supply chain issues. The conflict has also directly impacted transportation costs, with a study indicating a $100 increase in long-haul flight expenses and a general expectation of higher gas prices throughout the year. Diplomatic efforts appear uncertain, with mixed signals from Tehran and Washington regarding potential talks, despite a nearing ceasefire deadline. Pakistan has emerged as an intermediary, attempting to navigate communication with the US. Meanwhile, China is positioned to potentially reshape the global order, leveraging its role as Iran's largest oil customer. The conflict has also triggered a decline in business confidence in South Africa and caused UK employers to adopt a cautious stance. In a separate development, a Mossad agent was reportedly killed abroad during operations against Iran, an event that significantly influenced the campaign against the nation.",
+    "top_themes": [
+      "Geopolitical Tensions and Diplomatic Uncertainty",
+      "Global Energy Market Disruptions",
+      "International Economic Impacts"
+    ],
+    "next_events": [
+      {
+        "title": "Escalation in the Strait of Hormuz",
+        "description": "Iran's reported closure of the Strait of Hormuz and attacks on ships represent a critical escalation in maritime security. Analysts should monitor any further incidents, the duration of the closure, and international responses to ensure the free flow of global oil supplies."
+      },
+      {
+        "title": "Prospects for a Lasting Iran Deal and Ceasefire Adherence",
+        "description": "Despite mixed signals and an approaching ceasefire deadline, the possibility of a lasting deal between the US and Iran remains. Watch for any concrete steps towards negotiations, the adherence to existing ceasefires (like the Lebanon-Israel one), and the involvement of mediators like Pakistan."
+      },
+      {
+        "title": "Sustained Global Energy Market Volatility",
+        "description": "The 'Iran war' is explicitly linked to the 'biggest energy crisis in history,' causing record high oil prices and increased fuel costs globally. Monitor crude import patterns, gas prices, and the impact on various industries and national economies, including marine fuel and business confidence."
+      },
+      {
+        "title": "China's Evolving Geopolitical Influence",
+        "description": "As Iran's largest oil customer, China is positioned to significantly influence the conflict and potentially reshape the world order. Observe China's diplomatic initiatives, economic leverage, and any shifts in its stance regarding the war and global stability."
+      },
+      {
+        "title": "Intensification of Covert Operations and Regional Proxy Conflicts",
+        "description": "The revelation of a Mossad agent killed during operations against Iran highlights the covert dimension of the conflict. Watch for further intelligence activities and monitor the stability of regional ceasefires, particularly involving Iranian-backed groups like Hezbollah, for signs of wider escalation."
+      },
+      {
+        "title": "Impact of US Leadership and Domestic Politics on Iran Policy",
+        "description": "Public questioning of Trump's temperament and his reactions to criticism regarding the Iran war could influence US policy and stability. Analysts should monitor shifts in US public opinion, presidential rhetoric, and any internal political pressures that might affect the conflict's trajectory."
+      }
+    ]
+  },
+  "relevant_news": [
     {
-      "title": "Vance Heads to New Talks With Iran. At Stake: Peace and His Own Standing. - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html",
+      "title": "2 Ships Are Fired On as Iran Says Strait of Hormuz Is Closed - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 20, 2026 · 06:04 BRT",
-      "pub_date": "2026-04-20",
-      "pub_ts": 1776675854,
-      "summary": "",
+      "published": "Apr 21, 2026 · 01:48 BRT",
+      "pub_date": "2026-04-21",
+      "pub_ts": 1776746892,
+      "summary": "Iran’s Revolutionary Guards said they were closing the strait until the U.S. blockade is lifted. Two ships reported being hit as they tried to pass through the strait.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "Trump managing Iran war based on conflicting caprices that blindside his aides — report - The Times of Israel",
-      "url": "https://www.timesofisrael.com/trump-managing-iran-war-based-on-conflicting-caprices-that-blindside-his-aides-report/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Apr 19, 2026 · 10:39 BRT",
-      "pub_date": "2026-04-19",
-      "pub_ts": 1776605940,
-      "summary": "WSJ says advisers have urged US president to curb his improvised social media posts and media interviews; Trump yelled at aides 'for hours' when US jet was downed, was kept from situation room",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
       "sentiment": "negative",
       "_rank": 0,
       "sentiment_success": true
     },
     {
-      "title": "How the Iran war could hurt Wall Street - Financial Times",
-      "url": "https://www.ft.com/content/12ae430c-2909-4b1c-b121-7376dce76fa3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Apr 20, 2026 · 01:00 BRT",
-      "pub_date": "2026-04-20",
-      "pub_ts": 1776657622,
+      "title": "War in Iran is causing biggest energy crisis in history, IEA says - Reuters",
+      "url": "https://www.reuters.com/business/energy/war-iran-is-causing-biggest-energy-crisis-history-iea-says-2026-04-21/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 21, 2026 · 03:43 BRT",
+      "pub_date": "2026-04-21",
+      "pub_ts": 1776753780,
       "summary": "",
       "tags": [
         "extracted",
-        "ft.com"
+        "reuters.com"
       ],
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": true
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran war fuel hike adds $100 to long-haul flight cost, study says - Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-war-fuel-hike-adds-100-long-haul-flight-cost-study-says-2026-04-21/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 21, 2026 · 03:06 BRT",
+      "pub_date": "2026-04-21",
+      "pub_ts": 1776751560,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Get used to higher gas prices this year due to Iran war - Axios",
+      "url": "https://www.axios.com/2026/04/21/gas-prices-high-iran-strait-hormuz",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Apr 21, 2026 · 06:01 BRT",
+      "pub_date": "2026-04-21",
+      "pub_ts": 1776762077,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "UK employers turn cautious after start of Iran war - Reuters",
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/uk-employers-turn-cautious-after-start-iran-war-2026-04-21/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 21, 2026 · 05:36 BRT",
+      "pub_date": "2026-04-21",
+      "pub_ts": 1776760568,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "South African business confidence hits five‑month low on impact of Iran war - Reuters",
+      "url": "https://www.reuters.com/world/africa/south-african-business-confidence-hits-fivemonth-low-impact-iran-war-2026-04-21/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 21, 2026 · 06:43 BRT",
+      "pub_date": "2026-04-21",
+      "pub_ts": 1776764594,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
     }
   ],
   "last_digest_success": true,
@@ -3698,6 +3723,34 @@
       "theme": "Jet Fuel",
       "articles": [
         {
+          "title": "EU looks to ramp up US jet fuel, SAF to tackle strain from Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaF9fYm1oZnk3UlowRWNBWXdUUkdTT2VpbXllRl9NWGYwRjUza2o4M2ZYMTFrYVRWSVdOYnEyQnJBeVdjd2h3bndsSG1jOXc0VnZaNXhPSTVkQWFod05VQXVYRG1GUWVPeExIek5XY1FIRTkyWUp2Z0QtTS1jUXN4QkVpNEROS2duTHVDeFhfYmFVVWYzM3JldE5NYzNTRVBHVk9Xb2FaUzJVNlk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 07:51 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776768704,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war creating worst energy crisis ‘in history,’ says International Energy Agency - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHcwNGd1NjFma2xOaXh0TTl5bnNmVzVxWTl6LXlRTDRFSExaOTBINVF2NVRWLWpnOGF6R0FnU3E3djAyS2RzXzMtR1Nua0hKZXlGX1BkVnBhc0VDaHlrcjRPd0l1RU9YaDJQMDlqVV96MWR0X19xMlBneHhqaVFTaTFINkhMMG53N2c4dWNiNnlPS0thb2xzX2sxYjhsdmhwb3ZKeUM3b2dzNklaTS1Bc1lB0gG3AUFVX3lxTE4tMzE4QWNRMzMxOFRfZzVoTEFxaDdkUFQ3VF95LTN3cjBvdkU4azI1YWFwdG5mbWo3NU02QXdycmhpQ0s2V18tQVpXUDRTeGd1c2ZtaEw3VHRveU9WNkhjd08wRFlSQzFGZ3NpRlNvZUhENGFKSlIwYkNmbEF5c1F3Z2doNWNUeWI5eEduX1dsQU1UYks4Q09UbzNpSEZsLXZkS0ZLODYtYmp5QW5ONURXVVpHaGJtSQ?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 07:44 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776768246,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "EU warns Europe faces fuel shortages as Iran war hits energy supplies - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZ2hheWtoZDFGc05Nb1F5aDhqZHcwMkhHQ1BRQVJhR1V6SXZVRHlHbFFOX1hJVWFIX0RtMmRYeDhOLWxaREltck5VRHJYNjB6Q0VncGZzZFNDVk1YcDJN?oc=5",
           "source": "The Jerusalem Post",
@@ -4190,5 +4243,8 @@
         }
       ]
     }
-  ]
+  ],
+  "last_digest_time": "2026-04-21T11:07:32.220456+00:00",
+  "last_watch_time": "2026-04-21T11:07:41.259126+00:00",
+  "last_relevant_time": "2026-04-21T11:07:42.602202+00:00"
 }

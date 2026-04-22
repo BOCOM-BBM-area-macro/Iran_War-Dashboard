@@ -2665,6 +2665,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/energy/how-iran-war-oil-gas-supply-shock-compares-with-past-disruptions-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.reuters.com/world/asia-pacific/dollar-week-high-markets-raise-doubts-over-iran-ceasefire-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/business/healthcare-pharmaceuticals/infant-formula-recall-impact-iran-war-weigh-danone-q1-sales-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
@@ -2826,6 +2856,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Explainer: How the Iran war oil and gas supply shock compares with past disruptions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUFLYV9DV3E3WmpuNUh0cmtkTTZxTzRHTmUtdkFRSTM1MDBranJKbENTYnlBTnNJZjhxV0RTaWd2SVRBMktTUHNZZ2k2VXlGRzBKWUNiNXdaWFBKQ3VGZVZnb3BqYVJERnprVGtCWEsxcW5nQXI2OWxZVFBSTkFBQmRDNDVZVmZuTjVlYTNNNG9WSzA3NVZyTXJJY0F2YzNjQzJkQ0Jwb0dKeHoybTNXR1k1X2VYb3M?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 02:04 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776834240,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Stocks rise, oil near $100 as Trump extends Iran ceasefire - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWU5pSnFPTHpSYi1aNnVNMnVRMWdKRURqVHdjT2JJZlJ6T1Y1Wi0tbEh5c3ZjMktqbWJDeXptcHNhcGl3VVdjWWs5d0w4eFh0Q3BEQ09xZ0lUcUJqRXg2UHdHNGEyb1pydjVMR25ZNDB5aGF2YVBrZWtLaWpLVWx3blNhYw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 21:47 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776818820,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Scoop: Trump mulls Jones Act waiver extension to lessen Iran War oil shock - Axios",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zcEhvdEpCT3JiaVhLdVpDbFVLMXg3UU1KdzdrdHFUc21Bak5JV3A4ZEp6QmhlNmw4UVZydHhrb2Ixb1dGR25SZjljbzlPRkQ1SERrbEpUaXZoLVMzaEFVUkZ1Q2lGNEFQNUdv?oc=5",
@@ -3107,6 +3165,20 @@
           "_rank": 0
         },
         {
+          "title": "The Iran war has revealed Trump's pressure point: the economy - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1RwMnNsanJQQ29BUkNGZlYxdm5CM3VwRWlEdTV5VE1mbjBRUFVyUVR5MU85MFdiODR5My1yNzZnSWJDQ2VRMUNicUZUSDB2OVFZUkhlMmFrYW5Xd0laWlg2U21CdzhxQWs2c3ZjeTN3Mll2VGFBLXpLYzVCSmp1TF9iaE5YU0RITVdtYjYweVd5N1BRTmlvQzNiSTYwZHZDQW81YTZpVlk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 18, 2026 · 02:01 BRT",
+          "pub_date": "2026-04-18",
+          "pub_ts": 1776488460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Watch Why Oil Markets Won’t Recover Quickly From the Iran War - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFFQRU5YOWRELWlxYmhEWjZXRTFWNENsNVBmeFlDdnIzRURGdGNucmxBTFpGZ2YwOTFkVVFsaFdrWWNEbzUzc3Q0YVppZVpGenpreUZWdG1SVTYzZkUxMnV0bFJVYW1LQzhmODREcXp1STVUSkJjVEt0LVJGVk0wN0ZTcE9rT1NPTm9Mc3VkT2U2endDTFdXRmJtWHdFS0FKNU1DMFJTY2Njc25fTzhv?oc=5",
           "source": "Bloomberg",
@@ -3115,6 +3187,20 @@
           "published": "Apr 17, 2026 · 21:00 BRT",
           "pub_date": "2026-04-17",
           "pub_ts": 1776470400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War: Oil Tankers Make Dash Toward Hormuz as Iran Says Strait Is Open - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0dqNVdaSXIxYTBta1hzblo0YTVzbmFpdERZalNmUm01blZFZWxTakp2dGlRM0tmeUE5MTI2ZTBINy1uZEFHWXlQQTg5QjdIVFB3NGY2QVpPQW15UnRRUXdqbVI3bEszT0xySHBlaE85X1FoSHVtbWR1OTVoMkN4TjdvUkZ1YllTcFBFYlI4TVhyS3VhYUc0R0FTQUpRXzNLZGlHNDVjV1BRaGphYVdid2lBR2w?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 17, 2026 · 14:39 BRT",
+          "pub_date": "2026-04-17",
+          "pub_ts": 1776447555,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -3770,6 +3856,20 @@
           "_rank": 0
         },
         {
+          "title": "California gasoline stocks fall to record lows as Hormuz disruption bites - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYl92SDNBRHR4Z3RTakxZRUMzc3JMdWYxU2RjVnRDODZuUHN2dS1zQ3c2N0psdUlKaHE0N0FpYkpoWWs3c2lGTkhfMVBXcWZJZTltYVMtcWZzRlJMNmcwWlBFRU5OQUpSeHk5enBxaHRudHl5S2lfallrNU80X09WZmJMRzdqM280SHRXZ3dQdEdDTVotUlZaWkVnX1JhMGlnWVJRR2gxbU94aFVaZTREem5WOVpnbU9pNlkw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 16, 2026 · 19:05 BRT",
+          "pub_date": "2026-04-16",
+          "pub_ts": 1776377120,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "US Diesel Traders Turn to Rail as War Scrambles Fuel Flows - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFlycGVxYTdqd3RIMjJYM1psaDVFV2V6dDNQWHNuN0pua0l2MTM2TUhMWEFuVmdRMmJyd1dIejFoQjg2SElaSFVtcEs2QnR4QmVvMTg1d0p5bk55dU1mdWpKVG1MckNuZTBHR0t3RzFMcXNQZDZhU2J4bExPVUFiNnhtYWpkQTFHS0prRHJ0YksyYjBwcHprT1U1RGFDV2hpSjBrRDhnM1pDSzB3VHc?oc=5",
           "source": "Bloomberg",
@@ -3895,6 +3995,20 @@
           "published": "Apr 21, 2026 · 09:24 BRT",
           "pub_date": "2026-04-21",
           "pub_ts": 1776774253,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Why Unlocking the Strait of Hormuz Is Proving So Difficult - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaThOUVNnVThYeUEtMGZuNkFoV2o5cW85R1VsOExzNzBwaDB4Rm5uRUNNdV9UQ2FFRkZ6aFFkaFljYUxybmdUTVJFZFZ3dmhjWGRRcDlJN1ZaazNSZG1VR21PdmsxV2JqWFFjVUhZa3hhTlYwa3hIcW1DR2pTTUtleVpBZjE2ZGhlSW81c2w0MDMwMWtZYk5GSGNqWDVNWlBxT3lxeDN3Vmszc3lkMThLVmFIeHNsd1c2?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 07:07 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776766028,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

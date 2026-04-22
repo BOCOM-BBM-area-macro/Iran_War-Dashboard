@@ -949,12 +949,29 @@ def fetch_hormuz_historical_data(cfg: dict, fallback_trade_data: list = None) ->
         if response.ok:
             try:
                 raw_data = response.json()
-                data = raw_data.get("data", [])
-                if data:
-                    print(f" Successfully retrieved {len(data)} records from Hormuz Tracking.")
+                raw_list = raw_data.get("data", [])
+                if raw_list:
+                    print(f" Successfully retrieved {len(raw_list)} records from Hormuz Tracking.")
+                    # Normalize categories from API
+                    for d in raw_list:
+                        c_ships = d.get("Container", d.get("Container Ships", 0))
+                        c_tankers = d.get("Crude Tankers", 0)
+                        bulk_cargo = d.get("Dry Bulk", d.get("Dry Bulk & Cargo", 0))
+                        g_carriers = d.get("Gas (LPG/LNG)", d.get("Gas Carriers", 0))
+                        other_vessels = d.get("Other/Cargo", d.get("Other", 0))
+                        
+                        data.append({
+                            "date": d.get("date"),
+                            "Container Ships": c_ships,
+                            "Crude Tankers": c_tankers,
+                            "Dry Bulk & Cargo": bulk_cargo,
+                            "Gas Carriers": g_carriers,
+                            "Other": other_vessels,
+                            "total": c_ships + c_tankers + bulk_cargo + g_carriers + other_vessels
+                        })
                     return data
-            except:
-                print(" Hormuz historical data is not JSON.")
+            except Exception as e:
+                print(f" Hormuz historical data processing failed: {e}")
         else:
             print(f" Hormuz historical data fetch failed [{response.status_code}]")
     except Exception as exc:
@@ -965,14 +982,20 @@ def fetch_hormuz_historical_data(cfg: dict, fallback_trade_data: list = None) ->
         print(" Using IMF PortWatch as fallback for Hormuz historical data...")
         normalized = []
         for d in fallback_trade_data:
+            c_ships = d.get("container", 0)
+            c_tankers = d.get("tanker", 0)
+            bulk_cargo = d.get("dry_bulk", 0)
+            g_carriers = 0 # PortWatch doesn't split Gas specifically in the simple query
+            other_vessels = d.get("general_cargo", 0) + d.get("roro", 0)
+            
             normalized.append({
                 "date": d["date"],
-                "Crude Tankers": d.get("tanker", 0),
-                "Container": d.get("container", 0),
-                "Gas (LPG/LNG)": 0,
-                "Dry Bulk": d.get("dry_bulk", 0),
-                "Other/Cargo": d.get("general_cargo", 0) + d.get("roro", 0),
-                "total": d.get("tanker", 0) + d.get("container", 0) + d.get("dry_bulk", 0) + d.get("general_cargo", 0) + d.get("roro", 0)
+                "Container Ships": c_ships,
+                "Crude Tankers": c_tankers,
+                "Dry Bulk & Cargo": bulk_cargo,
+                "Gas Carriers": g_carriers,
+                "Other": other_vessels,
+                "total": c_ships + c_tankers + bulk_cargo + g_carriers + other_vessels
             })
         return normalized
 
@@ -3794,11 +3817,11 @@ function renderHormuzChartRange(start, end) {
     const labels = HORMUZ_HISTORICAL.map(d => d.date || '');
     
     hormuzHistoricalChartRef.data.labels = slice.map(d => d.date || '');
-    if (hormuzHistoricalChartRef.data.datasets[0]) hormuzHistoricalChartRef.data.datasets[0].data = slice.map(d => d['Crude Tankers'] || 0);
-    if (hormuzHistoricalChartRef.data.datasets[1]) hormuzHistoricalChartRef.data.datasets[1].data = slice.map(d => d['Container'] || 0);
-    if (hormuzHistoricalChartRef.data.datasets[2]) hormuzHistoricalChartRef.data.datasets[2].data = slice.map(d => d['Gas (LPG/LNG)'] || 0);
-    if (hormuzHistoricalChartRef.data.datasets[3]) hormuzHistoricalChartRef.data.datasets[3].data = slice.map(d => d['Dry Bulk'] || 0);
-    if (hormuzHistoricalChartRef.data.datasets[4]) hormuzHistoricalChartRef.data.datasets[4].data = slice.map(d => d['Other/Cargo'] || 0);
+    if (hormuzHistoricalChartRef.data.datasets[0]) hormuzHistoricalChartRef.data.datasets[0].data = slice.map(d => d['Container Ships'] || 0);
+    if (hormuzHistoricalChartRef.data.datasets[1]) hormuzHistoricalChartRef.data.datasets[1].data = slice.map(d => d['Crude Tankers'] || 0);
+    if (hormuzHistoricalChartRef.data.datasets[2]) hormuzHistoricalChartRef.data.datasets[2].data = slice.map(d => d['Dry Bulk & Cargo'] || 0);
+    if (hormuzHistoricalChartRef.data.datasets[3]) hormuzHistoricalChartRef.data.datasets[3].data = slice.map(d => d['Gas Carriers'] || 0);
+    if (hormuzHistoricalChartRef.data.datasets[4]) hormuzHistoricalChartRef.data.datasets[4].data = slice.map(d => d['Other'] || 0);
     if (hormuzHistoricalChartRef.data.datasets[5]) hormuzHistoricalChartRef.data.datasets[5].data = slice.map(d => d.total || 0);
     
     hormuzHistoricalChartRef.update();
@@ -4458,11 +4481,11 @@ document.querySelectorAll(".commodity-card .chart-btn.active[onclick*='updateInt
                 data: {
                     labels: HORMUZ_HISTORICAL.map(d => d.date),
                     datasets: [
-                    { label: 'Crude Tankers', data: HORMUZ_HISTORICAL.map(d => d['Crude Tankers'] || 0), backgroundColor: '#ef4444' },
-                    { label: 'Container', data: HORMUZ_HISTORICAL.map(d => d['Container'] || 0), backgroundColor: '#7c3aed' },
-                    { label: 'Gas (LPG/LNG)', data: HORMUZ_HISTORICAL.map(d => d['Gas (LPG/LNG)'] || 0), backgroundColor: '#00e5ff' },
-                    { label: 'Dry Bulk', data: HORMUZ_HISTORICAL.map(d => d['Dry Bulk'] || 0), backgroundColor: '#f59e0b' },
-                    { label: 'Other/Cargo', data: HORMUZ_HISTORICAL.map(d => d['Other/Cargo'] || 0), backgroundColor: '#22c55e' },
+                    { label: 'Container Ships', data: HORMUZ_HISTORICAL.map(d => d['Container Ships'] || 0), backgroundColor: '#7c3aed' },
+                    { label: 'Crude Tankers', data: HORMUZ_HISTORICAL.map(d => d['Crude Tankers'] || 0), backgroundColor: '#3b82f6' },
+                    { label: 'Dry Bulk & Cargo', data: HORMUZ_HISTORICAL.map(d => d['Dry Bulk & Cargo'] || 0), backgroundColor: '#45a08d' },
+                    { label: 'Gas Carriers', data: HORMUZ_HISTORICAL.map(d => d['Gas Carriers'] || 0), backgroundColor: '#ef4444' },
+                    { label: 'Other', data: HORMUZ_HISTORICAL.map(d => d['Other'] || 0), backgroundColor: '#94a3b8' },
                     {
                         label: 'Total',
                         data: HORMUZ_HISTORICAL.map(d => d.total || 0),

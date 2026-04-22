@@ -2815,130 +2815,120 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
-    }
-  },
-  "last_run_success": true,
-  "last_generated_date": "2026-04-21",
-  "last_generated_time": "2026-04-21T23:01:47.188433+00:00",
-  "digest": {
-    "digest": "The ongoing conflict in Iran has led to significant global repercussions, including major disruptions to the energy market, described as the largest in history. Crude oil imports for India have declined, while Russian volumes reached record highs, and marine fuel blenders are actively seeking alternative oil sources due to supply chain issues. The conflict has also directly impacted transportation costs, with a study indicating a $100 increase in long-haul flight expenses and a general expectation of higher gas prices throughout the year. Diplomatic efforts appear uncertain, with mixed signals from Tehran and Washington regarding potential talks, despite a nearing ceasefire deadline. Pakistan has emerged as an intermediary, attempting to navigate communication with the US. Meanwhile, China is positioned to potentially reshape the global order, leveraging its role as Iran's largest oil customer. The conflict has also triggered a decline in business confidence in South Africa and caused UK employers to adopt a cautious stance. In a separate development, a Mossad agent was reportedly killed abroad during operations against Iran, an event that significantly influenced the campaign against the nation.",
-    "top_themes": [
-      "Geopolitical Tensions and Diplomatic Uncertainty",
-      "Global Energy Market Disruptions",
-      "International Economic Impacts"
-    ],
-    "next_events": [
-      {
-        "title": "Escalation in the Strait of Hormuz",
-        "description": "Iran's reported closure of the Strait of Hormuz and attacks on ships represent a critical escalation in maritime security. Analysts should monitor any further incidents, the duration of the closure, and international responses to ensure the free flow of global oil supplies."
-      },
-      {
-        "title": "Prospects for a Lasting Iran Deal and Ceasefire Adherence",
-        "description": "Despite mixed signals and an approaching ceasefire deadline, the possibility of a lasting deal between the US and Iran remains. Watch for any concrete steps towards negotiations, the adherence to existing ceasefires (like the Lebanon-Israel one), and the involvement of mediators like Pakistan."
-      },
-      {
-        "title": "Sustained Global Energy Market Volatility",
-        "description": "The 'Iran war' is explicitly linked to the 'biggest energy crisis in history,' causing record high oil prices and increased fuel costs globally. Monitor crude import patterns, gas prices, and the impact on various industries and national economies, including marine fuel and business confidence."
-      },
-      {
-        "title": "China's Evolving Geopolitical Influence",
-        "description": "As Iran's largest oil customer, China is positioned to significantly influence the conflict and potentially reshape the world order. Observe China's diplomatic initiatives, economic leverage, and any shifts in its stance regarding the war and global stability."
-      },
-      {
-        "title": "Intensification of Covert Operations and Regional Proxy Conflicts",
-        "description": "The revelation of a Mossad agent killed during operations against Iran highlights the covert dimension of the conflict. Watch for further intelligence activities and monitor the stability of regional ceasefires, particularly involving Iranian-backed groups like Hezbollah, for signs of wider escalation."
-      },
-      {
-        "title": "Impact of US Leadership and Domestic Politics on Iran Policy",
-        "description": "Public questioning of Trump's temperament and his reactions to criticism regarding the Iran war could influence US policy and stability. Analysts should monitor shifts in US public opinion, presidential rhetoric, and any internal political pressures that might affect the conflict's trajectory."
-      }
-    ]
-  },
-  "relevant_news": [
-    {
-      "title": "2 Ships Are Fired On as Iran Says Strait of Hormuz Is Closed - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 21, 2026 · 01:48 BRT",
-      "pub_date": "2026-04-21",
-      "pub_ts": 1776746892,
-      "summary": "Iran’s Revolutionary Guards said they were closing the strait until the U.S. blockade is lifted. Two ships reported being hit as they tried to pass through the strait.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "sentiment_success": true
     },
-    {
-      "title": "War in Iran is causing biggest energy crisis in history, IEA says - Reuters",
-      "url": "https://www.reuters.com/business/energy/war-iran-is-causing-biggest-energy-crisis-history-iea-says-2026-04-21/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 21, 2026 · 03:43 BRT",
-      "pub_date": "2026-04-21",
-      "pub_ts": 1776753780,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran war fuel hike adds $100 to long-haul flight cost, study says - Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-war-fuel-hike-adds-100-long-haul-flight-cost-study-says-2026-04-21/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 21, 2026 · 03:06 BRT",
-      "pub_date": "2026-04-21",
-      "pub_ts": 1776751560,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Get used to higher gas prices this year due to Iran war - Axios",
-      "url": "https://www.axios.com/2026/04/21/gas-prices-high-iran-strait-hormuz",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Apr 21, 2026 · 06:01 BRT",
-      "pub_date": "2026-04-21",
-      "pub_ts": 1776762077,
+    "https://www.axios.com/2026/04/22/triton-drone-crash-iran-northrop": {
       "summary": "",
       "tags": [
         "extracted",
         "axios.com"
       ],
       "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.reuters.com/business/energy/iran-war-conflict-could-create-systemic-gas-demand-destruction-says-top-sector-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.reuters.com/world/europe/german-economy-likely-grew-q1-iran-war-weighs-outlook-bundesbank-says-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.washingtonpost.com/politics/2026/04/22/trump-iran-negotiations-obama/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    }
+  },
+  "last_run_success": true,
+  "last_generated_date": "2026-04-22",
+  "last_generated_time": "2026-04-22T08:01:46.724597+00:00",
+  "digest": {
+    "digest": "The United States and Israel initiated a conflict with Iran on February 28th, leading to a weekslong war that has impacted neighboring countries and global markets. Attacks have continued in the Strait of Hormuz, despite President Trump's extension of a ceasefire and blockade. Iran's foreign minister has characterized the US blockade of Iranian ports as an 'act of war,' highlighting a tense diplomatic standoff. Mixed signals are being sent by Tehran and Washington regarding potential talks, with President Trump urging Iran to end its power struggle and return to negotiations. Europe's role in the conflict remains on the sidelines, despite proposals for securing the Strait of Hormuz. The war has caused significant disruptions to global oil and gas supplies, leading to increased inflation in the UK, with fuel prices being a primary driver. The German economy, while showing growth in the first quarter, faces headwinds due to the conflict. Major airlines like Lufthansa have cut flights to conserve fuel, and the supply chain for goods like aluminum cans has been affected, impacting industries such as beverage production. There is also concern that the conflict could lead to systemic gas demand destruction within the sector.",
+    "top_themes": [
+      "Iran War Impact on Global Markets",
+      "US-Iran Diplomatic Standoff",
+      "Energy Supply Chain Disruptions"
+    ],
+    "next_events": [
+      {
+        "title": "Outcome of Diplomatic Deadlines and Talks",
+        "description": "Trump has issued deadlines for Iran to return to peace talks, but signals remain mixed and previous talks have faltered. The success or failure of these diplomatic overtures will be critical in determining the conflict's future trajectory. Analysts should watch for any confirmed meetings, specific proposals, or definitive statements indicating a complete breakdown of negotiations, especially as Trump's deadlines approach."
+      },
+      {
+        "title": "Strait of Hormuz Security and Blockade Resolution",
+        "description": "Despite ceasefire extensions, the Strait of Hormuz remains blocked, and ships continue to be attacked, highlighting its volatility as a critical global oil choke point. Monitor for any lifting of the blockade, further maritime incidents, or concrete actions by international coalitions, such as the proposed British-French plan, to secure the strait. Iran's response to any such security initiatives will be a key indicator of de-escalation or further tension."
+      },
+      {
+        "title": "Escalation of Global Economic Disruptions",
+        "description": "The ongoing conflict has already triggered significant oil and gas supply shocks, rising inflation, and disruptions across global supply chains, impacting everything from airline operations to consumer goods. Analysts should closely track global energy prices, inflation rates in major economies (particularly Europe and the UK), and corporate earnings reports for further impacts. Any new sanctions or retaliatory measures could exacerbate these economic pressures, potentially leading to systemic gas demand destruction and broader economic slowdowns."
+      },
+      {
+        "title": "US-Iran Military Posturing and Actions",
+        "description": "The conflict is described as an ongoing 'war' initiated by the US and Israel, with Iran labeling the US blockade of its ports as an 'act of war.' Military incidents, such as the Triton drone crash, underscore continued high tensions. Watch for any new military engagements, further drone or naval incidents, or explicit declarations of intent from either the US/Israel or Iran regarding future military operations, as these will signal potential escalation or de-escalation."
+      },
+      {
+        "title": "Evolution of European Involvement and Influence",
+        "description": "Europe has expressed a desire for a significant role in resolving the conflict and securing the Strait of Hormuz but has largely remained on the sidelines. Their active involvement could substantially alter the conflict's dynamics. Analysts should monitor for any progress on the British-French plan to secure the Strait or other coordinated European diplomatic and security initiatives, observing whether Tehran and Washington begin to acknowledge or incorporate European perspectives more directly."
+      }
+    ]
+  },
+  "relevant_news": [
+    {
+      "title": "More ships attacked in Strait of Hormuz after Trump’s ceasefire extension - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/04/22/hormuz-strait-us-iran-talks-war/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Apr 22, 2026 · 07:21 BRT",
+      "pub_date": "2026-04-22",
+      "pub_ts": 1776853305,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "UK employers turn cautious after start of Iran war - Reuters",
-      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/uk-employers-turn-cautious-after-start-iran-war-2026-04-21/",
+      "title": "Trump declares Iran ceasefire extension with Hormuz strait still blocked - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-will-indefinitely-extend-ceasefire-unclear-if-iran-agrees-2026-04-22/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 21, 2026 · 05:36 BRT",
+      "published": "Apr 21, 2026 · 22:29 BRT",
       "pub_date": "2026-04-21",
-      "pub_ts": 1776760568,
+      "pub_ts": 1776821340,
       "summary": "",
       "tags": [
         "extracted",
@@ -2950,14 +2940,71 @@
       "sentiment_success": false
     },
     {
-      "title": "South African business confidence hits five‑month low on impact of Iran war - Reuters",
-      "url": "https://www.reuters.com/world/africa/south-african-business-confidence-hits-fivemonth-low-impact-iran-war-2026-04-21/",
+      "title": "Iran's foreign minister says US blockade of Iranian ports is an 'act of war' - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-us-blockade-iranian-ports-is-an-act-war-2026-04-21/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 21, 2026 · 06:43 BRT",
+      "published": "Apr 21, 2026 · 15:28 BRT",
       "pub_date": "2026-04-21",
-      "pub_ts": 1776764594,
+      "pub_ts": 1776796135,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran war conflict could create systemic gas demand destruction, says top sector official - Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-war-conflict-could-create-systemic-gas-demand-destruction-says-top-sector-2026-04-22/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 22, 2026 · 07:55 BRT",
+      "pub_date": "2026-04-22",
+      "pub_ts": 1776855359,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "German economy likely grew in Q1 but Iran war weighs on outlook, Bundesbank says - Reuters",
+      "url": "https://www.reuters.com/world/europe/german-economy-likely-grew-q1-iran-war-weighs-outlook-bundesbank-says-2026-04-22/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 22, 2026 · 07:15 BRT",
+      "pub_date": "2026-04-22",
+      "pub_ts": 1776852926,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "UK inflation, showing first hit from Iran war, jumps to 3.3% - Reuters",
+      "url": "https://www.reuters.com/world/uk/uk-inflation-rises-33-iran-war-impact-begins-hit-2026-04-22/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 22, 2026 · 03:04 BRT",
+      "pub_date": "2026-04-22",
+      "pub_ts": 1776837840,
       "summary": "",
       "tags": [
         "extracted",
@@ -2999,6 +3046,20 @@
           "published": "Apr 22, 2026 · 02:04 BRT",
           "pub_date": "2026-04-22",
           "pub_ts": 1776834240,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Rupee extends losing streak as Iran war jitters lift oil to $100 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZsSjFZZVozdmM2U0g3WmtfUVV1NkZSMlZ4U1F3LVV3WjBiOEp2QXN5c0NpdVMwdWtXUFAxYU0yVGxYOGs1QTNmNko0OEVIVzRKS3RQN3pqdDNXWHBrdURjYmhkOFdLamt0enBRVHQweElqNVZVR1NMb2dya0VqRjNkem9jay1iYV9mb3NPR0NvWlQ3VVhmekpjMHNxZnE0OWxvdnRtMlZ5THJkMF9sUzV4UWxzWW5Rcnc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 00:06 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776827160,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -3223,6 +3284,20 @@
           "published": "Apr 20, 2026 · 02:00 BRT",
           "pub_date": "2026-04-20",
           "pub_ts": 1776661200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil price plunge on US-Iran peace hopes to give rupee, bonds some breather - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJBVkliU0pZd2ZSNXRCblBuTV91RFJEQThJbTBBUVptaEwxZVYwaDFtamo0aUpfWktaZWhVUm5MTFZyaUM0VkprN1ZRTVQyLWxDYUZqVEE5MGw2dGJDTllCWUNLb0RKdnhuTERZUXFnb1JDSVJvWmpHUE9Va1JfVTdodGpnSHlHV1lkSFRZNHYtR2pGYVRfT1dzYXFRN2F5SUhSMkFMMUV1N3BtSGNRTER4ZUhjdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 19, 2026 · 22:45 BRT",
+          "pub_date": "2026-04-19",
+          "pub_ts": 1776649543,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -4163,6 +4238,34 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Iran war conflict could create systemic gas demand destruction, says top sector official - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajhET1RQNGdHOWNnczFVODBjeXNSR0xmb0E5bzEwcjBQV1pscDU5WGZBNlEzMEplRUg0TFl5VEVzdWMzZVVxTl9WTTFwazRKRUcyTzBiMjlMNXczVTdhY2RhOF92b2dPRUd0MUkyX1JqdHJNMV8zQll6QjM2YlEzc09zYlRIUlVfc29QOHNrZXM5aThPaEF3VXJUMUJqUVduWm94NTNQeWxUZUlUU0RBWDdLc216cFlqR0xDcjRHYkhrc3pxeXFEX3dn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 07:55 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776855359,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "EU aims to ease energy blow from Iran war with tax cuts, gas coordination - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFVVU1Rib0d1QWdDTEdSQmlpYkp4LTFlRmdBcW9XT1NmZFBRQjRhU0Ezb1UySDJXakw4RDNYcl9saFN6bW9XMXNzOVRTbUVxZTNsZ3N1YXZScWtuNHJTM0pQRUtvajd6MzNwRFE4R091b1FHbGcwSnpEVkhpbW9yNkNKU1BJd2xWR2Nkejg2TFdERGk5NFNweWZEMVB6NHhJRUJ2VWxyRUZhS19OSXpJM1pUcVlXMExRbXY5a2NqVDFJU0ZtY2tRazFYOA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 01:02 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776830520,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Japan, Mexico agree on energy cooperation as Iran war disrupts supplies - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmhXOG1tWVJhNmRzSGo3ZFJGeWx5eHc4bDc3Nl9qdUJ1S3pQRENPaUYtNzNOUERzZlhVV1UxeG5FUEJ3UTlRSEtDNF9qZU1WT3BxTXQxQnlkdV9JMm40QktXSk5odmZSWVBCc1lhQmxYcWlXaGVGcHRNQlZ5dy1MYkZ2UWRKY095aGFTNFhId3hNb3FTYW96OHpJY0oydmk4eWM2dTYwU084RVdSekM2bi0wQS04VEpvbVZv?oc=5",
           "source": "Reuters",
@@ -4587,6 +4690,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Lufthansa Cuts 20,000 Flights to Save Fuel as Iran War Fallout Spreads - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVQ2ZWExZEQ1Q1h4eTNxSVpNNE5CRXM2NnFrYm5Sb1FCLUxmdS1lUDd2Z21zTURFZHZ2Sm9LcEhIQkM3RVZoblRLVFZQUFl1aE1FNGlsenp1Qk56dS1UZEliQUxqVkplOWc4dExjUGV5T2hiR3NEU2ZzbzJOU25MQzVkUndJdHlSTnk5NnE5cGIzQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 07:43 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776854638,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "TUI cuts profit outlook as airlines struggle with Iran war fuel price impact - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTlKbXR0MFVwRUsxTVpVNVkycmJzdzJHelNpU1FqbXlhNkhXQ3g1X2E0amJRT1dQYzI1aHY4T3BmM1Q5M1FqNl93TXdTaVFjTnBna2pMc0tlWDZhT0E4Q3Zjd0o5eWJYYk1rWEswOVh6QV9pdUNLQXhibGc0cjhTdkoxSzFlTkVzWUhKOGRTUjIzeGhhRlZpLTFjZm42WkFnOVNxZEVrMGhVS3FDZDloQUpCdml3UGVfTXc?oc=5",
@@ -5179,7 +5296,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-04-21T11:07:32.220456+00:00",
-  "last_watch_time": "2026-04-21T11:07:41.259126+00:00",
-  "last_relevant_time": "2026-04-21T11:07:42.602202+00:00"
+  "last_digest_time": "2026-04-22T11:06:51.558210+00:00",
+  "last_watch_time": "2026-04-22T11:07:02.162958+00:00",
+  "last_relevant_time": "2026-04-22T11:07:04.009124+00:00"
 }

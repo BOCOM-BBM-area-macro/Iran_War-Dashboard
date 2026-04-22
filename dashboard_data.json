@@ -264,7 +264,7 @@
       "pub_date": "2026-04-16"
     },
     "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html": {
-      "summary": "",
+      "summary": "President Trump is confronting a crisis that is not bending to his narrative of a “pretty reasonable” new regime in Iran and all-but-assured victory for the United States.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2123,7 +2123,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-21"
+      "pub_date": "2026-04-20"
     },
     "https://www.axios.com/2026/04/21/iran-us-war-peace-talks-vance-pakistan": {
       "summary": "",
@@ -3038,11 +3038,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.nytimes.com/2026/04/22/opinion/iran-energy-climate.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-22",
-  "last_generated_time": "2026-04-22T16:01:46.122096+00:00",
+  "last_generated_time": "2026-04-22T17:01:46.225370+00:00",
   "digest": {
     "digest": "The United States and Israel initiated a conflict with Iran on February 28th, leading to a weekslong war that has impacted neighboring countries and global markets. Attacks have continued in the Strait of Hormuz, despite President Trump's extension of a ceasefire and blockade. Iran's foreign minister has characterized the US blockade of Iranian ports as an 'act of war,' highlighting a tense diplomatic standoff. Mixed signals are being sent by Tehran and Washington regarding potential talks, with President Trump urging Iran to end its power struggle and return to negotiations. Europe's role in the conflict remains on the sidelines, despite proposals for securing the Strait of Hormuz. The war has caused significant disruptions to global oil and gas supplies, leading to increased inflation in the UK, with fuel prices being a primary driver. The German economy, while showing growth in the first quarter, faces headwinds due to the conflict. Major airlines like Lufthansa have cut flights to conserve fuel, and the supply chain for goods like aluminum cans has been affected, impacting industries such as beverage production. There is also concern that the conflict could lead to systemic gas demand destruction within the sector.",
     "top_themes": [
@@ -3196,6 +3206,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | The Only Good News From Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SUXRJcDBBQnJ1WnFlVnN6LXFTSWUzWjlmaS1KcDk3U2ZkelloRDJUNzQxQnBTQzFESnZ1dGs2S08tT2VjcmVRZDZUN2hBTlVJNHRPX2o0MHVOemxHNVBVZE9GX1RSUURhVFdVazNOSXMwX192OEE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 16:22 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776885725,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "From paint to flights, Iran war lifts costs, darkens outlooks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckdQdEFnWENVbDVDNjJ0bzhkbnJLNGpBS29PQjZacktrT1NZOWdvTHUteGhLMHVYRzY5R1dVUExmZnVrYTRjNmZMSFlnSGJXSVBpdXR4clNjZ05QT2FuajNaV1NMVFJlSm1tdGtLdER6eFJWNTBfVXAtb3hWS0tSNEhvSHpUT2tJSEx4eEx5bnN5dV9GSWNxNUNhaks1bmxCbHI1REVJVGQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 15:55 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776884118,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Opinion | Blockades Don’t Work the Way Trump Thinks - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOazZhQWxEVzN6eXBUMnJlY0EwNE5YcWcxQjhFRW5lYjF6ZTFjclZzUjM5a0tmbUxTRnZoZEJLNV9PVlJSQW9DMGhDTnh1V1hVQjRYSjlDbHhjT01QdHhock1ndWRkLXFhQ1JjNWtyM0ZiaXJEOHl6Yy1TZUhHTXh0UnNVQUFTU0tFR3RwaXQwVHlReENmQWc?oc=5",

@@ -70,7 +70,7 @@ def main():
     vessels = []
     if _collect_ais_messages:
         m_cfg = cfg.get("maritime_tracker", {})
-        bbox = m_cfg.get("bounding_box", [[[22.0, 48.0], [30.5, 60.0]]])
+        bbox = m_cfg.get("bounding_box", [[22.0, 48.0], [30.5, 60.0]])
         
         # Ensure correct bbox nesting for AISStream
         if bbox and not isinstance(bbox[0][0], list):

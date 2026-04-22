@@ -2123,7 +2123,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-21"
+      "pub_date": "2026-04-20"
     },
     "https://www.axios.com/2026/04/21/iran-us-war-peace-talks-vance-pakistan": {
       "summary": "",
@@ -2755,6 +2755,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.washingtonpost.com/world/2026/04/22/hormuz-strait-us-iran-talks-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.reuters.com/world/india/diet-coke-loses-its-fizz-india-iran-war-hits-cans-supply-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.reuters.com/markets/commodities/iran-war-may-crush-oil-demand-today-send-it-soaring-long-term-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
@@ -2916,6 +2946,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war may crush oil demand today, but send it soaring long term - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2NBUmdfYUk2V3UwbGZZb2VWVHJxQWJVblVreWw1UzhiZjRGeW9uYV9lM00xbDF5bHhaWXN0dWh1bDI5VWR6bUp4WnpjSUVaZVM1Z29fTTBOTXd1U1V0VlVZMnRJRVRwZTRGY3d4US0xcFNpVzRzd0RmQnBUbG00X2dobEFFSzg5blF6SFE2YVBTaFR2ZGZ5c0tEaDdZS0VBS1dBYjhnRUJOeC1DbVd3NmsyRHp3Q2hR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 03:14 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776838440,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Explainer: How the Iran war oil and gas supply shock compares with past disruptions - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUFLYV9DV3E3WmpuNUh0cmtkTTZxTzRHTmUtdkFRSTM1MDBranJKbENTYnlBTnNJZjhxV0RTaWd2SVRBMktTUHNZZ2k2VXlGRzBKWUNiNXdaWFBKQ3VGZVZnb3BqYVJERnprVGtCWEsxcW5nQXI2OWxZVFBSTkFBQmRDNDVZVmZuTjVlYTNNNG9WSzA3NVZyTXJJY0F2YzNjQzJkQ0Jwb0dKeHoybTNXR1k1X2VYb3M?oc=5",
@@ -3127,6 +3171,20 @@
           "_rank": 0
         },
         {
+          "title": "What to Know About the Strait of Hormuz Blockade - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmN6d21hTkZUVnRUaWl5UHhyeGd1dzVGQUozMkNGY05ianJQbVBVQUdVNzYtZll3WV9RQktvVDZSTlJCV2EzbWRzWlViN194XzkyV09aQnJhS2VvRTk4SHByS3k5LVZjbzE4RXMzYWlRSGtOQmUzX0pmR0RGQ1g4czctQlJhbXo1d0U1bjhadkl3dVprZFBDU2hEeTlVZw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 20, 2026 · 04:00 BRT",
+          "pub_date": "2026-04-20",
+          "pub_ts": 1776668400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Breakingviews - Iran catastrophe has some silver linings - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcldybTlUM0RsX1BGTGl1U0prUldFTnZVbFJadzVadThCaXRWUENQOGhpVXBwbWZZQnkzT3Y1WXhxajdXTXJEN0MtZEljNFZpRDhxVkRsaEhCYXl4eW95a3haR1hfSjl1ZU9MN044eG4zOFBWVkZxVWFpdEJyNjRKaEMzbkx4a2M0QkFJRHpROUYzOWEwQWZfS0FoVkN2dlVuVEtz?oc=5",
           "source": "Reuters",
@@ -3233,6 +3291,20 @@
           "published": "Apr 18, 2026 · 02:01 BRT",
           "pub_date": "2026-04-18",
           "pub_ts": 1776488460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Reopening the Strait of Hormuz is easier said than done. Here's why - CBC",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTBmYkcxUXdDRGptTkVFWHMxRU9kdUwtaWc2cU5obnlLSDdhMlhnalZEdm9wZjF5NVEtLTB5TUF5VnVWRWZNczlMenN3ckhrQ2pzYm0xbG9BUk1XV2hBeDltV084ZW5ZZlE2RlNsYTRweHo5eUlpd1JUMk5tNUhlXzBpQk9nblRfUTBRN0twVXNnTWRMclBTakRVRFc?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 17, 2026 · 22:02 BRT",
+          "pub_date": "2026-04-17",
+          "pub_ts": 1776474120,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

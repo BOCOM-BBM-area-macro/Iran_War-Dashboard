@@ -2123,7 +2123,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-21"
     },
     "https://www.axios.com/2026/04/21/iran-us-war-peace-talks-vance-pakistan": {
       "summary": "",
@@ -2489,7 +2489,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-21"
+      "pub_date": "2026-04-22"
     },
     "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html": {
       "summary": "",
@@ -2741,6 +2741,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/dulux-maker-akzonobel-beats-q1-profit-estimates-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4877,6 +4887,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Petroleum infuses a multitude of everyday items the Iran war could make more expensive - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOG16S05yOEhEMmJsZHA0RUpGMUg5dm9jWWUyQmdmX0JNbHlNbWJFOUVsQ3FuTWxtTWtCcUVtUlBZMHlyYTNXdF9ZREJXb1IxaEZ2N0dPQncxWGVlcHFuZS1Cd0FtOS1zMHpKYS1ETFJ6RkJnVlVIbzVacnBzXzUtZzJ2ZWtPQkJRMVl3bG01N1Fib2s1NWlDaVZ6Z0N4WVdCdEJod29mamRoNzc3aUhxemhET3ZTX0ZwWktBa3liNHhHME4yc0FhMHZqUHNTY01JdWZSbjNB?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 04:04 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776841460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gautam Adani overtakes Mukesh Ambani as Asia’s richest man after Iran war hits oil - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTZLMU9fWFFtQzdkd19CZ2RZemdRUG5KaG5KMEpXYlVDQmpveHBqcTlBYVl3ZGdwZXlwclFMMDhtdm9sVlJ1cU9EVHh5R1ppY2FpbXN3ZzlUcFlRNUtDTzV1a2tmM0pZUGxXTTRsMWpoUTVKUkdBUmZaaE1RdTBPMWpzemU?oc=5",

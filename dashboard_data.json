@@ -551,7 +551,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-20"
     },
     "https://www.reuters.com/business/us-buyers-redirect-imported-fertilizer-overseas-iran-war-drives-up-global-prices-2026-04-17/": {
       "summary": "",
@@ -810,7 +810,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-18"
     },
     "https://www.washingtonpost.com/world/2026/04/18/china-iran-war-xi-trump/": {
       "summary": "",
@@ -2955,11 +2955,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.wsj.com/world/europe/eurozone-consumers-feel-pinch-as-iran-war-drives-costs-higher-2bc119b7": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.nytimes.com/2026/04/22/opinion/international-world/iran-war-blockade-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-22",
-  "last_generated_time": "2026-04-22T12:08:25.222330+00:00",
+  "last_generated_time": "2026-04-22T13:02:05.017149+00:00",
   "digest": {
     "digest": "The United States and Israel initiated a conflict with Iran on February 28th, leading to a weekslong war that has impacted neighboring countries and global markets. Attacks have continued in the Strait of Hormuz, despite President Trump's extension of a ceasefire and blockade. Iran's foreign minister has characterized the US blockade of Iranian ports as an 'act of war,' highlighting a tense diplomatic standoff. Mixed signals are being sent by Tehran and Washington regarding potential talks, with President Trump urging Iran to end its power struggle and return to negotiations. Europe's role in the conflict remains on the sidelines, despite proposals for securing the Strait of Hormuz. The war has caused significant disruptions to global oil and gas supplies, leading to increased inflation in the UK, with fuel prices being a primary driver. The German economy, while showing growth in the first quarter, faces headwinds due to the conflict. Major airlines like Lufthansa have cut flights to conserve fuel, and the supply chain for goods like aluminum cans has been affected, impacting industries such as beverage production. There is also concern that the conflict could lead to systemic gas demand destruction within the sector.",
     "top_themes": [
@@ -5327,6 +5347,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Diet Coke loses its fizz in India as Iran war hits cans supply - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHZHQllnbzVPXzdBZXo4LUhrLTlsX2VJLVU2ZVhBRDMycGlpd2JxVUt2SW5TQTFqM0VwSXByakVTMmRod09MY1BHR1EwZ2NGNE5TRFI3aXlNQ1BzcGFCYmdCTUFGQ2dybUNFa25ka1lTdTFJR3hGakVGZDVDdXNReTcyMGk3akFYdC13emZkcm1rYkh6UEtJSHpBZ0R5MVZ2NWNCYVd5aw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 05:04 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776845059,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Japan Manufacturers Hurt Most by Aluminum Shortage From Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0pRQnVNWVo4NVlVeTVWQjN4S05HaW9PRWlFTjJxdUVrTmg3S055b3NlcW1UM3BiYjlSMHd4OHZNSldObnJzdGEzbzFRb0lqRnY3ZHRrZ1NhSnNFOHcxQlcxZ0plcjVPb2hxd01rNGc3OWdHY05XZXdvNjNNWEQ2UUdVMjViZnRKZ3k2RU03ay1RMjJKR2dBMUlJb2FjS0VzazBmcmwzWDQ1cDJqUlVYYnc1NnFLdw?oc=5",

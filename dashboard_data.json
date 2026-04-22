@@ -2123,7 +2123,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-20"
+      "pub_date": "2026-04-21"
     },
     "https://www.axios.com/2026/04/21/iran-us-war-peace-talks-vance-pakistan": {
       "summary": "",
@@ -2472,7 +2472,7 @@
       "pub_date": "2026-04-21"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html": {
-      "summary": "",
+      "summary": "Washington is demanding that the Baghdad government dismantle Iran-backed Iraqi militias that have been attacking Americans and U.S. sites there recently.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2582,11 +2582,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-21"
+    },
+    "https://www.axios.com/2026/04/22/trump-oil-jones-act-waiver": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-21",
-  "last_generated_time": "2026-04-21T22:01:52.935615+00:00",
+  "last_generated_time": "2026-04-21T23:01:47.188433+00:00",
   "digest": {
     "digest": "The ongoing conflict in Iran has led to significant global repercussions, including major disruptions to the energy market, described as the largest in history. Crude oil imports for India have declined, while Russian volumes reached record highs, and marine fuel blenders are actively seeking alternative oil sources due to supply chain issues. The conflict has also directly impacted transportation costs, with a study indicating a $100 increase in long-haul flight expenses and a general expectation of higher gas prices throughout the year. Diplomatic efforts appear uncertain, with mixed signals from Tehran and Washington regarding potential talks, despite a nearing ceasefire deadline. Pakistan has emerged as an intermediary, attempting to navigate communication with the US. Meanwhile, China is positioned to potentially reshape the global order, leveraging its role as Iran's largest oil customer. The conflict has also triggered a decline in business confidence in South Africa and caused UK employers to adopt a cautious stance. In a separate development, a Mossad agent was reportedly killed abroad during operations against Iran, an event that significantly influenced the campaign against the nation.",
     "top_themes": [
@@ -2744,6 +2764,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Scoop: Trump mulls Jones Act waiver extension to lessen Iran War oil shock - Axios",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zcEhvdEpCT3JiaVhLdVpDbFVLMXg3UU1KdzdrdHFUc21Bak5JV3A4ZEp6QmhlNmw4UVZydHhrb2Ixb1dGR25SZjljbzlPRkQ1SERrbEpUaXZoLVMzaEFVUkZ1Q2lGNEFQNUdv?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 21:46 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776818808,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUlkQ0h6SC1RMzl4aW92c2FhZTJualhoVTFaZmJyaUt2cmRxeWlIZGNBeXF5S0pzc2xpVF9wM0doSnRwVmtmTDVyN1hZZjFXd0xhTjJKSVhkRlFvODZ2VEZwNldTUGJUcEhMM1F1a1V5WDBsXzVYdmJBbDFvSlJoOF9FWmkzYnBzTnc?oc=5",
           "source": "The New York Times",
@@ -2752,6 +2786,20 @@
           "published": "Apr 21, 2026 · 12:52 BRT",
           "pub_date": "2026-04-21",
           "pub_ts": 1776786747,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil market has lost a billion barrels due to Iran war, Vitol boss warns - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamJsNWZEOGdYYjMzeS1JS1lyS2F3UEdlT1VpSHpFWG5faGRVbDlDUFgxU2VObnowMUJxT0V6Zm9rYm05djVULTNONDhXOTdGcVVJM3FQNTRYSWhBc3ppeGdYS0pXaUZ4cENSUUx2TGE2cFFTcy1TV2tzVG13WkZIbVE3c2U?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 11:07 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776780440,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

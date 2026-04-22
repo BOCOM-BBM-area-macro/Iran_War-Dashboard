@@ -544,7 +544,7 @@
       "pub_date": "2026-04-15"
     },
     "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel": {
-      "summary": "",
+      "summary": "The diplomacy came as the White House dismissed reports that President Trump wanted to extend the cease-fire, while still expressing optimism that talks could yield an agreement.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -810,7 +810,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-18"
+      "pub_date": "2026-04-20"
     },
     "https://www.washingtonpost.com/world/2026/04/18/china-iran-war-xi-trump/": {
       "summary": "",
@@ -2975,11 +2975,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-04-22/iran-war-becomes-game-of-brinkmanship-in-the-strait-of-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.reuters.com/business/german-economy-ministry-halves-2026-growth-forecast-raises-inflation-outlook-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-22",
-  "last_generated_time": "2026-04-22T13:02:05.017149+00:00",
+  "last_generated_time": "2026-04-22T14:01:59.240515+00:00",
   "digest": {
     "digest": "The United States and Israel initiated a conflict with Iran on February 28th, leading to a weekslong war that has impacted neighboring countries and global markets. Attacks have continued in the Strait of Hormuz, despite President Trump's extension of a ceasefire and blockade. Iran's foreign minister has characterized the US blockade of Iranian ports as an 'act of war,' highlighting a tense diplomatic standoff. Mixed signals are being sent by Tehran and Washington regarding potential talks, with President Trump urging Iran to end its power struggle and return to negotiations. Europe's role in the conflict remains on the sidelines, despite proposals for securing the Strait of Hormuz. The war has caused significant disruptions to global oil and gas supplies, leading to increased inflation in the UK, with fuel prices being a primary driver. The German economy, while showing growth in the first quarter, faces headwinds due to the conflict. Major airlines like Lufthansa have cut flights to conserve fuel, and the supply chain for goods like aluminum cans has been affected, impacting industries such as beverage production. There is also concern that the conflict could lead to systemic gas demand destruction within the sector.",
     "top_themes": [
@@ -4384,6 +4404,20 @@
           "published": "Apr 22, 2026 · 07:55 BRT",
           "pub_date": "2026-04-22",
           "pub_ts": 1776855359,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Europe's response to the Iran war energy crunch - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVVEbmh6ak4tOU9rSW1GT3ZVOHgxc1k2MEtUbnJFbnhUTmlXdVowbnpacU1kTC1SU05EQ0dOeUVIZTBVdnplMmVTUGZ5TFMxTkZXaEluYUNKQWpVTzlGendFQnFFMVc2eWpNUDd6UkEwOG9NQ1dvNnlGeVVXbDFEUXBoS3pva0ZfZlVEWjZZUElCZlhEaUE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 01:03 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776830580,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

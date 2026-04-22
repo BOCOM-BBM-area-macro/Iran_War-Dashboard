@@ -2116,7 +2116,7 @@
       "pub_date": "2026-04-20"
     },
     "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html": {
-      "summary": "",
+      "summary": "As the United States and Iran make a second attempt at a deal, their negotiating styles are on a collision course.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2412,7 +2412,7 @@
       "pub_date": "2026-04-21"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html": {
-      "summary": "",
+      "summary": "A British-French plan to secure the Strait of Hormuz would give the continent a role. But Tehran and Washington are still calling the shots.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2635,6 +2635,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-21"
+    },
+    "https://www.axios.com/2026/04/22/trump-iran-war-power-struggle-ceasefire": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.bloomberg.com/graphics/2026-iran-tehran-strike-damage-satellite-images/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
+    },
+    "https://www.reuters.com/world/china/global-markets-global-markets-2026-04-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-21"
     }
   },
   "last_run_success": true,
@@ -2805,6 +2835,20 @@
           "published": "Apr 21, 2026 · 21:46 BRT",
           "pub_date": "2026-04-21",
           "pub_ts": 1776818808,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Tiny Pacific nations face tough choices on food, fuel posed by Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeC1lT1RWMXQ0TGxha2tweFBCcmFLODYwQVhrdFhkRTh4NGM1V1l2a2lvUmxKTk5vZjlCMkFNN0xkMW5ZWG1JNlBwVm02UnJxamM5NnNBRXdxakZBWFNfTUllOUc4Y3k0eUR5RHktdzhIZGU0RGE2VHFyVUl0bmJRVDFRM09TdGkxd1lnY1NabjBVUmZndm0wdHdIMEtVa1RkVGF0Z09TUEFUbzYtbjF3akNIZEpUdWUzampr?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 20:09 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776812980,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

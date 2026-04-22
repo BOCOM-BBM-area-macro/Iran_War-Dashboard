@@ -2863,40 +2863,6 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     {% endif %}
 
-    {% if hormuz_vessels %}
-    <div class="hourly-section">
-    <div class="section-header">
-    <div class="section-title">Hormuz Real-Time Tracker Map</div>
-    <div style="display: flex; align-items: center; gap: 10px; background: var(--surface2); padding: 4px 12px; border-radius: var(--radius); border: 1px solid var(--border);">
-    <span style="font-size: 10px; color: var(--muted); white-space: nowrap;">Snapshot:</span>
-    <input type="range" id="hormuzMapSlider" style="width: 240px; accent-color: var(--accent2);" min="0" max="{{ hormuz_snapshots | length - 1 }}" value="{{ hormuz_snapshots | length - 1 }}" step="1" oninput="updateHormuzMapFromSlider(this.value)">
-    <span id="mapSliderValue" style="font-size: 10px; color: var(--accent2); width: 140px; font-weight: 600;">Latest</span>
-    </div>
-    </div>
-    <div class="main-grid" style="grid-template-columns: 1fr 340px;">
-    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 700px; position: relative;">
-    <div id="hormuz-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
-    </div>
-    <aside class="sidebar hide-mobile">
-    <div class="widget">
-    <div class="widget-title">Live Vessels ({{ hormuz_vessels | length }})</div>
-    <div id="hormuzShipList" style="max-height: 540px; overflow-y: auto;">
-    {% for ship in hormuz_vessels %}
-    <div class="article-card" style="padding: 12px; margin-bottom: 8px; cursor: pointer;" onclick="focusHormuzShip({{ ship.lat }}, {{ ship.lon }}, '{{ ship.name }}')">
-    <div class="card-title" style="font-size: 13px;">{{ ship.name or 'Unknown' }}</div>
-    <div class="card-meta">
-    <span class="card-source">Type: {{ ship.type }}</span>
-    <span>{{ ship.updated_at or '' }}</span>
-    </div>
-    </div>
-    {% endfor %}
-    </div>
-    </div>
-    </aside>
-    </div>
-    </div>
-    {% endif %}
-
     {% if cfg.trade_tracker.enabled and trade_data %}
     <div class="section-title" style="margin-top: 40px; margin-bottom: 20px; color: var(--accent); border-bottom: 2px solid var(--accent);">More robust data treatment (IMF PortWatch)</div>
     <div class="hourly-section">
@@ -2929,6 +2895,40 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
         </div>
     </div>
     <div class="hourly-note">Data source: IMF PortWatch / University of Oxford.</div>
+    </div>
+    </div>
+    {% endif %}
+
+    {% if hormuz_vessels %}
+    <div class="hourly-section" style="margin-top: 40px;">
+    <div class="section-header">
+    <div class="section-title">Hormuz Real-Time Tracker Map</div>
+    <div style="display: flex; align-items: center; gap: 10px; background: var(--surface2); padding: 4px 12px; border-radius: var(--radius); border: 1px solid var(--border);">
+    <span style="font-size: 10px; color: var(--muted); white-space: nowrap;">Snapshot:</span>
+    <input type="range" id="hormuzMapSlider" style="width: 240px; accent-color: var(--accent2);" min="0" max="{{ hormuz_snapshots | length - 1 }}" value="{{ hormuz_snapshots | length - 1 }}" step="1" oninput="updateHormuzMapFromSlider(this.value)">
+    <span id="mapSliderValue" style="font-size: 10px; color: var(--accent2); width: 140px; font-weight: 600;">Latest</span>
+    </div>
+    </div>
+    <div class="main-grid" style="grid-template-columns: 1fr 340px;">
+    <div class="hourly-card" style="padding: 0; overflow: hidden; height: 700px; position: relative;">
+    <div id="hormuz-map" style="height: 100%; width: 100%; background: #0a0c10;"></div>
+    </div>
+    <aside class="sidebar hide-mobile">
+    <div class="widget">
+    <div class="widget-title">Live Vessels ({{ hormuz_vessels | length }})</div>
+    <div id="hormuzShipList" style="max-height: 540px; overflow-y: auto;">
+    {% for ship in hormuz_vessels %}
+    <div class="article-card" style="padding: 12px; margin-bottom: 8px; cursor: pointer;" onclick="focusHormuzShip({{ ship.lat }}, {{ ship.lon }}, '{{ ship.name }}')">
+    <div class="card-title" style="font-size: 13px;">{{ ship.name or 'Unknown' }}</div>
+    <div class="card-meta">
+    <span class="card-source">Type: {{ ship.type }}</span>
+    <span>{{ ship.updated_at or '' }}</span>
+    </div>
+    </div>
+    {% endfor %}
+    </div>
+    </div>
+    </aside>
     </div>
     </div>
     {% endif %}

@@ -2459,7 +2459,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-21"
+      "pub_date": "2026-04-22"
     },
     "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-us-blockade-iranian-ports-is-an-act-war-2026-04-21/": {
       "summary": "",
@@ -3005,11 +3005,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.jpost.com/international/article-893860": {
+      "summary": "As US President Donald Trump and Prime Minister Benjamin Netanyahu have made the ultimate war decisions regarding Iran, IDF and US military figures have been the next most influential players.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.nytimes.com/2026/04/22/world/middleeast/iran-turkey-border.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-22",
-  "last_generated_time": "2026-04-22T15:01:43.489639+00:00",
+  "last_generated_time": "2026-04-22T16:01:46.122096+00:00",
   "digest": {
     "digest": "The United States and Israel initiated a conflict with Iran on February 28th, leading to a weekslong war that has impacted neighboring countries and global markets. Attacks have continued in the Strait of Hormuz, despite President Trump's extension of a ceasefire and blockade. Iran's foreign minister has characterized the US blockade of Iranian ports as an 'act of war,' highlighting a tense diplomatic standoff. Mixed signals are being sent by Tehran and Washington regarding potential talks, with President Trump urging Iran to end its power struggle and return to negotiations. Europe's role in the conflict remains on the sidelines, despite proposals for securing the Strait of Hormuz. The war has caused significant disruptions to global oil and gas supplies, leading to increased inflation in the UK, with fuel prices being a primary driver. The German economy, while showing growth in the first quarter, faces headwinds due to the conflict. Major airlines like Lufthansa have cut flights to conserve fuel, and the supply chain for goods like aluminum cans has been affected, impacting industries such as beverage production. There is also concern that the conflict could lead to systemic gas demand destruction within the sector.",
     "top_themes": [
@@ -3163,6 +3196,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | Blockades Don’t Work the Way Trump Thinks - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOazZhQWxEVzN6eXBUMnJlY0EwNE5YcWcxQjhFRW5lYjF6ZTFjclZzUjM5a0tmbUxTRnZoZEJLNV9PVlJSQW9DMGhDTnh1V1hVQjRYSjlDbHhjT01QdHhock1ndWRkLXFhQ1JjNWtyM0ZiaXJEOHl6Yy1TZUhHTXh0UnNVQUFTU0tFR3RwaXQwVHlReENmQWc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 12:24 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776871450,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war may crush oil demand today, but send it soaring long term - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2NBUmdfYUk2V3UwbGZZb2VWVHJxQWJVblVreWw1UzhiZjRGeW9uYV9lM00xbDF5bHhaWXN0dWh1bDI5VWR6bUp4WnpjSUVaZVM1Z29fTTBOTXd1U1V0VlVZMnRJRVRwZTRGY3d4US0xcFNpVzRzd0RmQnBUbG00X2dobEFFSzg5blF6SFE2YVBTaFR2ZGZ5c0tEaDdZS0VBS1dBYjhnRUJOeC1DbVd3NmsyRHp3Q2hR?oc=5",

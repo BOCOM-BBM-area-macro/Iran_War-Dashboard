@@ -3466,11 +3466,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-23/us-says-it-awaits-iran-response-on-talks-as-hormuz-tension-rises": {
+      "summary": "The US said it’s waiting for a response from Iran before the warring sides can restart peace talks, with the impasse and worsening tension over the Strait of Hormuz causing energy prices to rise again.",
+      "tags": [
+        "Iran",
+        "Donald John Trump",
+        "Generic 1st 'CL' Future",
+        "Tehran",
+        "War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-17"
     }
   },
   "last_run_success": false,
   "last_generated_date": "2026-04-23",
-  "last_generated_time": "2026-04-23T09:01:58.398463+00:00",
+  "last_generated_time": "2026-04-23T10:01:51.032808+00:00",
   "digest": {
     "digest": "The ongoing conflict with Iran has led to significant disruptions in the Strait of Hormuz, with Iran seizing at least two ships. This has caused traffic in the strait to nearly halt, impacting global oil and LNG flows. Consequently, companies worldwide are reporting increased costs for raw materials, transportation, and energy, leading to revised financial forecasts and price hikes. Airlines are particularly affected by rising jet fuel costs, impacting demand and profitability. The war's impact on oil prices is also accelerating the shift towards green energy solutions, with increased demand for rooftop solar in Europe. Diplomatic efforts include the extension of a ceasefire, which Iran perceives as a sign of US concession. However, tensions remain high, evidenced by a confirmed Triton drone crash. The US War Powers Act is being considered as a potential mechanism to pressure the administration regarding the conflict's duration. Overall, the war is creating widespread economic uncertainty, affecting consumer confidence and supply chains across various sectors, from consumer goods to heavy industry.",
     "top_themes": [
@@ -3628,6 +3651,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Iran war impact seeps ever deeper into global economy - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFBpdENISHR1UmJScGk5RlJyWUhER3pUN3hBd1MteF9wSUdyWXJMX1ZaV1dZc25Rb3N5UEpneU80NEhUcmwwOFlHcDREalZETFkzeTR5Z3FBWFhDTDNjTWlqZHBnbVRSWXdmVkFUUnBIWmRwMFBvVmtkdE1yUTkwa09mbkdnRFNwTmNOdDZoRm5PNlRibGtlNXcxNFlpNVcwbE10bg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 09:52 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776948733,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "China stockpiled huge amounts of oil before Iran war - Axios",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5abUx2NTZudDlYYkZwTlpZVFM1RHNWVWlFY2NMR0VkbzhIYV8zbTNWanVKcF9nSjhTbjVubDZHd0JGVWlYaGZENlFJYWpya01weVlmWm95Z3lzYjBpZ0w2NDN6M1FSc1YzTU9mNVdR?oc=5",
           "source": "Axios",
@@ -3650,6 +3687,20 @@
           "published": "Apr 23, 2026 · 04:09 BRT",
           "pub_date": "2026-04-23",
           "pub_ts": 1776928183,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Shares stumble as war worries drive oil back above $100 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHF3YmR2ZlVMV3V3ME5FZi1tbmxGWExtanZvdzgzdU5CbUNYWWNVYXg4bTRkVml2YWc5UF9WODB4cGYtTDFXNUhUOGhwcXZvMGtRQlpta2xHRHlELUw3VVRFSDRvQi04U3VfYllENUc4YmNSZEtKTjhibmIzSW1GV2VGTQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 22:56 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776909360,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

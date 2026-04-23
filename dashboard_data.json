@@ -3519,11 +3519,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.nytimes.com/2026/04/23/world/middleeast/karex-condom-price-increase-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/business/energy/us-oil-executives-expect-crude-output-to-rise-iran-war-continues-survey-shows-2026-04-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-23",
-  "last_generated_time": "2026-04-23T12:02:08.154797+00:00",
+  "last_generated_time": "2026-04-23T13:02:01.949921+00:00",
   "digest": {
     "digest": "The ongoing conflict with Iran has led to significant disruptions in the Strait of Hormuz, with Iran seizing at least two ships. This has caused traffic in the strait to nearly halt, impacting global oil and LNG flows. Consequently, companies worldwide are reporting increased costs for raw materials, transportation, and energy, leading to revised financial forecasts and price hikes. Airlines are particularly affected by rising jet fuel costs, impacting demand and profitability. The war's impact on oil prices is also accelerating the shift towards green energy solutions, with increased demand for rooftop solar in Europe. Diplomatic efforts include the extension of a ceasefire, which Iran perceives as a sign of US concession. However, tensions remain high, evidenced by a confirmed Triton drone crash. The US War Powers Act is being considered as a potential mechanism to pressure the administration regarding the conflict's duration. Overall, the war is creating widespread economic uncertainty, affecting consumer confidence and supply chains across various sectors, from consumer goods to heavy industry.",
     "top_themes": [
@@ -3680,6 +3700,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US oil executives expect crude output to rise as Iran war continues, survey shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjA2eTRucEtFX0FvOXBwUVdzWWZTTTBLMkhpQXlqQUxfYlZ5bi0waTM0ZzRmdGtuVDVIZ1VqZkFaOU4wNWNOSERSdTZCTk55VVQ2OXBXSDJ1bkpFQ3IwQV9PSXl0UmdLdkNxSjNJamxRYjI3MWlCS1o5eU9jNFJnZ0hRQzEwZW9HUG55cmhCQ3Nabnc2YjBwZ05HRnU0V2p4UzF1Zl9EUEJSUEs4UV8xVVdjYV9OYjcxdUo4NTExMGw5LTQybXZPSQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 12:54 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776959649,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war impact seeps ever deeper into global economy - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFBpdENISHR1UmJScGk5RlJyWUhER3pUN3hBd1MteF9wSUdyWXJMX1ZaV1dZc25Rb3N5UEpneU80NEhUcmwwOFlHcDREalZETFkzeTR5Z3FBWFhDTDNjTWlqZHBnbVRSWXdmVkFUUnBIWmRwMFBvVmtkdE1yUTkwa09mbkdnRFNwTmNOdDZoRm5PNlRibGtlNXcxNFlpNVcwbE10bg?oc=5",

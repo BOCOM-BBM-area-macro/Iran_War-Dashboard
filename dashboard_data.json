@@ -3210,6 +3210,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.nytimes.com/2026/04/23/world/asia/iran-australia-natural-gas-tax.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/sustainability/climate-energy/iran-war-revives-european-rooftop-solar-demand-cut-energy-bills-2026-04-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-23/five-reasons-global-markets-are-holding-up-despite-war-in-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
@@ -4708,6 +4738,34 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "China's LNG imports plunge, helping Asia adjust to Iran war losses - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNby1laExqZU5HZkdpMzJUMWZrTzFCSktkTGNJYkw3NHljYm5XdkZBZENlekN4Y201cnlNdW9tT3hwX1Q1UXZRSlNUTUxlRVU1VEZGYWxocXFWbGh1Z3BTNVF6Y0VEaklublUxYkEtLXdyaDAyb3ZjRTJVYWtUcWVlWkI3dE5jMXlKdlc5Qk1ZelhEb25GZDdDSHJHZEctWWRsSVBCSVlPN3VWdnQ0MmdJdERUdFJ1WnVj?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 01:45 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776919544,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "War in Iran Gives New Fuel to a Tax Debate in Australia - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenc5dVQ1OG91RENjRmdfUl8yZ09HUllPX2kzZWpDYjlXc05MdFFkTWJEZTJ1M0pORnVGNmY3REdhOHEtRTZsN0dSckxLMEtKTm9BbU1rUmdmUkNjSVZCdy1ZR0hHb3Jra3oyV2pwcDFGV0NVdzZxaTlLV3J6dlplc0dLdDVVc0E4?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 01:01 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776916864,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war conflict could create systemic gas demand destruction, says top sector official - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajhET1RQNGdHOWNnczFVODBjeXNSR0xmb0E5bzEwcjBQV1pscDU5WGZBNlEzMEplRUg0TFl5VEVzdWMzZVVxTl9WTTFwazRKRUcyTzBiMjlMNXczVTdhY2RhOF92b2dPRUd0MUkyX1JqdHJNMV8zQll6QjM2YlEzc09zYlRIUlVfc29QOHNrZXM5aThPaEF3VXJUMUJqUVduWm94NTNQeWxUZUlUU0RBWDdLc216cFlqR0xDcjRHYkhrc3pxeXFEX3dn?oc=5",

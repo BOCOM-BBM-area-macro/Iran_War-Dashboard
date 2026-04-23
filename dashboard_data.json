@@ -3240,6 +3240,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/markets/commodities/chinas-lng-imports-plunge-helping-asia-adjust-iran-war-losses-2026-04-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.jpost.com/international/internationalrussia-ukraine-war/article-893885": {
+      "summary": "Zelensky said Ukraine was able to secure US weaponry through the PURL program under which NATO countries can finance the purchase of weapons for Kyiv.",
+      "tags": [
+        "Ukraine",
+        "Volodymyr Zelensky",
+        "USA",
+        "Ukraine-Russia War",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,

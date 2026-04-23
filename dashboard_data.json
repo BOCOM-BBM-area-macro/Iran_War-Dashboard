@@ -2591,7 +2591,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-21"
+      "pub_date": "2026-04-22"
     },
     "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html": {
       "summary": "",
@@ -3333,6 +3333,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/business/energy/sp-global-cuts-2026-oil-demand-forecast-by-700000-bpd-due-iran-war-2026-04-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.jpost.com/jerusalem-report/article-893920": {
+      "summary": "Arab states avoid direct war with Iran while shaping its outcome, using economic pressure and strategic distance to weaken a regional rival without escalation",
+      "tags": [
+        "Egypt",
+        "diplomacy",
+        "Jerusalem Report",
+        "Arab world",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
@@ -3491,6 +3514,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "China stockpiled huge amounts of oil before Iran war - Axios",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5abUx2NTZudDlYYkZwTlpZVFM1RHNWVWlFY2NMR0VkbzhIYV8zbTNWanVKcF9nSjhTbjVubDZHd0JGVWlYaGZENlFJYWpya01weVlmWm95Z3lzYjBpZ0w2NDN6M1FSc1YzTU9mNVdR?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 06:00 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776934838,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "S&P Global cuts 2026 oil demand forecast by 700,000 bpd due to Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkw4YUg5VjdHRlFLSUxXRm9VUWhSRXJmbjlXZjdMR2FUR1RZMG5ubjNGeDdFTnQ4cVFvVjRtMExhMHRxUm5zYUlpSFJveWxIMFVTakFubzRaSkd3N1NQMndLNEhRV0trczNRRUdXSUlBMTM3LWw3UE5hSGUwRFlTOW5ac2VIanEweHhWVXFjLVJjQ2k0Z1JHRmhad1pMQzgzSUdGVTkyd0d1NDJmdFZOUnNnbTdyaTRpdWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 04:09 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776928183,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump Extends Cease-Fire With Iran - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XcGd5TXRPYXNZYU5GVURhaS1fVmVaQVcybS1HSzlsVVRqbE9hbFVWTHBERVNvUG1NR0h1TE9LaUpnOG5HSEM5dzYyVTFXZlZlOXViV01EYnpTUlBSVE4xU3hESGtRQ1FER1BhdkFqbXBwdkJTcFg4?oc=5",

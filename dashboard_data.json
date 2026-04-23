@@ -511,7 +511,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-16"
     },
     "https://www.wsj.com/finance/iran-war-casts-gloom-over-outlook-of-world-finance-ministers-and-investors-df15aaae": {
       "summary": "",
@@ -3356,6 +3356,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.axios.com/2026/04/23/china-oil-stockpile-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/business/wall-st-futures-slip-investors-pause-clarity-us-iran-war-2026-04-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/business/record-demand-cant-save-us-airlines-iran-war-fuel-shock-2026-04-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
@@ -3761,6 +3801,20 @@
           "published": "Apr 21, 2026 · 11:07 BRT",
           "pub_date": "2026-04-21",
           "pub_ts": 1776780440,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S., Iran and Israel Agree to Cease-Fire - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4NjZQcHJQaDBaRTlzNEZ5dDJTR1UyWUJibWxBWFhFUjdfd1NFdzZpeGF3YUpObHc2OU5sZjNwa2o5dHZXVEViUV9sUTNzR1JCYzI3VWZqUGxaMGxFUDN3VVpVWjdCWjBCV2hzSXI5SzFGVU0?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 21, 2026 · 04:00 BRT",
+          "pub_date": "2026-04-21",
+          "pub_ts": 1776754800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -4611,6 +4665,34 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Asia deepens refining cuts due to Iran war, putting diesel and jet fuel supplies at risk - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcHZwSnFGNi1XeFlpZGZudTA3cGRkdUNkUlR2a0did1FJcTNZWkNDeHY0U3FTcmNsQUluU0kwR01GM3FRNWVaNE5XYUQyOFlZc3liTDFfb1lXWUtxcWZpMGNNX0xLQmxDak02bWFscXBuVDFaQzRHb3REanQtYmlCRHRFMkZvM3Z3RXBISHR3cHdxd3B5YmN2MTZlZ0FyalYyQ0daNGtVTVlmWFFHc0FCbDZvWWswZUQyMTg3MlJNemI4MHVGbElZcQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 06:46 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776937619,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Why Diesel Has Become a Much Bigger Economic Problem Than Gasoline - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUZCcXEyX3dadDNWb2F4THpMMGE1Y3pSN19jOGhGTWtxSzFUSDF5S0JLQXhJak9ZbXFJZHA3NFY3WkFZOTBVb2twWW01TUdFTTRQRnJaRml2X0tUdjVhMDRqSHpSX3Zqb2lCajl3UFUzUGxkY2hVeUVrcXpMd0ZEZ3pmRVhxS0xMcEZIcUhJekNVQ2tkV2E3U0RaUlJ4WnB2?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 06:02 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776934951,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "UK inflation, showing first hit from Iran war, jumps to 3.3% - Reuters",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWhlMktFb1c3bGdGMEtaTlVvQkFLVTVMeGUyQ014TmhBblFsd2R2Q0FpV3Q4eGdxX1FmZWE5elJZR2hGXzlFSmRGNnlTWFNDWmF4cndRN3ZWY2JILVpxWko2aHJQa3oyNkhScnpjc2J0RVNROFVJM0xHWFM5eGZId3B6cnkta01GSjRVcmhuUXFNUEhuTEllWg?oc=5",

@@ -3164,6 +3164,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.timesofisrael.com/iran-seizes-pair-of-container-ships-in-first-since-start-of-war-with-us-and-israel/": {
+      "summary": "UK maritime agency says Iranian forces also targeted a third vessel that they didn't capture; White House says seizures don't violate truce as 'these weren't US or Israeli ships'",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-04-22/live-updates-893795": {
+      "summary": "Hundreds of Hezbollah terrorists killed in 24 hours prior to ceasefire • IRGC gunboat fires on container ship near Oman • Trump extends US-Iran ceasefire",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,

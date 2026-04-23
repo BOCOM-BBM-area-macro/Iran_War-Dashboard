@@ -2764,7 +2764,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-22"
+      "pub_date": "2026-04-23"
     },
     "https://www.reuters.com/world/india/diet-coke-loses-its-fizz-india-iran-war-hits-cans-supply-2026-04-22/": {
       "summary": "",
@@ -3187,6 +3187,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-23/copper-falls-from-highest-since-february-with-iran-war-in-limbo": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-04-23/live-updates-893882": {
+      "summary": "Hundreds of Hezbollah terrorists killed in 24 hours prior to ceasefire • IRGC claims capture of two ships • Trump extends US-Iran ceasefire",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
@@ -3345,6 +3368,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Exclusive: US intercepts three Iranian oil tankers in Asian waters, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0dac0FOcTVjR1h4cW5PS0FxVVdkRUlsU3VfMWdZOVRialU3S3cxNl9ZOVZOOWtMekJsdWFnZ21aNENlaFA1Q3E5QlQ3NE5Ea0lYdDVteU5RWGNpNTU2OHhZMzZCZGJiRXZPTnFwWVluT20wUWxVMHA4Q2NfM21IWlB0OWxiblY0cTlzY29KWkpiQUpVcWtkVnNscjBKX2hKTjRESld1b3ZxY0NsOHFYV1RLbVpRdmN4OXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 18:36 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776893810,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Opinion | The Only Good News From Iran - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SUXRJcDBBQnJ1WnFlVnN6LXFTSWUzWjlmaS1KcDk3U2ZkelloRDJUNzQxQnBTQzFESnZ1dGs2S08tT2VjcmVRZDZUN2hBTlVJNHRPX2o0MHVOemxHNVBVZE9GX1RSUURhVFdVazNOSXMwX192OEE?oc=5",

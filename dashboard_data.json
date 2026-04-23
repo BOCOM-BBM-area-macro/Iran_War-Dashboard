@@ -2123,7 +2123,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-21"
+      "pub_date": "2026-04-20"
     },
     "https://www.axios.com/2026/04/21/iran-us-war-peace-talks-vance-pakistan": {
       "summary": "",
@@ -3090,7 +3090,7 @@
       "pub_date": "2026-04-22"
     },
     "https://www.nytimes.com/2026/04/22/us/politics/trump-iran-strait-of-hormuz-ships.html": {
-      "summary": "",
+      "summary": "President Trump’s threats have given way (for the moment, at least) to a more conciliatory tone about Iran’s actions in the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3108,11 +3108,67 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-22"
+    },
+    "https://www.wsj.com/world/middle-east/air-war-in-iran-gives-way-to-crippling-stalemate-in-hormuz-4f083808": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-893878": {
+      "summary": "The South Carolina Republican described the discussion's focus as \"the way forward regarding the Iran conflict,\" while also warning countries against assisting Iran's oil distribution efforts.",
+      "tags": [
+        "Iran",
+        "republican",
+        "Donald Trump",
+        "blockade",
+        "senate"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.jpost.com/international/article-893879": {
+      "summary": "Pope Leo has criticized US President Donald Trump's actions against Iran in multiple instances, leading to a social media squabble between the two leaders.",
+      "tags": [
+        "Israel Iran War",
+        "Donald Trump",
+        "Christians",
+        "ceasefire",
+        "America"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.wsj.com/world/middle-east/how-u-s-ship-boardings-have-kicked-off-a-new-phase-of-the-iran-war-b7858e83": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-22/us-and-iran-deadlocked-over-hormuz-after-trump-extends-truce": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-22",
-  "last_generated_time": "2026-04-22T22:01:38.407261+00:00",
+  "last_generated_time": "2026-04-22T23:01:43.394356+00:00",
   "digest": {
     "digest": "The United States and Israel initiated a conflict with Iran on February 28th, leading to a weekslong war that has impacted neighboring countries and global markets. Attacks have continued in the Strait of Hormuz, despite President Trump's extension of a ceasefire and blockade. Iran's foreign minister has characterized the US blockade of Iranian ports as an 'act of war,' highlighting a tense diplomatic standoff. Mixed signals are being sent by Tehran and Washington regarding potential talks, with President Trump urging Iran to end its power struggle and return to negotiations. Europe's role in the conflict remains on the sidelines, despite proposals for securing the Strait of Hormuz. The war has caused significant disruptions to global oil and gas supplies, leading to increased inflation in the UK, with fuel prices being a primary driver. The German economy, while showing growth in the first quarter, faces headwinds due to the conflict. Major airlines like Lufthansa have cut flights to conserve fuel, and the supply chain for goods like aluminum cans has been affected, impacting industries such as beverage production. There is also concern that the conflict could lead to systemic gas demand destruction within the sector.",
     "top_themes": [
@@ -5548,6 +5604,20 @@
         {
           "title": "Gautam Adani overtakes Mukesh Ambani as Asia’s richest man after Iran war hits oil - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTZLMU9fWFFtQzdkd19CZ2RZemdRUG5KaG5KMEpXYlVDQmpveHBqcTlBYVl3ZGdwZXlwclFMMDhtdm9sVlJ1cU9EVHh5R1ppY2FpbXN3ZzlUcFlRNUtDTzV1a2tmM0pZUGxXTTRsMWpoUTVKUkdBUmZaaE1RdTBPMWpzemU?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 17, 2026 · 04:01 BRT",
+          "pub_date": "2026-04-17",
+          "pub_ts": 1776409315,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gautam Adani overtakes Mukesh Ambani as Asia’s richest man after Iran war hits oil - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42TGdTcGQzUWJfbVkyQjVfMnNXd0xXZkdKQUE2eXFrTzhnanYwNzFSWldrek5jbXZrQmdLWWVtN3Z0VTJjYVpBeUlxYlZrRG8wcEhEejduNlU5R3hRWWJyeHNUT3hvMEgyMDdPWEVhN0Y?oc=5",
           "source": "Financial Times",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

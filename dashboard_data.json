@@ -3609,11 +3609,35 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-894002": {
+      "summary": "Katz noted that the IDF was awaiting the green light from the US, adding that future attacks would be \"different and deadly,\" targeting \"the most painful places.\"",
+      "tags": [
+        "Israel",
+        "Defense Ministry",
+        "IDF",
+        "Iran",
+        "Israel Katz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.nytimes.com/video/world/asia/100000010858682/iran-war-condom-prices-increase.html": {
+      "summary": "The world’s top condom maker is raising prices of its products by up to 30 percent, warning that shortages of raw materials and chemicals because of the war in Iran could disrupt production.",
+      "tags": [
+        "Condom",
+        "Iran",
+        "Strait of Hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-23",
-  "last_generated_time": "2026-04-23T16:01:54.499797+00:00",
+  "last_generated_time": "2026-04-23T17:01:51.813316+00:00",
   "digest": {
     "digest": "The ongoing conflict with Iran has led to significant disruptions in the Strait of Hormuz, with Iran seizing at least two ships. This has caused traffic in the strait to nearly halt, impacting global oil and LNG flows. Consequently, companies worldwide are reporting increased costs for raw materials, transportation, and energy, leading to revised financial forecasts and price hikes. Airlines are particularly affected by rising jet fuel costs, impacting demand and profitability. The war's impact on oil prices is also accelerating the shift towards green energy solutions, with increased demand for rooftop solar in Europe. Diplomatic efforts include the extension of a ceasefire, which Iran perceives as a sign of US concession. However, tensions remain high, evidenced by a confirmed Triton drone crash. The US War Powers Act is being considered as a potential mechanism to pressure the administration regarding the conflict's duration. Overall, the war is creating widespread economic uncertainty, affecting consumer confidence and supply chains across various sectors, from consumer goods to heavy industry.",
     "top_themes": [
@@ -5301,6 +5325,20 @@
           "published": "Apr 23, 2026 · 01:01 BRT",
           "pub_date": "2026-04-23",
           "pub_ts": 1776916864,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Energy traders dig in for a long Iran war - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0xaRm9qUTB1UnAxdng0UlR5OGVaTkZSamJwekkwMEp2RTR2aHN5c1ZsTkJYUHdua2FvN3Uwc0xEUWloeHJJSjhfVjhYM09VTHN2eUJsQnJYaklVX3dnZ0xlbjk2a3N4a3RJSFNhZHNpdDRsSXU5ZDVrelhJd0VwNkxwV2o?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 12:28 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776871686,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

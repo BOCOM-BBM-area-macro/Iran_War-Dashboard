@@ -3263,6 +3263,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
+    },
+    "https://www.nytimes.com/2026/04/23/arts/television/stephen-colbert-jimmy-kimmel-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/business/iran-war-boosts-european-logistics-profits-shipping-chaos-persists-2026-04-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
@@ -3421,6 +3451,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump Extends Cease-Fire With Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XcGd5TXRPYXNZYU5GVURhaS1fVmVaQVcybS1HSzlsVVRqbE9hbFVWTHBERVNvUG1NR0h1TE9LaUpnOG5HSEM5dzYyVTFXZlZlOXViV01EYnpTUlBSVE4xU3hESGtRQ1FER1BhdkFqbXBwdkJTcFg4?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 21:46 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776905162,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Exclusive: US intercepts three Iranian oil tankers in Asian waters, sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0dac0FOcTVjR1h4cW5PS0FxVVdkRUlsU3VfMWdZOVRialU3S3cxNl9ZOVZOOWtMekJsdWFnZ21aNENlaFA1Q3E5QlQ3NE5Ea0lYdDVteU5RWGNpNTU2OHhZMzZCZGJiRXZPTnFwWVluT20wUWxVMHA4Q2NfM21IWlB0OWxiblY0cTlzY29KWkpiQUpVcWtkVnNscjBKX2hKTjRESld1b3ZxY0NsOHFYV1RLbVpRdmN4OXc?oc=5",
@@ -5256,6 +5300,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Europe Diversifies Jet Fuel Supply But Import Pressure Is Rising - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHVnenNISGxVM3I4LV9LUU5yN1hmMVk0OGdRSWdaOHJRcGVTb3ozbXdOMkhCX3ZiNWp0aElyTzUyQWNsUlBXMUpDSnlaUTBWeGllUTBURkpHN1V0eTJpbHVmSFUwallkby1jX0p2QV9DRTdFcC1PUGpwWTRmQ0xGNDE2LWt5S1hhcFdaMnRQNlJ3QndHelpubVA0U1dYZXpQTkEyV1U5MEQza2FZV0RQLU44THdEdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 13:09 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776874154,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "EU looks to tighten grip on jet fuel as Iran war spotlights shortage risks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0pIZWFUbjBWbzBBbEwxSXNORjRYTUM1ejRkb05ZV3ljSjdEM2tjcFZzX2dWOC1ZbjN2VjQ0VlRRUjdDdWVGa2RHTjVSV09LOUpsS2NKaE4ySmxpQ1cwcHdVdkdheGEtRzJyUkJOcWhjRWpJdnBoN2V3SDd4OG02azFlNkRrdGtrbUJkVWU5M3VoenVFLU1XWUNfeURHRGczQXBhTnVsYmt1NDZrOHdOMUdjRjR3Zw?oc=5",

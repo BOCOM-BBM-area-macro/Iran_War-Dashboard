@@ -3967,11 +3967,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-24"
+    },
+    "https://www.reuters.com/business/energy/italys-eni-raises-share-buyback-28-billion-euros-2026-04-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.nytimes.com/2026/04/24/business/iran-war-stocks-bonds-investing.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.ft.com/content/34e047b9-da88-4ec2-8036-1896b15953eb": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
     }
   },
-  "last_run_success": false,
+  "last_run_success": true,
   "last_generated_date": "2026-04-24",
-  "last_generated_time": "2026-04-24T13:01:51.302078+00:00",
+  "last_generated_time": "2026-04-24T14:02:01.717029+00:00",
   "digest": {
     "digest": "The Iran War has transitioned into a phase of economic pressure, with the U.S. employing a strategy of economic attrition. This shift is impacting global supply chains, leading to price increases for essential goods like condoms and fertilizers, and disrupting industries such as fast fashion. The conflict has also strained U.S. military readiness, depleting critical weapons supplies and complicating contingency plans for other geopolitical hotspots like Taiwan. Diplomatic efforts appear to be focused on securing a \"best deal\" with Iran, while international bodies and religious leaders have condemned the violence. The war's economic repercussions are being felt globally, influencing consumer sentiment in the UK and accelerating China's currency push. Furthermore, the conflict has led to significant disruptions in key shipping routes, such as the Strait of Hormuz, impacting global energy markets and leading to increased transportation costs across various sectors, including Formula 1 racing. The ongoing volatility suggests a prolonged period of economic and geopolitical uncertainty.",
     "top_themes": [
@@ -3981,24 +4011,24 @@
     ],
     "next_events": [
       {
-        "title": "Strait of Hormuz Security and Maritime Passage",
-        "description": "The Strait of Hormuz remains a critical flashpoint, with mine clearing potentially taking six months and continued incidents of ship seizures. Analysts should monitor the effectiveness of maritime security efforts, the frequency of disruptions, and the impact on global oil supply and trade routes."
+        "title": "Escalation of Global Economic Blockade on Iran",
+        "description": "The U.S. strategy has shifted to economic attrition, with the Pentagon chief stating the blockade is 'going global.' Analysts should monitor the effectiveness of these expanded sanctions, their impact on Iran's economy, and potential retaliatory measures from Tehran, as well as the willingness of international partners to comply."
       },
       {
-        "title": "Global Economic Repercussions and Energy Transition",
-        "description": "The war is driving up fuel costs, impacting corporate margins, and accelerating the shift towards green energy solutions. Watch for continued inflation, changes in global supply chains, and the pace of renewable energy adoption as nations seek to reduce reliance on volatile energy markets."
+        "title": "Heightened Tensions in the Strait of Hormuz",
+        "description": "The conflict has morphed into a volatile standoff in the Strait of Hormuz, a critical chokepoint for global oil supplies. Watch for any maritime incidents, disruptions to shipping, or increased military posturing by either side, as these could quickly escalate the conflict and impact global energy markets."
       },
       {
-        "title": "US War Powers Act and Presidential Authority",
-        "description": "The War Powers Act could limit the President's ability to wage war without congressional approval beyond 60 days. Analysts should observe how the administration navigates these legal constraints and potential congressional actions, which could significantly influence the conflict's duration and scope."
+        "title": "Broadening Economic Fallout and Energy Price Volatility",
+        "description": "The war is already impacting corporate profits, global supply chains, and energy prices, with some experts warning of underestimation. Monitor oil price fluctuations, the financial performance of key industries, and any shifts in global trade patterns or currency dynamics, particularly China's response and stockpiling."
       },
       {
-        "title": "Stability of Ceasefire Agreements and Diplomatic Initiatives",
-        "description": "Despite reported ceasefires and extensions, the situation remains volatile, as evidenced by continued ship seizures. Monitor the adherence to existing agreements and any new diplomatic efforts to de-escalate tensions, as their success or failure will dictate the immediate future of the conflict."
+        "title": "Strain on US Military Readiness and International Alliances",
+        "description": "The conflict has reportedly drained U.S. weapon supplies, raising concerns about readiness for other adversaries, and the U.S. is pressuring allies over their stance. Observe any further reports on U.S. military resupply efforts, changes in defense spending, and the cohesion of international alliances as the U.S. seeks broader support for its Iran policy."
       },
       {
-        "title": "Escalating Humanitarian Crisis and Global Aid Impact",
-        "description": "The conflict is pushing more than 30 million people back into poverty and hindering global aid efforts due to increased fuel costs. Track the escalating humanitarian needs, the impact on vulnerable populations, and the capacity of international organizations to respond effectively amidst ongoing economic pressures."
+        "title": "Increased Risk of Uncontrolled Escalation",
+        "description": "Some analysts suggest the conflict marks the end of 'escalation management,' implying a higher potential for unintended consequences. Watch for any miscalculations, direct military confrontations, or actions that could lead to a rapid and uncontrolled escalation beyond current economic and limited military engagements."
       }
     ]
   },
@@ -4117,12 +4147,26 @@
     }
   ],
   "last_digest_success": true,
-  "last_watch_success": false,
+  "last_watch_success": true,
   "last_relevant_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "P&G warns of $1bn hit from Iran war after failing to hedge oil exposure - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WLWNxMjk4QU54R2hha0xIcXJXNmhzOUd0a2hQc0U2WW9kZTdxY3BGR0ZvSkRuUDRLNzdHTDd6dDlESEwxU2RYU3M0SVdEenFwVXVvR2NEWnJvQmsxakg3c3IzM05HZGpuQkZzSGNaRFo?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 10:42 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777038171,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump's surge in oil exports during Iran war will hit a ceiling - Axios",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdjBtRmlIWmtrTG5hNE02TExaTEZISVo1RllmSnZmeGhWZTE2dDBlMEZaSnk4WFQzQ2FRX1Z4bWo4bVY1V1RHcFdtampyZGgtYk1sclFzcE9vWUY1ejItSHdwV3ZiYjkzM0NQZnlBSGR2T1BwU0N0R0p4Q2R5N0dRUHJ3?oc=5",
@@ -4174,6 +4218,20 @@
           "published": "Apr 23, 2026 · 22:14 BRT",
           "pub_date": "2026-04-23",
           "pub_ts": 1776993240,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Watch Iran War: Hormuz Stalemate Lifts Oil for a 5th Day | The Opening Trade 4/24/2026 - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmM4Q0JqYWVIcjNuWUtjb3doM1lISGQ1eFg4WlptbURockF0LTFrbGVWZDBHSTFLV0VYNXA4LXhfbDQtVXhTWVp6UENJTmpKNjFXRUxPUkQwNXNkWDFwbEgzcEU0LUVhbFNpUzNfU2FDSURlQXhDa1h5WXhuNFpUVlJXRlJWQzFqb2c?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 21:00 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776988800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -6776,6 +6834,20 @@
           "_rank": 0
         },
         {
+          "title": "Yara Boosts Profit as Iran War Sends Fertilizer Prices Soaring - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXQxWEc1cVdmME0wQTN4eUEzSXI0cEZkeWNZcUl3ektUWk5kTHdxalNpWEJaVTdXUEhfc0FnRTdOVFBXVWlNUExYRjhmS1liNGM5Tk1DZmdaVzRmTnd1RTE4SmpwLVh1bGRVeVFzaE93WE5nUVFRVkVUeDJva2ZCTFZsTjZCRzl0RlhvRi1DU2xvVzFoR2o4VjRfcllVMWJTTVk2dWQ3TC1xazdmdlVWeXdVaw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 09:59 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777035572,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "US buyers redirect imported fertilizer overseas as Iran war drives up global prices - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGg2TVROVFIxSFFZZWNId2xvWVdRdGxOcVRWR0xBQlVMVDE4Z19UODlrR096OHk1eHhtb1Q1SFIwVDVFaWVQWnUycVE0Qkc4MVl3V3AyS0hJTDM1eTJTXzRIYzJxMXlUak5BVkZrVk5RQ1MtRWxqN1I2MlQ0R0tJZTRGNmZWWlM1QVdER25ramplSGltTWFPZm1OX3cyUmlOY25aalp5WjVJQW8tRTlaTmpVUjZtU3NhZmpDaC1LbFlBREU?oc=5",
           "source": "Reuters",
@@ -7125,6 +7197,6 @@
     }
   ],
   "last_digest_time": "2026-04-24T11:04:50.448083+00:00",
-  "last_watch_time": "2026-04-23T15:07:24.536038+00:00",
+  "last_watch_time": "2026-04-24T17:06:03.755457+00:00",
   "last_relevant_time": "2026-04-24T11:05:26.220258+00:00"
 }

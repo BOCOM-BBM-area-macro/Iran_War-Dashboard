@@ -3879,10 +3879,13 @@
       "pub_date": "2026-04-24"
     },
     "https://www.wsj.com/business/earnings/slb-profit-falls-as-iran-war-disrupts-operations-clouds-outlook-a460d695": {
-      "summary": "",
+      "summary": "SLB’s first-quarter profit fell in the face of what Chief Executive Olivier Le Peuch called a challenging start to the year, as widespread disruptions across the Middle East hurt business.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "newsplus",
+        "Energy",
+        "Oil/Gas Upstream Operations",
+        "Fossil Fuels",
+        "Hard Commodities"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4019,7 +4022,7 @@
       "pub_date": "2026-04-24"
     },
     "https://www.nytimes.com/2026/04/24/world/middleeast/iran-us-strait-of-hormuz-blockade.html": {
-      "summary": "",
+      "summary": "The foes are trying to exert control over the narrow passageway. Most ships aren’t moving. Here’s what to know.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4037,11 +4040,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-24"
+    },
+    "https://www.jpost.com/american-politics/article-894082": {
+      "summary": "State Department Legal Adviser Reed Rubinstein made the arguments in a statement released days before a deadline for Trump to obtain congressional approval for the war with Iran.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "Congress",
+        "Israel Iran War",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.reuters.com/business/energy/oil-rises-concerns-over-escalating-military-tensions-middle-east-2026-04-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-24",
-  "last_generated_time": "2026-04-24T16:01:47.213267+00:00",
+  "last_generated_time": "2026-04-24T17:01:52.697608+00:00",
   "digest": {
     "digest": "The Iran War has transitioned into a phase of economic pressure, with the U.S. employing a strategy of economic attrition. This shift is impacting global supply chains, leading to price increases for essential goods like condoms and fertilizers, and disrupting industries such as fast fashion. The conflict has also strained U.S. military readiness, depleting critical weapons supplies and complicating contingency plans for other geopolitical hotspots like Taiwan. Diplomatic efforts appear to be focused on securing a \"best deal\" with Iran, while international bodies and religious leaders have condemned the violence. The war's economic repercussions are being felt globally, influencing consumer sentiment in the UK and accelerating China's currency push. Furthermore, the conflict has led to significant disruptions in key shipping routes, such as the Strait of Hormuz, impacting global energy markets and leading to increased transportation costs across various sectors, including Formula 1 racing. The ongoing volatility suggests a prolonged period of economic and geopolitical uncertainty.",
     "top_themes": [
@@ -4193,6 +4219,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "SLB, Baker Hughes see oil exploration spending rising as Iran war disrupts supply - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEpmM2NKdXByaTdEU0VJT3BLTU1mTjdvQ0trRnhNdkdVZW1FLWhLQU43a0h2SUxkMXNqd2ptdEpCd0J0MVgySXlFOWRkUTBkTkxEZklraXlXT3FnWFJicHVsMi1BUk9rbkRsb0h6T1FrbEZ2eWF4My1aeTQ5VncwUkVHd2luLTFvQ0NNdmEwbFVsUVN2WTJLX2lPQkVfWU1hSGNKWnpuRXZQUzE0WVVfM1dENHJ2NUxBaERlRlJFU1RuSnRTeVRyVA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 15:04 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777053865,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "P&G warns of $1bn hit from Iran war after failing to hedge oil exposure - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WLWNxMjk4QU54R2hha0xIcXJXNmhzOUd0a2hQc0U2WW9kZTdxY3BGR0ZvSkRuUDRLNzdHTDd6dDlESEwxU2RYU3M0SVdEenFwVXVvR2NEWnJvQmsxakg3c3IzM05HZGpuQkZzSGNaRFo?oc=5",

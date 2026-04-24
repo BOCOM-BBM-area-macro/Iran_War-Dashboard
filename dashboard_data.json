@@ -3662,7 +3662,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-23"
+      "pub_date": "2026-04-24"
     },
     "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html": {
       "summary": "The conflict has morphed into a volatile standoff in the Strait of Hormuz, as the economic costs mount and President Trump faces a political backlash at home.",
@@ -3709,6 +3709,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
+    },
+    "https://www.nytimes.com/2026/04/24/business/china-currency-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.wsj.com/livecoverage/iran-war-us-trump-2026/card/watch-trump-says-he-won-t-be-rushed-to-end-iran-war-jPvCfTZPFwJae13r3tQ5": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

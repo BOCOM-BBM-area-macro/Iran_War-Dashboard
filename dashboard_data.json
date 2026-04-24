@@ -770,7 +770,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-04-17"
+      "pub_date": "2026-04-24"
     },
     "https://www.reuters.com/world/asia-pacific/trump-says-he-has-good-news-iran-no-clarity-peace-deal-2026-04-18/": {
       "summary": "",
@@ -3365,7 +3365,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-23"
+      "pub_date": "2026-04-24"
     },
     "https://www.reuters.com/business/wall-st-futures-slip-investors-pause-clarity-us-iran-war-2026-04-23/": {
       "summary": "",
@@ -4063,11 +4063,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-24"
+    },
+    "https://www.reuters.com/world/middle-east/iran-make-offer-aimed-satisfying-us-demands-trump-tells-reuters-2026-04-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.reuters.com/sustainability/climate-focus-energy-shock-iran-war-sparks-solar-scramble-2026-04-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-24",
-  "last_generated_time": "2026-04-24T17:01:52.697608+00:00",
+  "last_generated_time": "2026-04-24T18:01:54.674699+00:00",
   "digest": {
     "digest": "The Iran War has transitioned into a phase of economic pressure, with the U.S. employing a strategy of economic attrition. This shift is impacting global supply chains, leading to price increases for essential goods like condoms and fertilizers, and disrupting industries such as fast fashion. The conflict has also strained U.S. military readiness, depleting critical weapons supplies and complicating contingency plans for other geopolitical hotspots like Taiwan. Diplomatic efforts appear to be focused on securing a \"best deal\" with Iran, while international bodies and religious leaders have condemned the violence. The war's economic repercussions are being felt globally, influencing consumer sentiment in the UK and accelerating China's currency push. Furthermore, the conflict has led to significant disruptions in key shipping routes, such as the Strait of Hormuz, impacting global energy markets and leading to increased transportation costs across various sectors, including Formula 1 racing. The ongoing volatility suggests a prolonged period of economic and geopolitical uncertainty.",
     "top_themes": [
@@ -4219,6 +4239,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NS1k2OS1zTVRBYnBxdmVBWENnMlE4cE5NTEdxeHQ5Ry11aHJ1QXlvMDFFV3hvblB5MTJvdDQxZm9NT19jdm91aW9yTlFKQk1iVklnVm03LTdhamQ4RmZTUDRzMjRfUENhaG53SFpzMms?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 16:34 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777059256,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "SLB, Baker Hughes see oil exploration spending rising as Iran war disrupts supply - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEpmM2NKdXByaTdEU0VJT3BLTU1mTjdvQ0trRnhNdkdVZW1FLWhLQU43a0h2SUxkMXNqd2ptdEpCd0J0MVgySXlFOWRkUTBkTkxEZklraXlXT3FnWFJicHVsMi1BUk9rbkRsb0h6T1FrbEZ2eWF4My1aeTQ5VncwUkVHd2luLTFvQ0NNdmEwbFVsUVN2WTJLX2lPQkVfWU1hSGNKWnpuRXZQUzE0WVVfM1dENHJ2NUxBaERlRlJFU1RuSnRTeVRyVA?oc=5",

@@ -3773,6 +3773,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-24"
+    },
+    "https://www.reuters.com/world/asia-pacific/iran-war-hits-asias-polyester-suppliers-global-fast-fashion-2026-04-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.wsj.com/economy/u-k-consumer-sentiment-dragged-further-by-iran-war-c3aef7ac": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-24/iran-war-to-keep-gas-market-tight-for-two-more-years-iea-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
     }
   },
   "last_run_success": true,
@@ -3934,6 +3964,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "BYD, Geely See More EV Demand As Oil Prices Climb From Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDVqb1FYQmlDSjlfUWxWZEswVzJDa3BjRHhwZU9aWmcyTVUtY0dOZ1JIZ3BCSjRyZEJldHFKOGdlWk1ZRE43V1BZVzU4TUZnUjNjTXdsNFVRb1hvdEIxVUhWOGVfdHVBeUwwU1VIZnAtSUpDNmdBbURuWHhlM3BFUFlDc3VSQ3lZSTR1SjF0UEZkV2RnTm5sNFRySFN6SlE0YnE2UnQtcGVUY3dVbWxzaE9DZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 00:41 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777002060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US shale bosses resist boosting oil output over Iran war ‘chaos’ - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzZhQkplZnAwV3Q0Vko0M1hwNjhEcGE4NFVCQy1HZktoanFyOEJTNXlDaEttMlNrcmJKR0tOODZKbmZEalNqaURLbDd2MjNocGtHRVJQcHFBdGtsbWcxOWxib2c5TkM1MFhCS0Jzc1BpY2xxbEEta1o5ZUdSdDV4ckxqSmw?oc=5",
@@ -5186,6 +5230,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "UK Retail Sales Jump as Drivers Stock Up on Petrol and Diesel - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1JteFFDbldyUGdQcGt3eFN5QlRqLXdHTEIyR21zcG10RXB0ejVrT3pVRDQ5b0p1dE9YM2Ffdjktdjhhb05FSDBLVGlHSFJRR1dCdDlvbG9zQXJsdnFLUnBBRkhsZGFUREVTRlc3NzhjaE50STNhLXdWLXBjcmFaSXl0RVBWNDJxVGlFcWU5YTFBNkxWQTFkNWRycjl3QTBQRG1ORXZyOEdqbkdlMWVTOEVMRHFDQXZTbzBvNE9aR3hXVVVpdFp1amQ4YUpSZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 04:20 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777015219,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Trump on gas prices: Americans should expect to pay more 'for a little while' - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUwwTUo0Rm1KSHRyNEFWSWFrQnNUZkpOY05yTzZJcDdYWk9zWExBV0NMM1ZXZFhQaVpZbUFoOWVnT1pOeEVxUEJDTVdYNk1hRHBkTERsSEFPTXUzVHBtbm1jSGhfQldVTXBITUhZREgwSk1xRFp1SGhCNWFOMEFOMUZoMjlGRDRCVE5EOU4xWFA4d2xEUk9DdVBmQWdzb2szZkZYOGstNFNHMXl5MUV1NXNjS21EeC1Mdnc?oc=5",
           "source": "Reuters",
@@ -5526,6 +5584,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran War to Keep Gas Market Tight for Two More Years, IEA Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkRpSG1XdXdpZW9fR3B1clFCdGpjRFpHVzJZTnlNeVI0dVdLX2ktSndDS2R2Zl94aS11LWJGRE4xMmt0TGgwaGdFSXRnT2ZXTUtULTJFUVpTWWJrVWZGRzlaTy1Md3lqZkhWd1ZGQzlGS3NDQVlqWlR1T2U0OUlDR1BlZWpCUmdMa3BlMlhnLVV2Sk1MemtCdWJXSmVoWU5DR0ZsOEFnejNsWVh3eUxfM3NB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 04:35 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777016145,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says Americans should expect higher gas prices due to Iran war for ‘a little while’ - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPek9fOHRLb2hPbTJaVGxRTGR1X3pYcl9VeGV6MHRDNGhjRTVFcjNhRUltQVNBeW5HN3E2cFNuU3B2X21qWUxKZmtHYWE2RVpDU3l6cFh5Wl9hOG1nODh6RWFoUFMxbVBkc3U1OWpqc2haZWRrMnBnV2xfandndDRnRnY5UEN2eVJTN1pUZHlQTDdScXR3YllZZHVYalNfOFFBQkwwTzhhenNsQlZsbG5aZHZVVUIySkhWQU9IYlVsNGo0RkZJODBB?oc=5",

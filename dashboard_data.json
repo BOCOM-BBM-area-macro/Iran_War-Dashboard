@@ -2459,7 +2459,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-22"
+      "pub_date": "2026-04-23"
     },
     "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-us-blockade-iranian-ports-is-an-act-war-2026-04-21/": {
       "summary": "",
@@ -3733,6 +3733,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.reuters.com/world/middle-east/israel-lebanon-extend-ceasefire-trump-seeks-best-deal-with-iran-2026-04-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
     }
   },
   "last_run_success": true,

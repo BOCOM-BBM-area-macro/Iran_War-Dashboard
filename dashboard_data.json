@@ -3813,6 +3813,59 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-24"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-894011": {
+      "summary": "NATIONAL AFFAIRS: By extending the truce while tightening the blockade, the US shifts from military force to economic attrition in a bid to shape Iran’s choices.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "White House",
+        "economy"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.nytimes.com/2026/04/24/opinion/international-world/iran-war-trump-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.nytimes.com/2026/04/24/books/review/military-history-persia-iraq-us-civil-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.reuters.com/business/german-business-sentiment-falls-more-than-expected-april-ifo-survey-finds-2026-04-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-24/yara-boosts-profit-as-iran-war-sends-fertilizer-prices-soaring": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-24"
     }
   },
   "last_run_success": true,
@@ -5617,6 +5670,20 @@
           "published": "Apr 23, 2026 · 20:47 BRT",
           "pub_date": "2026-04-23",
           "pub_ts": 1776988045,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Why these states have the lowest gas prices - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclFOVmlxQVJfeklOWG1lZEFncnJEMzk4TXpwV0hhOC0tcW5nVGFFOWptdjU3M2EybmNOZGVaZ1duRWJIb1phMUllbmRsUWYtYzY2dTVUdjVvQ0VaOTBrN28tVXo1U0FwWFk1QVBsU3lGMlRscHQydEhNN1NLRVpNM1Q3dUdNZ3NwN3ItQUUzVQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 13:00 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776960000,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

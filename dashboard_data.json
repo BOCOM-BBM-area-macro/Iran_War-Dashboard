@@ -3608,7 +3608,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-23"
+      "pub_date": "2026-04-25"
     },
     "https://www.jpost.com/israel-news/defense-news/article-894002": {
       "summary": "Katz noted that the IDF was awaiting the green light from the US, adding that future attacks would be \"different and deadly,\" targeting \"the most painful places.\"",
@@ -4165,6 +4165,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-25"
+    },
+    "https://www.washingtonpost.com/politics/2026/04/24/iran-talks-resume-no-vance/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

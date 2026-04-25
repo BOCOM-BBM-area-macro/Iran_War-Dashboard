@@ -4179,91 +4179,72 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-25"
+    },
+    "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-25"
+    },
+    "https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-25"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-04-24",
-  "last_generated_time": "2026-04-24T23:02:06.828012+00:00",
+  "last_generated_date": "2026-04-25",
+  "last_generated_time": "2026-04-25T08:01:56.202216+00:00",
   "digest": {
-    "digest": "The Iran War has transitioned into a phase of economic pressure, with the U.S. employing a strategy of economic attrition. This shift is impacting global supply chains, leading to price increases for essential goods like condoms and fertilizers, and disrupting industries such as fast fashion. The conflict has also strained U.S. military readiness, depleting critical weapons supplies and complicating contingency plans for other geopolitical hotspots like Taiwan. Diplomatic efforts appear to be focused on securing a \"best deal\" with Iran, while international bodies and religious leaders have condemned the violence. The war's economic repercussions are being felt globally, influencing consumer sentiment in the UK and accelerating China's currency push. Furthermore, the conflict has led to significant disruptions in key shipping routes, such as the Strait of Hormuz, impacting global energy markets and leading to increased transportation costs across various sectors, including Formula 1 racing. The ongoing volatility suggests a prolonged period of economic and geopolitical uncertainty.",
+    "digest": "The ongoing conflict with Iran is increasingly shaping global economic and political landscapes. Market participants are questioning the extent of the war's damage, with some analyses suggesting markets are not fully pricing in the implications, while others point to specific factors like rising US oil exports as a reason for market indifference. Diplomatic efforts are underway, with US negotiators preparing to engage in talks, though Iran has indicated a reluctance for direct discussions. The US is also exploring significant diplomatic actions, including potential measures against NATO allies over the Iran rift. Concurrently, the conflict is driving a shift in US strategy towards economic pressure, with a global blockade being implemented to exert attrition on Iran. This economic phase is characterized by a tightening of blockades and a focus on shaping Iran's choices through financial means. The war's disruptions are already impacting corporate profits and supply chains, with notable declines in deliveries of essential goods into Gaza and challenges for multinational corporations operating in the region. The legal justification for the war has been articulated by the State Department, underscoring the administration's stance on the conflict's necessity.",
     "top_themes": [
-      "Economic Warfare and Sanctions",
-      "Global Supply Chain Disruptions",
-      "Geopolitical Realignment and Military Readiness"
+      "Economic Impact of Iran War",
+      "US Diplomatic and Military Strategy",
+      "International Relations and Alliances",
+      "Market Reactions to Iran Conflict"
     ],
     "next_events": [
       {
-        "title": "Escalation of Global Economic Blockade on Iran",
-        "description": "The U.S. strategy has shifted to economic attrition, with the Pentagon chief stating the blockade is 'going global.' Analysts should monitor the effectiveness of these expanded sanctions, their impact on Iran's economy, and potential retaliatory measures from Tehran, as well as the willingness of international partners to comply."
+        "title": "Effectiveness of Global Economic Blockade on Iran",
+        "description": "The US strategy has shifted to economic attrition, with a global blockade being implemented. Analysts should monitor the effectiveness of these measures, their impact on Iran's economy and internal stability, and potential ripple effects on global trade and humanitarian aid, particularly in regions like Gaza."
       },
       {
-        "title": "Heightened Tensions in the Strait of Hormuz",
-        "description": "The conflict has morphed into a volatile standoff in the Strait of Hormuz, a critical chokepoint for global oil supplies. Watch for any maritime incidents, disruptions to shipping, or increased military posturing by either side, as these could quickly escalate the conflict and impact global energy markets."
+        "title": "Prospects for Diplomatic Breakthroughs and Direct Talks",
+        "description": "Despite hopes for peace and Iran's gesture regarding the Strait, direct talks between the US and Iran remain elusive. Watch for any shifts in Iran's stance on direct negotiations, the outcomes of ongoing multilateral talks, and whether the US can achieve its goal of abolishing Iran's atomic stockpile through diplomatic means."
       },
       {
-        "title": "Broadening Economic Fallout and Energy Price Volatility",
-        "description": "The war is already impacting corporate profits, global supply chains, and energy prices, with some experts warning of underestimation. Monitor oil price fluctuations, the financial performance of key industries, and any shifts in global trade patterns or currency dynamics, particularly China's response and stockpiling."
+        "title": "Global Market Reaction and Energy Sector Stability",
+        "description": "While markets have largely ignored the 'Iran War,' warnings of damage persist, and the US blockade is going global. Analysts should closely track crude oil output and prices, the performance of companies affected by Middle East disruptions, and whether global markets will eventually 'wake up' to the economic consequences of the conflict."
       },
       {
-        "title": "Strain on US Military Readiness and International Alliances",
-        "description": "The conflict has reportedly drained U.S. weapon supplies, raising concerns about readiness for other adversaries, and the U.S. is pressuring allies over their stance. Observe any further reports on U.S. military resupply efforts, changes in defense spending, and the cohesion of international alliances as the U.S. seeks broader support for its Iran policy."
-      },
-      {
-        "title": "Increased Risk of Uncontrolled Escalation",
-        "description": "Some analysts suggest the conflict marks the end of 'escalation management,' implying a higher potential for unintended consequences. Watch for any miscalculations, direct military confrontations, or actions that could lead to a rapid and uncontrolled escalation beyond current economic and limited military engagements."
+        "title": "Geopolitical Realignments and Alliance Cohesion",
+        "description": "The conflict is testing existing alliances, with internal rifts within NATO emerging and China reportedly gaining influence. Monitor how international support for US policies evolves, potential changes in global power dynamics, and the extent to which key international players align or diverge from the US approach to Iran."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 23, 2026 · 20:51 BRT",
-      "pub_date": "2026-04-23",
-      "pub_ts": 1776988265,
-      "summary": "The Pentagon’s rush to rearm its Mideast forces makes it less ready to confront potential adversaries like Russia and China, administration and congressional officials say.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "How the Iran War Is Morphing Into a Volatile Standoff in the Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 23, 2026 · 18:59 BRT",
-      "pub_date": "2026-04-23",
-      "pub_ts": 1776981580,
-      "summary": "The conflict has morphed into a volatile standoff in the Strait of Hormuz, as the economic costs mount and President Trump faces a political backlash at home.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Exclusive | Iran War Complicates Contingency Plans to Defend Taiwan, Some U.S. Officials Say - WSJ",
-      "url": "https://www.wsj.com/politics/national-security/iran-war-complicates-contingency-plans-to-defend-taiwan-some-u-s-officials-say-4384f7c1",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Apr 23, 2026 · 15:35 BRT",
-      "pub_date": "2026-04-23",
-      "pub_ts": 1776969300,
+      "title": "When Will Markets Wake Up to Iran War Damage? - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-24/when-will-markets-wake-up-to-iran-war-damage",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Apr 25, 2026 · 05:26 BRT",
+      "pub_date": "2026-04-25",
+      "pub_ts": 1777105578,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -4290,18 +4271,37 @@
       "sentiment_success": false
     },
     {
-      "title": "U.K. Consumer Sentiment Dragged Further by Iran War - WSJ",
-      "url": "https://www.wsj.com/economy/u-k-consumer-sentiment-dragged-further-by-iran-war-c3aef7ac",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Apr 24, 2026 · 03:56 BRT",
+      "title": "Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Apr 24, 2026 · 15:55 BRT",
       "pub_date": "2026-04-24",
-      "pub_ts": 1777013760,
+      "pub_ts": 1777056900,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "nytimes.com"
+      ],
+      "sentiment": "positive",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "China Is Winning the Iran War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-25/china-is-winning-the-iran-war",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Apr 25, 2026 · 05:00 BRT",
+      "pub_date": "2026-04-25",
+      "pub_ts": 1777104001,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -4309,14 +4309,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings - Reuters",
-      "url": "https://www.reuters.com/business/wall-st-futures-slip-investors-pause-clarity-us-iran-war-2026-04-23/",
+      "title": "Deliveries of food and goods into Gaza fell after Iran war began, officials say - Financial Times",
+      "url": "https://www.ft.com/content/d099897b-00b1-48d3-86c8-bb887167f4c4",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Apr 25, 2026 · 01:00 BRT",
+      "pub_date": "2026-04-25",
+      "pub_ts": 1777089630,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Pentagon chief Hegseth says US blockade on Iran 'going global' - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/pentagon-chief-hegseth-says-iran-has-chance-make-good-deal-2026-04-24/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 23, 2026 · 20:23 BRT",
-      "pub_date": "2026-04-23",
-      "pub_ts": 1776986636,
+      "published": "Apr 24, 2026 · 14:43 BRT",
+      "pub_date": "2026-04-24",
+      "pub_ts": 1777052625,
       "summary": "",
       "tags": [
         "extracted",
@@ -7532,7 +7551,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-04-24T11:04:50.448083+00:00",
-  "last_watch_time": "2026-04-24T17:06:03.755457+00:00",
-  "last_relevant_time": "2026-04-24T11:05:26.220258+00:00"
+  "last_digest_time": "2026-04-25T11:06:35.249082+00:00",
+  "last_watch_time": "2026-04-25T11:06:43.844078+00:00",
+  "last_relevant_time": "2026-04-25T11:06:44.360681+00:00"
 }

@@ -3969,7 +3969,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-24"
+      "pub_date": "2026-04-25"
     },
     "https://www.reuters.com/business/energy/italys-eni-raises-share-buyback-28-billion-euros-2026-04-24/": {
       "summary": "",
@@ -4122,6 +4122,29 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-25"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-04-25/live-updates-894094": {
+      "summary": "US will not renew Iranian, Russian oil waivers, Bessent tells AP • War justified by Iran’s 'aggression', says top US lawyer • 'Historic peace' underway with Lebanon, says Netanyahu",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-25"
+    },
+    "https://www.ft.com/content/d099897b-00b1-48d3-86c8-bb887167f4c4": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -6635,6 +6658,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "How Jet Fuel Shortages Could Affect Summer Travel to Europe and Beyond - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUx2QkR1Y1RrNkM4eU1QQllGM29xWFh1RGQwb1NoS3RWOER6SDJKNjJrRDE1MnpOd0V3MGtEUDZ2MVV0SndNOFlWWm9mSGl2bjNySVg3cExLdFBEWHQxU1hZUlpHWDdCZFVNbjh3ME5YaXNHcjVTODdPQkhxaEVJVWFIZXcyWFR4S095SExaZE91VWV2?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 17:01 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777060871,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Europe Diversifies Jet Fuel Supply But Import Pressure Is Rising - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHVnenNISGxVM3I4LV9LUU5yN1hmMVk0OGdRSWdaOHJRcGVTb3ozbXdOMkhCX3ZiNWp0aElyTzUyQWNsUlBXMUpDSnlaUTBWeGllUTBURkpHN1V0eTJpbHVmSFUwallkby1jX0p2QV9DRTdFcC1PUGpwWTRmQ0xGNDE2LWt5S1hhcFdaMnRQNlJ3QndHelpubVA0U1dYZXpQTkEyV1U5MEQza2FZV0RQLU44THdEdw?oc=5",

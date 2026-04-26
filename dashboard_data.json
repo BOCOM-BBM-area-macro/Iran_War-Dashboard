@@ -4319,6 +4319,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-26"
+    },
+    "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
+    },
+    "https://www.ft.com/content/53951801-5a60-4016-b978-ebbf71417111": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
     }
   },
   "last_run_success": true,

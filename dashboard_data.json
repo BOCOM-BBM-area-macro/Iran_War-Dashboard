@@ -4279,6 +4279,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-25"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-dont-think-press-dinner-shooter-was-linked-to-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-26/iran-war-hormuz-double-blockade-halts-ship-traffic-dims-hope-for-the-economy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-25"
+    },
+    "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-23"
     }
   },
   "last_run_success": true,
@@ -4434,6 +4464,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmtBcjZUb1l6cThYVG5DZlA0cnBhOTRJSFZFWmtCaGJ1TnI3WGR3OUxPa3QwT1FPa1oxbFBfLTk2NUhlUFBhTXA5YXpOWDlDVHBjbkRscHhiMjFlcHRKaTBIWjdwTnZDY3dRZEZVNWgzR3E4ZzBhUzNUQThiY2NyUlJYdmNtTzQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 25, 2026 · 05:26 BRT",
+          "pub_date": "2026-04-25",
+          "pub_ts": 1777105614,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NS1k2OS1zTVRBYnBxdmVBWENnMlE4cE5NTEdxeHQ5Ry11aHJ1QXlvMDFFV3hvblB5MTJvdDQxZm9NT19jdm91aW9yTlFKQk1iVklnVm03LTdhamQ4RmZTUDRzMjRfUENhaG53SFpzMms?oc=5",

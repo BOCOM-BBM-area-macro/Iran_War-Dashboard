@@ -4309,6 +4309,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-23"
+    },
+    "https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
     }
   },
   "last_run_success": true,
@@ -4683,6 +4693,20 @@
           "published": "Apr 23, 2026 · 05:52 BRT",
           "pub_date": "2026-04-23",
           "pub_ts": 1776934331,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Prices Rise and Stocks Slide Amid Uncertainty Over Next Steps in War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tZVlObjRVOUpueDkyTnpLUjB0WEJGNDh6RkdsVWFsNWtYQkVaZUhfWUZrOWJjZmZaZVdoc1JydTVNNVJiMTJQNkRVc1RCeFdSQkV3TVhSRFFuR3lHU1FlUVdyNXVhN1NuQjVTajhiQU9Kd2VIQVIw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 05:29 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776932954,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

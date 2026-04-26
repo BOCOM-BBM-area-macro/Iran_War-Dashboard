@@ -4328,7 +4328,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-25"
+      "pub_date": "2026-04-26"
     },
     "https://www.ft.com/content/53951801-5a60-4016-b978-ebbf71417111": {
       "summary": "",
@@ -4492,11 +4492,67 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-26"
+    },
+    "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
+    },
+    "https://www.jpost.com/middle-east/article-894195": {
+      "summary": "This is the first instance of the Iron Dome being used operationally outside the United States or Israel, though Singapore has reportedly previously purchased and received Iron Dome as well.",
+      "tags": [
+        "Israel",
+        "Saudi Arabia",
+        "Iron Dome",
+        "United Arab Emirates",
+        "UAE"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-894201": {
+      "summary": "As Iran’s war continues, medical shortages loom, with critical supplies in jeopardy. The regime’s actions are felt globally, and citizens bear the brunt of the crisis.",
+      "tags": [
+        "Iran",
+        "United Nations",
+        "Red Cross",
+        "strait of hormuz",
+        "medical"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
+    },
+    "https://www.timesofisrael.com/israel-sent-iron-dome-and-troops-to-help-defend-uae-during-iran-war-report/": {
+      "summary": "Move is first time the missile defense system has been deployed outside Israel and the US, according to Axios, which says UAE-Israel ties closer than ever",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
+    },
+    "https://www.ft.com/content/4dbb8d92-a6a5-4420-9741-b50111454fa9?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-26"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-26",
-  "last_generated_time": "2026-04-26T11:01:44.960769+00:00",
+  "last_generated_time": "2026-04-26T12:01:56.528583+00:00",
   "digest": {
     "digest": "Recent developments indicate a significant shift in US diplomatic engagement concerning the Iran war, with President Trump canceling multiple high-level trips to Pakistan intended for peace talks. This move, described as the US holding 'all the cards,' suggests a hardening of the US negotiating stance and a potential blow to hopes for an immediate breakthrough. Concurrently, the economic fallout from the conflict continues to be a major concern. The war is reportedly draining critical US weapons stockpiles, with daily costs nearing $1 billion, and impacting global supply chains, notably affecting pistachio supplies and potentially increasing petrol prices for US motorists. Developing nations are also facing economic shocks due to the conflict. The US is also pursuing a strategy of economic warfare through sanctions, though their application is described as 'zigzagging.' The long-term financial and national security costs of the Iran war are projected to be substantial, with ongoing efforts to address Iran's nuclear stockpile, a situation exacerbated by previous US policies.",
     "top_themes": [

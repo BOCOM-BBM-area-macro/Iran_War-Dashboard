@@ -4773,10 +4773,13 @@
       "pub_date": "2026-04-27"
     },
     "https://www.bloomberg.com/news/articles/2026-04-27/iran-suggests-interim-deal-to-us-to-reopen-hormuz-axios-says": {
-      "summary": "",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi arrived in Russia on Monday for a meeting with President Vladimir Putin, as talks with the US on ending an eight-week war remain at an impasse.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Abbas Araghchi",
+        "Vladimir Putin",
+        "Russia",
+        "Pakistan"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4903,7 +4906,7 @@
       "pub_date": "2026-04-27"
     },
     "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html": {
-      "summary": "",
+      "summary": "China’s strategic reserves of oil and natural gas have insulated it somewhat, but its manufacturing-based economy is beginning to falter.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4963,20 +4966,36 @@
       "pub_date": "2026-04-27"
     },
     "https://www.bloomberg.com/news/newsletters/2026-04-27/sun-pharma-s-12-billion-acquisition-and-lessons-for-india-from-the-iran-war": {
-      "summary": "",
+      "summary": "Organon will boost Sun Pharma’s global presence by 40 countries.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "SUN PHARMACEUTICAL INDUS",
+        "India",
+        "pharmaceutical",
+        "Iran",
+        "War"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-27"
     },
     "https://www.bloomberg.com/news/newsletters/2026-04-27/us-pulls-china-into-iran-war-standoff-with-refinery-sanctions": {
+      "summary": "By blacklisting major player Hengli, Washington hopes to strengthen its hand in peace talks.",
+      "tags": [
+        "China",
+        "Iran",
+        "Economic Sanctions",
+        "War",
+        "Generic 1st 'CL' Future"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.washingtonpost.com/world/2026/04/27/thailand-war-iran/": {
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4985,7 +5004,7 @@
   },
   "last_run_success": false,
   "last_generated_date": "2026-04-27",
-  "last_generated_time": "2026-04-27T10:01:46.178503+00:00",
+  "last_generated_time": "2026-04-27T11:01:58.037297+00:00",
   "digest": {
     "digest": "Iran has reportedly offered the United States a proposal aimed at reopening the Strait of Hormuz and ending the ongoing conflict, while also suggesting a postponement of nuclear talks. This development comes as President Trump is expected to convene meetings with his national security and foreign policy advisors to discuss the proposal. The international community is experiencing significant economic repercussions from the Iran war, including disruptions to the circuit board supply chain and rising energy prices, prompting Spain to urge citizens to purchase airline tickets preemptively. Europe's power prices have surged, driving interest in renewable energy sources, while German consumer sentiment has fallen to a three-year low. The conflict is also impacting China's economy, despite some sectors showing profit growth, and has shifted OPEC's swing producer role to the United States. Diplomatic efforts appear to be in a state of 'no war, no peace,' with both sides seemingly betting on outlasting the other, though this stalemate carries inherent risks. Cease-fires in Lebanon and Iran remain fragile, with exchanges of fire occurring, and direct negotiations between Washington and Tehran are stalled. The broader implications of the Iran war are projected to have long-lasting financial consequences.",
     "top_themes": [
@@ -5137,6 +5156,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Nations meet to discuss fossil fuel exit as Iran war drives up prices - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVW5IenhOUWk5M2h5ZVlQczdIYXFIcmFYNEd2c0stMmtlY0RuZS0yQllNVzdOcDk0bngyM0RjellrRS1aYkxNWG9Pc2hZX29BY1dXbDA5dmtrai11R05iUWxZcWNUUkNNNEpWSlFwS1VUZDVCR08tc2Zkb21sM3V2NnRabFpfZXRRVkQxNkZjS2lSTUt4UmlNMFdMQkdOeVJUdnJnSF9rQUg2VUZTVUJiRTJjWDNjaG5Zd2J4aENpU3drZ3k0S1d6R0xFZDNiRklqS1k2YVJ3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 10:20 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777296047,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Is Starting to Expose Cracks in China’s Economy - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QY1NDc1NSdVlLejdETEZYbDRIVURWS1pERldoOEczc241OWJlaXZidjU4cFlQR2RnUHFESFJjc0hrd3FfQi1oaFFITHVxUU5zM09HLV80U2FSWjVLWE54ZWtwOUxiUUI1SHRhTFpraG5oT0hxMjFDUjlnQQ?oc=5",

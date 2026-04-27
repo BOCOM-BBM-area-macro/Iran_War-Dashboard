@@ -4637,7 +4637,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-26"
+      "pub_date": "2026-04-27"
     },
     "https://www.jpost.com/middle-east/iran-news/article-894243": {
       "summary": "The report also mentioned that US President Donald Trump is expected to hold a situation room meeting on Iran with his top national security and foreign policy team.",
@@ -4857,6 +4857,46 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-04-27/us-stocks-will-keep-ignoring-the-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/world/uk/uk-pm-starmer-discuss-iran-war-impact-with-bank-england-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-04-27/iran-war-s-new-normal-is-becoming-a-phoney-sitzkrieg": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7978,6 +8018,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Iran war fertiliser squeeze could spell trouble for next year's grain harvests - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHp3YkFONnJKNHV2eUlkcnpMa05DUDVtVGl6cE1id2EwTTVsRmhTZU5IYVVwVUZTTG01RWlUWHo2VmhxZ3Uzc1huZXBZQUlmWURUeGRvWnRLeWJia1prRUFIYmRyT2k1VThxb0ZqX3VmMGNibGpfTFJxa2FsTW1IOHc0V3IwYnM5aThlTkpyd2xpbW5LMU0yU1EzbERaelZnaVNJSEhhVkZwUDNaRVpqcUtTelVrY0VIb3dRcDFn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 06:50 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777283402,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How Iran War Is Shaking Up Food Supply Chains - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUZXNkFtdTRVZ1ZKQWpPZ0h5RmtlRFdMTDUxVFBvcEh5c1VnMnNoSlJHYVNDNUZxOGlCT25QTERlVlgwclpHTW45bVkzYUdLOFQ3UGVJamU2Y29QVjgwMW1XZWxmcWVXZTI5ZkMwNlRiaVdKU3NHV19GOEJmLXN3cWg5VGVQcU54VFVBSGFGS0NoTFJ1R2YyMDlRSlQ4UEdadWd3Z1l5QkVjYWhoLXF6dndDQ1BQbW1lWXhfaDln?oc=5",

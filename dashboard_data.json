@@ -5073,11 +5073,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/business/energy/adnoc-lng-tanker-crosses-strait-hormuz-first-time-since-iran-war-ship-tracking-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.wsj.com/opinion/its-way-too-early-to-declare-defeat-in-iran-ff8ac396": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/world/uk/king-charles-jets-us-trip-overshadowed-by-iran-quarrel-shooting-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-27",
-  "last_generated_time": "2026-04-27T18:02:02.638252+00:00",
+  "last_generated_time": "2026-04-27T19:01:58.621484+00:00",
   "digest": {
     "digest": "Iran has reportedly offered the United States a proposal aimed at reopening the Strait of Hormuz and ending the ongoing conflict, while also suggesting a postponement of nuclear talks. This development comes as President Trump is expected to convene meetings with his national security and foreign policy advisors to discuss the proposal. The international community is experiencing significant economic repercussions from the Iran war, including disruptions to the circuit board supply chain and rising energy prices, prompting Spain to urge citizens to purchase airline tickets preemptively. Europe's power prices have surged, driving interest in renewable energy sources, while German consumer sentiment has fallen to a three-year low. The conflict is also impacting China's economy, despite some sectors showing profit growth, and has shifted OPEC's swing producer role to the United States. Diplomatic efforts appear to be in a state of 'no war, no peace,' with both sides seemingly betting on outlasting the other, though this stalemate carries inherent risks. Cease-fires in Lebanon and Iran remain fragile, with exchanges of fire occurring, and direct negotiations between Washington and Tehran are stalled. The broader implications of the Iran war are projected to have long-lasting financial consequences.",
     "top_themes": [
@@ -7223,6 +7253,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "ADNOC LNG tanker crosses Strait of Hormuz for first time since Iran war, ship-tracking data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ29JSmp1NWd6eG5MYWU0aHpEczg4d2owdDc4cm8xZ0ZPNVh1YW9OSlZjNFZSVVdENWdTU3FmNjY0dnYwUjRXOEo4aUJKd3ZVWXhsVElTZU1sUUlBMWlwZzc4R0c3Zmh2ZnZIbjVYTUhXcElzVzVRUVhEbEp0a09zM1ZCcV83dE1pT3lvTlJnS1EtY3g3SkxEdnMzWGlWUjZDYzNFOGhHUThfdXdERVVwR0FqcnVEYkJRb3A2M0JoWXVyaXFmcWQwRmNB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 17:28 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777321707,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Renewables in vogue as Iran war drives up Europe power prices - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMG1vMGszUnhJWmVHaUtuSU1EM3pnV2JDRHU1NzRhUFd0TlpFbVZFVnpScl8yQmJ6NUY0Ql9pbVNQWjR2bXhKMVE2WVAtM0dEbFVZQnZuVnI2ay1HSHRsRE12SEQxLTYxQW9QYXBkR19BQ2ZkVlVDcmQ2QXpOcG9JbnJFUUxlNmNGamFuRERNVloybF9hbHczdWw3RVNBRkhWOHFpNjBCREFsWkpkVUIybzBSb1A1MDJUUWpQYUoyeUJrdnlia3ZKM0NjSQ?oc=5",

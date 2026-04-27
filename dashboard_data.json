@@ -4637,7 +4637,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-26"
     },
     "https://www.jpost.com/middle-east/iran-news/article-894243": {
       "summary": "The report also mentioned that US President Donald Trump is expected to hold a situation room meeting on Iran with his top national security and foreign policy team.",
@@ -4761,6 +4761,56 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-26"
+    },
+    "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-27/iran-suggests-interim-deal-to-us-to-reopen-hormuz-axios-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.wsj.com/economy/consumers/german-consumer-sentiment-slumps-to-three-year-low-on-iran-war-impact-afdded5e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/business/eu-steelmakers-set-rebound-iran-war-hurts-more-exposed-asian-peers-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
     }
   },
   "last_run_success": true,
@@ -4919,6 +4969,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Iran war hands OPEC's swing producer crown to America - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEd1Y3BZM3ZIaGItLWtCbXdVeGctUGx1RGxkcnFpdkhjTWpjaUdFOVpxZjRTZDJ0MkRsblNHeDZwdjN2VDRRT2pYekdHSklodnN2UnRacGJSOHFieFdlbzZ0MFBsX1hHaEpsTml2SG5zUDFMalg0ei1yY2FCMU1oVEkwUTZqeUhPbUVSN0w5SG9aNTdTR0F5UVdscFRhMGNhWWxmby1odVQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 03:05 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777269900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Chips carry stocks higher; Oil jumps on stalled peace talks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFFHZnR3cEZhaHhha01WbDU2dGlnQWJyX0w0Q2poQk55Y1RjQ1N5Zk84NVVraDBfX3ljdFZab1IxejVPZUZMRTVyRnQxYmZEWDYzaExnRTFKOENYLXBmdkVHeTlSZW1LSDI2b050UE5DNGJnMU1NdHFEaEdPM1JBS1dRbzItbGdH?oc=5",
           "source": "Reuters",
@@ -4927,6 +4991,20 @@
           "published": "Apr 26, 2026 · 19:21 BRT",
           "pub_date": "2026-04-26",
           "pub_ts": 1777242060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil rises 1% as US-Iran peace talks stall - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQU9lWjRuUWhQNDE1NjUtYmRBUk5ZN0lQc2dmaG5JMlY0RlBDYmlibmUtM0llNGNrUkNkRlp6WXJSV1ZIcjJkdXNFNTFlMGRnV09TR0twYWp5aU1LeGpLcUZQaGZveHBwc3pqd05HNmdBTVVOa3FReGZTWndOblR0cmFVWF9mOXJKR3ZDS3UtOEtLNzR3UndpaU14Y1dqN3VW?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 26, 2026 · 19:13 BRT",
+          "pub_date": "2026-04-26",
+          "pub_ts": 1777241580,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -6748,6 +6826,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "China's clean tech exporters cash in as Iran war hits oil & gas flows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTm5keVVvb3Q0bUtQekxZSVNnbk1uYzJQUk9pSHJmUGx1d3o2cHRwZVV1Wks3Ulhia3hIeGFCOWxneEZoaXhhclhvOTQ5a2xSNG5VNGNQRkM5X2FuTWtkTGNpZ2hKSFdQTTRMTWtMNmlDWlN2bld5X3FnTEhOSHlVb3lnckQtaVdXVVFhYXdNQW1mSUJKUTZvMFQ3Z3VWQk9fQU1NaXVXQU5OUUJVZTJsMGZB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 03:14 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777270440,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Climate Focus: Energy shock from Iran war sparks solar scramble - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMS1WUWJpb183V1NDdWNtQ3lENG05aWpZRFZZM2U5TENKQ3N0VzlvNVFaQlk1SjZqTTI5MGRjRk1WYi1QWEw2SkgxZ3VsU2t3S2U3ZzFWc0piUG5qT1ZRRVI1WDBUWTJsV2FvTGN5dVdfcFRZRTVkYW16TnNyQ2doOTBnZlo0c25SajZ2Q3V0N3pQNEU1U0NJVUVHdWdpelFKMEl6UTRDY05GNnJU?oc=5",

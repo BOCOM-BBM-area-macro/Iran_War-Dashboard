@@ -4328,7 +4328,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-26"
+      "pub_date": "2026-04-27"
     },
     "https://www.ft.com/content/53951801-5a60-4016-b978-ebbf71417111": {
       "summary": "",
@@ -4931,11 +4931,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-27"
+    },
+    "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-532e6dea": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-27/bp-gains-on-exxon-to-emerge-as-top-big-oil-stock-during-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
     }
   },
   "last_run_success": false,
   "last_generated_date": "2026-04-27",
-  "last_generated_time": "2026-04-27T08:01:54.418014+00:00",
+  "last_generated_time": "2026-04-27T09:01:49.669573+00:00",
   "digest": {
     "digest": "Iran has reportedly offered the United States a proposal aimed at reopening the Strait of Hormuz and ending the ongoing conflict, while also suggesting a postponement of nuclear talks. This development comes as President Trump is expected to convene meetings with his national security and foreign policy advisors to discuss the proposal. The international community is experiencing significant economic repercussions from the Iran war, including disruptions to the circuit board supply chain and rising energy prices, prompting Spain to urge citizens to purchase airline tickets preemptively. Europe's power prices have surged, driving interest in renewable energy sources, while German consumer sentiment has fallen to a three-year low. The conflict is also impacting China's economy, despite some sectors showing profit growth, and has shifted OPEC's swing producer role to the United States. Diplomatic efforts appear to be in a state of 'no war, no peace,' with both sides seemingly betting on outlasting the other, though this stalemate carries inherent risks. Cease-fires in Lebanon and Iran remain fragile, with exchanges of fire occurring, and direct negotiations between Washington and Tehran are stalled. The broader implications of the Iran war are projected to have long-lasting financial consequences.",
     "top_themes": [
@@ -5102,6 +5132,20 @@
           "_rank": 0
         },
         {
+          "title": "Optimism Over Iran War Resolution Might Soon Fade as Talks Stall - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHQzcUZWc2pBakp1b29sTEJ0RF90Z256UWtabWNlTjQ1VEZqX09ZRjFGa0FLTjdzcUY4QXlBMFVRdjN6cmFmdGpyWDBYR0F5NTZPaGNqbHM0amRlUlRKNEVibWl0VlpfM1lVblNxSUpDR3FwRFZXdFJnb0pVbjBPWU5oVGpoanBkak1vZVdwUHRrTEtTTjhnSlFoR21EMVBSdGc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 07:14 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777284840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Buy airline tickets now, Spain urges as Iran war lifts oil prices - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzBaYXF2Um4tb3NXUjNxQkd3Sm1ETlMyRHU3OHZpSFJsQk1JOTNLbnZsMGZpcmEwamFianljY1VUbTVZTWpFOHloVTVBMjRNSmhfaVl0TXlqWXR3NTdLQkJJRzlTUFRPYXRwSzZGV2ZhdTM0ODlnVXJlU2swM1FDTnU0TlRwNkxOLWVZWElwN2R2eHRjTFhuZDdjbVI5STdiZHF2aUJNUnNXUQ?oc=5",
           "source": "Reuters",
@@ -5144,6 +5188,20 @@
           "_rank": 0
         },
         {
+          "title": "Gold steadies as traders await central bank decisions amid inflation worries - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXFycW01cUZWX3pld1pTbUEwTFNldzNlRlpzTjRLdHBQdmdRbTVUMEZlRUtpT1p2ektIRkdDWkpjT2lTYWNkNTRveFBpZHJDVUNUOGMxbVhOelZDdlVYbVpHdS1QWE8zOHpPbnFrcmgyaTYtcGo2a2UtWWM0SDg2VkQ0NVVoNWRMYXZXXzktelZOYWt3LW8xUnAxQUM5Z0RKR1Ewd0VjQUg4bnlINUd6RDNzb1ZmVjdV?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 26, 2026 · 22:26 BRT",
+          "pub_date": "2026-04-26",
+          "pub_ts": 1777253160,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Chips carry stocks higher; Oil jumps on stalled peace talks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFFHZnR3cEZhaHhha01WbDU2dGlnQWJyX0w0Q2poQk55Y1RjQ1N5Zk84NVVraDBfX3ljdFZab1IxejVPZUZMRTVyRnQxYmZEWDYzaExnRTFKOENYLXBmdkVHeTlSZW1LSDI2b050UE5DNGJnMU1NdHFEaEdPM1JBS1dRbzItbGdH?oc=5",
           "source": "Reuters",
@@ -5166,6 +5224,20 @@
           "published": "Apr 26, 2026 · 19:13 BRT",
           "pub_date": "2026-04-26",
           "pub_ts": 1777241580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. Sanctions Zigzag in New World of Economic Warfare - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEVaNzVGdzFGMExjUkhOeVB6T3hrcmZDVk1DUnVGSGdmaFhJdXRWdHdYd3dWdlJxQ082UzF0SkxWdDhRRi15THExMzIxanR6RDZzT2hKUjBNY1VjTWptOE16dTNoZ2dlelJwbXJEV0hJZHB6U18zZFlDb2t6NVBaSjRnQ2VrRVFrSkFjZlpR?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 26, 2026 · 06:02 BRT",
+          "pub_date": "2026-04-26",
+          "pub_ts": 1777194150,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -8075,6 +8147,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Iran war fertilizer squeeze could spell trouble for next year’s grain harvests - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckxyQWdNbGoyamtDSEdtZ1hGMmVmVjcxeUFfNEpfQkY3cVhGZS10VnVkdkpjaE95SFEzbnM5RXJSOFZMdmFkSFdpbEgyT1VXSHhIRjlvRmViMnBRSkVZRURib1hRenNyMnVrdnVydU8zYkV6bEk4NXM4TENEWDNKd2dCem5aLVA3TmV4SzE0cTNScy1Sajd0Z0hjbmlPekFaUGp2c1c0NTdtZGxV0gGyAUFVX3lxTE8wOTVVY2libHowa1R5d0ZJUjhIUmZ3WTFYTzBPcjhFRWs0dVpELWN5azd5RkF6Vk4zYWZWTmtVdWtLbXBKblpqbFFoMDFvSjhUaFl0eUlYbXhBZ0VMNFlTdkd5SklEYXVndXRySDVtRjNuendJRXEwTWVLR1VPRzROWWZmMngzNTM3dVNFVUZaS3Y1M01fM2ptcVlUZFBKbHJBSWp2ZlV0c1A5a0RkSUNfRFE?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 08:17 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777288648,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The World’s Food Supply Is Under a Quadruple Attack - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1hiMnVRR2ZMYmZ0WFd5STJCUktWODBEeE5ZRUtZaWxmb1pNam05TG5fblN1Slk5NDhRclZyUWdfSGRzRXh4eGZ4LXpZakZ5TUxwTU9mT3dHSUdZSThpSGU3U3hIZEpCZC1nRTl1d1Rpd2tHTW02WV9FdWFPXzBoTmcwa3dkOWtqb0lmYm1GUHJNS2ZKSlVWQzlNSFRDeWNTSFl5VXhnLWUzWkFMOXlSLXNVakhOS0M1M0RZ?oc=5",

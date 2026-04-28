@@ -5162,7 +5162,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.bloomberg.com/news/articles/2026-04-27/gold-steadies-as-traders-weigh-diplomatic-push-to-end-iran-war": {
       "summary": "",
@@ -5535,11 +5535,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/world/us/us-spy-agencies-examine-how-iran-would-react-trump-declaring-victory-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.nytimes.com/2026/04/28/travel/summer-international-travel-us-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-28",
-  "last_generated_time": "2026-04-28T16:01:59.825831+00:00",
+  "last_generated_time": "2026-04-28T17:02:21.448483+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant pressure on the global economy, with notable impacts on commodity prices and international trade. Oil prices have seen a 3% increase due to the ongoing stand-off, while gold prices have retreated as traders assess diplomatic efforts. The conflict's fallout is increasingly evident in China's manufacturing sector, with car sales plummeting and toy factories shutting down amidst surging plastic and energy prices, leading to worker protests. Europe's power prices are rising, driving interest in renewable energy sources. The United States has largely been spared from the economic tumult, according to reports. Diplomatic efforts to end the war are ongoing, with Iran presenting new proposals. However, President Trump has expressed dissatisfaction with Iran's latest offer, particularly concerning its approach to reopening the Strait of Hormuz and setting aside nuclear program discussions. Talks with the US remain at an impasse, with Iran's Foreign Minister meeting with Russian President Putin. The war's impact extends to humanitarian concerns, with malnourished children in Somalia being severely affected. The conflict is also raising concerns about the security of subsea cables in the Strait of Hormuz.",
     "top_themes": [
@@ -5688,6 +5718,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnhlMGxZeGktLXBHZm81Z09FR1NURzBvQUx6VUxfN0xJaW5sN3Azc3lOVWdXWW5nb3dya215NFQ0WFc2elgxekVBYTRJWW5RUS1aeEtlN0VVLVJEOG9fY0JESk5vcnB1X0lXMFBNVF9LMDRpd05wN3pVM2dvb2w4d3M1d1hBX1g0dUpMM2dtWTdPcUE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 16:35 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777404954,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "US pump prices near 4 year high on Iran war disruption, refinery outages - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXy1va2liUDd1dVk3MDU1S1R1LUFvc2ZSdVBiV2Y0MkxRcDEwUlR5UzFJN1Rrd0ZScDRha042MzY1ZWJtNGQtNi16M0p1SVRfR0pmNGpDOU5zUXlMQ3RJUG1hMmhfckh2cXIyUkszTVFVS3pxWnVQVVJtdG85aWh2dW9pS0RDQmxCUElIWXRqRHJEeHZteGdfdzFnbXMzNWE1eF9hTFd4OElzMnlqeGQzTFVlOA?oc=5",
           "source": "Reuters",
@@ -5822,6 +5866,20 @@
           "published": "Apr 28, 2026 · 03:23 BRT",
           "pub_date": "2026-04-28",
           "pub_ts": 1777357380,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war shows Latin America has left its original sin behind - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BM09CcVQ2aFhEMENkQ1l6T21CTnA5UHBKNnNJdlBsSDQ4MjRYbnhIM21vR01YbU9iZ2VTWGRoMGwyN3Z0azdKMVFqOXNtSXo0VGZfTmM5TllEUWgwelEycFJYMU1yXzYxSkY0QjduVnM?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 01:00 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777348828,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

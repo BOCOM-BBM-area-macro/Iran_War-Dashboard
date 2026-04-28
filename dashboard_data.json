@@ -5153,11 +5153,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-27/gold-steadies-as-traders-weigh-diplomatic-push-to-end-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-28/first-lng-shipment-since-iran-war-began-appears-to-exit-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-27",
-  "last_generated_time": "2026-04-27T22:01:56.321761+00:00",
+  "last_generated_time": "2026-04-27T23:02:22.266699+00:00",
   "digest": {
     "digest": "Iran has reportedly offered the United States a proposal aimed at reopening the Strait of Hormuz and ending the ongoing conflict, while also suggesting a postponement of nuclear talks. This development comes as President Trump is expected to convene meetings with his national security and foreign policy advisors to discuss the proposal. The international community is experiencing significant economic repercussions from the Iran war, including disruptions to the circuit board supply chain and rising energy prices, prompting Spain to urge citizens to purchase airline tickets preemptively. Europe's power prices have surged, driving interest in renewable energy sources, while German consumer sentiment has fallen to a three-year low. The conflict is also impacting China's economy, despite some sectors showing profit growth, and has shifted OPEC's swing producer role to the United States. Diplomatic efforts appear to be in a state of 'no war, no peace,' with both sides seemingly betting on outlasting the other, though this stalemate carries inherent risks. Cease-fires in Lebanon and Iran remain fragile, with exchanges of fire occurring, and direct negotiations between Washington and Tehran are stalled. The broader implications of the Iran war are projected to have long-lasting financial consequences.",
     "top_themes": [
@@ -5305,6 +5335,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices rise as no end to Iran war stand-off seems in sight - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 22:02 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777338120,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US stocks edge back from their records as oil prices rise - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1BuRzVSWWhDU0FUZWdVNExKT0ZmOE1hYzFSRHEydmJ0N05pT3FDTWoybEV2Y1dKazZLbjhPVlhaTVhzUVNXU29TQllLOTlDbnp3bXJyWWVQMXItbjhPaGNUbkR5OTBmSk1yQkxxSVNQVFJGUk8tdjVXaExOQ19uQ1FaenRoQ3d2cVNsazJCbmlfc244YmFlenNOd2xnZ1dPNE91bllqTHRjMTRwWkxTZXJDSWtfcTBnRlBVTExra1FsMmFNczNB?oc=5",
@@ -7317,6 +7361,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "First LNG Shipment Since Iran War Began Appears to Exit Hormuz - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTMzWEFNdENQZ1dOeUFIbkEtT2dTTkRXZDhuaGsxVzNuQS11OVA4cFFzd0lwVHBGRDdud2hONWNsZ0xNRmZfQWJaR0puMkJIazRzdVljUUdUSHNheUU3X0RhREZHdGpkSThGZzBZc2haOGgtenQ3SDNvTlFsNG9hd1NWVW1naXUxVV9ZQ21tSXQ4b2NyTXNEcFhLY1hoQUNwbzJsRVFEZU43aGZNczdIVExHOA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 21:46 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777337160,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Vietnam Gas Major Looks to US as Iran War Reorders LPG Flows - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmJMbzlpVWF3c0NvSkFndlMtY3ZtSTFxVWNsREZlWk8tWVdpNXZBTGttUWJ1YzdVMkVuSlFHbVF0QkJQbzR1aU5TRDhaT2RlM3FLdWhYMGpaV3JHUHp1REFrZWQyMUVvTzVWUnZ5VzlCNExMUmQ2RGk4bldJTnJTSWtVdVVWMW95YTdmSlVKd2VQVmxHeDVSQV9yMXl6RVdFaDZVVHg0cXVyV3pVZEdPYw?oc=5",

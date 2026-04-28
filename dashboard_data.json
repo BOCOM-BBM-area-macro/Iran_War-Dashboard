@@ -5152,7 +5152,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/": {
       "summary": "",
@@ -5461,7 +5461,7 @@
       "pub_date": "2026-04-28"
     },
     "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html": {
-      "summary": "",
+      "summary": "The Gulf government has long complained about the group’s quotas, which officials believe unfairly limited its exports. Its departure is expected to weaken OPEC’s influence.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5499,11 +5499,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/world/us/trump-approval-sinks-record-low-war-with-iran-drives-cost-of-living-concerns-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.axios.com/2026/04/28/japan-rates-iran-energy-shock": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-28",
-  "last_generated_time": "2026-04-28T14:02:01.171399+00:00",
+  "last_generated_time": "2026-04-28T15:02:06.785802+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant pressure on the global economy, with notable impacts on commodity prices and international trade. Oil prices have seen a 3% increase due to the ongoing stand-off, while gold prices have retreated as traders assess diplomatic efforts. The conflict's fallout is increasingly evident in China's manufacturing sector, with car sales plummeting and toy factories shutting down amidst surging plastic and energy prices, leading to worker protests. Europe's power prices are rising, driving interest in renewable energy sources. The United States has largely been spared from the economic tumult, according to reports. Diplomatic efforts to end the war are ongoing, with Iran presenting new proposals. However, President Trump has expressed dissatisfaction with Iran's latest offer, particularly concerning its approach to reopening the Strait of Hormuz and setting aside nuclear program discussions. Talks with the US remain at an impasse, with Iran's Foreign Minister meeting with Russian President Putin. The war's impact extends to humanitarian concerns, with malnourished children in Somalia being severely affected. The conflict is also raising concerns about the security of subsea cables in the Strait of Hormuz.",
     "top_themes": [
@@ -9400,6 +9420,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Markets Downplay War’s Impact on Petrochemicals, Pipeline CEO Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDVQSExPMFA5SkVfc1dCOE5WWV93YkFaWVdPUTNjcnN6LW9IVjZIRkFrUkZUUEFZWmhwTEp1OURJWGl2NU9SUnoxOXAxdkVxNGFzZjB4RURMd3NhWmNmWmFRQVA3SWt1SUZyZ1J4ZWkyLTYxVmFFa1lLb0I0NG84YmlUbldWSHBNMU95RUE0U1VLc2U1dzh0MVNxMXlpN0hQRF84cXJOZUlqWENUYVczZ1hnNmtqY1k?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 14:16 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777396585,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war hits Asia's polyester suppliers to global fast fashion - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQklheW8yeTUxcm1MQkdWVDlaZG5LT3pKSzBwZ1lHZk5fUW5ieHlsMTdVV3ljSENlSzdtRG5SMVdUcXkwQzlkQndsMEdwSW53WVF2Skl1RTFRcmhiWk5rUEROd1NiTU10QldhbG5WMFE3RlR2SUthNWw5Q3U1enBUb3J4OFByVy1rYVgxY2oyYjdnNzBUSFVQWmtrS0hFT2ZkV1k4MDZVSVVYdGJCQjBUVUxCS0o?oc=5",

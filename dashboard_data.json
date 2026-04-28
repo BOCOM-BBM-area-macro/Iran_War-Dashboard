@@ -4637,7 +4637,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-26"
+      "pub_date": "2026-04-27"
     },
     "https://www.jpost.com/middle-east/iran-news/article-894243": {
       "summary": "The report also mentioned that US President Donald Trump is expected to hold a situation room meeting on Iran with his top national security and foreign policy team.",
@@ -5172,7 +5172,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.bloomberg.com/news/articles/2026-04-28/first-lng-shipment-since-iran-war-began-appears-to-exit-hormuz": {
       "summary": "",
@@ -5219,6 +5219,46 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.wsj.com/business/earnings/bp-gets-earnings-bump-as-oil-traders-capitalize-on-war-induced-volatility-d67f4162": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/markets/see-through-iran-war-markets-exploit-permacrisis-instead-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.ft.com/content/1cda459a-d7f5-4a79-b0a3-ad7b82a16a7e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-28/bp-profit-jumps-as-oil-trading-boomed-during-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5375,6 +5415,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "BP Earnings Jump as Oil Traders Get Boost From Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0JETEhXamRQVmFZelZfRTgwX0x5WWtPLUh2QTRxTkE2NnVKOTRiQmhmN3N0LW1DSTBETDYwSW5LcDlwZEd0blBCX1FDdllfc1locHZmVEx2bWloeW0ySHk2QzhieWdlX2Rjdy1xQW1xd2VVdTg0aVV4c1Q2cG1nUkRDUFcwcVAxMEFlRnlyOVJsMnlnN202eXRvMlNnQm9IckZyY0tiNk1GWktvNFo4SHNWMngtUExYWlZ3OQ?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 03:23 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777357380,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran Is Flooded With So Much Unsold Oil That It’s Stashing It in Derelict Tanks - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnFKQkQzVWIxRGJoN3gydmJJTkYzeXAtVDltcnhlM3FEbTJXMmpiZkVGai0ySEF3aGtnRzlHZmpZMWhFeVhmU1UtX3lnZjZRTGh0b2dmbjFoNTRRVlVCUDRzY2lXWUJ1Sy1obUduTFBlZFphOUNVM3RRX2xpZDk2bVowdzRCOVd0Wm1WUjNZVU82Y01mbmo1cVJiSnFGUmVwcDNMV0ZNUXJZOUNJTE95ZG9DZ00wWTBQQ3ZnWFJsM2FwX0U?oc=5",

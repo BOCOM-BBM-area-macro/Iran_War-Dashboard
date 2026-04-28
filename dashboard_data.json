@@ -5378,10 +5378,13 @@
       "pub_date": "2026-04-28"
     },
     "https://www.bloomberg.com/news/articles/2026-04-28/trump-to-address-iran-proposal-very-soon-as-oil-rises-further": {
-      "summary": "",
+      "summary": "President Donald Trump said Iran has asked the US to lift a naval blockade of the Strait of Hormuz while the two sides negotiate an end to the two-month war, which has upended global energy supplies.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Donald John Trump",
+        "War",
+        "Generic 1st 'CL' Future",
+        "United Arab Emirates"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5471,10 +5474,13 @@
       "pub_date": "2026-04-28"
     },
     "https://www.bloomberg.com/news/newsletters/2026-04-28/uae-quits-opec-just-as-war-on-iran-throws-markets-into-turmoil": {
-      "summary": "",
+      "summary": "Get caught up.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "United Arab Emirates",
+        "Iran",
+        "War",
+        "Generic 1st 'CL' Future",
+        "Saudi Arabia"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5519,11 +5525,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/sustainability/climate-energy/iran-wars-boost-biofuels-lifts-us-agriculture-giants-earnings-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-28",
-  "last_generated_time": "2026-04-28T15:02:06.785802+00:00",
+  "last_generated_time": "2026-04-28T16:01:59.825831+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant pressure on the global economy, with notable impacts on commodity prices and international trade. Oil prices have seen a 3% increase due to the ongoing stand-off, while gold prices have retreated as traders assess diplomatic efforts. The conflict's fallout is increasingly evident in China's manufacturing sector, with car sales plummeting and toy factories shutting down amidst surging plastic and energy prices, leading to worker protests. Europe's power prices are rising, driving interest in renewable energy sources. The United States has largely been spared from the economic tumult, according to reports. Diplomatic efforts to end the war are ongoing, with Iran presenting new proposals. However, President Trump has expressed dissatisfaction with Iran's latest offer, particularly concerning its approach to reopening the Strait of Hormuz and setting aside nuclear program discussions. Talks with the US remain at an impasse, with Iran's Foreign Minister meeting with Russian President Putin. The war's impact extends to humanitarian concerns, with malnourished children in Somalia being severely affected. The conflict is also raising concerns about the security of subsea cables in the Strait of Hormuz.",
     "top_themes": [
@@ -5708,6 +5724,20 @@
           "published": "Apr 28, 2026 · 09:33 BRT",
           "pub_date": "2026-04-28",
           "pub_ts": 1777379623,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFhtN0R6VnZjYWFENHc3TGJGWXRaQnhlR1FvMHlWZjZvX0JtcEI1bVlXR3Bnb1cwd1hvOXhCVXZ5N3dSU09GVmVYVjFsUi1Lb2hSX3dSYUkzWHo1Tk5vbGFzU0M4cEg1TFJZWHZ4RHR3WGpLZGF2YjJtZFJ1WXF6Q0NwdGFqS1Q3OUptTHBuUkhpNGV4ZWVSYndzanhzWC1ENDBuZUZXeXZQMEhubkFOZHliLUo3bGNfOW9EYUE5ZzJ6WURxd1FIaEkzQQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 08:44 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777376649,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -6226,6 +6256,20 @@
           "published": "Apr 23, 2026 · 12:54 BRT",
           "pub_date": "2026-04-23",
           "pub_ts": 1776959649,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. Seizes Second Tanker Carrying Iranian Oil - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85Y0lsekNIcW9YaHhUZ3NIU1AxSVpoN3c3WFdFcTlNSmJ6YVFDVDJYRmNLZTFpYUVPV3F6RGdXeGxQNE0wUnEtOVRWbUhnVl9hSG1RMTBQRF9wenE4RkVqa3h2WXRvTXpsVUdrdVo2aHpXNGI0SGRjSEFwcG8xQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 23, 2026 · 11:14 BRT",
+          "pub_date": "2026-04-23",
+          "pub_ts": 1776953691,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -9163,6 +9207,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Iran war's boost to biofuels lifts US agriculture giants' earnings - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWo0WjRnVGtnOExUVG1jbnVUMERMVnZHU0lQdjY4ZXZ0VDh6YUlLX2dBb3dPY19hc0JTZk9yMHVfVkE1Ry0zaG5vMEZwTlc1YUNuczhCakNxeVNPMGxKOG5hbWxOOTFiMmxQRjk5NjBFNU9xUkNvMHFjWmh2b0Q1NHJoNWpwdnNpRUdRUndjNHhlUDhqTjZ6Y2t6Ujlxc1BndEQ0UGZuNThaQWpjV2tNTjlGNHFyQ1JpcEwtRlhHRF9McDdoX3c?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 15:24 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777400649,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war fertilizer squeeze could spell trouble for next year’s grain harvests - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckxyQWdNbGoyamtDSEdtZ1hGMmVmVjcxeUFfNEpfQkY3cVhGZS10VnVkdkpjaE95SFEzbnM5RXJSOFZMdmFkSFdpbEgyT1VXSHhIRjlvRmViMnBRSkVZRURib1hRenNyMnVrdnVydU8zYkV6bEk4NXM4TENEWDNKd2dCem5aLVA3TmV4SzE0cTNScy1Sajd0Z0hjbmlPekFaUGp2c1c0NTdtZGxV0gGyAUFVX3lxTE8wOTVVY2libHowa1R5d0ZJUjhIUmZ3WTFYTzBPcjhFRWs0dVpELWN5azd5RkF6Vk4zYWZWTmtVdWtLbXBKblpqbFFoMDFvSjhUaFl0eUlYbXhBZ0VMNFlTdkd5SklEYXVndXRySDVtRjNuendJRXEwTWVLR1VPRzROWWZmMngzNTM3dVNFVUZaS3Y1M01fM2ptcVlUZFBKbHJBSWp2ZlV0c1A5a0RkSUNfRFE?oc=5",

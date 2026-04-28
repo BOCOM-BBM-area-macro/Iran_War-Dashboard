@@ -4637,7 +4637,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-26"
+      "pub_date": "2026-04-27"
     },
     "https://www.jpost.com/middle-east/iran-news/article-894243": {
       "summary": "The report also mentioned that US President Donald Trump is expected to hold a situation room meeting on Iran with his top national security and foreign policy team.",
@@ -5152,7 +5152,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/": {
       "summary": "",
@@ -5193,6 +5193,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-27"
+    },
+    "https://www.reuters.com/world/asia-pacific/trump-not-happy-with-latest-iran-proposal-end-war-us-official-says-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-27"
+    },
+    "https://www.wsj.com/world/middle-east/iran-offers-a-new-proposal-to-end-war-b88da96c": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
@@ -5346,6 +5366,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Iran Is Flooded With So Much Unsold Oil That It’s Stashing It in Derelict Tanks - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnFKQkQzVWIxRGJoN3gydmJJTkYzeXAtVDltcnhlM3FEbTJXMmpiZkVGai0ySEF3aGtnRzlHZmpZMWhFeVhmU1UtX3lnZjZRTGh0b2dmbjFoNTRRVlVCUDRzY2lXWUJ1Sy1obUduTFBlZFphOUNVM3RRX2xpZDk2bVowdzRCOVd0Wm1WUjNZVU82Y01mbmo1cVJiSnFGUmVwcDNMV0ZNUXJZOUNJTE95ZG9DZ00wWTBQQ3ZnWFJsM2FwX0U?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 23:00 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777341600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil prices rise as no end to Iran war stand-off seems in sight - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
           "source": "Reuters",
@@ -5368,6 +5402,20 @@
           "published": "Apr 27, 2026 · 12:51 BRT",
           "pub_date": "2026-04-27",
           "pub_ts": 1777305061,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVNYUGpiS2s3d0JQSGc2RTFWb0NFdlFTX1pVaE1Qbi1ySE5UTmJzQ1g0b0hMM2gzWGgxa0tBRko2cUd3bGNQNFNMbi1hbWI3REJXNy1UZ0EtQmpaMk1IaUVDbjV2TjNKNFV2Y1VlYW9sXzd2OGlJSVROZERMS3JCRDdpSnRoUDRyVVVSc3haWHQ4VDc2NDZXQXNjbjkyUk5UNlNCRzBVQmFFNGduSGVyZ3dnMDM4cUFqMGZLaDIxdlVvaHNSblY1bnN2Yw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 12:20 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777303228,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

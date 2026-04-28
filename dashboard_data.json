@@ -4637,7 +4637,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-26"
     },
     "https://www.jpost.com/middle-east/iran-news/article-894243": {
       "summary": "The report also mentioned that US President Donald Trump is expected to hold a situation room meeting on Iran with his top national security and foreign policy team.",
@@ -5152,7 +5152,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/": {
       "summary": "",
@@ -5162,7 +5162,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-28"
+      "pub_date": "2026-04-27"
     },
     "https://www.bloomberg.com/news/articles/2026-04-27/gold-steadies-as-traders-weigh-diplomatic-push-to-end-iran-war": {
       "summary": "",
@@ -5263,6 +5263,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/world/iran-war-is-latest-blow-somalias-malnourished-children-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/business/media-telecom/hormuz-digital-chokepoint-how-does-iran-war-threaten-subsea-cables-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-28/shin-etsu-withholds-annual-outlook-due-to-iran-war-disruptions": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-22"
     }
   },
   "last_run_success": true,
@@ -5416,6 +5456,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "BP Profit Jumps as Oil Trading Boomed During Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTQ2MlpmX2x1RmhrTDFDX1U3a1RRbjY2ZFpNYlZjVENtaGMtd2RjR283bjdweV9Ub3pmWDVlXzRQbUtxR1c4QnN2TDN1Q3ItS2x1LU1WV2d2ZVd6WmREY2gxTldXYTVLNEpmYkItNjk3cXVCTUFuN3V3TDQ3N3liX09palRSeUhGYjhyMjAxRE52Y0c3Sml2NlZ0NFBwRXFRQ3JGVFV1Zw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 03:38 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777358280,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "BP Earnings Jump as Oil Traders Get Boost From Iran War - WSJ",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0JETEhXamRQVmFZelZfRTgwX0x5WWtPLUh2QTRxTkE2NnVKOTRiQmhmN3N0LW1DSTBETDYwSW5LcDlwZEd0blBCX1FDdllfc1locHZmVEx2bWloeW0ySHk2QzhieWdlX2Rjdy1xQW1xd2VVdTg0aVV4c1Q2cG1nUkRDUFcwcVAxMEFlRnlyOVJsMnlnN202eXRvMlNnQm9IckZyY0tiNk1GWktvNFo4SHNWMngtUExYWlZ3OQ?oc=5",
           "source": "WSJ",
@@ -5452,6 +5506,20 @@
           "published": "Apr 27, 2026 · 22:02 BRT",
           "pub_date": "2026-04-27",
           "pub_ts": 1777338120,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Rises, and Stocks Tick Higher, as Iran Makes New Peace Offer - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wZ0Q2U0hZWDNudlBTYlhJSjN5RWFIRnduVU83MWsxM3pOS1Izc3M3QldPT0dWSDNMbzNOSVZCREk5cDk0NTlpX3UxOEh6eGpOMU5ud3MzVGQ4S2htVkx1X1JpMXUwOGpoMVEtUW02QjFCODhFbmRV?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 17:12 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777320720,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -8211,6 +8279,20 @@
           "published": "Apr 24, 2026 · 17:01 BRT",
           "pub_date": "2026-04-24",
           "pub_ts": 1777060871,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Military-Grade Jet Fuel Cargoes From US Show Scale of War Impact - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEt2T3k5MXM1Z2hxS0dPd3ZuejA4NjJrSlJCckVxRmxJZVBHTHJVRktHRkNwWTEtaVZydl9TLTJYRWFISF9FYzNla1p2WWljOXJNZ21sVlpZTjg3dWtqcGpZY1U2Nm5pcWxIWFdPU0c4c19IM3Q3Qmk2TS1QZmtYVmw1UURfbWlpakc3eVpLUXp2X01fclRCUGhXSHBWRUQ4eUlEb2dnWm03a3ZyNVRFX3BxNUYwdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 15:52 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777056739,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -1367,7 +1367,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-26"
     },
     "https://www.nytimes.com/2026/04/19/world/middleeast/iran-internet-blackout-50th-day.html": {
       "summary": "",
@@ -4637,7 +4637,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-26"
     },
     "https://www.jpost.com/middle-east/iran-news/article-894243": {
       "summary": "The report also mentioned that US President Donald Trump is expected to hold a situation room meeting on Iran with his top national security and foreign policy team.",
@@ -5313,6 +5313,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.axios.com/2026/04/28/iran-war-peace-talks-stalemate": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/business/aerospace-defense/philippines-not-concerned-iran-war-will-distract-us-region-top-defence-official-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
@@ -5465,6 +5495,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Cnooc Posts Stronger Profit as Iran War Boosts Oil Prices - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjZzdGdpRkE5UkJWY2Q1VDllb1V2QXltQjh1Q3c2RjZBQm1YdEVUczYxZlJReTJxRWt3MGZPRVE5elBJblg1akNLc0RpYmVFUlI2ZmdjclR4ZTZPRFZ3eXN6M3k0OTJFQ1pyeVMtMmstNC1QTzVlTEt3OE0ycFZzcUxGRzUzbzN0bHV3UkRTb0l1bkN0eG8zLUI3TWdTTWVOdlpuRzY1UHVVbXp2OUE2cDh2NmVfZw?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 05:41 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777365677,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Jump Again as U.S.-Iran Talks Appear Deadlocked - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VZEtUeU5CbGlKZEFrRkx6VWpnc184eVRBejFtS1AtYXJPV1hycVNPZXhDSndEOV8yWXdXUTVtdkZsTnVOaWFPUVdqRGtMV3BJaXNFRm5BSWpIRy1Fb2JwWUxJNFRzOTZiWTFYS1pSZTFHdHN6akUwLU5DOGY?oc=5",
@@ -7575,6 +7619,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "The World Needs Natural Gas Now, but the U.S. Is Exporting All It Can - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmJhYlBqZmhfcGtLWVM4MkZGNTEtYldkNVZTUjhKd0U1anprX21mZThVUncyUHFHWGJkMmx1QWtpU3BUbUw2Tzd1Sm9YLVFPZDBkR2xRWG5vNm5MZVU0Vjh2cWExX1djTlJnc0dsSkVJd1p2dDhNMUw4U2pJQ1FSd3diY3FlQkhuMnFtUm9vTXVJZER0Y084TmZoN0FQdw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 06:02 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777366948,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "First LNG Shipment Since Iran War Began Appears to Exit Hormuz - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTMzWEFNdENQZ1dOeUFIbkEtT2dTTkRXZDhuaGsxVzNuQS11OVA4cFFzd0lwVHBGRDdud2hONWNsZ0xNRmZfQWJaR0puMkJIazRzdVljUUdUSHNheUU3X0RhREZHdGpkSThGZzBZc2haOGgtenQ3SDNvTlFsNG9hd1NWVW1naXUxVV9ZQ21tSXQ4b2NyTXNEcFhLY1hoQUNwbzJsRVFEZU43aGZNczdIVExHOA?oc=5",

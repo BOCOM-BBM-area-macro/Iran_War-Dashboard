@@ -5152,7 +5152,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/": {
       "summary": "",
@@ -5335,7 +5335,7 @@
       "pub_date": "2026-04-28"
     },
     "https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html": {
-      "summary": "",
+      "summary": "The jump on Tuesday of 1.6 percent was the highest percentage increase in more than a month.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5575,11 +5575,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/business/wrapup-us-companies-project-resilience-even-iran-war-risks-mount-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.timesofisrael.com/us-intel-agencies-examining-how-iran-would-react-if-trump-declares-victory-in-war/": {
+      "summary": "In initial days of conflict, intelligence community concluded such a declaration would be viewed by Iran as a win; White House says talks ongoing, US won't be rushed into bad deal",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-28",
-  "last_generated_time": "2026-04-28T19:02:11.183061+00:00",
+  "last_generated_time": "2026-04-28T20:01:52.005471+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant pressure on the global economy, with notable impacts on commodity prices and international trade. Oil prices have seen a 3% increase due to the ongoing stand-off, while gold prices have retreated as traders assess diplomatic efforts. The conflict's fallout is increasingly evident in China's manufacturing sector, with car sales plummeting and toy factories shutting down amidst surging plastic and energy prices, leading to worker protests. Europe's power prices are rising, driving interest in renewable energy sources. The United States has largely been spared from the economic tumult, according to reports. Diplomatic efforts to end the war are ongoing, with Iran presenting new proposals. However, President Trump has expressed dissatisfaction with Iran's latest offer, particularly concerning its approach to reopening the Strait of Hormuz and setting aside nuclear program discussions. Talks with the US remain at an impasse, with Iran's Foreign Minister meeting with Russian President Putin. The war's impact extends to humanitarian concerns, with malnourished children in Somalia being severely affected. The conflict is also raising concerns about the security of subsea cables in the Strait of Hormuz.",
     "top_themes": [
@@ -7650,6 +7670,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Oil Rises Above $110 Amid Iran War Impasse - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDJUQjFQbHlvOE5oM3Vvd1Q1cEk5bC0wRU5PZXY5LUNDRGZyWXJUV2VKckFhaFVhTjFwbGd3Q3FCQjJKc0VSMEhOelRieWJLWlFWWmlmTmtRd2ctc2xnNzA3bTRJejdSc0l1Nnh6SW92LWNUSko5TjF3dXZlWkN6V1FsU3BBMzBZT2NyOEpwYjFpYW81TnVPSDVudFdLZ1VabGVWcHprbGM0a3ZsVGljN0lLeDF5NVk?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 19:08 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777414106,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalN2R2Rsay1qbGw4a0hHYWF5MlBmSUlMRERsajItcV9aYVBvTXJSQWNYblJ3VHVFSThrYXFaVl9lcUFjVEZOV3BhUlAzaUhORE5hYXZScWpQQkNBdXRjaWdBQ09nTC1nQ0tEb2RBM3JlTFpRTjhyZ0RDNWRCcDRvemU1NEFUTnpMd25vY3h3VER6NTF4bnRCbXB6WTFiaU1RdDdERWxobzAzejV0b0MtaGZra2pqZU1jNUNqd2R3?oc=5",

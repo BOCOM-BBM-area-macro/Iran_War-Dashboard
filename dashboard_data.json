@@ -5152,7 +5152,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/": {
       "summary": "",
@@ -5439,11 +5439,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.wsj.com/business/earnings/gm-raises-adjusted-profit-guidance-on-lower-tariff-costs-52a449ab": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.wsj.com/world/asia/u-s-iran-wars-next-casualty-global-food-7bb7f8bf": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-28",
-  "last_generated_time": "2026-04-28T12:02:36.600028+00:00",
+  "last_generated_time": "2026-04-28T13:02:24.292240+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant pressure on the global economy, with notable impacts on commodity prices and international trade. Oil prices have seen a 3% increase due to the ongoing stand-off, while gold prices have retreated as traders assess diplomatic efforts. The conflict's fallout is increasingly evident in China's manufacturing sector, with car sales plummeting and toy factories shutting down amidst surging plastic and energy prices, leading to worker protests. Europe's power prices are rising, driving interest in renewable energy sources. The United States has largely been spared from the economic tumult, according to reports. Diplomatic efforts to end the war are ongoing, with Iran presenting new proposals. However, President Trump has expressed dissatisfaction with Iran's latest offer, particularly concerning its approach to reopening the Strait of Hormuz and setting aside nuclear program discussions. Talks with the US remain at an impasse, with Iran's Foreign Minister meeting with Russian President Putin. The war's impact extends to humanitarian concerns, with malnourished children in Somalia being severely affected. The conflict is also raising concerns about the security of subsea cables in the Strait of Hormuz.",
     "top_themes": [
@@ -5591,6 +5621,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "United Arab Emirates Says It Will Leave OPEC in Blow to Oil Cartel - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yQzVCOGlNUFlhVWJRVUVkeEprQ1p6ZmtENnI0SnBPMTFOVnFYT2RJTy1LSkNYYjVVb1RwZWJfOXZGT1ltdHNWQ0plSDFfeGwzUVZhczRiLXJ0RE9YWDFjRDlQT1locnZLcHM5ZTlIYWpFWUk?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 09:33 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777379623,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Boliden relies on stable electricity prices as Iran war drives up oil - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2dYLWR5cWFnbG9nTnNweGtYMWF6eXh1clpKZEo2cXNHTEhwWGFyNEkzQWxOZ29CWmNXc3czbVFCOW8zYXpQSEloYzB1YjVUQWVvTWc3U2xMRmVmR3hlN1dxT2tkTmpaS3gwTzFGbmo1bHFzajBtX1VFTlNodFBOMGJQYUdNM3M3eTVabzhBdTMzMUctTWZvU19KejdIWVNhM09RSkdEaU9MS0tXWXlQbHREb0xNZw?oc=5",
@@ -7813,6 +7857,34 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "First Fully Loaded L.N.G. Tanker Since War Began Appears to Have Crossed the Strait - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFEza2ctMk9ielE1em9CY09KcF9QUW44bDBPN25ka3dzamxmbkEzbVdBR2Fjel81WG15dm53Wl91VzVZVnlfUkMxV3FPaFZmRlNabVd4LS1vVXJRdGZhcUc4ckxRQ0dxa1V1NnFRdjFlcm1qcVl0YV9qRnJIM3NrOVlTY2hjVXpiRmJUTGJpOXNvQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 12:41 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777390906,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "GM Says Iran War, High Gas Prices Aren’t Denting Sales - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUFUYTZPU0s2Mm1vSnMwQk1pbnhIUmJKVFpmZU1waHVzRDFmcnFqZi14ckNBRFVqZkh5UlQ4SVkzemMxeGRQMDNJWnpTWTVUdnI2cGh4RjVseUdpdXpUc1lJR3RKV1R3dVhiMjV1dUV1aUkxTmtXSk9xNTVYRmxPMWV0N0drcEwtclNZYXBZQmhKTEpOQlNTOVhXQTR2WjJuWHc0Z0t3?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 12:00 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777388400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The World Needs Natural Gas Now, but the U.S. Is Exporting All It Can - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmJhYlBqZmhfcGtLWVM4MkZGNTEtYldkNVZTUjhKd0U1anprX21mZThVUncyUHFHWGJkMmx1QWtpU3BUbUw2Tzd1Sm9YLVFPZDBkR2xRWG5vNm5MZVU0Vjh2cWExX1djTlJnc0dsSkVJd1p2dDhNMUw4U2pJQ1FSd3diY3FlQkhuMnFtUm9vTXVJZER0Y084TmZoN0FQdw?oc=5",

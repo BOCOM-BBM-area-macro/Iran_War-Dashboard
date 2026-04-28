@@ -5343,51 +5343,74 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.jpost.com/international/article-894436": {
+      "summary": "The war in Iran is weighing on China’s economy, with car sales plunging, toy factories shutting down, and thousands of workers taking to the streets following a surge in plastic and energy prices.",
+      "tags": [
+        "China",
+        "oil",
+        "economy",
+        "Israel Iran War",
+        "US-China relations"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/world/uk/sterling-dips-central-bank-decisions-iran-war-uncertainty-focus-2026-04-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-04-27",
-  "last_generated_time": "2026-04-27T23:02:22.266699+00:00",
+  "last_generated_date": "2026-04-28",
+  "last_generated_time": "2026-04-28T08:01:50.404398+00:00",
   "digest": {
-    "digest": "Iran has reportedly offered the United States a proposal aimed at reopening the Strait of Hormuz and ending the ongoing conflict, while also suggesting a postponement of nuclear talks. This development comes as President Trump is expected to convene meetings with his national security and foreign policy advisors to discuss the proposal. The international community is experiencing significant economic repercussions from the Iran war, including disruptions to the circuit board supply chain and rising energy prices, prompting Spain to urge citizens to purchase airline tickets preemptively. Europe's power prices have surged, driving interest in renewable energy sources, while German consumer sentiment has fallen to a three-year low. The conflict is also impacting China's economy, despite some sectors showing profit growth, and has shifted OPEC's swing producer role to the United States. Diplomatic efforts appear to be in a state of 'no war, no peace,' with both sides seemingly betting on outlasting the other, though this stalemate carries inherent risks. Cease-fires in Lebanon and Iran remain fragile, with exchanges of fire occurring, and direct negotiations between Washington and Tehran are stalled. The broader implications of the Iran war are projected to have long-lasting financial consequences.",
+    "digest": "The Iran war continues to exert significant pressure on the global economy, with notable impacts on commodity prices and international trade. Oil prices have seen a 3% increase due to the ongoing stand-off, while gold prices have retreated as traders assess diplomatic efforts. The conflict's fallout is increasingly evident in China's manufacturing sector, with car sales plummeting and toy factories shutting down amidst surging plastic and energy prices, leading to worker protests. Europe's power prices are rising, driving interest in renewable energy sources. The United States has largely been spared from the economic tumult, according to reports. Diplomatic efforts to end the war are ongoing, with Iran presenting new proposals. However, President Trump has expressed dissatisfaction with Iran's latest offer, particularly concerning its approach to reopening the Strait of Hormuz and setting aside nuclear program discussions. Talks with the US remain at an impasse, with Iran's Foreign Minister meeting with Russian President Putin. The war's impact extends to humanitarian concerns, with malnourished children in Somalia being severely affected. The conflict is also raising concerns about the security of subsea cables in the Strait of Hormuz.",
     "top_themes": [
-      "Iran's Proposal to US",
-      "Global Economic Impact",
-      "Geopolitical Stalemate"
+      "Iran War Economic Impact",
+      "Diplomatic Negotiations",
+      "Global Market Volatility"
     ],
     "next_events": [
       {
-        "title": "US Decision on Iran's Strait of Hormuz Deal",
-        "description": "Iran has repeatedly offered to reopen the Strait of Hormuz and end the war in exchange for deferring nuclear talks. Analysts should closely monitor the US administration's official response, particularly following President Trump's reported meetings with his national security team, as this decision will be pivotal for global shipping and the conflict's future."
+        "title": "Future of Iran-US Peace Talks",
+        "description": "The ongoing impasse and Trump's dissatisfaction with Iran's proposals, coupled with Iran's foreign minister meeting with Russia, indicate a critical juncture for diplomatic efforts. Analysts should watch for any new proposals, shifts in negotiating positions, or the complete breakdown of talks, which could escalate tensions."
       },
       {
-        "title": "Global Economic Strain and Energy Market Volatility",
-        "description": "The Iran war has already caused significant global economic disruption, driving up power prices, impacting supply chains (fertilizer, circuit boards), and straining emerging markets. Watch for further inflationary pressures, central bank responses, and the acceleration of the shift towards renewable energy as nations seek to reduce reliance on volatile fossil fuel markets."
+        "title": "Escalating Global Economic Repercussions",
+        "description": "While the U.S. has been largely spared, the war is increasingly impacting major economies like China, leading to factory closures, protests, and declining sales. Monitor global energy prices, supply chain stability, and economic indicators in vulnerable nations, as prolonged conflict could trigger wider recessions and humanitarian crises."
       },
       {
-        "title": "Diplomatic Engagements and Regional Stability",
-        "description": "With Iran's Foreign Minister meeting Putin and US talks at an impasse, observe any breakthroughs or further entrenchment of positions in diplomatic channels. Additionally, monitor regional military activities, such as IDF strikes and Hezbollah ceasefire violations, as these indicate the broader stability of the Middle East amidst the ongoing conflict."
+        "title": "Security of the Strait of Hormuz and Digital Infrastructure",
+        "description": "The Strait of Hormuz remains a critical chokepoint, with Iran's proposals for its reopening tied to nuclear program questions and concerns about subsea cable threats. Watch for any actions or statements regarding the security and accessibility of this vital maritime passage, as disruptions could severely impact global energy and digital communications."
       },
       {
-        "title": "Economic Resilience and Vulnerabilities in Major Global Powers",
-        "description": "While the US has been largely spared, China's manufacturing economy is beginning to show cracks, and Europe is heavily impacted by rising energy prices. Analysts should track economic indicators in these regions to assess the war's sustained impact and potential for recession, particularly how long strategic reserves can insulate economies."
+        "title": "Shifting Geopolitical Alliances and US Engagement",
+        "description": "The conflict is being framed as a 'new Cold War,' with Iran's foreign minister engaging Russia and concerns from allies like Thailand about US support. Observe how the US balances its focus on the Iran conflict with other regional commitments and whether new alliances or diplomatic blocs emerge in response to the prolonged tensions."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran offers U.S. deal to reopen strait but postpone nuclear talks - Axios",
-      "url": "https://www.axios.com/2026/04/27/iran-us-hormuz-strait-nuclear-talks-proposal-pakistan",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Apr 26, 2026 · 21:55 BRT",
-      "pub_date": "2026-04-26",
-      "pub_ts": 1777251340,
+      "title": "Iran Offers a New Proposal to End War - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-offers-a-new-proposal-to-end-war-b88da96c",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Apr 28, 2026 · 00:08 BRT",
+      "pub_date": "2026-04-28",
+      "pub_ts": 1777345680,
       "summary": "",
       "tags": [
         "extracted",
-        "axios.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5395,32 +5418,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran said to offer US deal to reopen Hormuz, end war and put off nuclear talks - The Times of Israel",
-      "url": "https://www.timesofisrael.com/iran-said-to-offer-us-deal-to-reopen-hormuz-end-war-and-put-off-nuclear-talks/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Apr 27, 2026 · 04:07 BRT",
-      "pub_date": "2026-04-27",
-      "pub_ts": 1777273647,
-      "summary": "Trump to meet with national security, foreign policy teams to discuss proposal, report says, as oil prices rise after failed attempt to restart negotiations over the weekend",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran gave US a proposal for reopening the Strait Of Hormuz and ending the war, Axios reports - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-gave-us-proposal-reopening-strait-hormuz-ending-war-axios-reports-2026-04-27/",
+      "title": "Trump unhappy with Iran's latest proposal to end the war - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-not-happy-with-latest-iran-proposal-end-war-us-official-says-2026-04-28/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 26, 2026 · 22:12 BRT",
-      "pub_date": "2026-04-26",
-      "pub_ts": 1777252320,
+      "published": "Apr 27, 2026 · 23:01 BRT",
+      "pub_date": "2026-04-27",
+      "pub_ts": 1777341660,
       "summary": "",
       "tags": [
         "extracted",
@@ -5432,15 +5437,15 @@
       "sentiment_success": false
     },
     {
-      "title": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
+      "title": "Trump Is Dissatisfied With Iran’s Plan to Reopen Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/27/us/trump-iran-proposal.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 26, 2026 · 19:27 BRT",
-      "pub_date": "2026-04-26",
-      "pub_ts": 1777242429,
-      "summary": "Cease-fires in Lebanon and Iran are on shaky ground, with military attacks flaring and direct talks between Washington and Tehran to end their war stalled.",
+      "published": "Apr 27, 2026 · 20:00 BRT",
+      "pub_date": "2026-04-27",
+      "pub_ts": 1777330841,
+      "summary": "The proposal would have set aside questions about what to do with Iran’s nuclear program.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5450,18 +5455,18 @@
       "sentiment_success": false
     },
     {
-      "title": "The U.S. Started the War. The Rest of the World Is Feeling the Effects. - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 27, 2026 · 07:27 BRT",
+      "title": "Oil prices rise 3% as Iran war stand-off persists - Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 27, 2026 · 22:02 BRT",
       "pub_date": "2026-04-27",
-      "pub_ts": 1777285623,
+      "pub_ts": 1777338120,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5469,18 +5474,36 @@
       "sentiment_success": false
     },
     {
-      "title": "Buy airline tickets now, Spain urges as Iran war lifts oil prices - Reuters",
-      "url": "https://www.reuters.com/business/buy-airline-tickets-now-spain-urges-iran-war-lifts-oil-prices-2026-04-27/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 27, 2026 · 05:31 BRT",
+      "title": "China’s Economy Starts to Show Cracks From Iran War - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Apr 27, 2026 · 17:13 BRT",
       "pub_date": "2026-04-27",
-      "pub_ts": 1777278697,
+      "pub_ts": 1777320819,
+      "summary": "China’s strategic reserves of oil and natural gas have insulated it somewhat, but its manufacturing-based economy is beginning to falter.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "BP Profits Double as Iran War Boosts Oil Traders - WSJ",
+      "url": "https://www.wsj.com/business/earnings/bp-gets-earnings-bump-as-oil-traders-capitalize-on-war-induced-volatility-d67f4162",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Apr 28, 2026 · 03:45 BRT",
+      "pub_date": "2026-04-28",
+      "pub_ts": 1777358700,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5495,6 +5518,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Boliden relies on stable electricity prices as Iran war drives up oil - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2dYLWR5cWFnbG9nTnNweGtYMWF6eXh1clpKZEo2cXNHTEhwWGFyNEkzQWxOZ29CWmNXc3czbVFCOW8zYXpQSEloYzB1YjVUQWVvTWc3U2xMRmVmR3hlN1dxT2tkTmpaS3gwTzFGbmo1bHFzajBtX1VFTlNodFBOMGJQYUdNM3M3eTVabzhBdTMzMUctTWZvU19KejdIWVNhM09RSkdEaU9MS0tXWXlQbHREb0xNZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 07:13 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777371223,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Cnooc Posts Stronger Profit as Iran War Boosts Oil Prices - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjZzdGdpRkE5UkJWY2Q1VDllb1V2QXltQjh1Q3c2RjZBQm1YdEVUczYxZlJReTJxRWt3MGZPRVE5elBJblg1akNLc0RpYmVFUlI2ZmdjclR4ZTZPRFZ3eXN6M3k0OTJFQ1pyeVMtMmstNC1QTzVlTEt3OE0ycFZzcUxGRzUzbzN0bHV3UkRTb0l1bkN0eG8zLUI3TWdTTWVOdlpuRzY1UHVVbXp2OUE2cDh2NmVfZw?oc=5",
@@ -5714,6 +5751,20 @@
           "published": "Apr 27, 2026 · 03:05 BRT",
           "pub_date": "2026-04-27",
           "pub_ts": 1777269900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil could trade at nearly $120 if war drags on, Goldman Sachs warns - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUhUZHQzYjdUU3lEYUo1cFBYRDZDeE9VLWR1U3dQalJPUG5GSE10enJZNUF5WGJESTA4OWVHVmlYYUFUM0p4ZWxCOF9NQmI5NEVXMjRqX0JPSmVINEo5TUg0WE5RR3lOakNGMUdQVllVY3dhMnNkX2JISkVSRkNTc3pESmQ?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 27, 2026 · 02:19 BRT",
+          "pub_date": "2026-04-27",
+          "pub_ts": 1777267144,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -6176,6 +6227,20 @@
           "published": "Apr 22, 2026 · 06:25 BRT",
           "pub_date": "2026-04-22",
           "pub_ts": 1776849916,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Senate Republicans Block War Powers Limits as Mideast Crisis Widens - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZThRcUdXSUloSDFXWmdNMkpWOWwtYTNLN21XN282Sy05X0pWc3dnaDNISHdBWVlub3J6QWNrLWhPa2d4TFlRTXZhV1NEek9wTktnbUhnbHBjUzJIM3N2SVZleHNCdmFIQ0toZWhNXzBCU2lFT3lRYUhmUDBZcUJDdQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 22, 2026 · 04:00 BRT",
+          "pub_date": "2026-04-22",
+          "pub_ts": 1776841200,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -9308,7 +9373,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-04-27T11:05:05.062640+00:00",
-  "last_watch_time": "2026-04-27T18:05:46.568945+00:00",
-  "last_relevant_time": "2026-04-27T11:05:53.238877+00:00"
+  "last_digest_time": "2026-04-28T11:05:44.954652+00:00",
+  "last_watch_time": "2026-04-28T11:05:56.004377+00:00",
+  "last_relevant_time": "2026-04-28T11:05:58.105904+00:00"
 }

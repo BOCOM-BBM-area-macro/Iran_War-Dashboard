@@ -5714,6 +5714,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/business/energy/iran-war-supercharge-asias-move-fossil-fuels-electrons-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/business/finance/euro-zone-business-lending-growth-picks-up-despite-iran-war-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
     }
   },
   "last_run_success": true,
@@ -5875,6 +5895,34 @@
           "published": "Apr 29, 2026 · 02:00 BRT",
           "pub_date": "2026-04-29",
           "pub_ts": 1777438856,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war oil price windfall gives Shell a chance to edge ahead of BP - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaC0zRW8zT28tbnBUcnZSdEdXdURsTkpjQ0FjYU5jNkJoY2NjSVhQRkY2V0JBc2FNRW9rOHhEYUI1Qlozclo1Tk5DYlNmMXdneWp5SDhUa2VvNEZveFBhN3drM1hXazNmdjl4aDhldnZ3XzlWRUEyV0E1cDgxUjN2eE9aMm0?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 01:01 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777435301,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gold eases on higher oil prices, markets await Powell's remarks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 22:20 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777425600,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -9017,6 +9065,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "European airlines face biggest crisis since COVID as Iran war drives up fuel costs - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0p3dWdrWEh0R0xfWlN6cWlqcEE0emVCZTBKZE56eDc2R3JtUTQ1Um03UlU3ZzN0dkpZYUtnR01OZFNtVkRjbkpFclJHNXRud2JDZlRIQ1RGd3JUUHhQeUM4dXRCcjBSdUI3ZkRLZHF1RmJTTkZPNmNFenc5MVN3dlBzYXpTa1pzNmZHUFNVOEFvbC1COEpORjdCWjdYRGNRcEp0MmtuWnktYjhoeXhjbFJpONIBuAFBVV95cUxONWRyNGFkYjlLMS1rbWg4T0hTVzg3LWhlcjVpeTFXMFRQSnR5MzlnM3h1ZHI1VVB0eUNBWEFvRl9yTGNYWWFWWVZ2cDNzRlZrYTRobkY4RFRZMU9mdjBpSjJsTDVzVU5rbnNUakYwOTFabmFhcGhTZUZFTTJ6djdNTXVsOER5TzJaanpjQ0l6ZUtRX1JuQURISUtFZzB1LThpWEprdW9CNlFnQWlXU0dDdjYzQVFLbUlV?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 05:31 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777451465,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Breakingviews - Iran crisis makes green jet fuel interesting again - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGxENDZXY2RfaFpUVW12R010Y05JdDluaEdnN1Mwd0Vmc2t4X0ZuQnRwZmp5M0dGUXhFSU5vcEFCY25RdWxNNTNVZ2IzR0YtbDg4NkJUMV9keEZfUk5kOE1MaXpVVXE5b1B5UUJfaVByQ28zY2lhano3YzVaa0xLbEpSdjBaY0VBZGtmRk1fVWJqXzJzamV0bkhYTGRrOWhfdW9TUUpIMjEtQVdZRFdyQQ?oc=5",

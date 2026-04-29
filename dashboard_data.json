@@ -5424,7 +5424,7 @@
       "pub_date": "2026-04-28"
     },
     "https://www.ft.com/content/efa894e5-2431-4238-a920-3075dad1afdb?syn-25a6b1a6=1": {
-      "summary": "",
+      "summary": "Tehran has a strong incentive to keep the conflict going",
       "tags": [
         "extracted",
         "ft.com"
@@ -5690,6 +5690,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.wsj.com/economy/central-banking/spanish-inflation-rises-further-as-iran-war-drives-energy-prices-higher-3701d7e2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-29/von-der-leyen-warns-iran-war-may-damage-europe-for-years": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -5826,19 +5826,32 @@
       "pub_date": "2026-04-29"
     },
     "https://www.bloomberg.com/news/newsletters/2026-04-29/hegseth-testifies-on-iran-war-1-5-trillion-budget-at-congressional-hearing": {
+      "summary": "Hearing will be first public questioning by Congress",
+      "tags": [
+        "War",
+        "Iran",
+        "U.S. Democrats",
+        "Department of Defense",
+        "Washington"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.nytimes.com/2026/04/29/realestate/how-the-war-in-iran-is-hurting-the-us-housing-market.html": {
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-29"
     }
   },
-  "last_run_success": false,
+  "last_run_success": true,
   "last_generated_date": "2026-04-29",
-  "last_generated_time": "2026-04-29T09:02:02.610589+00:00",
+  "last_generated_time": "2026-04-29T10:01:54.283155+00:00",
   "digest": {
     "digest": "The ongoing conflict with Iran is prompting significant economic repercussions globally. Reports indicate President Trump has instructed aides to prepare for an extended naval blockade of the Strait of Hormuz, signaling an intensification of economic pressure. This stance is contributing to rising energy prices, impacting airline travel plans and leading to increased U.S. gasoline prices, reaching their highest levels since the war's inception. Businesses in the EU facing price hikes due to the war may be eligible for subsidies. Global markets are reacting, with gold prices remaining steady as investors await commentary on the war's impact, and investment flows into ETFs increasing. The conflict is also affecting corporate profits, with some companies reporting slides due to increased costs and weakened demand. In parallel, U.S. spy agencies are reportedly examining potential Iranian reactions to a U.S. declaration of victory, suggesting a focus on diplomatic and strategic outcomes alongside military actions. The United Arab Emirates' departure from OPEC highlights regional shifts amidst the broader geopolitical tensions. The war's impact is also being felt in sectors like global food supply chains and influencing shifts towards renewable energy in Asia.",
     "top_themes": [
@@ -5848,20 +5861,20 @@
     ],
     "next_events": [
       {
-        "title": "Future of Iran-US Peace Talks",
-        "description": "The ongoing impasse and Trump's dissatisfaction with Iran's proposals, coupled with Iran's foreign minister meeting with Russia, indicate a critical juncture for diplomatic efforts. Analysts should watch for any new proposals, shifts in negotiating positions, or the complete breakdown of talks, which could escalate tensions."
+        "title": "Intensification of US Economic Pressure on Iran",
+        "description": "President Trump's directives to prepare for an extended naval blockade of the Strait of Hormuz signal a sustained and potentially escalated economic pressure campaign. Analysts should monitor the duration and enforcement of the blockade, as well as Iran's response, which could lead to further regional instability or negotiations."
       },
       {
-        "title": "Escalating Global Economic Repercussions",
-        "description": "While the U.S. has been largely spared, the war is increasingly impacting major economies like China, leading to factory closures, protests, and declining sales. Monitor global energy prices, supply chain stability, and economic indicators in vulnerable nations, as prolonged conflict could trigger wider recessions and humanitarian crises."
+        "title": "Global Economic Fallout from Surging Energy Prices",
+        "description": "The ongoing Iran War is driving significant increases in energy prices, impacting everything from jet fuel costs for airlines to Spanish inflation and the U.S. housing market. Watch for continued inflationary pressures, government subsidy programs (like those in the EU), and potential shifts in consumer spending and economic growth worldwide."
       },
       {
-        "title": "Security of the Strait of Hormuz and Digital Infrastructure",
-        "description": "The Strait of Hormuz remains a critical chokepoint, with Iran's proposals for its reopening tied to nuclear program questions and concerns about subsea cable threats. Watch for any actions or statements regarding the security and accessibility of this vital maritime passage, as disruptions could severely impact global energy and digital communications."
+        "title": "Shifting Regional Dynamics and Alliances in the Middle East",
+        "description": "The United Arab Emirates' decision to leave OPEC and chart an independent course, at odds with Saudi Arabia, indicates a significant realignment of regional interests amidst the Iran War. Analysts should observe how these changing alliances impact regional stability, oil production policies, and potential diplomatic or military cooperation."
       },
       {
-        "title": "Shifting Geopolitical Alliances and US Engagement",
-        "description": "The conflict is being framed as a 'new Cold War,' with Iran's foreign minister engaging Russia and concerns from allies like Thailand about US support. Observe how the US balances its focus on the Iran conflict with other regional commitments and whether new alliances or diplomatic blocs emerge in response to the prolonged tensions."
+        "title": "US Political and Budgetary Responses to the Iran War",
+        "description": "Ongoing discussions between the Trump administration and oil executives, alongside congressional hearings on the war's budget, highlight the domestic political and financial implications. Watch for potential new policies regarding energy supply, defense spending adjustments, and the broader political discourse surrounding the conflict's continuation."
       }
     ]
   },
@@ -5983,7 +5996,7 @@
     }
   ],
   "last_digest_success": true,
-  "last_watch_success": false,
+  "last_watch_success": true,
   "last_relevant_success": true,
   "themed_news_cache": [
     {
@@ -10251,6 +10264,6 @@
     }
   ],
   "last_digest_time": "2026-04-29T11:05:36.930094+00:00",
-  "last_watch_time": "2026-04-28T11:05:56.004377+00:00",
+  "last_watch_time": "2026-04-29T13:04:27.436768+00:00",
   "last_relevant_time": "2026-04-29T11:06:06.137616+00:00"
 }

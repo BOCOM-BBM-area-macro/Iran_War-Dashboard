@@ -5764,17 +5764,57 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.axios.com/2026/04/29/trump-oil-execs-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/sustainability/boards-policy-regulation/businesses-hit-by-iran-war-price-hikes-can-get-subsidies-fuel-fertiliser-eu-says-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/world/africa/namibia-central-bank-holds-key-rate-iran-war-impact-yet-show-up-inflation-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/world/asia-pacific/baosteel-first-quarter-net-profits-slides-86-iran-war-lifts-costs-demand-weakens-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
     }
   },
-  "last_run_success": true,
-  "last_generated_date": "2026-04-28",
-  "last_generated_time": "2026-04-28T23:01:54.040872+00:00",
+  "last_run_success": false,
+  "last_generated_date": "2026-04-29",
+  "last_generated_time": "2026-04-29T08:02:03.592372+00:00",
   "digest": {
-    "digest": "The Iran war continues to exert significant pressure on the global economy, with notable impacts on commodity prices and international trade. Oil prices have seen a 3% increase due to the ongoing stand-off, while gold prices have retreated as traders assess diplomatic efforts. The conflict's fallout is increasingly evident in China's manufacturing sector, with car sales plummeting and toy factories shutting down amidst surging plastic and energy prices, leading to worker protests. Europe's power prices are rising, driving interest in renewable energy sources. The United States has largely been spared from the economic tumult, according to reports. Diplomatic efforts to end the war are ongoing, with Iran presenting new proposals. However, President Trump has expressed dissatisfaction with Iran's latest offer, particularly concerning its approach to reopening the Strait of Hormuz and setting aside nuclear program discussions. Talks with the US remain at an impasse, with Iran's Foreign Minister meeting with Russian President Putin. The war's impact extends to humanitarian concerns, with malnourished children in Somalia being severely affected. The conflict is also raising concerns about the security of subsea cables in the Strait of Hormuz.",
+    "digest": "The ongoing conflict with Iran is prompting significant economic repercussions globally. Reports indicate President Trump has instructed aides to prepare for an extended naval blockade of the Strait of Hormuz, signaling an intensification of economic pressure. This stance is contributing to rising energy prices, impacting airline travel plans and leading to increased U.S. gasoline prices, reaching their highest levels since the war's inception. Businesses in the EU facing price hikes due to the war may be eligible for subsidies. Global markets are reacting, with gold prices remaining steady as investors await commentary on the war's impact, and investment flows into ETFs increasing. The conflict is also affecting corporate profits, with some companies reporting slides due to increased costs and weakened demand. In parallel, U.S. spy agencies are reportedly examining potential Iranian reactions to a U.S. declaration of victory, suggesting a focus on diplomatic and strategic outcomes alongside military actions. The United Arab Emirates' departure from OPEC highlights regional shifts amidst the broader geopolitical tensions. The war's impact is also being felt in sectors like global food supply chains and influencing shifts towards renewable energy in Asia.",
     "top_themes": [
-      "Iran War Economic Impact",
-      "Diplomatic Negotiations",
-      "Global Market Volatility"
+      "Economic Impact of Iran War",
+      "US Policy Towards Iran",
+      "Global Market Reactions"
     ],
     "next_events": [
       {
@@ -5797,14 +5837,14 @@
   },
   "relevant_news": [
     {
-      "title": "Iran Offers a New Proposal to End War - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-offers-a-new-proposal-to-end-war-b88da96c",
+      "title": "Trump Tells Aides to Prepare for Extended Blockade of Iran - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/trump-tells-aides-to-prepare-for-extended-blockade-of-iran-da3be7a4",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Apr 28, 2026 · 00:08 BRT",
+      "published": "Apr 28, 2026 · 22:00 BRT",
       "pub_date": "2026-04-28",
-      "pub_ts": 1777345680,
+      "pub_ts": 1777424400,
       "summary": "",
       "tags": [
         "extracted",
@@ -5816,34 +5856,36 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump unhappy with Iran's latest proposal to end the war - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-not-happy-with-latest-iran-proposal-end-war-us-official-says-2026-04-28/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 27, 2026 · 23:01 BRT",
-      "pub_date": "2026-04-27",
-      "pub_ts": 1777341660,
-      "summary": "",
+      "title": "Trump Tells Aides to Prep for Lengthy Hormuz Blockade, Report Says - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/trump-says-iran-wants-hormuz-open-amid-efforts-to-end-war",
+      "source": "Bloomberg",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Apr 28, 2026 · 22:55 BRT",
+      "pub_date": "2026-04-28",
+      "pub_ts": 1777427700,
+      "summary": "President Donald Trump told his aides to prepare for an extended US Naval blockade of the Strait of Hormuz, the Wall Street Journal reported, as the US looks to intensify economic pressure on Iran as the war enters its third month.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "Iran",
+        "Donald John Trump",
+        "War",
+        "Generic 1st 'CL' Future",
+        "Wall Street"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Trump Is Dissatisfied With Iran’s Plan to Reopen Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/27/us/trump-iran-proposal.html",
+      "title": "U.S. Gas Prices Hit Highest Level Since Beginning of War in Iran - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 27, 2026 · 20:00 BRT",
-      "pub_date": "2026-04-27",
-      "pub_ts": 1777330841,
-      "summary": "The proposal would have set aside questions about what to do with Iran’s nuclear program.",
+      "published": "Apr 28, 2026 · 17:13 BRT",
+      "pub_date": "2026-04-28",
+      "pub_ts": 1777407228,
+      "summary": "The jump on Tuesday of 1.6 percent was the highest percentage increase in more than a month.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5853,55 +5895,56 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil prices rise 3% as Iran war stand-off persists - Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 27, 2026 · 22:02 BRT",
-      "pub_date": "2026-04-27",
-      "pub_ts": 1777338120,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "China’s Economy Starts to Show Cracks From Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 27, 2026 · 17:13 BRT",
-      "pub_date": "2026-04-27",
-      "pub_ts": 1777320819,
-      "summary": "China’s strategic reserves of oil and natural gas have insulated it somewhat, but its manufacturing-based economy is beginning to falter.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "BP Profits Double as Iran War Boosts Oil Traders - WSJ",
-      "url": "https://www.wsj.com/business/earnings/bp-gets-earnings-bump-as-oil-traders-capitalize-on-war-induced-volatility-d67f4162",
+      "title": "U.S.-Iran War’s Next Casualty: Global Food - WSJ",
+      "url": "https://www.wsj.com/world/asia/u-s-iran-wars-next-casualty-global-food-7bb7f8bf",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Apr 28, 2026 · 03:45 BRT",
+      "published": "Apr 28, 2026 · 12:36 BRT",
       "pub_date": "2026-04-28",
-      "pub_ts": 1777358700,
+      "pub_ts": 1777390560,
       "summary": "",
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US pump prices near 4-year high on Iran war disruption, refinery outages - Reuters",
+      "url": "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 28, 2026 · 14:58 BRT",
+      "pub_date": "2026-04-28",
+      "pub_ts": 1777399102,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran war to supercharge Asia's move from fossil fuels to electrons - Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-war-supercharge-asias-move-fossil-fuels-electrons-2026-04-29/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 29, 2026 · 05:24 BRT",
+      "pub_date": "2026-04-29",
+      "pub_ts": 1777451067,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5910,7 +5953,7 @@
     }
   ],
   "last_digest_success": true,
-  "last_watch_success": true,
+  "last_watch_success": false,
   "last_relevant_success": true,
   "themed_news_cache": [
     {
@@ -8349,6 +8392,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "US Has More Natural Gas Than It Can Use as War Chokes Global Supply - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnVoamJuVU4yVkxVVktCa1ZOTV9nMUxDUjhGN0dzSHp2UzZPZXJIZnVYdGVlRHJYcmI4ZnBSTUYzci1kSEZ4WWJNdGZxOEtvN1NEcmZ4SkxtZk8wcjBCV3NXVmt3NjhScTl1S1BGTHlPMmlNcC1tYmEyQ1RPY09GT1BvaVA0SGlOY3JSYXdZbU43dHl6OFJleG5EakQ1Uzh2NWthWVRHYmhlTXVCZkl4V0l6cHA3aVZ3OUhzcXVTTnVFMXhLSlV3?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 07:00 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777456820,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "First Fully Loaded L.N.G. Tanker Since War Began Appears to Have Crossed the Strait - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFEza2ctMk9ielE1em9CY09KcF9QUW44bDBPN25ka3dzamxmbkEzbVdBR2Fjel81WG15dm53Wl91VzVZVnlfUkMxV3FPaFZmRlNabVd4LS1vVXJRdGZhcUc4ckxRQ0dxa1V1NnFRdjFlcm1qcVl0YV9qRnJIM3NrOVlTY2hjVXpiRmJUTGJpOXNvQQ?oc=5",
           "source": "The New York Times",
@@ -10021,6 +10078,20 @@
       "theme": "Aluminum",
       "articles": [
         {
+          "title": "Base Metals Slide as Iran Uncertainty Keeps Pressure on Prices - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1RrbDRBMnRRdHZ6b3dTRmlBZlBBY3I3YlRnck12MkhkM3BVVTZ0SkhrTm15MTBlRFV4XzVmQ25wekVCcUllSmdKekUtZVBNWGhoRDZ6UHNjMjVkNExkbG04dWgtUVI3MExkVV9PbHpVZmJtQkdZMFBjb2VxcUU2cEVuSU1TeTZGN2Y5S1RhSThMYXhKeVpVZnBlSW1EOUpFbVFjNXFzdXFIbFpNOWNuWnNmRQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 24, 2026 · 01:20 BRT",
+          "pub_date": "2026-04-24",
+          "pub_ts": 1777004400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Gulf aluminium disruption ripples up to alumina market - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlk2UTlyN0h2SmNycEFVOTZVcVhaYVp0ZjNHNE9UdEFWcmdRM2pjSGtLc0VTMHdsdTlseDVPcF81Z0hnc2pfeTVoUnN1b2tvT2xRdmU1R2hXSjVDRENaWkphRjNZcnVfQUQ2ZXdjanN3V2hid09OVEhld2cwVUFvYWhWM3VTdklaSkFIVTZrNk9DRkxvd1JhQ29OZmlJUkgwNC1Mb0luM2ljMTQ?oc=5",
           "source": "Reuters",
@@ -10149,7 +10220,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-04-28T11:05:44.954652+00:00",
+  "last_digest_time": "2026-04-29T11:05:36.930094+00:00",
   "last_watch_time": "2026-04-28T11:05:56.004377+00:00",
-  "last_relevant_time": "2026-04-28T11:05:58.105904+00:00"
+  "last_relevant_time": "2026-04-29T11:06:06.137616+00:00"
 }

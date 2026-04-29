@@ -5202,7 +5202,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-28"
+      "pub_date": "2026-04-27"
     },
     "https://www.wsj.com/world/middle-east/iran-offers-a-new-proposal-to-end-war-b88da96c": {
       "summary": "",
@@ -5620,14 +5620,40 @@
       "pub_date": "2026-04-28"
     },
     "https://www.bloomberg.com/news/articles/2026-04-28/trump-says-iran-wants-hormuz-open-amid-efforts-to-end-war": {
-      "summary": "",
+      "summary": "President Donald Trump told his aides to prepare for an extended US Naval blockade of the Strait of Hormuz, the Wall Street Journal reported, as the US looks to intensify economic pressure on Iran as the war enters its third month.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Donald John Trump",
+        "War",
+        "Generic 1st 'CL' Future",
+        "Wall Street"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-28"
+    },
+    "https://www.reuters.com/world/india/gold-steady-markets-await-powells-comments-iran-war-impact-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-28/gold-steady-after-two-day-drop-as-iran-war-fans-inflation-fears": {
+      "summary": "Gold steadied after a two-day drop as investor focus remained on talks between the US and Iran, with the indefinite closure of the Strait of Hormuz continuing to heighten inflation risks.",
+      "tags": [
+        "Generic 1st 'GC' Future",
+        "Iran",
+        "inflation",
+        "War",
+        "Donald John Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
     }
   },
   "last_run_success": true,

@@ -5734,6 +5734,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/business/iran-war-jet-fuel-concerns-cloud-airlines-summer-holiday-plans-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/business/media-telecom/taiwan-chipmaker-umc-sees-headwinds-iran-war-predicts-resilient-demand-2026-04-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.cbc.ca/news/world/us-intelligence-agencies-trump-iran-war-9.7180533": {
+      "summary": "The agencies are studying how Iran would likely respond if U.S. President Donald Trump were to declare a unilateral victory in the two-month-old war that has killed thousands and become a political liability for the White House, two U.S. officials and a person familiar with the matter ‌said.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-28"
     }
   },
   "last_run_success": true,
@@ -5886,6 +5916,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Scoop: Trump huddles with oil execs as Iran stalemate drags on - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBicFdaMnpOZEpaZy1jNVFDdGxfLTQxZnZyRWtOM2FvZlZoR08xNXc2SWVUMHcxRWVyaEtNYXV4OHBaOXIwYi10eEZrZTMwV0lLZVhzYWswXzFqY2lwQ1hMMjd4emtpWFVv?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 06:24 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777454676,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil slips as market digests UAE exit from OPEC, supply concerns linger - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
@@ -9074,6 +9118,20 @@
           "published": "Apr 29, 2026 · 05:31 BRT",
           "pub_date": "2026-04-29",
           "pub_ts": 1777451465,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war, jet fuel concerns cloud airlines' summer holiday plans - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnB3QkVYUThKTkY3a0YyNVRyWlRsUnY4bFUtMmZCSHpvLUdMQ1RZVFVCc2gtY20yX1U1WG8tZ2dvRldQRFRRMUdXdDBYQTVXZ000REw1cDRsYTJzeDZILXpCMGx4c2U1bVNkUVJ1WnRKYU11aU5pc0thRjhyU3NiREM4eVFmUllPQUxyU3MwY2tEOHZCQ2xOUVpTQzhiY0x5R1VMUWZRNVZRSm8?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 04:14 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777446860,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

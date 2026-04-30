@@ -6121,7 +6121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-30"
+      "pub_date": "2026-04-29"
     },
     "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/": {
       "summary": "",
@@ -6324,7 +6324,7 @@
       "pub_date": "2026-04-30"
     },
     "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html": {
-      "summary": "",
+      "summary": "The longer the disruption to Middle East fuel supplies lasts, the risk grows that higher energy costs will feed into broader inflation that could dent economic growth.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6532,11 +6532,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.washingtonpost.com/opinions/2026/04/30/trump-decisive-iran-war-victory-is-14-days-away/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/business/energy/trump-says-gas-prices-will-drop-soon-iran-war-is-over-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-30",
-  "last_generated_time": "2026-04-30T16:02:05.827736+00:00",
+  "last_generated_time": "2026-04-30T17:02:02.687660+00:00",
   "digest": {
     "digest": "The Iran war has entered its third month, with significant economic repercussions. Oil prices have rallied to their highest levels since the conflict began, exceeding $120 a barrel, directly contributing to rising U.S. gas prices and disrupting global fuel supplies, particularly impacting Africa's economy. China's factory activity, however, has shown expansion despite these pressures. The U.S. military is facing scrutiny regarding its readiness, with discussions around new military options against Iran being briefed to President Trump. The Pentagon has officially stated the war's cost at $25 billion, a figure that has led to sharp exchanges between Defense Secretary Hegseth and lawmakers. Diplomatic efforts appear stalled, as President Trump has rejected Iran's offer, maintaining that the blockade will persist until a nuclear deal is reached. The conflict is also noted for its global impact, suggesting a prolonged engagement with no easy exit strategy. Emerging market stocks and foreign exchange have experienced declines due to renewed war risks, though they are positioned for monthly gains.",
     "top_themes": [
@@ -6684,6 +6704,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump says gas prices will drop as soon as Iran war is over - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmI1bHdMcENVRGtnQmpHUGpIZkF1bjhmN3FLSWEyWW9OR01sV1haN0hOMEhoX294cHhUQ2RTSFN2ODRTZzJRSnNsTDZ4RVVycWtyTWV2anNaTUhnVWxzYUVYRzY0TUUyc3lubVZpazdDdFNNdFBHX3VOUWJtZmh5ZDZaQVo5VXFMME5iU0M5ckZhMUlHa2hHMnQ3dnA1TDU5eDFGLTBWcjk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 16:43 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777578226,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices hit new wartime high before easing, as few signs of breaking stalemate with Iran - CBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GYnRRN016OTd1VFJVbkY4MjNzNWc1OC1ndjRncm4xN1NUNWNDZlhiY05USV9QMkVmMFAxV2FBUWNzZVdHdEt4cGtBRXVITl9zcnZWbHJsMlNrTFA1cVIzcWtfOEFUczBBWm1jV3JKX1RXUE9o?oc=5",

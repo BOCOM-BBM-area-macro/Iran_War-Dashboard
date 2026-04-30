@@ -6141,7 +6141,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-30"
+      "pub_date": "2026-04-29"
     },
     "https://www.reuters.com/business/energy/global-markets-stagflation-graphic-2026-04-30/": {
       "summary": "",
@@ -6188,6 +6188,46 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/graphics/IRAN-CRISIS/OIL-CONSUMERS/akpeyynmypr/": {
+      "summary": "The US-Israeli war on Iran is already having an impact on everyday things because of the over-reliance of oil and gas derivatives in manufacturing and packaging.",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/business/finance/credit-agricoles-q1-profit-undershoots-iran-war-uncertainty-lifts-provisions-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/markets/commodities/trader-or-driller-iran-war-exposes-big-oils-transatlantic-divide-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/markets/us/iran-war-stasis-brings-us-inflation-expectations-back-boil-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8495,6 +8535,34 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Iran War Splits Asia’s Diesel Market Into Haves and Have-Nots - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0VsRnpJQTBQUGZZMjFHbXlmdDJuRWdrSDVZb3pNal9MTGJlVzNGejhpS29QWjU0ck5RNjBKb09DR1REYzAwcVNnU1ZBMkZoVVZuV0pVM0NUcUhscy1mUkltcHg0U0hRMHVvNHM0Z0dqUURMMTZMZU10aEFzUGxmT2hhUjljWHhWS24tcWFiVkRHR2lVZXRKWTdZWlE0MGl0Q19UWk05Nzh5ZDBTV2lwczdR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 03:50 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777531800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Hastens Rush of Clean Fuel Tankers Turning to Crude Oil - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFCZl9OSmdUUk95a3A3d0IxUHN4VjE0UDZlYWt4Um5ERnFUTGg1cG1RMGk0MTRKT0Y0WXJPUktORndkMVdaM3o1aW9LRGhaYldGZ0hLODZQSmprNWdSTkY2NE02Y2VLM3h5b3QtdFRaZXZKdGgyVl9YaFNYeVJYWUhSN1B5N19LWk0xX01hQXpCVVNJVHBweWJ4RjdlbGhyVHZvbVVKajE3czRndjByM3pSR2xUdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 03:41 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777531260,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "What the Fed has seen about the war's impact on the economy so far - Reuters",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjZTZVB1b3VwVm90M1NqS0JYM2tyOVlQeExVMnFKQVlhQXZzZXZlQUI4dTNZSVBTUU1sTEttdm9wSGU2UXpwajJWTE9RbFlxMVZCbzJrcTZiREducWgwOHJvNUJjMjNVamVneHlEaTRHVUc5aWRiLWFMWmJkMlBtY1Y5UEFkbll0RFVtcll1dUtVRmhZT0xwYzlOTQ?oc=5",
           "source": "Reuters",
@@ -10544,6 +10612,34 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Trader or driller? Iran war exposes Big Oil's transatlantic divide - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUxSUlpzR05WdWNTTnBJaElDd21LZ1dtdDZzQ2lNVTJSM0ZyNTkwMkZ5djRHUnNRNkpaYkVWb0hIalJIQ1hUbEIzanJrNm1xcEUwOEZGV0tneXkzOFZ2VThJcjdFQnpINWl2Z1hpQTJMcjBjOGxrRlFMWUZsOGJ0S2hVdzBZVGdSamNIbERDaDFIVmR0bjVxMV85Q2g0VUd2bTRZUkJlZ0gxVjNIcUNpdHZJMjB6Nm5OWHFLRw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 03:11 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777529460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Why the Iran war is making everyday shopping more expensive - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wNzhiRTY3ZzFtbS1xQ0pfYUdoeVVELXc0bU1NXzI5OWFzR0dvZlE2cVVaa21acGJmQndYRVJ5VDNDNTJoZTV6Z1JFcWlmaEFsU1ZkaEFyWUZBS0h3QjNzSVZDcjhyNEtSMXRUb1oyMm9uaHkwRmw3dnNJMA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 03:00 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777528800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Markets Downplay War’s Impact on Petrochemicals, Pipeline CEO Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDVQSExPMFA5SkVfc1dCOE5WWV93YkFaWVdPUTNjcnN6LW9IVjZIRkFrUkZUUEFZWmhwTEp1OURJWGl2NU9SUnoxOXAxdkVxNGFzZjB4RURMd3NhWmNmWmFRQVA3SWt1SUZyZ1J4ZWkyLTYxVmFFa1lLb0I0NG84YmlUbldWSHBNMU95RUE0U1VLc2U1dzh0MVNxMXlpN0hQRF84cXJOZUlqWENUYVczZ1hnNmtqY1k?oc=5",

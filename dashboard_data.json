@@ -6121,7 +6121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-30"
+      "pub_date": "2026-04-29"
     },
     "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/": {
       "summary": "",
@@ -6274,7 +6274,7 @@
       "pub_date": "2026-04-30"
     },
     "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html": {
-      "summary": "",
+      "summary": "Somehow, the weaker nation is in the stronger negotiating position.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6402,11 +6402,61 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.wsj.com/economy/central-banking/iran-war-lifts-feds-targeted-inflation-metric-24fc61d6": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.cbc.ca/news/world/iran-khamenei-message-hormuz-9.7182478": {
+      "summary": "Iran's new Supreme Leader ‌Mojtaba Khamenei said in a published written message on ​Thursday that a new ​chapter for the Gulf and Strait ​of Hormuz has been taking shape ‌since the Iran war with the United States and Israel broke out on February 28.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/business/energy/oil-retreats-after-hitting-four-year-high-concern-us-iran-war-escalation-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/world/middle-east/iranian-economic-collapse-may-come-too-late-trump-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.wsj.com/business/energy-oil/iran-war-boosts-a-fast-growing-chinese-industry-turning-coal-into-stuff-e817fd7b": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-30",
-  "last_generated_time": "2026-04-30T10:01:54.298735+00:00",
+  "last_generated_time": "2026-04-30T11:01:53.767025+00:00",
   "digest": {
     "digest": "The Iran war has entered its third month, with significant economic repercussions. Oil prices have rallied to their highest levels since the conflict began, exceeding $120 a barrel, directly contributing to rising U.S. gas prices and disrupting global fuel supplies, particularly impacting Africa's economy. China's factory activity, however, has shown expansion despite these pressures. The U.S. military is facing scrutiny regarding its readiness, with discussions around new military options against Iran being briefed to President Trump. The Pentagon has officially stated the war's cost at $25 billion, a figure that has led to sharp exchanges between Defense Secretary Hegseth and lawmakers. Diplomatic efforts appear stalled, as President Trump has rejected Iran's offer, maintaining that the blockade will persist until a nuclear deal is reached. The conflict is also noted for its global impact, suggesting a prolonged engagement with no easy exit strategy. Emerging market stocks and foreign exchange have experienced declines due to renewed war risks, though they are positioned for monthly gains.",
     "top_themes": [
@@ -6555,6 +6605,34 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Trump, Iran are locked in high-stakes standoff as oil prices hit 4-year high - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzc3dUVfZ1VweGMxZ2pBWFFWdUtLR3RlM2YzUm96VVRSUWU2TjRpb0l4SWlTMmVlTGs2ZzFmU2VQZ0tmMklNX0RzakFwSE1Dc0tMUkxJcFpGTldldVd6enZvMUNMYUNTYUxURXp6a0trcF91clFiQ0tpXzRpV09LYmVwOVRBNmVDellnNmxR?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 10:32 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777555965,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE4xSU9Nd09RUzAxanktcnJlQnJoUElDdGtZOXZUcHVSdDVNaU9iZFpHeU10aFp6NXM1SVVnNHVvQXRRWnlyUG95bzl0eWphR2xQd3ZoTXFpZzhrV2plNWlkdFV3S2JvVEdMVzhEYzlfQW9WeFRuTkJOMFlFQ3VxVWtwNkNROF90RjRROVRFcUhHV2tYU21DcTQ0emUtMDl4SGk1VHlSU19yN0tldElSMUpiT05EamV2ZFBWYXNySVlXQQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 10:10 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777554640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil prices hit highest level since Iran war's start - Axios",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZGxTb3Y4YUo3Z3JlOC1HSm9SWW9LcU9JclRmTHVsQ1BRNHpJNWI5TjJtUl9rbHRMZnd6eV9fVnFHVUoyQ1Z0Vmx2MU1iQzEyb1ZheDFNTTZFUllncTJkcjhVZERsUVIzOWxLWllNUmg?oc=5",
           "source": "Axios",
@@ -6619,6 +6697,20 @@
           "published": "Apr 30, 2026 · 01:05 BRT",
           "pub_date": "2026-04-30",
           "pub_ts": 1777521900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Hits Wartime High Above $120 a Barrel as Standoff Shows No End in Sight - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SjhHZ3VuQVBtWEwwVDRlVzNHZ29ZN3hjMW5RZDVJQzVxc3hQWXU5eVZfdVZLWVB5RnRSS1ZMTk93alhRR3FlYTl3cjJyZlZDRWRWaTJ1Vlg1UFBaM2dRalZvcU1ZWVhERkdZZGtnUWs2bVNKZUE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 01:03 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777521838,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

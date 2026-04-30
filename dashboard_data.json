@@ -6232,6 +6232,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.wsj.com/business/energy-oil/oil-rallies-to-highest-level-since-start-of-iran-war-78f96324": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.reuters.com/world/asia-pacific/surplus-strain-world-rice-supply-threatened-by-iran-war-el-nino-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,
@@ -6387,6 +6407,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Rallies to Highest Level Since Start of Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2tUdEItSWJiaklyQTREdnRhMFJqZlo0MTdHTldrZDFoQ2VQTFNYaGZJdzRZVEExRUhHbS1HOEthaW9XVUJPVnpwS1Y4aDNfRGFjcGp4OG5kUGwtbEptSVJkbWpzTkdGQlY1djNpaHljb2ROaGtVNk5NYjRzUGo0QW5MWDVHak1kREhMM1VsQ2F1emVHUnVTVXF3NUQySlhQWW44?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 04:30 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777534200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Stagflation risks stacking up as Iran war enters third month - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1lOYzI4T3NwMDdseXRuclFtYzBJQTJpTzdVUV9ZV09qVEZGZVhLaVVzV0ZYREZma2NNNV83bUIzYXI1d29SWUQyYUhZLTNpaTNCdWZaRjdVaW1YT3BuYXFnb1dnMlY0VWZiWFJXVmV6bmNBVHJHbkV0ZlNDZ1lidWFSUklTdnVMZFlrUUVpOA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 01:05 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777521900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices extend gains as US-Iran war deadlock keeps supply off market - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenNidWVwSUNlZUxVRDFaR3N2NVdjRXdmTmJNZGk2T2prVmh6bTJndHR1bm1PUmhmbjN2dkpMYTN5NG5IZlFNUExLclNlcWJMVzFrd1VjTXoxRlFEWmtPbDlGZ055WlJVbEhESGRob0hPVFVKemt2aDNhaGpDR1RzZmRORVM3M0RmbjhuY0ctSGlYaEJXYkVtbmZtZnZZNnZHX3FVcXNIQm4wOXJ1Mk83dXFILXdmQi0xcFYzMw?oc=5",
@@ -9804,6 +9852,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Repsol profit surges 57% on refining margin amid Iran war, but still below forecast - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFBDNjk2VUlWbmJlWFFPRWZ2NkZKQk5nWmVFOUxxZ2FzWUJqSmRtMXRpYmJGSm5kdHdJRV9ZTnk3TjZNSDVURVlKeDBDSS1nczZPV3lpU3lybUpGWjMwLUZ2WHVKWVJNWm5wSkNyWE92YWlkVUk3RXhjY29YRzhXdVZCLVhReElkdDgzdFpBcEJJM3BYb1FVcmlScEY?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 03:04 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777529040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "European airlines face biggest crisis since COVID as Iran war drives up fuel costs - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0p3dWdrWEh0R0xfWlN6cWlqcEE0emVCZTBKZE56eDc2R3JtUTQ1Um03UlU3ZzN0dkpZYUtnR01OZFNtVkRjbkpFclJHNXRud2JDZlRIQ1RGd3JUUHhQeUM4dXRCcjBSdUI3ZkRLZHF1RmJTTkZPNmNFenc5MVN3dlBzYXpTa1pzNmZHUFNVOEFvbC1COEpORjdCWjdYRGNRcEp0MmtuWnktYjhoeXhjbFJpONIBuAFBVV95cUxONWRyNGFkYjlLMS1rbWg4T0hTVzg3LWhlcjVpeTFXMFRQSnR5MzlnM3h1ZHI1VVB0eUNBWEFvRl9yTGNYWWFWWVZ2cDNzRlZrYTRobkY4RFRZMU9mdjBpSjJsTDVzVU5rbnNUakYwOTFabmFhcGhTZUZFTTJ6djdNTXVsOER5TzJaanpjQ0l6ZUtRX1JuQURISUtFZzB1LThpWEprdW9CNlFnQWlXU0dDdjYzQVFLbUlV?oc=5",

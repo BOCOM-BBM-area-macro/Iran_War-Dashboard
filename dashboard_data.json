@@ -5663,7 +5663,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-29"
+      "pub_date": "2026-04-28"
     },
     "https://www.reuters.com/business/finance/amundi-reports-big-inflows-investors-flock-etfs-amid-iran-war-2026-04-29/": {
       "summary": "",
@@ -6182,6 +6182,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-30/basf-maintains-outlook-but-warns-iran-war-is-stoking-uncertainty": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,
@@ -6346,6 +6356,20 @@
           "published": "Apr 29, 2026 · 22:07 BRT",
           "pub_date": "2026-04-29",
           "pub_ts": 1777511220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Pentagon Puts Iran War Cost at $25 Billion as Hegseth Berates Skeptics - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IVERBN1VvTnJJQmVNQTdrQmpCYURUdFZnMV9ublJta3VOaTRSdWdWZHpjN19Wd1pDOE9Dc0ZhbkRwOHE4VTJxWGFVYlJhRUdaOWdVWWxVem9pVFp0STloQUhCSkQyZENHcnVHYWNIRGpBWnVDRGNYUWpkeWI4QQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 14:36 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777484219,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -6121,7 +6121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-30"
+      "pub_date": "2026-04-29"
     },
     "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/": {
       "summary": "",
@@ -6562,11 +6562,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.timesofisrael.com/deadline-approaches-for-trump-to-secure-congressional-approval-for-iran-war/": {
+      "summary": "US president required under law to seek lawmakers' okay for military action lasting over 60 days, which ends May 1, but White House could argue current truce reset the clock",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-30",
-  "last_generated_time": "2026-04-30T19:01:48.247627+00:00",
+  "last_generated_time": "2026-04-30T20:02:02.666734+00:00",
   "digest": {
     "digest": "The Iran war has entered its third month, with significant economic repercussions. Oil prices have rallied to their highest levels since the conflict began, exceeding $120 a barrel, directly contributing to rising U.S. gas prices and disrupting global fuel supplies, particularly impacting Africa's economy. China's factory activity, however, has shown expansion despite these pressures. The U.S. military is facing scrutiny regarding its readiness, with discussions around new military options against Iran being briefed to President Trump. The Pentagon has officially stated the war's cost at $25 billion, a figure that has led to sharp exchanges between Defense Secretary Hegseth and lawmakers. Diplomatic efforts appear stalled, as President Trump has rejected Iran's offer, maintaining that the blockade will persist until a nuclear deal is reached. The conflict is also noted for its global impact, suggesting a prolonged engagement with no easy exit strategy. Emerging market stocks and foreign exchange have experienced declines due to renewed war risks, though they are positioned for monthly gains.",
     "top_themes": [
@@ -7213,6 +7223,20 @@
           "published": "Apr 28, 2026 · 07:13 BRT",
           "pub_date": "2026-04-28",
           "pub_ts": 1777371223,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war begins to hit China’s economy as costs surge - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwVkhzUUFtUkVQb1AzN0hvenVWamlPQkZLMEFRM1VvZ2hRSWFqQTJUZ3Q5Q3ZBeV9WV2hKX3lXa21fOTF4Q0s3SkxuYnNDdU4yQ3FBeWdWWHY3QzVjYUEw?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 06:00 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777366823,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

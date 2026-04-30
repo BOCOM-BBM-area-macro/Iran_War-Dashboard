@@ -6059,7 +6059,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-29"
+      "pub_date": "2026-04-30"
     },
     "https://www.ft.com/content/1414942a-b314-443e-8bbc-8c13fa011d8e?syn-25a6b1a6=1": {
       "summary": "Use of costly missiles and air defence interceptors raises alarm about US readiness for other conflicts",
@@ -6342,11 +6342,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.nytimes.com/interactive/2026/04/29/upshot/iran-war-cost-comparison.html": {
+      "summary": "It exceeds the annual budgets of numerous federal agencies, and the Pentagon’s yearly budget for munitions.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-29"
+    },
+    "https://www.reuters.com/business/energy/prospect-prolonged-iran-war-disruption-drives-oil-forecasts-higher-2026-04-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-04-30",
-  "last_generated_time": "2026-04-30T08:02:02.753551+00:00",
+  "last_generated_time": "2026-04-30T09:02:11.033554+00:00",
   "digest": {
     "digest": "The Iran war has entered its third month, with significant economic repercussions. Oil prices have rallied to their highest levels since the conflict began, exceeding $120 a barrel, directly contributing to rising U.S. gas prices and disrupting global fuel supplies, particularly impacting Africa's economy. China's factory activity, however, has shown expansion despite these pressures. The U.S. military is facing scrutiny regarding its readiness, with discussions around new military options against Iran being briefed to President Trump. The Pentagon has officially stated the war's cost at $25 billion, a figure that has led to sharp exchanges between Defense Secretary Hegseth and lawmakers. Diplomatic efforts appear stalled, as President Trump has rejected Iran's offer, maintaining that the blockade will persist until a nuclear deal is reached. The conflict is also noted for its global impact, suggesting a prolonged engagement with no easy exit strategy. Emerging market stocks and foreign exchange have experienced declines due to renewed war risks, though they are positioned for monthly gains.",
     "top_themes": [
@@ -6494,6 +6514,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Prospect of prolonged Iran war disruption drives oil forecasts higher - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV05kSDRjcE9lR1p3WlNNLUpEekxuclhOV1lsS3huM2RRZ3hmSEoteDRycG1CVW1TRUQxbEpnTHVYZEJBSGpKbFRoR3FDVThxeUlKNTNDVDB5M3U3QmVPdjhPcVZVNy1OTENpRkE2UkJicTZaSDRkOTQtWEhuMC1pUjJ5ajVHamMwdEI3QUxFcHcyVmtBX2dBZFl2RXA2U1VjZkE4cVB1aFN1QkgxTi1NdjIzUG5POUZJbUE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 08:02 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777546973,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Rallies to Highest Level Since Start of Iran War - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2tUdEItSWJiaklyQTREdnRhMFJqZlo0MTdHTldrZDFoQ2VQTFNYaGZJdzRZVEExRUhHbS1HOEthaW9XVUJPVnpwS1Y4aDNfRGFjcGp4OG5kUGwtbEptSVJkbWpzTkdGQlY1djNpaHljb2ROaGtVNk5NYjRzUGo0QW5MWDVHak1kREhMM1VsQ2F1emVHUnVTVXF3NUQySlhQWW44?oc=5",

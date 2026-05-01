@@ -6622,6 +6622,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.timesofisrael.com/israel-said-bracing-for-iran-fighting-to-resume-soon-as-trump-briefed-on-military-options/": {
+      "summary": "Amid preparations for renewed fighting, CENTCOM reportedly requests hypersonic missile be sent to Mideast for potential use; Iranian president decries 'intolerable' US naval blockade",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
+    },
+    "https://www.jpost.com/international/article-894808": {
+      "summary": "Representative Patrick Ryan of New York scrutinized Hegseth regarding an Iranian drone attack that killed six US Army Reserve soldiers in early March.",
+      "tags": [
+        "United States",
+        "US military",
+        "kuwait",
+        "Pete Hegseth",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,

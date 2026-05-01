@@ -6681,6 +6681,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-01"
+    },
+    "https://www.axios.com/2026/05/01/iran-us-war-oil-gas-travel-flights-jet-fuel-summer-vacation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.ft.com/content/a19bb32b-c00a-43e5-a7e4-b0088e7aacc7?syn-25a6b1a6=1": {
+      "summary": "In its latest letter to investors the hedge fund backed pre-emptive action against ‘hostile power’",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-04-30"
     }
   },
   "last_run_success": true,
@@ -6833,6 +6853,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "How the Iran war is threatening summer travel - Axios",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDZ1UDhqVldyMjYyaEVFN0xSdzZmUFBmZGhLQmZtNy11ckdyWS1FZkRCNWk5YTRMWEFFbnQwbFBLWXNqVDZpNTFRSUZ4RzBhYjE2cWVBRlA4bUJWZ1lSWGhqbTRXMXYzRkpZRC1STWVVeG10dGZyci00OWxtTEs5UktRM2xSeVRYV1Y0ZXZjTWtEdnBEUjdJ?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 01, 2026 · 05:52 BRT",
+          "pub_date": "2026-05-01",
+          "pub_ts": 1777625560,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Petrobras Output Hits Record as Iran War Jolts Oil Markets - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkU0NjFTZjJEdmtGNWFMWEhvWXBNdTVVYVd4anVYWnlSblh3UXgwOXNRRVd2ck1MeWx4R2l2ek9KNm0wT3lHOEkzX1IwcDZPbzVPMThLbGtCS0NSbmNndW9QX0V1RnlJWU1DaVVHbTdpMk5RUzVOc1hYNy1kVTNuN1JMaWp4akljQTBXZFR6THh1ay1aYkhjSVJ2MjJ0WXlsMEk3ME9KUVF1b01yOXc?oc=5",

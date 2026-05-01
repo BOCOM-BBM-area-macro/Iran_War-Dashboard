@@ -5896,7 +5896,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-29"
+      "pub_date": "2026-04-30"
     },
     "https://www.bloomberg.com/news/articles/2026-04-29/us-signals-no-letup-of-naval-blockade-as-it-aims-to-squeeze-iran": {
       "summary": "",
@@ -6601,7 +6601,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-30"
+      "pub_date": "2026-05-01"
     },
     "https://www.axios.com/2026/05/01/iran-pentagon-hegseth-war-powers-senate-hearing-republicans": {
       "summary": "",
@@ -6904,11 +6904,71 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-01"
+    },
+    "https://www.nytimes.com/2026/05/01/world/middleeast/israel-emirates-iron-dome.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.axios.com/2026/05/01/trump-declares-hostilities-with-iran-terminated": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.wsj.com/politics/national-security/trump-tells-congress-iran-conflict-is-over-sidestepping-war-authorization-ed3e1144": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.reuters.com/world/middle-east/saudi-liquor-store-runs-short-because-iran-war-bottleneck-2026-05-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.timesofisrael.com/idf-official-says-iran-war-will-be-one-big-failure-if-enriched-uranium-not-removed/": {
+      "summary": "Top officer says Islamic Republic 'can pounce on nuclear program' if talks don't see stockpile taken away; says IDF’s 'hands tied' in countering Hezbollah drone threat due to truce",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/ahead-of-war-powers-deadline-us-official-says-hostilities-with-iran-terminated-amid-truce/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-01",
-  "last_generated_time": "2026-05-01T15:01:57.868693+00:00",
+  "last_generated_time": "2026-05-01T16:01:49.019705+00:00",
   "digest": {
     "digest": "The primary focus remains on the approaching statutory deadline for Congressional approval of the ongoing conflict in Iran, with the 60-day mark under the War Powers Act ending May 1st. There is discussion regarding whether a recent ceasefire 'pauses' or 'resets' this clock, impacting the President's obligation to seek authorization for continued military action. Concurrently, geopolitical tensions are escalating, with Israel bracing for a potential resumption of fighting and reports of Iran's air defenses engaging drones over Tehran. The economic repercussions of the war are becoming more apparent, evidenced by oil prices reaching wartime highs above $120 a barrel, impacting energy supplies and raising concerns about broader inflation and potential dents to economic growth. Despite the conflict's tumult, some corporate profits, such as Exxon's, have surprised analysts. The conflict is also affecting other sectors, with summer travel being threatened. Diplomatic stances are not explicitly detailed, but the ongoing military preparations and the approaching legal deadline suggest a critical juncture in the conflict's trajectory.",
     "top_themes": [
@@ -7372,6 +7432,20 @@
           "published": "Apr 29, 2026 · 12:33 BRT",
           "pub_date": "2026-04-29",
           "pub_ts": 1777476818,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Traders Lawyer Up as Hormuz Disruptions Trigger Billions of Dollars in Disputes - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdklzYXM5RFNvTzFZWEVTR20yQ3UyNE5CUGhlSXZJRVBYMWwzVVVDQkYwaEFkcjFFRGZTcXFhaGxNMmRXdHlQSjVIUE05V1c5SXJEMEJiV3h1dFpjaXdfZUpndHdOdHN5dFRhR3NOQjlFZEU3N2QxLVZOazQ2TUR1a1FMWGxkYW9ZVkUxMk1fNlVWX2VkbG9RdE9iRW1kdVZ2cHpIUUZLQ0Z0MHZ4RHpWWlZR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 11:44 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777473894,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -11737,6 +11811,20 @@
           "published": "Apr 28, 2026 · 14:16 BRT",
           "pub_date": "2026-04-28",
           "pub_ts": 1777396585,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Shin-Etsu Withholds Annual Outlook Due to Iran War Disruptions - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGhXMkM5cTltTnI1dmpuVDdnZ3l1QUNyTTJqWTdCOFY3bGx4Q21hQzdJQjJOQnptM1NpMVVNcTFiYlR1VFlWck91aWJSRjdiMnR4dG9td0F0dV9MeFhDc05rTDFGdFRKcGVWQ2JlZHlmN1kyLXRlS0JaZkVoQ213dGVhSld0R201ZlNhVDhTNE1zdEJlXzRVbTNReV80LVB2dUNQYW1sRmdqMU5FcWF3TUstOA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 05:15 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777364124,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

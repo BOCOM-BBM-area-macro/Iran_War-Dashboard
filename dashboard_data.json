@@ -6731,47 +6731,77 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-01"
+    },
+    "https://www.washingtonpost.com/politics/2026/05/01/poll-trump-iran-war-iraq/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.washingtonpost.com/politics/2026/05/01/iran-us-war-powers-trump/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-01/exxon-profit-surprises-analysts-despite-iran-war-s-tumult": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-04-30",
-  "last_generated_time": "2026-04-30T23:01:47.475537+00:00",
+  "last_generated_date": "2026-05-01",
+  "last_generated_time": "2026-05-01T08:01:54.463214+00:00",
   "digest": {
-    "digest": "The Iran war has entered its third month, with significant economic repercussions. Oil prices have rallied to their highest levels since the conflict began, exceeding $120 a barrel, directly contributing to rising U.S. gas prices and disrupting global fuel supplies, particularly impacting Africa's economy. China's factory activity, however, has shown expansion despite these pressures. The U.S. military is facing scrutiny regarding its readiness, with discussions around new military options against Iran being briefed to President Trump. The Pentagon has officially stated the war's cost at $25 billion, a figure that has led to sharp exchanges between Defense Secretary Hegseth and lawmakers. Diplomatic efforts appear stalled, as President Trump has rejected Iran's offer, maintaining that the blockade will persist until a nuclear deal is reached. The conflict is also noted for its global impact, suggesting a prolonged engagement with no easy exit strategy. Emerging market stocks and foreign exchange have experienced declines due to renewed war risks, though they are positioned for monthly gains.",
+    "digest": "The primary focus remains on the approaching statutory deadline for Congressional approval of the ongoing conflict in Iran, with the 60-day mark under the War Powers Act ending May 1st. There is discussion regarding whether a recent ceasefire 'pauses' or 'resets' this clock, impacting the President's obligation to seek authorization for continued military action. Concurrently, geopolitical tensions are escalating, with Israel bracing for a potential resumption of fighting and reports of Iran's air defenses engaging drones over Tehran. The economic repercussions of the war are becoming more apparent, evidenced by oil prices reaching wartime highs above $120 a barrel, impacting energy supplies and raising concerns about broader inflation and potential dents to economic growth. Despite the conflict's tumult, some corporate profits, such as Exxon's, have surprised analysts. The conflict is also affecting other sectors, with summer travel being threatened. Diplomatic stances are not explicitly detailed, but the ongoing military preparations and the approaching legal deadline suggest a critical juncture in the conflict's trajectory.",
     "top_themes": [
-      "Economic Impact",
-      "Military Strategy",
-      "Diplomatic Standoff"
+      "War Powers Act Deadline",
+      "Economic Impact of Conflict",
+      "Geopolitical Tensions and Military Posturing"
     ],
     "next_events": [
       {
-        "title": "Evolution of US Military Strategy and Force Posture",
-        "description": "Commanders are briefing President Trump on new military options, indicating potential shifts in strategy or escalation. Analysts should monitor any announcements or deployments following these briefings, especially in light of the aircraft carrier's departure and the rejection of Iran's offer for a nuclear deal."
+        "title": "Congressional Action on War Powers Act",
+        "description": "The 60-day deadline for the President to seek congressional approval for the Iran war is a critical legal and political juncture. Analysts should monitor whether the White House successfully argues a ceasefire 'paused' the clock or if Congress forces a vote, potentially shaping the conflict's future."
       },
       {
-        "title": "Escalating Global Economic and Energy Market Impacts",
-        "description": "The war is driving oil prices to wartime highs, increasing US gas prices, and raising stagflation risks globally. Watch for continued volatility in energy markets, broader inflationary pressures, and the impact on various economies, including Africa, China, and emerging markets, as the conflict persists."
+        "title": "Resumption and Escalation of Hostilities",
+        "description": "Despite talks of a truce, reports indicate Israel is bracing for renewed fighting, and Iran's air defenses are active. The potential deployment of advanced weaponry like hypersonic missiles suggests a risk of significant escalation, which could dramatically alter the conflict's scope and intensity."
       },
       {
-        "title": "Congressional Oversight and Domestic Political Challenges",
-        "description": "Defense Secretary Hegseth's contentious testimony highlights growing congressional scrutiny and political debate over the war's cost and strategy. Analysts should monitor further hearings, legislative actions, and public opinion shifts that could influence the administration's approach to the conflict."
+        "title": "Global Economic Impact and Energy Market Volatility",
+        "description": "Oil prices have already hit wartime highs, contributing to broader inflation and threatening economic growth and sectors like travel. Continued or escalated conflict in the Middle East will likely lead to further energy price spikes and supply disruptions, impacting global economies."
       },
       {
-        "title": "Prospects for Conflict Resolution or Prolongation",
-        "description": "With the war entering its third month and a 'standoff showing no end in sight,' the conflict appears entrenched. Watch for any renewed diplomatic overtures, changes in Iran's stance, or international mediation efforts that could signal a path towards de-escalation or resolution, or conversely, further entrenchment."
+        "title": "Evolution of US Presidential Strategy",
+        "description": "President Trump's approach to the Iran war, particularly regarding the War Powers Act and potential military options, remains a key unknown. Analysts should watch for shifts in rhetoric or policy that indicate whether the administration will pursue de-escalation, sustained engagement, or further aggressive action."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Stagflation risks stacking up as Iran war enters third month - Reuters",
-      "url": "https://www.reuters.com/business/energy/global-markets-stagflation-graphic-2026-04-30/",
+      "title": "US official says Iran war truce 'terminated' hostilities for war powers deadline - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/war-powers-resolution-purposes-us-hostilities-with-iran-that-began-february-have-2026-05-01/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 30, 2026 · 01:05 BRT",
+      "published": "Apr 30, 2026 · 22:07 BRT",
       "pub_date": "2026-04-30",
-      "pub_ts": 1777521900,
+      "pub_ts": 1777597620,
       "summary": "",
       "tags": [
         "extracted",
@@ -6783,14 +6813,51 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. aircraft carrier to leave Mideast, reducing military might amid Iran war - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/04/29/us-aircraft-carrier-iran-war/",
+      "title": "Israel said bracing for Iran fighting to resume soon, as Trump briefed on military options - The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-said-bracing-for-iran-fighting-to-resume-soon-as-trump-briefed-on-military-options/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Apr 30, 2026 · 23:23 BRT",
+      "pub_date": "2026-04-30",
+      "pub_ts": 1777602186,
+      "summary": "Amid preparations for renewed fighting, CENTCOM reportedly requests hypersonic missile be sent to Mideast for potential use; Iranian president decries 'intolerable' US naval blockade",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Pivotal US-Iran war deadline approaches with no end in sight for conflict - Reuters",
+      "url": "https://www.reuters.com/world/us/pivotal-us-iran-war-deadline-approaches-with-no-end-sight-conflict-2026-04-30/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Apr 30, 2026 · 13:25 BRT",
+      "pub_date": "2026-04-30",
+      "pub_ts": 1777566300,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "A deadline for the Iran war is here. What does the War Powers Act say? - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/01/iran-us-war-powers-trump/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Apr 29, 2026 · 23:49 BRT",
-      "pub_date": "2026-04-29",
-      "pub_ts": 1777517396,
+      "published": "May 01, 2026 · 07:57 BRT",
+      "pub_date": "2026-05-01",
+      "pub_ts": 1777633040,
       "summary": "",
       "tags": [
         "extracted",
@@ -6802,77 +6869,39 @@
       "sentiment_success": false
     },
     {
-      "title": "How the War in Iran is Affecting Africa’s Economy and Fuel Supply - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/30/world/africa/iran-war-africa-economic-consequences.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 30, 2026 · 06:04 BRT",
+      "title": "Deadline approaches for Trump to secure Congressional approval for Iran war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/deadline-approaches-for-trump-to-secure-congressional-approval-for-iran-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Apr 30, 2026 · 17:41 BRT",
       "pub_date": "2026-04-30",
-      "pub_ts": 1777539861,
-      "summary": "",
+      "pub_ts": 1777581660,
+      "summary": "US president required under law to seek lawmakers' okay for military action lasting over 60 days, which ends May 1, but White House could argue current truce reset the clock",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Pentagon Puts Iran War Cost at $25 Billion as Hegseth Berates Skeptics - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html",
+      "title": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues - The New York Times",
+      "url": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 29, 2026 · 14:36 BRT",
-      "pub_date": "2026-04-29",
-      "pub_ts": 1777484219,
-      "summary": "During his first public appearance on Capitol Hill since the war began, the defense secretary lashed out at lawmakers in both parties who have questioned the conflict.",
+      "published": "Apr 30, 2026 · 17:10 BRT",
+      "pub_date": "2026-04-30",
+      "pub_ts": 1777579851,
+      "summary": "The longer the disruption to Middle East fuel supplies lasts, the risk grows that higher energy costs will feed into broader inflation that could dent economic growth.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. Gas Prices Climb Further as Effects of Iran War Reverberate - The New York Times",
-      "url": "https://www.nytimes.com/2026/04/29/business/oil-gas-prices-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Apr 29, 2026 · 17:41 BRT",
-      "pub_date": "2026-04-29",
-      "pub_ts": 1777495285,
-      "summary": "Crude oil prices hit a fresh high since the start of the war in Iran, as energy supplies from the Middle East remain disrupted.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US war in Iran has cost $25 billion so far, says Pentagon official - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Apr 29, 2026 · 11:59 BRT",
-      "pub_date": "2026-04-29",
-      "pub_ts": 1777474740,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -11844,7 +11873,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-04-30T11:06:49.843682+00:00",
-  "last_watch_time": "2026-04-30T11:06:58.590836+00:00",
-  "last_relevant_time": "2026-04-30T11:06:59.656036+00:00"
+  "last_digest_time": "2026-05-01T11:08:28.340462+00:00",
+  "last_watch_time": "2026-05-01T11:08:34.452771+00:00",
+  "last_relevant_time": "2026-05-01T11:08:36.315291+00:00"
 }

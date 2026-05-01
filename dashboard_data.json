@@ -5202,7 +5202,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "pub_date": "2026-04-28"
     },
     "https://www.wsj.com/world/middle-east/iran-offers-a-new-proposal-to-end-war-b88da96c": {
       "summary": "",
@@ -6121,7 +6121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-30"
+      "pub_date": "2026-04-29"
     },
     "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/": {
       "summary": "",
@@ -6664,6 +6664,19 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-894818": {
+      "summary": "Trump told Newsmax that while Iran's military is heavily damaged, only a guarantee against nuclear development will secure a lasting peace, calling for stronger global action.",
+      "tags": [
+        "Iran",
+        "Nuclear",
+        "Tehran",
+        "Iran Deal",
+        "islamic regime"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7403,6 +7416,20 @@
           "published": "Apr 28, 2026 · 04:49 BRT",
           "pub_date": "2026-04-28",
           "pub_ts": 1777362587,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil tankers transiting Strait of Hormuz since start of Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3Q1RzdXM0x6Tm93R2FHZkgyRTJtWVNGLWFjOHl6UFctR053WlFKU2hzVmRvTGhtSmlITkZaZXp2Ym5IS09qTG1xTGVwMXNjMUR5dkZUNkZYVzFabmRvU2E1WnBOdlhxMGx2S2FNejNPWnhvZkRCeDZ5UFBSVFhFc3VWeGhtT2E1SXFkNmg3Nm9FZDdhc19sY0NQZUVXVzA3cjhmUkJlWG9ib252U0E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 04:00 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777359600,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -11577,6 +11604,20 @@
           "published": "Apr 30, 2026 · 06:27 BRT",
           "pub_date": "2026-04-30",
           "pub_ts": 1777541238,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Norsk Hydro beats profit view as Iran war pushes up aluminium prices - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDl3UjFRQWNxUDdWNHRoNzdpQjB0UjNwSkJZLVlrVklGVm5lS0F6dzlIdDk3NkJvUUxnWUpwNTF5bTZoWnJFNlZLTkxxMzhqRXpHOTR6cVJoVnp5NlZtSVhPejc2eTEwb2M0dVRvSWdETk4yZktXVW9DUTlOVXFzYl9Eam5lVGpkSkJLenpNQ3hzQk0yaWlmaWVZZmpabXpiSWhTZ0FkVWhaazA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 29, 2026 · 02:07 BRT",
+          "pub_date": "2026-04-29",
+          "pub_ts": 1777439220,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

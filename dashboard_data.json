@@ -5896,7 +5896,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-29"
+      "pub_date": "2026-04-30"
     },
     "https://www.bloomberg.com/news/articles/2026-04-29/us-signals-no-letup-of-naval-blockade-as-it-aims-to-squeeze-iran": {
       "summary": "",
@@ -6701,6 +6701,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-04-30"
+    },
+    "https://www.nytimes.com/2026/05/01/world/middleeast/iran-war-cafes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.reuters.com/business/uk-factories-hit-by-iran-war-brace-higher-costs-more-delivery-delays-2026-05-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-05-01/will-the-iran-war-make-trump-gun-shy-or-trigger-happy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-01"
     }
   },
   "last_run_success": true,

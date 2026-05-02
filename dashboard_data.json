@@ -7013,7 +7013,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-01"
+      "pub_date": "2026-05-02"
     },
     "https://www.ft.com/content/aa553985-ef1a-4001-9f8d-f9501810dbb5?syn-25a6b1a6=1": {
       "summary": "Petrol and diesel prices are rising more swiftly in America than other major economies including the UK and Canada",
@@ -7040,6 +7040,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-02"
+    },
+    "https://www.nytimes.com/2026/05/02/business/japan-bathhouse-oil-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

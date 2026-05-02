@@ -6657,7 +6657,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-01"
+      "pub_date": "2026-05-02"
     },
     "https://www.reuters.com/world/middle-east/dubai-chefs-shrink-menus-iran-war-makes-tomatillos-scallops-harder-source-2026-05-01/": {
       "summary": "",
@@ -7100,6 +7100,16 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-02"
+    },
+    "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

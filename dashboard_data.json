@@ -7064,6 +7064,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-01"
+    },
+    "https://www.wsj.com/world/iran-war-gives-u-s-rivals-a-real-time-look-at-its-firepower-165c40f2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-02"
     }
   },
   "last_run_success": true,
@@ -11024,6 +11034,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Spirit Airlines shuts down, industry's first Iran war casualty - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZklaaVV4bnpCX2pSaUNpLW93WVQzR0ljQl9xbFdRaUNFNTBLVFZSb0Eza1NCWk9BQ0EyYzR6TFN1ckV1alBaTUd3Y2E4Q3ZQWHJJbnlCcU5uNWV2XzRkQldYSDB4TlBGTzBJcmk2R3BmcGhhWFFkYVJNZEpLbEh2akZlNGZUcHlzOGoyZ1U1bXB1NXF4S3Z0Y2lqMmxvTFYwWkFmWVU0SlZrWmpCWVhad2dCWXdSU0FZMjl6RDlEQWo?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 01, 2026 · 12:48 BRT",
+          "pub_date": "2026-05-01",
+          "pub_ts": 1777650480,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "War in Iran Is Making the Hajj, the Muslim Pilgrimage, More Expensive - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1VTd1B5MTZHalFjSFdsY0N6NlBGTV9IaHBocklhZndQdUh2NFhOZmZMOXJ2VEZkdVRvYm5kWGtIY2FtWVRDQjFDVWlmb0M0MldMbXpCYUotbVZUZDhabm45VnRSYTZlT1UxTHNiMlJ2UnQwdkJpLTd4R2pxOGpQMQ?oc=5",

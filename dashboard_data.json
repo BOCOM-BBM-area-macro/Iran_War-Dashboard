@@ -7315,7 +7315,7 @@
       "pub_date": "2026-05-03"
     },
     "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html": {
-      "summary": "",
+      "summary": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -7398,11 +7398,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-03"
+    },
+    "https://www.reuters.com/sustainability/boards-policy-regulation/kashkari-says-iran-war-limits-feds-ability-provide-rate-guidance-2026-05-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-03"
+    },
+    "https://www.cbc.ca/news/world/cargo-ship-strait-of-hormuz-attack-reports-9.7186056": {
+      "summary": "A cargo ship near the Strait of Hormuz has reported being attacked by multiple small craft, the British military's United Kingdom Maritime Trade Operations centre said Sunday, marking at least two dozen attacks in and around the strait since the Iran war began.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-03"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-03",
-  "last_generated_time": "2026-05-03T14:01:48.596073+00:00",
+  "last_generated_time": "2026-05-03T15:01:40.453919+00:00",
   "digest": {
     "digest": "The conflict between the United States and Iran, initiated on February 28, has entered a prolonged phase, extending to neighboring countries and significantly impacting global markets. Recent developments indicate a potential for renewed fighting, with President Trump reviewing proposals from Tehran while simultaneously warning of consequences for any \"misbehavior.\" A naval blockade of Iranian ports, reportedly costing Tehran $4.8 billion in oil revenues, continues, with the US indicating a readiness to restart strikes. Israel's targeting of Iranian energy infrastructure, including refineries and gas facilities, signals a dangerous escalation with systemic risks beyond the immediate battlefield. The war's economic repercussions are substantial, with Detroit carmakers forecasting a $5 billion commodities shock due to rising prices for materials like aluminum, plastics, and paint. Diplomatic efforts appear strained, as evidenced by Germany's misjudgment of President Trump's resolve regarding troop withdrawals. The ongoing conflict presents the US with significant reputational challenges among its allies and raises questions about its long-term strategy and potential costs.",
     "top_themes": [

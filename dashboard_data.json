@@ -6850,7 +6850,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-02"
+      "pub_date": "2026-05-01"
     },
     "https://www.jpost.com/israel-news/defense-news/article-894838": {
       "summary": "Firing Arrow interceptors can cost millions of shekels, Iron Dome interceptors can cost tens of thousands of shekels, but firing the Iron Beam is as cheap as turning a light on.",
@@ -7303,6 +7303,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-03"
+    },
+    "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-03"
+    },
+    "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-03"
     }
   },
   "last_run_success": true,
@@ -7506,6 +7526,20 @@
           "published": "May 01, 2026 · 12:32 BRT",
           "pub_date": "2026-05-01",
           "pub_ts": 1777649543,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Breakingviews - Oil’s price boom foreshadows a post-war bust - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTRoWE5DOTV0RkZ5bXVSQnlWcFJOcEJjd3Y5UVZHYy1EZ2M1MFZQYzA4Ty1ibmYtZUJEOVpDYWJMWlhHOHd4QjA1WnkxOUVPUk9sZmE3V3pMR1pnUzBvb3RGYjZsX3hyX2ltN2JRM0RDR19yb0NzcFIxMlZ4U0lqcldVV1FUMVA1RjBoYWZ5NUpmZTgtMUdSeGZ3QXFlNU1Zd0l2Rw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 01, 2026 · 08:46 BRT",
+          "pub_date": "2026-05-01",
+          "pub_ts": 1777636008,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

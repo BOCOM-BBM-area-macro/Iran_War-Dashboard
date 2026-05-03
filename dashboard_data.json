@@ -2399,7 +2399,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-04-21"
+      "pub_date": "2026-05-02"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html": {
       "summary": "",
@@ -6903,7 +6903,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-01"
+      "pub_date": "2026-05-02"
     },
     "https://www.nytimes.com/2026/05/01/world/middleeast/israel-emirates-iron-dome.html": {
       "summary": "It appeared to be the first time the missile defense system was sent to an Arab country. The Emirates bore the brunt of Iran’s retaliatory attacks on Gulf countries during the war.",
@@ -7207,11 +7207,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-02"
+    },
+    "https://www.jpost.com/travel/article-894886": {
+      "summary": "As regional tensions escalated into direct confrontation with Iran, the impact on Dubai’s tourism sector, so beloved by Israeli travelers, was almost immediate.",
+      "tags": [
+        "Tourism",
+        "travel",
+        "Dubai",
+        "United Arab Emirates",
+        "UAE"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-02"
+    },
+    "https://www.axios.com/2026/05/02/trump-iran-strikes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-02"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-02",
-  "last_generated_time": "2026-05-02T21:01:46.176764+00:00",
+  "last_generated_time": "2026-05-02T22:01:55.349561+00:00",
   "digest": {
     "digest": "President Trump has asserted that hostilities with Iran have \"terminated,\" in an effort to circumvent the need for congressional authorization for the conflict, sending letters to Congress to this effect. This declaration coincides with the 60-day mark of the operation, a point at which the War Powers Act typically requires congressional review. Despite the President's claims, some Republicans in Congress are expressing impatience and considering measures to restrain presidential war powers or establish terms for ending the conflict, particularly with mid-term elections approaching. Internationally, the conflict has prompted diplomatic shifts, with the US reportedly pulling troops from Germany due to disagreements over Iran policy. Iran has submitted a new proposal, conveyed via Pakistan, suggesting a ceasefire and potential negotiations on its nuclear program in exchange for sanctions relief, though President Trump stated he is \"not satisfied\" with the offer without specifying objections. The conflict has also led to significant economic impacts, including sharp fuel price increases in the US and disruptions to global markets, affecting sectors like agriculture and air freight in countries such as Kenya. The Israeli military has reportedly deployed its Iron Dome missile defense system to the Emirates to defend against Iranian retaliatory attacks, marking a potential first for the system's deployment to an Arab nation. China has called for an urgent need to maintain a ceasefire in the Iran war.",
     "top_themes": [
@@ -7424,6 +7447,20 @@
           "published": "May 01, 2026 · 04:00 BRT",
           "pub_date": "2026-05-01",
           "pub_ts": 1777618800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Inflation hits 3% in Europe as Iran war spreads oil price shock - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1NoaGxueEN6aTRsXzFab0dqX2RNSzBvQ0lfbkltckRSMkVqYU1TQmt1Y2tKMktqNnVEUU5nN2M0ZHVLLXBtR0poV3lxXzNVbXJvaGwzMjBDWlZLSzV1amt6dS1IQlFiNkFwdHg1WlBGYThrOV9MQ1hkOXlxMFVyb2M3Z0hzeWEtcFB5aUhlbFRMWEJPZm9YYmNtZVlJRWlSUm55OHFGMjY1NzhycHFORUdwUVIyN3pwMGVGTjJtSFZTald4QWJkZw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 20:03 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777590211,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -12130,6 +12167,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Unilever Expects to Raise Detergent Prices on Iran War Costs - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1lTQUoydDZobExrR2xGWTV4MEd0RVhaS1ZnbUl4X1dxekFuZUUtdmNydzhBem5DMk5aMHBBYW1lb2lMek1wM3NVWG5BWTNoQWxrNHdLS3F5UWh3N0x6QTFnSmEteEt2RDBZMnlkNTd5M1NyX0JaSjl5Vll3RXpnei11a2VxVFN6VVE1Nm9IblE3Y3FCYzJyOVpGaS00S1E3ekFIZFBuMGpvNHlkWUtneA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 07:52 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777546323,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trader or driller? Iran war exposes Big Oil's transatlantic divide - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUxSUlpzR05WdWNTTnBJaElDd21LZ1dtdDZzQ2lNVTJSM0ZyNTkwMkZ5djRHUnNRNkpaYkVWb0hIalJIQ1hUbEIzanJrNm1xcEUwOEZGV0tneXkzOFZ2VThJcjdFQnpINWl2Z1hpQTJMcjBjOGxrRlFMWUZsOGJ0S2hVdzBZVGdSamNIbERDaDFIVmR0bjVxMV85Q2g0VUd2bTRZUkJlZ0gxVjNIcUNpdHZJMjB6Nm5OWHFLRw?oc=5",

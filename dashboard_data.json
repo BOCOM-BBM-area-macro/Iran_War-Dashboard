@@ -4660,7 +4660,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-02"
+      "pub_date": "2026-05-03"
     },
     "https://www.bloomberg.com/news/articles/2026-04-26/asia-s-busiest-earnings-week-may-offer-early-taste-of-war-impact": {
       "summary": "",
@@ -7073,7 +7073,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-02"
+      "pub_date": "2026-05-03"
     },
     "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html": {
       "summary": "Germany had appeared not to believe President Trump’s threats to pull troops from the country. Once it was announced, Berlin offered a measured response.",
@@ -7343,11 +7343,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-03"
+    },
+    "https://www.ft.com/content/b57d34ac-807e-4106-b319-56f91c617a1c?syn-25a6b1a6=1": {
+      "summary": "Non-doms also blame difficulties in adjusting to new lifestyles  and marital problems while living in low-tax jurisdictions",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-03"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-03",
-  "last_generated_time": "2026-05-03T10:01:43.241924+00:00",
+  "last_generated_time": "2026-05-03T11:01:44.378614+00:00",
   "digest": {
     "digest": "The conflict between the United States and Iran, initiated on February 28, has entered a prolonged phase, extending to neighboring countries and significantly impacting global markets. Recent developments indicate a potential for renewed fighting, with President Trump reviewing proposals from Tehran while simultaneously warning of consequences for any \"misbehavior.\" A naval blockade of Iranian ports, reportedly costing Tehran $4.8 billion in oil revenues, continues, with the US indicating a readiness to restart strikes. Israel's targeting of Iranian energy infrastructure, including refineries and gas facilities, signals a dangerous escalation with systemic risks beyond the immediate battlefield. The war's economic repercussions are substantial, with Detroit carmakers forecasting a $5 billion commodities shock due to rising prices for materials like aluminum, plastics, and paint. Diplomatic efforts appear strained, as evidenced by Germany's misjudgment of President Trump's resolve regarding troop withdrawals. The ongoing conflict presents the US with significant reputational challenges among its allies and raises questions about its long-term strategy and potential costs.",
     "top_themes": [
@@ -7609,6 +7619,20 @@
           "published": "May 01, 2026 · 04:00 BRT",
           "pub_date": "2026-05-01",
           "pub_ts": 1777618800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran Is Grasping for a Solution to an American Blockade It Can’t Break - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CMGlodkdEdXBMY3pPZmQxX2VfNGxFM2NwWThfMnlmUU1jdVhWekN6NHNqT05jTmtwaERMVWpodE5vdjVISmFicjgzQmdHcldPOHZnTFlZZlhRUnIxX2pHSEN2UmhBLUgwdE9hMXFvZVJQRHZqLXc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 01, 2026 · 00:00 BRT",
+          "pub_date": "2026-05-01",
+          "pub_ts": 1777604400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

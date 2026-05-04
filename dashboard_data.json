@@ -6913,7 +6913,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-01"
+      "pub_date": "2026-05-04"
     },
     "https://www.axios.com/2026/05/01/trump-declares-hostilities-with-iran-terminated": {
       "summary": "",
@@ -7312,7 +7312,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-03"
+      "pub_date": "2026-05-04"
     },
     "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html": {
       "summary": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
@@ -7467,7 +7467,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-04"
+      "pub_date": "2026-05-03"
     },
     "https://www.washingtonpost.com/world/2026/05/03/iran-us-war-ceasefire-negotiations-strait/0190238c-46e9-11f1-a119-857cd2bf4fd4_story.html": {
       "summary": "",
@@ -7756,10 +7756,13 @@
       "pub_date": "2026-05-04"
     },
     "https://www.wsj.com/world/middle-east/iran-defies-trump-and-tightens-its-grip-on-hormuz-01a4e32b": {
-      "summary": "",
+      "summary": "The Emirates accused Iran of its first attack during the cease-fire as the U.S. deployed warships and jets to protect vessels in the Strait of Hormuz.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "gfx-contrib",
+        "Asia",
+        "Emerging Market Countries",
+        "Developing Economies",
+        "Iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7856,11 +7859,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-04"
+    },
+    "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.washingtonpost.com/world/2026/05/04/us-ships-iran-hormuz-ceasefire/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-04",
-  "last_generated_time": "2026-05-04T16:01:52.294579+00:00",
+  "last_generated_time": "2026-05-04T17:01:47.594915+00:00",
   "digest": {
     "digest": "The conflict surrounding the Strait of Hormuz has escalated as the US announced plans to guide ships through the blockaded waterway, a move Iran has threatened to counter with force. Iran's military chief stated that any US forces entering the Strait of Hormuz would be attacked. In response to US President Trump's \"Project Freedom\" initiative, Iran warned against any uncoordinated passage. The US Central Command is mobilizing significant military resources to support the operation, which aims to aid stranded vessels and seafarers. Diplomatic efforts appear stalled, with Iran's peace proposal rejected by the US as unacceptable, and ongoing discussions over issues like the Strait's postwar control remain unresolved. Saudi Arabia is leveraging its Red Sea port of Neom due to the Strait of Hormuz being choked off. The war continues to impact global markets, with rising gasoline prices affecting US restaurant sales and contributing to inflation jitters that influence US interest rate outlooks. Despite these concerns, some market strategists note that strong tech sector earnings are currently overshadowing the war's impact on stock markets. The conflict has also seen Israeli settlers intensify attacks in the West Bank amidst global distraction.",
     "top_themes": [
@@ -8015,6 +8038,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVJiX2RoYlBfYVpNUW9jaktnQkhoSWhpcTVQa2I2VU9fcVViU2dKek9NYXBZTTh5VWJwRDVUdUFOeVk0X1FDUzUyRjdsTmRFb0FHeXdRMHMtQlU1blY4a21pMzFFWExVSkgtWTV6TFo3YjFtOW9DMERyYkRzQ3A4cmpjclVwOWQwdFE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 04, 2026 · 14:11 BRT",
+          "pub_date": "2026-05-04",
+          "pub_ts": 1777914699,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Jumps as Iran Resists Trump’s Offer to Help Ships Through Strait of Hormuz - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOVEUzdWJhWTZvUVpxcHBkMzFpS1I3YlFFTThUMXQzbEdLcUFKcDdLUEVPLThNczNPcGRYeUxEdm4xVTRwMzlQcXd6RWhDdXV4VTNtMDFKZG80X2RQbXBQd1U2U29MVWFhLUlsMFhvVWxPbDZlMWdGNXZqdw?oc=5",

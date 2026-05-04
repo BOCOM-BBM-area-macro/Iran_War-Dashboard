@@ -7518,6 +7518,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-03"
+    },
+    "https://www.nytimes.com/2026/05/04/business/india-iran-fuel-glass.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.ft.com/content/c38d86b3-81fc-46fd-af0e-7b66e140676b?syn-25a6b1a6=1": {
+      "summary": "Sharp rise in inflation is hitting growth outlook for region heavily dependent on imported energy",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-03"
     }
   },
   "last_run_success": true,
@@ -7677,6 +7697,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "‘City of Glass’ Is Under Threat From Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55bERZLVU2ZjV1RzlJOTB2QzBSMy1LWWY5czFjS0pMd01Td1hmVlB1WFdRSV94c2RKd0xZQWRNa29IYXo5Q1I0RWFLMml6MTk2Q2ZPQ0k1N3JrYzd4bVJfREpYcEtLakhUR0xOTlFCajZxTkV1djZkUzlB?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 04, 2026 · 01:01 BRT",
+          "pub_date": "2026-05-04",
+          "pub_ts": 1777867296,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Not Even Japanese Bathhouses Are Immune From Shocks of Iran War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWb3ZFbG5iMGstQzUxUmFQSy0zeWl6eVNmMWtLY2UzellWUUU3a2NJcWE2RkdZR3RCcG1UNXkxdmZaanZGaWJ1TmRXYmRPcnFUSlFtdmFSZk9feVBSLWlFd1NKdk9zVk9paDM2WkZFY1NwMUxQNmpwOHVTSFViQQ?oc=5",

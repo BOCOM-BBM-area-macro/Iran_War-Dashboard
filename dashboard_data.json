@@ -7467,7 +7467,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-04"
+      "pub_date": "2026-05-03"
     },
     "https://www.washingtonpost.com/world/2026/05/03/iran-us-war-ceasefire-negotiations-strait/0190238c-46e9-11f1-a119-857cd2bf4fd4_story.html": {
       "summary": "",
@@ -7766,10 +7766,13 @@
       "pub_date": "2026-05-04"
     },
     "https://www.bloomberg.com/news/articles/2026-05-04/uae-issues-missile-warning-as-rising-tensions-risk-us-iran-truce": {
-      "summary": "",
+      "summary": "The US and Iran exchanged fire in the Persian Gulf in a flareup of violence on Monday that also drew in the United Arab Emirates, casting doubt on the fate of a four-week ceasefire.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Persian Gulf",
+        "United Arab Emirates",
+        "Donald John Trump",
+        "Generic 1st 'CL' Future"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7786,10 +7789,46 @@
       "pub_date": "2026-05-04"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-04/how-the-iran-war-threatens-global-economic-growth": {
+      "summary": "Oil prices will remain high and the cost of borrowing will go up as the conflict continues.",
+      "tags": [
+        "Iran",
+        "War",
+        "Economic Growth",
+        "Generic 1st 'CL' Future",
+        "Emerging Markets"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.reuters.com/world/middle-east/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-us-admiral-says-2026-05-04/": {
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-04/guyana-president-warns-of-mineral-dependence-as-iran-war-accelerates-oil-shift": {
+      "summary": "Guyana President Irfaan Ali warned that shifting too quickly to renewable energy in the wake of the Strait of Hormuz oil crisis could create a new dependence on critical minerals such as lithium, copper and cobalt.",
+      "tags": [
+        "Guyana",
+        "Generic 1st 'CL' Future",
+        "Iran",
+        "War",
+        "Renewable Energy"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7798,7 +7837,7 @@
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-04",
-  "last_generated_time": "2026-05-04T14:01:50.178198+00:00",
+  "last_generated_time": "2026-05-04T15:01:43.705585+00:00",
   "digest": {
     "digest": "The conflict surrounding the Strait of Hormuz has escalated as the US announced plans to guide ships through the blockaded waterway, a move Iran has threatened to counter with force. Iran's military chief stated that any US forces entering the Strait of Hormuz would be attacked. In response to US President Trump's \"Project Freedom\" initiative, Iran warned against any uncoordinated passage. The US Central Command is mobilizing significant military resources to support the operation, which aims to aid stranded vessels and seafarers. Diplomatic efforts appear stalled, with Iran's peace proposal rejected by the US as unacceptable, and ongoing discussions over issues like the Strait's postwar control remain unresolved. Saudi Arabia is leveraging its Red Sea port of Neom due to the Strait of Hormuz being choked off. The war continues to impact global markets, with rising gasoline prices affecting US restaurant sales and contributing to inflation jitters that influence US interest rate outlooks. Despite these concerns, some market strategists note that strong tech sector earnings are currently overshadowing the war's impact on stock markets. The conflict has also seen Israeli settlers intensify attacks in the West Bank amidst global distraction.",
     "top_themes": [
@@ -11958,6 +11997,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Spirit Airlines shuts down, blames cost of fuel due to Middle East war - CBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nRzdGMndSRW5mS2tlajFFMHJWZ096Q2hQNVRsLUlSQnRpV1d6STU1aWN0SVpka2FKQ29qOWZMTU5lbTJaYWtoTEt1ZGVTZ201WTBDQjBFWDVSeU1sZFR5QjQ1V1VyOUFVZE9kdFcyN1kySWg1NnRHeVVOYzFOa3M?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 02, 2026 · 15:32 BRT",
+          "pub_date": "2026-05-02",
+          "pub_ts": 1777746722,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Airlines scramble to help stranded Spirit passengers after budget carrier collapses - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1lrZkhvSFg4MG9NSmtESml6Wmk5c1BYU1ZoLXdzX1J3RVp2TU1RTTdLUl9HbnBhN0otdk5DZUIzNENjMFBkZGtwemhfNEMzczBwN1NfcnctdHpnOEN6ZjRqOHhHNE80cUdlYVhjemZYeGJnRWZ5ZWpIamdIaEVRanhqelFWTjBKeE55OWtzelFPb25VY2tFNVIxNm1SZ1ljbHBSZnRLWGRpMUhxTmc4RktnWXljNG1mU3hVNHRVdVRGa1k?oc=5",

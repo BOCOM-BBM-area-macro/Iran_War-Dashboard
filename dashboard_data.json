@@ -7073,7 +7073,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-03"
+      "pub_date": "2026-05-02"
     },
     "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html": {
       "summary": "Germany had appeared not to believe President Trump’s threats to pull troops from the country. Once it was announced, Berlin offered a measured response.",
@@ -7574,6 +7574,46 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.ft.com/content/63ddff5f-2d47-4a5b-9ba5-e543ac756717?syn-25a6b1a6=1": {
+      "summary": "Experts say Tehran is likely to eventually seek retaliation against senior figures over the US-Israeli war",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.ft.com/content/5a92811f-bd14-4be3-8b77-5edc12461cf5?syn-25a6b1a6=1": {
+      "summary": "With the Strait of Hormuz choked off, Riyadh focuses on Red Sea infrastructure",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.washingtonpost.com/politics/2026/05/03/trump-iran-strait-hormuz/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

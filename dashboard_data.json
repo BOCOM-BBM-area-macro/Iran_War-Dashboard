@@ -7176,7 +7176,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-02"
+      "pub_date": "2026-05-03"
     },
     "https://www.bloomberg.com/news/articles/2026-05-02/us-jobs-report-to-show-resilience-in-the-wake-of-iran-war": {
       "summary": "",
@@ -7494,6 +7494,16 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-03"
+    },
+    "https://www.nytimes.com/live/2026/05/03/us/trump-news-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -12699,6 +12709,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "An Aluminum Crisis Is Roiling the Auto Industry - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFRmYWJUSE1YRDhIbHRSUDZIUWhOYzJOOVZ0WGtRb3g2YlNWRjJuUE1ucFNxMy1aTVRqZDVHNjF1TW5QTkRNaWVFYnR0UjVZZ2V5R1JSR0hwMW13ZzVYR2JHRnktVGpsVEFxMW1HMnNXY3ZVYXkxaGoxQjlzWlNDdngxMU16R1p2WElMeDhwem05Qk9KVmc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 03, 2026 · 21:00 BRT",
+          "pub_date": "2026-05-03",
+          "pub_ts": 1777852800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Detroit carmakers warn of $5bn commodities shock due to Iran war - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5admxLMGxrdFlPRzhqY0VfSnBZa0w3RFd0NWoxUmd4dUNDMGZjdXFIWHJsZTlmWWNLRTJUT1c4OE1fakE5bFJzV1NFQUhJeU1UYzFkanMxb2FJWEtGYVd2YWotbWxERUxXUEcwaFI0VVk?oc=5",

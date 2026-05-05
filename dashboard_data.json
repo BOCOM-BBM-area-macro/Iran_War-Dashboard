@@ -7312,7 +7312,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-03"
+      "pub_date": "2026-05-04"
     },
     "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html": {
       "summary": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
@@ -8054,6 +8054,39 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-895163": {
+      "summary": "According to US officials, Trump prefers to negotiate with Iran in order to end its nuclear ambitions, rather than begin a new round of bombing.",
+      "tags": [
+        "Iran",
+        "Donald Trump",
+        "Lindsey Graham",
+        "strait of hormuz",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.ft.com/content/85f851c6-3cc2-44ee-b527-5a1136f851e7?syn-25a6b1a6=1": {
+      "summary": "Dispute between UK chancellor and US Treasury secretary underscores allies’ diverging stances on the conflict",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-05-05/iran-war-the-risk-of-the-conflict-restarting-is-now-irrationally-high": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

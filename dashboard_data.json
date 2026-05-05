@@ -7467,7 +7467,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-04"
+      "pub_date": "2026-05-03"
     },
     "https://www.washingtonpost.com/world/2026/05/03/iran-us-war-ceasefire-negotiations-strait/0190238c-46e9-11f1-a119-857cd2bf4fd4_story.html": {
       "summary": "",
@@ -7995,6 +7995,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-04"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/iran-war-gives-small-boost-thermal-coal-further-gains-possible-2026-05-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-05-05/live-updates-895134": {
+      "summary": "US sinks Iranian small boats, shoots down missiles, drones in Strait • IMF warns of 'much worse outcome' if Mideast war persists • Iran alleges US strike on civilian boats",
+      "tags": [
+        "Hezbollah",
+        "Iran",
+        "Nuclear",
+        "iran missiles",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
     }
   },
   "last_run_success": true,
@@ -8555,6 +8578,20 @@
           "published": "Apr 30, 2026 · 04:30 BRT",
           "pub_date": "2026-04-30",
           "pub_ts": 1777534200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi Economic Growth Slows as Iran War Hits Oil Exports - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEZzWEl1YWRvelczeWh3WDhjYldtS295T2RYa09Jb0VER0ZmYVJXZ2JKQ3B5SDhTcEhuN254M0NwOUZQeXF4eTgxTHRZOEtZdEw5YlBxRmQtUVJoaGdocG9VTGtFYThDejRKaG5lTlk1VU90VlhkLTVQZno0ZVVPM3I1LTV1OEg1enBjMjZsdzNDbVphOEZaNHIwZFE0UVFnRFU5UWZDTmhFZGc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 30, 2026 · 03:29 BRT",
+          "pub_date": "2026-04-30",
+          "pub_ts": 1777530540,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -7312,7 +7312,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-03"
+      "pub_date": "2026-05-04"
     },
     "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html": {
       "summary": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
@@ -7467,7 +7467,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-03"
+      "pub_date": "2026-05-04"
     },
     "https://www.washingtonpost.com/world/2026/05/03/iran-us-war-ceasefire-negotiations-strait/0190238c-46e9-11f1-a119-857cd2bf4fd4_story.html": {
       "summary": "",
@@ -7630,7 +7630,7 @@
       "pub_date": "2026-05-04"
     },
     "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html": {
-      "summary": "",
+      "summary": "Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -7815,7 +7815,7 @@
       "pub_date": "2026-05-04"
     },
     "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html": {
-      "summary": "",
+      "summary": "China told its independent refineries to disregard U.S. sanctions over their purchases of Iranian crude.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -7939,11 +7939,47 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-04"
+    },
+    "https://www.wsj.com/politics/national-security/attacks-on-u-s-warships-in-strait-test-trumps-desire-to-end-iran-war-182f2f2b": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-05-04/live-updates-895011": {
+      "summary": "Senior IDF official: No change in home front rules • US close to delivering Israeli \"Gideon\" KC-46 refueling aircraft • IDF strikes Hezbollah in Lebanon",
+      "tags": [
+        "Hezbollah",
+        "Iran",
+        "hezbollah iran",
+        "iran hezbollah",
+        "iran israel war"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-895128": {
+      "summary": "The IMF issued three scenarios for global GDP amid uncertainty over the war in the Middle East: the main \"reference forecast,\" a middle \"adverse scenario,\" and a much worse \"severe scenario.\"",
+      "tags": [
+        "oil",
+        "economy",
+        "Israel Iran War",
+        "Middle East",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-04",
-  "last_generated_time": "2026-05-04T21:01:51.690972+00:00",
+  "last_generated_time": "2026-05-04T22:01:48.889089+00:00",
   "digest": {
     "digest": "The conflict surrounding the Strait of Hormuz has escalated as the US announced plans to guide ships through the blockaded waterway, a move Iran has threatened to counter with force. Iran's military chief stated that any US forces entering the Strait of Hormuz would be attacked. In response to US President Trump's \"Project Freedom\" initiative, Iran warned against any uncoordinated passage. The US Central Command is mobilizing significant military resources to support the operation, which aims to aid stranded vessels and seafarers. Diplomatic efforts appear stalled, with Iran's peace proposal rejected by the US as unacceptable, and ongoing discussions over issues like the Strait's postwar control remain unresolved. Saudi Arabia is leveraging its Red Sea port of Neom due to the Strait of Hormuz being choked off. The war continues to impact global markets, with rising gasoline prices affecting US restaurant sales and contributing to inflation jitters that influence US interest rate outlooks. Despite these concerns, some market strategists note that strong tech sector earnings are currently overshadowing the war's impact on stock markets. The conflict has also seen Israeli settlers intensify attacks in the West Bank amidst global distraction.",
     "top_themes": [
@@ -8098,6 +8134,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Asia battles rising, uneven toll of energy crisis caused by Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTVmYjdyQ1lEUGsya0U0R0JXdDNlZFRJeks1M1JkZDNHaTdRVkc2RHh0eXdlSFpsbVducndkcFBJb2ExSGNqZmF1a0tFTnFQNlFaYzBzUXpEcnNXXy15MzlxLU9LdXRPWWhhOUhST24wUElwb0JQcFpsWmJ4TTQ2Q2tQajR3eENaUDlvR2NTcTJjazE5LW4wSU5QVnVaSWE5THc4S3M4Y0V5NzhlbU9lUmFVSkpmeUU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 04, 2026 · 20:03 BRT",
+          "pub_date": "2026-05-04",
+          "pub_ts": 1777935780,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVJiX2RoYlBfYVpNUW9jaktnQkhoSWhpcTVQa2I2VU9fcVViU2dKek9NYXBZTTh5VWJwRDVUdUFOeVk0X1FDUzUyRjdsTmRFb0FHeXdRMHMtQlU1blY4a21pMzFFWExVSkgtWTV6TFo3YjFtOW9DMERyYkRzQ3A4cmpjclVwOWQwdFE?oc=5",

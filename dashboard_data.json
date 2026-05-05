@@ -7467,7 +7467,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-04"
+      "pub_date": "2026-05-03"
     },
     "https://www.washingtonpost.com/world/2026/05/03/iran-us-war-ceasefire-negotiations-strait/0190238c-46e9-11f1-a119-857cd2bf4fd4_story.html": {
       "summary": "",
@@ -8134,55 +8134,73 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-05"
+    },
+    "https://www.washingtonpost.com/world/2026/05/05/trump-changing-strategy-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.washingtonpost.com/climate-environment/2026/05/05/iran-war-oil-gas-electric-vehicles/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-04",
-  "last_generated_time": "2026-05-04T23:01:49.442046+00:00",
+  "last_generated_date": "2026-05-05",
+  "last_generated_time": "2026-05-05T08:01:50.644119+00:00",
   "digest": {
-    "digest": "The conflict surrounding the Strait of Hormuz has escalated as the US announced plans to guide ships through the blockaded waterway, a move Iran has threatened to counter with force. Iran's military chief stated that any US forces entering the Strait of Hormuz would be attacked. In response to US President Trump's \"Project Freedom\" initiative, Iran warned against any uncoordinated passage. The US Central Command is mobilizing significant military resources to support the operation, which aims to aid stranded vessels and seafarers. Diplomatic efforts appear stalled, with Iran's peace proposal rejected by the US as unacceptable, and ongoing discussions over issues like the Strait's postwar control remain unresolved. Saudi Arabia is leveraging its Red Sea port of Neom due to the Strait of Hormuz being choked off. The war continues to impact global markets, with rising gasoline prices affecting US restaurant sales and contributing to inflation jitters that influence US interest rate outlooks. Despite these concerns, some market strategists note that strong tech sector earnings are currently overshadowing the war's impact on stock markets. The conflict has also seen Israeli settlers intensify attacks in the West Bank amidst global distraction.",
+    "digest": "Recent events indicate a significant escalation in the Iran War, with reports of missile and drone threats in the UAE and attacks on U.S. warships in the Strait of Hormuz. The U.S. has responded by deploying warships and jets to protect vessels in the strategically vital waterway, testing President Trump's stated desire to end the conflict. Despite these developments, President Trump has attempted to downplay the economic effects, predicting a decrease in gas prices and describing the U.S. economy as \"roaring.\" However, this assertion is challenged by reports of crumbling predictions regarding minimal economic consequences and the war's costly and unpopular nature. The timeline for Iran to develop a nuclear weapon appears to be minimally impacted by recent strikes, suggesting that impeding Tehran's nuclear ambitions may require more direct action on its enriched uranium stockpile. International allies are exhibiting diverging stances on the conflict, as evidenced by disputes between UK and US Treasury officials. The war's impact is extending globally, with rising fuel prices affecting industries in India and contributing to a drop in U.S. restaurant sales, while Asian economies battle an uneven energy crisis and German firms abroad grow more pessimistic due to disrupted supply chains. Israel has reportedly assisted the UAE in defending against Iranian retaliatory attacks using its Iron Dome missile defense system.",
     "top_themes": [
-      "Strait of Hormuz Tensions",
-      "US-Iran Diplomatic Stalemate",
-      "Economic Impact of the War"
+      "Escalation in the Strait of Hormuz",
+      "Economic repercussions of the Iran War",
+      "US-Iran diplomatic tensions",
+      "Iran's nuclear program status",
+      "International impact of the conflict"
     ],
     "next_events": [
       {
-        "title": "Strait of Hormuz Operations and Iranian Response",
-        "description": "The US has initiated 'Project Freedom' to guide ships through the Strait of Hormuz, which Iran has explicitly threatened to attack. Analysts should watch for direct confrontations between US and Iranian forces, the success rate of ship transits, and any further missile attacks or seizures, as these events will directly impact global trade and energy security."
+        "title": "Escalation in the Strait of Hormuz",
+        "description": "Recent reports indicate renewed fighting and threats to shipping in the Strait of Hormuz, a critical global choke point. Analysts should monitor any further attacks on U.S. or allied vessels, the deployment of additional military assets, and the effectiveness of U.S. efforts to guide ships, as these events could signal a significant escalation of the conflict."
       },
       {
-        "title": "Progress of Peace Negotiations",
-        "description": "Both the US and Iran have presented and rejected peace proposals, with ongoing mediation efforts by countries like Pakistan. Monitor any new diplomatic overtures, the content of future proposals, and statements from key international players like France, as a breakthrough or complete breakdown in talks will dictate the war's trajectory and potential for de-escalation."
+        "title": "Global Economic Fallout and Energy Market Volatility",
+        "description": "The Iran War is already causing significant economic strain, including rising fuel prices, supply chain disruptions, and business closures across Asia, Europe, and the U.S. Analysts must track global energy prices, inflation rates, and the performance of key industries to assess the war's escalating impact on the world economy and consumer behavior."
       },
       {
-        "title": "Global Economic Impact and Energy Markets",
-        "description": "The conflict has already led to soaring crude oil and gasoline prices, impacting consumer spending and potentially fueling inflation. Observe crude oil price movements, the viability of alternative shipping routes (e.g., Saudi Arabia's Neom port), and broader economic indicators for signs of sustained or worsening global economic strain, including the impact on specific industries like airlines and restaurants."
+        "title": "Iran's Nuclear Ambitions and Program Development",
+        "description": "Despite reported U.S.-Israeli strikes, sources indicate Iran's nuclear weapon timeline has not been significantly set back. Analysts should closely monitor intelligence reports regarding Iran's enrichment levels, stockpile of highly enriched uranium, and any diplomatic overtures or negotiations aimed at curbing its nuclear program, as this remains a central driver of regional tension."
       },
       {
-        "title": "Regional Proxy Actions and Retaliation",
-        "description": "With international attention on the war, Israeli settlers have intensified attacks in the West Bank, and experts anticipate Iran may seek retaliation against senior US-Israeli figures. Watch for increased activity from regional proxies, potential cyberattacks, or targeted actions that could broaden the conflict beyond direct US-Iran engagement and destabilize other areas."
+        "title": "U.S. Policy and Diplomatic vs. Military Posture",
+        "description": "President Trump's administration appears torn between a desire to negotiate an end to Iran's nuclear ambitions and responding to attacks on U.S. assets. Analysts should watch for shifts in U.S. rhetoric, any concrete steps towards renewed negotiations, or further military deployments and retaliatory actions, which will indicate the future direction of U.S. engagement in the conflict."
       },
       {
-        "title": "US Domestic Political Fallout",
-        "description": "The war's escalating costs (estimated at $25 billion) and rising gasoline prices are creating significant domestic pressure on President Trump, potentially influencing upcoming midterm elections. Analysts should monitor public opinion, congressional debates, and any shifts in the administration's strategy that may be driven by domestic political considerations."
-      },
-      {
-        "title": "International Coalition Dynamics",
-        "description": "The US is seeking an international coalition to secure shipping in the Strait of Hormuz, but some allies like France have expressed reluctance regarding 'unclear' military operations. Observe how international support for US actions evolves, particularly concerning naval escorts and the reopening of the Strait, as this will determine the scope and effectiveness of any multinational response."
+        "title": "Regional Defense Cooperation and Alliance Strain",
+        "description": "The deployment of Israeli Iron Dome to defend the UAE highlights evolving regional defense cooperation against Iranian threats. Simultaneously, disputes between allies like the U.S. and UK suggest diverging stances. Analysts should observe further instances of military aid, joint defense exercises, and any public disagreements among international partners, as these will shape the collective response to Iran."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "‘City of Glass’ Is Under Threat From Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/04/business/india-iran-fuel-glass.html",
+      "title": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 04, 2026 · 01:01 BRT",
-      "pub_date": "2026-05-04",
-      "pub_ts": 1777867296,
+      "published": "May 05, 2026 · 04:07 BRT",
+      "pub_date": "2026-05-05",
+      "pub_ts": 1777964859,
       "summary": "",
       "tags": [
         "extracted",
@@ -8194,87 +8212,92 @@
       "sentiment_success": false
     },
     {
-      "title": "China Seeks an Advantage With Both Trump and Iran as War Evolves - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 03, 2026 · 19:30 BRT",
-      "pub_date": "2026-05-03",
-      "pub_ts": 1777847408,
-      "summary": "With President Trump’s visit to Beijing looming, China is pushing Iran to negotiate even as its companies export material that could be used by Iran’s military.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump Faces the Complicated Reality of a Costly, Unpopular War in Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 03, 2026 · 15:22 BRT",
-      "pub_date": "2026-05-03",
-      "pub_ts": 1777832533,
-      "summary": "President Trump’s predictions of a relatively short-term conflict with minimal economic consequences appear to be crumbling.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 04, 2026 · 06:08 BRT",
+      "title": "Iran War Takes a Dangerous Turn as Fighting Erupts in Hormuz - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-defies-trump-and-tightens-its-grip-on-hormuz-01a4e32b",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "May 04, 2026 · 18:06 BRT",
       "pub_date": "2026-05-04",
-      "pub_ts": 1777885712,
-      "summary": "",
+      "pub_ts": 1777928760,
+      "summary": "The Emirates accused Iran of its first attack during the cease-fire as the U.S. deployed warships and jets to protect vessels in the Strait of Hormuz.",
       "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump: Latest Iran terms unacceptable; US on Monday to start guiding ships out of Hormuz - The Times of Israel",
-      "url": "https://www.timesofisrael.com/trump-said-to-nix-iran-plan-that-aimed-to-end-war-in-month-defer-nuclear-issue/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "May 03, 2026 · 16:13 BRT",
-      "pub_date": "2026-05-03",
-      "pub_ts": 1777835580,
-      "summary": "US president calls Tehran's offer 'not acceptable'; proposal would see Strait of Hormuz open as US lifts blockade, fighting end in Iran and Lebanon, while floating 15-year enrichment ban",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
+        "gfx-contrib",
+        "Asia",
+        "Emerging Market Countries",
+        "Developing Economies",
+        "Iran"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "Two missiles hit US warship trying to enter Strait of Hormuz, Iranian news agency says - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-help-ships-stranded-strait-hormuz-tanker-hit-by-projectiles-2026-05-04/",
+      "title": "Middle East truce in doubt as US and Iran fight for control of Strait of Hormuz - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 03, 2026 · 22:08 BRT",
-      "pub_date": "2026-05-03",
-      "pub_ts": 1777856880,
+      "published": "May 05, 2026 · 06:20 BRT",
+      "pub_date": "2026-05-05",
+      "pub_ts": 1777972821,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Asia battles rising, uneven toll of energy crisis caused by Iran war - Reuters",
+      "url": "https://www.reuters.com/business/energy/asia-battles-rising-uneven-toll-energy-crisis-caused-by-iran-war-2026-05-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 04, 2026 · 20:03 BRT",
+      "pub_date": "2026-05-04",
+      "pub_ts": 1777935780,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US restaurant sales drop as Iran war pushes gasoline prices higher - Reuters",
+      "url": "https://www.reuters.com/world/us/us-restaurant-sales-drop-iran-war-pushes-gasoline-prices-higher-2026-05-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 04, 2026 · 16:33 BRT",
+      "pub_date": "2026-05-04",
+      "pub_ts": 1777923217,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "German firms abroad grow more pessimistic as Iran war disrupts supply chains - Reuters",
+      "url": "https://www.reuters.com/business/german-firms-abroad-grow-more-pessimistic-iran-war-disrupts-supply-chains-2026-05-05/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 05, 2026 · 04:39 BRT",
+      "pub_date": "2026-05-05",
+      "pub_ts": 1777966784,
       "summary": "",
       "tags": [
         "extracted",
@@ -13800,7 +13823,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-04T11:07:07.929875+00:00",
-  "last_watch_time": "2026-05-04T11:07:17.886564+00:00",
-  "last_relevant_time": "2026-05-04T11:07:18.359498+00:00"
+  "last_digest_time": "2026-05-05T11:07:05.007934+00:00",
+  "last_watch_time": "2026-05-05T11:07:18.838409+00:00",
+  "last_relevant_time": "2026-05-05T11:07:22.845961+00:00"
 }

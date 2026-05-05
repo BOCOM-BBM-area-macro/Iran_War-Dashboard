@@ -8114,6 +8114,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-05"
+    },
+    "https://www.reuters.com/world/india/india-throws-diet-coke-parties-iran-war-disrupts-supplies-2026-05-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
     }
   },
   "last_run_success": true,
@@ -8273,6 +8293,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Column | It’s the worst time to buy gas — and the best time to buy an electric car - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRU9GeUJ4eUlOTGtCNFFhM0JRczlVcXNwSjA4X0tER2xxQ1FZaVMtOGFIeGowZlBmMnVUQ3gweUhGeTlqeV9QVjR5bDdRRk11NmZlTEtvdXpDY2RYXzB3SHA3M1dPeG9tenVGTmgtWnI4c3FWVFp1T0JnLUhScnNyS0puUUdYV1RBOHlHZlRhZ0pBN0lvc1Bzd1B2MnNiUQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 05, 2026 · 06:02 BRT",
+          "pub_date": "2026-05-05",
+          "pub_ts": 1777971722,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5",

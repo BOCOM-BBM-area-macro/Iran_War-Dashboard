@@ -7312,7 +7312,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-04"
+      "pub_date": "2026-05-03"
     },
     "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html": {
       "summary": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
@@ -8034,6 +8034,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
+    },
+    "https://www.wsj.com/business/retail/hugo-boss-backs-prospects-but-warns-of-challenging-landscape-due-to-iran-war-631fd48f": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11025,6 +11045,20 @@
           "published": "Apr 28, 2026 · 16:34 BRT",
           "pub_date": "2026-04-28",
           "pub_ts": 1777404849,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "South Africa extends fuel tax cuts to cushion Iran war impact - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkd4VGxaUTBZdVBFMmNhM1JJSTlrM1pId203UkRLVTY3d1BfXzl2SkR6RmNrVGhkaDJQZ3ByTUVmNkk4U2ZqOVd0VjI1a1FzSHBfdDdpZDJmVW5heWR2blRFVVJWaU9vUm4xUzVJalc3eGN0N3ZNQUpHV3RMcEl0N1VBOXZfT0hZX0hhd2lEbVlfYlNIRU5HcXQ0YnVna0JPdGU4ZTV4X2pZY2JfY2FZYVpmM0NyeUNrNXUw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Apr 28, 2026 · 12:56 BRT",
+          "pub_date": "2026-04-28",
+          "pub_ts": 1777391792,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -7878,7 +7878,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-04"
+      "pub_date": "2026-05-05"
     },
     "https://www.reuters.com/world/middle-east/us-intelligence-indicates-limited-new-damage-irans-nuclear-program-sources-say-2026-05-04/": {
       "summary": "",
@@ -7961,7 +7961,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-04"
+      "pub_date": "2026-05-05"
     },
     "https://www.jpost.com/middle-east/iran-news/article-895128": {
       "summary": "The IMF issued three scenarios for global GDP amid uncertainty over the war in the Middle East: the main \"reference forecast,\" a middle \"adverse scenario,\" and a much worse \"severe scenario.\"",
@@ -7981,6 +7981,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-04"
+    },
+    "https://www.bloomberg.com/news/videos/2026-05-05/focus-on-cyclical-structural-impacts-manulife-im-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8144,6 +8154,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump Tries to Downplay Economic Effects of the Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OenNtOF8tV1JUQXI1M0l5NEtLVU5fNUNNdXNSN0plUWc5WXhPbmFRVXpMQlhBRUE1Z2pJS2tlaUxLRDVYZDYwekh4Z1dqSVEycWM4OUppV3ZuSlU2bkZmdy1OQk91RHRmVDd2VElMRkl0c1NBV1Vtc3d1RWNFZ3M?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 04, 2026 · 22:40 BRT",
+          "pub_date": "2026-05-04",
+          "pub_ts": 1777945206,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Asia battles rising, uneven toll of energy crisis caused by Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTVmYjdyQ1lEUGsya0U0R0JXdDNlZFRJeks1M1JkZDNHaTdRVkc2RHh0eXdlSFpsbVducndkcFBJb2ExSGNqZmF1a0tFTnFQNlFaYzBzUXpEcnNXXy15MzlxLU9LdXRPWWhhOUhST24wUElwb0JQcFpsWmJ4TTQ2Q2tQajR3eENaUDlvR2NTcTJjazE5LW4wSU5QVnVaSWE5THc4S3M4Y0V5NzhlbU9lUmFVSkpmeUU?oc=5",

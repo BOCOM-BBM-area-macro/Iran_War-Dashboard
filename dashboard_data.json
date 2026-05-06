@@ -8004,7 +8004,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-05"
+      "pub_date": "2026-05-06"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-05-05/live-updates-895134": {
       "summary": "US sinks Iranian small boats, shoots down missiles, drones in Strait • IMF warns of 'much worse outcome' if Mideast war persists • Iran alleges US strike on civilian boats",
@@ -8406,6 +8406,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-06/equinor-profit-beats-estimates-as-iran-war-drives-price-surge": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

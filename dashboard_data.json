@@ -8523,154 +8523,163 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-06"
+    },
+    "https://www.reuters.com/world/asia-pacific/pakistani-source-confirms-us-iran-closing-one-page-memo-end-war-2026-05-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.reuters.com/world/europe/iran-war-pauses-global-easing-push-by-central-banks-april-2026-05-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-05",
-  "last_generated_time": "2026-05-05T23:01:52.230479+00:00",
+  "last_generated_date": "2026-05-06",
+  "last_generated_time": "2026-05-06T08:01:50.539632+00:00",
   "digest": {
-    "digest": "Recent events indicate a significant escalation in the Iran War, with reports of missile and drone threats in the UAE and attacks on U.S. warships in the Strait of Hormuz. The U.S. has responded by deploying warships and jets to protect vessels in the strategically vital waterway, testing President Trump's stated desire to end the conflict. Despite these developments, President Trump has attempted to downplay the economic effects, predicting a decrease in gas prices and describing the U.S. economy as \"roaring.\" However, this assertion is challenged by reports of crumbling predictions regarding minimal economic consequences and the war's costly and unpopular nature. The timeline for Iran to develop a nuclear weapon appears to be minimally impacted by recent strikes, suggesting that impeding Tehran's nuclear ambitions may require more direct action on its enriched uranium stockpile. International allies are exhibiting diverging stances on the conflict, as evidenced by disputes between UK and US Treasury officials. The war's impact is extending globally, with rising fuel prices affecting industries in India and contributing to a drop in U.S. restaurant sales, while Asian economies battle an uneven energy crisis and German firms abroad grow more pessimistic due to disrupted supply chains. Israel has reportedly assisted the UAE in defending against Iranian retaliatory attacks using its Iron Dome missile defense system.",
+    "digest": "Reports indicate that the United States and Iran are nearing a one-page memorandum of understanding to end the ongoing conflict, with a response expected within 48 hours. Key proposed terms include the mutual lifting of blockades in the Strait of Hormuz, the US lifting sanctions on Iran, and Iran committing to a 15-year moratorium on nuclear enrichment. Concurrently, the White House has asserted that the Iran war is over, despite ongoing missile and drone threats. U.S. warships intercepted missiles and drones targeting vessels being guided through the Strait of Hormuz, with the UAE attributing a drone attack to Iran. President Trump has reportedly ordered a pause on efforts to reopen the Strait of Hormuz, while simultaneously boosting efforts to end the war. China has engaged in diplomatic talks, calling for the opening of the Strait of Hormuz and warning against the resumption of hostilities. The conflict has also amplified divisions within political parties regarding U.S.-Israel ties and has had notable economic consequences, including a slight boost to thermal coal prices and a pause in the global easing push by central banks in April, though some retailers have lifted outlooks despite associated costs.",
     "top_themes": [
-      "Escalation in the Strait of Hormuz",
-      "Economic repercussions of the Iran War",
-      "US-Iran diplomatic tensions",
-      "Iran's nuclear program status",
-      "International impact of the conflict"
+      "Diplomatic Negotiations",
+      "Strait of Hormuz Tensions",
+      "Economic Impacts"
     ],
     "next_events": [
       {
-        "title": "Escalation in the Strait of Hormuz",
-        "description": "Recent reports indicate renewed fighting and threats to shipping in the Strait of Hormuz, a critical global choke point. Analysts should monitor any further attacks on U.S. or allied vessels, the deployment of additional military assets, and the effectiveness of U.S. efforts to guide ships, as these events could signal a significant escalation of the conflict."
+        "title": "Outcome of US-Iran Memorandum of Understanding (MOU)",
+        "description": "Multiple reports indicate the US and Iran are nearing a one-page memo to end the war, with a response expected within 48 hours. Analysts should watch for official confirmation of this agreement, its specific terms regarding sanctions relief, Iran's enrichment moratorium, and the lifting of Strait of Hormuz blockades, as well as the commencement of the proposed 30 days of nuclear talks."
       },
       {
-        "title": "Global Economic Fallout and Energy Market Volatility",
-        "description": "The Iran War is already causing significant economic strain, including rising fuel prices, supply chain disruptions, and business closures across Asia, Europe, and the U.S. Analysts must track global energy prices, inflation rates, and the performance of key industries to assess the war's escalating impact on the world economy and consumer behavior."
+        "title": "Strait of Hormuz Security and Shipping Status",
+        "description": "The Strait of Hormuz remains a critical flashpoint, with recent reports of missile and drone threats and US warships guiding vessels. It is crucial to monitor for any further incidents, changes in US naval presence, and whether the 'blockades' mentioned in potential agreements are lifted, especially given Trump's previous order to pause efforts to reopen the Strait."
       },
       {
-        "title": "Iran's Nuclear Ambitions and Program Development",
-        "description": "Despite reported U.S.-Israeli strikes, sources indicate Iran's nuclear weapon timeline has not been significantly set back. Analysts should closely monitor intelligence reports regarding Iran's enrichment levels, stockpile of highly enriched uranium, and any diplomatic overtures or negotiations aimed at curbing its nuclear program, as this remains a central driver of regional tension."
+        "title": "Developments in Iran's Nuclear Program and Negotiations",
+        "description": "A key component of any de-escalation involves Iran's nuclear activities, with a potential 15-year moratorium on enrichment and 30 days of nuclear talks on the table. Analysts should observe if these talks commence, the nature of the discussions, and Iran's adherence to any agreed-upon limits on its enrichment program."
       },
       {
-        "title": "U.S. Policy and Diplomatic vs. Military Posture",
-        "description": "President Trump's administration appears torn between a desire to negotiate an end to Iran's nuclear ambitions and responding to attacks on U.S. assets. Analysts should watch for shifts in U.S. rhetoric, any concrete steps towards renewed negotiations, or further military deployments and retaliatory actions, which will indicate the future direction of U.S. engagement in the conflict."
-      },
-      {
-        "title": "Regional Defense Cooperation and Alliance Strain",
-        "description": "The deployment of Israeli Iron Dome to defend the UAE highlights evolving regional defense cooperation against Iranian threats. Simultaneously, disputes between allies like the U.S. and UK suggest diverging stances. Analysts should observe further instances of military aid, joint defense exercises, and any public disagreements among international partners, as these will shape the collective response to Iran."
+        "title": "Evolution of US Sanctions Policy Against Iran",
+        "description": "Economic pressure through sanctions has been a central strategy, with the potential for sanctions removal being a major concession in any agreement. Watch for any announcements from the US regarding the lifting of existing sanctions or the imposition of new ones, which will significantly impact Iran's willingness to negotiate and adhere to agreements."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+      "title": "Exclusive: U.S. and Iran closing in on one-page memo to end war, officials say - Axios",
+      "url": "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "May 06, 2026 · 06:59 BRT",
+      "pub_date": "2026-05-06",
+      "pub_ts": 1778061558,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "White House Insists Iran War Is Over, Even While Missiles Fly - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 05, 2026 · 04:07 BRT",
+      "published": "May 05, 2026 · 22:21 BRT",
       "pub_date": "2026-05-05",
-      "pub_ts": 1777964859,
-      "summary": "",
+      "pub_ts": 1778030507,
+      "summary": "The White House is turning to rhetorical leaps as President Trump tries to put the biggest political crisis of his presidency behind him.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iran War Takes a Dangerous Turn as Fighting Erupts in Hormuz - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-defies-trump-and-tightens-its-grip-on-hormuz-01a4e32b",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "May 04, 2026 · 18:06 BRT",
-      "pub_date": "2026-05-04",
-      "pub_ts": 1777928760,
-      "summary": "The Emirates accused Iran of its first attack during the cease-fire as the U.S. deployed warships and jets to protect vessels in the Strait of Hormuz.",
-      "tags": [
-        "gfx-contrib",
-        "Asia",
-        "Emerging Market Countries",
-        "Developing Economies",
-        "Iran"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Middle East truce in doubt as US and Iran fight for control of Strait of Hormuz - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 05, 2026 · 06:20 BRT",
+      "title": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 05, 2026 · 22:52 BRT",
       "pub_date": "2026-05-05",
-      "pub_ts": 1777972821,
-      "summary": "",
+      "pub_ts": 1778032320,
+      "summary": "U.S. warships shot down missiles and drones aimed at ships the Navy was guiding through the Strait of Hormuz, and the authorities in the United Arab Emirates blamed Iran for a drone attack.",
       "tags": [
         "extracted",
-        "reuters.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Asia battles rising, uneven toll of energy crisis caused by Iran war - Reuters",
-      "url": "https://www.reuters.com/business/energy/asia-battles-rising-uneven-toll-energy-crisis-caused-by-iran-war-2026-05-04/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 04, 2026 · 20:03 BRT",
-      "pub_date": "2026-05-04",
-      "pub_ts": 1777935780,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US restaurant sales drop as Iran war pushes gasoline prices higher - Reuters",
-      "url": "https://www.reuters.com/world/us/us-restaurant-sales-drop-iran-war-pushes-gasoline-prices-higher-2026-05-04/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 04, 2026 · 16:33 BRT",
-      "pub_date": "2026-05-04",
-      "pub_ts": 1777923217,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "German firms abroad grow more pessimistic as Iran war disrupts supply chains - Reuters",
-      "url": "https://www.reuters.com/business/german-firms-abroad-grow-more-pessimistic-iran-war-disrupts-supply-chains-2026-05-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 05, 2026 · 04:39 BRT",
+      "title": "Trump Looks for a Silver Bullet to End the Iran War. There May Be None. - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 05, 2026 · 18:42 BRT",
       "pub_date": "2026-05-05",
-      "pub_ts": 1777966784,
+      "pub_ts": 1778017352,
+      "summary": "The president is trying to ratchet up the economic pressure on Tehran, but Iran’s government is unlikely to make a deal without a big, face-saving compromise.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump orders military to pause effort to reopen the Strait of Hormuz - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/05/hegseth-briefing-iran-strait-hormuz-ceasefire/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "May 06, 2026 · 07:09 BRT",
+      "pub_date": "2026-05-06",
+      "pub_ts": 1778062179,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US Boosts Efforts to End Iran War as Trump Suspends Hormuz Plan - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/us-boosts-efforts-to-end-iran-war-as-trump-suspends-hormuz-plan",
+      "source": "Bloomberg",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 06, 2026 · 06:22 BRT",
+      "pub_date": "2026-05-06",
+      "pub_ts": 1778059334,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -8694,6 +8703,20 @@
           "published": "May 06, 2026 · 01:31 BRT",
           "pub_date": "2026-05-06",
           "pub_ts": 1778041887,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices slump after US reported to be close to framework deal to end Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeTlLU0pJT2ZwQnowa3g0eVA4RmtVS0h5blNONUR2ZjNndlhNaXFSam9pUWRMcGpzR3dobWQ0UFJ0N1JxZzVUNFdDbXlVZXcxOXJ0N0FvdmxGTGJuQlNfVF9iMmFpOFA5UnZpbTZLcWpGMld4anpxRzRNYlQ4dUtvQnVwclY4dlFTMHV1R0MtelJjM2pNSnFJUUJKdWNIRG90WERXSFlJM0ljVzdoY0xTQ1plU3Q?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 05, 2026 · 20:11 BRT",
+          "pub_date": "2026-05-05",
+          "pub_ts": 1778022660,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -14360,7 +14383,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-05T11:07:05.007934+00:00",
-  "last_watch_time": "2026-05-05T11:07:18.838409+00:00",
-  "last_relevant_time": "2026-05-05T11:07:22.845961+00:00"
+  "last_digest_time": "2026-05-06T11:07:20.619709+00:00",
+  "last_watch_time": "2026-05-06T11:07:49.135265+00:00",
+  "last_relevant_time": "2026-05-06T11:07:52.453081+00:00"
 }

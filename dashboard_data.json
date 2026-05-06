@@ -6688,8 +6688,8 @@
         "extracted",
         "axios.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-05-01"
     },
     "https://www.ft.com/content/a19bb32b-c00a-43e5-a7e4-b0088e7aacc7?syn-25a6b1a6=1": {
@@ -7525,8 +7525,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-05-04"
     },
     "https://www.ft.com/content/c38d86b3-81fc-46fd-af0e-7b66e140676b?syn-25a6b1a6=1": {
@@ -7946,8 +7946,8 @@
         "extracted",
         "wsj.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-05-04"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-05-04/live-updates-895011": {
@@ -8676,11 +8676,31 @@
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-05-06"
+    },
+    "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-says-hes-giving-iran-a-one-week-deadline-to-reach-agreement-on-ending-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-06"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-06",
-  "last_generated_time": "2026-05-06T16:39:28.648310+00:00",
+  "last_generated_time": "2026-05-06T17:02:02.516804+00:00",
   "digest": {
     "digest": "Reports indicate that the United States and Iran are nearing a one-page memorandum of understanding to end the ongoing conflict, with a response expected within 48 hours. Key proposed terms include the mutual lifting of blockades in the Strait of Hormuz, the US lifting sanctions on Iran, and Iran committing to a 15-year moratorium on nuclear enrichment. Concurrently, the White House has asserted that the Iran war is over, despite ongoing missile and drone threats. U.S. warships intercepted missiles and drones targeting vessels being guided through the Strait of Hormuz, with the UAE attributing a drone attack to Iran. President Trump has reportedly ordered a pause on efforts to reopen the Strait of Hormuz, while simultaneously boosting efforts to end the war. China has engaged in diplomatic talks, calling for the opening of the Strait of Hormuz and warning against the resumption of hostilities. The conflict has also amplified divisions within political parties regarding U.S.-Israel ties and has had notable economic consequences, including a slight boost to thermal coal prices and a pause in the global easing push by central banks in April, though some retailers have lifted outlooks despite associated costs.",
     "top_themes": [

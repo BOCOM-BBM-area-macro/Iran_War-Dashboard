@@ -8470,6 +8470,59 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-06"
+    },
+    "https://www.reuters.com/world/middle-east/us-iran-closing-one-page-memo-end-war-axios-reports-2026-05-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/axios-us-and-iran-nearing-one-page-mou-to-end-war-start-30-days-of-nuclear-talks/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-06/us-boosts-efforts-to-end-iran-war-as-trump-suspends-hormuz-plan": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-895294": {
+      "summary": "Key points include both countries lifting their respective blockades of the Strait of Hormuz in exchange for the US removing sanctions and Iran committing to a 15-year moratorium on enrichment.",
+      "tags": [
+        "Iran",
+        "uranium",
+        "Pakistan",
+        "iran negotiations",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.washingtonpost.com/politics/2026/05/06/israel-political-division-democrats-republicans/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
     }
   },
   "last_run_success": true,
@@ -8632,6 +8685,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Falls as Trump Changes Course in Gulf, but U.S. Gasoline Keeps Rising - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJTTlUejdpTXN6c1pKWExmaGdTVXNuQVE5eTZTM2FGVjdaYWRJQkhDeVEzeUMzUS1sdGFXb1BlLUd5SG5uOEdrUmtRQXZMVVBMOXNCaFM4ekE4ZXhlRjcxWUtaUXVxT3NFNkF2ZmxyTWp4ME44LXc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 06, 2026 · 01:31 BRT",
+          "pub_date": "2026-05-06",
+          "pub_ts": 1778041887,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Marathon Petroleum profit beats estimates as Iran war boosts refining margins - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTJNaDcyNFpURFppT0FIVXVsNFVtRkJWNkplT1NZWnpHeEx2T2h6TjVBUkdodC16MlJ1ODhZcTFlS29lcFN5eFVjLU1jb2R0T2lkUmRYbF9jRWl2alB2dkVRVmZ3TW82NFpyY01wRHFITDE5TnFDcnJQUDhtLV9ZdDZuS0lTeHM2cE1SWTlYZjBUYXFzTWhzYnFfS19aZm45ZVMzeTd0R3BMYjlEM3RnQkYzY2xPUXRyOEFDSGRCRjJkQ2dMcWRKbQ?oc=5",
@@ -14014,6 +14081,20 @@
           "title": "Chinese Metals Demand Gets Lift as Mideast War Spurs Export Boom - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUl9GOFFUQzEwa1FFSmFxa1FJaWZuU2VlZmt1eWlnNGdDeTV5eTFMenhNeTlZZWNCeHVmeVZtWUxMYTdJN3pxMHhaSGh4RXFkZnhzLS10ekVBcXdUY2VsWVFRbEpNRjhNUllVRjI3Zk1Td3c4cmpTZU1ySE51d01EYlNYMVJ4WFJwNWlHcUJEUW5IRjhzUEpBZGZXZU43bklIbmVfZUp5SHhMdUQ1WWYwdUs4Q041UQ?oc=5",
           "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 05, 2026 · 23:35 BRT",
+          "pub_date": "2026-05-05",
+          "pub_ts": 1778034900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Chinese Metals Demand Gets Lift as Mideast War Spurs Export Boom - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVUdxcGlBTDBaYjktaHFkc0oxZHpYYkk4RndEOVEtTG0tcE1PeS0wdHFCQXdEWXFXOU9DT0RBRmRDRm5IMzVqT0tjV1VtZTF6Vy12YkVNLVJSejVraDNDR1pkZF9Gb3FYZ3ZlYUZRSU5EQjg4MEJWcW93TG55LTNxUUhZazBYQzdtZTlTcHVXal91N0ZsZzNaQkdYMDZPNGIwYVhuS3VCWXBUQk1URTZNNWE4S0lnbGZLOFJZV1d6NTh2SkhOc2VnUXZlX1otY3lHQ3c?oc=5",
+          "source": "Bloomberg",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
           "published": "May 05, 2026 · 23:35 BRT",

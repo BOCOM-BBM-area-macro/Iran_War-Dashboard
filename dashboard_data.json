@@ -8460,6 +8460,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-06"
+    },
+    "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-06"
     }
   },
   "last_run_success": true,
@@ -12809,6 +12819,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Israel to supply Germany with jet fuel amid shortages caused by Iran war - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qeUR4eUZyMjE3T2FHZXRxeDdYa3VyRWV1ejhEeGQwblZtLWY4QWh5SW9oWTk3eXNyVTdwaGhlVHpHc2ZMQTRaR3pZNTZoTVBKNllZUTJfc3ZPeWF2?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 06, 2026 · 05:58 BRT",
+          "pub_date": "2026-05-06",
+          "pub_ts": 1778057927,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Should you be worried about jet fuel shortages in Europe this summer? - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamdSNHdhWkJXeTRNa1NROG9xY2gzU3RhQ0dBQkpraFU3eHRmeVVnTG5GclBxRlpwZ1NaOUV0VEp6ZVZzVDFybncxNjF1NGowU0Z6T1BtTzltS1RIRWpVZVFQSWx6RGo2VmVRV2hyeHdGNWFwX3VHZ1hkWmZrdkZ5a2htWlgtQjJtdUE?oc=5",

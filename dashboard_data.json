@@ -8696,11 +8696,41 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-06"
+    },
+    "https://www.reuters.com/business/energy/occidental-scraps-new-oil-hedges-iran-war-fuels-price-volatility-2026-05-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.axios.com/2026/05/06/trump-iran-war-deal-framework-response": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.reuters.com/business/feds-goolsbee-says-iran-war-impact-looking-more-like-an-inflationary-shock-2026-05-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-06"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-06",
-  "last_generated_time": "2026-05-06T17:02:02.516804+00:00",
+  "last_generated_time": "2026-05-06T18:02:00.015778+00:00",
   "digest": {
     "digest": "Reports indicate that the United States and Iran are nearing a one-page memorandum of understanding to end the ongoing conflict, with a response expected within 48 hours. Key proposed terms include the mutual lifting of blockades in the Strait of Hormuz, the US lifting sanctions on Iran, and Iran committing to a 15-year moratorium on nuclear enrichment. Concurrently, the White House has asserted that the Iran war is over, despite ongoing missile and drone threats. U.S. warships intercepted missiles and drones targeting vessels being guided through the Strait of Hormuz, with the UAE attributing a drone attack to Iran. President Trump has reportedly ordered a pause on efforts to reopen the Strait of Hormuz, while simultaneously boosting efforts to end the war. China has engaged in diplomatic talks, calling for the opening of the Strait of Hormuz and warning against the resumption of hostilities. The conflict has also amplified divisions within political parties regarding U.S.-Israel ties and has had notable economic consequences, including a slight boost to thermal coal prices and a pause in the global easing push by central banks in April, though some retailers have lifted outlooks despite associated costs.",
     "top_themes": [
@@ -8847,6 +8877,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Occidental scraps new oil hedges as Iran war fuels price volatility - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUW5Vcjh3UDVJQWNxSVM4dklJWEZnTlNSNTJSQ1BMWEhtSl9oT0JYWnFHdEltT0doRWY4U2l0TkdEa3VkY1ZqWkctME41Z1dtLVJmWmVxMTJ4QWt4b1ZBVTl0Z09BV1lDV3VRTWhJd2U0bEJ4M09KbDNweWx6d05JMU1UN29vaURZNTVFOEM3bFI3LW41UDVGNkpESHFOVS1ROXl3YkQyQmZDZ2xkc1ctcmktdDdYMmc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 06, 2026 · 16:37 BRT",
+          "pub_date": "2026-05-06",
+          "pub_ts": 1778096263,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWtjUGhXNHg4b19EcGdMUjVFeElmZTVLcF93LXBET3ZHVjJVOU92ckRSRm5jb0Zrbllta2NfbEVLVVhZSUx3MWNrTmRUVlZtT2trTm91anJndGZ3UUhKRWhubkItY1VEdnZ5Q2FQdGZTcUp0M3Q4bWpxTEUtSFBLTkhMdW1tVWw0U2QwNg?oc=5",

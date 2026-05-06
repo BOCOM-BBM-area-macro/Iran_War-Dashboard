@@ -8309,7 +8309,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-05"
+      "pub_date": "2026-05-06"
     },
     "https://www.timesofisrael.com/liveblog_entry/rubio-says-iran-war-has-concluded-insists-us-accomplished-its-operational-aims/": {
       "summary": "",
@@ -8380,6 +8380,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-06"
+    },
+    "https://www.ft.com/content/2dc28c0c-ff06-4eea-bd19-60939c0da9bb": {
+      "summary": "Increased priority on security of power supply might see some countries continue to rely on fossil fuels",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-05"
     }
   },
   "last_run_success": true,

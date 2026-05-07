@@ -8958,34 +8958,68 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-07"
+    },
+    "https://www.reuters.com/sustainability/boards-policy-regulation/wall-street-bonuses-seen-flat-slightly-positive-2026-iran-war-private-credit-2026-05-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
+    },
+    "https://www.nytimes.com/2026/05/07/world/middleeast/world-in-waiting-game-over-iran-peace-proposal-response.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-07/saudi-wealth-fund-to-sell-first-dollar-bonds-since-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-06",
-  "last_generated_time": "2026-05-06T23:01:49.969711+00:00",
+  "last_generated_date": "2026-05-07",
+  "last_generated_time": "2026-05-07T08:01:45.555844+00:00",
   "digest": {
-    "digest": "Reports indicate that the United States and Iran are nearing a one-page memorandum of understanding to end the ongoing conflict, with a response expected within 48 hours. Key proposed terms include the mutual lifting of blockades in the Strait of Hormuz, the US lifting sanctions on Iran, and Iran committing to a 15-year moratorium on nuclear enrichment. Concurrently, the White House has asserted that the Iran war is over, despite ongoing missile and drone threats. U.S. warships intercepted missiles and drones targeting vessels being guided through the Strait of Hormuz, with the UAE attributing a drone attack to Iran. President Trump has reportedly ordered a pause on efforts to reopen the Strait of Hormuz, while simultaneously boosting efforts to end the war. China has engaged in diplomatic talks, calling for the opening of the Strait of Hormuz and warning against the resumption of hostilities. The conflict has also amplified divisions within political parties regarding U.S.-Israel ties and has had notable economic consequences, including a slight boost to thermal coal prices and a pause in the global easing push by central banks in April, though some retailers have lifted outlooks despite associated costs.",
+    "digest": "Recent reports indicate that the United States and Iran are nearing a one-page memo aimed at de-escalating the ongoing conflict, with both sides exchanging conflicting messages regarding the state of negotiations. President Trump has described recent talks as \"very good,\" while an Iranian official stated an American proposal is under review. This potential short-term deal to end the fighting has been a focal point, with the world awaiting Iran's response to a peace proposal. The conflict continues to have significant economic repercussions, including boosted profits for energy companies like Shell due to higher oil prices and trading opportunities, though some companies face production challenges and increased input costs. The war is also impacting financial markets, with projections for flat to slightly positive Wall Street bonuses in 2026 and the Saudi Wealth Fund preparing to issue dollar bonds for the first time since the war began. Political discourse surrounding the war remains active, with discussions on its impact on voter sentiment and its influence on international meetings, such as the upcoming summit between Presidents Trump and Xi. The US administration has also shown signs of strategic shifts, including pausing a plan to assist ships exiting the Strait of Hormuz, leading to confusion about its objectives.",
     "top_themes": [
-      "Diplomatic Negotiations",
-      "Strait of Hormuz Tensions",
-      "Economic Impacts"
+      "Iran War Negotiations",
+      "Economic Impacts of Iran War",
+      "US-Iran Diplomatic Stance"
     ],
     "next_events": [
       {
-        "title": "Outcome of US-Iran Memorandum of Understanding (MOU)",
-        "description": "Multiple reports indicate the US and Iran are nearing a one-page memo to end the war, with a response expected within 48 hours. Analysts should watch for official confirmation of this agreement, its specific terms regarding sanctions relief, Iran's enrichment moratorium, and the lifting of Strait of Hormuz blockades, as well as the commencement of the proposed 30 days of nuclear talks."
+        "title": "US-Iran Peace Deal Progress and Details",
+        "description": "Multiple reports indicate the US and Iran are nearing or reviewing a proposal to end the war, despite conflicting messages. Analysts should closely monitor official statements, the specific terms of any agreement, and the timeline for implementation, as this will dictate the immediate future of the conflict and regional stability."
       },
       {
-        "title": "Strait of Hormuz Security and Shipping Status",
-        "description": "The Strait of Hormuz remains a critical flashpoint, with recent reports of missile and drone threats and US warships guiding vessels. It is crucial to monitor for any further incidents, changes in US naval presence, and whether the 'blockades' mentioned in potential agreements are lifted, especially given Trump's previous order to pause efforts to reopen the Strait."
+        "title": "Global Economic Repercussions of a Potential Peace Deal",
+        "description": "The potential end of the Iran war carries significant economic implications, from a possible 'trapdoor' for the dollar to shifts in oil prices and corporate profits. Watch for immediate market reactions, changes in commodity prices, and how major economies and corporations adjust to a post-conflict energy and financial landscape."
       },
       {
-        "title": "Developments in Iran's Nuclear Program and Negotiations",
-        "description": "A key component of any de-escalation involves Iran's nuclear activities, with a potential 15-year moratorium on enrichment and 30 days of nuclear talks on the table. Analysts should observe if these talks commence, the nature of the discussions, and Iran's adherence to any agreed-upon limits on its enrichment program."
+        "title": "Regional Security Dynamics Post-Agreement",
+        "description": "Despite potential peace talks, regional tensions persist, including Israeli strikes and concerns over the Strait of Hormuz. Analysts should observe how a peace deal impacts the broader Mideast standoff, the security of critical shipping lanes, and the reactions of other regional actors to the new geopolitical reality."
       },
       {
-        "title": "Evolution of US Sanctions Policy Against Iran",
-        "description": "Economic pressure through sanctions has been a central strategy, with the potential for sanctions removal being a major concession in any agreement. Watch for any announcements from the US regarding the lifting of existing sanctions or the imposition of new ones, which will significantly impact Iran's willingness to negotiate and adhere to agreements."
+        "title": "Political Fallout and Election Impact in the US",
+        "description": "The Iran war has been a significant factor in US domestic politics, affecting voter sentiment and presidential standing. Monitor how any resolution or continued stalemate influences public opinion, the rhetoric of political candidates, and its role in the upcoming election cycles, particularly for figures like Trump and Vance."
+      },
+      {
+        "title": "Energy Market Shifts and Clean Energy Investment",
+        "description": "The war has significantly boosted oil prices and trading profits for energy companies, while also showing new signs of boosting clean energy. Analysts should track how a potential peace deal impacts global oil supply and demand, the trajectory of energy prices, and the long-term investment trends in the clean energy sector."
       }
     ]
   },
@@ -8996,110 +9030,114 @@
       "source": "Axios",
       "domain": "axios.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "May 06, 2026 · 06:59 BRT",
+      "published": "May 06, 2026 · 16:57 BRT",
       "pub_date": "2026-05-06",
-      "pub_ts": 1778061558,
+      "pub_ts": 1778097439,
       "summary": "",
       "tags": [
         "extracted",
         "axios.com"
       ],
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": true
     },
     {
-      "title": "White House Insists Iran War Is Over, Even While Missiles Fly - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
+      "title": "Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 05, 2026 · 22:21 BRT",
-      "pub_date": "2026-05-05",
-      "pub_ts": 1778030507,
-      "summary": "The White House is turning to rhetorical leaps as President Trump tries to put the biggest political crisis of his presidency behind him.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 05, 2026 · 22:52 BRT",
-      "pub_date": "2026-05-05",
-      "pub_ts": 1778032320,
-      "summary": "U.S. warships shot down missiles and drones aimed at ships the Navy was guiding through the Strait of Hormuz, and the authorities in the United Arab Emirates blamed Iran for a drone attack.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump Looks for a Silver Bullet to End the Iran War. There May Be None. - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 05, 2026 · 18:42 BRT",
-      "pub_date": "2026-05-05",
-      "pub_ts": 1778017352,
-      "summary": "The president is trying to ratchet up the economic pressure on Tehran, but Iran’s government is unlikely to make a deal without a big, face-saving compromise.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump orders military to pause effort to reopen the Strait of Hormuz - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/05/05/hegseth-briefing-iran-strait-hormuz-ceasefire/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 06, 2026 · 07:09 BRT",
+      "published": "May 06, 2026 · 23:08 BRT",
       "pub_date": "2026-05-06",
-      "pub_ts": 1778062179,
+      "pub_ts": 1778119736,
+      "summary": "President Trump said his administration had had “very good talks” with Tehran in the last 24 hours. An Iranian official said an American plan to end the war was under review. Israel struck targets near Beirut.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "sentiment_success": true
+    },
+    {
+      "title": "US and Iran inch towards short-term deal to end fighting - Reuters",
+      "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 07, 2026 · 01:00 BRT",
+      "pub_date": "2026-05-07",
+      "pub_ts": 1778126400,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "reuters.com"
+      ],
+      "sentiment": "positive",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Iran Says It Is Reviewing a U.S. Proposal to End the War - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 06, 2026 · 18:02 BRT",
+      "pub_date": "2026-05-06",
+      "pub_ts": 1778101343,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": true
     },
     {
-      "title": "US Boosts Efforts to End Iran War as Trump Suspends Hormuz Plan - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/us-boosts-efforts-to-end-iran-war-as-trump-suspends-hormuz-plan",
-      "source": "Bloomberg",
+      "title": "US, Iran Weigh Potential Deal as Trump Seeks Way Out of War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/iran-evaluating-us-proposal-to-end-war-as-china-calls-for-peace",
+      "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "May 06, 2026 · 06:22 BRT",
+      "published": "May 06, 2026 · 22:36 BRT",
       "pub_date": "2026-05-06",
-      "pub_ts": 1778059334,
+      "pub_ts": 1778117760,
+      "summary": "The US and Iran were circling around a fresh proposal to end the war on Wednesday, as President Donald Trump searches for an exit from a conflict that has elevated energy prices and damaged his political standing.",
+      "tags": [
+        "Iran",
+        "Donald John Trump",
+        "War",
+        "WAY OUT/THE",
+        "Generic 1st 'CL' Future"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": true
+    },
+    {
+      "title": "World in Waiting Game Over Iran Peace Proposal Response - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/07/world/middleeast/world-in-waiting-game-over-iran-peace-proposal-response.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 07, 2026 · 07:10 BRT",
+      "pub_date": "2026-05-07",
+      "pub_ts": 1778148613,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": true
     }
   ],
   "last_digest_success": true,
@@ -9118,6 +9156,20 @@
           "published": "May 07, 2026 · 03:38 BRT",
           "pub_date": "2026-05-07",
           "pub_ts": 1778135880,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Prices Slide on Hopes for Renewed Peace Talks - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TFFlV1huSTRfMWhodUtRU1E5MzZ6SG1VVG5fOEdzT2NWVl9pcklPQkJVc05pQ1ZXN3pHVkE2MW4zR3dGcnRMNWl6YU9TOTl0T3hMS3lkZDNLRHgycy14MXRLVThJQkI2ME51UTA4R3hPYlNqYlE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 07, 2026 · 03:33 BRT",
+          "pub_date": "2026-05-07",
+          "pub_ts": 1778135626,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -14240,6 +14292,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "Grain dispute splits Ukraine and Israel even as they fight allied enemies - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFhHd0N6ZTBiazl0VnlWMEhGeFR5c05oN2R3RG1FdDhMZUlOVjY3bXpINnE5VGtvcUlLRGtiOVlvdkdNVGdqRHoyXy02TGVzb0dnX3cxRDFwS0VicTVKbTE3dFV5ZHZITXJERWZTOHF3NFVyVk03RlE5RHVNY2Y2QzdfRkNhQTdi?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 07, 2026 · 07:32 BRT",
+          "pub_date": "2026-05-07",
+          "pub_ts": 1778149924,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Soy Oil Falls from Three-Year High After Trump’s Hormuz Pause - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2xXZkJTS3lGRk1YZTNhTmNhc3hsYi1FeGpYRVpmYnltay1kRk12QWxmTmFrT0F3Y0o0SzJmUDdadDgxeDJ1anR1SnhOOFhRZTZsXzItQzFsMjc5VlpnakdTODBFZDh3UzF0dWZHS3R4bVpwazctY1RtT2d0WndTZjRCTUNKQjNBdV81QmZGcUN1NnplNnRXSkRZeTFIWXNaQXhrQ1l3cFBVeEZBck1pZ3h3?oc=5",
           "source": "Bloomberg.com",
@@ -15092,7 +15158,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-06T11:07:20.619709+00:00",
-  "last_watch_time": "2026-05-06T11:07:49.135265+00:00",
-  "last_relevant_time": "2026-05-06T11:07:52.453081+00:00"
+  "last_digest_time": "2026-05-07T11:06:14.814607+00:00",
+  "last_watch_time": "2026-05-07T11:06:26.093559+00:00",
+  "last_relevant_time": "2026-05-07T11:06:34.004539+00:00"
 }

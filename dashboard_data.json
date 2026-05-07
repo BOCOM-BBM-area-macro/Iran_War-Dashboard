@@ -8764,7 +8764,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-06"
+      "pub_date": "2026-05-07"
     },
     "https://www.nytimes.com/2026/05/06/us/politics/jd-vance-iowa-2028.html": {
       "summary": "The vice president, a skeptic of the war, made his first visit of the cycle to the state that will kick off the 2028 nominating process.",
@@ -8825,6 +8825,16 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-06"
+    },
+    "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
     }
   },
   "last_run_success": true,
@@ -11823,6 +11833,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Kentucky governor to cut gasoline tax as war-driven price surge continues - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVp5N1lUTHVOUm1QcWNobzVxRmhYMU40bzhhUm5ZYjBoOUlFeWMyZVFsdDgyS2JfcHlQYk0xc2F0UHFnVkNZRzZ4YjAtVGJhMUxOM2Z2UjM4QmtOQ3BmZXQ5UlJKMnNFUFhSbkdkb0lFN3prVlh3SmJraGlZZnRhbUJpeFd2cHVNRzNZZ3ptR1Bia3U1b3F1VnlFUFFVaUpwNXQwSDVUR2hEQzJkTjB1ZE9zV1c1ZVNXbEhR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 06, 2026 · 18:19 BRT",
+          "pub_date": "2026-05-06",
+          "pub_ts": 1778102383,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US crude and fuel inventories fall as Iran war roils energy markets, EIA says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHJVVFFReUlRMjN5bUFIcGcteHRVRHViRG9xZ25ZRUMyQktMWEtmSjlwb2pCd2NmQVRfZVFZZzloQkNaV19OU3NVd1RCZFB5ZW4zN3FscVNhcTdLMXFvQ3dyTFNleDFqNzNWbGlDd3AzQXlxaEpZMHBGWDYzVjQyamQ0TC1fZlZoRXZUYW9VNXlVZFc1Tm5ReUpKdk5GNXJxamphVlFHQm1lM1lnOC1QcFNIOA?oc=5",

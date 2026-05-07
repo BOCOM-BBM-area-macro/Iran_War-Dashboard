@@ -6901,8 +6901,8 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-05-01"
     },
     "https://www.nytimes.com/2026/05/01/world/middleeast/israel-emirates-iron-dome.html": {
@@ -8893,6 +8893,26 @@
         "nytimes.com"
       ],
       "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
+    },
+    "https://www.reuters.com/world/africa/gold-fields-flags-cost-pressures-iran-war-drives-up-input-prices-2026-05-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
+    },
+    "https://www.reuters.com/world/china/iran-war-accelerate-chinas-shift-electric-trucks-diesel-2026-05-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-05-07"
     }
@@ -11922,6 +11942,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Iran war to accelerate China's shift to electric trucks from diesel - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmtKTG9Oem5EMkFYaG10MTY3TTNVaEExR2VhcGJXOTB6X0VLUlJ4M0w4SjlTay01NHo3c2JuOC1WRnFZbGxmRFNhT3Fzcmo2WHFvWk4zWEZxaXIyT1NlR0hETzNmdm1qX09zSTh3bkp6OWhWWm9BZ1NyRmYtQ3JJcm5ncUJPRnhha2l5UFZHcm12dU1Ya0xnWWQ2U0trTFZOYjVlenV3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 07, 2026 · 05:35 BRT",
+          "pub_date": "2026-05-07",
+          "pub_ts": 1778142944,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Kentucky governor to cut gasoline tax as war-driven price surge continues - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVp5N1lUTHVOUm1QcWNobzVxRmhYMU40bzhhUm5ZYjBoOUlFeWMyZVFsdDgyS2JfcHlQYk0xc2F0UHFnVkNZRzZ4YjAtVGJhMUxOM2Z2UjM4QmtOQ3BmZXQ5UlJKMnNFUFhSbkdkb0lFN3prVlh3SmJraGlZZnRhbUJpeFd2cHVNRzNZZ3ptR1Bia3U1b3F1VnlFUFFVaUpwNXQwSDVUR2hEQzJkTjB1ZE9zV1c1ZVNXbEhR?oc=5",
           "source": "Reuters",
@@ -14693,6 +14727,20 @@
         {
           "title": "Metals Rally Stalls as Traders Await Iran Reply to US Proposal - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWE94aTNOdVFjNk5jcjFtcEtIeEU4dl9WdWNQRFRhS2w3Njdjd2hQOWFfNHNoT0lpLTdhMWtTNV9OQVROeDk5eXFUR0xRVXFHUWJLWk15NWhaMlgyb21idk14T2JCejNlZUNSTVdmOUI3WExWemwyNDh3Ujh2Y1VMd1gzcHk4QmtjN21wUlhBOFFKOE9idjdZV2RmeFZNWXFMOWZ4UHJzSkY2YVZuWEhaWWtINA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 07, 2026 · 02:28 BRT",
+          "pub_date": "2026-05-07",
+          "pub_ts": 1778131680,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Metals Rally Stalls as Traders Await Iran Reply to US Proposal - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGx0RHFqN25DS3E3WTRMR1hrSmVEdkVDZ245cHdjbXJwclhzVC14NUh6d3d0VmR3MlpQX3FOZkhWRk1sdnFxeVR6NFNHODRTV0swNFNVYkJsWldxSkluWEIwbDlubUdidGZFVEF4R0ZiWXhBMU0zUGI5c2RZamdndlpGQTVyaUNKdU9GWDFUS29HRWFRM2ZSN0NEYnBPemw0M3F3VzJCVzY2RUt5dHkxbWVwTHZrYm5fMERXenpZbHF4TnItbWhhZkczZnA4bWc?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

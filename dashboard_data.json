@@ -8678,7 +8678,7 @@
       "pub_date": "2026-05-06"
     },
     "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html": {
-      "summary": "",
+      "summary": "Oil prices fell and stocks rose after President Trump’s about-face to pause the U.S. operation to escort commercial ships through the Strait of Hormuz",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8807,6 +8807,16 @@
         "nytimes.com"
       ],
       "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-05-06"
+    },
+    "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-06"
     }
@@ -8960,6 +8970,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0teG4taGFicEdTNkxPUGF0Vmd1LVJpejdZUmJwZ0hfZ2pSV2NFZ19kLXhOcDJKQXVyRk1qNi1id0E1LXZsS1Q0dENmRlB6RngzWVFfNDdia3RCajg3SFlIMHJRYTNCV3J3djBKTnlmVlVuZw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 06, 2026 · 23:08 BRT",
+          "pub_date": "2026-05-06",
+          "pub_ts": 1778119736,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Occidental scraps new oil hedges as Iran war fuels price volatility - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUW5Vcjh3UDVJQWNxSVM4dklJWEZnTlNSNTJSQ1BMWEhtSl9oT0JYWnFHdEltT0doRWY4U2l0TkdEa3VkY1ZqWkctME41Z1dtLVJmWmVxMTJ4QWt4b1ZBVTl0Z09BV1lDV3VRTWhJd2U0bEJ4M09KbDNweWx6d05JMU1UN29vaURZNTVFOEM3bFI3LW41UDVGNkpESHFOVS1ROXl3YkQyQmZDZ2xkc1ctcmktdDdYMmc?oc=5",

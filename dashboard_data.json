@@ -8875,6 +8875,26 @@
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-05-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-07/shell-says-profits-rise-as-iran-war-boosts-trading-and-oil-price": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "positive",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
+    },
+    "https://www.nytimes.com/2026/05/07/arts/television/late-night-trump-skirmish.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
     }
   },
   "last_run_success": true,
@@ -9026,6 +9046,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Shell Profit Rises as Iran War Boosts Oil Price and Trading - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZV83RWxGV05veG1GZjJwMTlRZ182MWFkODdjUHBFQWwxT1cxNWhLQXlIbDlnRC1sYXdiQmE5a1FnRS1fc0ZDeDNUZzVfZEs2R1VpRmk5ZWg0XzlTYk5xcW8tZTJpV0JPUi1JN2gwQnV3MUlhZWZPTWE1RlU5RS1GYU1mZll2UDFJbnJfTnREeGlkU05UOEk2Q0phQzdGU1VVNHNkVzB3TWJUa3RuTjMtcEVRZkM3dw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 07, 2026 · 03:38 BRT",
+          "pub_date": "2026-05-07",
+          "pub_ts": 1778135880,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0teG4taGFicEdTNkxPUGF0Vmd1LVJpejdZUmJwZ0hfZ2pSV2NFZ19kLXhOcDJKQXVyRk1qNi1id0E1LXZsS1Q0dENmRlB6RngzWVFfNDdia3RCajg3SFlIMHJRYTNCV3J3djBKTnlmVlVuZw?oc=5",

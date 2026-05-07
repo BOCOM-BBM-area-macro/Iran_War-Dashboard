@@ -4653,13 +4653,13 @@
       "pub_date": "2026-04-26"
     },
     "https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html": {
-      "summary": "",
+      "summary": "President Trump paused a plan to help ships exit the Strait of Hormuz just a day after it began, sowing confusion about his goals and next steps in the war with Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "negative",
+      "sentiment_success": true,
       "pub_date": "2026-05-06"
     },
     "https://www.bloomberg.com/news/articles/2026-04-26/asia-s-busiest-earnings-week-may-offer-early-taste-of-war-impact": {
@@ -8259,7 +8259,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-06"
+      "pub_date": "2026-05-07"
     },
     "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html": {
       "summary": "The president is trying to ratchet up the economic pressure on Tehran, but Iran’s government is unlikely to make a deal without a big, face-saving compromise.",
@@ -8492,10 +8492,13 @@
       "pub_date": "2026-05-06"
     },
     "https://www.bloomberg.com/news/articles/2026-05-06/us-boosts-efforts-to-end-iran-war-as-trump-suspends-hormuz-plan": {
-      "summary": "",
+      "summary": "Iran is evaluating a new proposal from the US to end their near 10-week war, according to a person familiar with the matter, as China added its voice to global pressure to wrap up the conflict.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "War",
+        "China",
+        "Donald John Trump",
+        "Israel"
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
@@ -8573,15 +8576,18 @@
         "extracted",
         "axios.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
+      "sentiment": "positive",
+      "sentiment_success": true,
       "pub_date": "2026-05-06"
     },
     "https://www.bloomberg.com/news/articles/2026-05-06/iran-evaluating-us-proposal-to-end-war-as-china-calls-for-peace": {
-      "summary": "",
+      "summary": "The US and Iran were circling around a fresh proposal to end the war on Wednesday, as President Donald Trump searches for an exit from a conflict that has elevated energy prices and damaged his political standing.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Donald John Trump",
+        "War",
+        "WAY OUT/THE",
+        "Generic 1st 'CL' Future"
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
@@ -8811,7 +8817,7 @@
       "pub_date": "2026-05-06"
     },
     "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil": {
-      "summary": "",
+      "summary": "President Trump said his administration had had “very good talks” with Tehran in the last 24 hours. An Iranian official said an American plan to end the war was under review. Israel struck targets near Beirut.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -13325,6 +13331,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Jet-Fuel Prices Are Spiking and Trump’s Advisers Are Worried - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVRqcWswYW1TaTBvdW1fd3BHZTB5R3E0V3ZZU0FIUUlIanUwblYyS3QyQUZDS0EwanJVQlNWcExTZW9Ic0VqRWc0RlYzOEhBT09pRGpVMjNBUFMxZnNiS2dmOHQyZ21CS2FhS3B0dWkzOFp2S20yempkQnJqQkF5NDQ1UVZGaVBnYkdTb2lLMHZDWGYxUVp5SDI1U0VNS0xoTE5xY0hoQQ?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 06, 2026 · 22:00 BRT",
+          "pub_date": "2026-05-06",
+          "pub_ts": 1778115600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Israel to supply Germany with jet fuel amid shortages caused by Iran war - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qeUR4eUZyMjE3T2FHZXRxeDdYa3VyRWV1ejhEeGQwblZtLWY4QWh5SW9oWTk3eXNyVTdwaGhlVHpHc2ZMQTRaR3pZNTZoTVBKNllZUTJfc3ZPeWF2?oc=5",

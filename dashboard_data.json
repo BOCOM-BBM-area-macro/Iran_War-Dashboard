@@ -9287,7 +9287,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-08"
     },
     "https://www.wsj.com/economy/german-industry-slumped-in-march-on-outbreak-of-iran-war-92f168b9": {
       "summary": "",
@@ -9338,70 +9338,114 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-08"
+    },
+    "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.reuters.com/world/india/indias-britannia-slides-packaged-goods-maker-warns-about-price-hikes-2026-05-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-08/food-prices-rise-to-highest-in-three-years-on-iran-war-costs": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-07",
-  "last_generated_time": "2026-05-07T23:02:05.832993+00:00",
+  "last_generated_date": "2026-05-08",
+  "last_generated_time": "2026-05-08T08:02:05.169304+00:00",
   "digest": {
-    "digest": "Recent reports indicate that the United States and Iran are nearing a one-page memo aimed at de-escalating the ongoing conflict, with both sides exchanging conflicting messages regarding the state of negotiations. President Trump has described recent talks as \"very good,\" while an Iranian official stated an American proposal is under review. This potential short-term deal to end the fighting has been a focal point, with the world awaiting Iran's response to a peace proposal. The conflict continues to have significant economic repercussions, including boosted profits for energy companies like Shell due to higher oil prices and trading opportunities, though some companies face production challenges and increased input costs. The war is also impacting financial markets, with projections for flat to slightly positive Wall Street bonuses in 2026 and the Saudi Wealth Fund preparing to issue dollar bonds for the first time since the war began. Political discourse surrounding the war remains active, with discussions on its impact on voter sentiment and its influence on international meetings, such as the upcoming summit between Presidents Trump and Xi. The US administration has also shown signs of strategic shifts, including pausing a plan to assist ships exiting the Strait of Hormuz, leading to confusion about its objectives.",
+    "digest": "Recent reports indicate ongoing exchanges of fire between the U.S. and Iran, despite claims of an intact ceasefire, leading to fluctuations in oil prices and significant bets placed on oil futures. Diplomatic messages from Tehran and Washington remain conflicting regarding the state of negotiations, with one side suggesting an American plan is under review while the other reports \"very good talks.\" The conflict continues to strain international ties, with Italy noting strains on its relationship with the U.S. and Southeast Asian nations seeking strategies to mitigate its impacts. Economically, the war is projected to cost trillions, with specific sectors like German industry experiencing a slump and food prices reaching a three-year high. Toyota anticipates a substantial financial hit, and Indian packaged goods manufacturers are concerned about margin erosion. U.S. intelligence suggests Iran possesses the capacity to withstand prolonged blockades, while China views the U.S. as a \"giant with a limp\" due to its resource commitment to the conflict. The United Arab Emirates is strengthening ties with the U.S. and Israel following direct targeting by Iran, and stock investors are anticipating significant corporate profits despite the ongoing hostilities.",
     "top_themes": [
-      "Iran War Negotiations",
-      "Economic Impacts of Iran War",
-      "US-Iran Diplomatic Stance"
+      "Ceasefire Violations and Diplomatic Signals",
+      "Economic Impacts and Market Reactions",
+      "International Relations and Geopolitical Strains"
     ],
     "next_events": [
       {
-        "title": "US-Iran Peace Deal Progress and Details",
-        "description": "Multiple reports indicate the US and Iran are nearing or reviewing a proposal to end the war, despite conflicting messages. Analysts should closely monitor official statements, the specific terms of any agreement, and the timeline for implementation, as this will dictate the immediate future of the conflict and regional stability."
+        "title": "Durability of the US-Iran Ceasefire",
+        "description": "Despite declared truces, recent reports indicate exchanges of fire and military strikes between the U.S. and Iran. Analysts should monitor for further violations, the scale of any new engagements, and official statements regarding the ceasefire's status to gauge its long-term viability."
       },
       {
-        "title": "Global Economic Repercussions of a Potential Peace Deal",
-        "description": "The potential end of the Iran war carries significant economic implications, from a possible 'trapdoor' for the dollar to shifts in oil prices and corporate profits. Watch for immediate market reactions, changes in commodity prices, and how major economies and corporations adjust to a post-conflict energy and financial landscape."
+        "title": "Progress in US-Iran Peace Negotiations",
+        "description": "Conflicting messages surround ongoing talks aimed at ending the war and reopening the Strait of Hormuz. Key indicators to watch include official announcements on negotiation breakthroughs, specific proposals under review, and the involvement of international mediators, as these will signal potential de-escalation or continued stalemate."
       },
       {
-        "title": "Regional Security Dynamics Post-Agreement",
-        "description": "Despite potential peace talks, regional tensions persist, including Israeli strikes and concerns over the Strait of Hormuz. Analysts should observe how a peace deal impacts the broader Mideast standoff, the security of critical shipping lanes, and the reactions of other regional actors to the new geopolitical reality."
+        "title": "Global Economic Repercussions and Market Stability",
+        "description": "The Iran war is already impacting global markets, leading to rising oil and food prices, industry slumps, and significant financial hits for major corporations. Analysts should track commodity price volatility, corporate earnings reports, and central bank responses to assess the broader economic stability and potential for recession."
       },
       {
-        "title": "Political Fallout and Election Impact in the US",
-        "description": "The Iran war has been a significant factor in US domestic politics, affecting voter sentiment and presidential standing. Monitor how any resolution or continued stalemate influences public opinion, the rhetoric of political candidates, and its role in the upcoming election cycles, particularly for figures like Trump and Vance."
+        "title": "Iran's Economic Resilience Under Blockade",
+        "description": "U.S. intelligence suggests Iran can withstand the Hormuz blockade for months, indicating potential for prolonged economic pressure without immediate collapse. Monitoring Iran's ability to circumvent sanctions, its internal economic stability, and the effectiveness of international efforts to ease impacts will be crucial."
       },
       {
-        "title": "Energy Market Shifts and Clean Energy Investment",
-        "description": "The war has significantly boosted oil prices and trading profits for energy companies, while also showing new signs of boosting clean energy. Analysts should track how a potential peace deal impacts global oil supply and demand, the trajectory of energy prices, and the long-term investment trends in the clean energy sector."
+        "title": "Shifting Regional Alliances and Geopolitical Realignment",
+        "description": "The conflict is prompting shifts in regional alliances, with countries like the UAE strengthening ties with the U.S. and Israel while Italy-US relations face strain. Observing diplomatic overtures, military cooperation agreements, and statements from regional powers will reveal the evolving geopolitical landscape and potential for new blocs."
+      },
+      {
+        "title": "US Domestic Political Influence on Iran Policy",
+        "description": "The war has become a significant factor in U.S. domestic politics, influencing presidential strategy and congressional debates over war powers. Analysts should watch for shifts in administration rhetoric, legislative actions, and public opinion, as these could alter the U.S. approach to the conflict."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Exclusive: U.S. and Iran closing in on one-page memo to end war, officials say - Axios",
-      "url": "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "May 06, 2026 · 16:57 BRT",
-      "pub_date": "2026-05-06",
-      "pub_ts": 1778097439,
+      "title": "U.S. and Iran Exchange Fire Amid a Declared Truce - nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
+      "source": "nytimes.com",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 08, 2026 · 06:11 BRT",
+      "pub_date": "2026-05-08",
+      "pub_ts": 1778231460,
       "summary": "",
       "tags": [
         "extracted",
-        "axios.com"
+        "nytimes.com"
       ],
-      "sentiment": "positive",
+      "sentiment": "negative",
       "_rank": 0,
       "full_text": "",
       "sentiment_success": true
     },
     {
-      "title": "Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations - The New York Times",
+      "title": "Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations - nytimes.com",
       "url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 06, 2026 · 23:08 BRT",
-      "pub_date": "2026-05-06",
-      "pub_ts": 1778119736,
+      "published": "May 07, 2026 · 22:14 BRT",
+      "pub_date": "2026-05-07",
+      "pub_ts": 1778202840,
       "summary": "President Trump said his administration had had “very good talks” with Tehran in the last 24 hours. An Iranian official said an American plan to end the war was under review. Israel struck targets near Beirut.",
       "tags": [
         "extracted",
@@ -9412,79 +9456,77 @@
       "sentiment_success": true
     },
     {
-      "title": "US and Iran inch towards short-term deal to end fighting - Reuters",
-      "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+      "title": "Trump says ceasefire still intact after burst of violence with Iran - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/05/07/us-strikes-iran-ceasefire/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "May 08, 2026 · 07:27 BRT",
+      "pub_date": "2026-05-08",
+      "pub_ts": 1778236036,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Oil Prices Rise as U.S. and Iran Test Truce With Military Strikes - nytimes.com",
+      "url": "https://www.nytimes.com/2026/05/08/business/oil-gas-price-iran.html",
+      "source": "nytimes.com",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 08, 2026 · 04:37 BRT",
+      "pub_date": "2026-05-08",
+      "pub_ts": 1778225848,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Explainer: What's included in talks to end the Iran war and reopen Hormuz? - Reuters",
+      "url": "https://www.reuters.com/world/china/whats-included-talks-end-iran-war-reopen-hormuz-2026-05-07/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 07, 2026 · 01:00 BRT",
+      "published": "May 07, 2026 · 10:11 BRT",
       "pub_date": "2026-05-07",
-      "pub_ts": 1778126400,
+      "pub_ts": 1778159516,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "positive",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "Iran Says It Is Reviewing a U.S. Proposal to End the War - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 06, 2026 · 18:02 BRT",
-      "pub_date": "2026-05-06",
-      "pub_ts": 1778101343,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
       "sentiment_success": true
     },
     {
-      "title": "US, Iran Weigh Potential Deal as Trump Seeks Way Out of War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/iran-evaluating-us-proposal-to-end-war-as-china-calls-for-peace",
+      "title": "Food Prices Rise to Highest in Three Years on Iran War Costs - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/food-prices-rise-to-highest-in-three-years-on-iran-war-costs",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "May 06, 2026 · 22:36 BRT",
-      "pub_date": "2026-05-06",
-      "pub_ts": 1778117760,
-      "summary": "The US and Iran were circling around a fresh proposal to end the war on Wednesday, as President Donald Trump searches for an exit from a conflict that has elevated energy prices and damaged his political standing.",
-      "tags": [
-        "Iran",
-        "Donald John Trump",
-        "War",
-        "WAY OUT/THE",
-        "Generic 1st 'CL' Future"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": true
-    },
-    {
-      "title": "World in Waiting Game Over Iran Peace Proposal Response - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/07/world/middleeast/world-in-waiting-game-over-iran-peace-proposal-response.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 07, 2026 · 07:10 BRT",
-      "pub_date": "2026-05-07",
-      "pub_ts": 1778148613,
+      "published": "May 08, 2026 · 05:00 BRT",
+      "pub_date": "2026-05-08",
+      "pub_ts": 1778227200,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "bloomberg.com"
       ],
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "_rank": 0,
       "full_text": "",
       "sentiment_success": true
@@ -15774,7 +15816,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-07T11:06:14.814607+00:00",
-  "last_watch_time": "2026-05-07T11:06:26.093559+00:00",
-  "last_relevant_time": "2026-05-07T11:06:34.004539+00:00"
+  "last_digest_time": "2026-05-08T11:08:48.387216+00:00",
+  "last_watch_time": "2026-05-08T11:08:56.581007+00:00",
+  "last_relevant_time": "2026-05-08T11:08:57.245410+00:00"
 }

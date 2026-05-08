@@ -4326,9 +4326,9 @@
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
-      "pub_date": "2026-04-27"
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-06"
     },
     "https://www.ft.com/content/53951801-5a60-4016-b978-ebbf71417111": {
       "summary": "",
@@ -9287,7 +9287,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-08"
+      "pub_date": "2026-05-07"
     },
     "https://www.wsj.com/economy/german-industry-slumped-in-march-on-outbreak-of-iran-war-92f168b9": {
       "summary": "",
@@ -9304,6 +9304,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.nytimes.com/2026/05/07/us/politics/weapons-stockpiles-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-05-07/war-s-economic-damage-to-us-spreads-evening-briefing-americas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "negative",
       "sentiment_success": true,
@@ -14074,6 +14094,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "British Airways owner IAG warns Iran war will add €2bn to jet fuel bill - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvXzVNY28yU2hwTlVXb1hQQjNaTU5JRWdTeXFtQ0UxeUo2T2hYX0ZYcWE3a0JuYlJJM2xyR0ZxX3dfLVBkSWEwS09INENvck44dXNyV2xoa1VrQU5uRmpnSnV0UXRWMUNxaHB6ZUdyUWtDRVdzZ2UxUzFpWTVXSlBhNGw?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 08, 2026 · 04:07 BRT",
+          "pub_date": "2026-05-08",
+          "pub_ts": 1778224052,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Emirates' cash reserves, fuel hedging help airline ride out Iran war turmoil - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT0VVVzVvS3RvNEliZ0xuMFVQUW9Ub3NGZG5odkd1MERJME93VFE3MTRxVG9CTmlNWEEyaTAxdldMcWxVam4wZ1FtNmozOXh4SU5sNGo1Yk40dktJcVREREhncEhka1ZhUExIaVpyWTBSWmI2eHdXQllTZGE0MHFaM0FfMlVGSmtnbjhzQi1oVkZsT1gyM1o1VFJweG5PRktqbXBqZVg4OGRsVTBF?oc=5",

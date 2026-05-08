@@ -8439,7 +8439,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-05-06"
+      "pub_date": "2026-05-07"
     },
     "https://www.wsj.com/business/retail/next-plc-lifts-outlook-after-strong-quarter-despite-costs-from-iran-war-aead18df": {
       "summary": "",
@@ -9137,7 +9137,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-08"
     },
     "https://www.reuters.com/world/middle-east/us-military-strikes-irans-qeshm-port-bandar-abbas-fox-news-reporter-says-2026-05-07/": {
       "summary": "",
@@ -9274,6 +9274,36 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.wsj.com/economy/german-industry-slumped-in-march-on-outbreak-of-iran-war-92f168b9": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.reuters.com/business/autos-transportation/toyota-sees-20-drop-annual-profit-iran-war-weighs-2026-05-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "negative",
       "sentiment_success": true,

@@ -9258,6 +9258,16 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-07"
+    },
+    "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
     }
   },
   "last_run_success": true,
@@ -9776,6 +9786,20 @@
           "published": "May 03, 2026 · 19:30 BRT",
           "pub_date": "2026-05-03",
           "pub_ts": 1777847408,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Will the Iran war amplify the ‘second China shock’? - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS055azRPWURRbmNTenktRGNVOXVnRnJvWUNETGtlZTFmNFBwdUo2SFczMFNaV2hOTUYxbXBfZTQ0N3ViYkc4Smg2RU1HeWZnajdWQWJrXzFKaWRjVnZXbGN6V1NKM3lnQzNlWkxQLWx1WHJpVVJhUmxXZ2x2TVJkdjlrQkw?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 03, 2026 · 08:00 BRT",
+          "pub_date": "2026-05-03",
+          "pub_ts": 1777806005,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -14743,6 +14767,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Sudan was already at war and hungry. Now its farmers are hit by another conflict - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUDNkWExDcWpDZ0FMNWNfQmxBTzlTblY4dmRjSjlYRjlGdXJKNTdQNlhiQW8wc0FGU0ZjRDR0Zk1fblNYaVlIeG1OSTJEaFZSV3NDaGtaSGxadUcyOENmVXRVb2hZcUMwQmhiVjNHN0Q1eURPUDBqUVZwS2dCN09HUzg3M2JrdHBTckdCMG9OYjBXZVM0OWdOVHlBUl9hbk1UZ2NHaDd4RjdFcm9NckVKS1RCcUZ6QlJQZXdSZm5hMGp1Qm1JUi15ck9odHhNcDNmZ1BRcmNXMkY?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 08, 2026 · 02:50 BRT",
+          "pub_date": "2026-05-08",
+          "pub_ts": 1778219426,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Grain dispute splits Ukraine and Israel even as they fight allied enemies - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFhHd0N6ZTBiazl0VnlWMEhGeFR5c05oN2R3RG1FdDhMZUlOVjY3bXpINnE5VGtvcUlLRGtiOVlvdkdNVGdqRHoyXy02TGVzb0dnX3cxRDFwS0VicTVKbTE3dFV5ZHZITXJERWZTOHF3NFVyVk03RlE5RHVNY2Y2QzdfRkNhQTdi?oc=5",

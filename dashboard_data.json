@@ -9287,7 +9287,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-08"
+      "pub_date": "2026-05-07"
     },
     "https://www.wsj.com/economy/german-industry-slumped-in-march-on-outbreak-of-iran-war-92f168b9": {
       "summary": "",
@@ -9388,11 +9388,31 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-08"
+    },
+    "https://www.wsj.com/economy/consumers/consumer-sentiment-falls-to-new-record-lows-amid-war-in-iran-7ae40a27": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.nytimes.com/2026/05/08/podcasts/the-headlines/trump-iran-strikes-hantavirus-outbreak.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-08",
-  "last_generated_time": "2026-05-08T11:02:07.776170+00:00",
+  "last_generated_time": "2026-05-08T12:01:59.163282+00:00",
   "digest": {
     "digest": "Recent reports indicate ongoing exchanges of fire between the U.S. and Iran, despite claims of an intact ceasefire, leading to fluctuations in oil prices and significant bets placed on oil futures. Diplomatic messages from Tehran and Washington remain conflicting regarding the state of negotiations, with one side suggesting an American plan is under review while the other reports \"very good talks.\" The conflict continues to strain international ties, with Italy noting strains on its relationship with the U.S. and Southeast Asian nations seeking strategies to mitigate its impacts. Economically, the war is projected to cost trillions, with specific sectors like German industry experiencing a slump and food prices reaching a three-year high. Toyota anticipates a substantial financial hit, and Indian packaged goods manufacturers are concerned about margin erosion. U.S. intelligence suggests Iran possesses the capacity to withstand prolonged blockades, while China views the U.S. as a \"giant with a limp\" due to its resource commitment to the conflict. The United Arab Emirates is strengthening ties with the U.S. and Israel following direct targeting by Iran, and stock investors are anticipating significant corporate profits despite the ongoing hostilities.",
     "top_themes": [
@@ -9558,6 +9578,20 @@
           "published": "May 08, 2026 · 07:46 BRT",
           "pub_date": "2026-05-08",
           "pub_ts": 1778237214,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "ASEAN summit ends with only a push to fast-track oil share pact - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUN2eVpZOFVtaGhyRHZCdHNTWVJrMmVzOHVJbzZ0dnUyMVh5UTJlVjM3c0x1b1pPMnp2bWpwdXdhc01LdU5taGxQY0FMVU1hMjV6VjhoM2tvd2Z6bVR3NDAxZDJQLXlJdkNZUFRYdnZPTU9VQXVQak1rblFfZlM5Y2F3T09vazFzOEFDc3J1OVdSUkhEWHVuWlA2emtjNm9PNXRKeWoxQ1MwZDg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 08, 2026 · 00:42 BRT",
+          "pub_date": "2026-05-08",
+          "pub_ts": 1778211720,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

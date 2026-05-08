@@ -9268,6 +9268,16 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-08"
+    },
+    "https://www.nytimes.com/2026/05/08/business/oil-gas-price-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
     }
   },
   "last_run_success": true,

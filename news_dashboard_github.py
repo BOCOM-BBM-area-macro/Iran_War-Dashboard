@@ -915,7 +915,20 @@ def fetch_trade_tracker_data(cfg: dict) -> list[dict]:
         trade_history = []
         for f in features:
             attrs = f["attributes"]
-            dt = datetime.fromtimestamp(attrs["date"] / 1000, tz=timezone.utc)
+            raw_date = attrs.get("date")
+            if not raw_date:
+                continue
+                
+            try:
+                if isinstance(raw_date, (int, float)):
+                    dt = datetime.fromtimestamp(raw_date / 1000, tz=timezone.utc)
+                else:
+                    # Handle "YYYY-MM-DD" or ISO strings
+                    from_iso = str(raw_date).split('T')[0]
+                    dt = datetime.strptime(from_iso, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            except Exception:
+                continue
+
             trade_history.append({
                 "date": dt.strftime("%Y-%m-%d"),
                 "tanker": attrs.get("n_tanker", 0),
@@ -952,23 +965,46 @@ def fetch_hormuz_historical_data(cfg: dict, fallback_trade_data: list = None) ->
                 raw_list = raw_data.get("data", [])
                 if raw_list:
                     print(f" Successfully retrieved {len(raw_list)} records from Hormuz Tracking.")
-                    # Normalize categories from API
+                    
+                    # Aggregate by date, ensuring we pick the 'Total' record or the latest snapshot for each day
+                    agg = {}
                     for d in raw_list:
+                        raw_dt = d.get("date")
+                        if not raw_dt: continue
+                        
+                        # Parse date and handle year (default to current year for "Mon DD" format)
+                        try:
+                            if len(raw_dt) < 10 and " " in raw_dt: # Likely "Apr 20"
+                                # If it's Jan but the date is Dec, it's likely previous year, but here we assume current context
+                                dt_obj = datetime.strptime(f"{datetime.now().year} {raw_dt}", "%Y %b %d")
+                                iso_dt = dt_obj.strftime("%Y-%m-%d")
+                            else: # Likely ISO "2026-04-20"
+                                iso_dt = raw_dt.split("T")[0]
+                        except:
+                            iso_dt = raw_dt
+                        
                         c_ships = d.get("Container", d.get("Container Ships", 0))
                         c_tankers = d.get("Crude Tankers", 0)
                         bulk_cargo = d.get("Dry Bulk", d.get("Dry Bulk & Cargo", 0))
                         g_carriers = d.get("Gas (LPG/LNG)", d.get("Gas Carriers", 0))
-                        other_vessels = d.get("Other/Cargo", d.get("Other", 0))
+                        other = d.get("Other/Cargo", d.get("Other", 0))
+                        current_total = c_ships + c_tankers + bulk_cargo + g_carriers + other
                         
-                        data.append({
-                            "date": d.get("date"),
-                            "Container Ships": c_ships,
-                            "Crude Tankers": c_tankers,
-                            "Dry Bulk & Cargo": bulk_cargo,
-                            "Gas Carriers": g_carriers,
-                            "Other": other_vessels,
-                            "total": c_ships + c_tankers + bulk_cargo + g_carriers + other_vessels
-                        })
+                        # The API often sends Inbound, Outbound, and Total rows. 
+                        # We pick the one with the highest total (the summary row).
+                        if iso_dt not in agg or current_total > agg[iso_dt]["total"]:
+                            agg[iso_dt] = {
+                                "date": iso_dt,
+                                "Container Ships": c_ships,
+                                "Crude Tankers": c_tankers,
+                                "Dry Bulk & Cargo": bulk_cargo,
+                                "Gas Carriers": g_carriers,
+                                "Other": other,
+                                "total": current_total
+                            }
+                    
+                    data = sorted(agg.values(), key=lambda x: x["date"])
+                    print(f" Normalized to {len(data)} unique days.")
                     return data
             except Exception as e:
                 print(f" Hormuz historical data processing failed: {e}")
@@ -980,23 +1016,24 @@ def fetch_hormuz_historical_data(cfg: dict, fallback_trade_data: list = None) ->
     # Fallback to IMF PortWatch data if available
     if fallback_trade_data:
         print(" Using IMF PortWatch as fallback for Hormuz historical data...")
-        normalized = []
+        agg = {}
         for d in fallback_trade_data:
-            c_ships = d.get("container", 0)
-            c_tankers = d.get("tanker", 0)
-            bulk_cargo = d.get("dry_bulk", 0)
-            g_carriers = 0 # PortWatch doesn't split Gas specifically in the simple query
-            other_vessels = d.get("general_cargo", 0) + d.get("roro", 0)
+            dt = d["date"]
+            if dt not in agg:
+                agg[dt] = {"Container Ships": 0, "Crude Tankers": 0, "Dry Bulk & Cargo": 0, "Gas Carriers": 0, "Other": 0}
             
-            normalized.append({
-                "date": d["date"],
-                "Container Ships": c_ships,
-                "Crude Tankers": c_tankers,
-                "Dry Bulk & Cargo": bulk_cargo,
-                "Gas Carriers": g_carriers,
-                "Other": other_vessels,
-                "total": c_ships + c_tankers + bulk_cargo + g_carriers + other_vessels
-            })
+            agg[dt]["Container Ships"] = max(agg[dt]["Container Ships"], d.get("container", 0))
+            agg[dt]["Crude Tankers"] = max(agg[dt]["Crude Tankers"], d.get("tanker", 0))
+            agg[dt]["Dry Bulk & Cargo"] = max(agg[dt]["Dry Bulk & Cargo"], d.get("dry_bulk", 0))
+            agg[dt]["Other"] = max(agg[dt]["Other"], d.get("general_cargo", 0) + d.get("roro", 0))
+            
+        normalized = []
+        for dt, vals in agg.items():
+            vals["date"] = dt
+            vals["total"] = vals["Container Ships"] + vals["Crude Tankers"] + vals["Dry Bulk & Cargo"] + vals["Gas Carriers"] + vals["Other"]
+            normalized.append(vals)
+            
+        normalized.sort(key=lambda x: x["date"])
         return normalized
 
     return []

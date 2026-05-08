@@ -8555,7 +8555,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-08"
     },
     "https://www.jpost.com/international/article-895300": {
       "summary": "In court documents, prosecutors have alleged that Allen \"disagreed\" with Trump politically and \"wanted to 'fight back' against government policies and decisions that he found morally objectionable.\"",
@@ -9177,7 +9177,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-08"
     },
     "https://www.nytimes.com/2026/05/07/us/austin-bar-shooting-gunman-iran-fbi-investigation.html": {
       "summary": "",
@@ -9210,7 +9210,7 @@
       "pub_date": "2026-05-07"
     },
     "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html": {
-      "summary": "",
+      "summary": "Saudi Arabia’s refusal of support suggests that President Trump’s unpredictable approach to Iran has strained ties with one of his closest allies in the Middle East.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -9218,6 +9218,26 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-07"
+    },
+    "https://www.washingtonpost.com/business/2026/05/07/iran-us-israel-war-may-7-2026/5d31a2ae-49e8-11f1-a119-857cd2bf4fd4_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-07"
+    },
+    "https://www.reuters.com/world/china/southeast-asian-leaders-seek-strategy-ease-impacts-iran-war-2026-05-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
     }
   },
   "last_run_success": true,

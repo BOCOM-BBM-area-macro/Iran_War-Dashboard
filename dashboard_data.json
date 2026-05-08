@@ -9137,7 +9137,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
-      "pub_date": "2026-05-08"
+      "pub_date": "2026-05-07"
     },
     "https://www.reuters.com/world/middle-east/us-military-strikes-irans-qeshm-port-bandar-abbas-fox-news-reporter-says-2026-05-07/": {
       "summary": "",
@@ -9324,6 +9324,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.nytimes.com/2026/05/08/opinion/hegseth-war-cost.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "negative",
       "sentiment_success": true,

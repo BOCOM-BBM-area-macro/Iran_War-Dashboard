@@ -9581,6 +9581,26 @@
       "sentiment": "neutral",
       "sentiment_success": true,
       "pub_date": "2026-05-09"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-09/us-sanctions-chinese-satellite-imagery-companies-over-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-09"
+    },
+    "https://www.bloomberg.com/news/videos/2026-05-09/iran-war-drives-africa-s-fertilizer-crisis": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
     }
   },
   "last_run_success": true,

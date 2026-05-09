@@ -9561,6 +9561,26 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-09"
+    },
+    "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-09"
+    },
+    "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": true,
+      "pub_date": "2026-05-09"
     }
   },
   "last_run_success": true,

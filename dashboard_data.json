@@ -9776,11 +9776,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-09"
+    },
+    "https://www.axios.com/2026/05/09/witkoff-rubio-qatar-iran-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-09"
+    },
+    "https://www.jpost.com/middle-east/article-895627": {
+      "summary": "Explosions, US self-defense strikes, and renewed clashes near the Strait of Hormuz show how unresolved maritime leverage, Gulf vulnerability, and political deadlock could push the conflict further.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Pakistan",
+        "iran missiles",
+        "Iran nuclear talks"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-09"
+    },
+    "https://www.timesofisrael.com/russia-said-to-be-sending-iran-drone-parts-via-caspian-sea-bypassing-hormuz-blockade/": {
+      "summary": "According to New York Times, shipments could help Tehran quickly restock its drone arsenal amid ceasefire, while evading both sanctions and tense routes through Persian Gulf",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-09"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-09",
-  "last_generated_time": "2026-05-09T18:01:56.493673+00:00",
+  "last_generated_time": "2026-05-09T19:01:53.927688+00:00",
   "digest": {
     "digest": "Recent developments indicate continued military engagements between the U.S. and Iran, with U.S. forces striking Iranian-flagged tankers amidst accusations of \"reckless\" attacks from Tehran. Despite these clashes, President Trump has stated that a ceasefire remains intact. Tensions are further exacerbated by renewed Iranian attacks and Hezbollah launching rockets at northern Israel, prompting the UAE to activate its air defense system. Diplomatic efforts are ongoing, with a Qatari mediator involved in awaiting a response to a peace plan, though the U.S. and Iran appear no closer to ending hostilities. The conflict's economic repercussions are significant, impacting global food supply chains as Asia's farmers face hardship, and China's energy imports have dropped, leading to a decade low in fuel exports. The U.S. has also imposed sanctions on Chinese satellite imagery companies supplying Iran's drone program, targeting Iran's missile and drone capabilities. Meanwhile, the Emirates are strengthening ties with the U.S. and Israel amidst the ongoing conflict.",
     "top_themes": [
@@ -9943,6 +9976,20 @@
           "published": "May 09, 2026 · 09:30 BRT",
           "pub_date": "2026-05-09",
           "pub_ts": 1778329800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China energy imports drop in April amid Iran war as fuel exports hit decade low - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2JYY1ZDVE81Um9XWU43bnhUOEsxRy1UdGtscWsydnZrOEkyZ3h1SFltS252eHVNV2h2NGVKUmZHc1VXWmJOc2hxMXBQa1lieFhWdUc3UFgzOEg1VE1jbUhDbmRXTF9IT2t3RHJiYTZ0UTBuVXBxTGY3ZzB6b0hLa0c3V00xS2tHLXA3VUdpd2VlSnBMbVlqVUxGOVU5eFJUWXpyQ3VLXzRlQTUyWE5qVEg3X3U4SzhkOWFHV1RyV09RZnc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 09, 2026 · 03:58 BRT",
+          "pub_date": "2026-05-09",
+          "pub_ts": 1778309880,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -9538,6 +9538,29 @@
       "sentiment": "negative",
       "sentiment_success": true,
       "pub_date": "2026-05-08"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-895599": {
+      "summary": "According to a CNN report citing multiple sources familiar with US intelligence assessments, Mojtaba Khamenei is playing a critical role in Iran's war strategy despite remaining in hiding.",
+      "tags": [
+        "Iran",
+        "United States",
+        "IRGC",
+        "Masoud Pezeshkian",
+        "Mojtaba Khamenei"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-08"
+    },
+    "https://www.wsj.com/world/middle-east/iran-us-ceasefire-deal-gulf-countries-9402cac4": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "negative",
+      "sentiment_success": true,
+      "pub_date": "2026-05-09"
     }
   },
   "last_run_success": true,

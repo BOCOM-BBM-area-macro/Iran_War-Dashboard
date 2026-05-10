@@ -9353,7 +9353,7 @@
       "pub_date": "2026-05-08"
     },
     "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html": {
-      "summary": "",
+      "summary": "The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -9809,11 +9809,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-09"
+    },
+    "https://www.nytimes.com/live/2026/05/09/world/iran-strikes-trump-ceasefire-hormuz": {
+      "summary": "The United States and Iran both say that a monthlong cease-fire is holding, despite exchanging fire in recent days, but no breakthrough had been reached in negotiations.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-09"
+    },
+    "https://www.timesofisrael.com/israel-said-to-have-built-secret-base-in-iraqi-desert-to-support-iran-air-campaign/": {
+      "summary": "According to Wall Street Journal, Israeli troops launched airstrikes against Iraqi forces who nearly discovered the airbase in early March; at the time, Iraq blamed US for the strikes",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-09"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-09",
-  "last_generated_time": "2026-05-09T20:02:03.836033+00:00",
+  "last_generated_time": "2026-05-09T21:01:57.012692+00:00",
   "digest": {
     "digest": "Recent developments indicate continued military engagements between the U.S. and Iran, with U.S. forces striking Iranian-flagged tankers amidst accusations of \"reckless\" attacks from Tehran. Despite these clashes, President Trump has stated that a ceasefire remains intact. Tensions are further exacerbated by renewed Iranian attacks and Hezbollah launching rockets at northern Israel, prompting the UAE to activate its air defense system. Diplomatic efforts are ongoing, with a Qatari mediator involved in awaiting a response to a peace plan, though the U.S. and Iran appear no closer to ending hostilities. The conflict's economic repercussions are significant, impacting global food supply chains as Asia's farmers face hardship, and China's energy imports have dropped, leading to a decade low in fuel exports. The U.S. has also imposed sanctions on Chinese satellite imagery companies supplying Iran's drone program, targeting Iran's missile and drone capabilities. Meanwhile, the Emirates are strengthening ties with the U.S. and Israel amidst the ongoing conflict.",
     "top_themes": [

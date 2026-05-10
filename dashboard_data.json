@@ -9841,7 +9841,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-09"
     },
     "https://www.timesofisrael.com/trumps-feuds-and-tensions-with-us-allies-likely-to-outlast-iran-war/amp/": {
       "summary": "",
@@ -9862,6 +9862,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-09"
+    },
+    "https://www.ft.com/content/0dd9368e-33e5-488e-a0b3-c7ad1f7953d3": {
+      "summary": "CFO Victor Vial says world trading routes will be permanently reshaped after the conflict",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-10/qatar-sends-first-lng-shipment-through-hormuz-since-war-started": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
     }
   },
   "last_run_success": true,

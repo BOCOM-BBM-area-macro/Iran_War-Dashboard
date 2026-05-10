@@ -9953,89 +9953,99 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-10"
+    },
+    "https://www.reuters.com/world/middle-east/irans-supreme-leader-briefs-military-chief-new-guiding-measures-fars-agency-says-2026-05-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-09",
-  "last_generated_time": "2026-05-09T23:02:04.026035+00:00",
+  "last_generated_date": "2026-05-10",
+  "last_generated_time": "2026-05-10T08:01:53.961305+00:00",
   "digest": {
-    "digest": "Recent developments indicate continued military engagements between the U.S. and Iran, with U.S. forces striking Iranian-flagged tankers amidst accusations of \"reckless\" attacks from Tehran. Despite these clashes, President Trump has stated that a ceasefire remains intact. Tensions are further exacerbated by renewed Iranian attacks and Hezbollah launching rockets at northern Israel, prompting the UAE to activate its air defense system. Diplomatic efforts are ongoing, with a Qatari mediator involved in awaiting a response to a peace plan, though the U.S. and Iran appear no closer to ending hostilities. The conflict's economic repercussions are significant, impacting global food supply chains as Asia's farmers face hardship, and China's energy imports have dropped, leading to a decade low in fuel exports. The U.S. has also imposed sanctions on Chinese satellite imagery companies supplying Iran's drone program, targeting Iran's missile and drone capabilities. Meanwhile, the Emirates are strengthening ties with the U.S. and Israel amidst the ongoing conflict.",
+    "digest": "The ongoing Iran war continues to exert significant pressure on global supply chains and energy markets. Disruptions to key shipping routes, particularly the Strait of Hormuz, are impacting oil prices and availability, with the world's oil buffer being depleted at an unprecedented pace. This has led to increased revenues for alternative routes like the Panama Canal, while also affecting agricultural sectors reliant on fertilizer and fuel imports. Military actions persist, with reports of Israel operating a secret base in Iraq for potential pilot recovery and focused strikes on Iran's nuclear weaponization facilities rather than enrichment. Diplomatic efforts for a lasting truce remain elusive, with a month-long cease-fire holding despite recent exchanges of fire, indicating a continued deadlock in negotiations. The conflict is also straining relationships between the US and its allies, who largely opposed the war and are now dealing with its economic consequences. The war's impact extends to cultural heritage, with significant damage reported to historical sites within Iran.",
     "top_themes": [
-      "US-Iran Military Clashes",
-      "Diplomatic Tensions",
-      "Global Economic Impact"
+      "Global Economic Disruptions",
+      "Geopolitical Tensions and Military Actions",
+      "Impact on Energy Markets",
+      "Diplomatic Stalemate"
     ],
     "next_events": [
       {
-        "title": "Ceasefire Durability and Peace Negotiations",
-        "description": "Despite claims of an intact ceasefire, recent US strikes on Iranian tankers and renewed clashes in the Gulf indicate its fragility. Analysts should monitor the progress of Qatari-led mediation efforts and the US response to any Iranian actions, as these will determine the path towards de-escalation or further conflict."
+        "title": "Global Supply Chain Resilience and Trade Route Shifts",
+        "description": "The Iran war has exposed critical vulnerabilities in global supply chains, particularly for oil, food (fertilizers, fuel), and essential chemicals. Analysts should monitor the sustained impact on commodity prices, the effectiveness of alternative routes like the Saudi East-West pipeline and the Panama Canal, and how these shifts permanently alter global trade patterns away from traditional choke points like the Strait of Hormuz."
       },
       {
-        "title": "Gulf Escalation and Regional Security Posture",
-        "description": "The US has continued to strike Iranian-flagged tankers, while the UAE has activated air defense systems and Hezbollah has launched rockets at Israel. Watch for further military engagements in the Gulf, the responses from regional actors like the UAE and Israel, and how these events impact the broader security landscape and potential for wider conflict."
+        "title": "Durability of Ceasefire and Diplomatic Breakthroughs",
+        "description": "Despite reports of a month-long ceasefire, recent exchanges of fire indicate its fragility, and a lasting truce remains elusive. Watch for any concrete progress in negotiations between the US and Iran, particularly Iran's official response to peace proposals, as this will dictate the immediate de-escalation or re-escalation of the conflict."
       },
       {
-        "title": "Sanctions Impact on Iran's Military and Global Supply Chains",
-        "description": "The US has sanctioned Chinese companies supplying Iran's missile and drone programs, aiming to cripple its military capabilities. Analysts should track the effectiveness of these sanctions on Iran's ability to produce and deploy advanced weaponry, as well as the broader economic repercussions on global food and energy supplies, particularly in Asia."
+        "title": "Iran's Nuclear Program and Evolving Military Strategy",
+        "description": "The focus of US/Israeli strikes on nuclear weaponization facilities, rather than enrichment, suggests a strategic effort to prevent a weaponized Iran. Analysts should closely monitor any 'new guiding measures' from Iran's Supreme Leader to its military, as well as any indications of renewed activity at targeted sites or shifts in their nuclear program's direction."
       },
       {
-        "title": "Iran's Strategic Adaptations and Information Warfare",
-        "description": "Iran is reportedly gaining ground in information warfare and leveraging the Caspian Sea as a strategic trade route. Monitor Iran's efforts to control narratives and develop alternative economic and logistical pathways, which could mitigate the impact of sanctions and enhance its regional influence."
+        "title": "Regional Military Posturing and Escalation Risks",
+        "description": "The revelation of Israel's secret base in Iraq and ongoing clashes near the Strait of Hormuz highlight persistent regional tensions and the potential for further conflict. Watch for any increased military deployments, proxy activities, or maritime incidents that could signal a renewed escalation, particularly given the unresolved issues of maritime leverage and Gulf vulnerability."
       },
       {
-        "title": "US Alliance Cohesion and Future Foreign Policy",
-        "description": "Questions have arisen regarding allies' support for the US stance on Iran, even as the UAE strengthens ties with the US and Israel. Analysts should observe how US leadership navigates these complex alliance dynamics and whether domestic political tensions continue to shape the long-term foreign policy approach to the Iran conflict."
+        "title": "Long-Term Impact on US Alliances and International Relations",
+        "description": "The Iran war has exacerbated existing tensions between the US and its NATO and Gulf partners, many of whom opposed the conflict and are now dealing with its economic fallout. Analysts should observe how these rifts evolve, as they could significantly impact future international cooperation on security, trade, and regional stability, potentially reshaping global diplomatic alignments."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Latest on the Iran War: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 09, 2026 · 07:41 BRT",
-      "pub_date": "2026-05-09",
-      "pub_ts": 1778323260,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "U.S. strikes two Iranian-flagged tankers as tensions continue amid ceasefire - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/08/us-iran-ceasefire-hormuz-attacks/",
+      "title": "Gulf nations hoped to move beyond oil. The Iran war made that much harder. - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 09, 2026 · 07:08 BRT",
-      "pub_date": "2026-05-09",
-      "pub_ts": 1778321327,
+      "published": "May 10, 2026 · 07:32 BRT",
+      "pub_date": "2026-05-10",
+      "pub_ts": 1778409141,
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
       ],
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": true
+      "sentiment_success": false
     },
     {
-      "title": "Muted U.S. Response to Iranian Attacks Deepens Gulf Fears About Cease-Fire - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-us-ceasefire-deal-gulf-countries-9402cac4",
+      "title": "Saudi Aramco profits rise as oil price surge and pipeline offset Iran war hit - Financial Times",
+      "url": "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "May 10, 2026 · 06:55 BRT",
+      "pub_date": "2026-05-10",
+      "pub_ts": 1778406920,
+      "summary": "East-west pipeline allows world’s biggest oil company to circumvent the Strait of Hormuz and keep pumping",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel Built and Defended a Secret Iran War Base in Iraq - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "May 09, 2026 · 00:00 BRT",
+      "published": "May 09, 2026 · 15:00 BRT",
       "pub_date": "2026-05-09",
-      "pub_ts": 1778295600,
+      "pub_ts": 1778349600,
       "summary": "",
       "tags": [
         "extracted",
@@ -10052,9 +10062,9 @@
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 09, 2026 · 07:32 BRT",
+      "published": "May 09, 2026 · 13:00 BRT",
       "pub_date": "2026-05-09",
-      "pub_ts": 1778322738,
+      "pub_ts": 1778342405,
       "summary": "",
       "tags": [
         "extracted",
@@ -10066,27 +10076,8 @@
       "sentiment_success": true
     },
     {
-      "title": "Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 08, 2026 · 09:59 BRT",
-      "pub_date": "2026-05-08",
-      "pub_ts": 1778245194,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "China energy imports drop in April amid Iran war as fuel exports hit decade low - Reuters",
-      "url": "https://www.reuters.com/business/energy/china-energy-imports-drop-april-amid-iran-war-fuel-exports-hit-decade-low-2026-05-09/",
+      "title": "Tanker crosses Strait of Hormuz as US waits for Iran's response to peace proposal - Reuters",
+      "url": "https://www.reuters.com/world/china/us-iran-no-closer-ending-war-gulf-clashes-flare-2026-05-09/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
@@ -10097,6 +10088,25 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "negative",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": true
+    },
+    {
+      "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 09, 2026 · 09:30 BRT",
+      "pub_date": "2026-05-09",
+      "pub_ts": 1778329800,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "negative",
       "_rank": 0,
@@ -16668,7 +16678,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-09T11:10:58.407382+00:00",
-  "last_watch_time": "2026-05-09T11:11:07.506385+00:00",
-  "last_relevant_time": "2026-05-09T11:11:08.215876+00:00"
+  "last_digest_time": "2026-05-10T11:07:57.998536+00:00",
+  "last_watch_time": "2026-05-10T11:08:06.323500+00:00",
+  "last_relevant_time": "2026-05-10T11:08:07.085724+00:00"
 }

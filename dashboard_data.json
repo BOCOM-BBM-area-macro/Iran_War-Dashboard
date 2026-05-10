@@ -9818,7 +9818,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-09"
     },
     "https://www.timesofisrael.com/israel-said-to-have-built-secret-base-in-iraqi-desert-to-support-iran-air-campaign/": {
       "summary": "According to Wall Street Journal, Israeli troops launched airstrikes against Iraqi forces who nearly discovered the airbase in early March; at the time, Iraq blamed US for the strikes",
@@ -9841,7 +9841,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-09"
+      "pub_date": "2026-05-10"
     },
     "https://www.timesofisrael.com/trumps-feuds-and-tensions-with-us-allies-likely-to-outlast-iran-war/amp/": {
       "summary": "",
@@ -10031,10 +10031,13 @@
       "pub_date": "2026-05-10"
     },
     "https://www.bloomberg.com/news/articles/2026-05-10/iran-submitted-response-to-us-peace-plan-proposal-irna-reports": {
-      "summary": "",
+      "summary": "Iran submitted its response to the latest US proposal to end 10 weeks of war as a series of incidents continues to threaten a shaky ceasefire.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "War",
+        "Generic 1st 'CL' Future",
+        "Generic 1st 'NG' Future",
+        "Tehran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10071,10 +10074,13 @@
       "pub_date": "2026-05-10"
     },
     "https://www.bloomberg.com/news/articles/2026-05-10/pimco-cio-sees-risk-of-fed-hiking-rates-due-to-iran-war-ft-says": {
-      "summary": "",
+      "summary": "The war in Iran may lead the Federal Reserve to further delay interest-rate cuts and instead raise rates, Pimco Chief Investment Officer Dan Ivascyn told the Financial Times.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "War",
+        "Chief Executive Officer",
+        "Federal Reserve",
+        "inflation"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10122,11 +10128,54 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-10/netanyahu-says-war-with-iran-isn-t-over-need-to-secure-uranium": {
+      "summary": "The US-Israeli war with Iran is “not over” because there’s nuclear material in the country that still needs to be removed, Israeli Prime Minister Benjamin Netanyahu said.",
+      "tags": [
+        "Iran",
+        "War",
+        "Donald John Trump",
+        "Generic 1st 'CL' Future",
+        "Israel"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.wsj.com/video/netanyahu-says-iran-war-isnt-over-because-nuclear-material-remains/7402FAF2-D652-4F09-B086-56DC069F5578": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.wsj.com/world/middle-east/israels-clandestine-war-base-in-iraq-ca9a864c": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.cbc.ca/news/world/iran-us-ceasefire-drone-attacks-9.7194290": {
+      "summary": "Iran has sent its response to the latest U.S. ceasefire proposal to Pakistani mediators and wants negotiations to focus on permanently ending the war, Iran's state-run media said Sunday.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-10",
-  "last_generated_time": "2026-05-10T14:01:51.173980+00:00",
+  "last_generated_time": "2026-05-10T15:01:54.917593+00:00",
   "digest": {
     "digest": "The ongoing Iran war continues to exert significant pressure on global supply chains and energy markets. Disruptions to key shipping routes, particularly the Strait of Hormuz, are impacting oil prices and availability, with the world's oil buffer being depleted at an unprecedented pace. This has led to increased revenues for alternative routes like the Panama Canal, while also affecting agricultural sectors reliant on fertilizer and fuel imports. Military actions persist, with reports of Israel operating a secret base in Iraq for potential pilot recovery and focused strikes on Iran's nuclear weaponization facilities rather than enrichment. Diplomatic efforts for a lasting truce remain elusive, with a month-long cease-fire holding despite recent exchanges of fire, indicating a continued deadlock in negotiations. The conflict is also straining relationships between the US and its allies, who largely opposed the war and are now dealing with its economic consequences. The war's impact extends to cultural heritage, with significant damage reported to historical sites within Iran.",
     "top_themes": [
@@ -10331,6 +10380,20 @@
           "published": "May 08, 2026 · 22:19 BRT",
           "pub_date": "2026-05-08",
           "pub_ts": 1778289540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Suspected oil spill seen on satellite images near Iran's Kharg Island export hub - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFpHNXpHcWFYR3d6eTczRXVLekdoWWptdmNNczRrZnc2MDhhUnFneF9paGY3YzZkbnE2ZGprMXY3d0VJRU83RERrU1JKYi1Jend3ZkpieS1rcG5tUzQ1MENnMHNnc1IwSnlyc2FqSEhHeWIxN1Y2eHU0enE3QnRxZTRySUZxLUl3ekJ2UFNsUG9CTnNDbml2NzBMUWpvWEZTTy1aQmFlNEVKbFQ2YWFIRGd1clNaakZHVl9RUlBRbDBfSzBmSGRsY0Fn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 08, 2026 · 19:09 BRT",
+          "pub_date": "2026-05-08",
+          "pub_ts": 1778278180,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

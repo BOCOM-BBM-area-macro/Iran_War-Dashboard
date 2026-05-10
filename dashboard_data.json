@@ -9902,6 +9902,37 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-10"
+    },
+    "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83": {
+      "summary": "East-west pipeline allows oil company to circumvent the Strait of Hormuz and keep pumping",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.jpost.com/international/article-895650": {
+      "summary": "The disruptions have hit farmers entering key sowing periods, particularly those dependent on urea fertilizer and imported fuel.",
+      "tags": [
+        "Israel Iran War",
+        "Global trade",
+        "Famine"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-10/aramco-profit-climbs-as-war-driven-oil-rise-offsets-export-hit": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
     }
   },
   "last_run_success": true,
@@ -15652,6 +15683,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Global food supply threatened by ongoing Iran War - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mUTk0YVV4SE5ycy1OOUFFRlNvZzNPdkpZUnY3amZ0NndkaEhSa0VwUDVOV1J4NVNwd1hydzA4UkxuRy1aWGFCR3RyMlBWeGhFbGhyTnRxNkwtd011dlhJ?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 10, 2026 · 04:11 BRT",
+          "pub_date": "2026-05-10",
+          "pub_ts": 1778397060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war is crushing Asia’s farmers, threatening global food supply - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHenFUOHZibUJwUENoaW9GUGVrUC1WSWVJNC1yTktmOUFxRExHZjh1OVc2NHpUU3pvLUVLcVlZVHEtbGVIV2p0bDl2YnFUSGtHTTl1MExiY25hSGhSZHM2THEtRGktalVEMVM2aVg2b0NkWVR5dE1LeC1oM2F2QQ?oc=5",

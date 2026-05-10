@@ -8767,7 +8767,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-06"
     },
     "https://www.nytimes.com/2026/05/06/us/politics/jd-vance-iowa-2028.html": {
       "summary": "The vice president, a skeptic of the war, made his first visit of the cycle to the state that will kick off the 2028 nominating process.",
@@ -9933,6 +9933,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-10"
+    },
+    "https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83?syn-25a6b1a6=1": {
+      "summary": "East-west pipeline allows world’s biggest oil company to circumvent the Strait of Hormuz and keep pumping",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
     }
   },
   "last_run_success": true,
@@ -10091,6 +10111,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Gulf nations hoped to move beyond oil. The Iran war made that much harder. - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGFqU01IWXRFTjk0Tk1obG9GM1ZwMFhZOXB0U2drM1ZyeXFPYm5hRFFxTVRUNXVoZmtwS1lXNjh0a1RmZ0NNdDN2aWZGLWpsd0tBMm9uUThSdXJGTlpPLVc5LWNRUjBwaHhYalNuQUF5clg4TGM1aHpJLWg4MHpsRnQ0eFMzdw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 10, 2026 · 06:01 BRT",
+          "pub_date": "2026-05-10",
+          "pub_ts": 1778403707,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmZYb0dtYlpySkRlWUhtR1ZSSkViNV96OTdMdHFGQWtNSEJVTnNLZDBfLWZTaHdYcUgzSXNaaU9rY05MQ1gyTF93aWVnMGtwX3VqR3R4SEdlNXIwRDE0LUl0ZTctWldOcGJwYVJlYVpCOS1seFlkdGYzMTlqcy11bThlMXFaMXllNkZXVnpqSno3RmI5TXJsY2hSMi1FWHNvOEptZnJ3UHIwRDJweVZvR3hB?oc=5",

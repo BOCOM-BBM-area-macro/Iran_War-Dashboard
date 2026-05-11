@@ -10233,7 +10233,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-11"
     },
     "https://www.timesofisrael.com/iran-sends-response-to-latest-us-peace-proposal-as-netanyahu-insists-war-not-over/": {
       "summary": "State media says it is focused on 'ending war, maritime security,' no mention of nuclear talks; PM tells '60 Minutes' conflict will continue until uranium removed from country",
@@ -10253,7 +10253,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-10"
     },
     "https://www.timesofisrael.com/iran-war-sets-cooler-tone-for-trumps-upcoming-china-trip-than-his-first-term-visit/": {
       "summary": "As the largest purchaser of Iranian oil, China's premier Xi Jinping is expected to discuss the US's war with Iran and other issues, including trade",
@@ -10375,7 +10375,27 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-11"
+    },
+    "https://www.ft.com/content/f4030665-d5dc-4afd-8e62-9b2ee8a8ad0f?syn-25a6b1a6=1": {
+      "summary": "Trading desks at BP, Shell and TotalEnergies outshine US rivals",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/business/goldman-sachs-delays-fed-cut-outlook-december-2026-iran-war-drives-us-inflation-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
     }
   },
   "last_run_success": true,
@@ -10534,6 +10554,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Europe’s oil majors reap up to $4.75bn from trading on Iran war volatility - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPekdFV1JaUkR1NjlhTGxLV1FfSWtWTGZ5ckYyRndPN01kNFF6eFFBMENmU2tLR1BYWWNMNDBCbGhFczlfczRKOU1nZHJDY1lHRXpRZGxxcHNmZ09aUFhYeG9JSDlmVnZ2bl90ZnhVWmZKYTRLcGo2WHoycmNjUXpkcklnMXE?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 01:01 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778472074,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gulf nations hoped to move beyond oil. The Iran war made that much harder. - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGFqU01IWXRFTjk0Tk1obG9GM1ZwMFhZOXB0U2drM1ZyeXFPYm5hRFFxTVRUNXVoZmtwS1lXNjh0a1RmZ0NNdDN2aWZGLWpsd0tBMm9uUThSdXJGTlpPLVc5LWNRUjBwaHhYalNuQUF5clg4TGM1aHpJLWg4MHpsRnQ0eFMzdw?oc=5",

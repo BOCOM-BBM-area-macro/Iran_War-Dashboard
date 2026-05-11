@@ -9573,7 +9573,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-09"
+      "pub_date": "2026-05-10"
     },
     "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html": {
       "summary": "",
@@ -10541,11 +10541,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-11"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-05-11/iran-war-is-triggering-a-new-china-push-on-clean-technology-exports?srnd=undefined": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/world/india/gold-falls-oil-driven-inflation-worries-usiran-peace-talks-falter-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/markets/wealth/emerging-market-investors-shrug-off-iran-war-shock-iif-data-shows-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-11",
-  "last_generated_time": "2026-05-11T10:02:15.049516+00:00",
+  "last_generated_time": "2026-05-11T12:02:06.450543+00:00",
   "digest": {
     "digest": "Iran has submitted its response to a US proposal aimed at ending the ongoing war, a move met with immediate rejection from President Trump, who deemed it \"totally unacceptable.\" This diplomatic impasse persists despite a month-long cease-fire that has seen intermittent exchanges of fire. Iran's proposal reportedly calls for an end to the war, the lifting of sanctions, and the reopening of the Strait of Hormuz, while also addressing its nuclear program by proposing dilution of enriched uranium and transfer to a third country, though with conditions on its return. The US, however, has not met Iran's demands regarding sanctions relief and naval blockade, leading to continued wrangling over the terms of a potential deal. The closure of the Strait of Hormuz continues to impact global oil prices, which have seen an increase as peace prospects dim. The war's strain on US weapons stocks has also raised concerns among allies regarding their own military support, particularly for Ukraine. Diplomatic efforts are ongoing, with Turkey's foreign minister scheduled to visit Qatar for talks concerning the Iran war, and the conflict's impact has led to the delay of a US-China summit. Both the US and Iran maintain that a lasting truce remains elusive, with neither side ruling out renewed combat.",
     "top_themes": [
@@ -15647,6 +15677,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "How a Jet Fuel Supply Crunch Threatens Summer Flights - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSE9YSDFNWnVHUXEtN3hUOE04Mk55ZklUaGZDNnRrUjhBbXdicE9zMmRvLVo3WU91QW5iTlZMbG9iRjFaM2pUU1kwSTNqUGJ0T1ZERmtuNWNZYUdlbDRleDRXUUtvdWlSQkZQOTdEMldvWlEzRmQ1ejBrY0w2V2hpTE5hYVJuY2ZGQXpwalAzNnZOT1JDYy1GV1VQWlpDSGUzZ056YUxhMVBCR01KWm9rcl9iZ0p0b04wejRhR3JpQzFabEhx?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 09:00 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778500843,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "British Airways owner IAG warns Iran war will add €2bn to jet fuel bill - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvXzVNY28yU2hwTlVXb1hQQjNaTU5JRWdTeXFtQ0UxeUo2T2hYX0ZYcWE3a0JuYlJJM2xyR0ZxX3dfLVBkSWEwS09INENvck44dXNyV2xoa1VrQU5uRmpnSnV0UXRWMUNxaHB6ZUdyUWtDRVdzZ2UxUzFpWTVXSlBhNGw?oc=5",

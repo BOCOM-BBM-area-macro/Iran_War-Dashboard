@@ -10246,10 +10246,13 @@
       "pub_date": "2026-05-10"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-10/mideast-conflict-iran-responds-to-trump-s-proposal-to-end-war": {
-      "summary": "",
+      "summary": "Get caught up.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Donald John Trump",
+        "Iran",
+        "War",
+        "Government",
+        "Spain"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10436,155 +10439,193 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-11"
-    }
-  },
-  "last_run_success": true,
-  "last_generated_date": "2026-05-10",
-  "last_generated_time": "2026-05-10T23:01:50.690675+00:00",
-  "digest": {
-    "digest": "The ongoing Iran war continues to exert significant pressure on global supply chains and energy markets. Disruptions to key shipping routes, particularly the Strait of Hormuz, are impacting oil prices and availability, with the world's oil buffer being depleted at an unprecedented pace. This has led to increased revenues for alternative routes like the Panama Canal, while also affecting agricultural sectors reliant on fertilizer and fuel imports. Military actions persist, with reports of Israel operating a secret base in Iraq for potential pilot recovery and focused strikes on Iran's nuclear weaponization facilities rather than enrichment. Diplomatic efforts for a lasting truce remain elusive, with a month-long cease-fire holding despite recent exchanges of fire, indicating a continued deadlock in negotiations. The conflict is also straining relationships between the US and its allies, who largely opposed the war and are now dealing with its economic consequences. The war's impact extends to cultural heritage, with significant damage reported to historical sites within Iran.",
-    "top_themes": [
-      "Global Economic Disruptions",
-      "Geopolitical Tensions and Military Actions",
-      "Impact on Energy Markets",
-      "Diplomatic Stalemate"
-    ],
-    "next_events": [
-      {
-        "title": "Global Supply Chain Resilience and Trade Route Shifts",
-        "description": "The Iran war has exposed critical vulnerabilities in global supply chains, particularly for oil, food (fertilizers, fuel), and essential chemicals. Analysts should monitor the sustained impact on commodity prices, the effectiveness of alternative routes like the Saudi East-West pipeline and the Panama Canal, and how these shifts permanently alter global trade patterns away from traditional choke points like the Strait of Hormuz."
-      },
-      {
-        "title": "Durability of Ceasefire and Diplomatic Breakthroughs",
-        "description": "Despite reports of a month-long ceasefire, recent exchanges of fire indicate its fragility, and a lasting truce remains elusive. Watch for any concrete progress in negotiations between the US and Iran, particularly Iran's official response to peace proposals, as this will dictate the immediate de-escalation or re-escalation of the conflict."
-      },
-      {
-        "title": "Iran's Nuclear Program and Evolving Military Strategy",
-        "description": "The focus of US/Israeli strikes on nuclear weaponization facilities, rather than enrichment, suggests a strategic effort to prevent a weaponized Iran. Analysts should closely monitor any 'new guiding measures' from Iran's Supreme Leader to its military, as well as any indications of renewed activity at targeted sites or shifts in their nuclear program's direction."
-      },
-      {
-        "title": "Regional Military Posturing and Escalation Risks",
-        "description": "The revelation of Israel's secret base in Iraq and ongoing clashes near the Strait of Hormuz highlight persistent regional tensions and the potential for further conflict. Watch for any increased military deployments, proxy activities, or maritime incidents that could signal a renewed escalation, particularly given the unresolved issues of maritime leverage and Gulf vulnerability."
-      },
-      {
-        "title": "Long-Term Impact on US Alliances and International Relations",
-        "description": "The Iran war has exacerbated existing tensions between the US and its NATO and Gulf partners, many of whom opposed the conflict and are now dealing with its economic fallout. Analysts should observe how these rifts evolve, as they could significantly impact future international cooperation on security, trade, and regional stability, potentially reshaping global diplomatic alignments."
-      }
-    ]
-  },
-  "relevant_news": [
-    {
-      "title": "Gulf nations hoped to move beyond oil. The Iran war made that much harder. - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 10, 2026 · 07:32 BRT",
-      "pub_date": "2026-05-10",
-      "pub_ts": 1778409141,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     },
-    {
-      "title": "Saudi Aramco profits rise as oil price surge and pipeline offset Iran war hit - Financial Times",
-      "url": "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "May 10, 2026 · 06:55 BRT",
-      "pub_date": "2026-05-10",
-      "pub_ts": 1778406920,
-      "summary": "East-west pipeline allows world’s biggest oil company to circumvent the Strait of Hormuz and keep pumping",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Israel Built and Defended a Secret Iran War Base in Iraq - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "May 09, 2026 · 15:00 BRT",
-      "pub_date": "2026-05-09",
-      "pub_ts": 1778349600,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "Iran war is crushing Asia’s farmers, threatening global food supply - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/05/09/iran-farms-thailand-food/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 09, 2026 · 13:00 BRT",
-      "pub_date": "2026-05-09",
-      "pub_ts": 1778342405,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
-    },
-    {
-      "title": "Tanker crosses Strait of Hormuz as US waits for Iran's response to peace proposal - Reuters",
-      "url": "https://www.reuters.com/world/china/us-iran-no-closer-ending-war-gulf-clashes-flare-2026-05-09/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 09, 2026 · 03:58 BRT",
-      "pub_date": "2026-05-09",
-      "pub_ts": 1778309880,
+    "https://www.reuters.com/world/asia-pacific/turkeys-foreign-minister-visit-qatar-talks-iran-war-2026-05-11/": {
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
       ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": true
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
     },
+    "https://www.jpost.com/middle-east/iran-news/article-895774": {
+      "summary": "\"Our demand is legitimate: we are calling for an end to the war\" said Iran's Foreign Ministry spokesperson, Esmaeil Baghaei.",
+      "tags": [
+        "Iran",
+        "Peace",
+        "United States",
+        "Iran nuclear",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/world/asia-pacific/dollar-strengthens-trump-says-iran-peace-offer-unacceptable-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    }
+  },
+  "last_run_success": true,
+  "last_generated_date": "2026-05-11",
+  "last_generated_time": "2026-05-11T08:02:05.582006+00:00",
+  "digest": {
+    "digest": "Iran has submitted its response to a US proposal aimed at ending the ongoing war, a move met with immediate rejection from President Trump, who deemed it \"totally unacceptable.\" This diplomatic impasse persists despite a month-long cease-fire that has seen intermittent exchanges of fire. Iran's proposal reportedly calls for an end to the war, the lifting of sanctions, and the reopening of the Strait of Hormuz, while also addressing its nuclear program by proposing dilution of enriched uranium and transfer to a third country, though with conditions on its return. The US, however, has not met Iran's demands regarding sanctions relief and naval blockade, leading to continued wrangling over the terms of a potential deal. The closure of the Strait of Hormuz continues to impact global oil prices, which have seen an increase as peace prospects dim. The war's strain on US weapons stocks has also raised concerns among allies regarding their own military support, particularly for Ukraine. Diplomatic efforts are ongoing, with Turkey's foreign minister scheduled to visit Qatar for talks concerning the Iran war, and the conflict's impact has led to the delay of a US-China summit. Both the US and Iran maintain that a lasting truce remains elusive, with neither side ruling out renewed combat.",
+    "top_themes": [
+      "Iran Peace Proposal Rejection",
+      "Strait of Hormuz Closure",
+      "US-Iran Diplomatic Stalemate"
+    ],
+    "next_events": [
+      {
+        "title": "Future of US-Iran Peace Negotiations",
+        "description": "The US has rejected Iran's latest peace proposal as 'totally unacceptable,' while Iran insists its terms are 'generous' and legitimate. Analysts should closely monitor any further counter-proposals, diplomatic backchannels, or shifts in rhetoric from either side, as the two countries remain 'far apart' on a framework to end the war."
+      },
+      {
+        "title": "Reopening of the Strait of Hormuz",
+        "description": "The reopening of the Strait of Hormuz is a critical point of contention in peace talks, with Iran demanding an end to the US naval blockade. Its continued closure is causing oil prices to jump and impacting global economies. Watch for any agreements or escalations related to maritime passage and the US naval presence in the region."
+      },
+      {
+        "title": "Ceasefire Stability and Escalation Risk",
+        "description": "Despite a month-long ceasefire, both sides have exchanged fire, and leaders like Trump and Netanyahu have not ruled out renewed combat. Observers should watch for any further violations of the ceasefire, troop movements, or rhetoric that could signal an end to the current truce and a return to active hostilities."
+      },
+      {
+        "title": "International Mediation and Diplomacy",
+        "description": "Turkey's foreign minister is set to visit Qatar for talks on the Iran war, and a delayed China-US summit will see Trump press Xi Jinping on the conflict. These diplomatic engagements could introduce new mediation efforts or international pressure points. Monitor statements and outcomes from these high-level meetings for potential breakthroughs or further complications."
+      },
+      {
+        "title": "Iran's Nuclear Program Concessions",
+        "description": "Iran's latest proposal did not meet US demands regarding its nuclear program, specifically on enriched uranium and dismantling facilities. This remains a significant obstacle to a comprehensive peace deal. Watch for any flexibility from Iran on its nuclear demands or new US conditions related to its nuclear capabilities."
+      }
+    ]
+  },
+  "relevant_news": [
     {
-      "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace",
+      "title": "Iran Submits Response to Trump’s Proposal to End War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-10/mideast-conflict-iran-responds-to-trump-s-proposal-to-end-war",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "May 09, 2026 · 09:30 BRT",
-      "pub_date": "2026-05-09",
-      "pub_ts": 1778329800,
+      "published": "May 11, 2026 · 05:03 BRT",
+      "pub_date": "2026-05-11",
+      "pub_ts": 1778486629,
+      "summary": "Get caught up.",
+      "tags": [
+        "Donald John Trump",
+        "Iran",
+        "War",
+        "Government",
+        "Spain"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "Mideast\nConflict:\nIran\nResponds\nto\nTrump’s\nProposal\nto\nEnd\nWar\n-\nBloomberg\nWar\nWith\nIran:\nLatest\nHormuz\nChaos\nIsrael\nand\nHezbollah\nWorld’s\nOil\nBuffer\nHypersonic\nMissile\nObstacles\nto\na\nDeal\nBack\nForward\nNewsletter\nMorning\nBriefing\nAsia\nFacebook\nX\nLinkedIn\nEmail\nLink\nGift\nExpand\nIllustration:\nDaybreak/Getty\nImages\nFacebook\nX\nLinkedIn\nEmail\nLink\nGift\nGift\nthis\narticle\nContact\nus:\nProvide\nnews\nfeedback\nor\nreport\nan\nerror\nConfidential\ntip?\nSend\na\ntip\nto\nour\nreporters\nSite\nfeedback:\nTake\nour\nSurvey\nNew\nWindow\nFacebook\nX\nLinkedIn\nEmail\nLink\nGift\nBy\nSamantha\nStewart\nMay\n10,\n2026\nat\n9:30\nPM\nUTC\nBookmark\nSave\nGood\nmorning\n.\nIran\nresponds\nto\nthe\nUS\npeace\nproposal.\nPolestar\nwants\nto\ngo\neven\ngreener.\nAnd\nthe\nChinese\naren’t\ngetting\nhitched\nlike\nthey\nused\nto.\nListen\nto\nthe\nday’s\ntop\nstories\n.\nIran\nsubmitted\nits\nresponse\nto\na\nUS\nproposal\nto\nend\nthe\n10-week\nwar\n,\nwhich\nDonald\nTrump\nrejected\nas\n“totally\nunacceptable\n.”\nIndian\nPrime\nMinister\nNarendra\nModi\nurged\ncitizens\nto\ncut\nfuel\nuse\nand\navoid\nunnecessary\ntravel\nas\nrising\noil\nprices\nthreaten\nto\nwiden\nthe\nnation’s\nimport\nbill\nand\nstrain\nforeign-exchange\nreserves.\nHome\nBTV+\nMarket\nData\nOpinion\nAudio\nOriginals\nMagazine\nEvents\nNews\nMarkets\nEconomics\nTechnology\nPolitics\nGreen\nCrypto\nAI\nWork\n&\nLife\nWealth\nPursuits\nBusinessweek\nCityLab\nSports\nEquality\nManagement\n&\nWork\nMarket\nData\nStocks\nCommodities\nRates\n&\nBonds\nCurrencies\nFutures\nSectors\nEconomic\nCalendar\nExplore\nNewsletters\nExplainers\nPointed\nNews\nQuiz\nAlphadots\nGame\nThe\nBig\nTake\nGraphics\nSubmit\na\nTip\nAbout\nUs\nTerms\nof\nService\nDo\nNot\nSell\nor\nShare\nMy\nPersonal\nInformation\nTrademarks\nPrivacy\nPolicy\nCareers\nAdvertise\nAd\nChoices\nHelp\n©2026\nBloomberg\nL.P.\nAll\nRights\nReserved.",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump dismisses Iran's reply to peace plan, oil jumps as Hormuz closure persists - Reuters",
+      "url": "https://www.reuters.com/world/china/trump-rejects-irans-response-us-peace-proposal-unacceptable-2026-05-11/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 11, 2026 · 06:22 BRT",
+      "pub_date": "2026-05-11",
+      "pub_ts": 1778491338,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’ - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 10, 2026 · 13:03 BRT",
+      "pub_date": "2026-05-10",
+      "pub_ts": 1778429025,
+      "summary": "The two countries have been discussing a 30-day extension to the cease-fire and a reopening of the Strait of Hormuz.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US, Iran Wrangle Over Terms of Deal to End War And Reopen Hormuz - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/us-iran-wrangle-over-terms-of-deal-to-end-war-and-reopen-hormuz",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 11, 2026 · 05:09 BRT",
+      "pub_date": "2026-05-11",
+      "pub_ts": 1778486955,
       "summary": "",
       "tags": [
         "extracted",
         "bloomberg.com"
       ],
-      "sentiment": "negative",
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "Iran\nWar:\nTrump,\nTehran\nWrangle\nOver\nTerms\nof\nDeal\nto\nEnd\nWar\nAnd\nReopen\nHormuz\n-\nBloomberg\nWar\nWith\nIran:\nLatest\nHormuz\nChaos\nIsrael\nand\nHezbollah\nWorld’s\nOil\nBuffer\nHypersonic\nMissile\nObstacles\nto\na\nDeal\nBack\nForward\nPolitics\nFacebook\nX\nLinkedIn\nEmail\nLink\nGift\nExpand\nPeople\npass\na\nbillboard\ndepicting\nformer\nIranian\nsupreme\nleaders\nin\nTehran,\non\nMay\n9.\nPhotographer:\nMajid\nSaeedi/AFP/Getty\nImages\nFacebook\nX\nLinkedIn\nEmail\nLink\nGift\nGift\nthis\narticle\nContact\nus:\nProvide\nnews\nfeedback\nor\nreport\nan\nerror\nConfidential\ntip?\nSend\na\ntip\nto\nour\nreporters\nSite\nfeedback:\nTake\nour\nSurvey\nNew\nWindow\nFacebook\nX\nLinkedIn\nEmail\nLink\nGift\nBy\nSalma\nEl\nWardany\nand\nGalit\nAltstein\nMay\n11,\n2026\nat\n8:09\nAM\nUTC\nBookmark\nSave\nThe\nUS\nand\nIran\nremain\nfar\napart\non\na\nframework\nto\nend\ntheir\nwar\nand\nreopen\nthe\nStrait\nof\nHormuz,\nwith\nPresident\nDonald\nTrump\ncalling\nthe\nIslamic\nRepublic’s\nreply\nto\nhis\nproposed\npeace\nplan\nunworkable.\nTehran\ndemanded\na\nlifting\nof\nthe\nUS\nnaval\nblockade\nand\nsanctions\nrelief,\nwhile\nmaintaining\na\ndegree\nof\ncontrol\nover\ntraffic\nthrough\nHormuz,\naccording\nto\na\nperson\nfamiliar\nwith\nthe\nmatter,\nwho\nasked\nnot\nto\nbe\nidentified\ndiscussing\nsensitive\ninformation.\nHome\nBTV+\nMarket\nData\nOpinion\nAudio\nOriginals\nMagazine\nEvents\nNews\nMarkets\nEconomics\nTechnology\nPolitics\nGreen\nCrypto\nAI\nWork\n&\nLife\nWealth\nPursuits\nBusinessweek\nCityLab\nSports\nEquality\nManagement\n&\nWork\nMarket\nData\nStocks\nCommodities\nRates\n&\nBonds\nCurrencies\nFutures\nSectors\nEconomic\nCalendar\nExplore\nNewsletters\nExplainers\nPointed\nNews\nQuiz\nAlphadots\nGame\nThe\nBig\nTake\nGraphics\nSubmit\na\nTip\nAbout\nUs\nTerms\nof\nService\nDo\nNot\nSell\nor\nShare\nMy\nPersonal\nInformation\nTrademarks\nPrivacy\nPolicy\nCareers\nAdvertise\nAd\nChoices\nHelp\n©2026\nBloomberg\nL.P.\nAll\nRights\nReserved.",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran rejects Trump’s criticism, defends proposal to end the war - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-895774",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "May 11, 2026 · 06:27 BRT",
+      "pub_date": "2026-05-11",
+      "pub_ts": 1778491662,
+      "summary": "\"Our demand is legitimate: we are calling for an end to the war\" said Iran's Foreign Ministry spokesperson, Esmaeil Baghaei.",
+      "tags": [
+        "Iran",
+        "Peace",
+        "United States",
+        "Iran nuclear",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "Iran\nrejects\nTrump’s\ncriticism,\ndefends\nproposal\nto\nend\nthe\nwar\n|\nThe\nJerusalem\nPost\nIran\ninsists\nlatest\nproposal\nis\n'generous'\ndespite\nTrump’s\nrejection\n\"Our\ndemand\nis\nlegitimate:\nwe\nare\ncalling\nfor\nan\nend\nto\nthe\nwar\"\nsaid\nIran's\nForeign\nMinistry\nspokesperson,\nEsmaeil\nBaghaei.\nIRAN'S\nFOREIGN\nMinistry\nspokesman\nEsmaeil\nBaghaei\nattends\nan\ninterview,\namid\nthe\nUS-Israeli\nconflict\nwith\nIran,\nin\nTehran,\nIran,\nApril\n5,\n2026.\n(\nphoto\ncredit\n:\nMAJID\nASGARIPOUR/WANA\n(WEST\nASIA\nNEWS\nAGENCY)\nVIA\nREUTERS\n)\nBy\nSHOSHANA\nBAKER\nMAY\n11,\n2026\n12:23\nUpdated\n:\nMAY\n11,\n2026\n12:27\nIran's\nForeign\nMinistry\nspokesperson,\nEsmaeil\nBaghaei,\nresponded\non\nMonday\nto\nUS\nPresident\nDonald\nTrump's\npost\non\nTruth\nSocial,\nin\nwhich\nTrump\ncalled\nIran's\nlatest\nproposal\nto\nend\nthe\nwar\n\"totally\nunacceptable.\"\nBaghaei\ncountered\nTrump’s\nremarks,\nasserting\nthat\nIran's\nproposal\nto\nthe\nUnited\nStates\nwas\nreasonable\nand\nemphasized\nthat\nthe\nUS\ncontinues\nto\nmake\nunreasonable\ndemands.\nHe\nstated\nthat\nTehran\nseeks\nonly\nto\nsecure\nits\nrights\nand\nhas\nmade\ngenerous\nand\nresponsible\nsuggestions\nto\nthe\nUS.\n\"Our\ndemand\nis\nlegitimate:\nwe\nare\ncalling\nfor\nan\nend\nto\nthe\nwar,\nthe\nlifting\nof\nthe\nUS\nblockade\nand\npiracy,\nand\nthe\nrelease\nof\nIranian\nassets\nthat\nhave\nbeen\nunjustly\nfrozen\nin\nbanks\ndue\nto\nUS\npressure,\"\nBaghaei\nsaid.\n\"Safe\npassage\nthrough\nthe\nStrait\nof\nHormuz\nand\nestablishing\nsecurity\nin\nthe\nregion\nand\nLebanon\nare\nother\ndemands\nof\nIran,\nwhich\nare\nconsidered\ngenerous\nand\nresponsible\noffers\nfor\nregional\nsecurity,\"\nhe\nadded.\nDetails\nof\nthe\nlatest\nIranian\nproposal\nThis\nlatest\nIranian\nproposal\nreportedly\nstressed\nthe\nneed\nto\nend\nthe\nwar\non\nall\nfronts\nand\nlift\nsanctions\non\nTehran,\naccording\nto\na\nreport\nfrom\nthe\nsemi-official\nIranian\nnews\noutlet,\nTasnim.\nIt\nreportedly\nemphasized\nthe\nnecessity\nof\nlifting\nsanctions\nimposed\nby\nthe\nUS\nOffice\nof\nForeign\nAssets\nControl\non\nIranian\noil\nsales\nover\na\n30-day\nperiod\nand\nending\nthe\nnaval\nblockade\non\nIran.\nAccording\nto\nThe\nWall\nStreet\nJournal,\nIran's\nresponse\ndid\nnot\nmeet\nUS\ndemands\nregarding\nits\nnuclear\nprogram\nand\nenriched\nuranium\neither.\nIran\nreportedly\nproposed\ndiluting\nits\nenriched\nuranium\nstockpile\nand\ntransferring\npart\nof\nit\nto\na\nthird\ncountry\nthat\nis\nnot\nthe\nUnited\nStates.\nAdditionally,\nIran\ndemanded\nthat\nthe\nenriched\nuranium\nbe\nreturned\nto\nits\npossession\nif\nthe\ntalks\nfail\nor\nif\nthe\nUS\nwithdraws\nfrom\nthe\nagreement\nat\na\nlater\nstage.\nWhile\nIran\nagreed\nto\nhalt\nuranium\nenrichment,\nit\nspecified\nthat\nthe\nduration\nwould\nbe\nshorter\nthan\n20\nyears,\nand\nTehran\nrefused\nto\ndismantle\nits\nnuclear\nfacilities.\nTrump's\nreaction\nto\nthe\nproposal\ncame\nas\nno\nsurprise\nto\nIranian\nofficials,\naccording\nto\nTasnim,\nwhich\ncited\nan\ninformed\nsource.\n\"We\njust\nwitnessed\nthe\nreaction\nof\nthe\n'so-called\nUS\nPresident'\nto\nIran’s\nresponse.\nIt\ndoesn’t\nmatter;\nno\none\nin\nIran\nis\ndrafting\na\nplan\nto\nplease\nTrump,\"\nthe\nsource\nstated.\nThe\nreport\nalso\nmentioned\nthat\nthe\nnegotiation\nteam\nis\nworking\non\na\nproposal\nfocused\n\"on\nthe\npeople\nof\nIran,\"\nadding,\n\"When\nTrump\nisn't\nhappy,\nit\nusually\nsignifies\nwe\nare\non\nthe\nright\ntrack.\"\nReuters,\nTobias\nHolcman,\nJames\nGenn\nand\nAmichai\nStein\ncontributed\nto\nthis\nreport.\nSee\nmore\non\nIran\n|\nPeace\n|\nUnited\nStates\n|\nIran\nnuclear\n|\nDonald\nTrump\n|\nstrait\nof\nhormuz\n|\nOperation\nEpic\nFury",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil Prices Rise as Prospects for U.S.-Iran Peace Deal Fizzle - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/10/business/oil-stocks-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 11, 2026 · 05:51 BRT",
+      "pub_date": "2026-05-11",
+      "pub_ts": 1778489460,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": true
+      "sentiment_success": false
     }
   ],
   "last_digest_success": true,
@@ -17249,7 +17290,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-10T11:07:57.998536+00:00",
-  "last_watch_time": "2026-05-10T11:08:06.323500+00:00",
-  "last_relevant_time": "2026-05-10T11:08:07.085724+00:00"
+  "last_digest_time": "2026-05-11T11:08:41.613301+00:00",
+  "last_watch_time": "2026-05-11T11:08:50.161040+00:00",
+  "last_relevant_time": "2026-05-11T11:08:51.256840+00:00"
 }

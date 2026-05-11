@@ -10233,7 +10233,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-10"
     },
     "https://www.timesofisrael.com/iran-sends-response-to-latest-us-peace-proposal-as-netanyahu-insists-war-not-over/": {
       "summary": "State media says it is focused on 'ending war, maritime security,' no mention of nuclear talks; PM tells '60 Minutes' conflict will continue until uranium removed from country",
@@ -10338,7 +10338,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-10"
     },
     "https://www.nytimes.com/2026/05/10/us/politics/trump-netanyahu-iran-war.html": {
       "summary": "The Trump administration said last week that the war had run its course, but the U.S. president and Israel’s prime minister in interviews on Sunday did not rule out renewed combat.",
@@ -10361,10 +10361,13 @@
       "pub_date": "2026-05-10"
     },
     "https://www.bloomberg.com/news/articles/2026-05-11/china-confirms-x-trump-summit-that-was-delayed-by-iran-war": {
-      "summary": "",
+      "summary": "Beijing officially announced the date of Donald Trump’s state visit this week, publicly green-lighting the first US presidential trip to China in nearly a decade despite tensions over the Iran war.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "China",
+        "Donald John Trump",
+        "Iran",
+        "War",
+        "Beijing"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10411,10 +10414,13 @@
       "pub_date": "2026-05-11"
     },
     "https://www.bloomberg.com/news/articles/2026-05-11/us-iran-wrangle-over-terms-of-deal-to-end-war-and-reopen-hormuz": {
-      "summary": "",
+      "summary": "The US and Iran remain far apart on a framework to end their war and reopen the Strait of Hormuz, with President Donald Trump calling the Islamic Republic’s reply to his proposed peace plan unworkable.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "War",
+        "Donald John Trump",
+        "Generic 1st 'CL' Future",
+        "Tehran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10472,11 +10478,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-11"
+    },
+    "https://www.ft.com/content/145eccf2-14d8-4819-bd75-5674a5818f7c?syn-25a6b1a6=1": {
+      "summary": "Conflict is reverberating across the US economy at cost of hundreds of billions of dollars in lost output",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-11/discounts-on-russian-oil-widened-for-first-time-since-iran-war": {
+      "summary": "Discounts on Russia’s flagship crude widened for the first time since the start of the Iran war, as shifting expectations over a possible end to the Middle East conflict rattled oil markets.",
+      "tags": [
+        "Iran",
+        "Generic 1st 'CL' Future",
+        "Russia",
+        "War",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-11",
-  "last_generated_time": "2026-05-11T08:02:05.582006+00:00",
+  "last_generated_time": "2026-05-11T09:02:02.181526+00:00",
   "digest": {
     "digest": "Iran has submitted its response to a US proposal aimed at ending the ongoing war, a move met with immediate rejection from President Trump, who deemed it \"totally unacceptable.\" This diplomatic impasse persists despite a month-long cease-fire that has seen intermittent exchanges of fire. Iran's proposal reportedly calls for an end to the war, the lifting of sanctions, and the reopening of the Strait of Hormuz, while also addressing its nuclear program by proposing dilution of enriched uranium and transfer to a third country, though with conditions on its return. The US, however, has not met Iran's demands regarding sanctions relief and naval blockade, leading to continued wrangling over the terms of a potential deal. The closure of the Strait of Hormuz continues to impact global oil prices, which have seen an increase as peace prospects dim. The war's strain on US weapons stocks has also raised concerns among allies regarding their own military support, particularly for Ukraine. Diplomatic efforts are ongoing, with Turkey's foreign minister scheduled to visit Qatar for talks concerning the Iran war, and the conflict's impact has led to the delay of a US-China summit. Both the US and Iran maintain that a lasting truce remains elusive, with neither side ruling out renewed combat.",
     "top_themes": [

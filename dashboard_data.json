@@ -9283,7 +9283,7 @@
       "pub_date": "2026-05-08"
     },
     "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal": {
-      "summary": "",
+      "summary": "The U.S. military said it struck Iranian military targets after, it said, Iran fired on U.S. warships in the Strait of Hormuz. President Trump threatened more if Iran didn’t agree to a peace offer.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -9818,7 +9818,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-09"
+      "pub_date": "2026-05-10"
     },
     "https://www.timesofisrael.com/israel-said-to-have-built-secret-base-in-iraqi-desert-to-support-iran-air-campaign/": {
       "summary": "According to Wall Street Journal, Israeli troops launched airstrikes against Iraqi forces who nearly discovered the airbase in early March; at the time, Iraq blamed US for the strikes",
@@ -10110,7 +10110,7 @@
       "pub_date": "2026-05-10"
     },
     "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html": {
-      "summary": "",
+      "summary": "The two countries have been discussing a 30-day extension to the cease-fire and a reopening of the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10264,11 +10264,73 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-10"
+    },
+    "https://www.wsj.com/world/trump-xi-meeting-iran-war-409c4ea1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.reuters.com/business/world-at-work/uk-jobs-market-cools-iran-war-hits-outlook-rec-survey-shows-2026-05-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.jpost.com/israel-news/benjamin-netanyahu/article-895739": {
+      "summary": "When asked how Iran's supply of enriched uranium could be removed from the country, Netanyahu replied simply that \"You go in, and you take it out.\"",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "uranium",
+        "Iran nuclear"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.ft.com/content/09c91701-114b-45e9-9aa1-767ef95a5217": {
+      "summary": "US president arrives in Beijing on Wednesday for his second in-person meeting with Chinese leader",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.nytimes.com/2026/05/10/business/oil-prices-rise-as-prospects-for-us-iran-peace-deal-fizzle.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-10/china-s-green-exporters-seize-on-new-markets-after-iran-war-fuel-shock": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-10",
-  "last_generated_time": "2026-05-10T20:01:47.069934+00:00",
+  "last_generated_time": "2026-05-10T21:01:52.567976+00:00",
   "digest": {
     "digest": "The ongoing Iran war continues to exert significant pressure on global supply chains and energy markets. Disruptions to key shipping routes, particularly the Strait of Hormuz, are impacting oil prices and availability, with the world's oil buffer being depleted at an unprecedented pace. This has led to increased revenues for alternative routes like the Panama Canal, while also affecting agricultural sectors reliant on fertilizer and fuel imports. Military actions persist, with reports of Israel operating a secret base in Iraq for potential pilot recovery and focused strikes on Iran's nuclear weaponization facilities rather than enrichment. Diplomatic efforts for a lasting truce remain elusive, with a month-long cease-fire holding despite recent exchanges of fire, indicating a continued deadlock in negotiations. The conflict is also straining relationships between the US and its allies, who largely opposed the war and are now dealing with its economic consequences. The war's impact extends to cultural heritage, with significant damage reported to historical sites within Iran.",
     "top_themes": [

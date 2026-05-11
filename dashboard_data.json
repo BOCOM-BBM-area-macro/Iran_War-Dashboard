@@ -9333,7 +9333,7 @@
       "pub_date": "2026-05-08"
     },
     "https://www.nytimes.com/2026/05/08/opinion/hegseth-war-cost.html": {
-      "summary": "",
+      "summary": "The war in Iran will cost trillions — far more than current estimates.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -9503,7 +9503,7 @@
       "pub_date": "2026-05-09"
     },
     "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz": {
-      "summary": "",
+      "summary": "The president made the announcement in a social media post just hours after Secretary of State Marco Rubio had affirmed the newly created mission, which bore little connection to the original justification for war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10308,7 +10308,7 @@
       "pub_date": "2026-05-10"
     },
     "https://www.nytimes.com/2026/05/10/business/oil-prices-rise-as-prospects-for-us-iran-peace-deal-fizzle.html": {
-      "summary": "",
+      "summary": "Oil prices rose and stock futures ticked down as investors reacted after the two sides failed to agree on a U.S.-Iran peace deal.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10326,11 +10326,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-10"
+    },
+    "https://www.nytimes.com/live/2026/05/10/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.nytimes.com/2026/05/10/us/politics/trump-netanyahu-iran-war.html": {
+      "summary": "The Trump administration said last week that the war had run its course, but the U.S. president and Israel’s prime minister in interviews on Sunday did not rule out renewed combat.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
+    },
+    "https://www.ft.com/content/09c91701-114b-45e9-9aa1-767ef95a5217?syn-25a6b1a6=1": {
+      "summary": "US president arrives in Beijing on Wednesday for his second in-person meeting with Chinese leader",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-10"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-10",
-  "last_generated_time": "2026-05-10T21:01:52.567976+00:00",
+  "last_generated_time": "2026-05-10T22:01:56.445519+00:00",
   "digest": {
     "digest": "The ongoing Iran war continues to exert significant pressure on global supply chains and energy markets. Disruptions to key shipping routes, particularly the Strait of Hormuz, are impacting oil prices and availability, with the world's oil buffer being depleted at an unprecedented pace. This has led to increased revenues for alternative routes like the Panama Canal, while also affecting agricultural sectors reliant on fertilizer and fuel imports. Military actions persist, with reports of Israel operating a secret base in Iraq for potential pilot recovery and focused strikes on Iran's nuclear weaponization facilities rather than enrichment. Diplomatic efforts for a lasting truce remain elusive, with a month-long cease-fire holding despite recent exchanges of fire, indicating a continued deadlock in negotiations. The conflict is also straining relationships between the US and its allies, who largely opposed the war and are now dealing with its economic consequences. The war's impact extends to cultural heritage, with significant damage reported to historical sites within Iran.",
     "top_themes": [
@@ -14372,6 +14402,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "President Calls Iran’s Response to Peace Proposal ‘Unacceptable’ - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPcEJoblBMZ01vMTFFZ0hkU04yTmI5UDVPSTc0cWRPZ0tBdlI3dENqcGhLa0NLMy1FZkxDdzE5QWFuQjJMQzJ4MnduQ19uVG5iaE82QjB4R3otc0prOUxUV244aw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 10, 2026 · 21:55 BRT",
+          "pub_date": "2026-05-10",
+          "pub_ts": 1778460925,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Qatar Sends First LNG Shipment Through Hormuz Since War Started - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1lxMXJZMFNDWFhjdWtCSzczZkwwODB2ZlU5Q2VmamhNWk5Sdmk5TldSak5wZVNrV1F4NWw3eHBhaWZKdnViVk4zTzk0SEhTaDVVa3dXRzBnNTZQZXhXM1A5NUFhcTBfb0dfWklvMS1ubkJCdGQ1RlVybVZuRjFjOUJtT3ZndVNnNE1CQjhPXzJFTUh6Y2pHM0VwY1ZkTkRTT29wOTB0SzgzVTQ4SW5ZMGxoMEY?oc=5",

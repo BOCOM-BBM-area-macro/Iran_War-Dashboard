@@ -10233,7 +10233,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-10"
     },
     "https://www.timesofisrael.com/iran-sends-response-to-latest-us-peace-proposal-as-netanyahu-insists-war-not-over/": {
       "summary": "State media says it is focused on 'ending war, maritime security,' no mention of nuclear talks; PM tells '60 Minutes' conflict will continue until uranium removed from country",
@@ -10338,7 +10338,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-11"
     },
     "https://www.nytimes.com/2026/05/10/us/politics/trump-netanyahu-iran-war.html": {
       "summary": "The Trump administration said last week that the war had run its course, but the U.S. president and Israel’s prime minister in interviews on Sunday did not rule out renewed combat.",
@@ -10621,11 +10621,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/world/us/americans-dont-think-trump-has-explained-iran-war-goals-reutersipsos-poll-shows-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-11",
-  "last_generated_time": "2026-05-11T16:02:16.003466+00:00",
+  "last_generated_time": "2026-05-11T17:01:59.307627+00:00",
   "digest": {
     "digest": "Iran has submitted its response to a US proposal aimed at ending the ongoing war, a move met with immediate rejection from President Trump, who deemed it \"totally unacceptable.\" This diplomatic impasse persists despite a month-long cease-fire that has seen intermittent exchanges of fire. Iran's proposal reportedly calls for an end to the war, the lifting of sanctions, and the reopening of the Strait of Hormuz, while also addressing its nuclear program by proposing dilution of enriched uranium and transfer to a third country, though with conditions on its return. The US, however, has not met Iran's demands regarding sanctions relief and naval blockade, leading to continued wrangling over the terms of a potential deal. The closure of the Strait of Hormuz continues to impact global oil prices, which have seen an increase as peace prospects dim. The war's strain on US weapons stocks has also raised concerns among allies regarding their own military support, particularly for Ukraine. Diplomatic efforts are ongoing, with Turkey's foreign minister scheduled to visit Qatar for talks concerning the Iran war, and the conflict's impact has led to the delay of a US-China summit. Both the US and Iran maintain that a lasting truce remains elusive, with neither side ruling out renewed combat.",
     "top_themes": [
@@ -10784,6 +10794,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "What key issues are Trump and Xi set to discuss on Iran war? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXVpWUtPa1F0S2VQYVA2RXk2cDZOMVNSOTgxX3RHSm1ZemxkeFhDRDFrTGVha0VEd3dSU3NWOS1zbTBiV1NmQXBudTBrVVpFOXVoTVJuNjZ4VHJraUs1V2JSS3VOVDhNWGlzV2g3d1BXbmpaRnhKVXdGYlpQazh6dG5iRTFXZFQ0ZVQxQlZfMHFlMGVIQy1xYllqbkl3UkVZ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 09:33 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778502807,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Rise as Prospects for U.S.-Iran Peace Deal Fizzle - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WdjZpMWRfaVlwZG1qSE1DN3U1VUhTUWlCRHdwRU1KM0R3S3owZU0xRFBIT2dNWWVGR0E5eUlzN0hnU18teUFmZXRlVGZRVkF4WFNEUjNDQUFrdHc0RFhHRDgwNVVZdDVpNXRzbDNxbVBjMGFEUmhB?oc=5",
@@ -14756,6 +14780,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Trump seeks to pause federal gas tax as prices soar amid Iran conflict - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjI3VUlLeWtXTGRnVjRMb1E1SVhuTWR6T1h5cmZGNjllcVdXYnBVbFVPM1FTWXhLZlMyeVY5MlMxakxnTkw0aWFrT3NBOE5EWjhKc1dIRDJ3dUY1X3BhUnNBMjhsNEFvb2tvYXp3d2FJNEFOMnRpcl9oY01UQ1NGNTEtakk?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 16:57 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778529437,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Second Qatari LNG tanker heads through Hormuz to Pakistan as Iran war continues, data shows - Reuters",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVdvRGJBd01JMDBxRzJZQUVEMzNhRjVpRmhhWmhOWmdrRml0c25kZHBjOWFsVDI1RTVKWUcxOF9QZmRPNFFPVFZLcTF6T3ZVZzVTZnkySEF0UVpGdTExVmJpQTRNZDBhMElBeWY0TlZCWlJadi1VN1BCRzZGQnI0Yk8tdU9kT3VlZktEd29QTTk2OVNQRGNWRHlUeG1oRm9Kc29heXN3cXljSE5nVXRGYWJqYnRGSzg0VGtHOWZ1VVh2VktPdHVUR2RnbVk?oc=5",

@@ -10233,7 +10233,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-11"
     },
     "https://www.timesofisrael.com/iran-sends-response-to-latest-us-peace-proposal-as-netanyahu-insists-war-not-over/": {
       "summary": "State media says it is focused on 'ending war, maritime security,' no mention of nuclear talks; PM tells '60 Minutes' conflict will continue until uranium removed from country",
@@ -10375,7 +10375,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-11"
     },
     "https://www.ft.com/content/f4030665-d5dc-4afd-8e62-9b2ee8a8ad0f?syn-25a6b1a6=1": {
       "summary": "Trading desks at BP, Shell and TotalEnergies outshine US rivals",
@@ -10422,6 +10422,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

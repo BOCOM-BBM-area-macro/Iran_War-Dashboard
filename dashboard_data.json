@@ -8837,7 +8837,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-09"
     },
     "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html": {
       "summary": "",
@@ -10501,11 +10501,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/world/china/iran-war-raises-stakes-us-china-ahead-trumpxi-talks-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/world/middle-east/second-qatari-lng-tanker-heads-through-hormuz-pakistan-iran-war-continues-data-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-05-11/the-iran-war-made-the-north-korea-problem-worse": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.washingtonpost.com/opinions/2026/05/11/us-china-militaries-assessed-by-cia-veteran-china-expert/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-11",
-  "last_generated_time": "2026-05-11T09:02:02.181526+00:00",
+  "last_generated_time": "2026-05-11T10:02:15.049516+00:00",
   "digest": {
     "digest": "Iran has submitted its response to a US proposal aimed at ending the ongoing war, a move met with immediate rejection from President Trump, who deemed it \"totally unacceptable.\" This diplomatic impasse persists despite a month-long cease-fire that has seen intermittent exchanges of fire. Iran's proposal reportedly calls for an end to the war, the lifting of sanctions, and the reopening of the Strait of Hormuz, while also addressing its nuclear program by proposing dilution of enriched uranium and transfer to a third country, though with conditions on its return. The US, however, has not met Iran's demands regarding sanctions relief and naval blockade, leading to continued wrangling over the terms of a potential deal. The closure of the Strait of Hormuz continues to impact global oil prices, which have seen an increase as peace prospects dim. The war's strain on US weapons stocks has also raised concerns among allies regarding their own military support, particularly for Ukraine. Diplomatic efforts are ongoing, with Turkey's foreign minister scheduled to visit Qatar for talks concerning the Iran war, and the conflict's impact has led to the delay of a US-China summit. Both the US and Iran maintain that a lasting truce remains elusive, with neither side ruling out renewed combat.",
     "top_themes": [
@@ -14608,6 +14648,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Second Qatari LNG tanker heads through Hormuz to Pakistan as Iran war continues, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVdvRGJBd01JMDBxRzJZQUVEMzNhRjVpRmhhWmhOWmdrRml0c25kZHBjOWFsVDI1RTVKWUcxOF9QZmRPNFFPVFZLcTF6T3ZVZzVTZnkySEF0UVpGdTExVmJpQTRNZDBhMElBeWY0TlZCWlJadi1VN1BCRzZGQnI0Yk8tdU9kT3VlZktEd29QTTk2OVNQRGNWRHlUeG1oRm9Kc29heXN3cXljSE5nVXRGYWJqYnRGSzg0VGtHOWZ1VVh2VktPdHVUR2RnbVk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 08:42 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778499728,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "President Calls Iran’s Response to Peace Proposal ‘Unacceptable’ - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPcEJoblBMZ01vMTFFZ0hkU04yTmI5UDVPSTc0cWRPZ0tBdlI3dENqcGhLa0NLMy1FZkxDdzE5QWFuQjJMQzJ4MnduQ19uVG5iaE82QjB4R3otc0prOUxUV244aw?oc=5",

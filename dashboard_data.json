@@ -9293,7 +9293,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-08"
     },
     "https://www.wsj.com/economy/german-industry-slumped-in-march-on-outbreak-of-iran-war-92f168b9": {
       "summary": "",
@@ -10593,7 +10593,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-11"
     },
     "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html": {
       "summary": "",
@@ -11027,11 +11027,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-12"
+    },
+    "https://www.nytimes.com/live/2026/05/12/business/inflation-report-cpi": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-12",
-  "last_generated_time": "2026-05-12T14:02:11.554905+00:00",
+  "last_generated_time": "2026-05-12T15:02:08.107400+00:00",
   "digest": {
     "digest": "The ongoing conflict between the United States and Iran is characterized by a fragile ceasefire, with both sides exchanging fire despite declarations of a truce. Recent exchanges involved U.S. strikes on Iranian military targets following Iranian fire on U.S. warships in the Strait of Hormuz. President Trump has threatened further action if Iran does not accept a peace offer, which Iran has deemed 'unacceptable' and 'garbage.' This rejection has led to fading hopes for a lasting peace deal, with the current truce described as being 'on life support.' The conflict is also impacting U.S. weapons stocks, raising concerns among allies about the implications for support to Ukraine. Reports indicate the UAE has been secretly carrying out attacks on Iran, adding another layer to regional tensions. The U.S. Department of Justice is reportedly investigating leaks related to the Iran war, even issuing subpoenas to reporters. Public opinion polls suggest Americans do not believe President Trump has adequately explained the war's objectives. Meanwhile, Iran has expanded its definition of the Strait of Hormuz as a strategic zone, and drone warfare in southern Lebanon is further clouding peace prospects.",
     "top_themes": [
@@ -11184,6 +11194,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "EIA Sees Prolonged War in Iran Draining Global Oil Stocks Faster Than Expected - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVMySURXbTNkeUUzT0d2cFRYcGQyZHlLVnpfUThkMktycm5PeXg2ZTFPdGFPQlVOZ1d4aW9sQ3VZNkRLelo4d3BXQjVpZmR3MWhYSEhUN3czZ3VfTmZTNVlOUEozc2pqa0J5Qm1pMFZQQWphdzlUVl9VaXJUbEd0bE1wam1WZ21QUmpMbXQ2NGxfVi15WkJQRG1mMGRKN3gwd2hXLWVGbE05LVBZNkU2SFVWdzdCandwWWRybVlGSlUyUmNnOWc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 14:52 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778608320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXlUemd1ZlJsNDJaQ0otVlJ0RER2MlVFMUl1bzh3MjFpT0M0YkVuVDhMYXBiRFhBczJZSFVZTTNnM2lvSFVHNzhTcUlyZHYtX0QzTTFkbDFieHZVVDdxaFYtNjE3c2xfdFJGRHg2dVBEX01Nb0ZHOEJWcnFmd2pJSmQwUQ?oc=5",

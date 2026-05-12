@@ -10728,11 +10728,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-11"
+    },
+    "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.reuters.com/world/middle-east/uae-has-been-secretly-carrying-out-attacks-iran-wsj-reports-2026-05-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-11",
-  "last_generated_time": "2026-05-11T21:01:58.766636+00:00",
+  "last_generated_time": "2026-05-11T22:01:46.504118+00:00",
   "digest": {
     "digest": "Iran has submitted its response to a US proposal aimed at ending the ongoing war, a move met with immediate rejection from President Trump, who deemed it \"totally unacceptable.\" This diplomatic impasse persists despite a month-long cease-fire that has seen intermittent exchanges of fire. Iran's proposal reportedly calls for an end to the war, the lifting of sanctions, and the reopening of the Strait of Hormuz, while also addressing its nuclear program by proposing dilution of enriched uranium and transfer to a third country, though with conditions on its return. The US, however, has not met Iran's demands regarding sanctions relief and naval blockade, leading to continued wrangling over the terms of a potential deal. The closure of the Strait of Hormuz continues to impact global oil prices, which have seen an increase as peace prospects dim. The war's strain on US weapons stocks has also raised concerns among allies regarding their own military support, particularly for Ukraine. Diplomatic efforts are ongoing, with Turkey's foreign minister scheduled to visit Qatar for talks concerning the Iran war, and the conflict's impact has led to the delay of a US-China summit. Both the US and Iran maintain that a lasting truce remains elusive, with neither side ruling out renewed combat.",
     "top_themes": [
@@ -10891,6 +10911,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’ - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIyMEFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 21:07 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778544468,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "What key issues are Trump and Xi set to discuss on Iran war? - Reuters",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXVpWUtPa1F0S2VQYVA2RXk2cDZOMVNSOTgxX3RHSm1ZemxkeFhDRDFrTGVha0VEd3dSU3NWOS1zbTBiV1NmQXBudTBrVVpFOXVoTVJuNjZ4VHJraUs1V2JSS3VOVDhNWGlzV2g3d1BXbmpaRnhKVXdGYlpQazh6dG5iRTFXZFQ0ZVQxQlZfMHFlMGVIQy1xYllqbkl3UkVZ?oc=5",

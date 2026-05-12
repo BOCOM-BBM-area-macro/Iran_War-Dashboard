@@ -10656,10 +10656,13 @@
       "pub_date": "2026-05-11"
     },
     "https://www.wsj.com/politics/national-security/trumps-complaints-about-iran-war-leaks-prompt-aggressive-doj-investigations-b5d31c13": {
-      "summary": "",
+      "summary": "The Wall Street Journal has received subpoenas for records of reporters.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "kwexclusive",
+        "Asia",
+        "Developing Economies",
+        "Iran",
+        "Middle East"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10673,7 +10676,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/video/opinion/100000010889365/the-iran-wars-alarming-ripple-effects.html": {
       "summary": "The downstream effects of the Iran war are only beginning. On “The Opinions,” David Wallace-Wells explains how disruptions tied to fertilizer, condoms and other global goods could contribute to famine, disease and rising costs worldwide.",
@@ -10764,6 +10767,19 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-11"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-895852": {
+      "summary": "CNN reported that the latest Iranian proposal, which Trump called \"unacceptable,\" is pushing Trump into believing he must resume the war against the regime.",
+      "tags": [
+        "Iran",
+        "iran israel war",
+        "iran negotiations",
+        "Iran nuclear talks",
+        "Donald Trump"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10954,6 +10970,20 @@
           "published": "May 11, 2026 · 09:33 BRT",
           "pub_date": "2026-05-11",
           "pub_ts": 1778502807,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Discounts on Russian Oil Widened for First Time Since Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEVpbVpfdUJNZkpUMDNWZTJqNmZnLU9jbmpLZmtsd0EwVmtOTEFQVnUzaVhfeUI3OW52LTdSLVdCMDFneHNDb052cng4dE8xQTlmeU96cHdxbUk0eUx1M1ZQLTRaNW1Uemcwd0NMd1poa1FYOW5LbDZiZlpvdmg3Wmh4dG0xWWQ4d1BFWWZyellZUjhyNEdCSy0weWExdEJYM2tvWXZ5S2dtaHpkQXdtSVUxcw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 07:32 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778495539,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

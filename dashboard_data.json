@@ -10593,7 +10593,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html": {
       "summary": "",
@@ -10743,7 +10743,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-12"
     },
     "https://www.reuters.com/world/middle-east/uae-has-been-secretly-carrying-out-attacks-iran-wsj-reports-2026-05-11/": {
       "summary": "",
@@ -10997,11 +10997,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-12"
+    },
+    "https://www.axios.com/2026/05/12/inflation-wages-energy-shock": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
+    },
+    "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
+    },
+    "https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-12",
-  "last_generated_time": "2026-05-12T13:02:00.720513+00:00",
+  "last_generated_time": "2026-05-12T14:02:11.554905+00:00",
   "digest": {
     "digest": "The ongoing conflict between the United States and Iran is characterized by a fragile ceasefire, with both sides exchanging fire despite declarations of a truce. Recent exchanges involved U.S. strikes on Iranian military targets following Iranian fire on U.S. warships in the Strait of Hormuz. President Trump has threatened further action if Iran does not accept a peace offer, which Iran has deemed 'unacceptable' and 'garbage.' This rejection has led to fading hopes for a lasting peace deal, with the current truce described as being 'on life support.' The conflict is also impacting U.S. weapons stocks, raising concerns among allies about the implications for support to Ukraine. Reports indicate the UAE has been secretly carrying out attacks on Iran, adding another layer to regional tensions. The U.S. Department of Justice is reportedly investigating leaks related to the Iran war, even issuing subpoenas to reporters. Public opinion polls suggest Americans do not believe President Trump has adequately explained the war's objectives. Meanwhile, Iran has expanded its definition of the Strait of Hormuz as a strategic zone, and drone warfare in southern Lebanon is further clouding peace prospects.",
     "top_themes": [
@@ -14477,6 +14507,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Inflation Data Suggest More Consumer Pain Ahead - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYU51VzV2aEVrWWF6eUNwYmpXZU1IX0JWalE1SWtxenBJVHJYeUlzUE5rQnRtVzdfREstcVI4bHQ0QWRyU1RsYVg0Z2dGNl8wcFVGSV9ReTZVWG9Nc25tQk9CQlRIN0ZpZTVMdW1NdXh3U0R3VThOYTMtNFBNenNrRXNyVE00Q2Y0RDR1WTVfelVCTG1VYUVFQjMwbXNhbnlvT0lfVGJ2am1qNnRSVUVSaWoyR0dIN0tOcDNzcjRB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 13:08 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778602103,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US Inflation Accelerates in April on Rising Gasoline Prices - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUQ3X2dUSXVqcWhTaEEzUzBfRXkzSDR3clpWOHlLWXhaaFg1dVUzTk9EVXVUTExEY01jWmFjdC1ValYxMVE5RUhNQXJRcDk2b1RqZ2pPMzN6U3NFUnRFNThJeG02ZUVqdHRIN1VtWkk0ZW8taFRyWGIwdmRKNnBubXEwSWxoclRWYjJ4VGZQRnB2NTlSdm50bkNsbUVicHltb05XMWVsWHR6Um9HMjJr?oc=5",

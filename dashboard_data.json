@@ -8830,10 +8830,13 @@
       "pub_date": "2026-05-06"
     },
     "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/": {
-      "summary": "",
+      "summary": "The renewed hostilities broke out as Washington was awaiting Iran's response to a U.S. proposal that would stop the fighting but leave the most contentious issues, such as Iran's nuclear program, unresolved for now.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RSBI:WORKER-RIGHTS",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "MTVID",
+        "GRAPHC"
       ],
       "sentiment": "positive",
       "sentiment_success": true,
@@ -9290,7 +9293,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-08"
+      "pub_date": "2026-05-11"
     },
     "https://www.wsj.com/economy/german-industry-slumped-in-march-on-outbreak-of-iran-war-92f168b9": {
       "summary": "",
@@ -10590,7 +10593,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-11"
     },
     "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html": {
       "summary": "",
@@ -10984,11 +10987,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-12"
+    },
+    "https://www.wsj.com/world/asia/potato-chip-bags-are-going-black-and-white-because-of-the-iran-war-3f91c07e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-12",
-  "last_generated_time": "2026-05-12T12:01:58.270741+00:00",
+  "last_generated_time": "2026-05-12T13:02:00.720513+00:00",
   "digest": {
     "digest": "The ongoing conflict between the United States and Iran is characterized by a fragile ceasefire, with both sides exchanging fire despite declarations of a truce. Recent exchanges involved U.S. strikes on Iranian military targets following Iranian fire on U.S. warships in the Strait of Hormuz. President Trump has threatened further action if Iran does not accept a peace offer, which Iran has deemed 'unacceptable' and 'garbage.' This rejection has led to fading hopes for a lasting peace deal, with the current truce described as being 'on life support.' The conflict is also impacting U.S. weapons stocks, raising concerns among allies about the implications for support to Ukraine. Reports indicate the UAE has been secretly carrying out attacks on Iran, adding another layer to regional tensions. The U.S. Department of Justice is reportedly investigating leaks related to the Iran war, even issuing subpoenas to reporters. Public opinion polls suggest Americans do not believe President Trump has adequately explained the war's objectives. Meanwhile, Iran has expanded its definition of the Strait of Hormuz as a strategic zone, and drone warfare in southern Lebanon is further clouding peace prospects.",
     "top_themes": [
@@ -14507,6 +14520,20 @@
           "_rank": 0
         },
         {
+          "title": "US Inflation Accelerates in April on Rising Gasoline Prices - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVRYSDhSeFZhRVJ2OHFqY1VwR3F1RlY3NS1rcElpcVNmQXhRVFNzbWZsdGFKZlk3OEFZMkFNN0NQenM0UXJzeDl0eU5NRTJwRi1kc2xnUVFtT1RndjhMUVdHdHpWSUpJU1VPWWQ1LS1yNlFNd2JaQ3dXbmVvNlFHQ19ObVNwNS0yVEJGUDFtbTlDajJpbl9oaW05U3Zta2s4WWdGRlZBV2pTZmVXY1M2TGdyNmlqVWxjVUdVZnNDNFdMVW8zVUdJS21nZ1U?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 09:32 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778589146,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "World markets feel the strain as US–Iran war grinds on - Reuters",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV9ndXFlNGExSXRaay1vRURsRU16SWZNcXpjNTk3dVJwRE9uR3BlSU11LTRjaWVSTTdvN2pxRlBjY2N3dmRTQm1abElWY1phTkhrdHhJbzJucV9BTDRiRDJVTW5sa0tzSFZEYU9uWEMxV0t4MHduNEYzUGt3Y3pFRkk3amIyOVo0Y25kam9nQXR3b0FUVlBpNw?oc=5",
           "source": "Reuters",
@@ -17592,6 +17619,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "UAE Is Said to Have Hit Iran Earlier in War as Israel Ties Grow - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1ZnRUdFRk4yR2s1OW5xSFVUZUxfSElWLTc5VTBIREtuRWtCbmItU1JlQ0l6QlVKam9DYVBScUxnWjVRV0hYZTJIdmNycXZpTWVBVDZrMWIwbGh5bXZ2WXBDMHhxS194ZGhuQWR0TE53NnhERXU1N2VjUGE3ZUFTRUh3eXpSQ045eW0yelpqcWdpNzZ3a1dzQ1NtT0RXbzlxY1hxVGN3LV8zVGRhN0lITGVyZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 11:38 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778596715,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China's US ethane imports hit record as Iran war cut rival feedstock supply - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGhJNG9rcWFYRENfeDFkVXA4a2VaeDNMbjc4SDF5Uy1uMHpmLUxwMjI3Vk5fRExlU0Q1WkdmREtiTWZuLTU2UmN5bkVsNW8zNWNtQ3g1eHNsZ2NleXMtakpDUG4wbGZibmhQTFl3ckw4WGE0VXUyUlJ1enVPd3BTSjlXRE1sTUhPZGJsZmxfQlpFSWg1dWNOZ2I0Z09zanl4T09HemVtdUY5TUdWbVpxRU01ZEt3WjhvR3E0bVZ3c0g?oc=5",

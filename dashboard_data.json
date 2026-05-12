@@ -11097,11 +11097,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-12"
+    },
+    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
+    },
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-iran-war-americans-economy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-12",
-  "last_generated_time": "2026-05-12T18:02:05.208992+00:00",
+  "last_generated_time": "2026-05-12T19:02:19.186964+00:00",
   "digest": {
     "digest": "The ongoing conflict between the United States and Iran is characterized by a fragile ceasefire, with both sides exchanging fire despite declarations of a truce. Recent exchanges involved U.S. strikes on Iranian military targets following Iranian fire on U.S. warships in the Strait of Hormuz. President Trump has threatened further action if Iran does not accept a peace offer, which Iran has deemed 'unacceptable' and 'garbage.' This rejection has led to fading hopes for a lasting peace deal, with the current truce described as being 'on life support.' The conflict is also impacting U.S. weapons stocks, raising concerns among allies about the implications for support to Ukraine. Reports indicate the UAE has been secretly carrying out attacks on Iran, adding another layer to regional tensions. The U.S. Department of Justice is reportedly investigating leaks related to the Iran war, even issuing subpoenas to reporters. Public opinion polls suggest Americans do not believe President Trump has adequately explained the war's objectives. Meanwhile, Iran has expanded its definition of the Strait of Hormuz as a strategic zone, and drone warfare in southern Lebanon is further clouding peace prospects.",
     "top_themes": [
@@ -14620,6 +14640,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Prices for these grocery items have spiked highest since the war began - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWR4R3FiVzZPMldUNzdRV1dTQ3VHNUlMdnZwMmVVZUlzdHRJN3lpUGNxbkRfVUxkbGh5bXA2LUZHb3JZRmxzQkVjbWN5bGdYWU8tLTBGWEd2SDZuN2pLQU54U2JpZUpCQXY2R0QyVjdwZWNXYXpNZnhPXzN4RXk4aW5jSUxyUTUxZ2JJRXhOMy1NVTVuaHNsaTVSUGo2QXo0eDVaSEhuaUFEdjBoNTRBNGRGaFg?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 17:43 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778618627,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Inflation Data Suggest More Consumer Pain Ahead - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYU51VzV2aEVrWWF6eUNwYmpXZU1IX0JWalE1SWtxenBJVHJYeUlzUE5rQnRtVzdfREstcVI4bHQ0QWRyU1RsYVg0Z2dGNl8wcFVGSV9ReTZVWG9Nc25tQk9CQlRIN0ZpZTVMdW1NdXh3U0R3VThOYTMtNFBNenNrRXNyVE00Q2Y0RDR1WTVfelVCTG1VYUVFQjMwbXNhbnlvT0lfVGJ2am1qNnRSVUVSaWoyR0dIN0tOcDNzcjRB?oc=5",
           "source": "Bloomberg.com",
@@ -15493,6 +15527,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Why the Iran war is hurting the economy - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzhLcXdoQTExVmpVS0tWLTlCWl82VVdZR3AzaHloTkdKbThmU1BhTTZxNDRDb0VoODFsYXM3UHZFUWU0Qk5PTDlPbnNWMnROdUhJS2Q4R0s1ZVRKNE9yajM4NVNUNnlucUJaN1E5dEJlODNRWHlHVklzUFBlb0J0YVQ2X0IxXzc0VUNV?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 17:49 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778618998,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Second Qatari LNG tanker successfully crosses Hormuz to Pakistan as Iran war continues, data shows - Reuters",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQVAyS0pYTlF2ajBoa1NTakNnZlBNbkJxdEVKNjZ5NFNGcnlsOXJ5aDFKSDJSLV91V3RtUWZXZjA4THFsbm5QWlpMeXVsemZHSzRLRzdFcWhic24wb2x4N25CZGR3c2NTRDRKQmo3ZjBfWW52ejlESnNndUNKQ1NLRVVSRUNnaWluYzBrVE1HbXAyTm9lVVVNVkZOcTEzUmJkMF9GWV9hMXQ4cWpMR0RCbGpxRGpxN2xFZHdWUjJiajhXQVlYT19jN09GNlVqTlU?oc=5",
           "source": "Reuters",
@@ -15585,6 +15633,20 @@
           "published": "May 10, 2026 · 21:55 BRT",
           "pub_date": "2026-05-10",
           "pub_ts": 1778460925,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Pakistan in Talks With Iran for More Qatar LNG Via Hormuz - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGZwbi01bVg2RHdPT3B5OFoxV2ZIVUw4b3BBM1dQcGllM3JCcnVNX3E0RndNZzYyTHZpbGtGR1c3QjFtSjNkcVJxcHdUZENwTzQ1RjFjTW9seklOWGNKLV9GZ3BWSi1qSk5Rd3RHblNDR0RIT3Zad0hpY29INFhwZlhXY08wRzViQl8yWl9TWTFaMUF3aWdERUpjWW5jdm9YaWZmU3NCTVFIQWFKTGpPbXJRWW0?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 10, 2026 · 11:34 BRT",
+          "pub_date": "2026-05-10",
+          "pub_ts": 1778423666,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

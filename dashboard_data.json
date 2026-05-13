@@ -11009,7 +11009,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html": {
       "summary": "The estimate from the Defense Department’s top budget official was $4 billion higher than two weeks ago. Secretary Pete Hegseth declined to say when the administration would request extra money for the Iran conflict.",
@@ -11159,7 +11159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
       "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
@@ -11360,11 +11360,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-13"
+    },
+    "https://www.washingtonpost.com/ripple/2026/05/12/mohsen-rezaei-iran-war-hard-liners-trump-nuclear-negotiations/?itid=hp_brand_promo_1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
+    },
+    "https://www.nytimes.com/live/2026/05/12/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-13",
-  "last_generated_time": "2026-05-13T11:01:59.070636+00:00",
+  "last_generated_time": "2026-05-13T12:02:23.314110+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant economic pressure, with inflation reaching its highest rate in nearly three years due to war-driven energy costs. The global oil supply is projected to fall below demand this year, and a long-term energy crisis looms as President Trump declared the truce on \"life support.\" The U.S. war in Iran has incurred a cost of $29 billion so far, with the Pentagon's estimate increasing by $4 billion in two weeks. President Trump has stated that stopping Iran's nuclear program outweighs Americans' economic pain and that he does not require China's assistance in the conflict. He has also indicated that Iran must reach a deal or face renewed attacks, dismissing Iran's demands as \"garbage.\" Meanwhile, U.S. intelligence indicates Iran retains substantial missile capabilities, and Saudi Arabia has reportedly launched covert attacks on Iran, widening the regional conflict. The war's impact on U.S. weapons stocks has also raised concerns among allies regarding their own security needs, such as in Ukraine. Furthermore, the conflict is casting a shadow over international diplomatic gatherings, including the BRICS foreign ministers meeting.",
     "top_themes": [
@@ -18527,6 +18547,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Is there a Diet Coke shortage? What to know about India's 'candemic' - CBC",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeWEwYUM4bllrRnMxSkFieENXRG5IRVFKdUFCd05la2ZsZFhpVE12UHlQX2N0WVNWWjVWODlDV3ZYRm1LTlR6Q1hlZ3JuN3kweWM3ejZFRkw2STNYaXNQSldQUjNMSEZZOWc?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 13, 2026 · 10:28 BRT",
+          "pub_date": "2026-05-13",
+          "pub_ts": 1778678880,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Is there a Diet Coke shortage? What to know about India's 'candemic' - CBC",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54ZmZqMlZ6UlRsWUJsOHdCNk5XZHA0MDJtN0tLdG1IUGEwMnY4Umk4Wnl5VklMbDF3blVmdFphanZKZWZCVno5dEhuUThiWHoz?oc=5",

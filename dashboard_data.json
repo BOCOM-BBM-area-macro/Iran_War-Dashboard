@@ -11156,7 +11156,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
       "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
@@ -11197,6 +11197,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-13"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/report-us-military-considering-switching-name-of-iran-war-to-operation-sledgehammer-if-ceasefire-collapses/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
+    },
+    "https://www.nytimes.com/2026/05/12/opinion/israel-united-states-iran-hormuz-nato.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
     }
   },
   "last_run_success": true,
@@ -15620,6 +15640,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran War Will Make EU More Reliant on US Gas Than Ever: IEEFA - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2xPV0NYS05saTNlb2lreEFVVzkya29LR0t4YlFxVUNqenQ0UmFKQV9zNmN6WjVkVzI4Y1o5cWYyM2txa24zV3h6WDdhNzh1aE90MmJQNzNhUDVGMm4tM1ZGZ2hYeVVrOXVjUTU4ODREclRsamJpYlJ6UTlsMEFWMjMwUGpCR2oyLTZrdHdBZ2Z4bkNpSU9WWlZHSmx3SmdmSDlaNEVpZ0lscDU3VHJ3Wg?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 13, 2026 · 01:00 BRT",
+          "pub_date": "2026-05-13",
+          "pub_ts": 1778644800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why the Iran war is hurting the economy - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzhLcXdoQTExVmpVS0tWLTlCWl82VVdZR3AzaHloTkdKbThmU1BhTTZxNDRDb0VoODFsYXM3UHZFUWU0Qk5PTDlPbnNWMnROdUhJS2Q4R0s1ZVRKNE9yajM4NVNUNnlucUJaN1E5dEJlODNRWHlHVklzUFBlb0J0YVQ2X0IxXzc0VUNV?oc=5",

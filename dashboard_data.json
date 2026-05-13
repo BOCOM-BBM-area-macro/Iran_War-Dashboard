@@ -9513,7 +9513,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
-      "pub_date": "2026-05-05"
+      "pub_date": "2026-05-11"
     },
     "https://www.nytimes.com/2026/05/08/business/trump-sanctions-iran-china.html": {
       "summary": "The new measures are focused on Chinese companies that supply Iran’s military with materials to make drones.",
@@ -9616,7 +9616,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-09"
+      "pub_date": "2026-05-11"
     },
     "https://www.reuters.com/business/energy/china-energy-imports-drop-april-amid-iran-war-fuel-exports-hit-decade-low-2026-05-09/": {
       "summary": "",
@@ -11156,7 +11156,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
       "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
@@ -11257,60 +11257,65 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-13"
+    },
+    "https://www.nytimes.com/interactive/2026/05/13/opinion/iran-war-democracy-america.html": {
+      "summary": "Measuring America’s democratic erosion.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-12",
-  "last_generated_time": "2026-05-12T23:01:47.402441+00:00",
+  "last_generated_date": "2026-05-13",
+  "last_generated_time": "2026-05-13T08:01:59.536639+00:00",
   "digest": {
-    "digest": "The ongoing conflict between the United States and Iran is characterized by a fragile ceasefire, with both sides exchanging fire despite declarations of a truce. Recent exchanges involved U.S. strikes on Iranian military targets following Iranian fire on U.S. warships in the Strait of Hormuz. President Trump has threatened further action if Iran does not accept a peace offer, which Iran has deemed 'unacceptable' and 'garbage.' This rejection has led to fading hopes for a lasting peace deal, with the current truce described as being 'on life support.' The conflict is also impacting U.S. weapons stocks, raising concerns among allies about the implications for support to Ukraine. Reports indicate the UAE has been secretly carrying out attacks on Iran, adding another layer to regional tensions. The U.S. Department of Justice is reportedly investigating leaks related to the Iran war, even issuing subpoenas to reporters. Public opinion polls suggest Americans do not believe President Trump has adequately explained the war's objectives. Meanwhile, Iran has expanded its definition of the Strait of Hormuz as a strategic zone, and drone warfare in southern Lebanon is further clouding peace prospects.",
+    "digest": "The Iran war continues to exert significant economic pressure, with inflation reaching its highest rate in nearly three years due to war-driven energy costs. The global oil supply is projected to fall below demand this year, and a long-term energy crisis looms as President Trump declared the truce on \"life support.\" The U.S. war in Iran has incurred a cost of $29 billion so far, with the Pentagon's estimate increasing by $4 billion in two weeks. President Trump has stated that stopping Iran's nuclear program outweighs Americans' economic pain and that he does not require China's assistance in the conflict. He has also indicated that Iran must reach a deal or face renewed attacks, dismissing Iran's demands as \"garbage.\" Meanwhile, U.S. intelligence indicates Iran retains substantial missile capabilities, and Saudi Arabia has reportedly launched covert attacks on Iran, widening the regional conflict. The war's impact on U.S. weapons stocks has also raised concerns among allies regarding their own security needs, such as in Ukraine. Furthermore, the conflict is casting a shadow over international diplomatic gatherings, including the BRICS foreign ministers meeting.",
     "top_themes": [
-      "Ceasefire Fragility",
-      "US-Iran Direct Confrontation",
-      "International Impact of Conflict",
-      "Presidential Decision-Making"
+      "Economic Impact of Iran War",
+      "US Diplomatic Stance",
+      "Iran's Missile Capabilities",
+      "Regional Escalation"
     ],
     "next_events": [
       {
-        "title": "Viability of the Ceasefire and Diplomatic Efforts",
-        "description": "The current truce is described as 'on life support' and 'elusive,' with President Trump rejecting peace proposals as 'garbage' and both sides exchanging fire. Analysts should closely monitor any renewed diplomatic overtures, counterproposals, or signs of a breakthrough in negotiations, as the failure of these efforts significantly increases the risk of renewed conflict."
+        "title": "Status of Iran-US Peace Negotiations",
+        "description": "President Trump has repeatedly dismissed Iran's demands as 'unacceptable' and declared the truce on 'life support.' Analysts should closely monitor any shifts in negotiation stances from either side, as a complete collapse of talks could lead to renewed attacks and a formal escalation of the conflict, potentially even a renaming of the war."
       },
       {
-        "title": "U.S. Military Posture and Potential Escalation",
-        "description": "President Trump is reportedly weighing military action against Iran, with Iranian forces stating they are ready to respond to attacks. Watch for any official statements, troop movements, or intelligence indicating a shift towards renewed military engagement by the U.S., as this would signify a major escalation beyond the current declared truce."
+        "title": "Global Economic Impact and Energy Market Volatility",
+        "description": "The Iran war is already driving inflation to multi-year highs and causing significant oil supply concerns, with the IEA predicting a plunge below demand. Watch for further acceleration of inflation, government responses to rising energy costs (such as potential federal gasoline tax suspension), and the broader impact on global economies, particularly those reliant on oil imports like India."
       },
       {
-        "title": "Strait of Hormuz Maritime Tensions",
-        "description": "Iran has declared a larger zone for the Strait of Hormuz, a critical global shipping lane where the U.S. and Iran have already exchanged fire. Any further Iranian actions to assert control or U.S. responses to perceived threats in this area could quickly escalate into a broader naval confrontation, impacting global energy markets."
+        "title": "US Congressional Action and Democratic Norms",
+        "description": "The war has been conducted without congressional authorization, raising significant concerns about democratic erosion and the bypassing of the legislature. Analysts should observe if Congress takes stronger action, such as passing resolutions of disapproval, holding investigative hearings, or refusing to fund military priorities, to assert its constitutional authority over war powers."
       },
       {
-        "title": "Regional Proxy Conflicts and Allied Involvement",
-        "description": "Reports indicate the U.A.E. is secretly carrying out attacks on Iran, and an evolving drone war in southern Lebanon clouds peace prospects. Monitor the actions of regional allies and proxies, including Pakistan's reported hosting of Iranian military aircraft, as their involvement could broaden the conflict geographically and draw in additional international actors."
-      },
-      {
-        "title": "Global Economic and Energy Market Repercussions",
-        "description": "The conflict is already impacting U.S. weapons stocks, potentially affecting aid to Ukraine, and a long-term energy crisis looms. Analysts should track oil prices, energy supply chain stability, and the broader economic fallout, as prolonged conflict will have significant global financial implications and could lead to widespread disruptions."
+        "title": "Military Escalation and Regional Widening",
+        "description": "Iran retains substantial missile capabilities, posing a continued threat, while reports indicate Saudi Arabia has launched covert attacks, suggesting a widening regional conflict. Monitor for any overt military actions by regional players, further depletion of US weapons stocks impacting other conflicts like Ukraine, and any formal renaming of the conflict (e.g., 'Operation Sledgehammer') indicating a shift in US strategy."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "President Calls Iran’s Response to Peace Proposal ‘Unacceptable’ - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/10/us/trump-news",
+      "title": "Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 12, 2026 · 04:46 BRT",
-      "pub_date": "2026-05-12",
-      "pub_ts": 1778572006,
-      "summary": "",
+      "published": "May 13, 2026 · 05:18 BRT",
+      "pub_date": "2026-05-13",
+      "pub_ts": 1778660280,
+      "summary": "Iran stuck to its most recent demands after President Trump dismissed them as unacceptable. As Mr. Trump left for a summit in China, he told reporters the war was “very much under control.”",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
@@ -11319,13 +11324,31 @@
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 11, 2026 · 23:00 BRT",
-      "pub_date": "2026-05-11",
-      "pub_ts": 1778551221,
-      "summary": "",
+      "published": "May 13, 2026 · 00:20 BRT",
+      "pub_date": "2026-05-13",
+      "pub_ts": 1778642400,
+      "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+      "url": "https://www.reuters.com/business/energy/global-oil-supply-plunge-below-demand-this-year-iran-war-iea-says-2026-05-13/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 13, 2026 · 06:09 BRT",
+      "pub_date": "2026-05-13",
+      "pub_ts": 1778663377,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11333,32 +11356,32 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran says forces ready to respond to attacks as Trump reportedly mulls renewing war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/iran-says-forces-ready-to-respond-to-attacks-as-trump-reportedly-mulls-renewing-war/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "May 12, 2026 · 00:06 BRT",
+      "title": "Trump Says Americans’ Economic Pain Is Not a Consideration for the Iran War - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/trump-iran-war-americans-economy.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 12, 2026 · 17:59 BRT",
       "pub_date": "2026-05-12",
-      "pub_ts": 1778555219,
-      "summary": "Ghalibaf says only option is to accept 'rights of the Iranian people' laid out in ceasefire proposal; Pakistan reportedly hosting Iran's military aircraft despite mediator role",
+      "pub_ts": 1778619580,
+      "summary": "Asked whether Americans’ financial situation was motivating him to make a deal, President Trump said bluntly, “Not even a little bit.”",
       "tags": [
         "extracted",
-        "timesofisrael.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "Trump says Iran ceasefire is on ‘life support,’ calls latest proposal ‘garbage’ - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/10/iran-response-us-proposal-war/",
+      "title": "As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 11, 2026 · 20:51 BRT",
-      "pub_date": "2026-05-11",
-      "pub_ts": 1778543498,
+      "published": "May 12, 2026 · 13:32 BRT",
+      "pub_date": "2026-05-12",
+      "pub_ts": 1778603550,
       "summary": "",
       "tags": [
         "extracted",
@@ -11370,40 +11393,21 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. and Iran Exchange Fire Amid a Declared Truce - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
+      "title": "Inflation Jumps as War-Driven Energy Costs Drive Up Prices - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 11, 2026 · 11:55 BRT",
-      "pub_date": "2026-05-11",
-      "pub_ts": 1778511300,
-      "summary": "The U.S. military said it struck Iranian military targets after, it said, Iran fired on U.S. warships in the Strait of Hormuz. President Trump threatened more if Iran didn’t agree to a peace offer.",
+      "published": "May 12, 2026 · 17:20 BRT",
+      "pub_date": "2026-05-12",
+      "pub_ts": 1778617220,
+      "summary": "President Trump has declared the cease-fire on “life support,” and investors are taking a cautious approach as the economic effects of the war become more apparent.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "sentiment_success": true
-    },
-    {
-      "title": "Evolving drone war in southern Lebanon clouds Iran peace prospects - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/evolving-drone-war-southern-lebanon-clouds-iran-peace-prospects-2026-05-12/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 12, 2026 · 06:40 BRT",
-      "pub_date": "2026-05-12",
-      "pub_ts": 1778578827,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -18375,6 +18379,20 @@
       "theme": "Aluminum",
       "articles": [
         {
+          "title": "Is there a Diet Coke shortage? What to know about India's 'candemic' - CBC",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54ZmZqMlZ6UlRsWUJsOHdCNk5XZHA0MDJtN0tLdG1IUGEwMnY4Umk4Wnl5VklMbDF3blVmdFphanZKZWZCVno5dEhuUThiWHoz?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 13, 2026 · 05:02 BRT",
+          "pub_date": "2026-05-13",
+          "pub_ts": 1778659348,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "China's commodity imports show Hormuz impact as oil slides, metals rise - Reuters",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWVsMjc1UnFvcEhpcXNJNWVmdWtkbTVhc2RLSEVjRXRzN3JTb19FdWRBcnhoWWJraGxXRGItbjl5Mlg5bllnN2NkaEtDT2x0NnV5U0VxeTVHSUFqQnl0QmQtS0F2RUVWWGI0b0VzY291ZldWcVA4dV93Zk1UVTFJMXNFZWExWW02bnFUMjc0SmJnTksxOG1HZFp0Y3V6UWk2WGh6ZTZWS0lpNi00OWllLXpLbnpWeTZFWHBjbm5TTXh0X01weEtHYVE0RUdTWTQy?oc=5",
           "source": "Reuters",
@@ -18741,7 +18759,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-12T11:09:32.552546+00:00",
-  "last_watch_time": "2026-05-12T11:09:43.642691+00:00",
-  "last_relevant_time": "2026-05-12T11:09:46.344548+00:00"
+  "last_digest_time": "2026-05-13T11:09:03.422321+00:00",
+  "last_watch_time": "2026-05-13T11:09:11.653167+00:00",
+  "last_relevant_time": "2026-05-13T11:09:17.724711+00:00"
 }

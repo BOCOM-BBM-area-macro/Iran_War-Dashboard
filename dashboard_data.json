@@ -10384,7 +10384,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-10"
     },
     "https://www.ft.com/content/f4030665-d5dc-4afd-8e62-9b2ee8a8ad0f?syn-25a6b1a6=1": {
       "summary": "Trading desks at BP, Shell and TotalEnergies outshine US rivals",
@@ -10593,7 +10593,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html": {
       "summary": "",
@@ -11150,6 +11150,16 @@
     },
     "https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz": {
       "summary": "Iran stuck to its most recent demands after President Trump dismissed them as unacceptable. As Mr. Trump left for a summit in China, he told reporters the war was “very much under control.”",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
+    },
+    "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
+      "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -17919,6 +17929,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "UAE coordinated attacks on Iran with Israel — reports - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTVBZUVOMlZLUlhiM2Zoczc5akdZT3RIZ2F0dzBFdWJvanJxbVc3cHREY3FReUpRWElhaXI4dHhBZVpSejlZczdJQktPbFd6ajNsaEZrYU8zY0hoUVhCTU4xTEtzSmhvNEhyUjlVMlRlVWZNWDhRNFRKSDQxVXNaTUFaWG9nX2l3LXc5VEhtZkFLTGRqdGhSYllqclFxUQ?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 14:13 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778605999,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "UAE Is Said to Have Hit Iran Earlier in War as Israel Ties Grow - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1ZnRUdFRk4yR2s1OW5xSFVUZUxfSElWLTc5VTBIREtuRWtCbmItU1JlQ0l6QlVKam9DYVBScUxnWjVRV0hYZTJIdmNycXZpTWVBVDZrMWIwbGh5bXZ2WXBDMHhxS194ZGhuQWR0TE53NnhERXU1N2VjUGE3ZUFTRUh3eXpSQ045eW0yelpqcWdpNzZ3a1dzQ1NtT0RXbzlxY1hxVGN3LV8zVGRhN0lITGVyZw?oc=5",

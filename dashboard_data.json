@@ -8442,7 +8442,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-06"
     },
     "https://www.wsj.com/business/retail/next-plc-lifts-outlook-after-strong-quarter-despite-costs-from-iran-war-aead18df": {
       "summary": "",
@@ -10593,7 +10593,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html": {
       "summary": "",
@@ -11069,7 +11069,7 @@
       "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html": {
-      "summary": "",
+      "summary": "The war in Iran has cast a shadow of uncertainty on both superpowers, dimming early hopes that they could begin to address the larger issues that have frayed their relationship.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11099,7 +11099,7 @@
       "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html": {
-      "summary": "",
+      "summary": "President Trump has declared the cease-fire on “life support,” and investors are taking a cautious approach as the economic effects of the war become more apparent.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11109,7 +11109,7 @@
       "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/12/us/politics/trump-iran-war-americans-economy.html": {
-      "summary": "",
+      "summary": "Asked whether Americans’ financial situation was motivating him to make a deal, President Trump said bluntly, “Not even a little bit.”",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11119,7 +11119,7 @@
       "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/12/briefing/iran-war-costs-inflation.html": {
-      "summary": "",
+      "summary": "Also, Russia keeps attacking U.S. companies in Ukraine. Here’s the latest at the end of Tuesday.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11137,11 +11137,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-12"
+    },
+    "https://www.timesofisrael.com/saudi-arabia-covertly-launched-strikes-on-iran-during-war-sources-say/": {
+      "summary": "Strikes were 'tit-for-tat' for Iranian attacks on kingdom; UAE, which similarly struck Islamic Republic before and after truce, said to have coordinated at least one attack with Israel",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-12",
-  "last_generated_time": "2026-05-12T21:01:34.571495+00:00",
+  "last_generated_time": "2026-05-12T22:01:50.074405+00:00",
   "digest": {
     "digest": "The ongoing conflict between the United States and Iran is characterized by a fragile ceasefire, with both sides exchanging fire despite declarations of a truce. Recent exchanges involved U.S. strikes on Iranian military targets following Iranian fire on U.S. warships in the Strait of Hormuz. President Trump has threatened further action if Iran does not accept a peace offer, which Iran has deemed 'unacceptable' and 'garbage.' This rejection has led to fading hopes for a lasting peace deal, with the current truce described as being 'on life support.' The conflict is also impacting U.S. weapons stocks, raising concerns among allies about the implications for support to Ukraine. Reports indicate the UAE has been secretly carrying out attacks on Iran, adding another layer to regional tensions. The U.S. Department of Justice is reportedly investigating leaks related to the Iran war, even issuing subpoenas to reporters. Public opinion polls suggest Americans do not believe President Trump has adequately explained the war's objectives. Meanwhile, Iran has expanded its definition of the Strait of Hormuz as a strategic zone, and drone warfare in southern Lebanon is further clouding peace prospects.",
     "top_themes": [

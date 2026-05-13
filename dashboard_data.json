@@ -11136,7 +11136,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.timesofisrael.com/saudi-arabia-covertly-launched-strikes-on-iran-during-war-sources-say/": {
       "summary": "Strikes were 'tit-for-tat' for Iranian attacks on kingdom; UAE, which similarly struck Islamic Republic before and after truce, said to have coordinated at least one attack with Israel",
@@ -11156,10 +11156,20 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
       "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-12"
+    },
+    "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html": {
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"

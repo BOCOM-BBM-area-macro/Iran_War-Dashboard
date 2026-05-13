@@ -10746,7 +10746,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-13"
+      "pub_date": "2026-05-12"
     },
     "https://www.reuters.com/world/middle-east/uae-has-been-secretly-carrying-out-attacks-iran-wsj-reports-2026-05-11/": {
       "summary": "",
@@ -10959,7 +10959,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html": {
       "summary": "",
@@ -11172,7 +11172,7 @@
       "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html": {
-      "summary": "",
+      "summary": "Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11272,7 +11272,7 @@
       "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html": {
-      "summary": "",
+      "summary": "Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11292,7 +11292,7 @@
       "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html": {
-      "summary": "",
+      "summary": "Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11433,11 +11433,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-13"
+    },
+    "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-china.html": {
+      "summary": "The balance of power between the United States and China had shifted in Beijing’s favor even before the war in Iran began in February.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
+    },
+    "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html": {
+      "summary": "Senator Lisa Murkowski of Alaska became the latest Republican to switch her vote to halt the conflict and require President Trump to win congressional approval to continue it.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896072": {
+      "summary": "The Chinese supertanker Yuan Hua Hu crosses the Strait of Hormuz after months of delay, carrying nearly 2 million barrels of Iraqi crude, as US-Iran tensions continue to shape the Gulf.",
+      "tags": [
+        "Iran",
+        "China",
+        "oil",
+        "Donald Trump",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-13",
-  "last_generated_time": "2026-05-13T13:02:08.620575+00:00",
+  "last_generated_time": "2026-05-13T14:02:05.503735+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant economic pressure, with inflation reaching its highest rate in nearly three years due to war-driven energy costs. The global oil supply is projected to fall below demand this year, and a long-term energy crisis looms as President Trump declared the truce on \"life support.\" The U.S. war in Iran has incurred a cost of $29 billion so far, with the Pentagon's estimate increasing by $4 billion in two weeks. President Trump has stated that stopping Iran's nuclear program outweighs Americans' economic pain and that he does not require China's assistance in the conflict. He has also indicated that Iran must reach a deal or face renewed attacks, dismissing Iran's demands as \"garbage.\" Meanwhile, U.S. intelligence indicates Iran retains substantial missile capabilities, and Saudi Arabia has reportedly launched covert attacks on Iran, widening the regional conflict. The war's impact on U.S. weapons stocks has also raised concerns among allies regarding their own security needs, such as in Ukraine. Furthermore, the conflict is casting a shadow over international diplomatic gatherings, including the BRICS foreign ministers meeting.",
     "top_themes": [
@@ -11971,6 +12004,20 @@
           "published": "May 08, 2026 · 07:46 BRT",
           "pub_date": "2026-05-08",
           "pub_ts": 1778237214,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How the Strait of Hormuz Has Become a Weapon of War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWlmQ1RYZkFDWld2c0E5S3E1Q2NyZTBIODRmMUEtYjJXaFgyZWdqeWhocy1zUHdrQ2xvMFkwcEp5ejhoZkFZMkRKQ0lTLVpJWl9GNVpqUlhsX0ZmbzRxdXNfY3dVOTdCVlo2WXBWdUd4ZUpXMWxJaVlSLVVhelpaS0ZnVEMtUWh2dnI1Y3h6emtIX19xSURLN1QtQ2EzWVZ4bmJNcGMtRndXRnVockNhVnFMdFYwaExPRU1qTlBKWnFZaVVsclgzYXVR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 08, 2026 · 07:39 BRT",
+          "pub_date": "2026-05-08",
+          "pub_ts": 1778236784,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

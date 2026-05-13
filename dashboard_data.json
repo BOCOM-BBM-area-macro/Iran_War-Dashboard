@@ -8442,7 +8442,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-05-06"
+      "pub_date": "2026-05-07"
     },
     "https://www.wsj.com/business/retail/next-plc-lifts-outlook-after-strong-quarter-despite-costs-from-iran-war-aead18df": {
       "summary": "",
@@ -11156,7 +11156,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-13"
+      "pub_date": "2026-05-12"
     },
     "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
       "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
@@ -11267,11 +11267,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-13"
+    },
+    "https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-13",
-  "last_generated_time": "2026-05-13T08:01:59.536639+00:00",
+  "last_generated_time": "2026-05-13T09:02:43.690824+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant economic pressure, with inflation reaching its highest rate in nearly three years due to war-driven energy costs. The global oil supply is projected to fall below demand this year, and a long-term energy crisis looms as President Trump declared the truce on \"life support.\" The U.S. war in Iran has incurred a cost of $29 billion so far, with the Pentagon's estimate increasing by $4 billion in two weeks. President Trump has stated that stopping Iran's nuclear program outweighs Americans' economic pain and that he does not require China's assistance in the conflict. He has also indicated that Iran must reach a deal or face renewed attacks, dismissing Iran's demands as \"garbage.\" Meanwhile, U.S. intelligence indicates Iran retains substantial missile capabilities, and Saudi Arabia has reportedly launched covert attacks on Iran, widening the regional conflict. The war's impact on U.S. weapons stocks has also raised concerns among allies regarding their own security needs, such as in Ukraine. Furthermore, the conflict is casting a shadow over international diplomatic gatherings, including the BRICS foreign ministers meeting.",
     "top_themes": [
@@ -18093,6 +18103,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Approximately 2 million jobs lost in Iran due to war as internet blackout enters fourth month - NYT - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVTBZaDk0UzkzaFlfQ1NoVlVmd3FDM0ZtVU5rYmtidVNfM1BXekVSbFBnSjNHdUxteG5SdktJLWlyNFdOaFE5VVRHclNMUEVRbmVDZ2VMMnU2eUZMdFl3dm9acXJmd0trTFE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 12, 2026 · 16:00 BRT",
+          "pub_date": "2026-05-12",
+          "pub_ts": 1778612442,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "UAE coordinated attacks on Iran with Israel — reports - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTVBZUVOMlZLUlhiM2Zoczc5akdZT3RIZ2F0dzBFdWJvanJxbVc3cHREY3FReUpRWElhaXI4dHhBZVpSejlZczdJQktPbFd6ajNsaEZrYU8zY0hoUVhCTU4xTEtzSmhvNEhyUjlVMlRlVWZNWDhRNFRKSDQxVXNaTUFaWG9nX2l3LXc5VEhtZkFLTGRqdGhSYllqclFxUQ?oc=5",

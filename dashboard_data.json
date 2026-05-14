@@ -10384,7 +10384,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-10"
+      "pub_date": "2026-05-12"
     },
     "https://www.ft.com/content/f4030665-d5dc-4afd-8e62-9b2ee8a8ad0f?syn-25a6b1a6=1": {
       "summary": "Trading desks at BP, Shell and TotalEnergies outshine US rivals",
@@ -11669,6 +11669,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-13"
+    },
+    "https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
+    },
+    "https://www.timesofisrael.com/us-thought-iran-war-would-hasten-gazas-demilitarization-instead-hamas-is-emboldened/": {
+      "summary": "While Washington believed conflict would leave a weakened Tehran unable to aid its proxies, Hamas has dug in on refusing to disarm and like its patron sought to drag out talks",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
+    },
+    "https://www.nytimes.com/live/2026/05/13/us/trump-news-updates": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
     }
   },
   "last_run_success": true,

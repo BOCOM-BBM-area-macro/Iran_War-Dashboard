@@ -11719,6 +11719,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-14"
+    },
+    "https://www.axios.com/2026/05/14/energy-squeeze-iran-ai-boom": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
+    },
+    "https://www.jpost.com/israel-news/crime-in-israel/article-896201": {
+      "summary": "27-year-old Tira resident Ahmad Daas is charged with contact with a foreign agent and four counts of passing information to the enemy with intent to harm state security.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "Shin Bet",
+        "crime",
+        "Lod"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-14/us-efforts-to-end-iran-war-stumble-as-ship-seized-near-uae": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
     }
   },
   "last_run_success": true,
@@ -11870,6 +11903,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The energy squeeze behind the Iran war and AI boom - Axios",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44N1VuZmRDWWs0Yjk3R09VaElSbXhUTmJuYVVfbXFGMm9NaXJGUmE2bnJNTzlqWUZiWGRjZjhTdEJTcmg5NUJyMjMwOEJSYW50VWRRdmdQTks5aFBmU0hsN1BmOFJTaG9YN2J3dg?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 14, 2026 · 06:00 BRT",
+          "pub_date": "2026-05-14",
+          "pub_ts": 1778749232,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Global oil shock from Iran war may require ECB hikes, Lane says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVdFbUVNU1BxYVZKd1ktaWpWWVp0X2dSbmg3OWZpOHBFcG8yNURXWDZJZ3RlZEw4ODFlUHQ3OXFZZkxnclJ4Qi0yMXh6QjYwaGJLQkZnOTU3SzBJNGVmQ0tRYy1hbVBlcXVEMU1qTjR3dHpkQW04d1ZkV2ttU09oTVRjRVdsMkt0Z1RBUG5pRU1WRUVjQ3pxdUxfNnQ4c0dna1B1SGZXajMwSGNCWjVB?oc=5",

@@ -10746,7 +10746,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.reuters.com/world/middle-east/uae-has-been-secretly-carrying-out-attacks-iran-wsj-reports-2026-05-11/": {
       "summary": "",
@@ -11389,7 +11389,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-13"
+      "pub_date": "2026-05-12"
     },
     "https://www.jpost.com/middle-east/iran-news/article-896041": {
       "summary": "The report comes just after the WSJ published that the UAE was behind some of the recent strikes against Iranian assets, such as the attacks on Lavan Island's refinery at the beginning of April.",
@@ -11595,7 +11595,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-13"
+      "pub_date": "2026-05-14"
     },
     "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-american-finances-republicans-midterms.html": {
       "summary": "“I don’t think about Americans’ financial situation,” he said of his calculations on the Iran war.",
@@ -11655,6 +11655,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/uae-denies-that-netanyahu-secretly-visited-country/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

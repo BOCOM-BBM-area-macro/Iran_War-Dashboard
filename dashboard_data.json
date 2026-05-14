@@ -8840,7 +8840,7 @@
       ],
       "sentiment": "positive",
       "sentiment_success": true,
-      "pub_date": "2026-05-07"
+      "pub_date": "2026-05-09"
     },
     "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html": {
       "summary": "",
@@ -11159,7 +11159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
       "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
@@ -11782,11 +11782,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-14"
+    },
+    "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-05-14/live-updates-896134": {
+      "summary": "UAE denies Netanyahu's secret visit during Iran war • Third round of Israel-Lebanon talks set for Thursday • IDF strikes Hezbollah targets in Lebanon, kills Hamas terrorist in Gaza",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Iran",
+        "hezbollah iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
+    },
+    "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-drags-bloomberg-news-reports-2026-05-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-14",
-  "last_generated_time": "2026-05-14T08:02:03.230397+00:00",
+  "last_generated_time": "2026-05-14T10:02:28.241802+00:00",
   "digest": {
     "digest": "The ongoing Iran War continues to dominate geopolitical and economic discussions, with significant implications for international relations and domestic policy. In the United States, legislative efforts to halt or limit President Trump's war powers have repeatedly failed in the Senate, despite growing bipartisan frustration and a shift in Republican opposition. President Trump's stance on the conflict remains firm, with a stated willingness to decimate Iran if a deal is not reached, and a dismissive attitude towards the financial well-being of Americans as a factor in his decision-making. This approach has drawn criticism, with some opining that the war fails a critical test. The conflict is also exacerbating an energy crisis, with long-term implications, and impacting global markets, as evidenced by the rerouting of supertankers and shifts in the air cargo industry. China appears to be gaining a strategic advantage over the U.S. amidst the war, while Russia's credibility is also being assessed in its wake. Peace talks remain stalled, with the President describing Iran's demands as \"garbage\" and the truce as being on \"life support.\" The military's strategy and the silence of key advisors on the war's direction are also points of concern and scrutiny.",
     "top_themes": [
@@ -11950,6 +11983,48 @@
           "published": "May 14, 2026 · 06:00 BRT",
           "pub_date": "2026-05-14",
           "pub_ts": 1778749232,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "India asks US for Russian oil waiver extension as Iran war drags on, Bloomberg News reports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHRfTlZmLS05NlkycE1GYmRUekJYLTZUbEVZbDhvS19kWFZKa1NIRWdvVF9Bejg1T2UtZWU4am1HMkdqR0JWTjcyaENSdUNWcjhtXzFXeE9zNTc2NUFyMVhzYkZQMF91UHRBalY2SE13cGE2QW5TMWp5ckU1enRBUXcxVml5dGRySU15SkFkb2FJVURlNXBTSjcwWWN3Y25Xbm54bFpwbHcyWlVxLVl1aURUZkZpWEhfN3ZsYndFbVdvMjRhdlU0eFpDeGg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 14, 2026 · 02:54 BRT",
+          "pub_date": "2026-05-14",
+          "pub_ts": 1778738040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Rupee stuck under oil pressure; Iran war shadows Trump’s China trip - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGlQaWxESXFDbTdOd0E0YTRudkRXQUE0Wi1XaTgzR0NFVEhIUElFeEdxak5TdzFKMGQ3ckZ2TFd3cGxYd1VYYTJMZGgzOXB5YVBnV09jVm1lX0V3aTJFNHU0cDlxVUlxYndFdnFuWXhzWEhJMTE2MFZXaXBCSFlzSU1yV1hvOUJRdVRkQWVxMk9obC1GRzFKQnFEN2JFa29BMDl5TVk3UlpfMFIyeUc2SkZGOA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 14, 2026 · 00:00 BRT",
+          "pub_date": "2026-05-14",
+          "pub_ts": 1778727600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXlNSERRU0xnN3FTTVppbW1ITWRjOXVROE1vNndNTXVocVdPVzljQ3Z6Y1pwRWFISm5QUVJocUtPYk5jNWRZdzBTU3pYcDVwdHBLcmV0Sm96MFo4Zm1Zd3ZQVHRiYVJWalg4TWk3a2ZUeUVMSmVfMDUyTUdLQW1GV3Zzaw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 13, 2026 · 23:42 BRT",
+          "pub_date": "2026-05-13",
+          "pub_ts": 1778726520,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -12236,11 +12236,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-15"
+    },
+    "https://www.jpost.com/middle-east/article-896319": {
+      "summary": "The UAE attempted to convince Saudi Arabia, Qatar, and other Gulf states to coordinate a military response to Iran’s missile and drone attacks, but neighbors refused, sources told Bloomberg.",
+      "tags": [
+        "Iran",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Qatar",
+        "UAE"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
+    },
+    "https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
+    },
+    "https://www.timesofisrael.com/uae-to-accelerate-oil-pipeline-project-to-help-bypass-hormuz-amid-iran-war-fallout/": {
+      "summary": "Pipeline will be free from oil output quotas following Abu Dhabi's exit from OPEC, and is expected to begin operating in 2027",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-15",
-  "last_generated_time": "2026-05-15T09:02:19.131176+00:00",
+  "last_generated_time": "2026-05-15T10:01:59.356741+00:00",
   "digest": {
     "digest": "The U.S. House of Representatives has narrowly rejected multiple attempts to rein in President Trump's war powers concerning the conflict with Iran, with votes falling short of a majority. These rejections highlight ongoing internal political divisions regarding congressional authorization for military action. Internationally, the war is demonstrating significant economic repercussions, with the German economy expected to be negatively impacted in the second quarter, and Turkey facing a potential widening of its budget deficit due to elevated energy prices. India has raised retail fuel prices for the first time since the war began, and Iraq is seeking financial assistance from the IMF and World Bank due to a sharp decline in oil revenue following the closure of the Strait of Hormuz. Diplomatic efforts are underway, as President Trump and Chinese President Xi Jinping have agreed that Iran cannot possess nuclear weapons and that the Strait of Hormuz should reopen, though China maintains a cautious stance. Saudi Arabia and the UAE have reportedly conducted secret attacks in Iran, indicating regional efforts to deter Iranian actions amidst perceived limits of American security guarantees. A top U.S. commander has dismissed reports of widespread civilian deaths, stating that a strike on an Iranian school may have been the only such incident. The conflict continues to be a focal point for U.S. domestic policy debates concerning executive authority over military engagements.",
     "top_themes": [
@@ -12393,6 +12426,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "UAE to accelerate oil pipeline project to help bypass Hormuz amid Iran war fallout - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzU5ZFVsSHFreXhFZFh4VzJuRDJVT2s2WXRPX3otR19CMmFJRlphRnI1ZmVGajVJME5JT2Eza1VhaC1Gc2kycnoyek9ZUFFoNGFOLTUwR0pDVnlZZ0dfa2xWWjExV0tFMm5STVhoOVFzd1JKelN2aExyYWtLbm9Kek1DNk1OSmJYcFNHVGV6SHZ3T0Z0ZkN2RlM3cFkyMVVZR2l3Znl1OFBBbVNSUXRWRzNYa9IBuAFBVV95cUxOU09NSzBvRUxrem10VmRwVDhCR2pLYkZPVVJibFUzQVpkRFZrWms3RG1VRFUxbG9GNFpPVmRzOXNubndJdGFQUEVRSTlQTEpvMy1RNm5aUGJRMGJRTXRQanplcHFnTVV0dFZXRVVvQjNtQmU1RWc1b3FVSHRWekxBZDhyVWkzVGNsbVJESFNuYTBMZy1Tc2ljR3doT3R3QVVQYWRJYkl4c0dldkNYMlA1T0dtQkxmbnlm?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 15, 2026 · 07:58 BRT",
+          "pub_date": "2026-05-15",
+          "pub_ts": 1778842688,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices up 3% after Trump says he is losing patience with Iran - Reuters",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS0waVlBR0ttTF9aOW14VVAxLVl2UklOaktqdHF5R3lUYnBENnI0Y3F3VEh3bV9Kb2VJSUNuR0xSaXFiRVZiM0cyWmlEdWdVR3ZYLU5HUUJkZHdtODlDRFhmamtCTU40eUVrZDBDZVdxeV9OZ3ZzV08zOURTcU5JSVpjelhWUGp2TWJ6SUlkaEVxN0hSOThvUHFFMXhtdlEw?oc=5",
@@ -16108,6 +16155,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Indian Households Set to Pay the Price for Trump’s War in Iran - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGhvWWdDSnlERmNhclZEd2xtU3pfNGhad3dMblFDcF9kU1oybXRLa1JOd2hiczY4aWhWeUZOVGpJVlhoM3dpUC05NzhkUTAwUzFHb2lTcE5uemFwbFVrYWVlQWZiVzdpTGwtbGVYVXZ5UXJnMGl1eUdmOVB4X3VQUU83N0NkVGRYY2xNQ0FndXRTcXlDdTFtd1RueE5YSG1RRFE5OGtZcjZQS016YmtHOGdRc0g?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 15, 2026 · 09:26 BRT",
+          "pub_date": "2026-05-15",
+          "pub_ts": 1778848014,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India hikes petrol, diesel prices more than 3%, retailers say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",

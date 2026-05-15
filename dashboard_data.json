@@ -10899,7 +10899,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-13"
+      "pub_date": "2026-05-12"
     },
     "https://www.reuters.com/business/energy/oil-prices-rise-fragile-us-iran-talks-sustain-supply-worries-2026-05-12/": {
       "summary": "",
@@ -12180,11 +12180,67 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-15"
+    },
+    "https://www.reuters.com/world/middle-east/israel-inflation-rate-holds-19-april-iran-war-boosts-cpi-mm-2026-05-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-15/india-braces-for-more-fuel-hikes-as-iran-war-forces-modi-s-hand": {
+      "summary": "India’s consumers — hit with the first fuel price hike in four years — will likely face more such rises in the near term, as the government grapples with the economic impact of a months-long conflict in the Persian Gulf.",
+      "tags": [
+        "India",
+        "Iran",
+        "War",
+        "Government",
+        "Generic 1st 'CL' Future"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
+    },
+    "https://www.reuters.com/world/middle-east/oil-rises-fears-ship-attacks-seizures-persist-2026-05-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-15/india-fails-to-bridge-divide-over-iran-war-at-brics-summit": {
+      "summary": "BRICS foreign ministers failed to reach a consensus at a meeting hosted by India, exposing deep divisions within the bloc over the conflict in Iran.",
+      "tags": [
+        "India",
+        "BRICS",
+        "Iran",
+        "War",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
+    },
+    "https://www.washingtonpost.com/opinions/2026/05/15/strait-hormuz-standoff-europe-insurance-rules-empower-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-15"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-15",
-  "last_generated_time": "2026-05-15T08:01:56.000495+00:00",
+  "last_generated_time": "2026-05-15T09:02:19.131176+00:00",
   "digest": {
     "digest": "The U.S. House of Representatives has narrowly rejected multiple attempts to rein in President Trump's war powers concerning the conflict with Iran, with votes falling short of a majority. These rejections highlight ongoing internal political divisions regarding congressional authorization for military action. Internationally, the war is demonstrating significant economic repercussions, with the German economy expected to be negatively impacted in the second quarter, and Turkey facing a potential widening of its budget deficit due to elevated energy prices. India has raised retail fuel prices for the first time since the war began, and Iraq is seeking financial assistance from the IMF and World Bank due to a sharp decline in oil revenue following the closure of the Strait of Hormuz. Diplomatic efforts are underway, as President Trump and Chinese President Xi Jinping have agreed that Iran cannot possess nuclear weapons and that the Strait of Hormuz should reopen, though China maintains a cautious stance. Saudi Arabia and the UAE have reportedly conducted secret attacks in Iran, indicating regional efforts to deter Iranian actions amidst perceived limits of American security guarantees. A top U.S. commander has dismissed reports of widespread civilian deaths, stating that a strike on an Iranian school may have been the only such incident. The conflict continues to be a focal point for U.S. domestic policy debates concerning executive authority over military engagements.",
     "top_themes": [
@@ -12500,6 +12556,20 @@
           "published": "May 13, 2026 · 13:27 BRT",
           "pub_date": "2026-05-13",
           "pub_ts": 1778689644,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran, Ukraine wars deliver worst hit in years to oil refining output - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlF2anR3RFgtMkdYdEFWNzByUkVIU1M2aHdzZ3E1VVg3d3dkWFRZUHpzbEt2NXNBWWdaLXhZYXNBRlVVSk8yaUxyTVNJMTVrVEg4VEJqb2s1ZEdqR2VBTmNtcExPVWFIbnV5QjBtenEzbVBHcjFFUlNZMGZ3eWc5cjdLY3ctX0ItSmlJVjRXWWNiWTR6c3VZTVNDUy11bVZlNnFFcS1ManQySENZdXN0NG1iYw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 13, 2026 · 12:38 BRT",
+          "pub_date": "2026-05-13",
+          "pub_ts": 1778686680,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

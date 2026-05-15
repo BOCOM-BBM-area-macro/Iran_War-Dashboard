@@ -12008,6 +12008,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-14"
+    },
+    "https://www.nytimes.com/live/2026/05/14/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
+    },
+    "https://www.jpost.com/american-politics/article-896293": {
+      "summary": "The House voted 212 to 212 on the war powers resolution, meaning it failed because it needed a majority to pass, despite more Republicans backing the effort.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "US politics",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
     }
   },
   "last_run_success": true,
@@ -12736,6 +12759,20 @@
           "published": "May 08, 2026 · 14:32 BRT",
           "pub_date": "2026-05-08",
           "pub_ts": 1778261523,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil jumps after renewed US-Iran fighting, then pares gains - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1ZZWVlWYlVTaXhlS2ZkTnQ0UUhrNGpVbTRVeHhMRGpkNmRSMTdySFdQWTZBT3VIa1d4VXRqZ3hXZklsX0V1MkxOSmN3LW9GUnV6UFFySXE5YnhXTmpiM3FQUTFlQ2ZmNkFvVG95ckZnX29oZVlRdnNxaElDWG1YeTlzczR1UkhxR1RXcWhqdzdQdDQx?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 08, 2026 · 13:29 BRT",
+          "pub_date": "2026-05-08",
+          "pub_ts": 1778257750,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

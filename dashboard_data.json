@@ -10236,7 +10236,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-10"
     },
     "https://www.timesofisrael.com/iran-sends-response-to-latest-us-peace-proposal-as-netanyahu-insists-war-not-over/": {
       "summary": "State media says it is focused on 'ending war, maritime security,' no mention of nuclear talks; PM tells '60 Minutes' conflict will continue until uranium removed from country",
@@ -11817,7 +11817,7 @@
       "pub_date": "2026-05-14"
     },
     "https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html": {
-      "summary": "",
+      "summary": "He has minimized soaring gas prices, rising inflation and the American economy’s need for the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11837,7 +11837,7 @@
       "pub_date": "2026-05-14"
     },
     "https://www.nytimes.com/2026/05/14/opinion/gas-prices-fuel-oil-trump-poor.html": {
-      "summary": "",
+      "summary": "Higher fuel prices are a burden on low-income families.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11920,7 +11920,7 @@
       "pub_date": "2026-05-14"
     },
     "https://www.nytimes.com/2026/05/14/us/politics/war-powers-vote-house-trump-iran.html": {
-      "summary": "",
+      "summary": "But two vulnerable Republicans joined Democrats in the effort to force President Trump to win authorization from Congress, in the latest sign of G.O.P. jitters over the war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11930,7 +11930,7 @@
       "pub_date": "2026-05-14"
     },
     "https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html": {
-      "summary": "",
+      "summary": "Adm. Brad Cooper said a strike on an Iranian school may have been the only civilian casualty incident of the war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11968,11 +11968,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-14"
+    },
+    "https://www.nytimes.com/interactive/2026/05/14/us/politics/congress-iran-war-powers.html": {
+      "summary": "The vote was the latest in a series of 10 similar measures across the House and Senate since the war began in late February, all of which aimed — and failed — to insist on a role for Congress in authorizing the conflict.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-posts-that-the-military-decimation-of-iran-is-to-be-continued/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-14"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-14",
-  "last_generated_time": "2026-05-14T20:02:04.851646+00:00",
+  "last_generated_time": "2026-05-14T21:01:57.742968+00:00",
   "digest": {
     "digest": "The ongoing Iran War continues to dominate geopolitical and economic discussions, with significant implications for international relations and domestic policy. In the United States, legislative efforts to halt or limit President Trump's war powers have repeatedly failed in the Senate, despite growing bipartisan frustration and a shift in Republican opposition. President Trump's stance on the conflict remains firm, with a stated willingness to decimate Iran if a deal is not reached, and a dismissive attitude towards the financial well-being of Americans as a factor in his decision-making. This approach has drawn criticism, with some opining that the war fails a critical test. The conflict is also exacerbating an energy crisis, with long-term implications, and impacting global markets, as evidenced by the rerouting of supertankers and shifts in the air cargo industry. China appears to be gaining a strategic advantage over the U.S. amidst the war, while Russia's credibility is also being assessed in its wake. Peace talks remain stalled, with the President describing Iran's demands as \"garbage\" and the truce as being on \"life support.\" The military's strategy and the silence of key advisors on the war's direction are also points of concern and scrutiny.",
     "top_themes": [
@@ -12127,6 +12147,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Exclusive: Iraq seeking financial assistance from IMF, World Bank as result of Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUI5Q1lmWm9OdHAtM2s1VGc1U1BxRkpkaEFaZW1UN2ZnMU1xSFlOcExVMEU3TG54dWpXczR6NzNnbnJiZ0tDNklfaU93RFVyUkxFcllQMjFGaHUtRUdMVkhjYkhwd2tzQjlLRndyS2lMTjJ3dEtXV0t6N2g3eGlPNlRmMGNtU0s3dmZqS0pxbkQ2Mmp0Y05pWUlhWEQwVGlBSENGd3EzeDlFU21FRVFSR3UyUXlmc0kyWlQ1YnQxQ3R3QVlnYzhR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 14, 2026 · 19:30 BRT",
+          "pub_date": "2026-05-14",
+          "pub_ts": 1778797834,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war casts long shadow over BRICS meeting - Reuters",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGpKMjFoOV9ScDdwb01xdldwRXA4ZmU1VFdRSXlSOU81VGwyV21YZGUybVVtQkUtNDJKdVBIWjFHMFY1WWhXbGZRalFrOFo1U1RGVzE3Sm9Ra3hfdlI2SGEtbTNtWUVjTFVqMndWOG5sdVkxTk5lcmFRUGdYc1EyMDJrenZBLTRwRlViNmtCdjQ?oc=5",
@@ -15907,6 +15941,20 @@
           "published": "May 12, 2026 · 03:58 BRT",
           "pub_date": "2026-05-12",
           "pub_ts": 1778569080,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump Says He Supports Suspending the Federal Gas Tax - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XM05RNzZEbkRkVWJ3LUVtWHlLMHVtWUFiQTFCeklhQjVneXZNblFQME9iOTNHSFlWV3VlM3BoMlJocVItVkgwa1AzRDJDdV9NU2xMeUw4U1FzRUF6VzhvUkdZV1BBYlg4VW1Lb1pxNlNpMG8x?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 20:24 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778541840,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

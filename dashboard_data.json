@@ -12515,6 +12515,42 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-16"
+    },
+    "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-16"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896353": {
+      "summary": "US President Donald Trump said Iran can either make a deal or \"get annihilated,\" adding that the Islamic Republic has refused to acknowledge multiple deals already agreed to.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "uranium",
+        "Donald Trump",
+        "War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-16"
+    },
+    "https://www.jpost.com/international/article-896363": {
+      "summary": "Following his Beijing summit, Trump says Xi supports reopening the Strait of Hormuz, while China calls the Iran war a conflict that “should never have happened.”",
+      "tags": [
+        "Iran",
+        "United States",
+        "China",
+        "oil",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-16"
     }
   },
   "last_run_success": true,
@@ -12672,6 +12708,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The Countries Profiting From the War Oil Shock, as Others Lose Out - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXE5RVllVEFFUWRKV3o2V0RwOFVDcTFUaG5meF9Gc2d3d0hIWTM0TEJYN2tBNTFZZDM3WFhFVVJHdnpHMzVBdk8zbkQ0R0IxWWd1YWdnckxObDUyVVY1QXRXT1QzSXFtMHNyMlg2Z0IxbVoyQ0Y1MkhmMlVkcVJDdzFZRktBRy1GbHFFLTNTZno2OW1iVTAzRXk1T1ctS2RuNVYwc25pelk?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 16, 2026 · 06:01 BRT",
+          "pub_date": "2026-05-16",
+          "pub_ts": 1778922090,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E?oc=5",

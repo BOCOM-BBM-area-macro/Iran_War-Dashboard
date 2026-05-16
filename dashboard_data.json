@@ -11927,7 +11927,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-15"
+      "pub_date": "2026-05-14"
     },
     "https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html": {
       "summary": "Adm. Brad Cooper said a strike on an Iranian school may have been the only civilian casualty incident of the war.",
@@ -12551,56 +12551,89 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-16"
+    },
+    "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-16"
+    },
+    "https://www.reuters.com/business/energy/trump-says-iran-war-is-worth-economic-pain-these-rural-voters-agree-2026-05-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-16"
+    },
+    "https://www.reuters.com/business/energy/rising-diesel-costs-iran-war-strain-us-school-budgets-2026-05-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-16"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-15",
-  "last_generated_time": "2026-05-15T23:01:58.480584+00:00",
+  "last_generated_date": "2026-05-16",
+  "last_generated_time": "2026-05-16T08:01:59.698051+00:00",
   "digest": {
-    "digest": "The U.S. House of Representatives has narrowly rejected multiple attempts to rein in President Trump's war powers concerning the conflict with Iran, with votes falling short of a majority. These rejections highlight ongoing internal political divisions regarding congressional authorization for military action. Internationally, the war is demonstrating significant economic repercussions, with the German economy expected to be negatively impacted in the second quarter, and Turkey facing a potential widening of its budget deficit due to elevated energy prices. India has raised retail fuel prices for the first time since the war began, and Iraq is seeking financial assistance from the IMF and World Bank due to a sharp decline in oil revenue following the closure of the Strait of Hormuz. Diplomatic efforts are underway, as President Trump and Chinese President Xi Jinping have agreed that Iran cannot possess nuclear weapons and that the Strait of Hormuz should reopen, though China maintains a cautious stance. Saudi Arabia and the UAE have reportedly conducted secret attacks in Iran, indicating regional efforts to deter Iranian actions amidst perceived limits of American security guarantees. A top U.S. commander has dismissed reports of widespread civilian deaths, stating that a strike on an Iranian school may have been the only such incident. The conflict continues to be a focal point for U.S. domestic policy debates concerning executive authority over military engagements.",
+    "digest": "Diplomatic efforts to de-escalate the Iran war have stalled, with President Trump stating Xi Jinping agrees Iran must open the Strait of Hormuz, while China maintains the war should not have started and has pledged not to supply Iran with weapons. Hopes for a breakthrough at the Trump-Xi summit yielded no clear commitment from China to pressure Iran. BRICS nations' talks concluded without a joint statement, highlighting divisions over the conflict, and Iran urged BRICS to condemn the war. The US faces internal political challenges, with Republican lawmakers having missed opportunities to limit presidential war powers. Meanwhile, the economic repercussions of the conflict continue, with oil prices rising and diesel costs straining US school budgets. Reports indicate that secret strikes by the UAE and Saudi Arabia on Iran have disrupted coexistence, and Israel is preparing for a potential renewal of hostilities that could last for weeks. Iran has reportedly sent mixed signals regarding a potential US deal, and the IDF Chief visited the UAE during the conflict.",
     "top_themes": [
-      "Congressional War Powers Debate",
-      "International Economic Impact",
-      "US-China Diplomatic Engagement",
-      "Regional Deterrence Strategies"
+      "Diplomatic Stalemate",
+      "Economic Impact of Conflict",
+      "Geopolitical Tensions"
     ],
     "next_events": [
       {
-        "title": "Continued US Congressional Efforts to Restrain Executive War Powers",
-        "description": "Despite multiple failed attempts, the persistent efforts by the US House to assert its war powers indicate ongoing political tension regarding the Iran conflict. Analysts should watch for renewed legislative pushes or shifts in bipartisan support that could impact the President's authority and the war's trajectory."
+        "title": "Strait of Hormuz Status and Global Energy Security",
+        "description": "The reopening of the Strait of Hormuz remains a critical point of contention, with President Trump pushing for it and China's stance being complex. Analysts should monitor any concrete actions or agreements regarding the strait's status, as its closure or continued disruption would significantly impact global oil prices and supply chains."
       },
       {
-        "title": "Escalating Global Economic Instability and Energy Market Volatility",
-        "description": "The Iran war has already triggered rising gas prices, inflation, and budget deficits in several nations, with the Strait of Hormuz closure severely impacting oil exports. Monitor global energy prices, the financial stability of oil-dependent economies like Iraq and Turkey, and potential international financial interventions (IMF/World Bank) as the conflict prolongs."
+        "title": "US-Iran Diplomatic Engagements and Escalation Risks",
+        "description": "Despite Trump's 'deal or annihilation' rhetoric and Iran's mixed signals, clear breakthroughs have been elusive. Watch for any signs of renewed negotiations, specific demands from either side, or increased military posturing and potential attacks, which could rapidly escalate the conflict."
       },
       {
-        "title": "Evolution of International Diplomacy and Geopolitical Alignments",
-        "description": "While the US and China share common goals on Iran's nuclear weapons, their diplomatic approaches differ, and China is reportedly gaining a geopolitical edge. Observe how major powers like the US and China, along with regional actors like Saudi Arabia and the UAE, continue to engage diplomatically or militarily, potentially forming new alliances or deepening existing rifts."
+        "title": "Resumption of US-Israel Military Operations",
+        "description": "Reports indicate that US-Israel attacks on Iran could resume imminently, potentially extending for weeks. Intelligence should focus on any confirmed strikes, their targets, and the immediate retaliatory actions from Iran or its proxies, which would mark a significant escalation."
       },
       {
-        "title": "Scrutiny of Civilian Casualties and War Narrative Control",
-        "description": "Reports of a US commander dismissing civilian deaths suggest a contested narrative surrounding the war's human cost. Future investigations, independent reports, or conflicting claims regarding civilian casualties could emerge, influencing international public opinion and humanitarian pressure on the conflict."
+        "title": "US Congressional Action on War Powers",
+        "description": "Growing frustration among Republicans regarding the Iran War and the President's war powers suggests potential legislative challenges. Analysts should monitor any new attempts by Congress to define parameters, set exit criteria, or limit the President's authority, indicating a shift in domestic political will."
       },
       {
-        "title": "Status of the Strait of Hormuz and its Impact on Global Trade",
-        "description": "The closure of the Strait of Hormuz is a critical factor driving economic distress and global energy market instability. Any developments regarding the reopening, continued closure, or alternative shipping routes will have immediate and profound consequences for global oil supply, trade, and the economies reliant on this waterway."
+        "title": "International Consensus and BRICS Unity on Iran",
+        "description": "Divisions over the Iran war were evident in the BRICS talks, which ended without a joint statement, and Iran urged condemnation. Observe whether international bodies can form a unified front or if deepening divisions among major powers will further complicate diplomatic efforts and potential sanctions."
+      },
+      {
+        "title": "Economic Repercussions on Global Markets and National Budgets",
+        "description": "The war has already led to rising oil and diesel costs, straining national budgets and creating winners and losers in the global economy. Continue to track volatility in oil prices, specific impacts on key industries and consumer costs, and government responses to these economic pressures."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Effort to halt Iran war stalls in House despite rising GOP frustration - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/14/effort-halt-iran-war-stalls-house-despite-rising-gop-frustration/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 15, 2026 · 03:08 BRT",
-      "pub_date": "2026-05-15",
-      "pub_ts": 1778825302,
+      "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started - Reuters",
+      "url": "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 16, 2026 · 05:41 BRT",
+      "pub_date": "2026-05-16",
+      "pub_ts": 1778920888,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -12608,15 +12641,15 @@
       "sentiment_success": false
     },
     {
-      "title": "House Again Blocks War Powers Vote to Halt Iran Conflict - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/14/us/politics/war-powers-vote-house-trump-iran.html",
+      "title": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 14, 2026 · 19:59 BRT",
-      "pub_date": "2026-05-14",
-      "pub_ts": 1778799578,
-      "summary": "But two vulnerable Republicans joined Democrats in the effort to force President Trump to win authorization from Congress, in the latest sign of G.O.P. jitters over the war.",
+      "published": "May 15, 2026 · 17:10 BRT",
+      "pub_date": "2026-05-15",
+      "pub_ts": 1778875844,
+      "summary": "Hopes for an end to the war in Iran faded after President Trump failed to secure a commitment from China to help persuade Iran to reopen the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -12626,14 +12659,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Republican-led US House rejects bid to rein in Trump Iran war powers by one vote - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/republican-led-us-house-rejects-bid-to-rein-in-trump-iran-war-powers-by-one-vote/",
+      "title": "How Secret U.A.E. and Saudi Strikes on Iran Shattered an Uneasy Coexistence - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/how-secret-u-a-e-and-saudi-strikes-on-iran-shattered-an-uneasy-coexistence-2e4502b6",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "May 15, 2026 · 23:00 BRT",
+      "pub_date": "2026-05-15",
+      "pub_ts": 1778896800,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel said preparing for imminent renewal of war with Iran that could extend for weeks - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/israel-said-preparing-for-imminent-renewal-of-war-with-iran-that-could-extend-for-weeks/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "May 14, 2026 · 19:03 BRT",
-      "pub_date": "2026-05-14",
-      "pub_ts": 1778796187,
+      "published": "May 15, 2026 · 14:32 BRT",
+      "pub_date": "2026-05-15",
+      "pub_ts": 1778866320,
       "summary": "",
       "tags": [
         "extracted",
@@ -12645,51 +12697,35 @@
       "sentiment_success": false
     },
     {
-      "title": "China gains major edge on U.S. amid Iran war, intelligence report finds - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/13/china-gains-major-edge-us-amid-iran-war-us-intelligence-finds/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 14, 2026 · 08:10 BRT",
-      "pub_date": "2026-05-14",
-      "pub_ts": 1778757000,
-      "summary": "",
+      "title": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-05-16/live-updates-896346",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "May 16, 2026 · 07:00 BRT",
+      "pub_date": "2026-05-16",
+      "pub_ts": 1778925605,
+      "summary": "Iran giving mixed signals on US deal • IDF Chief Zamir visited UAE during war • President Xi promised China would not give Iran weapons • Hamas military chief targeted in Gaza strike",
       "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Congress Has Rejected 10 Chances to Assert Its War Powers in Iran - The New York Times",
-      "url": "https://www.nytimes.com/interactive/2026/05/14/us/politics/congress-iran-war-powers.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 14, 2026 · 18:32 BRT",
-      "pub_date": "2026-05-14",
-      "pub_ts": 1778794349,
-      "summary": "The vote was the latest in a series of 10 similar measures across the House and Senate since the war began in late February, all of which aimed — and failed — to insist on a role for Congress in authorizing the conflict.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "IDF",
+        "Iran",
+        "Lebanon"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "India raises retail fuel prices for first time since Iran war started - Reuters",
-      "url": "https://www.reuters.com/business/energy/india-hikes-petrol-diesel-prices-by-3-rupeesliter-retailers-say-2026-05-15/",
+      "title": "Iran urges BRICS nations to condemn war, Indian-flagged vessel sunk - Reuters",
+      "url": "https://www.reuters.com/world/china/india-says-emerging-nations-eye-brics-grouping-stability-2026-05-14/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 14, 2026 · 22:36 BRT",
-      "pub_date": "2026-05-14",
-      "pub_ts": 1778808960,
+      "published": "May 15, 2026 · 06:26 BRT",
+      "pub_date": "2026-05-15",
+      "pub_ts": 1778837168,
       "summary": "",
       "tags": [
         "extracted",
@@ -16535,6 +16571,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Rising diesel costs from Iran war strain US school budgets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXJwb0lxb0NMVzhRYzYzQ3F0QjY3M1MwcElKREtqdW9OVzluREJXWU9TaVBvdzU2ZThIc29fVEkxLVVKcGxTMEI4NWVLQUptR1lZT0Z1aml3WTVVbW41WnJWb1ZDdkhlTzZ6LVFMWEJJMVVNeGJ2LTdkcDBhR1dzR3VpcFZoOUFxZTR1THdNRWxMUGRZVTBNOTlsbXpta3hEMkNmeTZmTUY?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 16, 2026 · 07:07 BRT",
+          "pub_date": "2026-05-16",
+          "pub_ts": 1778926072,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Indian Households Set to Pay the Price for Trump’s War in Iran - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGhvWWdDSnlERmNhclZEd2xtU3pfNGhad3dMblFDcF9kU1oybXRLa1JOd2hiczY4aWhWeUZOVGpJVlhoM3dpUC05NzhkUTAwUzFHb2lTcE5uemFwbFVrYWVlQWZiVzdpTGwtbGVYVXZ5UXJnMGl1eUdmOVB4X3VQUU83N0NkVGRYY2xNQ0FndXRTcXlDdTFtd1RueE5YSG1RRFE5OGtZcjZQS016YmtHOGdRc0g?oc=5",
@@ -20763,7 +20813,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-15T11:08:53.585235+00:00",
-  "last_watch_time": "2026-05-15T11:09:01.799492+00:00",
-  "last_relevant_time": "2026-05-15T11:09:07.961354+00:00"
+  "last_digest_time": "2026-05-16T11:06:49.582702+00:00",
+  "last_watch_time": "2026-05-16T11:06:57.062224+00:00",
+  "last_relevant_time": "2026-05-16T11:06:58.757713+00:00"
 }

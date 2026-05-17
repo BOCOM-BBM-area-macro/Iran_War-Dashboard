@@ -12737,6 +12737,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-16"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/uss-ford-finally-returns-home-after-11-month-deployment-for-iran-war-maduros-capture/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-17"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-05-17/live-updates-896388": {
+      "summary": "PA reinforcing notorious 'pay-for-slay' policy • IDF confirms death of Hamas military chief following Gaza strike • Land convoy sets out from Libya as part of Gaza flotilla",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "IDF",
+        "Iran",
+        "Lebanon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-17"
     }
   },
   "last_run_success": true,
@@ -13007,6 +13030,20 @@
           "published": "May 15, 2026 · 04:23 BRT",
           "pub_date": "2026-05-15",
           "pub_ts": 1778829787,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil tankers transiting Strait of Hormuz since start of Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa25NR3cxSTB5X01CR3dEWkRqQXNzQVdxd0pYZFVzMThlNWxja2lsbTFPeTZJZXlvSjFyeUVpZ1lxYnJWSWp6LTR1bEJ4Z190ZVM1RjVpSVliallvZ3UwUFZ3Qm5yQ3NveWs0ejZXdk4yLUhDSHBwNm1wLXFqMEhuN1hJeVVhOGZjSEhkOUJ4cEx4b1hIS3JsTU5YdDBNUkNoWTNpN0NjZ3dRM1pidkE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 15, 2026 · 04:00 BRT",
+          "pub_date": "2026-05-15",
+          "pub_ts": 1778828400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

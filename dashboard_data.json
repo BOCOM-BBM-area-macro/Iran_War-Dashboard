@@ -12783,96 +12783,97 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-13"
+    },
+    "https://www.jpost.com/middle-east/article-896438": {
+      "summary": "A former senior Trump security official told the Telegraph that using UAE forces would avoid putting US troops in the line of fire.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "UAE",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-17"
+    },
+    "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-17"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-16",
-  "last_generated_time": "2026-05-16T23:01:58.711150+00:00",
+  "last_generated_date": "2026-05-17",
+  "last_generated_time": "2026-05-17T08:02:12.784624+00:00",
   "digest": {
-    "digest": "Diplomatic efforts to de-escalate the Iran war have stalled, with President Trump stating Xi Jinping agrees Iran must open the Strait of Hormuz, while China maintains the war should not have started and has pledged not to supply Iran with weapons. Hopes for a breakthrough at the Trump-Xi summit yielded no clear commitment from China to pressure Iran. BRICS nations' talks concluded without a joint statement, highlighting divisions over the conflict, and Iran urged BRICS to condemn the war. The US faces internal political challenges, with Republican lawmakers having missed opportunities to limit presidential war powers. Meanwhile, the economic repercussions of the conflict continue, with oil prices rising and diesel costs straining US school budgets. Reports indicate that secret strikes by the UAE and Saudi Arabia on Iran have disrupted coexistence, and Israel is preparing for a potential renewal of hostilities that could last for weeks. Iran has reportedly sent mixed signals regarding a potential US deal, and the IDF Chief visited the UAE during the conflict.",
+    "digest": "The United States is reportedly urging the United Arab Emirates to take a more active role in the conflict with Iran, including potentially seizing Lavan Island, as a means to reduce direct US troop involvement. This push coincides with reports of increased Iranian retaliation against the UAE, leading to a reassessment of its defense strategies and alliances, strengthening ties with the US and Israel. Diplomatic efforts appear stalled, with reports indicating that Iran and the US are not progressing on reopening the Strait of Hormuz, contributing to tightening oil supplies. Concurrently, there are indications that Israel and the US are preparing for a potential renewal of hostilities as early as the following week, with plans for commando operations to secure nuclear materials. The economic repercussions of the conflict continue to be felt globally, with rising diesel costs impacting US school budgets and Malaysia implementing measures to support its airline industry. Iran's stock market is set to reopen after a trading halt during the war. The USS Ford has returned home following an extended deployment related to the Iran conflict and other operations. There are also concerns about Iran potentially utilizing proxy groups beyond the Middle East.",
     "top_themes": [
-      "Diplomatic Stalemate",
-      "Economic Impact of Conflict",
-      "Geopolitical Tensions"
+      "US-UAE-Israel Alignment",
+      "Economic Impact of Iran War",
+      "Potential Resumption of Hostilities"
     ],
     "next_events": [
       {
-        "title": "Strait of Hormuz Status and Global Energy Security",
-        "description": "The reopening of the Strait of Hormuz remains a critical point of contention, with President Trump pushing for it and China's stance being complex. Analysts should monitor any concrete actions or agreements regarding the strait's status, as its closure or continued disruption would significantly impact global oil prices and supply chains."
+        "title": "Imminent Resumption of Direct Hostilities",
+        "description": "Reports indicate the US and Israel are preparing to renew direct military conflict with Iran as early as next week, potentially involving ground commandos to extract nuclear material. Analysts should watch for any immediate military movements or declarations that signal the start of this anticipated 'days to weeks' long engagement."
       },
       {
-        "title": "US-Iran Diplomatic Engagements and Escalation Risks",
-        "description": "Despite Trump's 'deal or annihilation' rhetoric and Iran's mixed signals, clear breakthroughs have been elusive. Watch for any signs of renewed negotiations, specific demands from either side, or increased military posturing and potential attacks, which could rapidly escalate the conflict."
+        "title": "UAE's Escalating Role and Regional Alignment Shifts",
+        "description": "The US is actively encouraging the UAE to take a more direct military role, including potentially seizing Iran's Lavan Island, which could solidify a US-Israel-UAE alignment. Monitor the UAE's military actions, its deepening ties with Israel, and the resulting strain on relations with other Gulf states like Saudi Arabia and Qatar."
       },
       {
-        "title": "Resumption of US-Israel Military Operations",
-        "description": "Reports indicate that US-Israel attacks on Iran could resume imminently, potentially extending for weeks. Intelligence should focus on any confirmed strikes, their targets, and the immediate retaliatory actions from Iran or its proxies, which would mark a significant escalation."
+        "title": "Strait of Hormuz Status and Global Oil Market Impact",
+        "description": "Negotiations between the US and Iran regarding the reopening of the critical Strait of Hormuz remain stalled, leading to tightening oil supplies globally. Analysts must track any developments concerning the strait's accessibility, as its continued disruption will significantly impact international oil prices and global economic stability."
       },
       {
-        "title": "US Congressional Action on War Powers",
-        "description": "Growing frustration among Republicans regarding the Iran War and the President's war powers suggests potential legislative challenges. Analysts should monitor any new attempts by Congress to define parameters, set exit criteria, or limit the President's authority, indicating a shift in domestic political will."
+        "title": "Expansion of Iranian Proxy Activities Beyond the Mideast",
+        "description": "Growing concerns suggest Iran may be deploying proxy groups in regions beyond the Middle East, indicating a potential geographical expansion of the conflict. Watch for any intelligence reports or incidents that confirm Iranian proxy involvement in new theaters, which would signify a significant escalation of global security threats."
       },
       {
-        "title": "International Consensus and BRICS Unity on Iran",
-        "description": "Divisions over the Iran war were evident in the BRICS talks, which ended without a joint statement, and Iran urged condemnation. Observe whether international bodies can form a unified front or if deepening divisions among major powers will further complicate diplomatic efforts and potential sanctions."
-      },
-      {
-        "title": "Economic Repercussions on Global Markets and National Budgets",
-        "description": "The war has already led to rising oil and diesel costs, straining national budgets and creating winners and losers in the global economy. Continue to track volatility in oil prices, specific impacts on key industries and consumer costs, and government responses to these economic pressures."
+        "title": "Iran's Economic Resilience Post-Conflict Halt",
+        "description": "Following a halt during the war, Iran's stock market is set to reopen, offering a critical look into the nation's economic health and the war's financial toll. Observe market performance, inflation rates, and any government measures to stabilize the economy, as these will reflect Iran's internal stability and capacity to sustain the conflict."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started - Reuters",
-      "url": "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 16, 2026 · 05:41 BRT",
-      "pub_date": "2026-05-16",
-      "pub_ts": 1778920888,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html",
+      "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 15, 2026 · 17:10 BRT",
-      "pub_date": "2026-05-15",
-      "pub_ts": 1778875844,
-      "summary": "Hopes for an end to the war in Iran faded after President Trump failed to secure a commitment from China to help persuade Iran to reopen the Strait of Hormuz.",
+      "published": "May 17, 2026 · 06:01 BRT",
+      "pub_date": "2026-05-17",
+      "pub_ts": 1779008465,
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "How Secret U.A.E. and Saudi Strikes on Iran Shattered an Uneasy Coexistence - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/how-secret-u-a-e-and-saudi-strikes-on-iran-shattered-an-uneasy-coexistence-2e4502b6",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "May 15, 2026 · 23:00 BRT",
-      "pub_date": "2026-05-15",
-      "pub_ts": 1778896800,
+      "title": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 16, 2026 · 15:46 BRT",
+      "pub_date": "2026-05-16",
+      "pub_ts": 1778957161,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -12880,14 +12881,32 @@
       "sentiment_success": false
     },
     {
-      "title": "Israel said preparing for imminent renewal of war with Iran that could extend for weeks - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/israel-said-preparing-for-imminent-renewal-of-war-with-iran-that-could-extend-for-weeks/",
+      "title": "As Iran talks stall, Israel and US prepping to renew war as soon as next week – report - The Times of Israel",
+      "url": "https://www.timesofisrael.com/as-iran-talks-stall-israel-and-us-prepping-to-renew-war-as-soon-as-next-week-report/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "May 15, 2026 · 14:32 BRT",
-      "pub_date": "2026-05-15",
-      "pub_ts": 1778866320,
+      "published": "May 16, 2026 · 08:46 BRT",
+      "pub_date": "2026-05-16",
+      "pub_ts": 1778931960,
+      "summary": "Commandos could be put on the ground to extract nuclear material, US officials tell New York Times; senior Israeli official reportedly says fighting would last 'days to weeks'",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran’s stock market to reopen Tuesday after trading halted during war with US and Israel - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/irans-stock-market-to-reopen-tuesday-after-trading-halted-during-war-with-us-and-israel/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "May 16, 2026 · 15:54 BRT",
+      "pub_date": "2026-05-16",
+      "pub_ts": 1778957640,
       "summary": "",
       "tags": [
         "extracted",
@@ -12899,39 +12918,37 @@
       "sentiment_success": false
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-05-16/live-updates-896346",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "May 16, 2026 · 07:00 BRT",
-      "pub_date": "2026-05-16",
-      "pub_ts": 1778925605,
-      "summary": "Iran giving mixed signals on US deal • IDF Chief Zamir visited UAE during war • President Xi promised China would not give Iran weapons • Hamas military chief targeted in Gaza strike",
-      "tags": [
-        "Benjamin Netanyahu",
-        "Hezbollah",
-        "IDF",
-        "Iran",
-        "Lebanon"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran urges BRICS nations to condemn war, Indian-flagged vessel sunk - Reuters",
-      "url": "https://www.reuters.com/world/china/india-says-emerging-nations-eye-brics-grouping-stability-2026-05-14/",
+      "title": "Trump's geopolitical brinkmanship has hit a wall with Iran - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 15, 2026 · 06:26 BRT",
-      "pub_date": "2026-05-15",
-      "pub_ts": 1778837168,
+      "published": "May 16, 2026 · 02:03 BRT",
+      "pub_date": "2026-05-16",
+      "pub_ts": 1778907780,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US, Iran Stall on Hormuz Reopening as Oil Supplies Tighten - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-returns-from-china-with-little-progress-to-reopen-hormuz",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 16, 2026 · 16:10 BRT",
+      "pub_date": "2026-05-16",
+      "pub_ts": 1778958607,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -17068,6 +17085,20 @@
           "_rank": 0
         },
         {
+          "title": "Trump's Iran war goals unclear, Americans believe, Reuters/Ipsos poll shows - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wZ3NieldWcms4aHVoVkZzZTVMMTNVWHpDX3RaMzEyWE5yQUwwTVRTSUdzcHlsb09VLU5VT2FJWjRLMzNXY0VDRjUtQktXZHJTVjVFZ0VORkRQMGExWjhEUnVZeGk?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 11, 2026 · 16:52 BRT",
+          "pub_date": "2026-05-11",
+          "pub_ts": 1778529145,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "US considers suspending fuel tax as Iran war pushes up prices - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmFFLTFfUXRYTzFNRUJDZHVLZmlhUUJJUzB6WmgzMU52bGt4aS05V2xvRHJIVTdac2lFdDRRYmdyOUZGOUpCSFJqVE9Cakxyd2xNSGEySmNKWEFTVXNTVlFudDhtX25QX0JlTG9Yd19OeE9PYzVDQVAxcVowbzkySHlfMVU?oc=5",
           "source": "Financial Times",
@@ -21141,7 +21172,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-16T11:06:49.582702+00:00",
-  "last_watch_time": "2026-05-16T11:06:57.062224+00:00",
-  "last_relevant_time": "2026-05-16T11:06:58.757713+00:00"
+  "last_digest_time": "2026-05-17T11:07:20.614720+00:00",
+  "last_watch_time": "2026-05-17T11:07:32.546978+00:00",
+  "last_relevant_time": "2026-05-17T11:07:33.314705+00:00"
 }

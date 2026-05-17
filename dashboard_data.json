@@ -10812,7 +10812,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-05-13"
     },
     "https://www.reuters.com/world/china/peace-deal-hopes-fade-after-trump-rejects-garbage-iran-proposal-2026-05-12/": {
       "summary": "",
@@ -11052,7 +11052,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.reuters.com/world/middle-east/second-qatari-lng-tanker-successfully-crosses-hormuz-pakistan-iran-war-continues-2026-05-12/": {
       "summary": "",
@@ -12763,6 +12763,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-17"
+    },
+    "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-17"
+    },
+    "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-13"
     }
   },
   "last_run_success": true,
@@ -17836,6 +17856,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aMEhuTHNib3RRaHVHa2tjZW5GaHpNcnFYc0VmY3NLdDF3elFBSlVyd0JCb3BPMjU4Z3huckxiVURyaVZJZ0tQOUxkU190Y2tJZGc1NUNTei1HcnJxX3lSV3Z5VFM2TDV2OUw2b183REs4R0ZEQVdGTlZDdw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 17, 2026 · 06:01 BRT",
+          "pub_date": "2026-05-17",
+          "pub_ts": 1779008465,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why the Price of Gas Is the Most Important Number in US Politics - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVJ0VDRsNzdLYlIxTnVnM3FLTFlzSzZpS3F2N3ZuVXdwTXh4MjRKRFJwR2NOOVBpWFQ0ZEpuVGs0RGNGTFhqZW1XZVgweEd0Sk5iZ1Boa2E4MUtlMzV6bFhQWklBV3htdld4MTFCcFNkdkNPTTdiNV9XV3pGdjZoMkgwekFOUF83NWRPVjJpV0IyUGUyT2JZSXdpbjQxdVpJbkw0OEtwYWx1NDB1NXJpemsyY1piQQ?oc=5",

@@ -13191,55 +13191,71 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-18"
+    },
+    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.washingtonpost.com/opinions/2026/05/25/iran-trump-has-no-good-military-options/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-17",
-  "last_generated_time": "2026-05-17T23:02:07.242650+00:00",
+  "last_generated_date": "2026-05-18",
+  "last_generated_time": "2026-05-18T08:02:07.143049+00:00",
   "digest": {
-    "digest": "The United States is reportedly urging the United Arab Emirates to take a more active role in the conflict with Iran, including potentially seizing Lavan Island, as a means to reduce direct US troop involvement. This push coincides with reports of increased Iranian retaliation against the UAE, leading to a reassessment of its defense strategies and alliances, strengthening ties with the US and Israel. Diplomatic efforts appear stalled, with reports indicating that Iran and the US are not progressing on reopening the Strait of Hormuz, contributing to tightening oil supplies. Concurrently, there are indications that Israel and the US are preparing for a potential renewal of hostilities as early as the following week, with plans for commando operations to secure nuclear materials. The economic repercussions of the conflict continue to be felt globally, with rising diesel costs impacting US school budgets and Malaysia implementing measures to support its airline industry. Iran's stock market is set to reopen after a trading halt during the war. The USS Ford has returned home following an extended deployment related to the Iran conflict and other operations. There are also concerns about Iran potentially utilizing proxy groups beyond the Middle East.",
+    "digest": "The ongoing Iran War continues to exert significant economic pressure globally, with estimates of the cost to international companies reaching $25 billion and counting. American consumers are facing an additional $40 billion in fuel expenses due to the conflict. European gas prices have risen, and the conflict is impacting currency markets, with the Indian Rupee showing signs of testing record lows and bonds extending their fall. Qatar's vital gas exports have been paralyzed, significantly hindering its economic growth. Diplomatic efforts appear to be underway, with a revised Iranian proposal to end the war reportedly shared with the US via a Pakistani source. The United States has issued warnings to Iran, stating that the \"clock is ticking\" for harder strikes, with specific mention of targeting the UAE's nuclear plant. There are reports of the Trump administration urging the UAE to seize Iran's Lavan Island and take a more active role in the conflict, potentially to avoid direct US troop engagement. CENTCOM has reported stopping thousands of drones and missiles targeting various regional countries, including the UAE, Israel, and Saudi Arabia. Amidst rumors of renewed conflict, there is an increased possibility of Iran escalating attacks on the UAE, with a recent drone attack potentially serving as a message. Israeli leadership has engaged in discussions with the US regarding the war.",
     "top_themes": [
-      "US-UAE-Israel Alignment",
       "Economic Impact of Iran War",
-      "Potential Resumption of Hostilities"
+      "US Diplomatic and Military Posturing",
+      "Regional Escalation and Countermeasures"
     ],
     "next_events": [
       {
-        "title": "Imminent Resumption of Direct Hostilities",
-        "description": "Reports indicate the US and Israel are preparing to renew direct military conflict with Iran as early as next week, potentially involving ground commandos to extract nuclear material. Analysts should watch for any immediate military movements or declarations that signal the start of this anticipated 'days to weeks' long engagement."
+        "title": "US Military and Diplomatic Strategy Shifts",
+        "description": "Trump's 'clock is ticking' warning for harder strikes and reports of urging the UAE to seize Iran's Lavan Island signal potential shifts in US engagement. Analysts should watch for any direct US military actions, increased support for regional allies, or new diplomatic initiatives that could escalate or de-escalate the conflict."
       },
       {
-        "title": "UAE's Escalating Role and Regional Alignment Shifts",
-        "description": "The US is actively encouraging the UAE to take a more direct military role, including potentially seizing Iran's Lavan Island, which could solidify a US-Israel-UAE alignment. Monitor the UAE's military actions, its deepening ties with Israel, and the resulting strain on relations with other Gulf states like Saudi Arabia and Qatar."
+        "title": "Iran's Dual Approach: Peace vs. Aggression",
+        "description": "A revised Iranian proposal to end the war has been shared with the US, suggesting a potential path to de-escalation. However, Iran continues to escalate attacks, particularly targeting the UAE and its nuclear plant. Monitor the US response to the proposal and any further Iranian military actions that could undermine peace efforts or signal a preference for continued conflict."
       },
       {
-        "title": "Strait of Hormuz Status and Global Oil Market Impact",
-        "description": "Negotiations between the US and Iran regarding the reopening of the critical Strait of Hormuz remain stalled, leading to tightening oil supplies globally. Analysts must track any developments concerning the strait's accessibility, as its continued disruption will significantly impact international oil prices and global economic stability."
+        "title": "Escalating Global Economic Repercussions",
+        "description": "The war is imposing significant global costs, including rising fuel prices for Americans ($40bn bill), a $25 billion bill for global companies, and paralyzed gas exports from Qatar. Analysts should track commodity prices, currency fluctuations (e.g., Indian Rupee), and the financial performance of key industries to gauge the escalating economic burden and its potential for broader market instability."
       },
       {
-        "title": "Expansion of Iranian Proxy Activities Beyond the Mideast",
-        "description": "Growing concerns suggest Iran may be deploying proxy groups in regions beyond the Middle East, indicating a potential geographical expansion of the conflict. Watch for any intelligence reports or incidents that confirm Iranian proxy involvement in new theaters, which would signify a significant escalation of global security threats."
-      },
-      {
-        "title": "Iran's Economic Resilience Post-Conflict Halt",
-        "description": "Following a halt during the war, Iran's stock market is set to reopen, offering a critical look into the nation's economic health and the war's financial toll. Observe market performance, inflation rates, and any government measures to stabilize the economy, as these will reflect Iran's internal stability and capacity to sustain the conflict."
+        "title": "Regional Security Dynamics and UAE's Position",
+        "description": "The UAE is a key focal point, facing Iranian drone attacks (including on its nuclear plant) while reportedly being urged by the US to take aggressive action by seizing Lavan Island. Monitor the UAE's response to these pressures, any changes in its defensive posture, and the broader implications for regional stability as Iran continues to target multiple countries."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 17, 2026 · 06:01 BRT",
+      "title": "Trump warns Iran \"clock is ticking\" until U.S. launches harder strikes - Axios",
+      "url": "https://www.axios.com/2026/05/17/trump-iran-warning-harder-strikes",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "May 17, 2026 · 22:56 BRT",
       "pub_date": "2026-05-17",
-      "pub_ts": 1779008465,
+      "pub_ts": 1779069414,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "axios.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -13247,70 +13263,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 16, 2026 · 15:46 BRT",
-      "pub_date": "2026-05-16",
-      "pub_ts": 1778957161,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "As Iran talks stall, Israel and US prepping to renew war as soon as next week – report - The Times of Israel",
-      "url": "https://www.timesofisrael.com/as-iran-talks-stall-israel-and-us-prepping-to-renew-war-as-soon-as-next-week-report/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "May 16, 2026 · 08:46 BRT",
-      "pub_date": "2026-05-16",
-      "pub_ts": 1778931960,
-      "summary": "Commandos could be put on the ground to extract nuclear material, US officials tell New York Times; senior Israeli official reportedly says fighting would last 'days to weeks'",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran’s stock market to reopen Tuesday after trading halted during war with US and Israel - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/irans-stock-market-to-reopen-tuesday-after-trading-halted-during-war-with-us-and-israel/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "May 16, 2026 · 15:54 BRT",
-      "pub_date": "2026-05-16",
-      "pub_ts": 1778957640,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump's geopolitical brinkmanship has hit a wall with Iran - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16/",
+      "title": "Revised Iranian proposal to end war shared with US, Pakistani source says - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/revised-iranian-proposal-end-war-shared-with-us-pakistani-source-says-2026-05-18/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 16, 2026 · 02:03 BRT",
-      "pub_date": "2026-05-16",
-      "pub_ts": 1778907780,
+      "published": "May 18, 2026 · 05:16 BRT",
+      "pub_date": "2026-05-18",
+      "pub_ts": 1779092175,
       "summary": "",
       "tags": [
         "extracted",
@@ -13322,14 +13282,73 @@
       "sentiment_success": false
     },
     {
-      "title": "US, Iran Stall on Hormuz Reopening as Oil Supplies Tighten - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-returns-from-china-with-little-progress-to-reopen-hormuz",
+      "title": "Iran war saddles global companies with $25 billion bill - and counting - Reuters",
+      "url": "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 18, 2026 · 02:04 BRT",
+      "pub_date": "2026-05-18",
+      "pub_ts": 1779080640,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 18, 2026 · 06:02 BRT",
+      "pub_date": "2026-05-18",
+      "pub_ts": 1779094921,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Amid rumors of renewed war, Iran may escalate attacks on UAE - analysis - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-896470",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "May 17, 2026 · 12:41 BRT",
+      "pub_date": "2026-05-17",
+      "pub_ts": 1779032492,
+      "summary": "It’s possible the drone attack on the UAE on May 17 was an Iranian message that it will increase its list of targets in the country.",
+      "tags": [
+        "Iran",
+        "United Arab Emirates",
+        "UAE",
+        "ballistic missile",
+        "drone attack"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US Tells Iran ‘Clock Is Ticking’ as UAE Nuclear Plant Targeted - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-tells-iran-clock-is-ticking-as-uae-nuclear-plant-targeted",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "May 16, 2026 · 16:10 BRT",
-      "pub_date": "2026-05-16",
-      "pub_ts": 1778958607,
+      "published": "May 18, 2026 · 04:37 BRT",
+      "pub_date": "2026-05-18",
+      "pub_ts": 1779089839,
       "summary": "",
       "tags": [
         "extracted",
@@ -13348,6 +13367,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Climb and Bonds Falter as Iran War Raises Inflation Fears - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNcDhEN2RtYUVJamVfdDlrSGY2MnA3MWJzZzlkN29Dc2NEdmg3Q1ZWRUIxV1piZGtUTGs2YV9xQ0xMX2YxMVMzRWxhRVBnZEVINUpXOVFMZEdfVEIwR0FIeUxadlF4T2hjRklBYzR5b2JqNVVqc0VFYWtFVlg5Zw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 05:28 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779092888,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war saddles global companies with $25 billion bill - and counting - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmNDdUhsZDZ4WjM1dUVybktMRmFOUkYtSHdwSDdzTW1zbDBoWWs3cU4wa3ZickFzZ1UxVlh6b3U4OWZXNnVRa1hYTWM5TXhFMjVQUWZkWk11cTdCUHlncXRfWkdDTUdQeHdRNFpFdHVxSWNyc2UzdlFwTnYzZkZ6eGN5MU95dGJ3MDhVb1NBaFNxeWE5SVJyZTZSQktFalY4dDdFRDQwazg3YnVzOEdWU3JB?oc=5",
@@ -21655,7 +21688,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-17T11:07:20.614720+00:00",
-  "last_watch_time": "2026-05-17T11:07:32.546978+00:00",
-  "last_relevant_time": "2026-05-17T11:07:33.314705+00:00"
+  "last_digest_time": "2026-05-18T11:11:57.953283+00:00",
+  "last_watch_time": "2026-05-18T11:12:06.974368+00:00",
+  "last_relevant_time": "2026-05-18T11:12:14.782029+00:00"
 }

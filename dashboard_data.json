@@ -10822,7 +10822,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-13"
+      "pub_date": "2026-05-12"
     },
     "https://www.reuters.com/business/us-consumer-inflation-expected-have-increased-further-april-amid-iran-war-2026-05-12/": {
       "summary": "",
@@ -13038,6 +13038,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-18"
+    },
+    "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
     }
   },
   "last_run_success": true,
@@ -13195,6 +13205,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war saddles global companies with $25 billion bill - and counting - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmNDdUhsZDZ4WjM1dUVybktMRmFOUkYtSHdwSDdzTW1zbDBoWWs3cU4wa3ZickFzZ1UxVlh6b3U4OWZXNnVRa1hYTWM5TXhFMjVQUWZkWk11cTdCUHlncXRfWkdDTUdQeHdRNFpFdHVxSWNyc2UzdlFwTnYzZkZ6eGN5MU95dGJ3MDhVb1NBaFNxeWE5SVJyZTZSQktFalY4dDdFRDQwazg3YnVzOEdWU3JB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 02:04 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779080640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Climbs as Iran War Shows No Sign of Ending: Markets Wrap - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3BScEQ1Zkt4cUJWSDBqa2tNSk5oeFZCUFQ2UTBZbVZqS2tkY2JHVlpWZ3ZGanZlTGNlNE8tWC14anZ6OGNqQ0syZzFPclZ2cWpybXA0WDhQaDZIVGdaX2s5bTc2c2NkLWM0eXNhVzZHZ29fTnkyLVNnWXpISnAxc09KS2ludXEyOGFDTC14MHlkTVRXQi1hRVJJQWpDWDZ5S1VyTGZ3TzVweUEyOTdZ?oc=5",

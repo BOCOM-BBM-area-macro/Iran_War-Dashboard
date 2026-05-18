@@ -12858,7 +12858,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-17"
+      "pub_date": "2026-05-18"
     },
     "https://www.timesofisrael.com/liveblog_entry/netanyahu-speaks-with-trump-about-iran-war-ahead-of-limited-security-meeting/": {
       "summary": "",
@@ -12985,6 +12985,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-17"
+    },
+    "https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2": {
+      "summary": "Extra spending on petrol and diesel exceeds cost of repairing country’s bridges or rebooting air traffic control",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.ft.com/content/d4dd2412-57f9-4973-81e1-c637e148f8d6": {
+      "summary": "Asset managers and hedge funds say they remain committed to the region despite the current disruption",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-05-18/the-iran-war-won-t-ground-summer-vacation-flights": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
     }
   },
   "last_run_success": true,
@@ -17053,6 +17083,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Donald Trump’s Iran war hits Americans with $40bn fuel bill - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83R2ZvRXpLcXRUeHR0NXh6SUY3b3JaSHk2X3Y2RFo1N3BpZG9EekZlajg3WTNia3U0c2lfUTd3MXhZeFM0bWlpWFZVNFB6TmhtWEVNckxMdHRXOE1PZ2tCLUVrZ2dDYXhvNGZESy1sNHE?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 01:00 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779076813,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says Iran war is worth the economic pain. These rural voters agree. - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmxMdlNJMXdlUF9ZOFk0RW1tYlpwSkdiREhNRWVfUnZER1dCQnFIUjNIZElVazZVako3N0tDek1tQzU5V18teTFTWW9nSUVKaG85bldoSDRjWHFubjVZTk1fTDBEQklZV3RsNlJ2Z294MFcwbXk4Vy02T0hQbldzbG1tcUpueTAzV0NBa0lkUUowOThPX3AyRXZ6MVU5dksydktzMDAyWHJkeG04ZWFOT3JvTUJENDduX3Fj?oc=5",

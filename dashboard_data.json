@@ -13151,6 +13151,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-18"
+    },
+    "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.nytimes.com/2026/05/18/opinion/trump-xi-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.reuters.com/sports/soccer/after-escaping-iran-war-haitis-record-scorer-nazon-awaits-world-cup-dream-2026-05-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-look-to-contain-iran-economic-fallout.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
     }
   },
   "last_run_success": true,
@@ -18302,6 +18342,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "European Gas Prices Rise as Iran War Drags on - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU9VWXA5dHgyNHhEdy13TldPMExIQWZpeDBsUGhwRmRoTVAxNHI5eWFLWlNabjEyU3plOFM1N1ViWE42UENabHdsdHZWaEN5bTd0S2diTjZRa1dESnYxTVhvTkc4WEhZT2RtRE01MEMxdThTVFZtNlhla2lqeVFFYTNQcFlZTnJGVy0xUXFMU0FIWk9vZzFPSTVKWU9BbTFrb0FpRQ?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 05:05 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779091500,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aMEhuTHNib3RRaHVHa2tjZW5GaHpNcnFYc0VmY3NLdDF3elFBSlVyd0JCb3BPMjU4Z3huckxiVURyaVZJZ0tQOUxkU190Y2tJZGc1NUNTei1HcnJxX3lSV3Z5VFM2TDV2OUw2b183REs4R0ZEQVdGTlZDdw?oc=5",

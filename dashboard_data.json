@@ -13015,6 +13015,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-18"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-05-18/live-updates-896503": {
+      "summary": "Israelis cross border into Syria • IDF faces looming manpower gap • Source: Drone attack on nuclear plant was message for UAE • Trump admin. reoprtedly urging UAE to seize Iran's Lavan Island",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "IDF",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
     }
   },
   "last_run_success": true,
@@ -18203,6 +18226,20 @@
           "published": "May 14, 2026 · 10:00 BRT",
           "pub_date": "2026-05-14",
           "pub_ts": 1778763605,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "In Qatar, Energy Sector Damage Is Severe, and the Way Back Will Be Long - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RRWJneE1feG00X1FLV3I1XzNFbndhcl82cjJNY0hPUEFacF9PVVdoUGk1Nkd5RG5mRVhiVjBvdzlYMVFFT0l1MDRtcEhlWmZYTUNYR01sVmVrRUt5UzNuNmpKbWVoajFrY2xyRERoaFQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 14, 2026 · 09:32 BRT",
+          "pub_date": "2026-05-14",
+          "pub_ts": 1778761958,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

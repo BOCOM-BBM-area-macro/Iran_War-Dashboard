@@ -10812,7 +10812,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-13"
+      "pub_date": "2026-05-12"
     },
     "https://www.reuters.com/world/china/peace-deal-hopes-fade-after-trump-rejects-garbage-iran-proposal-2026-05-12/": {
       "summary": "",
@@ -13523,6 +13523,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-19/ruble-tops-global-currencies-as-putin-reaps-iran-war-oil-gain-usd-rub": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
@@ -13679,6 +13689,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "(USD/RUB) Ruble Tops Global Currencies as Putin Reaps Iran War Oil Gain - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzh5TDVYNXRYUFplT282MF9WZF85SHZGWXRMRWNWclEtSWdzWVhqZGYwMjFlUFdUYzhralZCSVRzRTc4NmRmMTRWM0dsNVlWVnJXQ2lkeTNMeGdWM3NyS3JfWkVRbUNHR3dydDhtWDY3czVYLXo4MWdrNG9fci1nYm9QTEo4RVcxN3RVTUhmcUNtWmN0cWU3eVkxS05YZHhlZmZ6OGhLQVBuOG9EQ2dxNV9RYnVPTDhqSThBZQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 04:44 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779176649,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Watch Formentera Partners on Oil Markets, Iran War Impact - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1ZObUtFVF9hRU1aeEktUUc5clRrcWdFY3pLcnRiS0NFbXpIZWxsWXVqbkNpNHp2cHg5SVRwNHBOcGswa3liQ2ZtbXZ5dnk5dkFKMW50VlN3bU1ic3EwVGF6aHRTbjNhUjY5M1ZYWjR2bXRCYWZnSmk1Z1NEcUhqVUx6OXlDNUJDNlFjVFlndkRQSkwzRVBKOXp5UnB6VUxzdmZTQl9uOWw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 21:00 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779148800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Latest Iran Offer on War is Not Enough, Says White House - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1U1Z2l6SWRXcDN1LUZlUjlxTUJyem9rZVU3YW9xSHlOM3laSHVfUE1SdFdCMzI5ZC10dkE5eEJzaHFBYkxCcXdVRDVWYUJZNVNtT0d0OHBydkhHX1BjLXFNNUZMZXVQWm9OcFllY1JlMTRMUERNTGVfYVV5blBST0NUQ3VzU3dvYUU2ZFBxZ3NueFI0bV9mSExGR2VzN2lfeVZoU1g0NEQ3SkhOb2c?oc=5",
@@ -20213,6 +20251,20 @@
           "published": "May 18, 2026 · 22:54 BRT",
           "pub_date": "2026-05-18",
           "pub_ts": 1779155667,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Ryanair trims prices and seeks to dispel jet fuel fears - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkdsa0J4dWRlRVdaUXJGNXd4Y0tSQVVzUXluMjBjYUd0MXJJUEJCZUE1bUtCb1NOQXY4VUhPeFM3WnVwcXJCLTVTenNlM1dwOGlILXQyV3RMb2o4TFBieHQ5TE5zRlYxRW01ZmlfSllzakh2b2tSV3VQVmRFUmJ6MDFUdEtCWjJWc2piVnQ3RnJTSTRFc29mWGhURV9WWXRyN1FjQ2x4enY2amxfd3luUm9GeF90dElOYUtlU2NmcW1NV3BrWnptUA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 02:02 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779080520,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

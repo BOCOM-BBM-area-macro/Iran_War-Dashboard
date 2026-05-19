@@ -12898,7 +12898,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-18"
+      "pub_date": "2026-05-17"
     },
     "https://www.timesofisrael.com/uss-ford-returns-home-after-record-deployment-supporting-iran-war-maduros-capture/": {
       "summary": "Largest aircraft carrier in world spent 326 days at sea, most for a ship of its kind in last 50 years; saw war in Gulf, action in Venezuela, and suffered major laundry fire",
@@ -13586,11 +13586,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T08:02:02.131352+00:00",
+  "last_generated_time": "2026-05-19T09:02:26.701957+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -21182,6 +21192,20 @@
           "published": "May 16, 2026 · 08:31 BRT",
           "pub_date": "2026-05-16",
           "pub_ts": 1778931111,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Burberry turnaround tempered by Iran war impact - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4YmhaU0docFFOb0hYZTBYbkdHMTA2Z045Yy1yM2lDUnVSU21jdTVTMGNsVTJHSWVtWXQ4N3pybjZnMkhjYWtVUlhJZC1RR1R2WDIzcnMwcjdRcGg1TFlWS2dtRUQ1X1E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 15, 2026 · 02:46 BRT",
+          "pub_date": "2026-05-15",
+          "pub_ts": 1778824006,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

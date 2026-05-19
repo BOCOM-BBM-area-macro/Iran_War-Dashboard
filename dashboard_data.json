@@ -10812,7 +10812,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-13"
     },
     "https://www.reuters.com/world/china/peace-deal-hopes-fade-after-trump-rejects-garbage-iran-proposal-2026-05-12/": {
       "summary": "",
@@ -12898,7 +12898,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-18"
+      "pub_date": "2026-05-17"
     },
     "https://www.timesofisrael.com/uss-ford-returns-home-after-record-deployment-supporting-iran-war-maduros-capture/": {
       "summary": "Largest aircraft carrier in world spent 326 days at sea, most for a ship of its kind in last 50 years; saw war in Gulf, action in Venezuela, and suffered major laundry fire",
@@ -13470,6 +13470,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-18"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-19/india-raises-fuel-prices-again-as-iran-war-squeezes-refiners": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-18"
+    },
+    "https://www.nytimes.com/2026/05/19/world/europe/oil-slick-reaches-a-pristine-persian-gulf-island-in-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
@@ -17714,6 +17734,20 @@
           "published": "May 18, 2026 · 23:51 BRT",
           "pub_date": "2026-05-18",
           "pub_ts": 1779159060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Indian retailers raise fuel prices again in response to Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUhtYndkN29WUFhvdzdfTWJhUHpobmtDaHVXeDRRN01za3dScGFWaWUxTV9pOG95Q0sxR3EycThJV00wbzlCTjF5YjRNeXlSd0JsM01yUHY5UzlPQTdWUGxka1NnNGtkNU1wUEZZQ0FKVldrRU9rNVNqbHRlRTlfZ2ktM0dSWmN5NmVVV3NQTm5BWE5mV3NXVUxEU3RuRnVUVTBvRE9kQW14RnNiUFMyQQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 22:38 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779154680,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

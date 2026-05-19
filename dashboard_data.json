@@ -12898,7 +12898,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-17"
+      "pub_date": "2026-05-18"
     },
     "https://www.timesofisrael.com/uss-ford-returns-home-after-record-deployment-supporting-iran-war-maduros-capture/": {
       "summary": "Largest aircraft carrier in world spent 326 days at sea, most for a ship of its kind in last 50 years; saw war in Gulf, action in Venezuela, and suffered major laundry fire",
@@ -13566,47 +13566,89 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.wsj.com/opinion/free-expression/the-bad-news-for-china-from-iran-ba570384": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-05-19/iran-conflict-congress-shouldn-t-ignore-war-powers-responsibilities": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-18",
-  "last_generated_time": "2026-05-18T23:02:12.261249+00:00",
+  "last_generated_date": "2026-05-19",
+  "last_generated_time": "2026-05-19T08:02:02.131352+00:00",
   "digest": {
-    "digest": "The ongoing Iran War continues to exert significant economic pressure globally, with estimates of the cost to international companies reaching $25 billion and counting. American consumers are facing an additional $40 billion in fuel expenses due to the conflict. European gas prices have risen, and the conflict is impacting currency markets, with the Indian Rupee showing signs of testing record lows and bonds extending their fall. Qatar's vital gas exports have been paralyzed, significantly hindering its economic growth. Diplomatic efforts appear to be underway, with a revised Iranian proposal to end the war reportedly shared with the US via a Pakistani source. The United States has issued warnings to Iran, stating that the \"clock is ticking\" for harder strikes, with specific mention of targeting the UAE's nuclear plant. There are reports of the Trump administration urging the UAE to seize Iran's Lavan Island and take a more active role in the conflict, potentially to avoid direct US troop engagement. CENTCOM has reported stopping thousands of drones and missiles targeting various regional countries, including the UAE, Israel, and Saudi Arabia. Amidst rumors of renewed conflict, there is an increased possibility of Iran escalating attacks on the UAE, with a recent drone attack potentially serving as a message. Israeli leadership has engaged in discussions with the US regarding the war.",
+    "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
-      "Economic Impact of Iran War",
-      "US Diplomatic and Military Posturing",
-      "Regional Escalation and Countermeasures"
+      "US-Iran Standoff",
+      "Diplomatic Negotiations",
+      "Economic Fallout"
     ],
     "next_events": [
       {
-        "title": "US Military and Diplomatic Strategy Shifts",
-        "description": "Trump's 'clock is ticking' warning for harder strikes and reports of urging the UAE to seize Iran's Lavan Island signal potential shifts in US engagement. Analysts should watch for any direct US military actions, increased support for regional allies, or new diplomatic initiatives that could escalate or de-escalate the conflict."
+        "title": "Future of US-Iran Negotiations",
+        "description": "Multiple reports indicate ongoing peace proposals from Iran and rejections from the U.S., alongside President Trump's fluctuating stance on military action versus a deal. Analysts should monitor any new proposals, official responses, and the tone of diplomatic exchanges to gauge the likelihood of a resolution or renewed conflict."
       },
       {
-        "title": "Iran's Dual Approach: Peace vs. Aggression",
-        "description": "A revised Iranian proposal to end the war has been shared with the US, suggesting a potential path to de-escalation. However, Iran continues to escalate attacks, particularly targeting the UAE and its nuclear plant. Monitor the US response to the proposal and any further Iranian military actions that could undermine peace efforts or signal a preference for continued conflict."
+        "title": "Risk of Renewed Military Strikes and Iranian Retaliation",
+        "description": "Despite President Trump's past pullbacks, the threat of 'harder strikes' remains, and Iran has outlined potential retaliatory tactics, including intensified regional attacks and closing key straits. Watch for any U.S. military movements, intelligence reports on Iranian preparations, and statements from both sides that could signal an imminent escalation or de-escalation."
       },
       {
-        "title": "Escalating Global Economic Repercussions",
-        "description": "The war is imposing significant global costs, including rising fuel prices for Americans ($40bn bill), a $25 billion bill for global companies, and paralyzed gas exports from Qatar. Analysts should track commodity prices, currency fluctuations (e.g., Indian Rupee), and the financial performance of key industries to gauge the escalating economic burden and its potential for broader market instability."
+        "title": "Impact of US Public Opinion and Elections on Iran Policy",
+        "description": "President Trump's approval ratings are sinking due to the unpopular war, with waning public support for the conflict and the GOP's prospects darkening ahead of midterms. Analysts should observe how domestic political pressures, poll numbers, and upcoming election cycles might influence the administration's decisions regarding military engagement or diplomatic efforts with Iran."
       },
       {
-        "title": "Regional Security Dynamics and UAE's Position",
-        "description": "The UAE is a key focal point, facing Iranian drone attacks (including on its nuclear plant) while reportedly being urged by the US to take aggressive action by seizing Lavan Island. Monitor the UAE's response to these pressures, any changes in its defensive posture, and the broader implications for regional stability as Iran continues to target multiple countries."
+        "title": "Global Economic Repercussions of the Iran War",
+        "description": "The ongoing conflict is already impacting global markets, with G7 finance ministers exploring responses, investors showing lingering concerns, and specific sectors like agriculture and energy facing increased costs. Monitor commodity prices, particularly oil and gas, global supply chain disruptions, and the policy responses from major economies to mitigate the economic fallout."
+      },
+      {
+        "title": "Iran's Regional Actions and Demands",
+        "description": "Iran's peace proposals include demands to end the war in Lebanon, and there are warnings of potential missile strikes against Israel if the conflict resumes. Analysts should watch for any shifts in Iran's regional military posture, its engagement with proxies, and specific demands related to neighboring countries, as these could trigger broader regional instability."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Trump warns Iran \"clock is ticking\" until U.S. launches harder strikes - Axios",
-      "url": "https://www.axios.com/2026/05/17/trump-iran-warning-harder-strikes",
+      "title": "Here’s How Iran Could Respond to Renewed U.S.-Israeli Strikes - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 18, 2026 · 21:31 BRT",
+      "pub_date": "2026-05-18",
+      "pub_ts": 1779150703,
+      "summary": "In any new round of fighting, Iranian officials could adopt new tactics, including intensified strikes on neighbors and trying to close off a second strait.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran's new offer is insufficient, risks war resumption: senior U.S. official - Axios",
+      "url": "https://www.axios.com/2026/05/18/iran-peace-deal-offer-nuclear-unacceptable",
       "source": "Axios",
       "domain": "axios.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "May 17, 2026 · 22:56 BRT",
-      "pub_date": "2026-05-17",
-      "pub_ts": 1779069414,
+      "published": "May 18, 2026 · 12:49 BRT",
+      "pub_date": "2026-05-18",
+      "pub_ts": 1779119340,
       "summary": "",
       "tags": [
         "extracted",
@@ -13618,14 +13660,56 @@
       "sentiment_success": false
     },
     {
+      "title": "Iran may fire hundreds of missiles daily at Israel if war resumes - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-896646",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "May 19, 2026 · 04:48 BRT",
+      "pub_date": "2026-05-19",
+      "pub_ts": 1779176937,
+      "summary": "Earlier on Monday, Trump mentioned in a Truth Social post that leaders of Gulf states had requested that he hold off on striking Iran.",
+      "tags": [
+        "Iran",
+        "iran israel war",
+        "Middle East",
+        "Donald Trump",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Latest Iran Offer on War is Not Enough, Says White House - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-18/latest-iran-offer-on-war-is-not-enough-says-white-house",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 18, 2026 · 13:52 BRT",
+      "pub_date": "2026-05-18",
+      "pub_ts": 1779123127,
+      "summary": "Get Caught Up.",
+      "tags": [
+        "Iran",
+        "War",
+        "Generic 1st 'CL' Future",
+        "White House",
+        "UNICREDIT SPA"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
       "title": "Revised Iranian proposal to end war shared with US, Pakistani source says - Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/revised-iranian-proposal-end-war-shared-with-us-pakistani-source-says-2026-05-18/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 18, 2026 · 05:16 BRT",
+      "published": "May 18, 2026 · 08:58 BRT",
       "pub_date": "2026-05-18",
-      "pub_ts": 1779092175,
+      "pub_ts": 1779105524,
       "summary": "",
       "tags": [
         "extracted",
@@ -13637,73 +13721,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran war saddles global companies with $25 billion bill - and counting - Reuters",
-      "url": "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 18, 2026 · 02:04 BRT",
-      "pub_date": "2026-05-18",
-      "pub_ts": 1779080640,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 18, 2026 · 06:02 BRT",
-      "pub_date": "2026-05-18",
-      "pub_ts": 1779094921,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Amid rumors of renewed war, Iran may escalate attacks on UAE - analysis - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-896470",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "May 17, 2026 · 12:41 BRT",
-      "pub_date": "2026-05-17",
-      "pub_ts": 1779032492,
-      "summary": "It’s possible the drone attack on the UAE on May 17 was an Iranian message that it will increase its list of targets in the country.",
-      "tags": [
-        "Iran",
-        "United Arab Emirates",
-        "UAE",
-        "ballistic missile",
-        "drone attack"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US Tells Iran ‘Clock Is Ticking’ as UAE Nuclear Plant Targeted - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-tells-iran-clock-is-ticking-as-uae-nuclear-plant-targeted",
+      "title": "Congress Should Stop Dodging Its Responsibilities on Iran - Bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-05-19/iran-conflict-congress-shouldn-t-ignore-war-powers-responsibilities",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "May 18, 2026 · 04:37 BRT",
-      "pub_date": "2026-05-18",
-      "pub_ts": 1779089839,
+      "published": "May 19, 2026 · 07:00 BRT",
+      "pub_date": "2026-05-19",
+      "pub_ts": 1779184815,
       "summary": "",
       "tags": [
         "extracted",
@@ -22379,7 +22404,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-18T11:11:57.953283+00:00",
-  "last_watch_time": "2026-05-18T11:12:06.974368+00:00",
-  "last_relevant_time": "2026-05-18T11:12:14.782029+00:00"
+  "last_digest_time": "2026-05-19T11:09:58.929013+00:00",
+  "last_watch_time": "2026-05-19T11:10:22.973428+00:00",
+  "last_relevant_time": "2026-05-19T11:10:27.893410+00:00"
 }

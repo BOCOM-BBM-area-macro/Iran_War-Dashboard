@@ -13656,11 +13656,57 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896729": {
+      "summary": "Those who signed up for the “self-sacrifice” scheme have agreed to carry out actions like forming human chains around power stations.",
+      "tags": [
+        "Iran",
+        "weddings",
+        "Israel Iran War",
+        "IRGC",
+        "ceremony"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896719": {
+      "summary": "The regime’s process has ensured that only those who subscribe to Velayat-e Faqih and demonstrate commitment to the state religion are eligible for opportunities that provide financial stability.",
+      "tags": [
+        "Iran",
+        "khamenei",
+        "resistance",
+        "IRGC",
+        "Masoud Pezeshkian"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-says-he-hasnt-decided-when-to-strike-iran-claims-war-very-popular-despite-polls/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T13:02:25.973502+00:00",
+  "last_generated_time": "2026-05-19T14:02:08.424301+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -13818,6 +13864,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Inflation Fears Cloud G7 Economic Agenda as Iran War Persists - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVJBUGhQdE1JSy1xSXN2WFVVaFJtNVNJcldtU0hFa1UwNmNRTkllUjZXeVZxRkpOdTNjeGI1MVBvU0t2UzFmblR1TG1zWmZKQXUtRlczYjdNWW9KdkpFdFA1UTYxckxZRzFFb0s3RTRlbFJXYW1wSDdoQVQzNjNjVWpuRnN5enpZTFNPQkVqaw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 13:19 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779207563,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "(USD/RUB) Ruble Tops Global Currencies as Putin Reaps Iran War Oil Gain - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzh5TDVYNXRYUFplT282MF9WZF85SHZGWXRMRWNWclEtSWdzWVhqZGYwMjFlUFdUYzhralZCSVRzRTc4NmRmMTRWM0dsNVlWVnJXQ2lkeTNMeGdWM3NyS3JfWkVRbUNHR3dydDhtWDY3czVYLXo4MWdrNG9fci1nYm9QTEo4RVcxN3RVTUhmcUNtWmN0cWU3eVkxS05YZHhlZmZ6OGhLQVBuOG9EQ2dxNV9RYnVPTDhqSThBZQ?oc=5",
           "source": "Bloomberg.com",
@@ -13840,6 +13900,20 @@
           "published": "May 18, 2026 · 21:00 BRT",
           "pub_date": "2026-05-18",
           "pub_ts": 1779148800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices drop by more than 1% as Trump pauses Iran attack plans - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzcyV3VuT1poMlpHeW12N2VjZk5sQm9hd2RWYnpmVUt3eGN1Y01PQWdYQnNYemN4UTBFbEdzNUJPQUtPNVBuOXRwVVhHN2RoVmUyLWZTRHBoc0RTSzQtUzZjTTJBX29feW1pR2FxUnBrak9hc1JjZmtfN2E5aDJ3NDg2OFUzdDlkam5vdGlyNUEwT05LU2tjUkM5S2RiVGprQ01tNUlhZTA4aWxtM1Y2eVNKN3FqR2lQclRqbjBqSE5mcDZO?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 19:23 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779142980,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

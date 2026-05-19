@@ -13330,7 +13330,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-18"
+      "pub_date": "2026-05-19"
     },
     "https://www.bloomberg.com/news/articles/2026-05-18/tankers-entering-hormuz-during-iran-war-are-making-their-way-out": {
       "summary": "Almost all large non-Iranian tankers that have entered the Persian Gulf during the war appear to have successfully exited with a cargo, underscoring the emergence of a small group of shipowners willing to risk crossing the Strait of Hormuz.",
@@ -13638,7 +13638,7 @@
       "pub_date": "2026-05-19"
     },
     "https://www.nytimes.com/2026/05/19/us/politics/pentagon-weapons-drones-iran-war-hegseth.html": {
-      "summary": "",
+      "summary": "Defense Secretary Pete Hegseth is taking on a problem that the Pentagon and Congress have tried, and mostly failed, to address for years.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -13805,11 +13805,61 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.reuters.com/world/middle-east/us-senate-advances-measure-curbing-trumps-iran-war-powers-2026-05-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.timesofisrael.com/israel-said-preparing-for-renewal-of-iran-war-trump-says-tehran-has-days-to-make-deal/": {
+      "summary": "TV report points to signs of heightened readiness, including 5-hour cabinet meeting, cancellation of PM's trial hearing; Trump says he is 'not sure' when attack will happen",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.washingtonpost.com/politics/2026/05/19/senate-votes-advance-resolution-block-further-strikes-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/us-senate-advances-resolution-limiting-trumps-powers-to-wage-war-against-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T19:02:30.329674+00:00",
+  "last_generated_time": "2026-05-19T20:02:12.910606+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -13966,6 +14016,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Massive Options Bet Rattles Oil Market On Edge Over Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcS1VZ2hFRDhWcGdOdGhCZ0dVWFUzTm5Xd0pmOEhSOFBFcklJN2VnYldqSm5IYk1EZ0hBWW9jMzZnNEotdUZ3UTFQTmJBYURveVlDcnlvcDhTbk5jSzRpOVhHajFEbWJFTzBNQW9meGcteF9lLTllRnAzSnduWGc3S29EMUUzS3VRTEdFa0hWSjVTdnZqekhiajRHbW1sQnFsZGwwMVNWSU4wYWctWG0wMQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 17:53 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779223990,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Exclusive | U.S. Seized Iran-Linked Oil Tanker in the Indian Ocean - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTAwbDhlaHJ5cFlKWVJPcGtlOHgwb3pnVnNBOGw5czJYWmQ0Ym0zaWFBZnpLaUh5SFhTc2lwSDlydjg0bFlnREtOTkxMVlVwaEVwVWxKZEwtVGVfNWwxVDRmSkxKb1BnUWtPMU81Zjk0dnJXd0NGSkVhUGsyNDBOcThVZ0tuby1zUVNsRG11bHFhNmVXNWtuR3ZhbVpPLTRoMWc?oc=5",

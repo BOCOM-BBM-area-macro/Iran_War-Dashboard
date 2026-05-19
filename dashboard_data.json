@@ -13200,7 +13200,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-18"
     },
     "https://www.washingtonpost.com/opinions/2026/05/25/iran-trump-has-no-good-military-options/": {
       "summary": "",
@@ -13588,7 +13588,7 @@
       "pub_date": "2026-05-19"
     },
     "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html": {
-      "summary": "",
+      "summary": "President Trump threatened “another big hit” on Iran, saying the country had days to return to the negotiating table, as Pakistan continued its mediation efforts to end the war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -13648,7 +13648,7 @@
       "pub_date": "2026-05-19"
     },
     "https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html": {
-      "summary": "",
+      "summary": "With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -13765,11 +13765,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.wsj.com/world/middle-east/u-s-seized-iran-linked-oil-tanker-in-the-indian-ocean-704f5f3c": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T17:02:28.914313+00:00",
+  "last_generated_time": "2026-05-19T18:02:15.547737+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -13977,6 +13987,20 @@
           "published": "May 19, 2026 · 04:44 BRT",
           "pub_date": "2026-05-19",
           "pub_ts": 1779176649,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Stocks fall as US bond yields climb, oil eases after latest Iran war headlines - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3JaU2E4eldYZ2ZrU0pEcUgtcXhMODZDc251Znd0U2xXeXkxdTNSdmFMcDNyUnZwWTV4czFtWGtjOVJSdlllMDRKZy0tdFJna20tZVdHbEw3Y3JwRnlMZkNsenRTdTlBSmF0eGZfZ3FjVFZBWGtPczFIN3ZtbWtkckpYc0ZXTEVIWXRoUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 22:26 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779153960,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -13200,7 +13200,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-18"
+      "pub_date": "2026-05-19"
     },
     "https://www.washingtonpost.com/opinions/2026/05/25/iran-trump-has-no-good-military-options/": {
       "summary": "",
@@ -13745,11 +13745,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.reuters.com/world/middle-east/vance-says-a-lot-progress-made-iran-talks-2026-05-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.reuters.com/business/energy/indias-bharat-petroleum-reviewing-oil-imports-daily-spot-buying-more-amid-iran-2026-05-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T16:02:09.478483+00:00",
+  "last_generated_time": "2026-05-19T17:02:28.914313+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -18083,6 +18103,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "UK to Allow Imports of Diesel, Jet Fuel Refined From Russian Oil - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW14eEhOX1N5WUszTzVyVkMzU1h1U1Q3YmU0REs1X3ZxN0VzQVVGSjF6ME9OeWpyejdhZ2swNlRiWEhhSW1kaEdNU3FKV3A4UjByLVJydHNpNXBPRG1lM055NXRuREF5NnM1MDlTdTJqTHBRdWUtRWJ2UDNUN2lnTG1wSlIwWkl0WlZKOXFINVpsTFBsWjFJcV9NdWw4OHRubzZ6Rkg2ZC1BWE5oNGlBWkh0Yk4?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 14:55 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779213332,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Canada's April inflation surges 2.8% as Iran war drives gasoline costs up - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON21ia1Z6MnV3RDRLMGtnOEZDb3VnR2MycXJ3bWZ3bXVyaTI5X0p3N3ZxdmpPTENMY3A0cjJUX2FmUUhfZmdqdlE1dG5xaHFIM2tyQ2I5RGJqT25ldW4xS21hUnpzSV9WYTFHSFFrR01HclNKb1NrVC10NUZLTTFwbC1iWE00MDhuWEtMY2hfLU9QODBHa2NOakxjS0FTeV9pS1NUNnpjbndNQjVTZC05TDhIeWM1OWx1TFE?oc=5",

@@ -13330,7 +13330,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-18"
+      "pub_date": "2026-05-19"
     },
     "https://www.bloomberg.com/news/articles/2026-05-18/tankers-entering-hormuz-during-iran-war-are-making-their-way-out": {
       "summary": "Almost all large non-Iranian tankers that have entered the Persian Gulf during the war appear to have successfully exited with a cargo, underscoring the emergence of a small group of shipowners willing to risk crossing the Strait of Hormuz.",
@@ -13722,11 +13722,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.nytimes.com/2026/05/19/business/bond-market-iran-war-inflation.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896724": {
+      "summary": "Reuters first reported that an initial, internal US military investigation showed US forces were likely responsible for the destruction of the ​girls' school in Minab.",
+      "tags": [
+        "Iran",
+        "United States",
+        "iran missiles",
+        "CENTCOM",
+        "IDF Central Command"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T15:02:07.896125+00:00",
+  "last_generated_time": "2026-05-19T16:02:09.478483+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -13883,6 +13906,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Exclusive | U.S. Seized Iran-Linked Oil Tanker in the Indian Ocean - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTAwbDhlaHJ5cFlKWVJPcGtlOHgwb3pnVnNBOGw5czJYWmQ0Ym0zaWFBZnpLaUh5SFhTc2lwSDlydjg0bFlnREtOTkxMVlVwaEVwVWxKZEwtVGVfNWwxVDRmSkxKb1BnUWtPMU81Zjk0dnJXd0NGSkVhUGsyNDBOcThVZ0tuby1zUVNsRG11bHFhNmVXNWtuR3ZhbVpPLTRoMWc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 15:22 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779214920,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "India's BPCL reviewing oil imports daily, spot buying more amid Iran war, chairman says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS0o1RV9GdnYxeWxvbjg5NmZ4VXJOUDM4bTBBdFVPRXY1R1RXakpyclRLZHA0d3Q5TmtwVGRSc2J6eGNtRzhPa1VsdF9LYzJlWkFJTXBNVXNrbzk5TG5SX0xoRFpNcThtdEthSzh6d0M2akhjaVNJN00yUV8yNmh4czhGa2hXYXcwUWtzWnpXYjBTbG92S1RrUkt6ZldPUVZCQnRjVEh0YjVXOGdEQkdHQmVmODJqTEoxaVR0TC16Q2ZUWUx0ell0ZDFn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 13:33 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779208432,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Inflation Fears Cloud G7 Economic Agenda as Iran War Persists - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVJBUGhQdE1JSy1xSXN2WFVVaFJtNVNJcldtU0hFa1UwNmNRTkllUjZXeVZxRkpOdTNjeGI1MVBvU0t2UzFmblR1TG1zWmZKQXUtRlczYjdNWW9KdkpFdFA1UTYxckxZRzFFb0s3RTRlbFJXYW1wSDdoQVQzNjNjVWpuRnN5enpZTFNPQkVqaw?oc=5",

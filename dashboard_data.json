@@ -13330,7 +13330,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-18"
+      "pub_date": "2026-05-19"
     },
     "https://www.bloomberg.com/news/articles/2026-05-18/tankers-entering-hormuz-during-iran-war-are-making-their-way-out": {
       "summary": "Almost all large non-Iranian tankers that have entered the Persian Gulf during the war appear to have successfully exited with a cargo, underscoring the emergence of a small group of shipowners willing to risk crossing the Strait of Hormuz.",
@@ -13596,11 +13596,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.timesofisrael.com/daily-briefing-may-19-trump-frustrated-as-iran-talks-stall-gulf-wary-of-renewed-war/": {
+      "summary": "US bureau chief Jacob Magid discusses details of Iran negotiations, an emboldened Hamas in Gaza and initial results from Fatah central committee elections",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.timesofisrael.com/iran-says-new-proposal-includes-reparations-us-troop-withdrawal-end-to-lebanon-war/": {
+      "summary": "Tehran's deputy FM says offer also stipulates release of frozen funds and end of US blockade; Pakistani source says US, Iran 'keep changing their goalposts,' time running out",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T09:02:26.701957+00:00",
+  "last_generated_time": "2026-05-19T10:02:06.590671+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -17878,6 +17908,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Canada's April inflation surges 2.8% as Iran war drives gasoline costs up - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON21ia1Z6MnV3RDRLMGtnOEZDb3VnR2MycXJ3bWZ3bXVyaTI5X0p3N3ZxdmpPTENMY3A0cjJUX2FmUUhfZmdqdlE1dG5xaHFIM2tyQ2I5RGJqT25ldW4xS21hUnpzSV9WYTFHSFFrR01HclNKb1NrVC10NUZLTTFwbC1iWE00MDhuWEtMY2hfLU9QODBHa2NOakxjS0FTeV9pS1NUNnpjbndNQjVTZC05TDhIeWM1OWx1TFE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 09:46 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779194818,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India Raises Fuel Prices Again as Iran War Squeezes Refiners - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazJpVDRUR0t0TFJFbmZXdWd0LVVLWVliODlQaWM4VGZ0LXVNTDlXWnYzNXJSakprZXg3c0w3eERxd2FLblJ5ZkNvTHNkUmVpNnI5dHhNZ3ZZTjRmeUptOENjNGh0UXo5UHIyZGEybDdSajJZdW1wbDN0cUl3dm5JbGFaa0JuZTlNSFBzdzQtWF9nTk5IZXpNVUx0LWE0WmRNQWFtb0tkYXlaOFU3LUpXNA?oc=5",

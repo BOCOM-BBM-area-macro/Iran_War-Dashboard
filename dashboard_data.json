@@ -13658,7 +13658,7 @@
       "pub_date": "2026-05-19"
     },
     "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html": {
-      "summary": "",
+      "summary": "The United States and Europe were at odds over the Trump administration’s decision to ease oil sanctions on Russia.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -13797,17 +13797,20 @@
       "pub_date": "2026-05-19"
     },
     "https://www.bloomberg.com/news/articles/2026-05-19/us-senate-signals-intensifying-opposition-to-trump-s-war-in-iran": {
-      "summary": "",
+      "summary": "The Republican-led US Senate signaled mounting opposition to continuing the Iran war in a procedural vote Tuesday, reflecting deepening political unease over a foreign conflict that is taking a financial toll on Americans.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Donald John Trump",
+        "War",
+        "White House",
+        "Military"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
     },
     "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html": {
-      "summary": "",
+      "summary": "With four Republican backers, Democrats won a vote to advance a resolution that would force the president to end hostilities or win authorization from Congress.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -13857,7 +13860,7 @@
       "pub_date": "2026-05-19"
     },
     "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html": {
-      "summary": "",
+      "summary": "An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -13895,11 +13898,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-19"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-ease-after-trump-says-us-will-end-iran-war-very-quickly-2026-05-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.reuters.com/world/asia-pacific/dollar-six-week-high-rate-hike-bets-iran-war-uncertainty-2026-05-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-19",
-  "last_generated_time": "2026-05-19T22:02:19.425382+00:00",
+  "last_generated_time": "2026-05-19T23:02:05.902056+00:00",
   "digest": {
     "digest": "Recent developments indicate a continued US-Iran standoff, with President Trump issuing threats of harder strikes against Iran, though also pulling back from immediate military action on at least one occasion. Iran has presented new proposals aimed at ending the conflict, which include demands for reparations for war damage and the withdrawal of US troops, as well as an end to the war in Lebanon. However, these proposals have been deemed insufficient by senior US officials, including the White House, raising concerns about the risk of war resumption. The potential for renewed conflict remains high, with reports suggesting Iran could launch hundreds of missiles daily at Israel if hostilities resume. Concurrently, the war's economic repercussions are becoming more apparent globally, with G7 finance ministers exploring responses to the fallout, Australian farmers facing reduced wheat production due to war costs, and India raising fuel prices as refiners are squeezed. Investor sentiment shows lingering concerns about the Iran war despite some bets on stability following other international summits. Domestic US political considerations are also surfacing, with polls indicating waning support for the Iran war among US voters and a negative impact on President Trump's approval ratings, particularly with midterms approaching. Congress is being urged to address its responsibilities regarding Iran.",
     "top_themes": [
@@ -14056,6 +14079,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Inside the Tiny Oil Sheikhdom Cut Off by the Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcno5ZUs5a0xia0dBck1FY2pWMzIzZEg3MUxpbUp0UDIxVENMYVZ1Rkt0UEpCTF9LY0tmSXVWeF9md2swM0ZzRVlCWVBQa0twaERNWVQ1SzRzMjNVMHViZlF2YWwycXE3VzhzXzAtMWZhTEt6OG9SU2pubFcwRWl2YnJyLXJjX0hGVHNWTjFVN2dOdDhOeWdURzR4U1ljdDczN2c?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 23:00 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779242400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices ease after Trump says US will end Iran war 'very quickly' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTZ0TjE5WjliV2w5YkY5aHlEUHVnVkdYNmx2ajdNd041OEZIdjA2MEpsT2tPaHRheVM1a3VaWmJSMjYzcEpENmxnb21Da2g3QVkxbGptaGJFOTRTcnpMVHZIUkgzRWVYdHdfbFpMSUZHZEhReV8xcTJzdXFGbWEzVzNrS0JsQjgtejAzSWM5VDFUTVZXdE15Q2xCT21QQzVfakp1N3RPUVpoSkxWdndXclp6Nzc3VktBeGc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 22:39 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779241140,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Massive Options Bet Rattles Oil Market On Edge Over Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcS1VZ2hFRDhWcGdOdGhCZ0dVWFUzTm5Xd0pmOEhSOFBFcklJN2VnYldqSm5IYk1EZ0hBWW9jMzZnNEotdUZ3UTFQTmJBYURveVlDcnlvcDhTbk5jSzRpOVhHajFEbWJFTzBNQW9meGcteF9lLTllRnAzSnduWGc3S29EMUUzS3VRTEdFa0hWSjVTdnZqekhiajRHbW1sQnFsZGwwMVNWSU4wYWctWG0wMQ?oc=5",

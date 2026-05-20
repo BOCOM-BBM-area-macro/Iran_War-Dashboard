@@ -13880,7 +13880,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-20"
     },
     "https://www.timesofisrael.com/liveblog_entry/at-white-house-trump-tells-us-lawmakers-that-iran-war-will-end-very-quickly/": {
       "summary": "",
@@ -14145,11 +14145,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-20"
+    },
+    "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.reuters.com/world/india/indian-shares-seen-lower-yields-oil-rise-trumps-iran-threat-2026-05-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-20",
-  "last_generated_time": "2026-05-20T09:02:06.304638+00:00",
+  "last_generated_time": "2026-05-20T10:02:09.964031+00:00",
   "digest": {
     "digest": "The US Senate has advanced measures to curb President Trump's war powers regarding Iran, with a procedural vote signaling rising opposition to the conflict. Democrats, with some Republican support, are pushing to force the President to end hostilities or seek congressional authorization. Iran has issued threats of war extending \"beyond the region\" if attacked by the US or Israel, while also warning that any conflict would \"spread far beyond region.\" Reports indicate Israel is preparing for a potential renewal of conflict, with heightened readiness observed. An Israeli strike was reportedly designed to free Mahmoud Ahmadinejad from house arrest as part of an effort to bring about regime change and install him as Iran's leader. Economically, the conflict's impact is evident, with oil prices dipping on presidential comments but analysts pointing to supply crunches, and gasoline prices soaring to over $4 a gallon nationwide, affecting small business profits. Australia's wheat production has decreased due to war costs and dry weather, while Nigeria's producers are increasing output to compensate for oil disruptions. The dollar has risen to a six-week high amid war uncertainty and rate hike expectations.",
     "top_themes": [
@@ -14304,6 +14324,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Reliance helps Indian shares, but Iran war caution persists - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2FBR1hTVGw3dDVCVld5YXhPNnM0YlNHZE1WOEpfSEdubU9zV1JyZF9RaTF4TGtsQjBPeFNQWTNFcWJhdEFVRWtJZ3NYdF9oamN3UFNJUUxfUkIwam9ReGZvUkFCeERzcS12Y1B3M2VlQkNUN283dTZuX1VYZHd6bnMwelhHV09XYW1Db3NRcHJUSFRsRHVoU0RuSnZfZDdHcFJsLUtWdlJCNUU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 07:22 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779272563,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Russia's oil and gas revenue seen up 39% y/y in May thanks to Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGloY1NkaG12OHhldFNOZ2tJcjkteXdvTmJwajlIejRyaklPMHVPVmRuTmZnaV9leE9MVkVqaUM3b0RRMnU2N3pfaGg2SXBTUXdmTmFoNEZ0WTBHTzdSZzdVWkFvbUVlTU9MbFJVZXRWRmszSjdVbnJzcnlyM0ZPWTB5bnFEdDFIbTRUVXVDb3hzYkI1RjBIZll5bTJwZ28wZWNiQnFTMzRFNG5lOHc?oc=5",
           "source": "Reuters",
@@ -14320,6 +14354,20 @@
         {
           "title": "Iran War Oil Disruption Prompts Nigeria Producers to Lift Output - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGdlUnNYVHc3aEYyejZtZHFlSEVGMERhNkVnd1NENUVaQmotVEpwUHo1UVZBLUVaZElyZ2ZtbTJWMktWNURSUWpabzhKYnJDenByRUs0Y1ZsaG5RbHNTbHVzdDAwdm9LNnhuWGVfLTE5bTJDaXFiTUxlNDMzZDZIMURiN2ZHZVU3OGFUa2NZa2o4c256N1pDbmNybmhIWUNJa2FrN3U0N2o4QmQ2U1B5ZVhudHJOZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 06:11 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779268263,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Oil Disruption Prompts Nigeria Producers to Lift Output - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZk9VdjY4ZW5vV25BbUdzYVl4VHpIUzVmWFNfV25XOVVIR2dsNDByRWZPMV90YTIyR041MVc3SjR6a0p3dFl6Tkg0RXNrRFg0MUE0Mk1MZ3ZOM1FDN1JJX3R4SXprY09XcGxIMGVrZXFKRk50UmNHcWpCTENJVUp3RFJTZkVDbUg5UDJBVk1hUmp6NGltc0taYl84Y2VJNDBKcGVzV0NRRnNPWHV2SlJYZzF2blJXRTZMNGMzc0hEOHBfdUtRZmJRVVAwUnFpcUIzMDRzYw?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

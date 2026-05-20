@@ -13330,7 +13330,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-18"
     },
     "https://www.bloomberg.com/news/articles/2026-05-18/tankers-entering-hormuz-during-iran-war-are-making-their-way-out": {
       "summary": "Almost all large non-Iranian tankers that have entered the Persian Gulf during the war appear to have successfully exited with a cargo, underscoring the emergence of a small group of shipowners willing to risk crossing the Strait of Hormuz.",
@@ -13914,6 +13914,48 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896761": {
+      "summary": "The advancement on the resolution is a victory for lawmkaers who have been arguing that Congress, not the president, should have the power to send troops to war, as spelled out in the Constitution.",
+      "tags": [
+        "Congress",
+        "Israel Iran War",
+        "Donald Trump",
+        "senate"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.wsj.com/world/middle-east/inside-the-tiny-oil-sheikhdom-cut-off-by-the-iran-war-f2b1f00a": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-20/world-underestimating-iran-war-impact-on-lng-says-woodside-ceo": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-19"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/nyt-israeli-developed-war-plans-sought-to-have-ahmedinejad-run-iran-after-khamenei-killed/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14620,6 +14662,20 @@
           "published": "May 14, 2026 · 06:00 BRT",
           "pub_date": "2026-05-14",
           "pub_ts": 1778749232,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Chinese supertanker exits Gulf, crossing Hormuz after months of delay - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BeUpNQWVQX1Azek52UHhvTXc0d0ZGelJsSjlrcWRqMHhvUW5CODUtYThfV0plVERTdk1oaFpIUTBVZmtyelg2RWF4LXpVeDlMb0NXeDJ4QU1vb19QSmhlZnZ5STk1VW8ycmc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 14, 2026 · 05:57 BRT",
+          "pub_date": "2026-05-14",
+          "pub_ts": 1778749025,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -19479,6 +19535,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "World Underestimating Iran War Impact on LNG, Says Woodside CEO - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTBDcXcyWUlsbm1ib2xRRnNFM0lPVndXbkFzVm1FSW1yVW9ldld0QXdibURDV0lmd2l2ak4yRkEyY0VnQXFaMERwakFTZ1VFVWQ2MWZ0NFJwR2dLcmdTazV4V3hiWlhjVDZDbXN3VmVSSG5ualYxWmVjUnN4TWE4QXExT1czYnhfVmxVY1J1cUpyQ3RtV05QWmNMSmlwWksxTjFxTENKMlIzNUhnMnZ0UjBtOA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 23:02 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779242520,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "At White House briefing, Vance says Iran war won’t be 'forever' - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVIyVmZEWVNiN2xvanpuVWt3TWp1WGIxUDlZLTRTUUZtNFdpWW9rbW9HN2l1SnVLNVcxQlRRa0pkaFBvQlVyVl9PYm1oeXk3QnhXbXlvOHhMQlRKM0g5MDZ4ejlTVmEzdHpnMjU5WnZua2VqcUFtV0pmYzVHdWg4U3ZEdEpVSTlia0xtM0RpZjNnTk5ndXVST0MzWHRHLWZkREZIU2JzZlJYbGNzNmc?oc=5",

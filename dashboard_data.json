@@ -14026,6 +14026,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-20"
+    },
+    "https://www.reuters.com/world/middle-east/israels-el-al-airlines-moves-q1-loss-iran-war-2026-05-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896782": {
+      "summary": "An associate of Ahmadinejad told the NYT that the Americans viewed Mr. Ahmadinejad as someone who could lead Iran and manage “Iran’s political, social, and military situation.”",
+      "tags": [
+        "Iran",
+        "Mahmoud Ahmadinejad",
+        "New York Times",
+        "Operation Epic Fury",
+        "Operation Roaring Lion"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
     }
   },
   "last_run_success": true,

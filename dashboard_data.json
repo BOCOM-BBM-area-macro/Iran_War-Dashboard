@@ -13867,7 +13867,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-20"
     },
     "https://www.reuters.com/legal/government/white-house-briefing-vance-says-iran-war-wont-be-forever-2026-05-20/": {
       "summary": "",
@@ -13907,7 +13907,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-19"
     },
     "https://www.reuters.com/world/asia-pacific/dollar-six-week-high-rate-hike-bets-iran-war-uncertainty-2026-05-20/": {
       "summary": "",
@@ -13939,7 +13939,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-20"
     },
     "https://www.bloomberg.com/news/articles/2026-05-20/world-underestimating-iran-war-impact-on-lng-says-woodside-ceo": {
       "summary": "",
@@ -14045,6 +14045,49 @@
         "New York Times",
         "Operation Epic Fury",
         "Operation Roaring Lion"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/australias-lng-industry-worries-it-will-miss-huge-opportunities-iran-war-2026-05-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.axios.com/2026/05/20/small-business-economy-gas-prices": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-05-20/live-updates-896770": {
+      "summary": "Israel, US sought to instate Ahmadinejad as Iran leader, NYT says • IRGC warns of broader attacks if war resumes • US-Saudi civil nuclear pact nears signing",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "IDF",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.reuters.com/world/uk/uk-inflation-slows-28-april-2026-05-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -19681,6 +19724,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Small business profits sink as gasoline prices soar - Axios",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBISE05UkR1QTlONEc4Y1hYTkhiQ1N5cGRtOS1QR3hxZ2hpdWxPQnhqV2NhSGMyQWEwY0l6RE1fbWxmNWh5NzBEWmsyNzNud2hmSE9EQXJLeEJYOTc5VWNBeWp5NVh3YUFINFlVc0JraVl2RXF3?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 05:51 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779267099,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Australia's LNG industry worries it will miss the huge opportunities from Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW95XzJHWDJ6VkNkTUlhdkkyNjNJTnRPRTZyQ25ncWl6Wkl4elo4UTIzamFQTF9ZNVE0bXVObDZ6aURnYXVmOVlfbjhMN0dVMlFSTHdYMmtmS0k0Nnd3bFVEZ2E3NEZnZXpod1hVUDRRTk5lRlRYNHVwd1J3MDF2NGIzZGZEN2tiQ2p1VUJMTVdsNkRRMEpNNDY4UGJiLVB1UW1ZTGJ0bV9FT0RhTTRhQ3ZyUU1sMGRra2VCUTVuOXVZTXNGUmZ4bTJMUXJ6a3k3TW9Eam8ybG8?oc=5",
           "source": "Reuters",
@@ -19767,6 +19824,20 @@
         {
           "title": "Russia’s Flagship Gas Pipeline to China Remains in Xi’s Hands - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd09NbjJDRUZmVXZqQjU0R2NJbkxsMWs3ckMtTUoyU0lPNmZWM0JCTVRJdFJoOFhuR3NlX09TM29hVTBBbHA3ekwxRXlCbVlreW5OeFdnSDNGZ2E0bTNOS2JnX1htTEVpZlc2dEcyYUdQazkybDRnU19WeHpqTEh3bVBpQkJXT1I3elpYQmRiUEgzdWRZSE9DLUMwWXg1RlQ2VnNtTVpLMzdxQjhsSjVrMkQ0cDg0OXU4SlBReFJlM3plRWozdmNmajAycDc4UURVTjRHNWRCSFRCLUpEOG1UNF9pUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 08:15 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779102933,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Russia’s Flagship Gas Pipeline to China Remains in Xi’s Hands - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnFwQ015azhqV2dSOURoZmNzNFVzV2cxbC12NVF6ajk1LUJRWURrWXBkY1BuM2lzY0RzM0dkMWl5S1FBY0V1dTBKQmhKTWdidi1sZmRFd216a3JjS0NXeHdCaERBanc5TV9TVE9SaVBfV2xiSEZsRF9oSGxiQzVJYkx5eWtMTDJhQklBZnA2M0U1QXBHQzViOEhPVEZXeG9vRUg4ZVMyQVhQRTh1Tnc0NGtuelNSbGd3aXdiTUZjZzI3akwzS0F2NzRwQm03Tjk1cV83U09zb3dsZ2RpOTIwWkIzU1hfUQ?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

@@ -13426,7 +13426,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-18"
+      "pub_date": "2026-05-20"
     },
     "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html": {
       "summary": "In any new round of fighting, Iranian officials could adopt new tactics, including intensified strikes on neighbors and trying to close off a second strait.",
@@ -13939,7 +13939,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-19"
     },
     "https://www.bloomberg.com/news/articles/2026-05-20/world-underestimating-iran-war-impact-on-lng-says-woodside-ceo": {
       "summary": "",
@@ -14088,6 +14088,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/irans-revolutionary-guard-warns-war-will-spread-far-beyond-region-if-us-israel-resume-attacks/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-20/iran-war-oil-disruption-prompts-nigeria-producers-to-lift-output": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14254,6 +14274,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Iran War Oil Disruption Prompts Nigeria Producers to Lift Output - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGdlUnNYVHc3aEYyejZtZHFlSEVGMERhNkVnd1NENUVaQmotVEpwUHo1UVZBLUVaZElyZ2ZtbTJWMktWNURSUWpabzhKYnJDenByRUs0Y1ZsaG5RbHNTbHVzdDAwdm9LNnhuWGVfLTE5bTJDaXFiTUxlNDMzZDZIMURiN2ZHZVU3OGFUa2NZa2o4c256N1pDbmNybmhIWUNJa2FrN3U0N2o4QmQ2U1B5ZVhudHJOZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 06:11 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779268263,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran war boosts US shale oil but only so much - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelA5Q1NNZmJEaGVTRUU5ZE9BanRSZlhEejBYVDR5ZWhkN2NpV01Qdk5uV1FtcXFHUUpEZ1ozS3BSa3diNTY3OHcxTWs0UlotekF2bnNfczlydl9yTDktU3BXRVBobmZnSVhOdEhOLWpWeFk3QUxiUlNPbmVFeFlwTThxR0FrREY5WHBtLUxkZVhkUE55VGQ4cDNtZ3AzZDNHQjNuMXdCa25rMVNYV212M2JlZFlTY0Yw?oc=5",
           "source": "Reuters",
@@ -14262,6 +14296,20 @@
           "published": "May 20, 2026 · 03:11 BRT",
           "pub_date": "2026-05-20",
           "pub_ts": 1779257460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran threatens war 'beyond the region' if US attacks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtCOC1FeFNhRG9yNTFpSUMzVVFkN2JFRXJSWGhTLUZ4SE1ueklHTzB2cEdSWGZOTy0ycE9pQkFKNDl0SHY5Y1p0UHIxdGxqZG0wX3FjS1VZZFFmcnZzU18xczQ1eUk4VGJWelp1blVYNjJMOFd6elZ2NWMxQlNqMlo1SUV0TkF0RlhFeWpyWTU0czUwM2JLLW1pUDFfQTZWUnRRNmUta1p5ckhBb2hmM2RCcDg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 00:44 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779248640,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

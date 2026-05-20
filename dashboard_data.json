@@ -13907,7 +13907,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-20"
     },
     "https://www.reuters.com/world/asia-pacific/dollar-six-week-high-rate-hike-bets-iran-war-uncertainty-2026-05-20/": {
       "summary": "",
@@ -13917,7 +13917,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-19"
     },
     "https://www.jpost.com/middle-east/iran-news/article-896761": {
       "summary": "The advancement on the resolution is a victory for lawmkaers who have been arguing that Congress, not the president, should have the power to send troops to war, as spelled out in the Constitution.",
@@ -13999,6 +13999,29 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/iran-war-boosts-us-shale-oil-only-so-much-bousso-2026-05-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
+    },
+    "https://www.jpost.com/international/article-896781": {
+      "summary": "The president's popularity has taken a hit this year as Americans suffer from surging gasoline prices since Trump ordered strikes on Iran in February alongside Israel.",
+      "tags": [
+        "Iran",
+        "United States",
+        "republicans",
+        "Donald Trump",
+        "gas"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14164,6 +14187,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war boosts US shale oil but only so much - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelA5Q1NNZmJEaGVTRUU5ZE9BanRSZlhEejBYVDR5ZWhkN2NpV01Qdk5uV1FtcXFHUUpEZ1ozS3BSa3diNTY3OHcxTWs0UlotekF2bnNfczlydl9yTDktU3BXRVBobmZnSVhOdEhOLWpWeFk3QUxiUlNPbmVFeFlwTThxR0FrREY5WHBtLUxkZVhkUE55VGQ4cDNtZ3AzZDNHQjNuMXdCa25rMVNYV212M2JlZFlTY0Yw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 03:11 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779257460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Inside the Tiny Oil Sheikhdom Cut Off by the Iran War - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcno5ZUs5a0xia0dBck1FY2pWMzIzZEg3MUxpbUp0UDIxVENMYVZ1Rkt0UEpCTF9LY0tmSXVWeF9md2swM0ZzRVlCWVBQa0twaERNWVQ1SzRzMjNVMHViZlF2YWwycXE3VzhzXzAtMWZhTEt6OG9SU2pubFcwRWl2YnJyLXJjX0hGVHNWTjFVN2dOdDhOeWdURzR4U1ljdDczN2c?oc=5",
@@ -18439,6 +18476,34 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Spare a thought for the world's biggest diesel importers - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWk5tLTV6bE9WS1doWmJKbml4bDhMU3JxZWVjQzhueVlncHhSSUVmbGtZNkdVOWhqSnFIUlhvQjk2ZGZUdXRfWFptSnlBU2RuR0Y5NkxxYndraXFkczZRYWRrY3hVd0V0QW4tTUh4YzhXY0V4cTlwS1Z2cjBSZFZmbXhWYWhJbF9ub0NxV3NKWTJPUmRDSExSUVlIVjF1M0pQUVBXQWFXY2ViVGdCSnVjTHJEaTk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 03:04 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779257040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump approval falls to 35% as Iran war, gas prices cause Republican support to slip further - poll - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OU1ZRYkZra0ZWSzk4OXN6aEYweG4tYzJLekF0SXlkTlpwSnQ2Mi1IRGpPMzdNc0JWUjhsYlFwYU16bHNiY2hfY1k0c1FlcHRuOTUyemhOOWx4MzNuUDJB?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 01:49 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779252562,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "UK to Allow Imports of Diesel, Jet Fuel Refined From Russian Oil - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW14eEhOX1N5WUszTzVyVkMzU1h1U1Q3YmU0REs1X3ZxN0VzQVVGSjF6ME9OeWpyejdhZ2swNlRiWEhhSW1kaEdNU3FKV3A4UjByLVJydHNpNXBPRG1lM055NXRuREF5NnM1MDlTdTJqTHBRdWUtRWJ2UDNUN2lnTG1wSlIwWkl0WlZKOXFINVpsTFBsWjFJcV9NdWw4OHRubzZ6Rkg2ZC1BWE5oNGlBWkh0Yk4?oc=5",

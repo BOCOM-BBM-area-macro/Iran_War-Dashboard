@@ -13870,7 +13870,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-19"
     },
     "https://www.reuters.com/legal/government/white-house-briefing-vance-says-iran-war-wont-be-forever-2026-05-20/": {
       "summary": "",
@@ -14218,11 +14218,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-20"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-05-20/iran-warns-of-wider-war-beyond-middle-east-if-us-resumes-attacks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-20"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-20",
-  "last_generated_time": "2026-05-20T13:02:10.379315+00:00",
+  "last_generated_time": "2026-05-20T14:03:35.141885+00:00",
   "digest": {
     "digest": "The US Senate has advanced measures to curb President Trump's war powers regarding Iran, with a procedural vote signaling rising opposition to the conflict. Democrats, with some Republican support, are pushing to force the President to end hostilities or seek congressional authorization. Iran has issued threats of war extending \"beyond the region\" if attacked by the US or Israel, while also warning that any conflict would \"spread far beyond region.\" Reports indicate Israel is preparing for a potential renewal of conflict, with heightened readiness observed. An Israeli strike was reportedly designed to free Mahmoud Ahmadinejad from house arrest as part of an effort to bring about regime change and install him as Iran's leader. Economically, the conflict's impact is evident, with oil prices dipping on presidential comments but analysts pointing to supply crunches, and gasoline prices soaring to over $4 a gallon nationwide, affecting small business profits. Australia's wheat production has decreased due to war costs and dry weather, while Nigeria's producers are increasing output to compensate for oil disruptions. The dollar has risen to a six-week high amid war uncertainty and rate hike expectations.",
     "top_themes": [
@@ -14376,6 +14386,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Pulls Back Despite Sharp U.S. Stockpiles Draw as Markets Monitor Iran Talks - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWktLeVctdVZPX2RoZlRIc2lvOEF2M25ZakVndlVpRnVxZVUweURFQ1piaXIxLVFxTlJLd1d5X2xqVDFTSXNORl9YQUpiUXdfd2piMlhRY0xsajlPOUd6R3BRS29CbU04ckRDb3o4M3llN3JqTUx0c3JsNE1aYU9fbVZiMFAzcmR1X0xCOE5HSElJd180LVZXQWlzVWR2dzhIS1hYSzItZ1dpSUphRnIzcmVEbXVsdw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 12:03 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779289380,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Reliance helps Indian shares, but Iran war caution persists - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2FBR1hTVGw3dDVCVld5YXhPNnM0YlNHZE1WOEpfSEdubU9zV1JyZF9RaTF4TGtsQjBPeFNQWTNFcWJhdEFVRWtJZ3NYdF9oamN3UFNJUUxfUkIwam9ReGZvUkFCeERzcS12Y1B3M2VlQkNUN283dTZuX1VYZHd6bnMwelhHV09XYW1Db3NRcHJUSFRsRHVoU0RuSnZfZDdHcFJsLUtWdlJCNUU?oc=5",

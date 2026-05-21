@@ -11877,7 +11877,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-15"
+      "pub_date": "2026-05-14"
     },
     "https://www.wsj.com/politics/national-security/iran-war-saps-money-from-other-pentagon-needs-leaders-warn-5bff041f": {
       "summary": "",
@@ -13910,7 +13910,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-19"
     },
     "https://www.reuters.com/world/asia-pacific/dollar-six-week-high-rate-hike-bets-iran-war-uncertainty-2026-05-20/": {
       "summary": "",
@@ -14483,6 +14483,29 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.jpost.com/middle-east/article-896875": {
+      "summary": "DIPLOMATIC AFFAIRS: The Iran war is pushing the UAE and Israel into unprecedented cooperation, while Saudi Arabia looks elsewhere to counter Tehran without empowering Jerusalem.",
+      "tags": [
+        "Israel",
+        "Saudi Arabia",
+        "diplomacy",
+        "Israel Iran War",
+        "UAE"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.reuters.com/world/uk/uk-firms-report-slide-activity-due-iran-war-political-turmoil-2026-05-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

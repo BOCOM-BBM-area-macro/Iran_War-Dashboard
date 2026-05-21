@@ -13273,10 +13273,13 @@
       "pub_date": "2026-05-18"
     },
     "https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18/": {
-      "summary": "",
+      "summary": "U.S. President Donald Trump ​said on Monday he had paused a planned attack against Iran after Tehran sent a peace proposal to Washington, and that there was now a \"very good chance\" of ‌reaching a deal limiting Iran's nuclear program.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:GOVERNANCE",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "MTVID",
+        "GRAPHC"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -13870,7 +13873,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-19"
     },
     "https://www.reuters.com/legal/government/white-house-briefing-vance-says-iran-war-wont-be-forever-2026-05-20/": {
       "summary": "",
@@ -14726,11 +14729,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-21"
+    },
+    "https://www.wsj.com/opinion/the-iran-war-and-the-anti-american-reflex-d15abb8f": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.wsj.com/opinion/china-wont-see-the-iran-war-as-a-green-light-for-aggression-0a566d84": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-05-21/iran-war-signs-of-peace-deal-progress-lead-stocks-higher": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.bloomberg.com/news/features/2026-05-21/iran-war-upends-inflation-bets-in-50-trillion-debt-market-safe-haven": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-21",
-  "last_generated_time": "2026-05-21T18:02:27.505333+00:00",
+  "last_generated_time": "2026-05-21T19:02:07.790696+00:00",
   "digest": {
     "digest": "The ongoing Iran war continues to exert significant pressure on global markets, with oil prices showing volatility and projections indicating a potential cap near $100 per barrel due to anticipated supply losses. Emerging Asian markets are particularly vulnerable, facing extreme bear scenarios for currencies and bonds. In the diplomatic arena, Pakistan is intensifying efforts to facilitate US-Iran peace talks, while a new Iranian peace proposal has reportedly triggered a tense call between President Trump and Prime Minister Netanyahu. The war is also reshaping regional alliances, pushing some Gulf states, like the UAE, towards increased cooperation with Israel, while others, such as Saudi Arabia, are seeking alternative strategies to counter Iran. Iran has demonstrated leverage through actions like attacking Gulf states and controlling the Strait of Hormuz, indicating a long-term US vulnerability. Militarily, Iran's ability to rebuild its industrial base is reportedly set back by months, though its overall military industrial base is rebuilding faster than initially expected. The conflict is also impacting international business, with UK firms reporting a decline in activity and budget airlines like EasyJet flagging continued pressure. The war is creating opportunities for the Chinese renminbi to gain traction in global oil trade, and US farmers are experiencing increased costs and drought conditions linked to the conflict.",
     "top_themes": [
@@ -20602,6 +20645,20 @@
           "published": "May 21, 2026 · 13:46 BRT",
           "pub_date": "2026-05-21",
           "pub_ts": 1779381977,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump’s war is wrecking Trump’s economy - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXlPMlN2YlR6SlNVeTBQNjd3OHpEYTB1alFFbUZPLVl0TmRtUmZNZFlkQzhJMHNZSkgwd21iMjh3R1NqWU1oSmp1a0Y2bG5sLU1NVTVCOEZGcG5ydDFPWUpPU3JJb3ZZbTNfQzJTSnFsT2w0bGZvTUUwS2lyYm9SUEZIR1RETHR3RG1MNkhMVTVZVjA?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 21, 2026 · 06:55 BRT",
+          "pub_date": "2026-05-21",
+          "pub_ts": 1779357307,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

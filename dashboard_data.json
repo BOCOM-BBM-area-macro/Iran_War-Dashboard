@@ -13873,7 +13873,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-20"
     },
     "https://www.reuters.com/legal/government/white-house-briefing-vance-says-iran-war-wont-be-forever-2026-05-20/": {
       "summary": "",
@@ -14769,11 +14769,54 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-21"
+    },
+    "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-21/house-leaders-cancel-iran-war-vote-amid-gop-absences": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.axios.com/2026/05/21/house-iran-war-powers-vote": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-896997": {
+      "summary": "The US deployed some 200 Terminal High Altitude Area Defense, or THAAD, interceptors against Iranian missiles targeting Israel, while Israel used fewer than 100 Arrow 3 missiles.",
+      "tags": [
+        "david sling",
+        "Israel Iran War",
+        "israel us",
+        "Arrow-3",
+        "THAAD"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-21",
-  "last_generated_time": "2026-05-21T19:02:07.790696+00:00",
+  "last_generated_time": "2026-05-21T20:02:12.300370+00:00",
   "digest": {
     "digest": "The ongoing Iran war continues to exert significant pressure on global markets, with oil prices showing volatility and projections indicating a potential cap near $100 per barrel due to anticipated supply losses. Emerging Asian markets are particularly vulnerable, facing extreme bear scenarios for currencies and bonds. In the diplomatic arena, Pakistan is intensifying efforts to facilitate US-Iran peace talks, while a new Iranian peace proposal has reportedly triggered a tense call between President Trump and Prime Minister Netanyahu. The war is also reshaping regional alliances, pushing some Gulf states, like the UAE, towards increased cooperation with Israel, while others, such as Saudi Arabia, are seeking alternative strategies to counter Iran. Iran has demonstrated leverage through actions like attacking Gulf states and controlling the Strait of Hormuz, indicating a long-term US vulnerability. Militarily, Iran's ability to rebuild its industrial base is reportedly set back by months, though its overall military industrial base is rebuilding faster than initially expected. The conflict is also impacting international business, with UK firms reporting a decline in activity and budget airlines like EasyJet flagging continued pressure. The war is creating opportunities for the Chinese renminbi to gain traction in global oil trade, and US farmers are experiencing increased costs and drought conditions linked to the conflict.",
     "top_themes": [
@@ -15273,6 +15316,20 @@
           "published": "May 18, 2026 · 19:23 BRT",
           "pub_date": "2026-05-18",
           "pub_ts": 1779142980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US eases Russian oil sanctions in bid to contain Iran price surge - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGwzY21ORVZnRXctSHQxZTZDTWFybHNIbFYyaWxhWnFyUWdvRjhtN0htSVFBcXJPU2JqcjQteWJCa09nWThzT0RLN3RxOW5hbWxVbThFTm15bFFwRE01U01FNzFKbGlSRWZiVkt2bGExSWE3VmNrelQ2UWVjQ0hIZnBmcm0?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 18, 2026 · 15:13 BRT",
+          "pub_date": "2026-05-18",
+          "pub_ts": 1779127988,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -13910,7 +13910,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-20"
     },
     "https://www.reuters.com/world/asia-pacific/dollar-six-week-high-rate-hike-bets-iran-war-uncertainty-2026-05-20/": {
       "summary": "",
@@ -13942,7 +13942,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-21"
     },
     "https://www.bloomberg.com/news/articles/2026-05-20/world-underestimating-iran-war-impact-on-lng-says-woodside-ceo": {
       "summary": "",
@@ -14390,10 +14390,13 @@
       "pub_date": "2026-05-21"
     },
     "https://www.bloomberg.com/news/articles/2026-05-21/iran-war-spurs-extreme-bear-scenarios-for-asia-currencies-bonds": {
-      "summary": "",
+      "summary": "The Iran war is piling pressure on emerging Asian markets, pushing some currencies and bond yields toward levels once considered unlikely.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "War",
+        "Iran",
+        "Asia",
+        "Bonds",
+        "India"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14421,6 +14424,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-20"
+    },
+    "https://www.reuters.com/world/asia-pacific/tehran-reviewing-latest-us-response-trump-suggests-he-can-wait-2026-05-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-21/oil-near-100-emerges-as-consensus-for-next-year-with-iran-war": {
+      "summary": "Oil market participants are increasingly pricing crude to be capped near $100 a barrel over the next year, as demand is forced to slow down to counter millions of barrels of supply losses caused by the US-Iran war.",
+      "tags": [
+        "Generic 1st 'CL' Future",
+        "War",
+        "Iran",
+        "Risk Premium",
+        "Salih Yilmaz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
     }
   },
   "last_run_success": true,
@@ -14579,6 +14605,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Near $100 Emerges as Consensus for Next Year With Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMENLZXQzYkhxbEJMWHNjX0d3aUdoSHdORkx4aU0xcHg5bTM3WElNb1QyTWtFWml5MWZJb1pkOTRNa0xLZDJ6SHVxTXdSaGZZdG1NNHp6N0E4TE0xMkJiN1cwRG1WNXZ5Q3MtdExkWHk1N0p3dlJGWkdvMEcwb1FvVF84S2NCaGl0WnJZYmhsZjJrSVBLR0lVNVNQN1ZfRkUtenB3QzBRc2lsdFZBdEpaZ0F3?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 21, 2026 · 02:04 BRT",
+          "pub_date": "2026-05-21",
+          "pub_ts": 1779339840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil rebounds on uncertainty over Iran peace deal and inventory drawdowns - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhfeFV4cS1TOEs1TmUxSlVscHVtZDdRNzNkZUUwV2dxS2ZLcjNDUkxnZVN1US11M19KSV9DOHBlcjRPSTlmSXNzSHlFV1ZjTFdVYndtODdha0ptd1JCVlNBN0kwZU82THp5Vk92U3NiMlBZX1JWQUZEYVJyMDJrTG42ZkVvUWlqZno1QWppdm1FYVV6dFVzYl9KS0F4OUdrYXlLSWNoN1lVVkpDaDVmVWtQbDNGMkNI?oc=5",
@@ -15218,6 +15258,20 @@
           "published": "May 14, 2026 · 19:07 BRT",
           "pub_date": "2026-05-14",
           "pub_ts": 1778796461,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc's unity - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFRfdzdWREFZN05ubU11NnBtalhCc1pfWHpDaklDQkM3dFQ4N3lSd1ZqbG1QLXQ2VTlDdFE5M0ZDZ2NpOGJiYVl5NThXU2FHSy1KYkZIamEzc1VNZGFjTVdpSG1MZHJicS01MWRZdVdLTl93WnBJLVZsM0wwczVhX2I2QkJPWkZXZ3IxN2FxZ2FqaEQ5ZWFId2FSd2xlLWYwMURRVjBPOTRWTlZwUUpsSjk2eVZrVnM?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 14, 2026 · 11:39 BRT",
+          "pub_date": "2026-05-14",
+          "pub_ts": 1778769550,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

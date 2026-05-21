@@ -14467,6 +14467,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-21"
+    },
+    "https://www.ft.com/content/8d3f89fa-c39b-44c3-b22c-607e22b62e29?syn-25a6b1a6=1": {
+      "summary": "Analysts say use of Chinese currency in global oil trade is on the rise",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-21/easyjet-sees-drop-in-summer-bookings-due-to-iran-war-uncertainty": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
     }
   },
   "last_run_success": true,
@@ -14760,6 +14780,20 @@
           "published": "May 20, 2026 · 00:44 BRT",
           "pub_date": "2026-05-20",
           "pub_ts": 1779248640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How Trump Has Talked About Ending the Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVJxRlJhRUpwODkxZ0FPTG02Q2otc0VoMmoyYWN5Y2ZQZWZ1RVZFbURIdTJxeHRsYWtZZXJONjVJMjI1QVlITF9nTVpsQXRzeGtDc3VMdG5hb1pPYlRTS0FvUWdvT05DQ0w5bUtVVG82V3JkLUo5MXRCWERqZ3FNcDVJMlUxbEJKUWlj?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 20, 2026 · 00:16 BRT",
+          "pub_date": "2026-05-20",
+          "pub_ts": 1779246996,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

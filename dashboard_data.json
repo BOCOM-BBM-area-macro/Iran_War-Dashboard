@@ -14084,7 +14084,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-21"
     },
     "https://www.reuters.com/world/uk/uk-inflation-slows-28-april-2026-05-20/": {
       "summary": "",
@@ -14348,6 +14348,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-20"
+    },
+    "https://www.washingtonpost.com/ripple/2026/05/20/trump-war-iran-wreck-economy-oil-energy/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.nytimes.com/live/2026/05/20/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-21/ambani-s-4-billion-jio-ipo-hits-roadblocks-on-iran-war-impact": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
     }
   },
   "last_run_success": true,

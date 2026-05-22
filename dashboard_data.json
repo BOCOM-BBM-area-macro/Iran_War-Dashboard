@@ -14861,7 +14861,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-22"
     },
     "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html": {
       "summary": "The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.",
@@ -14872,6 +14872,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-21"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-896999": {
+      "summary": "The US House of Representatives had blocked three previous war powers resolutions in close votes earlier this year, with near-unanimous support from Republicans.",
+      "tags": [
+        "Iran",
+        "Congress",
+        "Israel Iran War",
+        "Donald Trump",
+        "House of Representatives"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.reuters.com/world/india/indias-job-engine-strains-iran-war-hits-remittances-trade-2026-05-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-22"
     }
   },
   "last_run_success": true,

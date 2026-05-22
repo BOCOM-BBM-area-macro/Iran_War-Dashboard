@@ -14383,7 +14383,7 @@
       "pub_date": "2026-05-21"
     },
     "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html": {
-      "summary": "",
+      "summary": "Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -14771,7 +14771,7 @@
       "pub_date": "2026-05-21"
     },
     "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html": {
-      "summary": "",
+      "summary": "House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -14832,11 +14832,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-21"
+    },
+    "https://www.reuters.com/world/rubio-tell-nato-ministers-trump-very-disappointed-over-iran-war-stance-2026-05-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.timesofisrael.com/us-used-over-half-its-thaad-interceptors-defending-israel-during-iran-war-report/": {
+      "summary": "US official says even more would be used if new war erupts because Israel sent its batteries for maintenance; other official claims Israel 'not capable' of winning wars on its own",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-21",
-  "last_generated_time": "2026-05-21T21:02:17.566332+00:00",
+  "last_generated_time": "2026-05-21T22:02:06.093196+00:00",
   "digest": {
     "digest": "The ongoing Iran war continues to exert significant pressure on global markets, with oil prices showing volatility and projections indicating a potential cap near $100 per barrel due to anticipated supply losses. Emerging Asian markets are particularly vulnerable, facing extreme bear scenarios for currencies and bonds. In the diplomatic arena, Pakistan is intensifying efforts to facilitate US-Iran peace talks, while a new Iranian peace proposal has reportedly triggered a tense call between President Trump and Prime Minister Netanyahu. The war is also reshaping regional alliances, pushing some Gulf states, like the UAE, towards increased cooperation with Israel, while others, such as Saudi Arabia, are seeking alternative strategies to counter Iran. Iran has demonstrated leverage through actions like attacking Gulf states and controlling the Strait of Hormuz, indicating a long-term US vulnerability. Militarily, Iran's ability to rebuild its industrial base is reportedly set back by months, though its overall military industrial base is rebuilding faster than initially expected. The conflict is also impacting international business, with UK firms reporting a decline in activity and budget airlines like EasyJet flagging continued pressure. The war is creating opportunities for the Chinese renminbi to gain traction in global oil trade, and US farmers are experiencing increased costs and drought conditions linked to the conflict.",
     "top_themes": [
@@ -14991,6 +15011,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Treasuries Erase Drop on Signs of Progress Toward Ending War - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1dDcDBHcjRmQjlUOWJIMThRdXpzY3BfVVV3SjFGb1pwc3pSM1FocjRZUDAzMGs0MXEtRzR4QTdWQzRFNl8wVmhiOWZzUWI5ZHB2RWoxTnVHUlVoMXpmYUJ6bl9GOGl0ajFpOHRhN1d1Vm1PMndhNGZVeGhiMmJTTlpESHc3R2FxTjRyalFnVFJLVHNDOTZGVkh0RjVOMWlhY0Z6U25Pd1RTT21seC1iUA?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 21, 2026 · 15:49 BRT",
+          "pub_date": "2026-05-21",
+          "pub_ts": 1779389371,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Near $100 Emerges as Consensus for Next Year With Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMENLZXQzYkhxbEJMWHNjX0d3aUdoSHdORkx4aU0xcHg5bTM3WElNb1QyTWtFWml5MWZJb1pkOTRNa0xLZDJ6SHVxTXdSaGZZdG1NNHp6N0E4TE0xMkJiN1cwRG1WNXZ5Q3MtdExkWHk1N0p3dlJGWkdvMEcwb1FvVF84S2NCaGl0WnJZYmhsZjJrSVBLR0lVNVNQN1ZfRkUtenB3QzBRc2lsdFZBdEpaZ0F3?oc=5",

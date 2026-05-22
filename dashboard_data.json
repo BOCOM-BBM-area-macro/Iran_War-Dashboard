@@ -13833,7 +13833,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-19"
+      "pub_date": "2026-05-20"
     },
     "https://www.timesofisrael.com/israel-said-preparing-for-renewal-of-iran-war-trump-says-tehran-has-days-to-make-deal/": {
       "summary": "TV report points to signs of heightened readiness, including 5-hour cabinet meeting, cancellation of PM's trial hearing; Trump says he is 'not sure' when attack will happen",
@@ -13913,7 +13913,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-20"
+      "pub_date": "2026-05-19"
     },
     "https://www.reuters.com/world/asia-pacific/dollar-six-week-high-rate-hike-bets-iran-war-uncertainty-2026-05-20/": {
       "summary": "",
@@ -14848,6 +14848,26 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.nytimes.com/live/2026/05/21/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-21"
+    },
+    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html": {
+      "summary": "The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

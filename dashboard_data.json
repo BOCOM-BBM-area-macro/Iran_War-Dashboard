@@ -14502,7 +14502,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-22"
     },
     "https://www.reuters.com/world/uk/uk-firms-report-slide-activity-due-iran-war-political-turmoil-2026-05-21/": {
       "summary": "",
@@ -14941,6 +14941,19 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-22"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-897001": {
+      "summary": "Warnings of a potential surprise Iranian attack on Gulf States and Israel come as US President Donald Trump and Prime Minister Benjamin Netanyahu disagree on how to proceed with Tehran.",
+      "tags": [
+        "Israel Katz",
+        "Israel Iran War",
+        "drone attack",
+        "Gulf States",
+        "Iranian missile attacks"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

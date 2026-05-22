@@ -13945,7 +13945,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-19"
     },
     "https://www.bloomberg.com/news/articles/2026-05-20/world-underestimating-iran-war-impact-on-lng-says-woodside-ceo": {
       "summary": "",
@@ -14798,7 +14798,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-22"
     },
     "https://www.jpost.com/israel-news/defense-news/article-896997": {
       "summary": "The US deployed some 200 Terminal High Altitude Area Defense, or THAAD, interceptors against Iranian missiles targeting Israel, while Israel used fewer than 100 Arrow 3 missiles.",
@@ -14891,6 +14891,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-22"
+    },
+    "https://www.nytimes.com/2026/05/22/business/asia-currency-iran-dollar.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15054,6 +15064,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Thousands of Miles From the Iran War, Asia’s Currencies Feel the Strain - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGZmlNa25TWmN6RWl0aW93a01zZzdfUnRWTXJzaTRVdFhQcmthYThoRzBueml1RFFQaW9fMFVsQV9Rb25NOWs2REhkMU91cnliZTJVaXlYTEs4V0VHZ1Q5RHdUc2tTUkgtbWJkMW1qV0J6TFBoc2htLU81bmIyakE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 22, 2026 · 01:00 BRT",
+          "pub_date": "2026-05-22",
+          "pub_ts": 1779422414,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Treasuries Erase Drop on Signs of Progress Toward Ending War - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1dDcDBHcjRmQjlUOWJIMThRdXpzY3BfVVV3SjFGb1pwc3pSM1FocjRZUDAzMGs0MXEtRzR4QTdWQzRFNl8wVmhiOWZzUWI5ZHB2RWoxTnVHUlVoMXpmYUJ6bl9GOGl0ajFpOHRhN1d1Vm1PMndhNGZVeGhiMmJTTlpESHc3R2FxTjRyalFnVFJLVHNDOTZGVkh0RjVOMWlhY0Z6U25Pd1RTT21seC1iUA?oc=5",

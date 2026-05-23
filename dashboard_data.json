@@ -14861,7 +14861,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-22"
     },
     "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html": {
       "summary": "The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.",
@@ -15161,11 +15161,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-22"
+    },
+    "https://www.reuters.com/business/energy/indian-retailers-raises-fuel-prices-third-time-response-iran-war-2026-05-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-22"
+    },
+    "https://www.wsj.com/world/ukraine-iran-war-807d697d": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-22"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-22",
-  "last_generated_time": "2026-05-22T22:02:02.299890+00:00",
+  "last_generated_time": "2026-05-22T23:02:25.342378+00:00",
   "digest": {
     "digest": "The US House of Representatives saw Republican leaders cancel a vote to limit President Trump's war powers in Iran, citing a lack of sufficient votes amidst party defections. This action indicates internal divisions within the Republican party regarding the conflict. Concurrently, the United States has been increasing its military support for Israel, deploying a significant number of interceptors to defend against Iranian missile attacks, raising concerns among Pentagon officials about Israel's reliance on US defense systems. Diplomatically, the conflict is creating divergent responses in the Gulf; the UAE and Israel are deepening cooperation, while Saudi Arabia pursues independent strategies to counter Iran. Pakistan is actively seeking a breakthrough in US-Iran peace talks, suggesting ongoing diplomatic efforts to de-escalate the situation. Globally, the economic repercussions of the Iran war are being felt across continents, with Asian currencies experiencing strain and even impacting major corporations like Qatar Airways, which has decided to forgo staff bonuses due to the war's economic impact. Discussions between Iran and Oman regarding ship payment systems in the Strait of Hormuz suggest that a resolution to the conflict remains distant, with significant damage to the global economy already evident.",
     "top_themes": [
@@ -15321,6 +15341,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Indian retailers raises fuel prices a third time in response to Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGRFSkpMUW1aZHNqUno4UDUtT2FSOFhpb0xKR1o4X2ZFRy1CSDJ6QzVzV2NyVUlwN0ZldVotMm5IR2JMSnZpT3pUSUZhenBlMnVONVl4cVR4ejdhdWpUUVc2Z2djaFFGRnJWU2wyaGJkd1FCZkgzLWxoWjJOOHBjd3V3bnhyaHRnNnJlcmU5Q3FHWTF6RGtnRWxRSUd0X2ctNFZQOXR2Y254Y0R4QkZYOUZXcHZGdnc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 22, 2026 · 21:56 BRT",
+          "pub_date": "2026-05-22",
+          "pub_ts": 1779497760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Oil Mystery at the Heart of America’s Pressure Campaign on Iran - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOU5jRmVUbm9QX1VWQUx5RFEwT0tjR05mYVNrNzVtM0VUcUxTakRTaEcyUmhkS3Uwbm5kNGhEVHNjVkFxQjZhdmp5WWkwdjV0VTNGY1BTRFpid1JHcWRSTDJpTk9QQXBoaFNhWU5DQXVUNm5mMWVvdG5tVDVjZ1RqaTYxRjI2YjJ6cmlNQ3cydDJuRXRfeVBvaEFQbjM5MzRVd1ZDd0VtWlVTU3RlX2lPdi1LSQ?oc=5",

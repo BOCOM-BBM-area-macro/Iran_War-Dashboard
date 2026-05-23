@@ -14970,7 +14970,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-23"
+      "pub_date": "2026-05-22"
     },
     "https://www.ft.com/content/dbfb7578-e9aa-426a-8c8c-a439f589fbc5": {
       "summary": "From air strikes to a naval operation, the US president has no simple way to force Iran to yield",
@@ -15110,7 +15110,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-22"
+      "pub_date": "2026-05-23"
     },
     "https://www.wsj.com/opinion/dont-leave-the-iran-war-half-won-5555e858": {
       "summary": "",
@@ -15231,53 +15231,111 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-23"
+    },
+    "https://www.timesofisrael.com/three-months-in-is-trump-losing-the-war-against-iran/": {
+      "summary": "Central goals including denuclearization of Tehran remain unmet even as conflict lasts twice as long as US president said it would, leaving him with few appealing endgame options",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-23"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/irans-top-negotiator-warns-of-crushing-bitter-consequences-if-us-foolishly-restarts-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-23"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-22",
-  "last_generated_time": "2026-05-22T23:02:25.342378+00:00",
+  "last_generated_date": "2026-05-23",
+  "last_generated_time": "2026-05-23T09:02:09.578791+00:00",
   "digest": {
-    "digest": "The US House of Representatives saw Republican leaders cancel a vote to limit President Trump's war powers in Iran, citing a lack of sufficient votes amidst party defections. This action indicates internal divisions within the Republican party regarding the conflict. Concurrently, the United States has been increasing its military support for Israel, deploying a significant number of interceptors to defend against Iranian missile attacks, raising concerns among Pentagon officials about Israel's reliance on US defense systems. Diplomatically, the conflict is creating divergent responses in the Gulf; the UAE and Israel are deepening cooperation, while Saudi Arabia pursues independent strategies to counter Iran. Pakistan is actively seeking a breakthrough in US-Iran peace talks, suggesting ongoing diplomatic efforts to de-escalate the situation. Globally, the economic repercussions of the Iran war are being felt across continents, with Asian currencies experiencing strain and even impacting major corporations like Qatar Airways, which has decided to forgo staff bonuses due to the war's economic impact. Discussions between Iran and Oman regarding ship payment systems in the Strait of Hormuz suggest that a resolution to the conflict remains distant, with significant damage to the global economy already evident.",
+    "digest": "The ongoing conflict between the US and Iran remains a focal point, with discussions around potential new strikes and the strategic implications of the current situation. President Trump is reportedly weighing options for further military action, while simultaneously engaging in diplomatic efforts to de-escalate. Reports indicate progress in ongoing talks, with Qatari and Pakistani teams actively mediating in Tehran to secure a deal and end the war. The strategic importance of the Strait of Hormuz is highlighted, with concerns raised about potential disruptions to global oil and gas supplies. The economic repercussions of the conflict are evident, with rising fuel prices impacting retailers in India and contributing to a broader oil shock that benefits some nations while disadvantaging others. Diplomatic stances show Iran warning of severe consequences if hostilities resume, while US officials express cautious optimism about the ongoing negotiations. The broader geopolitical landscape is also affected, with European allies largely refusing to assist and Russia and China drawing lessons from US military tactics and depleted weapon supplies. The conflict's duration has exceeded initial projections, leading to internal political pressures and a re-evaluation of strategic objectives by both sides.",
     "top_themes": [
-      "US Congressional Action on Iran War Powers",
-      "US-Israel Military Cooperation and Reliance",
-      "Regional Diplomatic Shifts Amidst Conflict",
-      "Global Economic Impact of Iran Conflict"
+      "US-Iran Conflict Dynamics",
+      "Diplomatic Negotiations",
+      "Strait of Hormuz Significance",
+      "Global Economic Impact"
     ],
     "next_events": [
       {
-        "title": "Congressional Scrutiny of Executive War Powers",
-        "description": "The repeated pulling of votes to limit presidential war powers indicates ongoing internal political struggles within the US. Analysts should monitor any renewed attempts by Congress to assert its authority over military action in Iran, as this directly impacts the executive's freedom to escalate or de-escalate the conflict."
+        "title": "Potential Resumption of US-Israel Strikes on Iran",
+        "description": "President Trump is reportedly weighing options for new military strikes in Iran, in coordination with Israel, following a period of ceasefire. Analysts should closely monitor any official statements, military deployments, or intelligence indicating a decision to resume the bombing campaign, as this would almost certainly trigger Iranian retaliation across the region and escalate the conflict."
       },
       {
-        "title": "Shifting Middle East Alliances and Peace Efforts",
-        "description": "The conflict is reshaping regional dynamics, with some Gulf states aligning closer with Israel while others seek alternative counter-Tehran strategies. Watch for further developments in diplomatic talks (e.g., Pakistan's efforts, Iran-Oman discussions on the Strait of Hormuz) and how these new alignments or peace initiatives might influence the conflict's trajectory and stability in the region."
+        "title": "Status of US-Iran Peace Negotiations",
+        "description": "Despite ongoing diplomatic efforts by regional mediators like Qatar and Pakistan, a definitive agreement to end the war remains elusive. Watch for any breakthroughs or collapses in these talks, as a successful negotiation could provide an off-ramp from further military escalation, while failure could push both sides back towards conflict."
       },
       {
-        "title": "Israel's Defense Capabilities and US Interceptor Reliance",
-        "description": "Reports highlight Israel's significant reliance on US interceptors for defense against Iranian threats, raising concerns about its independent war-fighting capabilities. Analysts should closely monitor any changes in US military aid or deployment strategies, as well as Israel's own defense readiness, which could be a critical factor in future escalations or de-escalations."
+        "title": "Iran's Nuclear Program and Uranium Enrichment",
+        "description": "Iran continues to resist nuclear concessions, maintaining a stockpile of highly enriched uranium and refusing to send it abroad. Analysts should monitor any reports on Iran's enrichment activities, its willingness to engage in denuclearization talks, and the implications of its current stance for regional stability and proliferation risks."
       },
       {
-        "title": "Broader Economic Fallout from Iran Tensions",
-        "description": "The 'Iran War' is already impacting global economies, from airline industry bonuses to Asian currencies and discussions around Strait of Hormuz payment systems. Watch for further economic indicators, disruptions to global trade routes, and specific industry impacts, as these will reflect the conflict's sustained pressure on international markets and supply chains."
+        "title": "Iran's Control Over the Strait of Hormuz",
+        "description": "Iran has demonstrated its capability to disrupt global oil and gas supplies through the Strait of Hormuz, a critical chokepoint. Any renewed Iranian actions or threats to shipping in the Strait could lead to significant spikes in energy prices and severe global economic repercussions, making this a key area to watch for any escalation."
       },
       {
-        "title": "International Community's Stance and Geopolitical Ripple Effects",
-        "description": "The international community's response, including NATO's stance and major powers like China, is crucial. Analysts should observe how global actors interpret and react to the conflict, as their diplomatic pressure, economic decisions, or strategic positioning could significantly influence the conflict's scope and potential for resolution."
+        "title": "US Domestic Political Pressure on Trump's Iran Strategy",
+        "description": "President Trump faces increasing domestic pressure due to the war's unpopularity, high US gasoline prices, and upcoming midterm elections. Analysts should observe how these internal political factors influence his decision-making regarding military escalation versus seeking a diplomatic resolution, potentially pushing him towards a quick, decisive action or a face-saving exit."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
+      "title": "Trump met top advisers on Iran as he weighs return to war - Axios",
+      "url": "https://www.axios.com/2026/05/22/trump-iran-meeting-resume-war-deal",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "May 23, 2026 · 05:56 BRT",
+      "pub_date": "2026-05-23",
+      "pub_ts": 1779526614,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Opinion | Don’t Leave the Iran War Half-Won - WSJ",
+      "url": "https://www.wsj.com/opinion/dont-leave-the-iran-war-half-won-5555e858",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "May 22, 2026 · 17:39 BRT",
+      "pub_date": "2026-05-22",
+      "pub_ts": 1779482340,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump Weighs His Options in Carrying Out New Strikes in Iran - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 21, 2026 · 19:40 BRT",
-      "pub_date": "2026-05-21",
-      "pub_ts": 1779403233,
-      "summary": "House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.",
+      "published": "May 22, 2026 · 23:44 BRT",
+      "pub_date": "2026-05-22",
+      "pub_ts": 1779504255,
+      "summary": "There is no shortage of targets should President Trump, in coordination with Israel, decide to resume the assault on Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -15287,96 +15345,56 @@
       "sentiment_success": false
     },
     {
-      "title": "US said to fire more interceptors to protect Israel in latest Iran war than Israel did - The Times of Israel",
-      "url": "https://www.timesofisrael.com/us-used-over-half-its-thaad-interceptors-defending-israel-during-iran-war-report/",
+      "title": "Trump says Iran war ‘will be over with soon’ as progress reported in ongoing talks - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-iran-war-will-be-over-with-soon-as-progress-reported-in-ongoing-talks/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "May 22, 2026 · 05:40 BRT",
+      "published": "May 22, 2026 · 17:54 BRT",
       "pub_date": "2026-05-22",
-      "pub_ts": 1779439213,
-      "summary": "US official says even more would be used if new war erupts because Israel sent its batteries for maintenance; other official claims Israel 'not capable' of winning wars on its own",
+      "pub_ts": 1779483240,
+      "summary": "",
       "tags": [
         "extracted",
         "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-05-22/live-updates-897006",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "May 22, 2026 · 04:42 BRT",
-      "pub_date": "2026-05-22",
-      "pub_ts": 1779435778,
-      "summary": "UAE's Gargash warns second round of US-Iran fighting could deepen complications • Rubio to tell NATO ministers Trump 'very disappointed' over Iran war stance • IDF strikes Hezbollah weapons facility",
-      "tags": [
-        "Benjamin Netanyahu",
-        "Gaza",
-        "Hamas",
-        "Hezbollah",
-        "Iran"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran and Oman in Talks Over Strait of Hormuz Ship Payment System - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 21, 2026 · 22:48 BRT",
-      "pub_date": "2026-05-21",
-      "pub_ts": 1779414514,
-      "summary": "The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Pentagon officials worry about Israel's reliance on US interceptors in Iran war - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-896997",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "May 21, 2026 · 19:06 BRT",
-      "pub_date": "2026-05-21",
-      "pub_ts": 1779401210,
-      "summary": "The US deployed some 200 Terminal High Altitude Area Defense, or THAAD, interceptors against Iranian missiles targeting Israel, while Israel used fewer than 100 Arrow 3 missiles.",
-      "tags": [
-        "david sling",
-        "Israel Iran War",
-        "israel us",
-        "Arrow-3",
-        "THAAD"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "House Leaders Cancel Iran War Vote Amid GOP Absences - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-21/house-leaders-cancel-iran-war-vote-amid-gop-absences",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "May 21, 2026 · 19:25 BRT",
-      "pub_date": "2026-05-21",
-      "pub_ts": 1779402331,
+      "title": "Iran’s top negotiator warns of ‘crushing, bitter’ consequences if US ‘foolishly’ restarts war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/irans-top-negotiator-warns-of-crushing-bitter-consequences-if-us-foolishly-restarts-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "May 23, 2026 · 08:15 BRT",
+      "pub_date": "2026-05-23",
+      "pub_ts": 1779534915,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Exclusive: Qatari negotiating team in Tehran to try to help secure US-Iran deal to end war, says source - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/qatari-negotiating-team-tehran-help-secure-us-iran-deal-end-war-says-source-2026-05-22/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 22, 2026 · 14:51 BRT",
+      "pub_date": "2026-05-22",
+      "pub_ts": 1779472269,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -15391,6 +15409,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US oil producers increase output to capture price surge from Iran war - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BRXhUc29ENU9JZmlDdVIxcVJ2VlhROWhZVHp5eVFOQmRUQ2phSU0ydGZILTBGNlBGdzhDOElJZ1Y0eGhxWEFyQzlSNXRBSjFRVWR5SlNUWlUtRGhkZGFveE9sUGdNanhPNnhvMVZMSFQ?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 23, 2026 · 08:00 BRT",
+          "pub_date": "2026-05-23",
+          "pub_ts": 1779534007,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "What If the Strait of Hormuz Didn’t Reopen? - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFo5bi1KNWZIREd4bXlMaDk0ZEpVcUNaZnBRaldCbFpFRHZHdDh1cEJiLVp3Z2Z1c0lIMW83WUp6N3p0MW9uTUpTVUtBMEx5SHNSMUFMa3ZscG8tYkZTSXNCSkZ1Ni14NnlfUS0tT3BOR1lLVHJPcE1CLVR3a2UzVmd1RzltaWJZQTcwdHU3a1lFZVJsQkM2YS1oUEZnV3RxQ3lQSlJhdHhrYnl3eHFzWXYzRW1RT3JRNElkb1ZTY3lFMHpJY3c?oc=5",
@@ -25112,7 +25144,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-22T11:05:52.165211+00:00",
-  "last_watch_time": "2026-05-22T11:06:00.660469+00:00",
-  "last_relevant_time": "2026-05-22T11:06:06.597939+00:00"
+  "last_digest_time": "2026-05-23T12:07:41.399021+00:00",
+  "last_watch_time": "2026-05-23T12:07:50.586028+00:00",
+  "last_relevant_time": "2026-05-23T12:07:56.002213+00:00"
 }

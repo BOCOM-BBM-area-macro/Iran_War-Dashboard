@@ -15160,7 +15160,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-23"
+      "pub_date": "2026-05-22"
     },
     "https://www.reuters.com/business/energy/indian-retailers-raises-fuel-prices-third-time-response-iran-war-2026-05-23/": {
       "summary": "",
@@ -15361,11 +15361,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-23"
+    },
+    "https://www.washingtonpost.com/world/2026/05/23/iran-united-states-war-ceasefire-negotiations-hormuz/8444a3ee-56b5-11f1-9c40-7a0a12d9e745_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-23"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-pakistan-said-to-send-revised-war-ending-proposal-to-us-pakistani-source-its-fairly-comprehensive/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-23"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-23",
-  "last_generated_time": "2026-05-23T16:02:07.531970+00:00",
+  "last_generated_time": "2026-05-23T17:02:07.794391+00:00",
   "digest": {
     "digest": "The ongoing conflict between the US and Iran remains a focal point, with discussions around potential new strikes and the strategic implications of the current situation. President Trump is reportedly weighing options for further military action, while simultaneously engaging in diplomatic efforts to de-escalate. Reports indicate progress in ongoing talks, with Qatari and Pakistani teams actively mediating in Tehran to secure a deal and end the war. The strategic importance of the Strait of Hormuz is highlighted, with concerns raised about potential disruptions to global oil and gas supplies. The economic repercussions of the conflict are evident, with rising fuel prices impacting retailers in India and contributing to a broader oil shock that benefits some nations while disadvantaging others. Diplomatic stances show Iran warning of severe consequences if hostilities resume, while US officials express cautious optimism about the ongoing negotiations. The broader geopolitical landscape is also affected, with European allies largely refusing to assist and Russia and China drawing lessons from US military tactics and depleted weapon supplies. The conflict's duration has exceeded initial projections, leading to internal political pressures and a re-evaluation of strategic objectives by both sides.",
     "top_themes": [
@@ -24504,6 +24524,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Israel said preparing for renewal of Iran war; Trump says Tehran has days to make deal - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0hFRFJqeXMyYXVTQU5XZjI3TExpcUw2RlNaUW5rT2k0Ylk3ZEN1a3RhZzBUQU00Z3JPSmtNTjhrYlhZWFVNWmlSaUZRZUNKOXBuVGVCSzQtVjZHMzFFRWszU2txa1RJSFdlSVhERWVQdl9xcFFUV1NrSDJuTTR1Ukw5M29MYnJuWWhNY1BxajI2eGZGNUJYNDNnWXl5TWdZUHF0ZkZuQlluTlJkeHBxajM1cWhUYmPSAbwBQVVfeXFMTmVqLS1IcXJHdTZfdTdweVpGUmI5a2drYWtGWlFwa19lY0ZLUTliR0NYeDhDZFBhMnlXTnlRcTZOSmlaNmJwQ25KTFI5TkNTeU5UWXdxZ2I4dnBzQTcwUkZ2ZDNfTVZNcGMyTGYyNVcwUUZYUHJVN2hPMUxwSDFVcWRJc3NoWkpSV2c5Z3YtV2htLU41eWZqR2hQOWJsWDNUTFhiSVBZOTJXSEZobHZyS2NPejdpSlhYZy1CSlY?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 19, 2026 · 16:31 BRT",
+          "pub_date": "2026-05-19",
+          "pub_ts": 1779219060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US imposes fresh sanctions on Iranian exchange house, shadow fleet vessels - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjdKRVFXWDIyLW5QbzBMV0JPQlFXUEM1T2x2Y01BWUtMQjZZTS1VQTY1OHBWRVdtbDM1ck9kbjBCeUhNYmFfRGdfV1dhdEdra25CNlBjZmQwWDZESEJFU2w1dmRaWGRDZ1RGWEFUNFF6djl3MlBJWXc2aVVjVFYwYkNzNnlPRG9sVFhuRWJPRFc5OWVXWHFWRjRhMjNiSXY5aS1vTk5qTVdyTkJWX18yWEMwTk5OSDVSMC1JLTgySTc?oc=5",

@@ -15180,7 +15180,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-23"
+      "pub_date": "2026-05-24"
     },
     "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html": {
       "summary": "A partner in the war, Israel has been largely left out of the peace talks, a humbling setback for its prime minister with significant risks for the country.",
@@ -15350,7 +15350,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-23"
+      "pub_date": "2026-05-24"
     },
     "https://www.wsj.com/world/middle-east/thousands-of-iranians-travel-to-saudi-arabia-in-a-tense-war-time-pilgrimage-ac64fb26": {
       "summary": "",
@@ -15510,6 +15510,39 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.jpost.com/defense-and-tech/article-897084": {
+      "summary": "The war didn’t collapse Iran. It cemented its control over Hormuz, rewired its alliances, and strengthened the very institutions the US targeted.",
+      "tags": [
+        "Iran",
+        "iran israel",
+        "iran israel war",
+        "Defense Tech",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-executes-man-for-allegedly-sending-defense-industry-info-to-us-israel-during-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

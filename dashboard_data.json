@@ -11162,7 +11162,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-12"
+      "pub_date": "2026-05-22"
     },
     "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html": {
       "summary": "Iranian media said a moderate quake had shaken the capital around midnight local time.",
@@ -15350,7 +15350,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-24"
+      "pub_date": "2026-05-23"
     },
     "https://www.wsj.com/world/middle-east/thousands-of-iranians-travel-to-saudi-arabia-in-a-tense-war-time-pilgrimage-ac64fb26": {
       "summary": "",
@@ -15553,6 +15553,29 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-05-23/live-updates-897039": {
+      "summary": "US response to Iran proposal expected by Sunday • Iran's top negotiator Ghalibaf meets Pakistani Army Chief • No deal in sight if US insists on discussing nuclear issue, Iranian FM spokesperson says",
+      "tags": [
+        "Hezbollah",
+        "Lebanon",
+        "iran israel",
+        "iran negotiations",
+        "Iran nuclear talks"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-23"
+    },
+    "https://www.nytimes.com/2026/05/24/world/middleeast/what-to-know-about-the-potential-iran-peace-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -24135,6 +24158,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "EU suspends duties on fertilizers to ease impact of Hormuz crisis on farmers - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpVcUUxX2RPVTMzVjdNOTk2TW9IdkNZcHItR2ZyWjVwUnhYTXV0SWthU05nYV94Mjluek44M0J1THFRZ2ZFRGQ1YThva2dnMXMtNl9qOXdvYzBQd1RFMFZXYjJyRHYzd0M1czFIRzcyUmxJbTY2Ym5rSHpCMk1uSGtoTWxxam1qbE1CX1UteV9ZNWFDRDhKLVhiaTZWa05zanEtNzMwRzJOdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 22, 2026 · 09:55 BRT",
+          "pub_date": "2026-05-22",
+          "pub_ts": 1779454543,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Human Urine Becomes Option for Farmers in Fertilizer Supply Crunch - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0hpVmJ5Zi1EQWY5bjVyY0ZnV2J6VkNJZTVSTjJKRUk0a2JEandRV2dtNFpMeUZGOFNIWTh3Z09ncm5WSG9OeXBXcm92WUxZTHFSUXJ4Z2NhSEhzclVQUTlOT3FzUl94d25SeGFhNmJnRXV1Y19SbEJnS1BwYXdhajQ2VDN5QmlZSm9NclhRSEJ0cklrUTlRakQ5OFg0eWtvTXNkbGg1bmhnNFZzYk40ZTZhMmR4Wlk?oc=5",

@@ -14798,7 +14798,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-22"
     },
     "https://www.jpost.com/israel-news/defense-news/article-896997": {
       "summary": "The US deployed some 200 Terminal High Altitude Area Defense, or THAAD, interceptors against Iranian missiles targeting Israel, while Israel used fewer than 100 Arrow 3 missiles.",
@@ -15680,11 +15680,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-21"
+    },
+    "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.cbc.ca/news/world/details-emerge-us-deal-with-iran-9.7210359": {
+      "summary": "The potential deal will include Iran’s commitment that it won’t pursue a nuclear weapon, and Tehran agreed to give up its stockpile of highly enriched uranium, according to two regional officials.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-24",
-  "last_generated_time": "2026-05-24T12:02:08.233540+00:00",
+  "last_generated_time": "2026-05-24T13:02:04.725860+00:00",
   "digest": {
     "digest": "Reports indicate that the United States and Iran are nearing a deal to end the ongoing war, with President Trump stating the framework is largely negotiated and a decision is imminent. Key provisions of the potential agreement include the reopening of the Strait of Hormuz, a significant point of contention. Iran has reportedly agreed to relinquish enriched uranium as part of the proposed Memorandum of Understanding (MOU), which may include concessions from both sides and a possibility for extension. However, conflicting claims regarding the peace deal and the nuclear issue have emerged between the US and Iran. The war, which began on February 28th and spread to neighboring countries, has had a notable impact on global markets, with the ECB facing pressure to hike rates due to rising prices linked to the conflict. Domestically, the House has pulled a vote to halt the Iran war, while some political figures have criticized the emerging deal, citing concerns over Iran's continued influence and potential asset unfreezing. In parallel, Iran has reported executing an individual for providing information to the US and Israel during the war.",
     "top_themes": [

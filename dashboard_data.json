@@ -2399,7 +2399,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-02"
+      "pub_date": "2026-05-23"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html": {
       "summary": "",
@@ -15441,11 +15441,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-23"
+    },
+    "https://www.nytimes.com/2026/05/23/world/middleeast/iran-peace-deal-trump-proposal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-23"
+    },
+    "https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-23"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-23",
-  "last_generated_time": "2026-05-23T22:02:02.706455+00:00",
+  "last_generated_time": "2026-05-23T23:02:17.328935+00:00",
   "digest": {
     "digest": "The ongoing conflict between the US and Iran remains a focal point, with discussions around potential new strikes and the strategic implications of the current situation. President Trump is reportedly weighing options for further military action, while simultaneously engaging in diplomatic efforts to de-escalate. Reports indicate progress in ongoing talks, with Qatari and Pakistani teams actively mediating in Tehran to secure a deal and end the war. The strategic importance of the Strait of Hormuz is highlighted, with concerns raised about potential disruptions to global oil and gas supplies. The economic repercussions of the conflict are evident, with rising fuel prices impacting retailers in India and contributing to a broader oil shock that benefits some nations while disadvantaging others. Diplomatic stances show Iran warning of severe consequences if hostilities resume, while US officials express cautious optimism about the ongoing negotiations. The broader geopolitical landscape is also affected, with European allies largely refusing to assist and Russia and China drawing lessons from US military tactics and depleted weapon supplies. The conflict's duration has exceeded initial projections, leading to internal political pressures and a re-evaluation of strategic objectives by both sides.",
     "top_themes": [

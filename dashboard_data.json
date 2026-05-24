@@ -15471,6 +15471,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-23"
+    },
+    "https://www.reuters.com/world/middle-east/iran-executes-person-sending-information-us-israel-during-war-judiciary-says-2026-05-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-897072": {
+      "summary": "The Memorandum of Understanding (MOU) both parties are expected to sign would include concessions on both sides, with the possibility of it being extended further during the 60 day period.",
+      "tags": [
+        "Iran",
+        "Lebanon",
+        "United States",
+        "Iran nuclear",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
     }
   },
   "last_run_success": true,

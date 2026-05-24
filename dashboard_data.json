@@ -15113,10 +15113,13 @@
       "pub_date": "2026-05-22"
     },
     "https://www.wsj.com/opinion/dont-leave-the-iran-war-half-won-5555e858": {
-      "summary": "",
+      "summary": "It is time to finish the job in Iran and seek peace from a position of maximum strength.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "administration",
+        "approval",
+        "ayatollah",
+        "change",
+        "collapse"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15519,7 +15522,7 @@
       "pub_date": "2026-05-24"
     },
     "https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html": {
-      "summary": "",
+      "summary": "Iran has not formally responded to President Trump’s announcement that a peace deal was close. But officials suggested the oil choke point in the Strait of Hormuz could reopen.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -15675,7 +15678,7 @@
       "pub_date": "2026-05-24"
     },
     "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump": {
-      "summary": "",
+      "summary": "The explosions outside Beirut ended a yearlong cease-fire and threatened to expand the conflict. In an interview with The New York Times, President Trump said the U.S. plans to keep up the assault on Iran for “four or five weeks.”",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -15753,11 +15756,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-24"
+    },
+    "https://www.axios.com/2026/05/24/trump-iran-war-israel-muslim-countries-abraham-accords": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.jpost.com/middle-east/article-897180": {
+      "summary": "The Gulf countries, meanwhile, understood that they would bear much of the immediate cost of restarting the war against the Islamic regime.",
+      "tags": [
+        "Saudi Arabia",
+        "Qatar",
+        "iran israel war",
+        "UAE",
+        "Gulf Cooperation Council"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-24",
-  "last_generated_time": "2026-05-24T16:02:11.556825+00:00",
+  "last_generated_time": "2026-05-24T17:02:00.367426+00:00",
   "digest": {
     "digest": "Reports indicate that the United States and Iran are nearing a deal to end the ongoing war, with President Trump stating the framework is largely negotiated and a decision is imminent. Key provisions of the potential agreement include the reopening of the Strait of Hormuz, a significant point of contention. Iran has reportedly agreed to relinquish enriched uranium as part of the proposed Memorandum of Understanding (MOU), which may include concessions from both sides and a possibility for extension. However, conflicting claims regarding the peace deal and the nuclear issue have emerged between the US and Iran. The war, which began on February 28th and spread to neighboring countries, has had a notable impact on global markets, with the ECB facing pressure to hike rates due to rising prices linked to the conflict. Domestically, the House has pulled a vote to halt the Iran war, while some political figures have criticized the emerging deal, citing concerns over Iran's continued influence and potential asset unfreezing. In parallel, Iran has reported executing an individual for providing information to the US and Israel during the war.",
     "top_themes": [

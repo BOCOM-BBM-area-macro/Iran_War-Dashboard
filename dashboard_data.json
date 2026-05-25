@@ -15791,7 +15791,7 @@
       "pub_date": "2026-05-24"
     },
     "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html": {
-      "summary": "",
+      "summary": "Lawmakers, including some of President Trump’s closest allies, slammed the emerging agreement as effectively undermining the president’s own war goals.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -15835,6 +15835,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-24/hassett-says-ending-iran-war-may-create-room-for-fed-rate-cut": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15996,6 +16006,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Indian retailers raise fuel prices a fourth time to rein in losses - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa19GczZNaFNNeXB4Rk9obUdYOGNyWmRnR0MzQjhfc3pIQ0JOM2E4MThSVzVmeTBkanExbldWa0RZMzcteXlabk8xbTB0QVE2TW03UjBGQzNCSnJMUGF6OTRHYzAxVWVKOTk0UHV3Z0xhbl9Ydmw0WF83MFUzTmVpRndhdFlXZUtMVG5rYnc4c053VVB2d2p4Zk1UZGZKakRnc0hMM3J1MzFsZks4bHN6Qmh3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 24, 2026 · 23:01 BRT",
+          "pub_date": "2026-05-24",
+          "pub_ts": 1779674518,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices sink on signs of U.S.-Iran deal - Axios",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXZoS1U1dzU3OGVCNTBhd0JBVk4waDRfMkxjVm1PWXBUWUFOUy12Q1ZMV3daVFFFZkxkMTVVbGNlRlFURm8tbE15QWc4MU9xeUVEZ1gxNmd0ejU5RXA0M3d5RUxfOTRFNjdVeXJsOUNaeHIxeUxJclZJTVB2TUhpc2VNY3gxWDBVZ1BCQTBIeFFjQVFDLWc?oc=5",

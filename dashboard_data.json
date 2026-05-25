@@ -15808,7 +15808,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-24"
+      "pub_date": "2026-05-25"
     },
     "https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html": {
       "summary": "President Trump says the U.S. and Iran could be close to a peace deal. The big issues at stake include the fate of Iran’s nuclear program and reopening the Strait of Hormuz.",
@@ -15849,6 +15849,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-25/israel-set-to-cut-rates-as-efforts-to-end-to-iran-war-advance": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
     }
   },
   "last_run_success": true,

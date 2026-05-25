@@ -15819,11 +15819,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-24"
+    },
+    "https://www.reuters.com/business/energy/indian-retailers-raise-fuel-prices-fourth-time-amid-iran-war-2026-05-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/asia-thermal-coal-imports-prices-lift-amid-iran-war-china-output-drop-2026-05-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-24",
-  "last_generated_time": "2026-05-24T22:02:04.855884+00:00",
+  "last_generated_time": "2026-05-24T23:02:23.705256+00:00",
   "digest": {
     "digest": "Reports indicate that the United States and Iran are nearing a deal to end the ongoing war, with President Trump stating the framework is largely negotiated and a decision is imminent. Key provisions of the potential agreement include the reopening of the Strait of Hormuz, a significant point of contention. Iran has reportedly agreed to relinquish enriched uranium as part of the proposed Memorandum of Understanding (MOU), which may include concessions from both sides and a possibility for extension. However, conflicting claims regarding the peace deal and the nuclear issue have emerged between the US and Iran. The war, which began on February 28th and spread to neighboring countries, has had a notable impact on global markets, with the ECB facing pressure to hike rates due to rising prices linked to the conflict. Domestically, the House has pulled a vote to halt the Iran war, while some political figures have criticized the emerging deal, citing concerns over Iran's continued influence and potential asset unfreezing. In parallel, Iran has reported executing an individual for providing information to the US and Israel during the war.",
     "top_themes": [
@@ -21895,6 +21915,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Asia thermal coal imports, prices lift amid Iran war, China output drop - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2Z6ekk2aDZUcVB3TW42MGxwYkF6RTF5Z3RiOGppRFphVlk2cFNFZlo1dTVIMTFMNFkxZVAzaVYteXc1d2hZcEJkS3k4SE1paTc3ck96MjYwVGVYdldLYkxIUmVwdC1SSEhCSVZEaUl5czBwU2FTenpLREZpNW40WWc5dWVUMVVVc00xMTJzeFVWV25ZYlFpc3lNaTN5N01wNXp5OEZ3SElTNkdfYlk3NWxadWtZR0VYckFqVVA5R3NqbS10SmpuemkzRUdYazNuRUFpeg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 24, 2026 · 22:17 BRT",
+          "pub_date": "2026-05-24",
+          "pub_ts": 1779671820,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "LNG Tanker Exits Hormuz for India for First Time Since War Began - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUE93blpGSGVWbWJJbFZNNXI4ZTR5c1pjbHVMOXNBZWpVQ0gySjVQalBteDl0SDg2ZGU4RkRZQXRaRnNFMlo5ckpDTlVNWklCdEY1dGt0NklxRXNwS2dXNlhybnY3cFRTLVpINGc3bEgtRUNTa09CT21QdjBnTzhzZ3AtZVBuelAzX3ZkT1ozSVBiX0JjQWViZFRFY3hlUDlBRHBxTGlvMkQxRzREQlJGOWhkZWhtZw?oc=5",
           "source": "Bloomberg.com",
@@ -25372,6 +25406,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "The Iran War Is Coming for Your Diet Coke - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1BpbDg0cG53ZDlmREVxT3Jfbk40cXY1cy1BMVQ0bXlpMnBlUW9VX2dNMm5mN0h2T1BnN3c1ZlJsSmRUOHE2b0lGMXFaQm5vNVFyNXBmUWtYRzE1RG05LTNXdTV1c0lHc1I4RXZIUGJRNFlmdm56Nm5zamlsYkJfLUxXZGtvcW1ZWlc3YXdHN0dseXcwTThnanZHbDdTaEN1WjNjd3o1cDlNZ1Y3?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 24, 2026 · 16:00 BRT",
+          "pub_date": "2026-05-24",
+          "pub_ts": 1779649202,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "AI Rollout to Boost Metals-Rich EM Currencies, Barclays Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3JnNzM2Q3ZGenloUml5WmVWVVowS3JUNE1VamlCT2EwR1BJZXJ2Q2dad2RVTmhoRTJ3VjBKeThlY0dzc3FUN01iYUM1aS1jMk1hcUdHUmw2X0V0dm1uUVJXd1pldjU1TFVJd3FfSndFdGdjM2dNMDY5eU1mRVRZMDVTZzRXUWFxVFg0QUd0c3ltcXVyR2dkZHo1UXNDaG15ZHRmN1lKTkJSa2VkUll3?oc=5",

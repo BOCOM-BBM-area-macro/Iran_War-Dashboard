@@ -15765,7 +15765,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-24"
+      "pub_date": "2026-05-25"
     },
     "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html": {
       "summary": "President Trump is hailing is agreement with Iran as groundbreaking, even as he admits is “isn’t even fully negotiated.” But the nuclear stockpile, enrichment and missiles have not been discussed.",
@@ -15838,7 +15838,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-25"
+      "pub_date": "2026-05-24"
     },
     "https://www.bloomberg.com/news/articles/2026-05-24/hassett-says-ending-iran-war-may-create-room-for-fed-rate-cut": {
       "summary": "",
@@ -15929,153 +15929,178 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-25"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-25/saudi-crown-prince-mbs-scores-unexpected-wins-during-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
+    },
+    "https://www.cbc.ca/news/world/iran-u-s-ceasefire-deal-9.7210824": {
+      "summary": "Iran and the United States played down hopes for an imminent breakthrough in the three-month-old war on Monday, with U.S. Secretary of State Marco Rubio saying there will either be a good agreement or Washington would deal with the country in \"another way.\"",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-24",
-  "last_generated_time": "2026-05-24T23:02:23.705256+00:00",
+  "last_generated_date": "2026-05-25",
+  "last_generated_time": "2026-05-25T08:02:10.011540+00:00",
   "digest": {
-    "digest": "Reports indicate that the United States and Iran are nearing a deal to end the ongoing war, with President Trump stating the framework is largely negotiated and a decision is imminent. Key provisions of the potential agreement include the reopening of the Strait of Hormuz, a significant point of contention. Iran has reportedly agreed to relinquish enriched uranium as part of the proposed Memorandum of Understanding (MOU), which may include concessions from both sides and a possibility for extension. However, conflicting claims regarding the peace deal and the nuclear issue have emerged between the US and Iran. The war, which began on February 28th and spread to neighboring countries, has had a notable impact on global markets, with the ECB facing pressure to hike rates due to rising prices linked to the conflict. Domestically, the House has pulled a vote to halt the Iran war, while some political figures have criticized the emerging deal, citing concerns over Iran's continued influence and potential asset unfreezing. In parallel, Iran has reported executing an individual for providing information to the US and Israel during the war.",
+    "digest": "Recent reports indicate that while President Trump has stated a peace deal with Iran is near finalization, with a framework agreed upon to reopen the Strait of Hormuz within 30 to 60 days, both the US and Iran are downplaying hopes for an imminent breakthrough. Key sticking points remain, including Iran's nuclear program, the release of frozen Iranian funds, and the lifting of sanctions. The US Secretary of State has indicated that diplomacy will be given every chance before exploring alternatives, and that any agreement must be \"good and proper.\" Meanwhile, Israel, which began the war as a US partner, is reportedly being excluded from ongoing talks. The conflict's economic repercussions continue, with bond strategists warning of persistently high yields even if the war ends, and Indian retailers raising fuel prices due to losses. Conversely, some airlines are adding flights as rivals are hampered by the war, and Malaysia reports industrial fallout. The war has also seen an increase in female troop casualties and has impacted Ukraine's geopolitical standing. A tenuous ceasefire has held since early April, but the overall situation remains fragile, with the US strategy to end the conflict falling short of initial expectations.",
     "top_themes": [
-      "Iran Deal Negotiations",
-      "Strait of Hormuz",
-      "US-Iran Relations"
+      "Iran War Diplomacy",
+      "US-Iran Negotiations",
+      "Global Economic Impact"
     ],
     "next_events": [
       {
-        "title": "Official Signing and Announcement of the Iran Peace Deal",
-        "description": "Multiple reports indicate a peace deal is 'largely negotiated' and 'near finalization,' with Trump saying he's '50/50' on a decision by Sunday. Analysts should watch for official announcements from the US and Iran, the signing of the Memorandum of Understanding (MOU), and the immediate reactions from key international players. This event will formally conclude the recent conflict and set the stage for future relations."
+        "title": "Progress and Finalization of US-Iran Peace Deal",
+        "description": "Despite conflicting reports, a framework for a peace deal is reportedly in place, with President Trump suggesting a deal is near while officials play down imminent breakthroughs. Analysts should monitor official statements regarding the timeline for a final pact, particularly how 'hard issues' like Iran's nuclear program, missile capabilities, and the lifting of sanctions are addressed or deferred."
       },
       {
-        "title": "Detailed Terms and Implementation of the Agreement",
-        "description": "Beyond the signing, the precise terms of the deal are crucial. Key aspects to monitor include whether Iran truly gives up enriched uranium, the amount of Iranian assets unfrozen (reportedly $110 billion), and the mechanisms for reopening the Strait of Hormuz. The implementation timeline and any provisions for extension or monitoring will also be critical to assess the deal's long-term effectiveness."
+        "title": "Reopening and Management of the Strait of Hormuz",
+        "description": "The reopening of the Strait of Hormuz is a key component of the potential peace agreement, crucial for global oil and LNG shipments. Watch for confirmation of the blockade's lifting, any proposed tolls or new management structures for the waterway, and the immediate impact on international energy markets and shipping logistics."
       },
       {
-        "title": "Regional and International Reactions to the Peace Deal",
-        "description": "The deal has already drawn criticism from some, like former Israeli minister Liberman, who views it as a 'catastrophe' that leaves ayatollahs in power. Analysts should observe reactions from Israel, Saudi Arabia, and other regional powers, as well as the broader international community. These responses will indicate the deal's perceived success and its potential impact on regional stability and existing alliances."
+        "title": "Future of Iran's Nuclear Program and International Oversight",
+        "description": "Iran's nuclear ambitions remain a central point of contention, with the US seeking negotiations on the matter while Iran denies discussing it. Observe any specific agreements or concessions regarding Iran's uranium enrichment levels, its existing stockpile, and the extent of supervision by the UN nuclear watchdog or other international bodies."
       },
       {
-        "title": "Economic Consequences and Market Adjustments",
-        "description": "The war significantly impacted global markets and fed inflation, putting pressure on central banks like the ECB. The peace deal, particularly the unfreezing of Iranian assets and the reopening of the Strait of Hormuz, will have substantial economic implications. Watch for shifts in global oil prices, trade routes, and the overall economic outlook for Iran and affected nations."
+        "title": "Stability of the Ceasefire and Risk of Renewed Conflict",
+        "description": "A 'tenuous ceasefire' has been in place since early April, but underlying issues and the US threat of 'another way' if diplomacy fails could lead to escalation. Monitor any violations of the ceasefire, shifts in rhetoric from key actors, and military movements that could signal a breakdown in the fragile peace."
       },
       {
-        "title": "Iran's Internal Dynamics Post-Deal",
-        "description": "The war reportedly cemented Iran's control over Hormuz, rewired alliances, and strengthened its institutions. Analysts should monitor for any shifts in Iran's internal power structures, public sentiment, or continued actions like executions for espionage, as the deal's outcome could further entrench the regime or lead to new internal challenges."
+        "title": "Global Economic and Energy Market Adjustments",
+        "description": "The Iran War has significantly impacted global energy prices, bond yields, and various industries worldwide. Even with a peace deal, these economic repercussions may persist. Track trends in fuel prices, bond market performance, and reports from sectors like shipping, aviation, and commodities on their recovery or adaptation to the post-war economic landscape."
+      },
+      {
+        "title": "Evolving Regional Alliances and Geopolitical Influence",
+        "description": "The war has seen shifts in regional power dynamics, with Saudi Arabia gaining influence and Israel feeling sidelined from US-Iran talks. Pay attention to diplomatic actions and statements from regional players like Saudi Arabia and Israel, and how their relationships with the US and Iran evolve in the wake of any peace agreement."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
-      "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 23, 2026 · 22:29 BRT",
-      "pub_date": "2026-05-23",
-      "pub_ts": 1779586179,
-      "summary": "The United States and Israel attacked Iran on Feb. 28, starting a weekslong war that spread to neighboring countries and rocked global markets.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "sentiment_success": true
-    },
-    {
-      "title": "Iran executes person for sending information to US, Israel during war, judiciary says - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-executes-person-sending-information-us-israel-during-war-judiciary-says-2026-05-24/",
+      "title": "Iran and US play down hopes for imminent breakthrough in war - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/rubio-says-us-will-find-another-way-if-iran-talks-fail-2026-05-25/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 24, 2026 · 01:28 BRT",
+      "published": "May 25, 2026 · 02:30 BRT",
+      "pub_date": "2026-05-25",
+      "pub_ts": 1779687000,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Saudi Crown Prince MBS Scores Unexpected Wins During Iran War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/saudi-crown-prince-mbs-scores-unexpected-wins-during-iran-war",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 25, 2026 · 07:00 BRT",
+      "pub_date": "2026-05-25",
+      "pub_ts": 1779703207,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel Set to Cut Rates as Efforts to End to Iran War Advance - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/israel-set-to-cut-rates-as-efforts-to-end-to-iran-war-advance",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 25, 2026 · 00:00 BRT",
+      "pub_date": "2026-05-25",
+      "pub_ts": 1779678000,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel began the Iran war as a partner of the US — and is ending it on the sidelines - The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-began-the-iran-war-as-a-partner-of-the-us-and-is-ending-it-on-the-sidelines/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "May 25, 2026 · 03:35 BRT",
+      "pub_date": "2026-05-25",
+      "pub_ts": 1779690950,
+      "summary": "Netanyahu said the war was meant to halt the Iranian threat and suggested it brought the US and Israel closer than ever. Now Trump is freezing the PM out of talks that may leave that threat intact",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump Says a Deal for Talks With Iran to End War Is Near Finalization - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/trump-announces-near-finalization-of-deal-to-end-iran-war-8244e2f6",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "May 24, 2026 · 08:14 BRT",
       "pub_date": "2026-05-24",
-      "pub_ts": 1779596880,
-      "summary": "",
+      "pub_ts": 1779621240,
+      "summary": "The framework paves the way to reopen the Strait of Hormuz and sets 30 to 60 days to reach a final pact on thorny issues such as Tehran’s nuclear program.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "Asia",
+        "Developing Economies",
+        "Iran",
+        "Middle East",
+        "Middle East and North Africa"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iranian Officials Say Proposed Peace Deal Would Open Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html",
+      "title": "To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 24, 2026 · 03:31 BRT",
+      "published": "May 24, 2026 · 17:48 BRT",
       "pub_date": "2026-05-24",
-      "pub_ts": 1779604261,
-      "summary": "",
+      "pub_ts": 1779655697,
+      "summary": "President Trump is hailing is agreement with Iran as groundbreaking, even as he admits is “isn’t even fully negotiated.” But the nuclear stockpile, enrichment and missiles have not been discussed.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump says framework of Iran deal 'largely negotiated,' with provision to reopen strait - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-iran-report-progress-talks-ending-war-looking-next-few-days-2026-05-23/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 23, 2026 · 19:06 BRT",
-      "pub_date": "2026-05-23",
-      "pub_ts": 1779573989,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz - Reuters",
-      "url": "https://www.reuters.com/world/us/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-2026-05-24/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 23, 2026 · 23:20 BRT",
-      "pub_date": "2026-05-23",
-      "pub_ts": 1779589200,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran Agreed to Give Up Enriched Uranium in Deal Announced by Trump, U.S. Officials Say - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 23, 2026 · 21:56 BRT",
-      "pub_date": "2026-05-23",
-      "pub_ts": 1779584204,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -25989,7 +26014,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-24T11:08:53.253049+00:00",
-  "last_watch_time": "2026-05-24T11:09:02.568053+00:00",
-  "last_relevant_time": "2026-05-24T11:09:04.541106+00:00"
+  "last_digest_time": "2026-05-25T11:08:33.558263+00:00",
+  "last_watch_time": "2026-05-25T11:08:45.379300+00:00",
+  "last_relevant_time": "2026-05-25T11:08:46.161105+00:00"
 }

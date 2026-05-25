@@ -2399,7 +2399,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-24"
+      "pub_date": "2026-05-23"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html": {
       "summary": "",
@@ -14008,7 +14008,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-20"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/iran-war-boosts-us-shale-oil-only-so-much-bousso-2026-05-20/": {
       "summary": "",
@@ -15595,7 +15595,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-23"
+      "pub_date": "2026-05-24"
     },
     "https://www.washingtonpost.com/national-security/2026/05/24/rubio-defends-push-iran-deal-which-trump-says-is-final-stages/": {
       "summary": "",
@@ -15905,6 +15905,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
+    },
+    "https://www.nytimes.com/2026/05/25/us/memorial-day-arlington-national-cemetery.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
+    },
+    "https://www.nytimes.com/2026/05/25/opinion/iran-trolling-propaganda.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

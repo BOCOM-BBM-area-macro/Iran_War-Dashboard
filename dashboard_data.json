@@ -14008,7 +14008,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-20"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/iran-war-boosts-us-shale-oil-only-so-much-bousso-2026-05-20/": {
       "summary": "",
@@ -16155,11 +16155,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-25"
+    },
+    "https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
+    },
+    "https://www.timesofisrael.com/trump-says-mandatory-for-muslim-nations-involved-in-iran-deal-to-join-abraham-accords/": {
+      "summary": "US president urges Pakistan, Saudi Arabia and Qatar to normalize ties with Israel; Saudi source says not without 'irreversible pathway' to Palestinian state",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-25",
-  "last_generated_time": "2026-05-25T22:01:52.905532+00:00",
+  "last_generated_time": "2026-05-25T23:01:57.377601+00:00",
   "digest": {
     "digest": "Recent reports indicate that while President Trump has stated a peace deal with Iran is near finalization, with a framework agreed upon to reopen the Strait of Hormuz within 30 to 60 days, both the US and Iran are downplaying hopes for an imminent breakthrough. Key sticking points remain, including Iran's nuclear program, the release of frozen Iranian funds, and the lifting of sanctions. The US Secretary of State has indicated that diplomacy will be given every chance before exploring alternatives, and that any agreement must be \"good and proper.\" Meanwhile, Israel, which began the war as a US partner, is reportedly being excluded from ongoing talks. The conflict's economic repercussions continue, with bond strategists warning of persistently high yields even if the war ends, and Indian retailers raising fuel prices due to losses. Conversely, some airlines are adding flights as rivals are hampered by the war, and Malaysia reports industrial fallout. The war has also seen an increase in female troop casualties and has impacted Ukraine's geopolitical standing. A tenuous ceasefire has held since early April, but the overall situation remains fragile, with the US strategy to end the conflict falling short of initial expectations.",
     "top_themes": [
@@ -16317,6 +16337,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pYMGprSjVZUlM3ZTUzd1VzZmZqcTgycWJzci1hVlltV0p6Rk95TzB5N3JsMmN3WmNjMW1SMHpoMzdzQkcxcXdjQ3FBNzNyWEdOaXk3c2c0QWV1VHVTX2NNVUhrRHAtTkNrYTFaUHp0b2pQT1p2VlFSR3FQZjFlTDlzRFVDTFhXZnR4YlM4SzlyTEp6dmloeUlLcUlWMVNGblY3MkRSRGhfNFFYQWltY1UtZw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 25, 2026 · 18:36 BRT",
+          "pub_date": "2026-05-25",
+          "pub_ts": 1779744960,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Slides as Ships Move Toward Hormuz - WSJ",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUmhHeFRacXpacmU2MmF0aXFaSHlzZ3UyVW1fMUlqY1A0REctbGI5WTRsc1JkN0x6NFV1QXY1UXRYcGhOXzVMbHVNQmc1cVdVQU9SV0xwUE5VT1JjdnYzR0lzdmx5QnBUaHZNd1pXOVpmSlN5X1B2ZWhmOTE2dzBOWlg0ZzdGRFk?oc=5",

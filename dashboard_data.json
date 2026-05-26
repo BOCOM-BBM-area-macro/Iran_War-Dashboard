@@ -16164,13 +16164,43 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-25"
+      "pub_date": "2026-05-26"
     },
     "https://www.timesofisrael.com/trump-says-mandatory-for-muslim-nations-involved-in-iran-deal-to-join-abraham-accords/": {
       "summary": "US president urges Pakistan, Saudi Arabia and Qatar to normalize ties with Israel; Saudi source says not without 'irreversible pathway' to Palestinian state",
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-25"
+    },
+    "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-26/iran-war-boosts-10-billion-kazakh-rail-plan-linking-eu-to-china": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-26"
+    },
+    "https://www.nytimes.com/2026/05/25/world/middleeast/us-iran-strikes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16337,6 +16367,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RX3J1OVFNWlNsbXF2S1E2elJpdkxUQnhTbkdDTUdhcl96amVGYjIxNGR3RjRndXVjVUdWUVZYMFE4aUp2ZE9UVjNvMFR3b011S2YxV0drV2VPbG1wdldKMDlQaXVsNHd0eFZyVw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 26, 2026 · 01:33 BRT",
+          "pub_date": "2026-05-26",
+          "pub_ts": 1779769980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pYMGprSjVZUlM3ZTUzd1VzZmZqcTgycWJzci1hVlltV0p6Rk95TzB5N3JsMmN3WmNjMW1SMHpoMzdzQkcxcXdjQ3FBNzNyWEdOaXk3c2c0QWV1VHVTX2NNVUhrRHAtTkNrYTFaUHp0b2pQT1p2VlFSR3FQZjFlTDlzRFVDTFhXZnR4YlM4SzlyTEp6dmloeUlLcUlWMVNGblY3MkRSRGhfNFFYQWltY1UtZw?oc=5",
@@ -24897,6 +24941,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Iran war poses new threat to harvests in hunger-stricken Sudan - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFk3eVp3WG5PZ1VfZUpwLWl0ZmNDVFh3LS16RHB1eU9xVVlYOXNqaVlPLXpKOWJsbjA5OGFpNFlURTNRT3BwS1hCS2dqRUV0V083eTJ3QlZMZXk0VVpabkd6OE12TnpJci1wSnRUNjNDbG9mR0IyMjZhMjQyaXVPRnhDb1l5WXNsVU5OSjJoU3pEVjY0c2NudHctM0dXSHlvTnZSVnIwUlc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 25, 2026 · 13:21 BRT",
+          "pub_date": "2026-05-25",
+          "pub_ts": 1779726102,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "EU suspends duties on fertilizers to ease impact of Hormuz crisis on farmers - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpVcUUxX2RPVTMzVjdNOTk2TW9IdkNZcHItR2ZyWjVwUnhYTXV0SWthU05nYV94Mjluek44M0J1THFRZ2ZFRGQ1YThva2dnMXMtNl9qOXdvYzBQd1RFMFZXYjJyRHYzd0M1czFIRzcyUmxJbTY2Ym5rSHpCMk1uSGtoTWxxam1qbE1CX1UteV9ZNWFDRDhKLVhiaTZWa05zanEtNzMwRzJOdw?oc=5",

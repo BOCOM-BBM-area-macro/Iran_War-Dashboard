@@ -16735,130 +16735,83 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-27"
+    },
+    "https://www.ft.com/content/88ec90e1-2927-4cb0-afbf-2df1ca6d53fa?syn-25a6b1a6=1": {
+      "summary": "Vice-president Luis de Guindos says Washington’s volatile trade policies and reduced co-operation also threaten stability",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-26",
-  "last_generated_time": "2026-05-26T23:02:02.467910+00:00",
+  "last_generated_date": "2026-05-27",
+  "last_generated_time": "2026-05-27T08:02:19.065186+00:00",
   "digest": {
-    "digest": "Recent developments indicate escalating tensions between the U.S. and Iran, marked by U.S. military strikes on Iranian targets, including boats and missile launch sites, cited as self-defense measures against threats to American troops. Concurrently, diplomatic efforts to end the conflict are ongoing, with reports suggesting significant progress towards an interim deal, though disagreements on specific terms persist between U.S. and Iranian officials. President Trump has indicated a peace deal is nearing finalization, while acknowledging differing interpretations of its components. The conflict's impact is being felt globally, with a rise in oil prices following the strikes and a clouding of hopes for a peace deal. Economic repercussions are also evident in Europe, with surveys indicating dimmed prospects for German economic recovery, and a potential threat to harvests in Sudan. The war is also influencing broader geopolitical dynamics, with evolving warfare connecting conflicts in Ukraine and Iran, and boosting regional infrastructure projects like a Kazakh rail plan. Discussions regarding Starlink pricing have also emerged amidst the ongoing conflict.",
+    "digest": "Recent developments indicate a complex interplay between diplomatic overtures and military actions concerning Iran. Delegations have gathered in Qatar for talks, while U.S. forces have conducted strikes on Iran's Gulf Coast, prompting threats of retaliation. President Trump has stated that a peace deal is largely negotiated, though details remain unclear and terms are described differently by U.S. and Iranian officials. Simultaneously, Israel plans to intensify attacks against Hezbollah, Iran's ally. The ongoing conflict continues to significantly impact global markets, creating clear winners and losers and dampening economic outlooks, with specific concerns raised about potential financial crises and rising energy bills. China has allowed fresh urea exports amid a fertilizer crisis exacerbated by the war and expressed hope that parties can meet halfway in negotiations. The conflict's dynamics, including drone technology and diplomatic alignments, are being compared to the war in Ukraine, offering insights into future conflict models. Despite some reports suggesting a low possibility of renewed war due to perceived enemy weakness, internal Iranian sentiment indicates a dire psychological state and a desire for resolution.",
     "top_themes": [
-      "US Military Strikes",
-      "Peace Negotiations",
-      "Global Economic Impact"
+      "US-Iran Diplomacy and Strikes",
+      "Global Market Impact",
+      "Geopolitical Realignment"
     ],
     "next_events": [
       {
-        "title": "Escalation of US-Iran Military Engagements",
-        "description": "The U.S. has conducted multiple 'self-defense strikes' against targets in Iran, including boats and missile sites, even as peace talks are underway. Analysts should monitor for further U.S. military actions, potential Iranian retaliation, and any expansion of the conflict zone, as these directly impact regional stability and the prospects for peace."
+        "title": "US-Iran Military Escalation and Retaliation Cycle",
+        "description": "Recent US strikes on Iran's Gulf Coast and subsequent Iranian threats of retaliation indicate a volatile military dynamic. Analysts should watch for any further direct military actions, counter-strikes, or proxy engagements that could escalate tensions beyond current levels."
       },
       {
-        "title": "Progress and Terms of the Iran Peace Deal",
-        "description": "Despite escalating tensions and U.S. strikes, negotiations to end the war are ongoing in Qatar, with some officials suggesting a deal is 'near' or could take 'days.' Watch for official announcements regarding the terms of any agreement, the resolution of disagreements between parties, and whether a deal can effectively de-escalate the conflict."
+        "title": "Progress of US-Iran Peace Negotiations",
+        "description": "Despite military tensions, reports suggest a peace agreement is 'largely negotiated' with ongoing talks in Qatar. It is crucial to monitor official statements from both the US and Iran regarding the terms and progress of these negotiations, as well as any discrepancies in their descriptions of the deal."
+      },
+      {
+        "title": "Regional Spillover and Hezbollah Activity",
+        "description": "Israel's stated intention to intensify attacks against Hezbollah, an Iranian ally in Lebanon, poses a significant risk of regional escalation. Analysts should observe any increased military activity between Israel and Hezbollah, as this could draw Iran further into direct or proxy conflict."
       },
       {
         "title": "Global Economic and Market Impacts",
-        "description": "The Iran war is already impacting global oil prices, dimming hopes for economic recovery in Germany, affecting housing markets, and influencing European stocks. Analysts should track commodity price volatility, shifts in global trade routes (like the Kazakh rail plan), and the overall impact on international economic stability as the conflict evolves."
+        "description": "The Iran situation is already impacting global markets, energy prices, and even fertilizer supplies, with warnings of a potential financial crisis. Watch for shifts in commodity prices, stock market volatility, and central bank responses, particularly concerning energy bills and broader economic stability."
       },
       {
-        "title": "Regional Geopolitical Realignment and Humanitarian Fallout",
-        "description": "Iran's leadership suggests the Middle East is irrevocably changed by the war, and the conflict is linked to broader evolving warfare dynamics, including the Ukraine conflict. Monitor for shifts in regional alliances, the potential for humanitarian crises (e.g., Sudan's harvests), and how the conflict reshapes the geopolitical landscape of the wider Middle East."
+        "title": "Internal Iranian Political and Social Dynamics",
+        "description": "Conflicting reports suggest both a low possibility of renewed war from Iranian officials and a desperate public yearning for external intervention. Monitoring internal dissent, public protests, and statements from key Iranian figures will provide insight into the regime's stability and potential policy shifts."
       },
       {
-        "title": "Information Warfare and Technological Disputes",
-        "description": "The conflict has highlighted aspects of information warfare and disputes over critical technologies, such as the Pentagon's sparring with SpaceX over Starlink pricing. Analysts should watch for developments in cyber warfare, propaganda campaigns, and the role of private technology companies in supporting or hindering military operations."
+        "title": "Impact on US-Israel Relations",
+        "description": "Concerns have been raised that the ongoing Iran war could damage long-term Israel-US ties. Analysts should observe any public or diplomatic disagreements between the two allies regarding strategy or outcomes, as this could signal a shift in regional alliances."
       }
     ]
   },
   "relevant_news": [
-    {
-      "title": "U.S. strikes targets in Iran, citing threats posed to American troops - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 26, 2026 · 08:55 BRT",
-      "pub_date": "2026-05-26",
-      "pub_ts": 1779796540,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
     {
       "title": "As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast - The New York Times",
       "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 26, 2026 · 07:36 BRT",
-      "pub_date": "2026-05-26",
-      "pub_ts": 1779791760,
-      "summary": "",
+      "published": "May 27, 2026 · 06:51 BRT",
+      "pub_date": "2026-05-27",
+      "pub_ts": 1779875460,
+      "summary": "Iranian officials went to Doha on Monday for the negotiations, hours before the U.S. military announced the strikes it said were intended to protect troops. Israel’s leader said his country plans to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 26, 2026 · 04:52 BRT",
-      "pub_date": "2026-05-26",
-      "pub_ts": 1779781937,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Video: Efforts to End the War Continue as Tensions Between the U.S. and Iran Escalate - The New York Times",
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010925397/iran-war-talks-negotiations-strikes.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 26, 2026 · 09:54 BRT",
-      "pub_date": "2026-05-26",
-      "pub_ts": 1779800044,
-      "summary": "Secretary of State Marco Rubio said Tuesday that negotiations to end the war in Iran were continuing. His comments came after the United States conducted what it said were “self-defense strikes” in southern Iran.",
-      "tags": [
-        "Marco Rubio",
-        "Iran",
-        "US",
-        "US and Israeli Attack on Iran",
-        "US Foreign Policy"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "Efforts\nto\nEnd\nthe\nWar\nContinue\nas\nTensions\nBetween\nthe\nU.S.\nand\nIran\nEscalate\n-\nThe\nNew\nYork\nTimes\nnew\nvideo\nloaded:\nEfforts\nto\nEnd\nthe\nWar\nContinue\nas\nTensions\nBetween\nthe\nU.S.\nand\nIran\nEscalate\ntranscript\nEfforts\nto\nEnd\nthe\nWar\nContinue\nas\nTensions\nBetween\nthe\nU.S.\nand\nIran\nEscalate\nSecretary\nof\nState\nMarco\nRubio\nsaid\nTuesday\nthat\nnegotiations\nto\nend\nthe\nwar\nin\nIran\nwere\ncontinuing.\nHis\ncomments\ncame\nafter\nthe\nUnited\nStates\nconducted\nwhat\nit\nsaid\nwere\n“self-defense\nstrikes”\nin\nsouthern\nIran.\nI\nthink,\nlike\nanything\nwith\nsomething\nlike\nthis,\nit’s\ngoing\nto\ntake\na\ncouple\nof\ndays\nto\nsettle\non,\neven\ndown\nto\nthe\ndisagreements\nover\na\nword,\na\nsentence.\nSo\nwe’ll\nhave\nto\nwork\nthrough\nthat.\nIf\nthere’s\ngoing\nto\nbe\na\ndeal,\nwe’re\ngoing\nto\nhave\nto\nwork\nthrough\nthat.\nWatch\nToday’s\nVideos\nMore\nin\nMiddle\nEast\n›\nSecretary\nRubio\nSays\nU.S.\nMade\n‘Significant\nProgress’\nToward\nInterim\nDeal\nwith\nIran\n1:06\nVideo\nShows\nIsraeli\nMinister\nTaunting\nDetained\nPro-Palestinian\nActivists\n2:09\nTop\nU.S.\nCommander\nDismisses\nReports\nof\nCivilian\nDeaths\nin\nIran\n2:03\nTrump\nCalls\nIran’s\nCounterproposal\na\n‘Piece\nof\nGarbage’\n1:17\nIranian\nPropaganda\nvs.\nU.S.\nTalking\nPoints:\nHow\nWe\nDetermined\nthe\nReal\nDamage\nto\nU.S.\nMilitary\nBases\n5:41\nTrump\nDismisses\nIran’s\nStrikes\nas\na\n‘Trifle’\n0:51\nVideo\n›\nToday's\nVideos\nU.S.\nPolitics\nImmigration\nNY\nRegion\nScience\nBusiness\nCulture\nBooks\nWellness\nWorld\nAfrica\nAmericas\nAsia\nSouth\nAsia\nDonald\nTrump\nMiddle\nEast\nCrisis\nRussia-Ukraine\nCrisis\nVisual\nInvestigations\nOpinion\nVideo\nAdvertisement\nSKIP\nADVERTISEMENT",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran war poses new threat to harvests in hunger-stricken Sudan - Reuters",
-      "url": "https://www.reuters.com/world/africa/iran-war-poses-new-threat-harvests-hunger-stricken-sudan-2026-05-25/",
+      "title": "China allows fresh urea exports amid Iran war-fuelled fertiliser crisis, sources say - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-allows-fresh-urea-exports-amid-iran-war-fuelled-fertiliser-crisis-sources-2026-05-27/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 25, 2026 · 13:21 BRT",
-      "pub_date": "2026-05-25",
-      "pub_ts": 1779726102,
+      "published": "May 27, 2026 · 04:45 BRT",
+      "pub_date": "2026-05-27",
+      "pub_ts": 1779867900,
       "summary": "",
       "tags": [
         "extracted",
@@ -16870,14 +16823,70 @@
       "sentiment_success": false
     },
     {
-      "title": "US military strikes Iranian boats, missile launch sites: CENTCOM - Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-military-strikes-iranian-boats-missile-launch-sites-centcom-2026-05-25/",
+      "title": "Iran threatens retaliation after U.S. strikes in southern Iran - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "May 26, 2026 · 15:58 BRT",
+      "pub_date": "2026-05-26",
+      "pub_ts": 1779821910,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Threatens to Renew Strikes Against U.S. Amid Push for Diplomatic Deal - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-threats-strikes-us-ceasefire.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 26, 2026 · 17:58 BRT",
+      "pub_date": "2026-05-26",
+      "pub_ts": 1779829134,
+      "summary": "The warnings came after U.S. forces struck military sites in Iran. Secretary of State Marco Rubio said on Tuesday that negotiations to end the war were continuing.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Energy bills in Britain to jump 13% on impact of Iran war - Reuters",
+      "url": "https://www.reuters.com/business/energy/uks-ofgem-raise-energy-price-cap-13-gas-costs-climb-2026-05-27/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 25, 2026 · 20:15 BRT",
-      "pub_date": "2026-05-25",
-      "pub_ts": 1779750903,
+      "published": "May 27, 2026 · 07:03 BRT",
+      "pub_date": "2026-05-27",
+      "pub_ts": 1779876232,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "What's involved in talks to end the Iran war? - Reuters",
+      "url": "https://www.reuters.com/world/china/whats-involved-talks-end-iran-war-2026-05-26/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 26, 2026 · 08:40 BRT",
+      "pub_date": "2026-05-26",
+      "pub_ts": 1779795614,
       "summary": "",
       "tags": [
         "extracted",
@@ -27163,7 +27172,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-26T13:08:26.788762+00:00",
-  "last_watch_time": "2026-05-26T13:08:34.888310+00:00",
-  "last_relevant_time": "2026-05-26T13:08:37.361592+00:00"
+  "last_digest_time": "2026-05-27T11:09:00.912122+00:00",
+  "last_watch_time": "2026-05-27T11:09:11.867253+00:00",
+  "last_relevant_time": "2026-05-27T11:09:12.580760+00:00"
 }

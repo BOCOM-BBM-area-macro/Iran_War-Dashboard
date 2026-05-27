@@ -16670,6 +16670,71 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-27"
+    },
+    "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.jpost.com/israel-news/article-897466": {
+      "summary": "“Right now, it is clear that we are heading toward a very long ceasefire,” Shelah said. “I highly doubt anyone will break it, certainly not the Americans.\"",
+      "tags": [
+        "iran israel war",
+        "Donald Trump",
+        "Trump Administration",
+        "ceasefire",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.reuters.com/world/india/india-rice-exports-decline-iran-war-curbs-basmati-shipments-gulf-2026-05-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-897472": {
+      "summary": "“The people of Iran are in a very bad psychological state and have little hope for the future,” Z., an older Iranian professional, wrote.",
+      "tags": [
+        "Iran",
+        "Israel Iran War",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.reuters.com/business/energy/uks-ofgem-raise-energy-price-cap-13-gas-costs-climb-2026-05-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
     }
   },
   "last_run_success": true,
@@ -16831,6 +16896,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war splits global markets into clear winners and losers - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3JBNm9iSW1POHNTQjJuVUFsOWFMSEU2T1ZLSEpQRHhPNkc3WWV5WEM2Z1ZBd1BTeTl3ZzVITEg4VjFsd0hGb1pzRG94N1E0STQwUTRVZnh6cDRYUGVuRUxJODAwelh4V0FJVmdBbFd1SWF4RnNSb1JaR3VvQW5JQl96bVBHLVpD?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 05:58 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779872281,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Breakingviews - Iran war deals blow to global markets’ ‘Gulf put’ - Reuters",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMlhfMkVFQXlOMjFCcGx0RXdUSEZpc2NrTkxWRTF6cnBrQlpYWFlqTFFvcHROdFhFZkl6UTZjVUttaWFQRVZUN3JSV0xJakJCVXRBLTRsQlYyNmczbU9HNWJGYVRUbHhFWjZ4YzFXdWhNbXdhWEt5LU14NmtYUVUybHp1dFFGSm9JRjl1M2FYM2pyYXVxNzhJ?oc=5",
@@ -22932,6 +23011,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Energy bills in Britain to jump 13% on impact of Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU09xbER6aTRzTVV0MW16TkZIQUxzQWY3ZGtaSmNHdkNKanlOQ2FmT1FkOE5oeTNjelZqMVBsbmxuQTVkQUMwUEpEcElFTzM0MHNjVjNFcGZ5bkptU0hMNVdySkNVMm9zdHd0Mnlxa0JacFBEYzd6WkdaYmc0QVhlOFU5M2ExY1B1dDU5VC0zU29aMXpEWGVOdm8yNm9HcUhnOGpVdC1B?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 03:09 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779862140,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "UK Energy Price Cap Rises 13% as Iran War Drives Up Costs - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM25tYVVxYVhMSWVwNXo4cWY0Um9GWEZXcndDRnl1TGVoMzR5MzhmUmo0VWRUdkdUaEkwcnpUZmZKQUtzVDVDODRvM2hhbnBrZFB2R2c5SVEzU19vQWMzclp1QVVFNVRGUGRVR2owOEswY3RGeUN5dTQ0ZTEwY1QxQmFBbUJDeUdqRU5tcExxazgyZTltcVk4V2QxSDd5Sk1aaEdVcnBXM3NHV00?oc=5",
           "source": "Bloomberg.com",
@@ -22940,6 +23033,20 @@
           "published": "May 27, 2026 · 03:04 BRT",
           "pub_date": "2026-05-27",
           "pub_ts": 1779861840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US and Thailand speed LNG talks as war hits Qatar exports, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamRPSE45WDkwSkpwWmI3MlJuaEFTeUswdjRibnJ1QkdrTUNfMEJUeE1oRUgxLURCTzMyVmlTOU4zTEJCb2NXVkkyVWl4WV9OQlJhQ3pKZTFBN2RkVUFqRVYyS0tWMnJncXNMNF9MZUxMcDNWQ0xpSW8tQkxWNjZNc29VSXRtNjhwMDN3enA1WEFWU3NTMlhHZ0JjQU10dGY4U1RpVy1NRFpOa0NRWnNCZUFxOC0?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 26, 2026 · 18:06 BRT",
+          "pub_date": "2026-05-26",
+          "pub_ts": 1779829569,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

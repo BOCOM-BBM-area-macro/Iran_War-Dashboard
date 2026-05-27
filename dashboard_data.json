@@ -15668,7 +15668,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-26"
+      "pub_date": "2026-05-27"
     },
     "https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html": {
       "summary": "Iran’s leaders argue that the possible preliminary agreement has not extracted any major concessions.",
@@ -15881,7 +15881,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-26"
+      "pub_date": "2026-05-25"
     },
     "https://www.timesofisrael.com/awaiting-deal-in-iran-war-british-navy-prepares-to-clear-mines-in-strait-of-hormuz/": {
       "summary": "Hundreds of British sailors in Gibraltar are getting ready to secure the vital oil pathway alongside France after US-Iran deal inked; clearing entire strait could take years",
@@ -16767,10 +16767,13 @@
       "pub_date": "2026-05-27"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-27/iran-war-pollution-spread-across-thousands-of-miles-research": {
-      "summary": "",
+      "summary": "Fires at oil facilities in March produced a plume the size of Italy.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "War",
+        "Iran",
+        "Generic 1st 'CL' Future",
+        "SPREAD",
+        "Tehran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16815,11 +16818,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-27"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/white-house-iranian-report-on-contents-of-deal-to-end-war-is-a-complete-fabrication/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.reuters.com/business/canada-turns-us-europe-iran-war-propels-aluminium-higher-2026-05-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-27",
-  "last_generated_time": "2026-05-27T12:02:10.210877+00:00",
+  "last_generated_time": "2026-05-27T13:02:11.660496+00:00",
   "digest": {
     "digest": "Recent developments indicate a complex interplay between diplomatic overtures and military actions concerning Iran. Delegations have gathered in Qatar for talks, while U.S. forces have conducted strikes on Iran's Gulf Coast, prompting threats of retaliation. President Trump has stated that a peace deal is largely negotiated, though details remain unclear and terms are described differently by U.S. and Iranian officials. Simultaneously, Israel plans to intensify attacks against Hezbollah, Iran's ally. The ongoing conflict continues to significantly impact global markets, creating clear winners and losers and dampening economic outlooks, with specific concerns raised about potential financial crises and rising energy bills. China has allowed fresh urea exports amid a fertilizer crisis exacerbated by the war and expressed hope that parties can meet halfway in negotiations. The conflict's dynamics, including drone technology and diplomatic alignments, are being compared to the war in Ukraine, offering insights into future conflict models. Despite some reports suggesting a low possibility of renewed war due to perceived enemy weakness, internal Iranian sentiment indicates a dire psychological state and a desire for resolution.",
     "top_themes": [
@@ -16975,6 +17008,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Treasuries Rise as Oil Prices Drop on Signs of US-Iran Accord - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd214RVJwd3Y1dXNFOFFUWEZPTng3eGlpX211R3NhZ1luQl9BbWJmMXVLdURMdzBMOTdlMl9PZ3NEa05tMUlqTUlGRUFXYkZaczVEMWRZb0NNR0l6QWdhLVpBbG81OFJ3WjF4V09RRmVTdzlSb3RSYmF1OU0tbjhqTGZHRUZFa0xrUkF2V0FmakUwZVI4R3h0Z0FqR0g2UG5tYnA4UTRQRmNCdnFONFdvV0tn?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 10:48 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779889680,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Pollution Spread Across Thousands of Miles, Research - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDk0NUlUMndiRlRDalRFU3ZvRFRBbW9KRFFWMmpIcXl3b096VW1fN1laTUZzcFpUOWE3M2hkUG42bjBuejluZ2RPSlA1Z2tudzFCLU5VVWVtN2phaGc4NktkSW1QR1VkLXdjMHFMTlVySkd3cXJFekozd05YbFctV05zMERNWVBVdFBoU240QWlpb09VYjJUQllpTlMyazFURWFoc2dpTjRGM0tHUlkwSXhQWms?oc=5",
@@ -26750,6 +26797,20 @@
       "theme": "Aluminum",
       "articles": [
         {
+          "title": "Canada turns from US to Europe as Iran war propels aluminium higher - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkZrQ0NqN3JkQ0gzX3pEYmE3T3Y5Nlh6d1Fwd2xIRjJZOE9ZN3B5MWstSzZ5SzliRVVpN2RjS2VxS0lBRHVVMzh2WEh1azFIbEotaTBzOGFKMTZHbmpQTFlEenFOaTJvdHc1ZzlZUDVSX2NhLXljaHRuTHBMRk5PY2FWVHBNYS1EUS1YaTRmM0ZwQzhpMGNWRnVqUTI2MUFhS1Zr?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 12:32 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779895945,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Aluminium price spike from Mideast war fans costs for US solar industry - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHRsWko2VVVmNGI0OG1sTTlVdHhiRVFvYUNvNDgyMWx5WTVwUTVLLVpPUmxfNC1HeXd5dmRnTHMyVjJxbXhjMTBydWhoVzRBUGJvY3hvMWwwMk5XWDJqMWt5X3lyeHBuV1lwbV9jVmVyRTZRWmtkQS1XVktZYTR1QnZWcDBMOUtUaFFKSDFtUDN1TThrVzhad1dOeFlnVUJEQ1dYejl2a0hxcnVhWVJhSEhtUDU?oc=5",
           "source": "Reuters",
@@ -26800,6 +26861,20 @@
           "published": "May 26, 2026 · 23:21 BRT",
           "pub_date": "2026-05-26",
           "pub_ts": 1779848460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gold falls to two-month low as war-driven inflation fuels rate-hike bets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVZfYzNvRXo1cFItQS1KWHIxUHZ0eC1Cck8wZklZcGtFVC1Fal9GSjR2VnBYN1NxdTBsYWpwQ0Y4cjNtMkJKSkM1NnhvaURtdUFPTGg3Ym9nX0YwRHJXZnU4ODBObjhFQll0c3kwWEJYcUlTWWxwMGVjVk9MdUstNC1GSWZkYV9XUWJoNTQyUzktZTJibDdnMDFMOTVwZzJ3U1pYVGNDWVBPSXppSDZqVA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 26, 2026 · 22:20 BRT",
+          "pub_date": "2026-05-26",
+          "pub_ts": 1779844800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

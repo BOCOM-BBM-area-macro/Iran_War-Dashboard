@@ -16536,7 +16536,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-27"
+      "pub_date": "2026-05-26"
     },
     "https://www.reuters.com/world/asia-pacific/yen-hovers-near-intervention-zone-traders-assess-iran-war-outlook-2026-05-27/": {
       "summary": "",
@@ -16755,11 +16755,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-27"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-says-it-received-initial-draft-of-us-framework-to-end-war-reopen-strait-of-hormuz/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-05-27/iran-war-pollution-spread-across-thousands-of-miles-research": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-27/european-stocks-near-record-as-tech-rallies-oil-prices-ease": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
+    },
+    "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-27",
-  "last_generated_time": "2026-05-27T10:02:29.791222+00:00",
+  "last_generated_time": "2026-05-27T11:02:14.028866+00:00",
   "digest": {
     "digest": "Recent developments indicate a complex interplay between diplomatic overtures and military actions concerning Iran. Delegations have gathered in Qatar for talks, while U.S. forces have conducted strikes on Iran's Gulf Coast, prompting threats of retaliation. President Trump has stated that a peace deal is largely negotiated, though details remain unclear and terms are described differently by U.S. and Iranian officials. Simultaneously, Israel plans to intensify attacks against Hezbollah, Iran's ally. The ongoing conflict continues to significantly impact global markets, creating clear winners and losers and dampening economic outlooks, with specific concerns raised about potential financial crises and rising energy bills. China has allowed fresh urea exports amid a fertilizer crisis exacerbated by the war and expressed hope that parties can meet halfway in negotiations. The conflict's dynamics, including drone technology and diplomatic alignments, are being compared to the war in Ukraine, offering insights into future conflict models. Despite some reports suggesting a low possibility of renewed war due to perceived enemy weakness, internal Iranian sentiment indicates a dire psychological state and a desire for resolution.",
     "top_themes": [
@@ -26661,6 +26701,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Aluminium price spike from Mideast war fans costs for US solar industry - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHRsWko2VVVmNGI0OG1sTTlVdHhiRVFvYUNvNDgyMWx5WTVwUTVLLVpPUmxfNC1HeXd5dmRnTHMyVjJxbXhjMTBydWhoVzRBUGJvY3hvMWwwMk5XWDJqMWt5X3lyeHBuV1lwbV9jVmVyRTZRWmtkQS1XVktZYTR1QnZWcDBMOUtUaFFKSDFtUDN1TThrVzhad1dOeFlnVUJEQ1dYejl2a0hxcnVhWVJhSEhtUDU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 10:06 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779887169,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Global Aluminum Rally Could Draw Record Exports From China - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNDZtclBQbXFMbTNNUXhxYmxsT1dnalpjQWctVVZ5R3NoZUprSWhqUEx4OFdpQkFMRkFXMEtrUkNhbExjR0ZiVUJfR2tQRHRYMmxrcEpJdTkybUFxNE5hdFpYY3FpcEZ2VkVDRC1ELXNBdkF3U29XX1lLVUd0eXYtMXZaRmJoeEdzU0RnNkpCQVd3WFhPNVNST05Db1lqbnYzN1hMNXRLeTZwV215UUs1TjlXU282ZDgwSC1GeEpaQWhBU01nUFZnQnZ3RQ?oc=5",

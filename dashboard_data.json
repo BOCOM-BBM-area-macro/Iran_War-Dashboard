@@ -17043,7 +17043,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-27"
+      "pub_date": "2026-05-28"
     },
     "https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html": {
       "summary": "President Trump held out hope for a peace agreement, but said high oil prices would not force his hand.",
@@ -17249,11 +17249,57 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-28"
+    },
+    "https://www.axios.com/2026/05/28/iran-peace-deal-trump-approval": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-897675": {
+      "summary": "Thousands of Israelis lost their homes in the Iran conflict, with 683 wounded and 24 killed, as the IDF Home Front worked across over 1,300 damaged sites.",
+      "tags": [
+        "Israel",
+        "IDF",
+        "Iran",
+        "Home Front Command",
+        "missile attacks"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-897678": {
+      "summary": "According to the IDF, all indications are that Trump's Iran deal will largely or completely ignore the ballistic missile issue.",
+      "tags": [
+        "Iran",
+        "Home Front Command",
+        "iran israel war",
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.washingtonpost.com/national-security/2026/05/28/us-iran-trade-strikes-trump-cites-no-pressure-peace-deal/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-28",
-  "last_generated_time": "2026-05-28T11:02:04.091770+00:00",
+  "last_generated_time": "2026-05-28T12:02:13.690700+00:00",
   "digest": {
     "digest": "The United States has conducted new military strikes against Iran, targeting military sites including a ground control station and drones, with officials stating these actions were in response to perceived threats and intended to protect troops. Iran has warned of retaliation following these strikes, particularly those near the Strait of Hormuz. Amidst these escalations, diplomatic engagements are occurring, with Iranian delegations gathering in Qatar for talks. Reports suggest a potential draft deal that could reopen Hormuz shipping and end a naval blockade, though President Trump has dismissed reports of a Hormuz deal and maintains his maximum demands, stating he does not fear political fallout from a prolonged conflict. The ongoing conflict is also noted to be driving a multi-year missile defense gap and has caused jitters in global markets, leading to a five-week low for Bitcoin amid ETF outflows. Some reports indicate that certain entities, such as Brunei, are not experiencing losses from the war, while Lebanese populations appear resigned to a protracted conflict regardless of a potential US-Iran agreement. There are also indications of internal sentiment within Iran, with some individuals expressing a desire for a return to war due to a perceived bad psychological state and lack of hope.",
     "top_themes": [
@@ -25447,6 +25493,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Baton Rouge to Melbourne: Iran war and rising prices upend jet fuel trade - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWhHVFZyUHM5WFVsd1AtbmJiODRuWDJjWHBuZVFERVU3UnlmUERHOEJ0cHRUQy1OYklLX0ItdDdxSlJ2cEJtWFRVdU1EXzJKZzlCV2xMcXZDblZiNUhzdER1Tnk2LVp1MUxIck5KTnhmTHN1bHUyRXhraXNJOFltVS1zeW42TTlOeG1FQnNOTHdPd1hJVzNmajdSRDU4N1dnN1ZybHRxWC1zTWxTcUNWeHpnRF83U3Z0?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 28, 2026 · 10:42 BRT",
+          "pub_date": "2026-05-28",
+          "pub_ts": 1779975720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Northeast Asia ships first jet fuel to Europe since Iran war, sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2ROZVpBVnRSc0xsV0QyS2piUHdVRnYwU2F0NWYxYW5aX0pLanBud3hUQ2FMV3BhdDk1Nkt5dDdCNWVYd01QT1hXeFFWcFN5VGZVU3dmOHY1LTZzUDhWYmVIRDFGWkNxdTVRSHM3NUhzd1h0RmZJNkNqdmpCeWd5TkFsUkJEY1pQTWR0a0tSc3BRYW5nNW5QMml4NGRRaGt3UXhVVGpsQkhaUkNDM29FVnBWOUl0SXJnYll3c3hR?oc=5",

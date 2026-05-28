@@ -16536,7 +16536,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-26"
+      "pub_date": "2026-05-27"
     },
     "https://www.reuters.com/world/asia-pacific/yen-hovers-near-intervention-zone-traders-assess-iran-war-outlook-2026-05-27/": {
       "summary": "",
@@ -17043,7 +17043,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-27"
     },
     "https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html": {
       "summary": "President Trump held out hope for a peace agreement, but said high oil prices would not force his hand.",
@@ -17166,56 +17166,96 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-28"
+    },
+    "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-war-deal-iran-us.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-27"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-27",
-  "last_generated_time": "2026-05-27T23:01:57.491296+00:00",
+  "last_generated_date": "2026-05-28",
+  "last_generated_time": "2026-05-28T08:02:05.327061+00:00",
   "digest": {
-    "digest": "Recent developments indicate a complex interplay between diplomatic overtures and military actions concerning Iran. Delegations have gathered in Qatar for talks, while U.S. forces have conducted strikes on Iran's Gulf Coast, prompting threats of retaliation. President Trump has stated that a peace deal is largely negotiated, though details remain unclear and terms are described differently by U.S. and Iranian officials. Simultaneously, Israel plans to intensify attacks against Hezbollah, Iran's ally. The ongoing conflict continues to significantly impact global markets, creating clear winners and losers and dampening economic outlooks, with specific concerns raised about potential financial crises and rising energy bills. China has allowed fresh urea exports amid a fertilizer crisis exacerbated by the war and expressed hope that parties can meet halfway in negotiations. The conflict's dynamics, including drone technology and diplomatic alignments, are being compared to the war in Ukraine, offering insights into future conflict models. Despite some reports suggesting a low possibility of renewed war due to perceived enemy weakness, internal Iranian sentiment indicates a dire psychological state and a desire for resolution.",
+    "digest": "The United States has conducted new military strikes against Iran, targeting military sites including a ground control station and drones, with officials stating these actions were in response to perceived threats and intended to protect troops. Iran has warned of retaliation following these strikes, particularly those near the Strait of Hormuz. Amidst these escalations, diplomatic engagements are occurring, with Iranian delegations gathering in Qatar for talks. Reports suggest a potential draft deal that could reopen Hormuz shipping and end a naval blockade, though President Trump has dismissed reports of a Hormuz deal and maintains his maximum demands, stating he does not fear political fallout from a prolonged conflict. The ongoing conflict is also noted to be driving a multi-year missile defense gap and has caused jitters in global markets, leading to a five-week low for Bitcoin amid ETF outflows. Some reports indicate that certain entities, such as Brunei, are not experiencing losses from the war, while Lebanese populations appear resigned to a protracted conflict regardless of a potential US-Iran agreement. There are also indications of internal sentiment within Iran, with some individuals expressing a desire for a return to war due to a perceived bad psychological state and lack of hope.",
     "top_themes": [
-      "US-Iran Diplomacy and Strikes",
-      "Global Market Impact",
-      "Geopolitical Realignment"
+      "US Military Strikes on Iran",
+      "Iran-US Clashes and Retaliation",
+      "Peace Talks and Diplomatic Engagements",
+      "Impact on Global Markets and Shipping"
     ],
     "next_events": [
       {
-        "title": "US-Iran Military Escalation and Retaliation Cycle",
-        "description": "Recent US strikes on Iran's Gulf Coast and subsequent Iranian threats of retaliation indicate a volatile military dynamic. Analysts should watch for any further direct military actions, counter-strikes, or proxy engagements that could escalate tensions beyond current levels."
+        "title": "Escalation of Direct Military Confrontations",
+        "description": "The U.S. has conducted multiple strikes on Iranian military sites and drones, with Iran warning of retaliation. Analysts should monitor for further direct military engagements, the types of targets chosen, and any shifts in rules of engagement, as these actions could quickly lead to a broader conflict."
       },
       {
-        "title": "Progress of US-Iran Peace Negotiations",
-        "description": "Despite military tensions, reports suggest a peace agreement is 'largely negotiated' with ongoing talks in Qatar. It is crucial to monitor official statements from both the US and Iran regarding the terms and progress of these negotiations, as well as any discrepancies in their descriptions of the deal."
+        "title": "Progress and Outcome of Peace Negotiations",
+        "description": "Despite ongoing clashes, reports indicate peace talks and a potential draft deal regarding the Strait of Hormuz. Watch for any concrete agreements, especially concerning shipping lanes, or a complete breakdown of negotiations, which would signal a prolonged period of tension and potential conflict."
       },
       {
-        "title": "Regional Spillover and Hezbollah Activity",
-        "description": "Israel's stated intention to intensify attacks against Hezbollah, an Iranian ally in Lebanon, poses a significant risk of regional escalation. Analysts should observe any increased military activity between Israel and Hezbollah, as this could draw Iran further into direct or proxy conflict."
+        "title": "Intensification of Regional Proxy Conflicts",
+        "description": "Israel's stated intent to intensify attacks against Hezbollah in Lebanon, an Iranian ally, suggests a potential widening of the conflict beyond direct US-Iran engagements. Analysts should observe any increase in activity or new fronts opening in proxy conflicts involving Iran's regional partners."
       },
       {
-        "title": "Global Economic and Market Impacts",
-        "description": "The Iran situation is already impacting global markets, energy prices, and even fertilizer supplies, with warnings of a potential financial crisis. Watch for shifts in commodity prices, stock market volatility, and central bank responses, particularly concerning energy bills and broader economic stability."
+        "title": "Security and Status of the Strait of Hormuz",
+        "description": "The Strait of Hormuz remains a critical flashpoint, with discussions around reopening shipping and ending naval blockades. Any changes to its accessibility or security, whether through military action or diplomatic agreement, will have significant global economic and strategic implications."
       },
       {
-        "title": "Internal Iranian Political and Social Dynamics",
-        "description": "Conflicting reports suggest both a low possibility of renewed war from Iranian officials and a desperate public yearning for external intervention. Monitoring internal dissent, public protests, and statements from key Iranian figures will provide insight into the regime's stability and potential policy shifts."
+        "title": "Internal Iranian Public Sentiment and Stability",
+        "description": "Reports suggest a dire psychological state among Iranians, with some expressing a desire for a return to war. Monitor for any signs of increased internal dissent, protests, or shifts in public opinion, as these could influence the Iranian regime's decisions and overall stability."
       },
       {
-        "title": "Impact on US-Israel Relations",
-        "description": "Concerns have been raised that the ongoing Iran war could damage long-term Israel-US ties. Analysts should observe any public or diplomatic disagreements between the two allies regarding strategy or outcomes, as this could signal a shift in regional alliances."
+        "title": "U.S. Administration's Evolving Stance on a Deal",
+        "description": "President Trump has expressed a lack of political pressure to make a deal and maintains 'maximum demands.' Watch for any shifts in the U.S. administration's rhetoric or policy, particularly regarding willingness to compromise or escalate, as this will heavily dictate the trajectory of the conflict."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
+      "title": "U.S. Military Conducts New Strikes on Iran - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/u-s-military-conducts-new-strikes-on-iran-416f76cf",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "May 28, 2026 · 01:03 BRT",
+      "pub_date": "2026-05-28",
+      "pub_ts": 1779940980,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 27, 2026 · 06:51 BRT",
+      "published": "May 27, 2026 · 16:17 BRT",
       "pub_date": "2026-05-27",
-      "pub_ts": 1779875460,
-      "summary": "Iranian officials went to Doha on Monday for the negotiations, hours before the U.S. military announced the strikes it said were intended to protect troops. Israel’s leader said his country plans to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.",
+      "pub_ts": 1779909420,
+      "summary": "Iran has warned that it would retaliate after American military forces attacked sites near the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -17225,33 +17265,14 @@
       "sentiment_success": false
     },
     {
-      "title": "China allows fresh urea exports amid Iran war-fuelled fertiliser crisis, sources say - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/china-allows-fresh-urea-exports-amid-iran-war-fuelled-fertiliser-crisis-sources-2026-05-27/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 27, 2026 · 04:45 BRT",
-      "pub_date": "2026-05-27",
-      "pub_ts": 1779867900,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran threatens retaliation after U.S. strikes in southern Iran - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/",
+      "title": "U.S. and Iran trade fresh strikes as Trump holds to maximum demands - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 26, 2026 · 15:58 BRT",
-      "pub_date": "2026-05-26",
-      "pub_ts": 1779821910,
+      "published": "May 28, 2026 · 07:31 BRT",
+      "pub_date": "2026-05-28",
+      "pub_ts": 1779964313,
       "summary": "",
       "tags": [
         "extracted",
@@ -17263,59 +17284,59 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran Threatens to Renew Strikes Against U.S. Amid Push for Diplomatic Deal - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-threats-strikes-us-ceasefire.html",
+      "title": "Trump Says He Doesn’t Fear Political Fallout From Prolonged War With Iran - WSJ",
+      "url": "https://www.wsj.com/politics/policy/trump-says-iran-has-misjudged-assumed-he-feared-political-fallout-of-war-3a68f41f",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "May 27, 2026 · 15:54 BRT",
+      "pub_date": "2026-05-27",
+      "pub_ts": 1779908040,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Strikes Military Sites in Iran for Second Time in 3 Days - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 26, 2026 · 17:58 BRT",
-      "pub_date": "2026-05-26",
-      "pub_ts": 1779829134,
-      "summary": "The warnings came after U.S. forces struck military sites in Iran. Secretary of State Marco Rubio said on Tuesday that negotiations to end the war were continuing.",
+      "published": "May 27, 2026 · 21:54 BRT",
+      "pub_date": "2026-05-27",
+      "pub_ts": 1779929663,
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Energy bills in Britain to jump 13% on impact of Iran war - Reuters",
-      "url": "https://www.reuters.com/business/energy/uks-ofgem-raise-energy-price-cap-13-gas-costs-climb-2026-05-27/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 27, 2026 · 07:03 BRT",
+      "title": "As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "May 27, 2026 · 07:46 BRT",
       "pub_date": "2026-05-27",
-      "pub_ts": 1779876232,
-      "summary": "",
+      "pub_ts": 1779878760,
+      "summary": "Iranian officials went to Doha on Monday for the negotiations, hours before the U.S. military announced the strikes it said were intended to protect troops. Israel’s leader said his country plans to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.",
       "tags": [
         "extracted",
-        "reuters.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "What's involved in talks to end the Iran war? - Reuters",
-      "url": "https://www.reuters.com/world/china/whats-involved-talks-end-iran-war-2026-05-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 26, 2026 · 08:40 BRT",
-      "pub_date": "2026-05-26",
-      "pub_ts": 1779795614,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -17326,6 +17347,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Key energy and shipping trends after three months of Iran turmoil - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlFKbW5qV3ZmdlB0X1dmUndkeEowYWRrUzFJS3lCeVNKbDFqM3dzeEdTVzZBaXhUVmNWSWIxMHZmR1pFNTRLa0FrcENHYzNXLVA4RklKeEV4QUpFUEZfdzJfakV2MHpsaWNGeS10cVpXMVpieHE3blV1TnEzZ00tbXhfQWNiZTNrTHB0bU9sV2ZQWm5XVjR0NEV6V0JHMmxhMndtOFBBSlJSZmppMnA4MmVlTjZWTkFOaFZ4blppLTNoMnlxZEE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 28, 2026 · 03:07 BRT",
+          "pub_date": "2026-05-28",
+          "pub_ts": 1779948420,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Not everybody is a loser from the Iran war. Just ask Brunei - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXZGYWdHWHhyMnZzMHc2R194SXliYW5lR0lzNTNtRXpFbUpid2JaVWMwMnlNUEkxbXVFQmxjMS1OdWh3Ny1DOUdQR0RzU25hUkpoWWtla0lyVzZNT2U2VmZhaXEzSkNTVDJicTE5X1BSdENiZGVNV0hiSjA4TnQ5N3lzZnFDMDZ5Sloxczg1WElGTjJ2VUxtNUVFVnpDRDBJNGFHbnNBaFRHZzVVUm5uN1JqaGF0M1U?oc=5",
@@ -17825,6 +17860,20 @@
           "published": "May 21, 2026 · 15:49 BRT",
           "pub_date": "2026-05-21",
           "pub_ts": 1779389371,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China kept building its crude stockpile in April despite Iran crisis - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMVhxZVJ5RXN4Vi1IdEpicnFLVGRZY2FaLVI2OFozbDdubVpLSk14OUc1QS1LMnNSdjJmU19wcWplWHBiaW5lSm95al96YXN4bGZYbF9XTHcyQ0VVQ0JpUmotMkl3SHY3NTJaLWZxcUlFN0llMTVlS2ZKOXNqaDVNRnIzVkhRNVVGOFZIazhnUHJVbGJMMnRzTnEyanVxd2x3T0xMZmc0cTh6UHNad0g4STgtNEc2bDVjZHhUd1ZCNzFVNUdteFJ5c0UzdEhpbWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 21, 2026 · 10:47 BRT",
+          "pub_date": "2026-05-21",
+          "pub_ts": 1779371271,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -27297,6 +27346,20 @@
       "theme": "Aluminum",
       "articles": [
         {
+          "title": "Aluminum Market Tightness Could Continue for 'Long Time,' Morgan Stanley Says - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWdZOGd5OWF5MFpLbndCMDk4aGdHbDgwR3pjNmJEYVBQLWoyTnE0R0ljcDdBaGlqYjA5TEI0ZGVTbHl1U0tUckdYd2lMZUJhU0Zudzh4ZXZPOTZYLTBOQndzeDBtcmFkblNFLTdybkZ2VWh5azItdFBUS0piWkdCVk5FUDFidXczOWhlWk8wNXFwSDFaLXRidERZaFFGUGs4b1JUSmIwS2Jhb3p4WEcwaThiNWNDNy13SlJpVllLaEhxOS1xNHhN?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 21:00 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779926400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Canada turns from US to Europe as Iran war propels aluminium higher - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkZrQ0NqN3JkQ0gzX3pEYmE3T3Y5Nlh6d1Fwd2xIRjJZOE9ZN3B5MWstSzZ5SzliRVVpN2RjS2VxS0lBRHVVMzh2WEh1azFIbEotaTBzOGFKMTZHbmpQTFlEenFOaTJvdHc1ZzlZUDVSX2NhLXljaHRuTHBMRk5PY2FWVHBNYS1EUS1YaTRmM0ZwQzhpMGNWRnVqUTI2MUFhS1Zr?oc=5",
           "source": "Reuters",
@@ -27859,7 +27922,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-27T11:09:00.912122+00:00",
-  "last_watch_time": "2026-05-27T11:09:11.867253+00:00",
-  "last_relevant_time": "2026-05-27T11:09:12.580760+00:00"
+  "last_digest_time": "2026-05-28T11:09:07.379135+00:00",
+  "last_watch_time": "2026-05-28T11:09:16.730671+00:00",
+  "last_relevant_time": "2026-05-28T11:09:17.405721+00:00"
 }

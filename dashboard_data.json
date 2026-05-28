@@ -16536,7 +16536,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-26"
+      "pub_date": "2026-05-27"
     },
     "https://www.reuters.com/world/asia-pacific/yen-hovers-near-intervention-zone-traders-assess-iran-war-outlook-2026-05-27/": {
       "summary": "",
@@ -17084,6 +17084,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-27"
+    },
+    "https://www.reuters.com/world/middle-east/iran-us-trade-air-strikes-after-trump-dismisses-report-hormuz-deal-2026-05-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/not-everybody-is-loser-iran-war-just-ask-brunei-2026-05-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
     }
   },
   "last_run_success": true,
@@ -17244,6 +17264,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Not everybody is a loser from the Iran war. Just ask Brunei - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXZGYWdHWHhyMnZzMHc2R194SXliYW5lR0lzNTNtRXpFbUpid2JaVWMwMnlNUEkxbXVFQmxjMS1OdWh3Ny1DOUdQR0RzU25hUkpoWWtla0lyVzZNT2U2VmZhaXEzSkNTVDJicTE5X1BSdENiZGVNV0hiSjA4TnQ5N3lzZnFDMDZ5Sloxczg1WElGTjJ2VUxtNUVFVnpDRDBJNGFHbnNBaFRHZzVVUm5uN1JqaGF0M1U?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 28, 2026 · 01:39 BRT",
+          "pub_date": "2026-05-28",
+          "pub_ts": 1779943150,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China’s Declining Appetite for Oil Laid Bare by Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVJlLXdrc3hzUW1KLW9yYWo4UEU0SllBRXRNajZtUE1IclZuTG8zeFo1WDh4TnZQaHVwSUxoX2N0TVN4ZnM1dXFoY1FaWHp3QzFEMnZKVl9wa19BOWtNeXYtdXRIM0ZjclVUWVRRWDVuc19GMDZWbzNNWGM4ZERsUEYzN2JUWk1oN014d2ItT0hmZy13R25PdTdhS0VZYzRqWmozOWFNckVwV0U?oc=5",

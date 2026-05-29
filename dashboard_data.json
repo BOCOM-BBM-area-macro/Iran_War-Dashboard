@@ -17413,7 +17413,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-27"
+      "pub_date": "2026-05-28"
     },
     "https://www.nytimes.com/2026/05/28/briefing/iran-inflation-spelling-bee.html": {
       "summary": "Plus, the Scripps National Spelling Bee. Here’s the latest at the end of Thursday.",
@@ -17443,7 +17443,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.nytimes.com/2026/05/28/us/politics/trump-approach-iran-war.html": {
       "summary": "President Trump’s pendulum swings on Iran have often seemed driven by mood and moment rather than any discernible strategy.",
@@ -17473,7 +17473,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.reuters.com/world/middle-east/trumps-room-maneuver-narrows-us-iran-close-framework-deal-2026-05-29/": {
       "summary": "",
@@ -17486,14 +17486,14 @@
       "pub_date": "2026-05-29"
     },
     "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html": {
-      "summary": "",
+      "summary": "U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
       "summary": "",
@@ -17684,11 +17684,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-29"
+    },
+    "https://www.reuters.com/world/middle-east/iran-calls-actions-not-words-after-us-officials-say-peace-deal-is-near-2026-05-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
+    },
+    "https://www.wsj.com/world/middle-east/the-u-a-e-s-secret-role-in-the-war-involved-dozens-of-strikes-on-iran-7fd28c40": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
+    },
+    "https://www.ft.com/content/6ccf1b39-6397-46a9-82f0-38a2e04ae30c": {
+      "summary": "Tehran interprets the US’s seemingly generous concessions as too good to be true",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-29",
-  "last_generated_time": "2026-05-29T13:02:18.861283+00:00",
+  "last_generated_time": "2026-05-29T14:02:05.054778+00:00",
   "digest": {
     "digest": "Recent reports indicate a significant development in the conflict between the United States and Iran, with both nations reportedly nearing a deal to extend a ceasefire. This potential agreement, which requires final approval from President Trump, aims to address the ongoing war and includes provisions for reopening the Strait of Hormuz. Officials suggest that progress is being made towards a broader arrangement to end the hostilities. Concurrently, the economic repercussions of the Iran war continue to be felt globally, with disruptions in the jet fuel trade and rising prices impacting various economies. India has increased its stake sales due to financial strains, while the Eurozone faces potential economic scarring. Japan's oil imports have reached historic lows, underscoring the supply chain disruptions. In a related development, US defense orders have surged to near-record levels, reflecting increased demand for military hardware amidst the conflict. The IDF has also expressed concerns that future Iranian attacks may escalate, potentially ignoring ballistic missile issues in any US-Iran agreement.",
     "top_themes": [
@@ -24322,6 +24352,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Gas prices are dropping — but they're still high - Axios",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xQXpUakozUnFKTjc2WlR5NmVfTFl4RFNmMzRBQWdxUE15anJPQjVNLUNSQ3h4cHRYQVdYZXM2cWhXOE4xc2ppM0JfQXNHdmt0QjJSUjBqaHJ5bk82NXVXWFkxN0FldU1wamhVR2QtRnRtdw?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 29, 2026 · 09:47 BRT",
+          "pub_date": "2026-05-29",
+          "pub_ts": 1780058869,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iraq faces summer blackouts as Iran war upends energy flows - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1bGVRRDkxeEZNLVlteTBiMEhYbXVVY2JzVjdHN1ZrUVFmbE94ZVh2N2k4NFZ3eXZtSmpsOTEzQzhZYlAwMnpHbFdCN1E1OHRTM3ZjdUo0NkItb3hNS3pJRmJFQWs0Z2NHclRnNUI3VTg?oc=5",

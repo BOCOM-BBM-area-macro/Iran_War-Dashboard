@@ -16536,7 +16536,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-27"
+      "pub_date": "2026-05-26"
     },
     "https://www.reuters.com/world/asia-pacific/yen-hovers-near-intervention-zone-traders-assess-iran-war-outlook-2026-05-27/": {
       "summary": "",
@@ -17514,6 +17514,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-29"
+    },
+    "https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
     }
   },
   "last_run_success": true,
@@ -17675,6 +17685,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Japan's April oil imports fall nearly 66% y/y as Iran war disrupts supply - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE56NTE4VlNXVmxwaUxKSk9fTnYwbmJkeXNUQW5mMW5URUQ0RGZNal9veW1wVEtYdS1Nby1keVNCaGtuanpDUXpqd3RWak5ydzVoalJuTGJWN3Z4VW9KSFJJOFFmTmZhQTFOTFFOTWNzdnlLLUVnMzZ5N1NLTmdyN3JtanlaWW5kaDRvM0xfYkM4N29VTENhVjNTSE9xXzBuTzhtOVF3anEyby0ydGpHZ1ZQcGRXOUsxdFdF?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 29, 2026 · 03:22 BRT",
+          "pub_date": "2026-05-29",
+          "pub_ts": 1780035720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Chevron CEO Mike Wirth warns oil prices likely to rise as Iran war drains supplies - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94Slk4Q0dwUzFjMTNlOWdTMURDTVJTbF9YYkF3SVRJNHVwVVpYRkNKM0RqYkJtak94X3B0UTdIbDFtUTNud1ZTQXJ2NUxZMm5xTko1akFqTHdFRkFsVjZUSVY1elE1NGxQMlBDVG9Od2E?oc=5",

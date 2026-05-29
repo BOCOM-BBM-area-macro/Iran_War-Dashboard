@@ -17490,7 +17490,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
       "summary": "",
@@ -17575,60 +17575,75 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-29"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-05-29/iran-war-us-should-welcome-a-truce-and-learn-from-it": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
+    },
+    "https://www.reuters.com/markets/see-how-much-iran-war-is-driving-up-prices-2026-05-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-28",
-  "last_generated_time": "2026-05-28T23:01:57.096074+00:00",
+  "last_generated_date": "2026-05-29",
+  "last_generated_time": "2026-05-29T08:02:02.218480+00:00",
   "digest": {
-    "digest": "The United States has conducted new military strikes against Iran, targeting military sites including a ground control station and drones, with officials stating these actions were in response to perceived threats and intended to protect troops. Iran has warned of retaliation following these strikes, particularly those near the Strait of Hormuz. Amidst these escalations, diplomatic engagements are occurring, with Iranian delegations gathering in Qatar for talks. Reports suggest a potential draft deal that could reopen Hormuz shipping and end a naval blockade, though President Trump has dismissed reports of a Hormuz deal and maintains his maximum demands, stating he does not fear political fallout from a prolonged conflict. The ongoing conflict is also noted to be driving a multi-year missile defense gap and has caused jitters in global markets, leading to a five-week low for Bitcoin amid ETF outflows. Some reports indicate that certain entities, such as Brunei, are not experiencing losses from the war, while Lebanese populations appear resigned to a protracted conflict regardless of a potential US-Iran agreement. There are also indications of internal sentiment within Iran, with some individuals expressing a desire for a return to war due to a perceived bad psychological state and lack of hope.",
+    "digest": "Recent reports indicate a significant development in the conflict between the United States and Iran, with both nations reportedly nearing a deal to extend a ceasefire. This potential agreement, which requires final approval from President Trump, aims to address the ongoing war and includes provisions for reopening the Strait of Hormuz. Officials suggest that progress is being made towards a broader arrangement to end the hostilities. Concurrently, the economic repercussions of the Iran war continue to be felt globally, with disruptions in the jet fuel trade and rising prices impacting various economies. India has increased its stake sales due to financial strains, while the Eurozone faces potential economic scarring. Japan's oil imports have reached historic lows, underscoring the supply chain disruptions. In a related development, US defense orders have surged to near-record levels, reflecting increased demand for military hardware amidst the conflict. The IDF has also expressed concerns that future Iranian attacks may escalate, potentially ignoring ballistic missile issues in any US-Iran agreement.",
     "top_themes": [
-      "US Military Strikes on Iran",
-      "Iran-US Clashes and Retaliation",
-      "Peace Talks and Diplomatic Engagements",
-      "Impact on Global Markets and Shipping"
+      "US-Iran Ceasefire Extension",
+      "Strait of Hormuz Reopening",
+      "Economic Impacts of Iran War"
     ],
     "next_events": [
       {
-        "title": "Escalation of Direct Military Confrontations",
-        "description": "The U.S. has conducted multiple strikes on Iranian military sites and drones, with Iran warning of retaliation. Analysts should monitor for further direct military engagements, the types of targets chosen, and any shifts in rules of engagement, as these actions could quickly lead to a broader conflict."
+        "title": "President Trump's Final Decision on the US-Iran Deal",
+        "description": "Multiple reports indicate a tentative deal or ceasefire extension is awaiting President Trump's final approval. His decision will be the most immediate determinant of whether the conflict de-escalates or continues, given his past 'pendulum swings' and unpredictable approach."
       },
       {
-        "title": "Progress and Outcome of Peace Negotiations",
-        "description": "Despite ongoing clashes, reports indicate peace talks and a potential draft deal regarding the Strait of Hormuz. Watch for any concrete agreements, especially concerning shipping lanes, or a complete breakdown of negotiations, which would signal a prolonged period of tension and potential conflict."
+        "title": "Reopening and Stability of the Strait of Hormuz",
+        "description": "A key component of the potential US-Iran agreement is the reopening of the Strait of Hormuz. Analysts should monitor the timeline and effectiveness of its reopening, as this vital waterway's status directly impacts global oil supplies and shipping costs."
       },
       {
-        "title": "Intensification of Regional Proxy Conflicts",
-        "description": "Israel's stated intent to intensify attacks against Hezbollah in Lebanon, an Iranian ally, suggests a potential widening of the conflict beyond direct US-Iran engagements. Analysts should observe any increase in activity or new fronts opening in proxy conflicts involving Iran's regional partners."
+        "title": "Addressing Iran's Ballistic Missile Program",
+        "description": "Concerns have been raised that the current deal may largely or completely ignore Iran's ballistic missile capabilities. This issue remains a significant regional threat, particularly for Israel, and its omission could be a flashpoint for future conflicts or renewed tensions."
       },
       {
-        "title": "Security and Status of the Strait of Hormuz",
-        "description": "The Strait of Hormuz remains a critical flashpoint, with discussions around reopening shipping and ending naval blockades. Any changes to its accessibility or security, whether through military action or diplomatic agreement, will have significant global economic and strategic implications."
+        "title": "Global Economic and Energy Market Adjustments",
+        "description": "The Iran war has significantly impacted global economies, leading to rising prices, disrupted jet fuel trade, and strained national finances. Watch for how a potential deal or continued conflict influences oil prices, inflation rates, and defense spending worldwide, particularly in the Eurozone, Japan, and India."
       },
       {
-        "title": "Internal Iranian Public Sentiment and Stability",
-        "description": "Reports suggest a dire psychological state among Iranians, with some expressing a desire for a return to war. Monitor for any signs of increased internal dissent, protests, or shifts in public opinion, as these could influence the Iranian regime's decisions and overall stability."
-      },
-      {
-        "title": "U.S. Administration's Evolving Stance on a Deal",
-        "description": "President Trump has expressed a lack of political pressure to make a deal and maintains 'maximum demands.' Watch for any shifts in the U.S. administration's rhetoric or policy, particularly regarding willingness to compromise or escalate, as this will heavily dictate the trajectory of the conflict."
+        "title": "Shifting Regional Security Dynamics and Israel-Iran Tensions",
+        "description": "Even with a ceasefire, underlying regional tensions, especially between Iran and Israel, persist. Analysts should observe any changes in rhetoric, military posturing, or proxy activities, as the deal's limitations could lead to a re-evaluation of security strategies by regional actors."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. Military Conducts New Strikes on Iran - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/u-s-military-conducts-new-strikes-on-iran-416f76cf",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "May 28, 2026 · 01:03 BRT",
+      "title": "Scoop: U.S. and Iran reach deal but need Trump's final approval, officials say - Axios",
+      "url": "https://www.axios.com/2026/05/28/iran-peace-deal-trump-approval",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "May 28, 2026 · 11:58 BRT",
       "pub_date": "2026-05-28",
-      "pub_ts": 1779940980,
+      "pub_ts": 1779980330,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "axios.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -17636,32 +17651,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
+      "title": "Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 27, 2026 · 16:17 BRT",
-      "pub_date": "2026-05-27",
-      "pub_ts": 1779909420,
-      "summary": "Iran has warned that it would retaliate after American military forces attacked sites near the Strait of Hormuz.",
+      "published": "May 29, 2026 · 06:48 BRT",
+      "pub_date": "2026-05-29",
+      "pub_ts": 1780048080,
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "U.S. and Iran trade fresh strikes as Trump holds to maximum demands - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy/",
+      "title": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/05/28/us-iran-trade-strikes-trump-cites-no-pressure-peace-deal/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 28, 2026 · 07:31 BRT",
-      "pub_date": "2026-05-28",
-      "pub_ts": 1779964313,
+      "published": "May 29, 2026 · 01:49 BRT",
+      "pub_date": "2026-05-29",
+      "pub_ts": 1780030150,
       "summary": "",
       "tags": [
         "extracted",
@@ -17673,18 +17689,39 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump Says He Doesn’t Fear Political Fallout From Prolonged War With Iran - WSJ",
-      "url": "https://www.wsj.com/politics/policy/trump-says-iran-has-misjudged-assumed-he-feared-political-fallout-of-war-3a68f41f",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "May 27, 2026 · 15:54 BRT",
-      "pub_date": "2026-05-27",
-      "pub_ts": 1779908040,
+      "title": "US, Iran Agree to 60-Day Truce Renewal Pending Trump Signoff - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/iran-us-accuse-each-other-of-truce-breach-with-no-deal-in-sight",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 29, 2026 · 00:21 BRT",
+      "pub_date": "2026-05-29",
+      "pub_ts": 1780024860,
+      "summary": "Iran and the US have reached a tentative deal to extend a ceasefire and work toward an agreement to end the war, a US source familiar with the matter said, raising hopes the three-month conflict could be nearing a resolution.",
+      "tags": [
+        "Iran",
+        "War",
+        "Donald John Trump",
+        "Generic 1st 'CL' Future",
+        "Persian Gulf"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Ceasefire to Be Extended Under New Proposal - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-28/iran-war-ceasefire-extension-proposed-evening-briefing-americas",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "May 28, 2026 · 18:20 BRT",
+      "pub_date": "2026-05-28",
+      "pub_ts": 1780003208,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -17692,40 +17729,22 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. Strikes Military Sites in Iran for Second Time in 3 Days - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 27, 2026 · 21:54 BRT",
-      "pub_date": "2026-05-27",
-      "pub_ts": 1779929663,
+      "title": "Iran, US reach deal to extend ceasefire, pending Trump's approval - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-us-trade-air-strikes-after-trump-dismisses-report-hormuz-deal-2026-05-28/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "May 28, 2026 · 01:25 BRT",
+      "pub_date": "2026-05-28",
+      "pub_ts": 1779942300,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 27, 2026 · 07:46 BRT",
-      "pub_date": "2026-05-27",
-      "pub_ts": 1779878760,
-      "summary": "Iranian officials went to Doha on Monday for the negotiations, hours before the U.S. military announced the strikes it said were intended to protect troops. Israel’s leader said his country plans to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
       "sentiment_success": false
     }
   ],
@@ -28479,7 +28498,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-28T11:09:07.379135+00:00",
-  "last_watch_time": "2026-05-28T11:09:16.730671+00:00",
-  "last_relevant_time": "2026-05-28T11:09:17.405721+00:00"
+  "last_digest_time": "2026-05-29T11:06:48.252656+00:00",
+  "last_watch_time": "2026-05-29T11:06:55.994041+00:00",
+  "last_relevant_time": "2026-05-29T11:07:00.907937+00:00"
 }

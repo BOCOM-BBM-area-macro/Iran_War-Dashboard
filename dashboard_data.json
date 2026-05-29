@@ -16536,7 +16536,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-27"
+      "pub_date": "2026-05-26"
     },
     "https://www.reuters.com/world/asia-pacific/yen-hovers-near-intervention-zone-traders-assess-iran-war-outlook-2026-05-27/": {
       "summary": "",
@@ -17373,10 +17373,13 @@
       "pub_date": "2026-05-28"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-28/iran-war-ceasefire-extension-proposed-evening-briefing-americas": {
-      "summary": "",
+      "summary": "Get caught up.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "War",
+        "Artificial Intelligence",
+        "BRIEFING",
+        "Americas"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17577,10 +17580,13 @@
       "pub_date": "2026-05-29"
     },
     "https://www.bloomberg.com/opinion/articles/2026-05-29/iran-war-us-should-welcome-a-truce-and-learn-from-it": {
-      "summary": "",
+      "summary": "According to media reports, the US and Iran are close to agreeing on a memorandum of understanding to end hostilities in the Persian Gulf. The terms that have been disclosed don’t seem likely to improve on the 2015 nuclear agreement the president abandoned in his first term, or even the accord that might’ve been reached before this conflict. Still, the administration’s aim now should be to make the best of a bad situation — and to learn something from this fiasco.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "War",
+        "Media",
+        "Persian Gulf",
+        "Economic Sanctions"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17595,11 +17601,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-29/expect-even-higher-grocery-prices-thanks-to-iran-war-costs": {
+      "summary": "The Iran war’s effects will keep rippling through the supply chain, even if it ends.",
+      "tags": [
+        "Gas Prices",
+        "War",
+        "Iran",
+        "Food",
+        "Consumer Price Index"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
+    },
+    "https://www.axios.com/2026/05/29/china-oil-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-29",
-  "last_generated_time": "2026-05-29T08:02:02.218480+00:00",
+  "last_generated_time": "2026-05-29T09:02:01.893524+00:00",
   "digest": {
     "digest": "Recent reports indicate a significant development in the conflict between the United States and Iran, with both nations reportedly nearing a deal to extend a ceasefire. This potential agreement, which requires final approval from President Trump, aims to address the ongoing war and includes provisions for reopening the Strait of Hormuz. Officials suggest that progress is being made towards a broader arrangement to end the hostilities. Concurrently, the economic repercussions of the Iran war continue to be felt globally, with disruptions in the jet fuel trade and rising prices impacting various economies. India has increased its stake sales due to financial strains, while the Eurozone faces potential economic scarring. Japan's oil imports have reached historic lows, underscoring the supply chain disruptions. In a related development, US defense orders have surged to near-record levels, reflecting increased demand for military hardware amidst the conflict. The IDF has also expressed concerns that future Iranian attacks may escalate, potentially ignoring ballistic missile issues in any US-Iran agreement.",
     "top_themes": [
@@ -25927,6 +25956,20 @@
           "published": "May 28, 2026 · 10:42 BRT",
           "pub_date": "2026-05-28",
           "pub_ts": 1779975720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "IndiGo, Air India cut June-July domestic flights amid high jet fuel prices, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjZqY2FoanZ0VlAyTk5CcHpRTkMxOTFNZ1hzUlQwbm1udTN3LUowTWZxWWRYX19Dc0JlUHhzaGNpSWFRaGRGM0xQc1VGVkc5QjlqYkc0bC0zU3JwbTVpbXpQRnNsYnNlMy1xNzJQLUlOSXVyUy1MeGF0aGJaQ3U4SlRuMHk1ZUROVDc0MkVqbzJZNFROdXo3TjFmbzFXaWdWQlRVRE9FbjNkVl95TlBQeUw0RQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 26, 2026 · 22:40 BRT",
+          "pub_date": "2026-05-26",
+          "pub_ts": 1779846031,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

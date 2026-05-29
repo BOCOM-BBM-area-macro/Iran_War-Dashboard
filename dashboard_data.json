@@ -17294,7 +17294,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.bloomberg.com/news/articles/2026-05-28/iran-us-accuse-each-other-of-truce-breach-with-no-deal-in-sight": {
       "summary": "Iran and the US have reached a tentative deal to extend a ceasefire and work toward an agreement to end the war, a US source familiar with the matter said, raising hopes the three-month conflict could be nearing a resolution.",
@@ -17487,6 +17487,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -22767,6 +22777,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Key US inflation measure posts largest annual increase in three years - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UDdTXzBaWFpQZFVPSzJ1cFJ5bXhVTE1vdlIzOHpWRHpoQzFKcDBodVNkd0tUanRkcTZGNUJpcXA3NXdFcFhYeGxEcDh1QlFHUGVGLUNjR0t3ODFtVFlkMjBRU0tWQmxqcFhyX2dVc05EYlJFS3lrYl9rTXpWUDg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 28, 2026 · 17:52 BRT",
+          "pub_date": "2026-05-28",
+          "pub_ts": 1780001574,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Here's How Much More You're Spending on Gas Because of the Iran War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckY4cGYzb1hCSUhZSEVsWmZCa1ZiRTk1d29fRHpYalFHQnM4QUZGS3hYd1Z4b1NkMndiTWxIVHJDM1lpaTA2bGVFWGs2a05HeDU2dldyUDVPOEJrbzlJNWJ5LWZiWmlpUDRWUVY0S0xxd0ZqWnhrQ3M0UnZ6cm5qZjhwU3l4QWVqZG1DWlk0cE5IcDVkaV9DSDdmaklyZw?oc=5",

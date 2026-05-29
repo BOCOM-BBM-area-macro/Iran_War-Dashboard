@@ -14436,7 +14436,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-21"
+      "pub_date": "2026-05-22"
     },
     "https://www.bloomberg.com/news/articles/2026-05-21/oil-near-100-emerges-as-consensus-for-next-year-with-iran-war": {
       "summary": "Oil market participants are increasingly pricing crude to be capped near $100 a barrel over the next year, as demand is forced to slow down to counter millions of barrels of supply losses caused by the US-Iran war.",
@@ -17443,7 +17443,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-29"
+      "pub_date": "2026-05-28"
     },
     "https://www.nytimes.com/2026/05/28/us/politics/trump-approach-iran-war.html": {
       "summary": "President Trump’s pendulum swings on Iran have often seemed driven by mood and moment rather than any discernible strategy.",
@@ -17473,7 +17473,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.reuters.com/world/middle-east/trumps-room-maneuver-narrows-us-iran-close-framework-deal-2026-05-29/": {
       "summary": "",
@@ -17483,7 +17483,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html": {
       "summary": "",
@@ -17644,11 +17644,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-29/a-quarter-of-large-oil-tankers-trapped-by-iran-war-have-escaped": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-29",
-  "last_generated_time": "2026-05-29T11:01:59.230397+00:00",
+  "last_generated_time": "2026-05-29T12:01:58.615518+00:00",
   "digest": {
     "digest": "Recent reports indicate a significant development in the conflict between the United States and Iran, with both nations reportedly nearing a deal to extend a ceasefire. This potential agreement, which requires final approval from President Trump, aims to address the ongoing war and includes provisions for reopening the Strait of Hormuz. Officials suggest that progress is being made towards a broader arrangement to end the hostilities. Concurrently, the economic repercussions of the Iran war continue to be felt globally, with disruptions in the jet fuel trade and rising prices impacting various economies. India has increased its stake sales due to financial strains, while the Eurozone faces potential economic scarring. Japan's oil imports have reached historic lows, underscoring the supply chain disruptions. In a related development, US defense orders have surged to near-record levels, reflecting increased demand for military hardware amidst the conflict. The IDF has also expressed concerns that future Iranian attacks may escalate, potentially ignoring ballistic missile issues in any US-Iran agreement.",
     "top_themes": [
@@ -17804,6 +17814,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Quarter of Big Oil Tankers Trapped by Iran War Have Escaped - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEdWQnlJeE5zTUFPUHR2X2dqZENXQURmN2ppZnhaZnVEY05mUFpLeHFkVENyWHJyY3lIMUE4aE9zVlpYX1Yzc3dpR3FaaUFVcUhFVlpZNkxKbEZySERHUXJ4SFhPYjhXdWJJUF9kSml0Y3NWMEdDN2JWTWxtR1F5Sm5NTHd4SmFhR3NaTzlIVU5YU1JmM1l2bUFxYXIwdkRHSndGZkhNM19fcWFDMmRsaHp4bTM?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 29, 2026 · 10:55 BRT",
+          "pub_date": "2026-05-29",
+          "pub_ts": 1780062916,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Breakingviews - A new US-Iran deal could be as useless as the last - Reuters",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXdjSTAzQ0FDZTdBS1FhMklsekpjNERqZFJ1eW9LN3ZTWDQ5aW1ySjVKX2FUdE5HUXlYQ19pVWFRU2xiM3lkZUM4Y3gzMlIyZFY3ZEhzZFJTVU03YWQ3Vk4zZWcxcHU5WDNTXzBJV1FvN0VXM2JTNWc1aEd5OFFiUmp3Y2JYbE8tZU9PaElOM2V3QjZkNVVZTnBIV3B2a3lu?oc=5",

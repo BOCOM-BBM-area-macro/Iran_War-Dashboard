@@ -16797,7 +16797,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-24"
+      "pub_date": "2026-05-27"
     },
     "https://www.reuters.com/world/middle-east/iran-says-draft-us-deal-would-reopen-hormuz-shipping-end-naval-blockade-2026-05-27/": {
       "summary": "",
@@ -17473,7 +17473,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-29"
+      "pub_date": "2026-05-28"
     },
     "https://www.reuters.com/world/middle-east/trumps-room-maneuver-narrows-us-iran-close-framework-deal-2026-05-29/": {
       "summary": "",
@@ -17493,7 +17493,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-29"
+      "pub_date": "2026-05-28"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
       "summary": "",
@@ -17654,11 +17654,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-29"
+    },
+    "https://www.reuters.com/world/iran-war-live-us-launches-more-strikes-kuwait-reports-new-attacks-2026-05-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-29/treasuries-set-for-best-week-since-war-began-as-oil-retreats": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
+    },
+    "https://www.nytimes.com/2026/05/29/business/strait-hormuz-shipping-insurance-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-29",
-  "last_generated_time": "2026-05-29T12:01:58.615518+00:00",
+  "last_generated_time": "2026-05-29T13:02:18.861283+00:00",
   "digest": {
     "digest": "Recent reports indicate a significant development in the conflict between the United States and Iran, with both nations reportedly nearing a deal to extend a ceasefire. This potential agreement, which requires final approval from President Trump, aims to address the ongoing war and includes provisions for reopening the Strait of Hormuz. Officials suggest that progress is being made towards a broader arrangement to end the hostilities. Concurrently, the economic repercussions of the Iran war continue to be felt globally, with disruptions in the jet fuel trade and rising prices impacting various economies. India has increased its stake sales due to financial strains, while the Eurozone faces potential economic scarring. Japan's oil imports have reached historic lows, underscoring the supply chain disruptions. In a related development, US defense orders have surged to near-record levels, reflecting increased demand for military hardware amidst the conflict. The IDF has also expressed concerns that future Iranian attacks may escalate, potentially ignoring ballistic missile issues in any US-Iran agreement.",
     "top_themes": [
@@ -17814,6 +17844,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Treasuries Set for Best Week Since War Began as Oil Retreats - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVDZnVjNJRlY0SlNaeWxFWURlcWFfMGVsX0tGTTYtN21rbFRYMkFRVmxaakJMRFE1Y2Z2aS1WNVc2Y25LUHRXcHhCOGhnRm1FNnQ1WFlQSXpOT3FrSlFLLUh1VTgxVndWcFVObkYxanVpNWJiSExsU0E0SHZDYjMyUFFJZjdMZDZ0czhiMDZTREp4WGFMc0Y5MnBkXzNnWE1hMGczQlF6ZndQQl9WZWJfag?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 29, 2026 · 12:40 BRT",
+          "pub_date": "2026-05-29",
+          "pub_ts": 1780069231,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Quarter of Big Oil Tankers Trapped by Iran War Have Escaped - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEdWQnlJeE5zTUFPUHR2X2dqZENXQURmN2ppZnhaZnVEY05mUFpLeHFkVENyWHJyY3lIMUE4aE9zVlpYX1Yzc3dpR3FaaUFVcUhFVlpZNkxKbEZySERHUXJ4SFhPYjhXdWJJUF9kSml0Y3NWMEdDN2JWTWxtR1F5Sm5NTHd4SmFhR3NaTzlIVU5YU1JmM1l2bUFxYXIwdkRHSndGZkhNM19fcWFDMmRsaHp4bTM?oc=5",
@@ -18005,6 +18049,20 @@
           "published": "May 27, 2026 · 16:13 BRT",
           "pub_date": "2026-05-27",
           "pub_ts": 1779909180,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Donald Trump says rising economic costs will not force him into Iran deal - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWdoNHg5cGtXOE9heHI0ME9raTBxMEROVHc2N3hlT1lvYXVESDVJcnN5M1lranA3Y3lZTDQ4WWlfU2VSbVZDbmZrOW5zT29Hcy1xYlgyQUduNVIybk9kMkpIZzE0czE4UVpweDdvUHVoZktwc25SUzBCcjdNWUFNZUthVXQ?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 11:14 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779891277,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -16536,7 +16536,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-26"
+      "pub_date": "2026-05-27"
     },
     "https://www.reuters.com/world/asia-pacific/yen-hovers-near-intervention-zone-traders-assess-iran-war-outlook-2026-05-27/": {
       "summary": "",
@@ -17490,7 +17490,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-29"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
       "summary": "",
@@ -17524,6 +17524,27 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-29"
+    },
+    "https://www.reuters.com/business/energy/oil-falls-slightly-reports-potential-us-iran-ceasefire-deal-2026-05-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
+    },
+    "https://www.nytimes.com/video/opinion/100000010921317/is-the-us-prepared-for-a-major-war.html": {
+      "summary": "America has fired “something like eight years’ worth of Tomahawk missile production” in Iran, Christian Brose, the chief strategy officer of Anduril Industries, says on “Interesting Times,” where he and the Opinion columnist Ross Douthat discuss the limitations of America’s arsenal of “luxury” weapons.",
+      "tags": [
+        "US and Israeli Attack on Iran",
+        "Missiles and Missile Defense",
+        "Military"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-28"
     }
   },
   "last_run_success": true,
@@ -17694,6 +17715,20 @@
           "published": "May 29, 2026 · 03:22 BRT",
           "pub_date": "2026-05-29",
           "pub_ts": 1780035720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil falls more than 1% on reports of possible US-Iran ceasefire deal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME9kd0xNOHBUWk45Q05sRmpnQlBXN3h5VW95NVR5clRwalJRR28wcHhSMjgxVnAtcU9peTBIeXBXX25CU3luOUtsZ0I1VTE5bEhnalNsci11UXo3SlRQUVk2R0NEUHZHYmFrc2o0QVNkTGJUYkRhWUI0cmtRNHQxdS16T2g3MnhvajU4b25iTmpoYkNwa003MmpneThDZTI5cXdNWlV6TUoyNHNIYTJfTg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 28, 2026 · 22:16 BRT",
+          "pub_date": "2026-05-28",
+          "pub_ts": 1780017360,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

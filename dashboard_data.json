@@ -17801,7 +17801,7 @@
       "pub_date": "2026-05-29"
     },
     "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html": {
-      "summary": "",
+      "summary": "A political fight is playing out in Iran, where the small but loud faction of hard-liners has used rallies, state media and private and public statements to try to undermine negotiations.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -17811,10 +17811,20 @@
       "pub_date": "2026-05-29"
     },
     "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal": {
-      "summary": "",
+      "summary": "The president met with aides for two hours at the White House about a possible cease-fire extension, according to a senior administration official. Earlier, Mr. Trump had suggested in a social media post that he was ready to make a decision.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-29"
+    },
+    "https://www.timesofisrael.com/uae-struck-iran-dozens-of-times-during-war-and-amid-truce-including-with-israel-wsj/": {
+      "summary": "Report says US and Israel provided intel for the attacks, including joint strike on petrochemical complex that led Washington to ask Jerusalem to stop targeting energy facilities",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17823,7 +17833,7 @@
   },
   "last_run_success": true,
   "last_generated_date": "2026-05-29",
-  "last_generated_time": "2026-05-29T22:01:55.057372+00:00",
+  "last_generated_time": "2026-05-29T23:01:52.928052+00:00",
   "digest": {
     "digest": "Recent reports indicate a significant development in the conflict between the United States and Iran, with both nations reportedly nearing a deal to extend a ceasefire. This potential agreement, which requires final approval from President Trump, aims to address the ongoing war and includes provisions for reopening the Strait of Hormuz. Officials suggest that progress is being made towards a broader arrangement to end the hostilities. Concurrently, the economic repercussions of the Iran war continue to be felt globally, with disruptions in the jet fuel trade and rising prices impacting various economies. India has increased its stake sales due to financial strains, while the Eurozone faces potential economic scarring. Japan's oil imports have reached historic lows, underscoring the supply chain disruptions. In a related development, US defense orders have surged to near-record levels, reflecting increased demand for military hardware amidst the conflict. The IDF has also expressed concerns that future Iranian attacks may escalate, potentially ignoring ballistic missile issues in any US-Iran agreement.",
     "top_themes": [

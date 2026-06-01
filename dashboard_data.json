@@ -17603,7 +17603,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-29"
+      "pub_date": "2026-05-31"
     },
     "https://www.bloomberg.com/news/articles/2026-05-29/expect-even-higher-grocery-prices-thanks-to-iran-war-costs": {
       "summary": "The Iran war’s effects will keep rippling through the supply chain, even if it ends.",
@@ -18240,6 +18240,56 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.reuters.com/business/aerospace-defense/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack-2026-06-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.ft.com/content/668d221d-0893-48ef-a2f9-fdfe4623031b": {
+      "summary": "FT analysis shows economists more optimistic now than three months after Russia’s full-scale invasion of Ukraine",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.washingtonpost.com/world/2026/06/01/iran-us-irael-war-kuwait-strikes/3b660f82-5d72-11f1-9c46-d6211372eede_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.bloomberg.com/opinion/newsletters/2026-06-01/a-strategic-debacle-but-stocks-keep-winning": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-01/maldives-and-seychelles-see-tourism-collapse-as-etihad-emirates-cut-flights": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
@@ -18408,6 +18458,20 @@
           "published": "May 31, 2026 · 22:57 BRT",
           "pub_date": "2026-05-31",
           "pub_ts": 1780279020,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Dollar steadies as markets await signals on Iran war, central banks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDBZYzhnVW50SGxJS1NkTDVCeFdLNG9hS3dCOU5iYjVUZlJGUXJheGpRTHE1eWFuY0RVdnZkTE9kM0VrcGRoSkgzU3dDeTJkcFN4STVPNHpqalFWY0dQTGdrVzQ2Z0dCRXhGWmg4Qmg3Tzhqa2NrX2hvbzdOX2ZwUHNmZHJqVnV6bHlDbFEzdFpZVGo3NExaMDFLVUZwSmtydGpqb1ZYdnktT3VuYXVwV3c1TTdIZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 31, 2026 · 21:40 BRT",
+          "pub_date": "2026-05-31",
+          "pub_ts": 1780274400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

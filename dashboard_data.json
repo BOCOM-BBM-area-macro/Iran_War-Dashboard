@@ -18410,51 +18410,66 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.reuters.com/world/asia-pacific/global-economy-asias-factory-output-expands-firms-stockpile-buffers-over-iran-2026-06-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-05-31",
-  "last_generated_time": "2026-05-31T23:01:55.260065+00:00",
+  "last_generated_date": "2026-06-01",
+  "last_generated_time": "2026-06-01T08:02:27.999293+00:00",
   "digest": {
-    "digest": "Recent developments indicate ongoing, albeit complex, US-Iran ceasefire negotiations, with President Trump seeking amendments to a draft deal, particularly concerning Iran's enriched uranium and the unfreezing of funds. The proposed Memorandum of Understanding, intended to last 60 days and initiate further nuclear program talks, awaits final approval from both Trump and Iranian Supreme Leader Mojtaba Khamenei. Diplomatic efforts are underway, with Pakistani mediators involved, though the Iranian response mechanism is noted as challenging. Concurrently, military actions persist, with the US military intercepting a commercial vessel attempting to reach Iran and reporting the turning away of a blockade runner. There are also reports of a Chinese-made missile potentially downing a US F-15, with allegations of Beijing-linked systems supporting Iranian air defenses. The broader regional impact of the ongoing conflict is evident, with Muslim communities across the Middle East marking Eid amid war-related shortages of food and fuel, and Iran's national football team training under the shadow of the war.",
+    "digest": "Recent developments indicate continued military exchanges between the United States and Iran, with reports of US strikes on Iranian drone command sites and Iranian targets in southern Iran. Concurrently, diplomatic efforts to formalize a ceasefire persist, though progress remains elusive, contributing to a broader stalemate in peace talks. The US military has been actively involved in guiding commercial vessels through the Strait of Hormuz, facilitating the passage of approximately 70 ships in the past three weeks. Global markets are closely monitoring these developments, with oil prices experiencing fluctuations due to the ongoing conflict and its impact on supply. Economic consequences are evident in rising inflation in countries like Pakistan, driven by increased energy costs, and Japanese firms are reducing investment due to the uncertain outlook. Despite the ongoing conflict and its associated risks, some market analyses suggest a potential for lower oil demand to offset some of the war's impact, while broader market rallies continue to power past the perceived war stalemate.",
     "top_themes": [
-      "US-Iran Ceasefire Negotiations",
-      "Military Engagements",
-      "Regional Impact of Conflict"
+      "US-Iran Military Exchanges",
+      "Strait of Hormuz Operations",
+      "Global Economic Impacts",
+      "Diplomatic Stalemate"
     ],
     "next_events": [
       {
-        "title": "Trump's Final Decision on US-Iran Peace Deal",
-        "description": "President Trump is expected to make a 'final determination' soon regarding a peace agreement with Iran, potentially within the next week. Analysts should monitor the specific amendments requested by Trump, particularly concerning Iran’s enriched uranium and the reopening of the Strait of Hormuz, as these are critical sticking points for the deal's approval by both Trump and Supreme Leader Khamenei."
+        "title": "Progress in US-Iran Peace Negotiations",
+        "description": "Multiple articles highlight ongoing peace proposals and Trump's statements about a potential deal, despite continued clashes. Analysts should monitor any formalization of a ceasefire, the specifics of proposed agreements, and whether the current diplomatic stalemate can be broken, especially concerning broader regional recognition efforts."
       },
       {
-        "title": "Iran's Response to US Ceasefire Amendments",
-        "description": "Following President Trump's request for amendments to the US-Iran ceasefire deal draft, Iran's response is anticipated within 'several days.' This response will be crucial in determining the immediate future of the proposed 60-day Memorandum of Understanding and the potential for further negotiations towards a final agreement on Iran's nuclear program and regional stability."
+        "title": "Escalation or De-escalation of Military Engagements",
+        "description": "The US and Iran have been trading strikes, with the US targeting military sites and drone command centers. Watch for the frequency and intensity of these strikes, any expansion of targets, or conversely, signs of a reduction in military activity as a precursor to diplomatic breakthroughs. The involvement of other regional actors, like Kuwait coming under fire, also bears watching."
       },
       {
-        "title": "EU Review of Russia Oil Price Cap Amid Iran War",
-        "description": "The European Union is considering a temporary freeze on the Russia oil price cap, citing the ongoing Iran War as a factor. This decision could signal a significant shift in global energy policy and economic sanctions, impacting oil markets and the broader geopolitical landscape."
+        "title": "Impact on Global Oil Markets and Inflation",
+        "description": "The conflict is a significant driver of oil price volatility, with mentions of oil rising due to clashes and Goldman Sachs noting two-sided risks. Analysts should track crude oil benchmarks, global inflation rates (especially energy-driven inflation in countries like Pakistan), and the potential for further supply shocks impacting factory costs and consumer prices worldwide."
       },
       {
-        "title": "Implications of Chinese Military Support for Iran",
-        "description": "Reports suggest Chinese-made missiles may have been used to down a US F-15, with Beijing-linked systems allegedly supporting Iranian air defenses. Analysts should watch for further evidence or confirmation of China's direct military support for Iran, as this could escalate the conflict, strain US-China relations, and introduce advanced weaponry into the regional dynamic."
+        "title": "Security of the Strait of Hormuz",
+        "description": "The U.S. military is actively guiding commercial ships through the Strait of Hormuz, a critical chokepoint for global oil supply. Any incidents, disruptions, or changes in the U.S. presence or guidance operations in this strait would have immediate and severe implications for global energy markets and international shipping."
+      },
+      {
+        "title": "Regional Geopolitical Realignment",
+        "description": "The conflict is shifting the Middle East order, with countries like Turkey seeking to benefit and the challenge of Arab states recognizing Israel becoming harder. Watch for statements and actions from regional powers, shifts in alliances, and how the ongoing conflict influences broader diplomatic efforts and power dynamics across the Middle East."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. military hits commercial ship trying to reach Iran as peace talks continue - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/30/us-military-hits-commercial-ship-trying-reach-iran-peace-talks-continue/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "May 31, 2026 · 01:16 BRT",
-      "pub_date": "2026-05-31",
-      "pub_ts": 1780200969,
+      "title": "Iran and US trade strikes, Kuwait comes under fire as diplomacy drags on - Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack-2026-06-01/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 01, 2026 · 01:17 BRT",
+      "pub_date": "2026-06-01",
+      "pub_ts": 1780287420,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -18462,33 +18477,14 @@
       "sentiment_success": false
     },
     {
-      "title": "EU Weighs Temporary Freeze on Russia Oil Price Cap Over Iran War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-31/eu-weighs-temporary-freeze-on-russia-oil-price-cap-over-iran-war",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "May 31, 2026 · 05:00 BRT",
-      "pub_date": "2026-05-31",
-      "pub_ts": 1780214400,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html",
+      "title": "U.S. Says It Hit More Military Targets in Southern Iran - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/us-strikes-iran-goruk-qeshm.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "May 30, 2026 · 21:10 BRT",
-      "pub_date": "2026-05-30",
-      "pub_ts": 1780186230,
+      "published": "Jun 01, 2026 · 03:52 BRT",
+      "pub_date": "2026-06-01",
+      "pub_ts": 1780296723,
       "summary": "",
       "tags": [
         "extracted",
@@ -18500,57 +18496,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Chinese-made shoulder-fired missile reportedly shot down F-15 during Iran war - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-897792",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "May 30, 2026 · 14:23 BRT",
-      "pub_date": "2026-05-30",
-      "pub_ts": 1780161809,
-      "summary": "NBC report suggests Chinese-made missile may have downed US fighter jet while Beijing-linked systems allegedly supported Iranian air defenses and targeting capabilities.",
-      "tags": [
-        "China",
-        "technology",
-        "Israel Iran War",
-        "Beijing",
-        "US-China relations"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Donald Trump asks for amendments to agreed upon draft of US-Iran ceasefire deal - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-897822",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "May 31, 2026 · 02:52 BRT",
-      "pub_date": "2026-05-31",
-      "pub_ts": 1780206754,
-      "summary": "“It could be a week. It could be less. It could be more. At the turn of the week, we hope to have something,” the official added.",
-      "tags": [
-        "Iran",
-        "United States",
-        "Iran nuclear",
-        "Donald Trump",
-        "strait of hormuz"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "Donald\nTrump\nasks\nfor\namendments\nto\nagreed\nupon\ndraft\nof\nUS-Iran\nceasefire\ndeal\n|\nThe\nJerusalem\nPost\nTrump\nrequests\namendments\nto\nenriched\nuranium\nclause\nin\nUS-Iran\nceasefire\ndeal\ndraft\n-\nreport\n“It\ncould\nbe\na\nweek.\nIt\ncould\nbe\nless.\nIt\ncould\nbe\nmore.\nAt\nthe\nturn\nof\nthe\nweek,\nwe\nhope\nto\nhave\nsomething,”\nthe\nofficial\nadded.\nFollow\nus\non\nGoogle\nUS\nPresident\nDonald\nTrump\ngives\na\nthumbs\nup\nafter\ndisembarking\nAir\nForce\nOne\nfollowing\nhis\ntrip\nto\nChina\nat\nJoint\nBase\nAndrews,\nMaryland,\nUS,\nMay\n15,\n2026.\n(\nphoto\ncredit\n:\nREUTERS/Evan\nVucci\n)\nBy\nMIRIAM\nSELA-EITAM\nMAY\n31,\n2026\n08:52\nUS\nPresident\nDonald\nTrump\nasked\nfor\nseveral\namendments\nto\nthe\nUS-Iran\npeace\ndeal\ndraft\nduring\na\nSituation\nRoom\nmeeting\non\nFriday,\nAxios\nreported\non\nSunday,\nciting\na\nsenior\nadministration\nofficial\nand\na\nsecond\nsource\nbriefed\non\nthe\nissue.\nWhile\nTrump\nwants\nthe\nproposed\nMemorandum\nof\nUnderstanding\nsigned\nas\nsoon\nas\npossible,\ntwo\nUS\nofficials\ntold\nAxios\nthat\nthere\nare\nseveral\npoints\nin\nthe\ndeal\nhe\nwants\nto\nstrengthen\nbefore\nit\nis\nsigned,\nparticularly\nregarding\nIran’s\nenriched\nuranium.\n\"It's\nmore\nspecifics\nabout\nhow\nthe\nUS\ngets\nthe\nmaterial\nand\nthe\ntiming,\"\na\nsenior\nadministration\nofficial\nsaid,\naccording\nto\nAxios.\n\"There\nwill\nbe\na\ndeal.\nThe\nimminence\nof\nit,\nwe'll\nsee.\nWe're\nwilling\nto\nwait\nso\nthe\npresident\ngets\nwhat\nhe\nasks\nfor.”\n“It\ncould\nbe\na\nweek.\nIt\ncould\nbe\nless.\nIt\ncould\nbe\nmore.\nAt\nthe\nturn\nof\nthe\nweek,\nwe\nhope\nto\nhave\nsomething,”\nthe\nofficial\nadded.\nA\nsecond\nsource\nadded\nthat\nTrump\nis\nlooking\nto\namend\nsome\nof\nthe\nwording\naround\nthe\nagreement\nto\nreopen\nthe\nStrait\nof\nHormuz.\nAn\nIranian\nflag\nflutters\nin\nthe\nwind\nas\nships\nremain\nanchored\nin\nthe\nStrait\nof\nHormuz\non\nMay\n16.\nNegotiations\nbetween\nthe\nUS\nand\nIran\nover\nopening\nthis\ncritical\nwaterway\nhave\nlargely\nstalled.\n(credit:\nMajid\nSaeedi/Getty\nImages)\nHowever,\nthe\nofficial\nfurther\nnoted\nthat\nTrump\nwas\ntold\nit\nwould\ntake\nseveral\ndays\nfor\nhim\nto\nreceive\nthe\nIranian\nresponse,\nas\n“They're\nliterally\nin\ncaves\nand\nthey're\nnot\nusing\nemail.”\nThe\nNew\nYork\nTimes\nreported\non\nSaturday\nthat\nTrump\nhas\nalso\nbeen\n\"concerned\nabout\nparts\nof\nthe\npotential\ndeal\nthat\nwould\ninclude\nunfreezing\nfunds\nfor\nthe\nIranians.\"\nMoU\nwaiting\non\nTrump,\nKhamenei's\napproval\nAxios\nreported\non\nThursday\nthat\nthe\nproposed\nMoU\nwould\nlast\n60\ndays\nand\nkick-start\nnegotiations\ntoward\na\nfinal\nagreement\non\nIran’s\nnuclear\nprogram.\nIt\nwas\nadditionally\nreported\nthat\nwhile\nthere\nmay\nbe\nan\nunderstanding\namong\nIranian\nForeign\nMinister\nAbbas\nAraghchi,\nIranian\nParliament\nSpeaker\nMohammad-Bagher\nGhalibaf,\nUS\nenvoy\nSteve\nWitkoff\nand\nhis\nteam,\nTrump\nand\nSupreme\nLeader\nMojtaba\nKhamenei\nhave\nyet\nto\ngive\ntheir\napproval.\nA\nsource\nclose\nto\nthe\nnegotiating\nteam\nreportedly\ntold\nIran's\nsemi-official\nnews\noutlet\nTasnim\non\nThursday\nthat\nif\nthe\ntext\nfor\nany\nagreement\nis\nfinalized,\nit\nwill\nbe\nshared\nwith\nPakistani\nmediators\nand\nthen\nannounced.\nAmichai\nStein\nand\nGoldie\nKatz\ncontributed\nto\nthis\nreport.\nSee\nmore\non\nIran\n|\nUnited\nStates\n|\nIran\nnuclear\n|\nDonald\nTrump\n|\nstrait\nof\nhormuz\n|\nOperation\nEpic\nFury\n|\nMojtaba\nKhamenei\nFollow\nus\non\nGoogle",
-      "sentiment_success": false
-    },
-    {
-      "title": "US military says it turned away blockade runner trying to reach Iranian port - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/",
+      "title": "US says it struck Iranian drone command sites at the weekend - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-struck-iranian-drone-command-sites-over-weekend-military-says-2026-06-01/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "May 30, 2026 · 16:27 BRT",
-      "pub_date": "2026-05-30",
-      "pub_ts": 1780169263,
+      "published": "Jun 01, 2026 · 00:50 BRT",
+      "pub_date": "2026-06-01",
+      "pub_ts": 1780285857,
       "summary": "",
       "tags": [
         "extracted",
@@ -18559,6 +18512,62 @@
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Factories face soaring costs as Iran war causes supply shocks - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/global-economy-asias-factory-output-expands-firms-stockpile-buffers-over-iran-2026-06-01/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 01, 2026 · 01:07 BRT",
+      "pub_date": "2026-06-01",
+      "pub_ts": 1780286820,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil Prices Jump as U.S. and Iran Exchange Fire - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 01, 2026 · 03:34 BRT",
+      "pub_date": "2026-06-01",
+      "pub_ts": 1780295653,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US and Iran launch fresh strikes as peace efforts continue - Financial Times",
+      "url": "https://www.ft.com/content/b425ebc9-18a9-4a0c-987d-10837df565bb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Jun 01, 2026 · 07:07 BRT",
+      "pub_date": "2026-06-01",
+      "pub_ts": 1780308450,
+      "summary": "Washington and Tehran are still trying to formalise a ceasefire",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
       "sentiment_success": false
     }
   ],
@@ -29718,7 +29727,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-05-31T11:05:38.880355+00:00",
-  "last_watch_time": "2026-05-31T11:05:47.349638+00:00",
-  "last_relevant_time": "2026-05-31T11:05:47.838565+00:00"
+  "last_digest_time": "2026-06-01T11:06:08.680157+00:00",
+  "last_watch_time": "2026-06-01T11:06:19.371431+00:00",
+  "last_relevant_time": "2026-06-01T11:06:20.058416+00:00"
 }

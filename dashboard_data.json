@@ -18209,7 +18209,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-01"
+      "pub_date": "2026-05-31"
     },
     "https://www.reuters.com/world/asia-pacific/japans-q1-capex-stalls-iran-war-concerns-weigh-business-confidence-2026-06-01/": {
       "summary": "",
@@ -18366,6 +18366,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-01/pakistan-inflation-climbs-as-iran-war-drives-energy-costs": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.ft.com/content/b425ebc9-18a9-4a0c-987d-10837df565bb?syn-25a6b1a6=1": {
+      "summary": "Washington and Tehran are still trying to formalise a ceasefire",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

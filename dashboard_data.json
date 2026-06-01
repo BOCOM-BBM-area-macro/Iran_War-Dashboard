@@ -17980,7 +17980,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-31"
+      "pub_date": "2026-05-30"
     },
     "https://www.bloomberg.com/opinion/articles/2026-05-31/iran-war-incompetent-us-diplomats-are-not-the-only-option-for-global-peace?srnd=phx-trump-second-term": {
       "summary": "",
@@ -18503,11 +18503,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.timesofisrael.com/1-in-3-israelis-faces-lower-income-as-iran-war-deepens-financial-strain/": {
+      "summary": "After more than two and a half years of wars, more than 50% of workers in the north report income losses, and suffer a similar plunge in employment scope, poll finds",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-01",
-  "last_generated_time": "2026-06-01T13:01:51.089322+00:00",
+  "last_generated_time": "2026-06-01T14:01:49.678629+00:00",
   "digest": {
     "digest": "Recent developments indicate continued military exchanges between the United States and Iran, with reports of US strikes on Iranian drone command sites and Iranian targets in southern Iran. Concurrently, diplomatic efforts to formalize a ceasefire persist, though progress remains elusive, contributing to a broader stalemate in peace talks. The US military has been actively involved in guiding commercial vessels through the Strait of Hormuz, facilitating the passage of approximately 70 ships in the past three weeks. Global markets are closely monitoring these developments, with oil prices experiencing fluctuations due to the ongoing conflict and its impact on supply. Economic consequences are evident in rising inflation in countries like Pakistan, driven by increased energy costs, and Japanese firms are reducing investment due to the uncertain outlook. Despite the ongoing conflict and its associated risks, some market analyses suggest a potential for lower oil demand to offset some of the war's impact, while broader market rallies continue to power past the perceived war stalemate.",
     "top_themes": [
@@ -18866,6 +18876,20 @@
           "published": "May 29, 2026 · 08:33 BRT",
           "pub_date": "2026-05-29",
           "pub_ts": 1780054412,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Prices Fall as U.S. and Iran Edge Closer to Agreement - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81alNPQmtOd1RoUzRXemJhbDFkeGNmVmpiLUdDOGxiVGVTVGwxUl9aWXhOR1FsT2NTSVY1d0xrWXpxUHNjR0dwS210OER3dVBPa3ZqdGEweFNUXzVJT1ZFeld0MUg4WnZuYTBXVDEtbDBkVTVIbVZV?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 29, 2026 · 05:23 BRT",
+          "pub_date": "2026-05-29",
+          "pub_ts": 1780042980,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

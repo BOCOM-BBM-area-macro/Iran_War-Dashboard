@@ -18309,10 +18309,20 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-31"
+      "pub_date": "2026-06-01"
     },
     "https://www.ft.com/content/b425ebc9-18a9-4a0c-987d-10837df565bb": {
       "summary": "Washington and Tehran are still trying formalise a ceasefire",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.ft.com/content/668d221d-0893-48ef-a2f9-fdfe4623031b?syn-25a6b1a6=1": {
+      "summary": "FT analysis shows economists more optimistic now than 3 months after Russia’s full-scale invasion of Ukraine",
       "tags": [
         "extracted",
         "ft.com"

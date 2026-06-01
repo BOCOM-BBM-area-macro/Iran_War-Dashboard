@@ -17416,7 +17416,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-28"
+      "pub_date": "2026-05-27"
     },
     "https://www.nytimes.com/2026/05/28/briefing/iran-inflation-spelling-bee.html": {
       "summary": "Plus, the Scripps National Spelling Bee. Here’s the latest at the end of Thursday.",
@@ -18420,11 +18420,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-01",
-  "last_generated_time": "2026-06-01T08:02:27.999293+00:00",
+  "last_generated_time": "2026-06-01T09:02:14.137336+00:00",
   "digest": {
     "digest": "Recent developments indicate continued military exchanges between the United States and Iran, with reports of US strikes on Iranian drone command sites and Iranian targets in southern Iran. Concurrently, diplomatic efforts to formalize a ceasefire persist, though progress remains elusive, contributing to a broader stalemate in peace talks. The US military has been actively involved in guiding commercial vessels through the Strait of Hormuz, facilitating the passage of approximately 70 ships in the past three weeks. Global markets are closely monitoring these developments, with oil prices experiencing fluctuations due to the ongoing conflict and its impact on supply. Economic consequences are evident in rising inflation in countries like Pakistan, driven by increased energy costs, and Japanese firms are reducing investment due to the uncertain outlook. Despite the ongoing conflict and its associated risks, some market analyses suggest a potential for lower oil demand to offset some of the war's impact, while broader market rallies continue to power past the perceived war stalemate.",
     "top_themes": [
@@ -18578,6 +18598,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Japan, South Korea stocks hit more records, as oil gains on Iran war ending fragility - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkxYQ0hfb3EzeDhXTUIxNHE2QWNNTlViaWN1Y2h0c0xDZjVnRnZqTjIxdktGZzVHa3NpMVVWcEE4ZkVYNHpSZUxfRUZmRGtpRXI2RVNGZ0hic3Y4THpyb3dZWlZVSnY5MHNLU3N0OU43eWlqMks1b3UtUjZYdlBEOEE0SHlPUFVsWE51X1JMV0tMNFIzeU92bU9NRzduNUNKNWRQY0xzdDl6bUVzRzNmSC1XM1RjSWg4SlNEalpLV0pDbGF1ck9DU2M5SDdWOWtv?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 01, 2026 · 05:40 BRT",
+          "pub_date": "2026-06-01",
+          "pub_ts": 1780303210,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Rises as War Deal Remains Illusive - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0owV0VLUEdXa0VnNGFyYXlLanQzWWFGdzRzSnF0RlBuVncybFpXa25TZmlfa2gxUTl3bGVQdzZ2dllncmI0Uk9hQlJUelRBSXhzcUJ0NDctUmZaM3BUbk5WSnE2VWZIaW1ZLXpfaGE2aHNkcWNTbE90Rmx3bEsyYzBZbXlnNWhaX3hDQXdtcVVHWDJncWNz?oc=5",

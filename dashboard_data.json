@@ -18290,6 +18290,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.wsj.com/world/middle-east/trump-wants-arab-states-to-recognize-israel-the-war-has-made-that-harder-32cb449e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-31"
+    },
+    "https://www.ft.com/content/b425ebc9-18a9-4a0c-987d-10837df565bb": {
+      "summary": "Washington and Tehran are still trying formalise a ceasefire",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,

@@ -17980,7 +17980,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-31"
+      "pub_date": "2026-05-30"
     },
     "https://www.bloomberg.com/opinion/articles/2026-05-31/iran-war-incompetent-us-diplomats-are-not-the-only-option-for-global-peace?srnd=phx-trump-second-term": {
       "summary": "",
@@ -18656,6 +18656,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.reuters.com/world/india/indian-shares-open-lower-iran-war-fund-outflows-continue-weigh-2026-06-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
@@ -18921,6 +18931,20 @@
           "published": "May 31, 2026 · 22:57 BRT",
           "pub_date": "2026-05-31",
           "pub_ts": 1780279020,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Stocks steady at record highs as AI optimism trumps Iran tensions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRk9ON041eXk2OUtrQ0NFZTdHeXJCVG8zemM5OHkzX18tSnA5aThmdlczZ1lnZ19vN0tSenhmVTV1b05RMEJGTzdvaDVUd1pMR2Mza1lhWWtFaHVHV3V5Y2NSV1prOUtGNTgzTU56aUdaT1ZJRC0xVWloakpndUFTdWpqRQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 31, 2026 · 21:55 BRT",
+          "pub_date": "2026-05-31",
+          "pub_ts": 1780275300,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

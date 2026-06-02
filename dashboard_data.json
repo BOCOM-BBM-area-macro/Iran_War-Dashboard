@@ -18429,7 +18429,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-01"
+      "pub_date": "2026-06-02"
     },
     "https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html": {
       "summary": "",
@@ -18756,6 +18756,52 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.reuters.com/world/india/indian-firms-beat-fourth-quarter-estimates-iran-war-dims-outlook-2026-06-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-898095": {
+      "summary": "Future wars with Iran are likely to be longer in duration, while Israel's defense sales record breaks its record again, reaching USD 19 billion.",
+      "tags": [
+        "Defense Ministry",
+        "IDF",
+        "Iran",
+        "Saudi Arabia",
+        "UAE"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-02/uk-mortgage-approvals-climb-to-15-month-high-despite-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-898099": {
+      "summary": "A senior Iranian commander said sites that produce military equipment are \"completely hidden from the enemy's view,\" signaling to the US and Israel that Iran is still managing to produce weapons.",
+      "tags": [
+        "Iran",
+        "iran israel war",
+        "manufacture",
+        "weapons",
+        "USA"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
     }
   },
   "last_run_success": true,
@@ -19427,6 +19473,20 @@
           "published": "May 27, 2026 · 05:58 BRT",
           "pub_date": "2026-05-27",
           "pub_ts": 1779872281,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Prices Fall as Uneasy Truce Holds Between U.S. and Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XZGRkZ3J0UDA3d1hfcEIyT0NleGFWeDEyLXJta1F0dXNKRkFma3FCQ01BSWs5UHllb195VGV6VWVMSWIzQlp4NlEzLXVYZm5Rd2hzZExaNXBzeV9ZUzlqNXN3REl1NkhuaEJWb0VhUmRMejgzUGc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 05:57 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779872235,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -29612,6 +29672,34 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Indian firms beat fourth-quarter estimates, but Iran war dims outlook - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTQ1dUZxMXI5UDNoTkpwcmpTdTl3ZTFoZFozLURTcVZSZm9xd1N6LTBrM0ZOMndHb3Y4Z0lKVGhzS0hac1RQR09RWDY3bGJMVUNRREdsZk04bzQ5LTQtRktLdXRVZHlXV1FDQWJZSGxTY2t5cmxoUU1FUktIY21oYW5UVWdKQnZvNW9IeTNZMTM4Z1k4NmZMZzJTV3gtQ1Fyd2t1SVFqZlY0WVRFY1Niclh3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 06:18 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780391884,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Aluminum Advances to Four-Year High on Tighter Global Market - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTF0dU1WUm1KMzNfa09FOUwxQXFLaGNnM1BWMzUtbzZweVNnX0dfWVZVV2RaVXU1WnAteUk4Slp3X1VXWEZ0WGRPY21Makw3TUVnT3cwU0FvNTJDQVh2SExYWTVXNno3T3I4YW01enpsbDhGMEtUeGFSZXFXLUNrTzY1bDdFWUI2ejZGTFJvV2ptamQyN3JCYmh5eDFJZHduVE90U2dNWTNhcGdwM2dIcA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 04:32 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780385553,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Aluminum Under Pressure, While Poland Surges Ahead - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVVsanlpQUtIZEhEaUo0Z045X0xIbk1mX2NBNk5vSTRPNlJzOXdPRlEzV0dhRUJZX3dzTFFsOXk3RVJrdkRhUzFjblFTLWRVMTEzNXk4SWVNdFpMN1hzeWVPM21iZng1M0hwWmRoTTNacHlNZnVjYXNpNDQ5ZFp5UmdsVUFxN1hLc0w4bFlwdWxoS0MwSnhZTWVsUkY4WGhYajVGLU1n?oc=5",

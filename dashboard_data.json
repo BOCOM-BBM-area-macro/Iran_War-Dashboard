@@ -18668,14 +18668,14 @@
       "pub_date": "2026-06-01"
     },
     "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon": {
-      "summary": "",
+      "summary": "President Trump wrote on social media that Israel and Hezbollah had “agreed” not to attack each other. Prime Minister Benjamin Netanyahu later distanced himself from talks of a cease-fire in Lebanon.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-01"
+      "pub_date": "2026-06-02"
     },
     "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html": {
       "summary": "",
@@ -18994,11 +18994,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-02"
+    },
+    "https://www.nytimes.com/2026/06/02/climate/iran-warn-global-shortages.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-02",
-  "last_generated_time": "2026-06-02T16:01:30.536532+00:00",
+  "last_generated_time": "2026-06-02T17:01:59.746527+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant pressure on global markets and diplomatic relations. Ceasefire talks have faltered, with Iran breaking off discussions over Israeli attacks on Lebanon, while a partial ceasefire between Israel and Hezbollah has been announced but attacks persist. Despite a day of tension, Israel and Iran appear to have stepped back from direct threats. US lawmakers are scrutinizing the ongoing conflict, now in its fourth month. The war is profoundly impacting the global gas trade, pushing it into the shadows, and has led to record US crude exports as global oil supplies tighten. Eurozone firms are struggling to raise prices, and the Indian economy faces a dimmed outlook despite beating quarterly estimates, with the Reserve Bank of India in a policy bind. Australia's wheat output is expected to shrink due to war-related costs. Iran's military sites are reportedly well-hidden and capable of sustaining production, according to a senior IRGC general. The UAE faces significant economic risks from Iranian strikes, which are seen as a sign of strategic desperation, potentially harming Iran's own sanctions-evasion hubs and economic lifeline. Despite the war's impact, UK mortgage approvals have reached a 15-month high, and Wall Street has seen gains amid hopes for US-Iran peace. Syria is experiencing a windfall as airlines reroute over its airspace, while DHL Express considers aviation fuel supplies secure. The conflict has imposed substantial costs on American consumers, with increased spending on fuel-related expenses and rising airline fares, threatening the already soft economy if the war extends.",
     "top_themes": [
@@ -25966,6 +25976,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "The Iran War Has Led to Months of Global Shortages - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwODZha3VOdzl2T3ZQNGw1RFdabE9yVThEeVdabFBvODAzaFRsamNMWUJjblJfZlFPS3hQYWRSb3lxUnpVZVFsdDFVU19SODNSdzJNa3BXRGxUaHBPWnFzeml2RTVMSlNKRWFsNGU2elRFMHptc2NYZExUQVFHUUk?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 16:40 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780429210,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Is Pushing the Global Gas Trade Into the Shadows - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWNXa3M2RF9zSWJVcV9kRUdUR1dPc0xOWlVQNEJ4eWR5a3AtY0lHVUtXNk9TOWtkc1NQS2RWbGlIV0VHWk55aTkxWU0tV3otTndWRHpLWG1WeEQtcTJnQUl2RWFOOHA4NnJtYUhES2F4Nk0wcG5NWGo2V05CdWVZMnFMcUlGZWJsbTdNcWp1aGxjR1ZYZ09wYXVHZDBCd1J4QW0wQXFUaVNFdzVVNXd4MGZmaGYtcXVmUWJScDB2TzZuSm9XamxEMjg2Zw?oc=5",

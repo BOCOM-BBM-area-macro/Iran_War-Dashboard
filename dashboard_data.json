@@ -18802,56 +18802,108 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-02"
+    },
+    "https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.washingtonpost.com/national-security/2026/06/02/rubio-meet-with-congress-iran-ceasefire-falters/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.reuters.com/business/energy/dhl-express-considers-aviation-fuel-supplies-secure-summer-despite-iran-war-2026-06-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-02/south-africa-business-mood-slips-as-iran-war-upends-rate-outlook": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-898101": {
+      "summary": "Beyond its role as a major trading partner, the UAE serves as one of Iran’s principal sanctions-evasion hubs.",
+      "tags": [
+        "Iran",
+        "strike",
+        "iran israel war",
+        "trade",
+        "UAE"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-01",
-  "last_generated_time": "2026-06-01T23:01:43.091067+00:00",
+  "last_generated_date": "2026-06-02",
+  "last_generated_time": "2026-06-02T08:01:48.658839+00:00",
   "digest": {
-    "digest": "Recent developments indicate continued military exchanges between the United States and Iran, with reports of US strikes on Iranian drone command sites and Iranian targets in southern Iran. Concurrently, diplomatic efforts to formalize a ceasefire persist, though progress remains elusive, contributing to a broader stalemate in peace talks. The US military has been actively involved in guiding commercial vessels through the Strait of Hormuz, facilitating the passage of approximately 70 ships in the past three weeks. Global markets are closely monitoring these developments, with oil prices experiencing fluctuations due to the ongoing conflict and its impact on supply. Economic consequences are evident in rising inflation in countries like Pakistan, driven by increased energy costs, and Japanese firms are reducing investment due to the uncertain outlook. Despite the ongoing conflict and its associated risks, some market analyses suggest a potential for lower oil demand to offset some of the war's impact, while broader market rallies continue to power past the perceived war stalemate.",
+    "digest": "The Iran war continues to exert significant pressure on global markets and diplomatic relations. Ceasefire talks have faltered, with Iran breaking off discussions over Israeli attacks on Lebanon, while a partial ceasefire between Israel and Hezbollah has been announced but attacks persist. Despite a day of tension, Israel and Iran appear to have stepped back from direct threats. US lawmakers are scrutinizing the ongoing conflict, now in its fourth month. The war is profoundly impacting the global gas trade, pushing it into the shadows, and has led to record US crude exports as global oil supplies tighten. Eurozone firms are struggling to raise prices, and the Indian economy faces a dimmed outlook despite beating quarterly estimates, with the Reserve Bank of India in a policy bind. Australia's wheat output is expected to shrink due to war-related costs. Iran's military sites are reportedly well-hidden and capable of sustaining production, according to a senior IRGC general. The UAE faces significant economic risks from Iranian strikes, which are seen as a sign of strategic desperation, potentially harming Iran's own sanctions-evasion hubs and economic lifeline. Despite the war's impact, UK mortgage approvals have reached a 15-month high, and Wall Street has seen gains amid hopes for US-Iran peace. Syria is experiencing a windfall as airlines reroute over its airspace, while DHL Express considers aviation fuel supplies secure. The conflict has imposed substantial costs on American consumers, with increased spending on fuel-related expenses and rising airline fares, threatening the already soft economy if the war extends.",
     "top_themes": [
-      "US-Iran Military Exchanges",
-      "Strait of Hormuz Operations",
-      "Global Economic Impacts",
-      "Diplomatic Stalemate"
+      "Geopolitical Tensions and Diplomacy",
+      "Global Economic Impact",
+      "Energy Market Volatility"
     ],
     "next_events": [
       {
-        "title": "Progress in US-Iran Peace Negotiations",
-        "description": "Multiple articles highlight ongoing peace proposals and Trump's statements about a potential deal, despite continued clashes. Analysts should monitor any formalization of a ceasefire, the specifics of proposed agreements, and whether the current diplomatic stalemate can be broken, especially concerning broader regional recognition efforts."
+        "title": "Future of Iran-Israel Ceasefire Talks",
+        "description": "Recent reports indicate a breakdown in ceasefire talks between Iran and Israel, with negotiations faltering despite earlier hopes for peace. Analysts should monitor any renewed diplomatic efforts or further escalation following the cessation of talks, as this will dictate the immediate trajectory of the conflict."
       },
       {
-        "title": "Escalation or De-escalation of Military Engagements",
-        "description": "The US and Iran have been trading strikes, with the US targeting military sites and drone command centers. Watch for the frequency and intensity of these strikes, any expansion of targets, or conversely, signs of a reduction in military activity as a precursor to diplomatic breakthroughs. The involvement of other regional actors, like Kuwait coming under fire, also bears watching."
+        "title": "Iran's Economic Deterioration and Regional Trade Shifts",
+        "description": "Iran's 'self-harming' attacks on the UAE, a vital trade and sanctions-evasion partner, are severely impacting its economy, leading to rising inflation and potential internal unrest. Watch for further tightening of restrictions by Gulf states on Iranian-linked businesses and any signs of increased trade with alternative partners like Turkey, Pakistan, or Iraq, which could reshape regional economic dynamics."
       },
       {
-        "title": "Impact on Global Oil Markets and Inflation",
-        "description": "The conflict is a significant driver of oil price volatility, with mentions of oil rising due to clashes and Goldman Sachs noting two-sided risks. Analysts should track crude oil benchmarks, global inflation rates (especially energy-driven inflation in countries like Pakistan), and the potential for further supply shocks impacting factory costs and consumer prices worldwide."
+        "title": "Global Energy Market Instability",
+        "description": "The Iran war continues to disrupt global energy markets, pushing the gas trade into the shadows and tightening oil supplies, leading to record US crude exports. Monitor crude prices, gas trade routes, and the impact of any further attacks on energy infrastructure, as these will directly influence global inflation and consumer costs."
       },
       {
-        "title": "Security of the Strait of Hormuz",
-        "description": "The U.S. military is actively guiding commercial ships through the Strait of Hormuz, a critical chokepoint for global oil supply. Any incidents, disruptions, or changes in the U.S. presence or guidance operations in this strait would have immediate and severe implications for global energy markets and international shipping."
+        "title": "Evolving Middle East Alliances and Military Posture",
+        "description": "The conflict is reshaping regional alliances, with Israel's ties to other Middle Eastern states potentially strengthening. Simultaneously, Iran continues to boast about its hidden military production capabilities. Observe how Gulf states, particularly the UAE, adjust their security and economic policies towards Iran, and any new defense agreements or military buildups in the region."
       },
       {
-        "title": "Regional Geopolitical Realignment",
-        "description": "The conflict is shifting the Middle East order, with countries like Turkey seeking to benefit and the challenge of Arab states recognizing Israel becoming harder. Watch for statements and actions from regional powers, shifts in alliances, and how the ongoing conflict influences broader diplomatic efforts and power dynamics across the Middle East."
+        "title": "US Stance and Congressional Action on Iran",
+        "description": "US lawmakers are actively engaging with officials like Rubio as the Iran war continues, despite President Trump's apparent disinterest in negotiations. Watch for any shifts in US policy, new legislative initiatives, or changes in diplomatic engagement that could influence the conflict's trajectory or international response."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran and US trade strikes, Kuwait comes under fire as diplomacy drags on - Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack-2026-06-01/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 01, 2026 · 01:17 BRT",
-      "pub_date": "2026-06-01",
-      "pub_ts": 1780287420,
+      "title": "Iran says it is breaking off ceasefire talks over Israeli attacks on Lebanon - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 02, 2026 · 07:27 BRT",
+      "pub_date": "2026-06-02",
+      "pub_ts": 1780396043,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -18859,14 +18911,14 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. Says It Hit More Military Targets in Southern Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/us-strikes-iran-goruk-qeshm.html",
+      "title": "Israel and Iran Step Back From Threats After Day of Tension - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 01, 2026 · 03:52 BRT",
+      "published": "Jun 01, 2026 · 21:45 BRT",
       "pub_date": "2026-06-01",
-      "pub_ts": 1780296723,
+      "pub_ts": 1780361149,
       "summary": "",
       "tags": [
         "extracted",
@@ -18878,14 +18930,14 @@
       "sentiment_success": false
     },
     {
-      "title": "US says it struck Iranian drone command sites at the weekend - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-struck-iranian-drone-command-sites-over-weekend-military-says-2026-06-01/",
+      "title": "US lawmakers to grill Rubio, as Iran war enters fourth month - Reuters",
+      "url": "https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 01, 2026 · 00:50 BRT",
-      "pub_date": "2026-06-01",
-      "pub_ts": 1780285857,
+      "published": "Jun 02, 2026 · 07:36 BRT",
+      "pub_date": "2026-06-02",
+      "pub_ts": 1780396598,
       "summary": "",
       "tags": [
         "extracted",
@@ -18897,14 +18949,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Factories face soaring costs as Iran war causes supply shocks - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/global-economy-asias-factory-output-expands-firms-stockpile-buffers-over-iran-2026-06-01/",
+      "title": "Rubio to meet with Congress as Iran ceasefire falters - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/06/02/rubio-meet-with-congress-iran-ceasefire-falters/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 02, 2026 · 07:05 BRT",
+      "pub_date": "2026-06-02",
+      "pub_ts": 1780394718,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US crude exports hit record high in May as Iran war tightens global oil supplies - Reuters",
+      "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 01, 2026 · 01:07 BRT",
+      "published": "Jun 01, 2026 · 15:00 BRT",
       "pub_date": "2026-06-01",
-      "pub_ts": 1780286820,
+      "pub_ts": 1780336843,
       "summary": "",
       "tags": [
         "extracted",
@@ -18916,40 +18987,22 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil Prices Jump as U.S. and Iran Exchange Fire - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 01, 2026 · 03:34 BRT",
+      "title": "Exclusive: Iran war hands Syria windfall as airlines reroute over its airspace - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-war-hands-syria-windfall-airlines-reroute-over-its-airspace-2026-06-01/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 01, 2026 · 15:57 BRT",
       "pub_date": "2026-06-01",
-      "pub_ts": 1780295653,
+      "pub_ts": 1780340220,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US and Iran launch fresh strikes as peace efforts continue - Financial Times",
-      "url": "https://www.ft.com/content/b425ebc9-18a9-4a0c-987d-10837df565bb?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Jun 01, 2026 · 07:07 BRT",
-      "pub_date": "2026-06-01",
-      "pub_ts": 1780308450,
-      "summary": "Washington and Tehran are still trying to formalise a ceasefire",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
       "sentiment_success": false
     }
   ],
@@ -25775,6 +25828,20 @@
           "_rank": 0
         },
         {
+          "title": "Iran, Gas Prices, the Ballroom: Trump Professes Indifference Over Fallout - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZE5PNXlKc2tqMFgxZzYtQUhVSkdERFhNVHpyWm1hQVhadEE5NEExT28xYXpqUjRMN18xV0hidWJVSlJhVVZobkpwa05rTHpQeDVlUW5ianRpdXQ2el9QRjNwVlFwRFhldWdKMW1OR19vdG11TVJ5UlQ4aFpteTJRM1BIN1NNVEV2cFRwYWZTX2hadw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 28, 2026 · 18:16 BRT",
+          "pub_date": "2026-05-28",
+          "pub_ts": 1780003015,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iraq faces summer blackouts as Iran war upends energy flows - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1bGVRRDkxeEZNLVlteTBiMEhYbXVVY2JzVjdHN1ZrUVFmbE94ZVh2N2k4NFZ3eXZtSmpsOTEzQzhZYlAwMnpHbFdCN1E1OHRTM3ZjdUo0NkItb3hNS3pJRmJFQWs0Z2NHclRnNUI3VTg?oc=5",
           "source": "Financial Times",
@@ -27585,6 +27652,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "DHL Express considers aviation fuel supplies secure for summer despite Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTHZxMWpENDVnOGg0ZEk5eTJyTlZvdjBZMjBEcmo1cVRoSEZHaU4xcnM4ZV9NbFRBWXB2LUY1MVBXZlNGSE9FaEdJcnQyS0xoN0dkZGJSYjB1ZnIzbHpJakZhMDVHRmtZTXFaVWF3RGVoV1hKejdOVmpvZzJ0VS1NWVVyamxMaDg1UTlra0hSUHdNT2lGbldpeVpHRk5OVFo3XzZlSW5Rd3ZwQXhxaDVSUUt5ZnlVZjBpbmc3aFlDVGlCRXo2cXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 07:33 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780396427,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Baton Rouge to Melbourne: Iran war and rising prices upend jet fuel trade - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWhHVFZyUHM5WFVsd1AtbmJiODRuWDJjWHBuZVFERVU3UnlmUERHOEJ0cHRUQy1OYklLX0ItdDdxSlJ2cEJtWFRVdU1EXzJKZzlCV2xMcXZDblZiNUhzdER1Tnk2LVp1MUxIck5KTnhmTHN1bHUyRXhraXNJOFltVS1zeW42TTlOeG1FQnNOTHdPd1hJVzNmajdSRDU4N1dnN1ZybHRxWC1zTWxTcUNWeHpnRF83U3Z0?oc=5",
@@ -30333,7 +30414,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-01T11:06:08.680157+00:00",
-  "last_watch_time": "2026-06-01T11:06:19.371431+00:00",
-  "last_relevant_time": "2026-06-01T11:06:20.058416+00:00"
+  "last_digest_time": "2026-06-02T11:06:17.807154+00:00",
+  "last_watch_time": "2026-06-02T11:06:28.287025+00:00",
+  "last_relevant_time": "2026-06-02T11:06:28.864330+00:00"
 }

@@ -18675,7 +18675,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-02"
+      "pub_date": "2026-06-01"
     },
     "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html": {
       "summary": "",
@@ -18855,11 +18855,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-02"
+    },
+    "https://www.jpost.com/opinion/article-898004": {
+      "summary": "From deterrence to diplomacy, the Iran war upended long-held beliefs about security in the Middle East.",
+      "tags": [
+        "Gaza",
+        "China",
+        "Saudi Arabia",
+        "Ukraine",
+        "Venezuela"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.nytimes.com/2026/06/02/us/politics/marco-rubio-senate-budget-iran-cuba.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-02/how-iran-war-is-disrupting-farming-fertilizer-production-food-industry": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-02",
-  "last_generated_time": "2026-06-02T09:01:24.862819+00:00",
+  "last_generated_time": "2026-06-02T10:02:08.004934+00:00",
   "digest": {
     "digest": "The Iran war continues to exert significant pressure on global markets and diplomatic relations. Ceasefire talks have faltered, with Iran breaking off discussions over Israeli attacks on Lebanon, while a partial ceasefire between Israel and Hezbollah has been announced but attacks persist. Despite a day of tension, Israel and Iran appear to have stepped back from direct threats. US lawmakers are scrutinizing the ongoing conflict, now in its fourth month. The war is profoundly impacting the global gas trade, pushing it into the shadows, and has led to record US crude exports as global oil supplies tighten. Eurozone firms are struggling to raise prices, and the Indian economy faces a dimmed outlook despite beating quarterly estimates, with the Reserve Bank of India in a policy bind. Australia's wheat output is expected to shrink due to war-related costs. Iran's military sites are reportedly well-hidden and capable of sustaining production, according to a senior IRGC general. The UAE faces significant economic risks from Iranian strikes, which are seen as a sign of strategic desperation, potentially harming Iran's own sanctions-evasion hubs and economic lifeline. Despite the war's impact, UK mortgage approvals have reached a 15-month high, and Wall Street has seen gains amid hopes for US-Iran peace. Syria is experiencing a windfall as airlines reroute over its airspace, while DHL Express considers aviation fuel supplies secure. The conflict has imposed substantial costs on American consumers, with increased spending on fuel-related expenses and rising airline fares, threatening the already soft economy if the war extends.",
     "top_themes": [
@@ -19022,6 +19055,20 @@
           "published": "Jun 02, 2026 · 08:03 BRT",
           "pub_date": "2026-06-02",
           "pub_ts": 1780398199,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil falls more than 1% as Iran reviews proposed US agreement - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZaWGJPbHBSQnUxdWZ6U3l6a3otSGFQSVNoTmpQNWJORWEtZ1dXeE42NGp2c2s4anV6UVFYenhsNHcycHh5UnhYUTJLRFlIbS1ONElzNzBCT2RsX0ROZVh4RXk3SmhKQmc0UXlFa1l4Sm5admU2LUNkdWxaZENkSmN3ZHJnbU1UYTJDbHZUdUJiNFFJZ3lfOTJmTnFKV21LQXZxcE1sWUF3TGZ5N3A4ZFROTTU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 01, 2026 · 21:43 BRT",
+          "pub_date": "2026-06-01",
+          "pub_ts": 1780360980,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -24507,6 +24554,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Watch Iran War: Diesel Inventories May Reach Critical Levels by August, Goldman’s Struyven Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVBpVjlDNlZRU3F2YzRUaXFtZHVnVWkwbzZwSVR2aF9QTTE3cG9ZUVNseDdTYjNkcXRVSEpHdU9DLThzcWlQTl9hTHpXMG16VXJzb0Nzbml5N3JaWXNyc3JKYTE0cXp2WnlzYnBMQ29wM29taV9BSzRST0RvellGSjk1VHBSUGRiXzctbmFlR1NIZVJLU3NteGhFZHk3N1AtekRCZ0YtOVVWTUk?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 01, 2026 · 21:00 BRT",
+          "pub_date": "2026-06-01",
+          "pub_ts": 1780358400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Australia extends measure that releases petrol and diesel from domestic reserves - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeURrQlFoZ18yVkRlQ0taNEVWZFN6eHYxdWM1VWhRdW1oZk52ZTcwT3lxRVhkWUdFZF82MVE4bjQ5azF1Y09Gd2JObjNZWTlQamhvV0s5R1NJWWZKb2NEdk9oUzZLX3BCeGFxYkpCc3phTVhnZzd0S0Q2d1lLQlE5dzc5VjdrajVRMjktb3FZUkMteDYyWFpmQlhkOUI1QnpJX2tUYzVCMkxXY2o0cFBidTNFX1Z2MEdFZkZ2cnZsVXc?oc=5",
           "source": "Reuters",
@@ -28626,6 +28687,20 @@
         {
           "title": "How the Iran War Is Shaking Up Food Supply Chains - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnNuQ1RVaEdhS0VXUHhITGVTTjdwMTNyWjRHdzZ2LXZLSlFjeWhrV19mZzYtRWV4ckE4R2EzTmgtbHRhS2hyN2tydG1MbWRpWGxveURzVDgzaFpLcnJjWW9sN0ZtWGxld1I4MlpOcVJQU2t0QlpVbkJOOE85dk1KRjhMLXpiYkFacEUxUHBCcjNHSGR3dTdnZ3JWUS1PTVdCT2JXYWJiZ3JyVHFjblJVbUI3cmt3Mm1aNmpTRDJ3?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 08:06 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780398361,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How the Iran War Is Shaking Up Food Supply Chains - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDV6SktSb29Vdlc0TElOaVFzWUxpeTZRV3NFNG54R3h4ZmZGa19zTG9SOHBFRTVaSWJfTnJaZWVHSEZMODd3YnducjVtWE9VTzdvY2dUOURzZndXTGJ2bkN4eHRaUWFlYnlOYjhJSjdHUjBXMTUxcUpzSWNQbmxBY0UybGVoWGJrNDVxTS1WZ3F5OW5Nd1pIYnFSUXlJN29MWmY0c2hoOWtjVlFUbm0tWEdNeHU0cy1WREpia0VrT0I2alJRV2I4blllUDNRd0piSjZONDhFeFRUbTlf?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

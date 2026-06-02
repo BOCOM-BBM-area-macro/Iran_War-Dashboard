@@ -18675,13 +18675,33 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-02"
+      "pub_date": "2026-06-01"
     },
     "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html": {
       "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.reuters.com/business/finance/euro-zone-firms-struggle-raise-prices-despite-iran-war-shock-2026-06-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-01/gold-holds-fall-as-traders-digest-confusion-over-us-iran-talks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -25695,6 +25715,20 @@
           "published": "May 28, 2026 · 01:21 BRT",
           "pub_date": "2026-05-28",
           "pub_ts": 1779942060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump Says He Feels No Political Pressure to Make an Iran Deal - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRll1ZlI0Z1ViRmNVRklMWTVycWhjSGpCc1p6SW5qaFpySHNQTW5NREwwS0pTQmpYNkU2OG5JZWhtNVRTdW1vVzNXVjlPbUNhYnk1U2ZXd1FLaEtHNTRQQ0RnOEZvQ3pncVNkb2syNHNVWHBZcEdRS0psYy12NUpncklReDhaZw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "May 27, 2026 · 17:26 BRT",
+          "pub_date": "2026-05-27",
+          "pub_ts": 1779913613,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

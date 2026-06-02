@@ -18706,6 +18706,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-02/iran-war-pushes-gas-trade-to-rip-up-rulebook-as-tankers-sail-dark-through-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
+    },
+    "https://www.wsj.com/opinion/iran-hezbollah-lebanon-israel-cease-fire-donald-trump-1edf1c6a": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
@@ -25622,6 +25642,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "The Iran War Is Pushing the Global Gas Trade Into the Shadows - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWNXa3M2RF9zSWJVcV9kRUdUR1dPc0xOWlVQNEJ4eWR5a3AtY0lHVUtXNk9TOWtkc1NQS2RWbGlIV0VHWk55aTkxWU0tV3otTndWRHpLWG1WeEQtcTJnQUl2RWFOOHA4NnJtYUhES2F4Nk0wcG5NWGo2V05CdWVZMnFMcUlGZWJsbTdNcWp1aGxjR1ZYZ09wYXVHZDBCd1J4QW0wQXFUaVNFdzVVNXd4MGZmaGYtcXVmUWJScDB2TzZuSm9XamxEMjg2Zw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 03:00 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780380000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "They Voted for Trump. Here’s How They Feel About High Gas Prices. - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkxzemZrYmw3UWVuSWJZU3R6N0J3Mko5OThuc21xSjJsYzNoc3kxTGJNM0l3S3o1c2xwcVNMSDdVc1NBeVdDald5S2tmaDJTMjRsS1BJLXBSdDctd0xraHFlWTI5LXlmTG8zeDhwQ1FFRUppOE4zUHZIWDNnRk1ydkZOMA?oc=5",

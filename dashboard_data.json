@@ -17980,7 +17980,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-30"
+      "pub_date": "2026-05-31"
     },
     "https://www.bloomberg.com/opinion/articles/2026-05-31/iran-war-incompetent-us-diplomats-are-not-the-only-option-for-global-peace?srnd=phx-trump-second-term": {
       "summary": "",
@@ -18626,11 +18626,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.nytimes.com/2026/06/01/nyregion/nyc-synagogue-plot-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-01",
-  "last_generated_time": "2026-06-01T21:01:56.911520+00:00",
+  "last_generated_time": "2026-06-01T22:01:56.778488+00:00",
   "digest": {
     "digest": "Recent developments indicate continued military exchanges between the United States and Iran, with reports of US strikes on Iranian drone command sites and Iranian targets in southern Iran. Concurrently, diplomatic efforts to formalize a ceasefire persist, though progress remains elusive, contributing to a broader stalemate in peace talks. The US military has been actively involved in guiding commercial vessels through the Strait of Hormuz, facilitating the passage of approximately 70 ships in the past three weeks. Global markets are closely monitoring these developments, with oil prices experiencing fluctuations due to the ongoing conflict and its impact on supply. Economic consequences are evident in rising inflation in countries like Pakistan, driven by increased energy costs, and Japanese firms are reducing investment due to the uncertain outlook. Despite the ongoing conflict and its associated risks, some market analyses suggest a potential for lower oil demand to offset some of the war's impact, while broader market rallies continue to power past the perceived war stalemate.",
     "top_themes": [
@@ -18784,6 +18794,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Spike as U.S. and Iran Exchange Fire - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mUkIyYTdFNWc4clRhVmZvNzZRLUkyWXN6eHFza096Q3pRU1huTjJGOWVHamNxSzBjOTFZcUFXdnpvWkQxQ2xoc214WTZOTXhublYtQ2NHTWR4ZVQ1RDcyd3Nkc3Y3VUg2dThRN1F2WThUMkM1MkE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 01, 2026 · 17:16 BRT",
+          "pub_date": "2026-06-01",
+          "pub_ts": 1780344995,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Jump as Middle East Tensions Build - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHBvbzY2eGRWUzluZkFndlZJWEduak9fN0xnM0dVbUdmQ0hHRi1ZRlRWS1VGZXpGck03UFo4R24xOHRkeE9QUzZfTVZlaVV0bTZ5dTJsU2tHbUo5X1dYSC15cXJHSWQwaE1tdURBNTRSOXFlNFpDN3ZYUTgydVhaaGdjV3R1VVFxT0NfcWpMQzA?oc=5",

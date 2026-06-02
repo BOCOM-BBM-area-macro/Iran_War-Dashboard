@@ -18618,7 +18618,7 @@
       "pub_date": "2026-06-01"
     },
     "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html": {
-      "summary": "",
+      "summary": "President Trump told CNBC that he “couldn’t care less” if the negotiations with Iran break down.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -18636,11 +18636,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-01"
+    },
+    "https://www.washingtonpost.com/opinions/2026/06/01/michael-ramirez-cartoon-iran-war-negotiations/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
+    },
+    "https://www.wsj.com/world/middle-east/us-oman-iran-ties-3e056744": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-01"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-01",
-  "last_generated_time": "2026-06-01T22:01:56.778488+00:00",
+  "last_generated_time": "2026-06-01T23:01:43.091067+00:00",
   "digest": {
     "digest": "Recent developments indicate continued military exchanges between the United States and Iran, with reports of US strikes on Iranian drone command sites and Iranian targets in southern Iran. Concurrently, diplomatic efforts to formalize a ceasefire persist, though progress remains elusive, contributing to a broader stalemate in peace talks. The US military has been actively involved in guiding commercial vessels through the Strait of Hormuz, facilitating the passage of approximately 70 ships in the past three weeks. Global markets are closely monitoring these developments, with oil prices experiencing fluctuations due to the ongoing conflict and its impact on supply. Economic consequences are evident in rising inflation in countries like Pakistan, driven by increased energy costs, and Japanese firms are reducing investment due to the uncertain outlook. Despite the ongoing conflict and its associated risks, some market analyses suggest a potential for lower oil demand to offset some of the war's impact, while broader market rallies continue to power past the perceived war stalemate.",
     "top_themes": [

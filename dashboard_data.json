@@ -19129,7 +19129,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-03"
+      "pub_date": "2026-06-02"
     },
     "https://www.nytimes.com/2026/06/03/world/middleeast/dubai-uae-migrant-workers-war-stress.html": {
       "summary": "",
@@ -19182,6 +19182,26 @@
       "pub_date": "2026-06-03"
     },
     "https://www.nytimes.com/2026/06/03/business/iran-war-oecd-economy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
+    },
+    "https://www.reuters.com/business/finance/roubles-strength-squeezes-russian-exporters-despite-iran-war-oil-gains-2026-06-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
+    },
+    "https://www.nytimes.com/2026/06/03/business/oil-prices-iran-war.html": {
       "summary": "",
       "tags": [
         "extracted",
@@ -19349,6 +19369,34 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Oil Rises as Hostilities Flare Overnight in the Persian Gulf - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UckRQYmRvV3dFNEJHU3RFUWJRSi1hcWVTMmFLRk1xZXVnTnN6MEswMXJmdXYxSnZuOVF4YkY4YU1hWEp0ZHBLY0hwX2RQTHpPTnRDODA5Z1pwNmR2ZENnYzJHdUxEaUtKdmZZZUFUOTNDZERob2Z3?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 06:24 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780478656,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Rouble's strength squeezes Russian exporters despite Iran war oil gains - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTmpQdnJpZVM0UjFuSmtjSHhiYzdRRmhGTEhhM2NFVUFTUGh3MmdEY01abW1yUi05bjVHMzd4N2xlb200MjBweFN0N2ZxZU82N2p3UnR5ZFRDUnI4aFRCZ1QxQ1FnRTFLQ3dXUHhEYVJFSVBqbWZzdm8zb0F1MTROdXA2dnpKS3VscG5pNGhRU1pqWU5NX0plUjNFMmVyTXVLdk81Y01DVW9vdFl6cDNsNFJIZzEwdEFha3dORjd0UDQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 05:55 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780476932,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Even if Oil Prices Peak Soon, the Global Economy Will Slow This Year - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xektHSmdpcmd3dWFWX2hhT3ZpelVyaUstR183WVRkZ2ZhMXpNdVRkODBZY3ZaUHBwbjdTVjcybVRKOFRzOUtKVkxjakIwSzJveVh5R1JlT0F5MmFKdWQwcVlVY2hmbVNwS0pyTW1RZVZzZ2REZkU3c1Zn?oc=5",
           "source": "The New York Times",
@@ -19371,6 +19419,20 @@
           "published": "Jun 03, 2026 · 03:47 BRT",
           "pub_date": "2026-06-03",
           "pub_ts": 1780469220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil extends gains as Middle East talks stall, hostilities flare - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 21:36 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780446960,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

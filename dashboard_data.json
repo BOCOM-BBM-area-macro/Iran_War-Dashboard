@@ -19129,7 +19129,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-03"
+      "pub_date": "2026-06-02"
     },
     "https://www.nytimes.com/2026/06/03/world/middleeast/dubai-uae-migrant-workers-war-stress.html": {
       "summary": "",
@@ -19330,11 +19330,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-03"
+    },
+    "https://www.wsj.com/business/earnings/pvh-cuts-outlook-citing-iran-war-impact-on-sales-7a2b6b9f": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
+    },
+    "https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7?syn-25a6b1a6=1": {
+      "summary": "Industry warns prices could soon jump as inventories reach ‘critically low’ threshold",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-03",
-  "last_generated_time": "2026-06-03T17:01:54.768338+00:00",
+  "last_generated_time": "2026-06-03T18:02:11.839164+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in hostilities between Iran and its neighbors, including the U.S., with military strikes exchanged and tensions flaring in the Persian Gulf. These actions have led to a surge in oil prices and contributed to global shortages of key goods, impacting emerging markets and causing inflation. Diplomatic efforts to de-escalate the conflict appear to be at a stalemate, with U.S. and Iranian officials engaging in continuous but seemingly unproductive talks. President Trump has postponed a final decision on a potential cease-fire extension, while simultaneously condemning Iran's aggressive strikes. Israel has stated it is holding off on further strikes following a U.S. request, suggesting a complex and volatile diplomatic landscape. Concerns also persist regarding Iran's nuclear program, specifically its stockpile of highly enriched uranium, which is believed to be stored in deeply buried, hard-to-access facilities, posing a significant challenge for retrieval or destruction. The U.S. has reiterated its stance against Iran acquiring nuclear weapons, with sanctions relief being conditional on nuclear agreements and potential incentives for Iran to turn over nuclear material.",
     "top_themes": [
@@ -19495,6 +19515,20 @@
         {
           "title": "Donald Trump’s Iran war drains US oil supplies to lowest level since 2004 - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTmY0aHM1SHVvN2doRy13TlFsOXJVN0hPU0NQaXB4dUN1QUdONTh2aTFSaWVxNElsSjJaanJSdklUelVjU09wV3NlVW9Vd1Z0TXF0alljWHVSLUNvX2RHcERfYWljWGM3QTZ5RDQzOVA?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 15:08 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780510086,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Donald Trump’s Iran war drains US oil supplies to lowest level since 2004 - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGhqQ2pnY3RmOWhyMUVVaVNmci13cnBnaGg5N2xVc2pDZk9zUHpfT2hNRU93V2ZsWm5LT0txWnBBU0ZIWXViU3F4STRXb2FtbEVld24wS1JJcVRhNlFaMnNDdG42T3AtVE5IZVp2TkxNdk5rU1Q5ZnFWUl91OWxSTmdwUmM?oc=5",
           "source": "Financial Times",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
@@ -30512,6 +30546,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Copper Declines From Three-Week High as Traders Track Iran War - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbm05bmdmMGdPaGxlTmE2aVU4TU5NMnVtWVA4RjE5MXVCS0VwbzFYX2l4Y1JfNzdCektmTlBpQ3lCeDZNanYtT2c5U181UnNsR053Y2xpUEZiMUZuWmxBNWhFT0x4Tk9Na2xycnp2S19ySHpGenlKSnJLSnVBSFA5WE43Mk5fdWloWjdKaFFLQ0dNclR2S2ZPYndUSFp4QnBjVDlUZUtVMzk5QTBoWEhUOVVmLXdkSkZEVHlDekZ6NDVpWVBWY3BZbG1R?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 00:12 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780456320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Indian firms beat fourth-quarter estimates, but Iran war dims outlook - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTQ1dUZxMXI5UDNoTkpwcmpTdTl3ZTFoZFozLURTcVZSZm9xd1N6LTBrM0ZOMndHb3Y4Z0lKVGhzS0hac1RQR09RWDY3bGJMVUNRREdsZk04bzQ5LTQtRktLdXRVZHlXV1FDQWJZSGxTY2t5cmxoUU1FUktIY21oYW5UVWdKQnZvNW9IeTNZMTM4Z1k4NmZMZzJTV3gtQ1Fyd2t1SVFqZlY0WVRFY1Niclh3?oc=5",

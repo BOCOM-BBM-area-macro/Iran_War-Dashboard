@@ -17705,7 +17705,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-31"
+      "pub_date": "2026-05-29"
     },
     "https://www.wsj.com/world/middle-east/the-u-a-e-s-secret-role-in-the-war-involved-dozens-of-strikes-on-iran-7fd28c40": {
       "summary": "",
@@ -18625,7 +18625,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-01"
+      "pub_date": "2026-06-02"
     },
     "https://www.nytimes.com/2026/06/01/nyregion/nyc-synagogue-plot-iran.html": {
       "summary": "",
@@ -19057,6 +19057,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-02"
+    },
+    "https://www.reuters.com/world/middle-east/hostilities-flare-again-iran-war-talks-stalemate-2026-06-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-02"
     }
   },
   "last_run_success": true,
@@ -19215,6 +19225,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Hostilities flare in Iran war, oil jumps with talks at a stalemate - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ092UV9OdWRIX2c1Yk9BM0V5dllqa0RIS1lmZHRBMnlZZE5FN0VJUC03R3p1WjEwcGdnRnNDQkNqT1JXVkRvbzllU185NzhRUzhsMEJpeS02Y2RCT3cwOHNDa3NQUkZKYi1iV1VKbWJtYktiWXR3RU5zUHZ3SGFjOUlqX3ZvaGRtMnZyMGs0eHFpTTJzM2VGcVhhMzF3MG9uQzN5Ng?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 20:24 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780442640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The changes that could come with decreasing demand for oil - Axios",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yT1pWVzNBb0VwRFVEY3dFZG0yQ3VKNl9VbHFrY3BaUWxrbzBES1pjZzNGWS1IMWFqaVRWbnpKOTVGeHlseTJOa3RKeWVEcTBKbV9ySkU4VnRiSjM4d3RQVHRkYmJOdw?oc=5",

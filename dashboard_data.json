@@ -17824,7 +17824,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-02"
+      "pub_date": "2026-05-29"
     },
     "https://www.timesofisrael.com/uae-struck-iran-dozens-of-times-during-war-and-amid-truce-including-with-israel-wsj/": {
       "summary": "Report says US and Israel provided intel for the attacks, including joint strike on petrochemical complex that led Washington to ask Jerusalem to stop targeting energy facilities",
@@ -19160,6 +19160,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-03"
+    },
+    "https://www.reuters.com/world/middle-east/most-gulf-markets-retreat-iran-war-jitters-2026-06-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
+    },
+    "https://www.reuters.com/world/uk/uk-services-firms-see-first-drop-activity-since-2025-iran-war-pressure-persists-2026-06-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
+    },
+    "https://www.nytimes.com/2026/06/03/business/iran-war-oecd-economy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
     }
   },
   "last_run_success": true,
@@ -19319,6 +19349,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Even if Oil Prices Peak Soon, the Global Economy Will Slow This Year - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xektHSmdpcmd3dWFWX2hhT3ZpelVyaUstR183WVRkZ2ZhMXpNdVRkODBZY3ZaUHBwbjdTVjcybVRKOFRzOUtKVkxjakIwSzJveVh5R1JlT0F5MmFKdWQwcVlVY2hmbVNwS0pyTW1RZVZzZ2REZkU3c1Zn?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 04:02 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780470158,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Hostilities flare in Iran war, oil jumps with talks at a stalemate - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pCM2JwVC1jclluOW5wcnktSUJHZ2ZLUUxwMnY5c3F6VWhuSVFLQ29mbmc0cHdhSWkyTzNyVzJvWnBxNjlVWnhqQ0FOUUpiY2YtTld2b3hWWmpYTzJueElSOUVmeTBweDFYWUwxcnZhdVlzYTNvZXp2SXJNcnNhdGh6TElzTWtzUDlvNlBQS3pQREk4a0cwb1NXa1YzWG5jb3lOaC1jZDNRT2JZQkNxbA?oc=5",
           "source": "Reuters",
@@ -19327,6 +19371,20 @@
           "published": "Jun 03, 2026 · 03:47 BRT",
           "pub_date": "2026-06-03",
           "pub_ts": 1780469220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Watch Vakhshouri: Prolonged Iran War to Tighten Oil Supply - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkFQdVA2YnJ0amtMMHozdmIxU3VUbjZYVWNxeFFPSDVnMlhfRTZHb010TXgyWlJjU2ZUZzlKbjViNDZiQTdYbG5mVEZNTU1aVDJKTkRkOVIzd3FvcnNkRnZsbWVIYXROdEkwQ2poVWpPYTN2VU9FYUc4VFZEZHRySWdCb1U3M0lSaEtvbTNJb0l2NHZjZ0dad2dFc3VwaVpxU3JrSXRWQ1VJUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 02, 2026 · 21:00 BRT",
+          "pub_date": "2026-06-02",
+          "pub_ts": 1780444800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

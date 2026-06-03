@@ -18678,7 +18678,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-01"
+      "pub_date": "2026-06-02"
     },
     "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html": {
       "summary": "",
@@ -19290,11 +19290,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-03"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-03/rubio-says-trump-was-aware-of-iran-war-economic-fallout-risks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-03",
-  "last_generated_time": "2026-06-03T12:02:24.099748+00:00",
+  "last_generated_time": "2026-06-03T13:02:00.825710+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in hostilities between Iran and its neighbors, including the U.S., with military strikes exchanged and tensions flaring in the Persian Gulf. These actions have led to a surge in oil prices and contributed to global shortages of key goods, impacting emerging markets and causing inflation. Diplomatic efforts to de-escalate the conflict appear to be at a stalemate, with U.S. and Iranian officials engaging in continuous but seemingly unproductive talks. President Trump has postponed a final decision on a potential cease-fire extension, while simultaneously condemning Iran's aggressive strikes. Israel has stated it is holding off on further strikes following a U.S. request, suggesting a complex and volatile diplomatic landscape. Concerns also persist regarding Iran's nuclear program, specifically its stockpile of highly enriched uranium, which is believed to be stored in deeply buried, hard-to-access facilities, posing a significant challenge for retrieval or destruction. The U.S. has reiterated its stance against Iran acquiring nuclear weapons, with sanctions relief being conditional on nuclear agreements and potential incentives for Iran to turn over nuclear material.",
     "top_themes": [
@@ -25071,6 +25081,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US crude stocks fall on strong export, refining demand, EIA says, as U.S.-Israel war on Iran continues - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXp5amEyQkJobk50XzU5VjVwZkpVa2pPb2JGNy1RZmIyWXc5VzN4amlrci1fZHd2aFZmSDBxRU5SSXl1S0c0ZG9aSHRPYTJtNjRpTXpmZGZCLXFVMzNoSGluTTR1NXNRSjhIeGk3cHVnMVdZRllXUHFiVFFubm9aR1N3TGdtVV9UWVVTaC15VFJyaTQ2RHpCYkc1X0NYUl9DNHNSc3NWak5LZDVCcVNVblk5SjdZb0VYY3c?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 11:55 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780498549,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Watch Iran War: Diesel Inventories May Reach Critical Levels by August, Goldman’s Struyven Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVBpVjlDNlZRU3F2YzRUaXFtZHVnVWkwbzZwSVR2aF9QTTE3cG9ZUVNseDdTYjNkcXRVSEpHdU9DLThzcWlQTl9hTHpXMG16VXJzb0Nzbml5N3JaWXNyc3JKYTE0cXp2WnlzYnBMQ29wM29taV9BSzRST0RvellGSjk1VHBSUGRiXzctbmFlR1NIZVJLU3NteGhFZHk3N1AtekRCZ0YtOVVWTUk?oc=5",

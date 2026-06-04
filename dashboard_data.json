@@ -17824,7 +17824,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-29"
+      "pub_date": "2026-06-02"
     },
     "https://www.timesofisrael.com/uae-struck-iran-dozens-of-times-during-war-and-amid-truce-including-with-israel-wsj/": {
       "summary": "Report says US and Israel provided intel for the attacks, including joint strike on petrochemical complex that led Washington to ask Jerusalem to stop targeting energy facilities",
@@ -19512,6 +19512,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-03"
+    },
+    "https://www.bloomberg.com/news/videos/2026-06-04/balance-of-power-late-edition-6-3-2026-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
+    },
+    "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-05-31"
     }
   },
   "last_run_success": true,
@@ -26679,6 +26699,20 @@
           "published": "Jun 03, 2026 · 22:02 BRT",
           "pub_date": "2026-06-03",
           "pub_ts": 1780534925,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmtrVVBod0Q5Vm5NV2N3dUZvdHpiQlI4U255NGJXU3lLXzdIbVU3TTJTSTBZcXVvUG53dk9ORkpwMG14dWlXOEJqQzlOUzFfM0x2Ty1fS1BOcmVUa25YT2VXZ0JFQng5REZzQzB2TVM3R2Z3R3NwUjdDVFV6MGRrbzZjWVFyWmU3MHh5OA?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 20:21 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780528919,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

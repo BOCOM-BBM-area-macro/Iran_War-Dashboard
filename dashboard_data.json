@@ -16800,7 +16800,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-01"
+      "pub_date": "2026-05-30"
     },
     "https://www.reuters.com/world/middle-east/iran-says-draft-us-deal-would-reopen-hormuz-shipping-end-naval-blockade-2026-05-27/": {
       "summary": "",
@@ -19542,6 +19542,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-03"
+    },
+    "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-04"
     }
   },
   "last_run_success": true,
@@ -26700,6 +26710,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mbnJIenM3Q0Fxa1YycGlYekRleUFJTFYwNUtxNko1eGVmeVlpZjQ4eWFlcGktUE9qS2ZyV2FzQm5xR0x3SjJVSzhLVmk5ZUhZYm5GLTMyRlZvMl9DSmdidW1XM2lpbmZHQmRlc3puOTU4NHFqR0E?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 22:02 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780534944,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oWmF6XzFiTEJ2cFoyOFp4a09INnpxbHRQcFBVYzd4UlFRUTdQMFZtRTBtdmJpTGpYT3JfamFHT0h2MFplZGVaeWM5dUZJcXpYcm9ndG9ESWoyQ1l1T0kwUjRqSURUc3JKeXBBZXY1QUx6ZUVi?oc=5",

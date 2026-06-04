@@ -9513,7 +9513,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": true,
-      "pub_date": "2026-05-11"
+      "pub_date": "2026-06-02"
     },
     "https://www.nytimes.com/2026/05/08/business/trump-sanctions-iran-china.html": {
       "summary": "The new measures are focused on Chinese companies that supply Iran’s military with materials to make drones.",
@@ -19585,11 +19585,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-04"
+    },
+    "https://www.axios.com/2026/06/04/iran-oil-prices-market-less-impact": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-04"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-06-04/how-the-iran-war-is-boosting-clean-energy-in-asia-and-europe": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-04"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/04/president-donald-trump-iran/261360a0-600e-11f1-9c46-d6211372eede_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-04"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-04",
-  "last_generated_time": "2026-06-04T09:01:54.945869+00:00",
+  "last_generated_time": "2026-06-04T10:01:59.633778+00:00",
   "digest": {
     "digest": "The U.S. House of Representatives has passed multiple measures aimed at limiting President Trump's war powers concerning Iran, with bipartisan support in some instances, signaling a congressional pushback against unilateral executive action. President Trump has stated that the war with Iran is \"not a big thing\" for the U.S. and indicated he would not resume an all-out conflict unless U.S. troops are killed, a stance echoed by Israeli Prime Minister Netanyahu who suggested a resumption of military action if necessary. Iran has targeted neighboring countries, including Bahrain and Kuwait, with strikes that were reportedly intercepted or failed, prompting U.S. \"self-defense\" strikes within Iran. Economically, the conflict has led to a significant depletion of U.S. oil stocks, reaching the lowest levels since 2004, with industry warnings of potential price increases due to critically low inventories. Global airline chiefs are set to confront the impact of the Iran war on fuel prices at an upcoming industry summit. Amidst these developments, Iran's soccer leadership is focused on qualifying for the World Cup.",
     "top_themes": [
@@ -19745,6 +19775,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "It takes a village to delay an energy disaster - Axios",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zZGlLM3hYM09SUFpOSUMxbEZiV1diaXluRHRib0Vwd2FXVDJ4TEpYRVNGOGtfbENWeDNScThFaVpRRWRwVFdaSlJQYllkOXJvWTUtSk1BcXdaZkFSV0lINGEzdUJ5T2s5VFcwTHF1aGhPTVlhQ3c?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 04, 2026 · 09:38 BRT",
+          "pub_date": "2026-06-04",
+          "pub_ts": 1780576695,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gold rises on softer dollar, oil as markets weigh US-Iran peace optimism - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjhKMVBpMWNDenNvOHdVMjYtaTN3NEZLeWVsR0MyLWtxNGY0WjV2Z1libmZLOFRscU5RaUhtWnZka0JHRWpYbDZpNTJIUzJzRkdpV2Z0YVRyTUctMEVqUWtHVG1VMVlPMmhNWlJNMGNRUlQ4eWtiYlhQVkhWdFE5dnJkdzR6STlEakQ5bTRHUFlHbXUyYVNfSnRKTFltSE53eU9QZ1E0X0pHUHJMNXlB?oc=5",

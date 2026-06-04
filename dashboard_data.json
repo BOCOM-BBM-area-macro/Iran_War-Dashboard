@@ -17824,7 +17824,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-02"
+      "pub_date": "2026-05-29"
     },
     "https://www.timesofisrael.com/uae-struck-iran-dozens-of-times-during-war-and-amid-truce-including-with-israel-wsj/": {
       "summary": "Report says US and Israel provided intel for the attacks, including joint strike on petrochemical complex that led Washington to ask Jerusalem to stop targeting energy facilities",
@@ -19369,7 +19369,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-03"
+      "pub_date": "2026-06-04"
     },
     "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/": {
       "summary": "",
@@ -19532,6 +19532,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-05-31"
+    },
+    "https://www.axios.com/2026/06/04/us-military-action-trump-countries-targeted": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
     }
   },
   "last_run_success": true,

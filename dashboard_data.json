@@ -18678,7 +18678,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-02"
+      "pub_date": "2026-06-01"
     },
     "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html": {
       "summary": "",
@@ -19548,6 +19548,19 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-04"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-898347": {
+      "summary": "The report came just after Netanyahu told CNBC that the US and Israel would resume military action against Iran if needed",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "Middle East",
+        "Donald Trump"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

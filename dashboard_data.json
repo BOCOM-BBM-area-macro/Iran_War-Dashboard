@@ -17824,7 +17824,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-02"
+      "pub_date": "2026-05-29"
     },
     "https://www.timesofisrael.com/uae-struck-iran-dozens-of-times-during-war-and-amid-truce-including-with-israel-wsj/": {
       "summary": "Report says US and Israel provided intel for the attacks, including joint strike on petrochemical complex that led Washington to ask Jerusalem to stop targeting energy facilities",
@@ -19282,7 +19282,7 @@
       "pub_date": "2026-06-03"
     },
     "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html": {
-      "summary": "",
+      "summary": "A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -19502,11 +19502,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-03"
+    },
+    "https://www.ft.com/content/6fbbc60c-155c-42a7-81b6-50e24e0bb706?syn-25a6b1a6=1": {
+      "summary": "Lawmakers vote to block president from carrying out more strikes in Middle East without congressional approval",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-03",
-  "last_generated_time": "2026-06-03T22:01:48.330921+00:00",
+  "last_generated_time": "2026-06-03T23:01:51.580789+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in hostilities between Iran and its neighbors, including the U.S., with military strikes exchanged and tensions flaring in the Persian Gulf. These actions have led to a surge in oil prices and contributed to global shortages of key goods, impacting emerging markets and causing inflation. Diplomatic efforts to de-escalate the conflict appear to be at a stalemate, with U.S. and Iranian officials engaging in continuous but seemingly unproductive talks. President Trump has postponed a final decision on a potential cease-fire extension, while simultaneously condemning Iran's aggressive strikes. Israel has stated it is holding off on further strikes following a U.S. request, suggesting a complex and volatile diplomatic landscape. Concerns also persist regarding Iran's nuclear program, specifically its stockpile of highly enriched uranium, which is believed to be stored in deeply buried, hard-to-access facilities, posing a significant challenge for retrieval or destruction. The U.S. has reiterated its stance against Iran acquiring nuclear weapons, with sanctions relief being conditional on nuclear agreements and potential incentives for Iran to turn over nuclear material.",
     "top_themes": [
@@ -26660,6 +26670,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oWmF6XzFiTEJ2cFoyOFp4a09INnpxbHRQcFBVYzd4UlFRUTdQMFZtRTBtdmJpTGpYT3JfamFHT0h2MFplZGVaeWM5dUZJcXpYcm9ndG9ESWoyQ1l1T0kwUjRqSURUc3JKeXBBZXY1QUx6ZUVi?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 22:02 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780534925,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Has Led to Months of Global Shortages - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwODZha3VOdzl2T3ZQNGw1RFdabE9yVThEeVdabFBvODAzaFRsamNMWUJjblJfZlFPS3hQYWRSb3lxUnpVZVFsdDFVU19SODNSdzJNa3BXRGxUaHBPWnFzeml2RTVMSlNKRWFsNGU2elRFMHptc2NYZExUQVFHUUk?oc=5",

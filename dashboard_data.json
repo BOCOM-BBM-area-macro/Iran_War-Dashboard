@@ -19728,6 +19728,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-05/ghana-central-bank-head-sees-scope-for-rate-cuts-after-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-05"
     }
   },
   "last_run_success": true,
@@ -27024,6 +27034,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "The U.S.-Qatar Domination of Gas Left the World Dangerously Exposed - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWUR2UG5TdDdsZklxSjNhWllVYmZCRmFBVVQ4QnJVeDVjcjlQN3pBb2M0YW82eF82TVJsdXhnWUV3QnFfaTZpRk5YemctS25taWUyd3NKalBmN29vQ2xMT01ONkh0R0NDN1VsNXp6N0NBSzR5SDdHQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 04, 2026 · 06:02 BRT",
+          "pub_date": "2026-06-04",
+          "pub_ts": 1780563748,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mbnJIenM3Q0Fxa1YycGlYekRleUFJTFYwNUtxNko1eGVmeVlpZjQ4eWFlcGktUE9qS2ZyV2FzQm5xR0x3SjJVSzhLVmk5ZUhZYm5GLTMyRlZvMl9DSmdidW1XM2lpbmZHQmRlc3puOTU4NHFqR0E?oc=5",

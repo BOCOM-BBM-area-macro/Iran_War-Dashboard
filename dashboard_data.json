@@ -19767,60 +19767,136 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-05"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-05"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/report-israel-carried-out-covert-intel-mission-along-azerbaijan-iran-border-during-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-05"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-04",
-  "last_generated_time": "2026-06-04T23:01:45.461253+00:00",
+  "last_generated_date": "2026-06-05",
+  "last_generated_time": "2026-06-05T08:01:57.995180+00:00",
   "digest": {
-    "digest": "The U.S. House of Representatives has passed multiple measures aimed at limiting President Trump's war powers concerning Iran, with bipartisan support in some instances, signaling a congressional pushback against unilateral executive action. President Trump has stated that the war with Iran is \"not a big thing\" for the U.S. and indicated he would not resume an all-out conflict unless U.S. troops are killed, a stance echoed by Israeli Prime Minister Netanyahu who suggested a resumption of military action if necessary. Iran has targeted neighboring countries, including Bahrain and Kuwait, with strikes that were reportedly intercepted or failed, prompting U.S. \"self-defense\" strikes within Iran. Economically, the conflict has led to a significant depletion of U.S. oil stocks, reaching the lowest levels since 2004, with industry warnings of potential price increases due to critically low inventories. Global airline chiefs are set to confront the impact of the Iran war on fuel prices at an upcoming industry summit. Amidst these developments, Iran's soccer leadership is focused on qualifying for the World Cup.",
+    "digest": "Recent developments indicate significant congressional action in the United States regarding the Iran war, with the House of Representatives passing resolutions to block further strikes and direct an end to U.S. engagement, signaling a bipartisan rebuke to the President's strategy. Diplomatic efforts towards a peace deal face challenges, as Iran states much remains unclear in proposed terms, and Hezbollah has rejected a ceasefire deal between Lebanon and Israel, viewing it as a surrender and complicating prospects for ending the broader conflict. Israel reportedly conducted covert intelligence missions along the Azerbaijan-Iran border during the war. Economically, the Eurozone experienced a contraction in the first quarter, with the Iran war darkening the outlook, while the Bank of Ghana Governor suggested potential rate cuts post-war. Early signs point to renewed labor market strength in the U.S. despite the ongoing conflict. The IAEA's first report since February shows little change in Iran's nuclear program despite the war.",
     "top_themes": [
-      "US House of Representatives votes on Iran War Powers",
-      "President Trump's stance on Iran conflict",
-      "Iran's military actions and US response",
-      "Economic impact of the Iran war"
+      "US Congressional Action on Iran",
+      "Hezbollah's Stance on Ceasefire",
+      "Economic Impact of Iran War"
     ],
     "next_events": [
       {
-        "title": "Congressional War Powers Resolution Enforcement",
-        "description": "The House has passed multiple resolutions to limit the President's authority to wage war in Iran. Analysts should watch if the Senate follows suit and how the Trump administration responds to these legislative efforts, as it could significantly constrain future military actions."
+        "title": "US Congressional Stance on Iran War Powers",
+        "description": "The House has repeatedly voted to block further strikes and passed a War Powers Resolution, signaling a bipartisan desire to limit presidential authority regarding Iran. Analysts should monitor whether these legislative efforts gain traction in the Senate and effectively constrain the administration's military options, as this could significantly influence the conflict's future trajectory."
       },
       {
-        "title": "Iran's Regional Aggression and US Countermeasures",
-        "description": "Recent reports indicate Iran targeting neighboring countries, prompting US 'self-defense' strikes. Monitoring Iran's continued military provocations against regional allies and the nature and scale of US and allied responses will be crucial for assessing escalation risks and regional stability."
+        "title": "Progress on US-Iran Peace Deal Negotiations",
+        "description": "Discussions around a potential peace deal are ongoing, with 'key sticking points' and 'much still unclear' from Iran's perspective. Analysts should closely watch for any breakthroughs, detailed proposals, or shifts in negotiating positions, as a resolution would fundamentally alter the regional geopolitical landscape and global economic outlook."
       },
       {
-        "title": "US Red Line for All-Out War",
-        "description": "President Trump has explicitly stated that an 'all-out war' with Iran would only resume if US troops are killed. This establishes a critical threshold; any incident involving US casualties could trigger a significant escalation and a dramatic shift in the conflict's trajectory."
+        "title": "Hezbollah's Influence on Regional Cease-fire and Peace",
+        "description": "Hezbollah's rejection of a US-brokered cease-fire between Lebanon and Israel, coupled with its increasing leverage, poses a significant obstacle to regional stability and broader Iran peace efforts. Analysts must monitor Hezbollah's future actions, statements, and its potential inclusion in or opposition to any peace agreement, as its stance is critical for the viability of a lasting truce."
       },
       {
-        "title": "Global Economic Fallout from Iran Tensions",
-        "description": "The conflict is already impacting global oil stocks, draining US inventories, and causing 'fuel shock' for airlines. Analysts should monitor sustained economic pressures, including energy market volatility and potential supply chain disruptions, as these could influence international responses and the conflict's duration."
+        "title": "Global Economic Impact and Recovery Post-Conflict",
+        "description": "The Iran war has shown significant global economic repercussions, including Eurozone contraction and potential interest rate adjustments in Ghana, with early signs of labor market strength also noted. Analysts should track key economic indicators for signs of further deterioration or, conversely, early recovery signals tied to the conflict's de-escalation or resolution, which will influence global markets and policy decisions."
       },
       {
-        "title": "Prospects for an Interim Diplomatic Deal",
-        "description": "One analysis suggests the war could conclude with an interim deal, leaving Iran 'battered but unbowed.' Watching for any signs of diplomatic overtures, back-channel negotiations, or proposals for a temporary agreement will be key to understanding potential de-escalation pathways and a resolution."
+        "title": "Iran's Nuclear Program Developments",
+        "description": "Despite the ongoing conflict, the IAEA reports little change in Iran's nuclear program, indicating a persistent underlying strategic concern. Analysts should monitor future IAEA reports and any diplomatic efforts specifically targeting Iran's nuclear ambitions, as this remains a critical factor in long-term regional security and international relations."
       },
       {
-        "title": "US-Israel Strategic Alignment on Iran",
-        "description": "Reports indicate a divergence between Trump and Netanyahu on how to end the Iran conflict, with Netanyahu suggesting a readiness for military action. Monitoring the coordination and public statements between the US and Israeli leadership will reveal the strength of their united front and potential for independent actions."
+        "title": "Israel's Evolving Military and Intelligence Strategy",
+        "description": "Israel has reportedly conducted covert intelligence missions along the Azerbaijan-Iran border and is re-evaluating its military options in Lebanon, influenced by US diplomacy linking Lebanon to broader Iran deals. Analysts should observe any shifts in Israel's defense posture, intelligence activities, or public statements regarding Iran and its proxies, as these actions could escalate or de-escalate regional tensions."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Exclusive | Trump Tells Aides He Won’t Resume All-Out War With Iran Unless U.S. Troops Are Killed - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/trump-iran-ceasefire-strait-of-hormuz-14d0d265",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 03, 2026 · 22:20 BRT",
-      "pub_date": "2026-06-03",
-      "pub_ts": 1780536000,
+      "title": "House votes to block Trump from ordering more strikes on Iran - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/03/house-passes-war-powers-resolution-push-trump-end-iran-war/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 04, 2026 · 18:09 BRT",
+      "pub_date": "2026-06-04",
+      "pub_ts": 1780607350,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Report: Israel carried out covert intel mission along Azerbaijan-Iran border during Iran war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/report-israel-carried-out-covert-intel-mission-along-azerbaijan-iran-border-during-iran-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jun 05, 2026 · 05:21 BRT",
+      "pub_date": "2026-06-05",
+      "pub_ts": 1780647706,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran says much still unclear in proposed deal to end war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-much-still-unclear-in-proposed-deal-to-end-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jun 04, 2026 · 16:31 BRT",
+      "pub_date": "2026-06-04",
+      "pub_ts": 1780601460,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "First IAEA report on Iran's nuclear programme since February shows little change despite war - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/first-iaea-report-irans-nuclear-programme-since-february-shows-little-change-2026-06-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 04, 2026 · 12:32 BRT",
+      "pub_date": "2026-06-04",
+      "pub_ts": 1780587154,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -19833,9 +19909,9 @@
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 03, 2026 · 20:31 BRT",
-      "pub_date": "2026-06-03",
-      "pub_ts": 1780529517,
+      "published": "Jun 04, 2026 · 04:40 BRT",
+      "pub_date": "2026-06-04",
+      "pub_ts": 1780558800,
       "summary": "A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.",
       "tags": [
         "extracted",
@@ -19846,14 +19922,14 @@
       "sentiment_success": false
     },
     {
-      "title": "US House votes for measure that would end Iran war, in blow to Trump - Reuters",
-      "url": "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/",
+      "title": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 03, 2026 · 18:24 BRT",
-      "pub_date": "2026-06-03",
-      "pub_ts": 1780521840,
+      "published": "Jun 04, 2026 · 06:47 BRT",
+      "pub_date": "2026-06-04",
+      "pub_ts": 1780566420,
       "summary": "",
       "tags": [
         "extracted",
@@ -19862,61 +19938,6 @@
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "The House Votes to End the Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/03/briefing/house-iran-war-powers.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 03, 2026 · 19:15 BRT",
-      "pub_date": "2026-06-03",
-      "pub_ts": 1780524927,
-      "summary": "Also, the N.B.A. finals tips off. Here’s the latest at the end of Wednesday.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "House Votes to Curtail Trump’s Iran War Powers - WSJ",
-      "url": "https://www.wsj.com/politics/policy/house-votes-to-curtail-trumps-iran-war-powers-0060a231",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 03, 2026 · 18:45 BRT",
-      "pub_date": "2026-06-03",
-      "pub_ts": 1780523100,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Donald Trump’s Iran war drains US oil stocks to lowest level since 2004 - Financial Times",
-      "url": "https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Jun 03, 2026 · 15:08 BRT",
-      "pub_date": "2026-06-03",
-      "pub_ts": 1780510086,
-      "summary": "Industry warns prices could soon jump as inventories reach ‘critically low’ threshold",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
       "sentiment_success": false
     }
   ],
@@ -31902,7 +31923,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-04T11:04:58.294872+00:00",
-  "last_watch_time": "2026-06-04T11:05:06.990193+00:00",
-  "last_relevant_time": "2026-06-04T11:05:07.518721+00:00"
+  "last_digest_time": "2026-06-05T11:06:05.642094+00:00",
+  "last_watch_time": "2026-06-05T11:06:15.721004+00:00",
+  "last_relevant_time": "2026-06-05T11:06:16.581695+00:00"
 }

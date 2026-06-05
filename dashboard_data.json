@@ -19650,7 +19650,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-04"
+      "pub_date": "2026-06-05"
     },
     "https://www.reuters.com/world/middle-east/first-iaea-report-irans-nuclear-programme-since-february-shows-little-change-2026-06-04/": {
       "summary": "",
@@ -19700,7 +19700,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-04"
+      "pub_date": "2026-06-03"
     },
     "https://www.axios.com/2026/06/04/lebanon-war-powers-rashida-tlaib-democrats-vote": {
       "summary": "",
@@ -19863,11 +19863,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-05"
+    },
+    "https://www.reuters.com/business/energy/companies-add-40-mln-barrels-oil-us-spr-after-iran-war-ends-energy-secretary-2026-06-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-05"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-05",
-  "last_generated_time": "2026-06-05T13:01:52.999207+00:00",
+  "last_generated_time": "2026-06-05T14:01:44.977911+00:00",
   "digest": {
     "digest": "Recent developments indicate significant congressional action in the United States regarding the Iran war, with the House of Representatives passing resolutions to block further strikes and direct an end to U.S. engagement, signaling a bipartisan rebuke to the President's strategy. Diplomatic efforts towards a peace deal face challenges, as Iran states much remains unclear in proposed terms, and Hezbollah has rejected a ceasefire deal between Lebanon and Israel, viewing it as a surrender and complicating prospects for ending the broader conflict. Israel reportedly conducted covert intelligence missions along the Azerbaijan-Iran border during the war. Economically, the Eurozone experienced a contraction in the first quarter, with the Iran war darkening the outlook, while the Bank of Ghana Governor suggested potential rate cuts post-war. Early signs point to renewed labor market strength in the U.S. despite the ongoing conflict. The IAEA's first report since February shows little change in Iran's nuclear program despite the war.",
     "top_themes": [
@@ -20024,6 +20034,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Companies to add 40 mln barrels of oil to US SPR after Iran war ends, energy secretary says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHpYQTF1NUhqZXRSZE9UTEd2Rm11ZkhXUTJTeXA0NjNJbGFhZFZLdk4zWlNRMmhZVWdvNFlYNU96ajNhdE00RWxlbVVtcW1reE52Y0szNVZnSm1YMHJnZFRXMHZNMERpYmlqTnBHcExIbUVPemtKZEE0bnZSOEZHbk5VS3lGaUwxdjZla1Z3ekd3dXRNRmQ4WmFzYUVudm1aeXdpLTk5YlNHOUIxSEVLOTFVTTZQdGgzNWFpN3V4TU80eHBkRDJv?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 05, 2026 · 13:15 BRT",
+          "pub_date": "2026-06-05",
+          "pub_ts": 1780676145,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil edges down as Oman says Mina al Fahal operations proceeding normally - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlEyVHU4OGhfS1RSaDItak5sQTZxNEptRjdDemtZdGs1aG5YMjEtV2tnTG1OM2ZxQl9pZGo1cnIyMFNmWElfUmpXcEJJSDRkTHZqdmRWRks4MG5GYUNMNDFaS3RKNUtwYTQtdjNEZGM4eVZjd3FqYlpRSGZHbl9vYTRPTkxWNVF5b0pBV2M1dzgwdk1tOEZHVTRBcEZnX0ZncWZSVWtuOWNrdw?oc=5",

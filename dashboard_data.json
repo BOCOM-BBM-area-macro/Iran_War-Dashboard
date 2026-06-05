@@ -19382,10 +19382,13 @@
       "pub_date": "2026-06-03"
     },
     "https://www.bloomberg.com/news/articles/2026-06-03/republican-led-house-votes-to-stop-iran-war-in-rebuke-to-trump": {
-      "summary": "",
+      "summary": "The move won’t end US military attacks and still faces a Senate vote.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "War",
+        "Iran",
+        "Donald John Trump",
+        "Military",
+        "U.S. Republicans"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -19730,10 +19733,36 @@
       "pub_date": "2026-06-04"
     },
     "https://www.bloomberg.com/news/articles/2026-06-05/ghana-central-bank-head-sees-scope-for-rate-cuts-after-iran-war": {
+      "summary": "Bank of Ghana Governor Johnson Asiama played down the weakness of the cedi this year and said policymakers could resume cutting interest rates once the Iran war ends.",
+      "tags": [
+        "Ghana",
+        "Iran",
+        "War",
+        "Interest Rates",
+        "Currency Markets"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-05"
+    },
+    "https://www.wsj.com/economy/eurozone-economy-shrank-in-first-quarter-as-iran-war-darkens-outlook-ahead-0253b547": {
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-05"
+    },
+    "https://www.jpost.com/opinion/article-898388": {
+      "summary": "Hezbollah gains leverage as US diplomacy links Lebanon to broader Iran deal efforts, limiting Israel’s options.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Lebanon",
+        "Donald Trump",
+        "Operation Epic Fury"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -20020,10 +20020,13 @@
       "pub_date": "2026-06-06"
     },
     "https://www.bloomberg.com/news/articles/2026-06-06/us-intercepts-fresh-iranian-attacks-on-kuwait-bahrain-hormuz": {
-      "summary": "",
+      "summary": "US and Iranian forces traded fresh attacks overnight, at the end of a week that saw the worst flare-up in tensions since the shaky ceasefire started and little progress toward an interim peace deal.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Tehran",
+        "Donald John Trump",
+        "Kuwait",
+        "Bahrain"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -20060,10 +20063,13 @@
       "pub_date": "2026-06-06"
     },
     "https://www.bloomberg.com/news/articles/2026-06-06/pope-leo-isn-t-backing-down-from-criticism-of-the-war-in-iran": {
-      "summary": "",
+      "summary": "On the papal plane to Spain, Leo XIV was peppered with questions from his latest views on global conflicts to which team he’s rooting for in the World Cup football tournament.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "War",
+        "Spain",
+        "Iran",
+        "Donald John Trump",
+        "Football"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -20091,11 +20097,24 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-06/asia-to-us-container-rates-spike-109-since-iran-war-started": {
+      "summary": "Container shipping rates jumped over the past week amid higher fuel costs, congestion at some Asian ports and a pickup in demand heading into a peak season for booking ocean freight.",
+      "tags": [
+        "Asia",
+        "Iran",
+        "War",
+        "Europe",
+        "AUGUST"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-06"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-06",
-  "last_generated_time": "2026-06-06T10:01:37.490666+00:00",
+  "last_generated_time": "2026-06-06T11:01:56.026163+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in tensions between Iran and the United States, marked by Iran's deployment of drones toward the Strait of Hormuz, with U.S. forces intercepting at least four. This exchange of fire in a critical maritime chokepoint underscores the persistent volatility in the region. Concurrently, reports suggest Israeli special forces utilized bases in Azerbaijan, positioned near Iran's border, for operations including the reported elimination of an IRGC special operations chief. Iran has also declared its support for Hezbollah, casting doubt on broader peace initiatives. Despite these heightened military activities and diplomatic strains, international sporting events, such as the FIBA Basketball World Cup scheduled for Qatar and the participation of Iran's soccer team in the U.S. for their World Cup, are proceeding as planned, indicating a complex interplay between geopolitical conflict and international engagement. The situation highlights ongoing military confrontations and strategic positioning by regional and international actors.",
     "top_themes": [

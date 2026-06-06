@@ -14861,7 +14861,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-05-23"
+      "pub_date": "2026-06-04"
     },
     "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html": {
       "summary": "The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.",
@@ -20048,132 +20048,58 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-06"
+    },
+    "https://www.wsj.com/world/middle-east/u-s-iran-exchange-fire-as-hormuz-tensions-persist-2bf34e8e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-06"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-05",
-  "last_generated_time": "2026-06-05T23:01:43.541308+00:00",
+  "last_generated_date": "2026-06-06",
+  "last_generated_time": "2026-06-06T08:01:48.500674+00:00",
   "digest": {
-    "digest": "Recent developments indicate significant congressional action in the United States regarding the Iran war, with the House of Representatives passing resolutions to block further strikes and direct an end to U.S. engagement, signaling a bipartisan rebuke to the President's strategy. Diplomatic efforts towards a peace deal face challenges, as Iran states much remains unclear in proposed terms, and Hezbollah has rejected a ceasefire deal between Lebanon and Israel, viewing it as a surrender and complicating prospects for ending the broader conflict. Israel reportedly conducted covert intelligence missions along the Azerbaijan-Iran border during the war. Economically, the Eurozone experienced a contraction in the first quarter, with the Iran war darkening the outlook, while the Bank of Ghana Governor suggested potential rate cuts post-war. Early signs point to renewed labor market strength in the U.S. despite the ongoing conflict. The IAEA's first report since February shows little change in Iran's nuclear program despite the war.",
+    "digest": "Recent events indicate a significant escalation in tensions between Iran and the United States, marked by Iran's deployment of drones toward the Strait of Hormuz, with U.S. forces intercepting at least four. This exchange of fire in a critical maritime chokepoint underscores the persistent volatility in the region. Concurrently, reports suggest Israeli special forces utilized bases in Azerbaijan, positioned near Iran's border, for operations including the reported elimination of an IRGC special operations chief. Iran has also declared its support for Hezbollah, casting doubt on broader peace initiatives. Despite these heightened military activities and diplomatic strains, international sporting events, such as the FIBA Basketball World Cup scheduled for Qatar and the participation of Iran's soccer team in the U.S. for their World Cup, are proceeding as planned, indicating a complex interplay between geopolitical conflict and international engagement. The situation highlights ongoing military confrontations and strategic positioning by regional and international actors.",
     "top_themes": [
-      "US Congressional Action on Iran",
-      "Hezbollah's Stance on Ceasefire",
-      "Economic Impact of Iran War"
+      "Regional Tensions",
+      "Military Engagements",
+      "Geopolitical Maneuvers"
     ],
     "next_events": [
       {
-        "title": "US Congressional Stance on Iran War Powers",
-        "description": "The House has repeatedly voted to block further strikes and passed a War Powers Resolution, signaling a bipartisan desire to limit presidential authority regarding Iran. Analysts should monitor whether these legislative efforts gain traction in the Senate and effectively constrain the administration's military options, as this could significantly influence the conflict's future trajectory."
+        "title": "Escalation in Strait of Hormuz and Gulf Waters",
+        "description": "The repeated drone attacks and US interceptions in the Strait of Hormuz, Kuwait, and Bahrain indicate persistent military tensions. Analysts should closely monitor the frequency and intensity of these engagements, as any significant incident could trigger a broader regional conflict and impact global shipping and energy markets."
       },
       {
-        "title": "Progress on US-Iran Peace Deal Negotiations",
-        "description": "Discussions around a potential peace deal are ongoing, with 'key sticking points' and 'much still unclear' from Iran's perspective. Analysts should closely watch for any breakthroughs, detailed proposals, or shifts in negotiating positions, as a resolution would fundamentally alter the regional geopolitical landscape and global economic outlook."
+        "title": "Israeli Covert Operations and Iranian Retaliation",
+        "description": "Reports of Israeli special forces operating from Azerbaijan and the alleged killing of an IRGC special operations chief suggest an active shadow war. Analysts should watch for any confirmed Iranian retaliatory actions against Israeli or allied interests, which could lead to a dangerous escalation of hostilities beyond current fronts."
       },
       {
-        "title": "Hezbollah's Influence on Regional Cease-fire and Peace",
-        "description": "Hezbollah's rejection of a US-brokered cease-fire between Lebanon and Israel, coupled with its increasing leverage, poses a significant obstacle to regional stability and broader Iran peace efforts. Analysts must monitor Hezbollah's future actions, statements, and its potential inclusion in or opposition to any peace agreement, as its stance is critical for the viability of a lasting truce."
+        "title": "Future of US-Iran Peace Negotiations and Financial Demands",
+        "description": "Iran's demand for cash as a condition for peace presents a significant diplomatic hurdle, with a wider peace deal currently in doubt. Analysts should track any developments in diplomatic channels, including potential new proposals or the complete breakdown of negotiations, which could lead to increased economic pressure or military posturing."
       },
       {
-        "title": "Global Economic Impact and Recovery Post-Conflict",
-        "description": "The Iran war has shown significant global economic repercussions, including Eurozone contraction and potential interest rate adjustments in Ghana, with early signs of labor market strength also noted. Analysts should track key economic indicators for signs of further deterioration or, conversely, early recovery signals tied to the conflict's de-escalation or resolution, which will influence global markets and policy decisions."
-      },
-      {
-        "title": "Iran's Nuclear Program Developments",
-        "description": "Despite the ongoing conflict, the IAEA reports little change in Iran's nuclear program, indicating a persistent underlying strategic concern. Analysts should monitor future IAEA reports and any diplomatic efforts specifically targeting Iran's nuclear ambitions, as this remains a critical factor in long-term regional security and international relations."
-      },
-      {
-        "title": "Israel's Evolving Military and Intelligence Strategy",
-        "description": "Israel has reportedly conducted covert intelligence missions along the Azerbaijan-Iran border and is re-evaluating its military options in Lebanon, influenced by US diplomacy linking Lebanon to broader Iran deals. Analysts should observe any shifts in Israel's defense posture, intelligence activities, or public statements regarding Iran and its proxies, as these actions could escalate or de-escalate regional tensions."
+        "title": "Iran's Support for Regional Proxies",
+        "description": "Iran's declared support for Hezbollah underscores its continued strategy of leveraging regional proxies to exert influence and challenge adversaries. Analysts should monitor any increased activity or direct involvement of these groups in regional conflicts, as this could expand the geographical scope and complexity of the current tensions."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "House votes to block Trump from ordering more strikes on Iran - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/03/house-passes-war-powers-resolution-push-trump-end-iran-war/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 04, 2026 · 18:09 BRT",
-      "pub_date": "2026-06-04",
-      "pub_ts": 1780607350,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Report: Israel carried out covert intel mission along Azerbaijan-Iran border during Iran war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/report-israel-carried-out-covert-intel-mission-along-azerbaijan-iran-border-during-iran-war/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jun 05, 2026 · 05:21 BRT",
-      "pub_date": "2026-06-05",
-      "pub_ts": 1780647706,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran says much still unclear in proposed deal to end war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-much-still-unclear-in-proposed-deal-to-end-war/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jun 04, 2026 · 16:31 BRT",
-      "pub_date": "2026-06-04",
-      "pub_ts": 1780601460,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "First IAEA report on Iran's nuclear programme since February shows little change despite war - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/first-iaea-report-irans-nuclear-programme-since-february-shows-little-change-2026-06-04/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 04, 2026 · 12:32 BRT",
-      "pub_date": "2026-06-04",
-      "pub_ts": 1780587154,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html",
+      "title": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 04, 2026 · 04:40 BRT",
-      "pub_date": "2026-06-04",
-      "pub_ts": 1780558800,
-      "summary": "A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.",
+      "published": "Jun 06, 2026 · 04:22 BRT",
+      "pub_date": "2026-06-06",
+      "pub_ts": 1780730520,
+      "summary": "The latest violence between the United States and Iran threatened a cease-fire and risked further stoking tensions in the region.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -20183,14 +20109,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/",
+      "title": "U.S., Iran Exchange Fire as Hormuz Tensions Persist - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-fire-as-hormuz-tensions-persist-2bf34e8e",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 06, 2026 · 06:11 BRT",
+      "pub_date": "2026-06-06",
+      "pub_ts": 1780737060,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran declares support for Hezbollah with wider peace deal in doubt - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-declares-support-hezbollah-with-wider-peace-deal-doubt-2026-06-05/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 04, 2026 · 06:47 BRT",
-      "pub_date": "2026-06-04",
-      "pub_ts": 1780566420,
+      "published": "Jun 05, 2026 · 11:59 BRT",
+      "pub_date": "2026-06-05",
+      "pub_ts": 1780671591,
       "summary": "",
       "tags": [
         "extracted",
@@ -20199,6 +20144,64 @@
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US Intercepts Fresh Iranian Attacks on Kuwait, Bahrain, Hormuz - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/us-intercepts-fresh-iranian-attacks-on-kuwait-bahrain-hormuz",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 06, 2026 · 00:27 BRT",
+      "pub_date": "2026-06-06",
+      "pub_ts": 1780716420,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Israeli special forces reportedly used Azerbaijan base against Iran - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-898477",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jun 05, 2026 · 11:41 BRT",
+      "pub_date": "2026-06-05",
+      "pub_ts": 1780670494,
+      "summary": "IDF commandos, intelligence personnel, and Mossad operatives were reportedly deployed to Azerbaijan during Operation Roaring Lion, providing a forward position near Iran's border, sources told CNN.",
+      "tags": [
+        "IDF",
+        "Iran",
+        "Mossad",
+        "Azerbaijan",
+        "iran israel war"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel reportedly deployed elite forces in Azerbaijan, operated Somaliland base, during Iran war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-put-elite-forces-in-azerbaijan-operated-somaliland-base-during-iran-war-report/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jun 05, 2026 · 08:29 BRT",
+      "pub_date": "2026-06-05",
+      "pub_ts": 1780658940,
+      "summary": "Operations by dozens of commandos and Mossad troops deployed along Iran's northern border included killing of IRGC special operations chief, CNN says; Baku denies report",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
       "sentiment_success": false
     }
   ],
@@ -32324,7 +32327,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-05T11:06:05.642094+00:00",
-  "last_watch_time": "2026-06-05T11:06:15.721004+00:00",
-  "last_relevant_time": "2026-06-05T11:06:16.581695+00:00"
+  "last_digest_time": "2026-06-06T11:05:21.216055+00:00",
+  "last_watch_time": "2026-06-06T11:05:27.467684+00:00",
+  "last_relevant_time": "2026-06-06T11:05:27.997103+00:00"
 }

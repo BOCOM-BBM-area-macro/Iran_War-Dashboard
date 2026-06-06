@@ -19379,7 +19379,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-03"
+      "pub_date": "2026-06-04"
     },
     "https://www.bloomberg.com/news/articles/2026-06-03/republican-led-house-votes-to-stop-iran-war-in-rebuke-to-trump": {
       "summary": "The move won’t end US military attacks and still faces a Senate vote.",
@@ -19700,7 +19700,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-04"
+      "pub_date": "2026-06-03"
     },
     "https://www.axios.com/2026/06/04/lebanon-war-powers-rashida-tlaib-democrats-vote": {
       "summary": "",
@@ -19978,7 +19978,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-06"
+      "pub_date": "2026-06-05"
     },
     "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/": {
       "summary": "",
@@ -20028,6 +20028,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-06"
+    },
+    "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-03"
     }
   },
   "last_run_success": true,
@@ -20380,6 +20390,20 @@
           "published": "Jun 03, 2026 · 09:55 BRT",
           "pub_date": "2026-06-03",
           "pub_ts": 1780491300,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Kuwait to Look at Expanding Global Oil Storage After Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlxZEJ2UDhXTVdybEptYXA4NmVJbzBEb29KSnlwN0dCYnZwSnpKajhKbjZPMTdtV1RHMVZOcHFlWDd2endaR0VrQ044SzNpcm1NUzZjNDZYYUFmZkRicjd5RXNtZXltWlhZOW9Zd3k3ek9sREFqY3oyQ1NuSlQ0b2U1Wk96V3pFWGNweDZSbExfYnVTQWZVTjAzRGtkU2d6akVicU9fQ0NlRW1YUjVIQTNR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 08:58 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780487916,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

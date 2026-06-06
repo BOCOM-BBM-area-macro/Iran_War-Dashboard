@@ -19289,7 +19289,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-04"
+      "pub_date": "2026-06-03"
     },
     "https://www.bloomberg.com/news/articles/2026-06-03/rubio-says-trump-was-aware-of-iran-war-economic-fallout-risks": {
       "summary": "",
@@ -19978,7 +19978,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-05"
+      "pub_date": "2026-06-06"
     },
     "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/": {
       "summary": "",
@@ -20009,6 +20009,25 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-05"
+    },
+    "https://www.nytimes.com/athletic/7337359/2026/06/05/fiba-basketball-world-cup-2027-qatar-iran-war/": {
+      "summary": "Preparations to hold the 32-team championship, with dozens of NBA stars expected to participate, are “going according to schedule.”",
+      "tags": [
+        "NBA"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-05"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-06/us-intercepts-fresh-iranian-attacks-on-kuwait-bahrain-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-06"
     }
   },
   "last_run_success": true,

@@ -20110,11 +20110,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-06"
+    },
+    "https://www.ft.com/content/786f23d9-876d-4c56-a9e8-67ac5b78cd49?syn-25a6b1a6=1": {
+      "summary": "Shipowners ploughed windfall into new vessels and are braced for steep drop in rates if Strait of Hormuz reopens",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-06"
+    },
+    "https://www.washingtonpost.com/world/2026/06/06/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-06"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-06",
-  "last_generated_time": "2026-06-06T12:01:49.148304+00:00",
+  "last_generated_time": "2026-06-06T13:01:41.399619+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in tensions between Iran and the United States, marked by Iran's deployment of drones toward the Strait of Hormuz, with U.S. forces intercepting at least four. This exchange of fire in a critical maritime chokepoint underscores the persistent volatility in the region. Concurrently, reports suggest Israeli special forces utilized bases in Azerbaijan, positioned near Iran's border, for operations including the reported elimination of an IRGC special operations chief. Iran has also declared its support for Hezbollah, casting doubt on broader peace initiatives. Despite these heightened military activities and diplomatic strains, international sporting events, such as the FIBA Basketball World Cup scheduled for Qatar and the participation of Iran's soccer team in the U.S. for their World Cup, are proceeding as planned, indicating a complex interplay between geopolitical conflict and international engagement. The situation highlights ongoing military confrontations and strategic positioning by regional and international actors.",
     "top_themes": [
@@ -20264,6 +20284,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil tanker owners fear market crash after Iran war drove record profits - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2phaF85LUdSWkdEM3MyZjJ1OF9Ea3NtNVRvSEJVcUgwUXFfUTNOSW1mTElnM0RGT2ktR3lTR1FGNXVMNGtTVXdjeUIwWU9qMzZnUWtHNGpaUndxdURxQ0dqdlE3dTJKWUNFYko2VkJsblhTNU8zY25EMzhVbW9tU3BjYUE?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 06, 2026 · 09:28 BRT",
+          "pub_date": "2026-06-06",
+          "pub_ts": 1780748882,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Companies to add 40 mln barrels of oil to US SPR after Iran war ends, energy secretary says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHpYQTF1NUhqZXRSZE9UTEd2Rm11ZkhXUTJTeXA0NjNJbGFhZFZLdk4zWlNRMmhZVWdvNFlYNU96ajNhdE00RWxlbVVtcW1reE52Y0szNVZnSm1YMHJnZFRXMHZNMERpYmlqTnBHcExIbUVPemtKZEE0bnZSOEZHbk5VS3lGaUwxdjZla1Z3ekd3dXRNRmQ4WmFzYUVudm1aeXdpLTk5YlNHOUIxSEVLOTFVTTZQdGgzNWFpN3V4TU80eHBkRDJv?oc=5",
@@ -27507,6 +27541,20 @@
           "published": "Jun 04, 2026 · 06:02 BRT",
           "pub_date": "2026-06-04",
           "pub_ts": 1780563748,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54WFFwUzdVekRzeHdhRE8zMEEzd3NCNExjY053TEdfd0VxUnpyM1BIYXg2Z19xNG90Uld6aFpaVzJ0V3BCdGJvdXZyZWM5T0R2dG0tWDdUaDhhQ2ktZi1NdUpQcktFcUl1LVNDUzBicGNUU2dtd1dWWU9B?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 04, 2026 · 04:00 BRT",
+          "pub_date": "2026-06-04",
+          "pub_ts": 1780556400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

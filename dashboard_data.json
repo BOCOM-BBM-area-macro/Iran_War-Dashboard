@@ -20306,69 +20306,80 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-07"
-    }
-  },
-  "last_run_success": true,
-  "last_generated_date": "2026-06-06",
-  "last_generated_time": "2026-06-06T23:02:02.393391+00:00",
-  "digest": {
-    "digest": "Recent events indicate a significant escalation in tensions between Iran and the United States, marked by Iran's deployment of drones toward the Strait of Hormuz, with U.S. forces intercepting at least four. This exchange of fire in a critical maritime chokepoint underscores the persistent volatility in the region. Concurrently, reports suggest Israeli special forces utilized bases in Azerbaijan, positioned near Iran's border, for operations including the reported elimination of an IRGC special operations chief. Iran has also declared its support for Hezbollah, casting doubt on broader peace initiatives. Despite these heightened military activities and diplomatic strains, international sporting events, such as the FIBA Basketball World Cup scheduled for Qatar and the participation of Iran's soccer team in the U.S. for their World Cup, are proceeding as planned, indicating a complex interplay between geopolitical conflict and international engagement. The situation highlights ongoing military confrontations and strategic positioning by regional and international actors.",
-    "top_themes": [
-      "Regional Tensions",
-      "Military Engagements",
-      "Geopolitical Maneuvers"
-    ],
-    "next_events": [
-      {
-        "title": "Escalation in Strait of Hormuz and Gulf Waters",
-        "description": "The repeated drone attacks and US interceptions in the Strait of Hormuz, Kuwait, and Bahrain indicate persistent military tensions. Analysts should closely monitor the frequency and intensity of these engagements, as any significant incident could trigger a broader regional conflict and impact global shipping and energy markets."
-      },
-      {
-        "title": "Israeli Covert Operations and Iranian Retaliation",
-        "description": "Reports of Israeli special forces operating from Azerbaijan and the alleged killing of an IRGC special operations chief suggest an active shadow war. Analysts should watch for any confirmed Iranian retaliatory actions against Israeli or allied interests, which could lead to a dangerous escalation of hostilities beyond current fronts."
-      },
-      {
-        "title": "Future of US-Iran Peace Negotiations and Financial Demands",
-        "description": "Iran's demand for cash as a condition for peace presents a significant diplomatic hurdle, with a wider peace deal currently in doubt. Analysts should track any developments in diplomatic channels, including potential new proposals or the complete breakdown of negotiations, which could lead to increased economic pressure or military posturing."
-      },
-      {
-        "title": "Iran's Support for Regional Proxies",
-        "description": "Iran's declared support for Hezbollah underscores its continued strategy of leveraging regional proxies to exert influence and challenge adversaries. Analysts should monitor any increased activity or direct involvement of these groups in regional conflicts, as this could expand the geographical scope and complexity of the current tensions."
-      }
-    ]
-  },
-  "relevant_news": [
-    {
-      "title": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 06, 2026 · 04:22 BRT",
-      "pub_date": "2026-06-06",
-      "pub_ts": 1780730520,
-      "summary": "The latest violence between the United States and Iran threatened a cease-fire and risked further stoking tensions in the region.",
+    },
+    "https://www.reuters.com/business/aerospace-defense/us-troops-families-adjust-to-new-normal-iran-war-2026-06-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
+    },
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html": {
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
+    }
+  },
+  "last_run_success": true,
+  "last_generated_date": "2026-06-07",
+  "last_generated_time": "2026-06-07T08:01:46.789544+00:00",
+  "digest": {
+    "digest": "Recent events indicate a significant escalation in military exchanges between Iran and the U.S. in the Gulf region, with Iran launching missiles and drones, prompting U.S. strikes on Iranian sites. These confrontations are testing a fragile ceasefire, with peace talks reportedly stalling. Diplomatic tensions are evident, with reports of Republican lawmakers clashing with President Trump over Iran policy ahead of midterm elections. There are also indications of Israeli intelligence operations potentially utilizing Azerbaijani bases for operations against Iran, and concerns within the U.S. Defense Department regarding espionage threats from Israel. The conflict is having tangible economic consequences, including India hiking LPG prices due to refinery losses and airlines delaying aircraft purchase decisions, impacting the aviation industry. Proposals are being considered to use frozen Iranian assets to compensate Gulf allies for war damage, reflecting strained relations between the U.S. administration and regional partners. Despite the ongoing conflict, international sporting event preparations, such as the 2027 Basketball World Cup in Qatar, are proceeding as scheduled.",
+    "top_themes": [
+      "Escalating Military Confrontations",
+      "Strained Diplomatic Relations and Peace Talks",
+      "Economic Repercussions of the Conflict",
+      "Geopolitical Maneuvering and Intelligence Operations"
+    ],
+    "next_events": [
+      {
+        "title": "Escalation of Military Engagements in the Gulf",
+        "description": "The ongoing exchanges of fire, drone attacks, and missile launches between US/allied forces and Iran indicate a highly volatile situation. Analysts should monitor the frequency, scale, and targets of these attacks, as well as any potential expansion beyond the Strait of Hormuz, to gauge the risk of a full-scale conflict."
+      },
+      {
+        "title": "Progress (or Lack Thereof) in Peace Negotiations",
+        "description": "With peace talks stalling and little progress toward an interim deal, the diplomatic track remains critical. Watch for any breakthroughs, new proposals, or shifts in negotiating positions from either the US or Iran, as well as the involvement of international mediators, which could signal a de-escalation or further entrenchment of conflict."
+      },
+      {
+        "title": "Economic Fallout and Asset Utilization",
+        "description": "The Iran war is already impacting global markets, leading to increased LPG prices and deferred airline purchases. Analysts should track the US proposal to use frozen Iranian assets to compensate Gulf allies, as this could further strain relations and impact Iran's economic stability, potentially fueling internal unrest or altering its foreign policy stance."
+      },
+      {
+        "title": "Shifting Regional Alliances and Proxy Engagements",
+        "description": "Reports of Israeli special forces operating from Azerbaijan against Iran highlight the complex web of regional alliances and potential proxy conflicts. Monitor any further evidence of third-party involvement, shifts in support for regional actors, or direct targeting of allied nations like Bahrain and Kuwait, which could broaden the scope of the conflict."
+      },
+      {
+        "title": "Internal Stability and Public Sentiment in Iran",
+        "description": "Economic hardship and the ongoing conflict are dampening public morale in Iran, with some analysts predicting regime change. Watch for signs of increased public dissent, protests, or any internal political shifts that could either strengthen or weaken the current regime's hold, potentially influencing its approach to the war."
+      },
+      {
+        "title": "US Domestic Political Influence on Iran Policy",
+        "description": "Internal US political dynamics, including clashes between Republicans and the Trump administration over Iran policy and budget, could significantly impact future strategic decisions. Analysts should monitor upcoming nominations, congressional debates, and the evolving counterintelligence threat assessment regarding allies like Israel, as these factors may shape the US approach to the conflict."
+      }
+    ]
+  },
+  "relevant_news": [
     {
-      "title": "U.S., Iran Exchange Fire as Hormuz Tensions Persist - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-fire-as-hormuz-tensions-persist-2bf34e8e",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 06, 2026 · 06:11 BRT",
-      "pub_date": "2026-06-06",
-      "pub_ts": 1780737060,
+      "title": "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/06/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 07, 2026 · 01:42 BRT",
+      "pub_date": "2026-06-07",
+      "pub_ts": 1780807320,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -20376,14 +20387,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran declares support for Hezbollah with wider peace deal in doubt - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-declares-support-hezbollah-with-wider-peace-deal-doubt-2026-06-05/",
+      "title": "US strikes Iranian sites after Iran launches drones in latest Gulf flare-up - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 05, 2026 · 11:59 BRT",
-      "pub_date": "2026-06-05",
-      "pub_ts": 1780671591,
+      "published": "Jun 06, 2026 · 19:13 BRT",
+      "pub_date": "2026-06-06",
+      "pub_ts": 1780784026,
       "summary": "",
       "tags": [
         "extracted",
@@ -20395,14 +20406,35 @@
       "sentiment_success": false
     },
     {
-      "title": "US Intercepts Fresh Iranian Attacks on Kuwait, Bahrain, Hormuz - Bloomberg.com",
+      "title": "US Intercepts Fresh Iranian Attacks as Peace Talks Stall - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-06-06/us-intercepts-fresh-iranian-attacks-on-kuwait-bahrain-hormuz",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 06, 2026 · 00:27 BRT",
+      "published": "Jun 06, 2026 · 22:32 BRT",
       "pub_date": "2026-06-06",
-      "pub_ts": 1780716420,
+      "pub_ts": 1780795920,
+      "summary": "US and Iranian forces traded fresh attacks overnight, at the end of a week that saw the worst flare-up in tensions since the shaky ceasefire started and little progress toward an interim peace deal.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "Donald John Trump",
+        "Kuwait",
+        "Bahrain"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "India Hikes LPG Prices Again as Iran War Deepens Refinery Losses - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/india-hikes-lpg-prices-again-as-iran-war-deepens-refinery-losses",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 06, 2026 · 23:57 BRT",
+      "pub_date": "2026-06-06",
+      "pub_ts": 1780801020,
       "summary": "",
       "tags": [
         "extracted",
@@ -20414,39 +20446,37 @@
       "sentiment_success": false
     },
     {
-      "title": "Israeli special forces reportedly used Azerbaijan base against Iran - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-898477",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jun 05, 2026 · 11:41 BRT",
-      "pub_date": "2026-06-05",
-      "pub_ts": 1780670494,
-      "summary": "IDF commandos, intelligence personnel, and Mossad operatives were reportedly deployed to Azerbaijan during Operation Roaring Lion, providing a forward position near Iran's border, sources told CNN.",
+      "title": "Deferring jet orders over Iran war would be costly for Middle Eastern carriers, IATA VP says - Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/deferring-jet-orders-over-iran-war-would-be-costly-middle-eastern-carriers-iata-2026-06-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 06, 2026 · 13:41 BRT",
+      "pub_date": "2026-06-06",
+      "pub_ts": 1780764103,
+      "summary": "",
       "tags": [
-        "IDF",
-        "Iran",
-        "Mossad",
-        "Azerbaijan",
-        "iran israel war"
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Israel reportedly deployed elite forces in Azerbaijan, operated Somaliland base, during Iran war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/israel-put-elite-forces-in-azerbaijan-operated-somaliland-base-during-iran-war-report/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jun 05, 2026 · 08:29 BRT",
-      "pub_date": "2026-06-05",
-      "pub_ts": 1780658940,
-      "summary": "Operations by dozens of commandos and Mossad troops deployed along Iran's northern border included killing of IRGC special operations chief, CNN says; Baku denies report",
+      "title": "New exchange of fire between U.S. and Iran in Gulf tests fragile ceasefire - CBC",
+      "url": "https://www.cbc.ca/news/world/bahrain-iran-drones-gulf-9.7226112",
+      "source": "CBC",
+      "domain": "cbc.ca",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=cbc.ca",
+      "published": "Jun 06, 2026 · 16:05 BRT",
+      "pub_date": "2026-06-06",
+      "pub_ts": 1780772716,
+      "summary": "Bahrain's government said on Saturday that Iran fired ballistic missiles and drones toward it and Kuwait, as the Iran war escalates.",
       "tags": [
         "extracted",
-        "timesofisrael.com"
+        "cbc.ca"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -32729,7 +32759,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-06T11:05:21.216055+00:00",
-  "last_watch_time": "2026-06-06T11:05:27.467684+00:00",
-  "last_relevant_time": "2026-06-06T11:05:27.997103+00:00"
+  "last_digest_time": "2026-06-07T11:04:38.456883+00:00",
+  "last_watch_time": "2026-06-07T11:04:47.372913+00:00",
+  "last_relevant_time": "2026-06-07T11:04:47.926117+00:00"
 }

@@ -20243,6 +20243,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-06"
+    },
+    "https://www.ft.com/content/d19bd87f-2673-40e8-9216-8529d80b42aa?syn-25a6b1a6=1": {
+      "summary": "Proposal comes as relations between Trump administration and regional partners have been strained by conflict",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-07/india-hikes-lpg-prices-again-as-iran-war-deepens-refinery-losses": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-06"
+    },
+    "https://www.jpost.com/american-politics/article-898549": {
+      "summary": "Republican lawmakers are increasingly breaking from Trump on key policy issues as midterm elections approach, with further clashes expected over upcoming nominations.",
+      "tags": [
+        "Congress",
+        "Iran US Conflict",
+        "republicans",
+        "Donald Trump",
+        "midterm elections"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
     }
   },
   "last_run_success": true,

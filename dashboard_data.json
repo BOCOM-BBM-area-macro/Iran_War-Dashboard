@@ -20396,11 +20396,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-07"
+    },
+    "https://www.reuters.com/business/aerospace-defense/global-airlines-slash-2026-profit-forecast-fuel-shock-iran-war-2026-06-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
+    },
+    "https://www.reuters.com/world/middle-east/most-gulf-markets-end-lower-amid-fresh-us-iran-escalation-2026-06-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
+    },
+    "https://www.reuters.com/sports/soccer/irans-world-cup-team-arrive-tijuana-with-us-tensions-high-2026-06-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-07",
-  "last_generated_time": "2026-06-07T11:02:01.961587+00:00",
+  "last_generated_time": "2026-06-07T12:01:52.132822+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in military exchanges between Iran and the U.S. in the Gulf region, with Iran launching missiles and drones, prompting U.S. strikes on Iranian sites. These confrontations are testing a fragile ceasefire, with peace talks reportedly stalling. Diplomatic tensions are evident, with reports of Republican lawmakers clashing with President Trump over Iran policy ahead of midterm elections. There are also indications of Israeli intelligence operations potentially utilizing Azerbaijani bases for operations against Iran, and concerns within the U.S. Defense Department regarding espionage threats from Israel. The conflict is having tangible economic consequences, including India hiking LPG prices due to refinery losses and airlines delaying aircraft purchase decisions, impacting the aviation industry. Proposals are being considered to use frozen Iranian assets to compensate Gulf allies for war damage, reflecting strained relations between the U.S. administration and regional partners. Despite the ongoing conflict, international sporting event preparations, such as the 2027 Basketball World Cup in Qatar, are proceeding as scheduled.",
     "top_themes": [
@@ -20560,6 +20590,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "OPEC Plus to Boost Oil Production as Ceasefire in Iran Remains Elusive - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON3hsLXhXeFBiTVhtR1BDWVR5cXFRUzNDQlJUeW00dVVIb21ZT3BLYlNmbURTXzdGWUVZOWNTRERsWXZKLWZYdmhFaWNxT1NDUTRRUW1GS3h1ck9jVkNEWDhzeEhJQnlKWVpyblJDbnM1bkluRTdHYWU2MUo4OXZWdzBiQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 07, 2026 · 10:12 BRT",
+          "pub_date": "2026-06-07",
+          "pub_ts": 1780837976,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil tanker owners fear market crash after Iran war drove record profits - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2phaF85LUdSWkdEM3MyZjJ1OF9Ea3NtNVRvSEJVcUgwUXFfUTNOSW1mTElnM0RGT2ktR3lTR1FGNXVMNGtTVXdjeUIwWU9qMzZnUWtHNGpaUndxdURxQ0dqdlE3dTJKWUNFYko2VkJsblhTNU8zY25EMzhVbW9tU3BjYUE?oc=5",

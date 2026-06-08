@@ -20803,56 +20803,100 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-08"
+    },
+    "https://www.nytimes.com/2026/06/08/world/middleeast/israel-netanyahu-iran-trump-lebanon.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-08"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/idf-says-it-expects-several-days-of-fighting-against-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-08"
+    },
+    "https://www.wsj.com/economy/german-factory-orders-fell-back-in-april-7102ffb1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-08"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-07",
-  "last_generated_time": "2026-06-07T23:01:47.221136+00:00",
+  "last_generated_date": "2026-06-08",
+  "last_generated_time": "2026-06-08T08:02:08.844819+00:00",
   "digest": {
-    "digest": "Recent events indicate a significant escalation in military exchanges between Iran and the U.S. in the Gulf region, with Iran launching missiles and drones, prompting U.S. strikes on Iranian sites. These confrontations are testing a fragile ceasefire, with peace talks reportedly stalling. Diplomatic tensions are evident, with reports of Republican lawmakers clashing with President Trump over Iran policy ahead of midterm elections. There are also indications of Israeli intelligence operations potentially utilizing Azerbaijani bases for operations against Iran, and concerns within the U.S. Defense Department regarding espionage threats from Israel. The conflict is having tangible economic consequences, including India hiking LPG prices due to refinery losses and airlines delaying aircraft purchase decisions, impacting the aviation industry. Proposals are being considered to use frozen Iranian assets to compensate Gulf allies for war damage, reflecting strained relations between the U.S. administration and regional partners. Despite the ongoing conflict, international sporting event preparations, such as the 2027 Basketball World Cup in Qatar, are proceeding as scheduled.",
+    "digest": "Recent events indicate a significant escalation in hostilities between Iran and Israel, with Iran launching missiles at Israel for the first time since a ceasefire, prompting retaliatory strikes from Israel on Iranian military targets and petrochemical plants. This exchange has led to a surge in oil prices and a decline in stock markets, raising concerns about the stability of the Middle East and impacting global trade. US President Trump has publicly urged both Israel and Iran to cease fire, emphasizing his influence over Israeli decision-making and suggesting Netanyahu has \"no choice\" but to accept a deal with Iran, a stance that appears to be creating friction with Israeli leadership who feel compelled to respond to direct attacks. The conflict is also having tangible economic consequences globally, with reports of stalled e-commerce growth, falling German factory orders, and squeezed margins for Indian businesses due to increased costs and dampened demand. Domestically within Iran, the economic situation is dire, with skyrocketing inflation contributing to widespread despair. The potential for a full resumption of war is being considered, with the IDF anticipating several days of fighting. Meanwhile, Yemen's Houthi rebels have vowed to block Israeli ships from traversing the Red Sea, adding another layer of regional instability to the ongoing conflict.",
     "top_themes": [
-      "Escalating Military Confrontations",
-      "Strained Diplomatic Relations and Peace Talks",
-      "Economic Repercussions of the Conflict",
-      "Geopolitical Maneuvering and Intelligence Operations"
+      "Escalation of Iran-Israel hostilities",
+      "US diplomatic pressure on Israel",
+      "Global economic impact of the conflict"
     ],
     "next_events": [
       {
-        "title": "Escalation of Military Engagements in the Gulf",
-        "description": "The ongoing exchanges of fire, drone attacks, and missile launches between US/allied forces and Iran indicate a highly volatile situation. Analysts should monitor the frequency, scale, and targets of these attacks, as well as any potential expansion beyond the Strait of Hormuz, to gauge the risk of a full-scale conflict."
+        "title": "US Diplomatic Pressure and Israel's Response",
+        "description": "US President Trump is actively attempting to constrain Israel's military actions and push for a deal with Iran, creating a significant dilemma for Prime Minister Netanyahu. Analysts should monitor the effectiveness of US pressure on Israel's retaliatory strategy and any progress or breakdown in US-Iran negotiations."
       },
       {
-        "title": "Progress (or Lack Thereof) in Peace Negotiations",
-        "description": "With peace talks stalling and little progress toward an interim deal, the diplomatic track remains critical. Watch for any breakthroughs, new proposals, or shifts in negotiating positions from either the US or Iran, as well as the involvement of international mediators, which could signal a de-escalation or further entrenchment of conflict."
+        "title": "Direct Military Escalation between Iran and Israel",
+        "description": "Recent direct missile exchanges and retaliatory strikes indicate a high potential for further military confrontation between Iran and Israel, with the IDF expecting several days of fighting. Watch for the intensity, targets, and frequency of future attacks, as well as any shifts in military readiness or rhetoric from both nations."
       },
       {
-        "title": "Economic Fallout and Asset Utilization",
-        "description": "The Iran war is already impacting global markets, leading to increased LPG prices and deferred airline purchases. Analysts should track the US proposal to use frozen Iranian assets to compensate Gulf allies, as this could further strain relations and impact Iran's economic stability, potentially fueling internal unrest or altering its foreign policy stance."
+        "title": "Global Economic Repercussions and Oil Market Volatility",
+        "description": "The escalating conflict has already caused oil prices to surge and is impacting global trade, supply chains, and national economies, including Germany and India. Analysts should closely track crude oil prices, global inflation rates, and the performance of key economic indicators, particularly in energy-dependent sectors and Iran's struggling domestic economy."
       },
       {
-        "title": "Shifting Regional Alliances and Proxy Engagements",
-        "description": "Reports of Israeli special forces operating from Azerbaijan against Iran highlight the complex web of regional alliances and potential proxy conflicts. Monitor any further evidence of third-party involvement, shifts in support for regional actors, or direct targeting of allied nations like Bahrain and Kuwait, which could broaden the scope of the conflict."
+        "title": "Regional Spillover and Maritime Security Threats",
+        "description": "Iran-backed Houthis have threatened to block Israeli ships in the Red Sea, signaling a potential expansion of the conflict's geographic scope and a threat to maritime security. Monitor any Houthi actions against commercial shipping and the responses from international naval forces, as this could further disrupt global trade routes."
       },
       {
-        "title": "Internal Stability and Public Sentiment in Iran",
-        "description": "Economic hardship and the ongoing conflict are dampening public morale in Iran, with some analysts predicting regime change. Watch for signs of increased public dissent, protests, or any internal political shifts that could either strengthen or weaken the current regime's hold, potentially influencing its approach to the war."
-      },
-      {
-        "title": "US Domestic Political Influence on Iran Policy",
-        "description": "Internal US political dynamics, including clashes between Republicans and the Trump administration over Iran policy and budget, could significantly impact future strategic decisions. Analysts should monitor upcoming nominations, congressional debates, and the evolving counterintelligence threat assessment regarding allies like Israel, as these factors may shape the US approach to the conflict."
+        "title": "Netanyahu's Political Calculus and War Sustainability",
+        "description": "The ongoing conflict is deeply intertwined with Prime Minister Netanyahu's political standing, offering short-term gains but presenting long-term challenges regarding war termination. Observe domestic political developments in Israel, public sentiment, and any indications of a shift in Israel's long-term strategy or a viable exit plan from the protracted conflict."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/06/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says/",
+      "title": "Iran fires missiles at Israel for first time since ceasefire - Axios",
+      "url": "https://www.axios.com/2026/06/07/iran-israel-missiles-us-tehran-negotiations-ceasefire-risk",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jun 08, 2026 · 03:22 BRT",
+      "pub_date": "2026-06-08",
+      "pub_ts": 1780899732,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel launches strikes on Iran after Tehran fires barrage of missiles - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 07, 2026 · 01:42 BRT",
-      "pub_date": "2026-06-07",
-      "pub_ts": 1780807320,
+      "published": "Jun 08, 2026 · 02:21 BRT",
+      "pub_date": "2026-06-08",
+      "pub_ts": 1780896060,
       "summary": "",
       "tags": [
         "extracted",
@@ -20864,18 +20908,36 @@
       "sentiment_success": false
     },
     {
-      "title": "US strikes Iranian sites after Iran launches drones in latest Gulf flare-up - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 06, 2026 · 19:13 BRT",
-      "pub_date": "2026-06-06",
-      "pub_ts": 1780784026,
+      "title": "Oil Surges After Hostilities Between Iran and Israel Escalate - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 08, 2026 · 06:10 BRT",
+      "pub_date": "2026-06-08",
+      "pub_ts": 1780909829,
+      "summary": "Oil prices jumped and stocks plunged after Iran fired missiles at Israel, raising doubts about the future of fragile cease-fire in the Middle East.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "IDF says it expects several days of fighting against Iran, potential full resumption of war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-expects-several-days-of-fighting-against-iran/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jun 08, 2026 · 06:05 BRT",
+      "pub_date": "2026-06-08",
+      "pub_ts": 1780909505,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -20883,77 +20945,39 @@
       "sentiment_success": false
     },
     {
-      "title": "US Intercepts Fresh Iranian Attacks as Peace Talks Stall - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/us-intercepts-fresh-iranian-attacks-on-kuwait-bahrain-hormuz",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 06, 2026 · 22:32 BRT",
-      "pub_date": "2026-06-06",
-      "pub_ts": 1780795920,
-      "summary": "US and Iranian forces traded fresh attacks overnight, at the end of a week that saw the worst flare-up in tensions since the shaky ceasefire started and little progress toward an interim peace deal.",
+      "title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 07, 2026 · 18:04 BRT",
+      "pub_date": "2026-06-07",
+      "pub_ts": 1780866283,
+      "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
       "tags": [
-        "Iran",
-        "Tehran",
-        "Donald John Trump",
-        "Kuwait",
-        "Bahrain"
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "India Hikes LPG Prices Again as Iran War Deepens Refinery Losses - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/india-hikes-lpg-prices-again-as-iran-war-deepens-refinery-losses",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 06, 2026 · 23:57 BRT",
-      "pub_date": "2026-06-06",
-      "pub_ts": 1780801020,
-      "summary": "",
+      "title": "Renewed fire, and no one left to sign: the war Israel cannot end - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-898695",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jun 08, 2026 · 05:42 BRT",
+      "pub_date": "2026-06-08",
+      "pub_ts": 1780908132,
+      "summary": "Three years in, with four fronts still open and everyone who had power in December 2023 killed by Israeli fire, can this war ever end?",
       "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Deferring jet orders over Iran war would be costly for Middle Eastern carriers, IATA VP says - Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/deferring-jet-orders-over-iran-war-would-be-costly-middle-eastern-carriers-iata-2026-06-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 06, 2026 · 13:41 BRT",
-      "pub_date": "2026-06-06",
-      "pub_ts": 1780764103,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "New exchange of fire between U.S. and Iran in Gulf tests fragile ceasefire - CBC",
-      "url": "https://www.cbc.ca/news/world/bahrain-iran-drones-gulf-9.7226112",
-      "source": "CBC",
-      "domain": "cbc.ca",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=cbc.ca",
-      "published": "Jun 06, 2026 · 16:05 BRT",
-      "pub_date": "2026-06-06",
-      "pub_ts": 1780772716,
-      "summary": "Bahrain's government said on Saturday that Iran fired ballistic missiles and drones toward it and Kuwait, as the Iran war escalates.",
-      "tags": [
-        "extracted",
-        "cbc.ca"
+        "Bashar Assad",
+        "Gaza",
+        "Hamas",
+        "Hezbollah",
+        "Iran"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -21522,6 +21546,20 @@
           "published": "Jun 01, 2026 · 17:16 BRT",
           "pub_date": "2026-06-01",
           "pub_ts": 1780344995,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US Bonds Drop as Doubt Over US-Iran Talks Lifts Oil Prices - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSjdlQnRVcjN0RnRfQ2pkRTFSRHNYam9ieHd5amRrSUZydXBsN1VFbW1WSXlEQkx4eVNhUEdaRlF0WXJ1b2VpbGUyd0h4X3NHVmJPREJpZl9Wc3N1SXJCYk15NFJpc01ndnZ0QTE2RHE0Z3dvS3g3TmNxeFVaOF8zb1hOTzB5c2JTLWZQcmtMSmxldzdZQ1ZFYU1rcFktYVQwX3V4V2t0UEZoUkpBeXc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 01, 2026 · 16:45 BRT",
+          "pub_date": "2026-06-01",
+          "pub_ts": 1780343110,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -33446,7 +33484,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-07T11:04:38.456883+00:00",
-  "last_watch_time": "2026-06-07T11:04:47.372913+00:00",
-  "last_relevant_time": "2026-06-07T11:04:47.926117+00:00"
+  "last_digest_time": "2026-06-08T11:05:44.188755+00:00",
+  "last_watch_time": "2026-06-08T11:05:59.472134+00:00",
+  "last_relevant_time": "2026-06-08T11:06:00.065207+00:00"
 }

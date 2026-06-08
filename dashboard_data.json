@@ -21028,7 +21028,7 @@
       "pub_date": "2026-06-08"
     },
     "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html": {
-      "summary": "",
+      "summary": "President Trump is grappling with his own version of the sort of Middle East crisis that beset his predecessors, and that he promised to avoid.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -21046,11 +21046,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-08"
+    },
+    "https://www.nytimes.com/2026/06/08/briefing/iran-israel-strikes-todd-blanche.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-08"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-08",
-  "last_generated_time": "2026-06-08T19:01:44.764107+00:00",
+  "last_generated_time": "2026-06-08T20:01:44.833685+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in hostilities between Iran and Israel, with Iran launching missiles at Israel for the first time since a ceasefire, prompting retaliatory strikes from Israel on Iranian military targets and petrochemical plants. This exchange has led to a surge in oil prices and a decline in stock markets, raising concerns about the stability of the Middle East and impacting global trade. US President Trump has publicly urged both Israel and Iran to cease fire, emphasizing his influence over Israeli decision-making and suggesting Netanyahu has \"no choice\" but to accept a deal with Iran, a stance that appears to be creating friction with Israeli leadership who feel compelled to respond to direct attacks. The conflict is also having tangible economic consequences globally, with reports of stalled e-commerce growth, falling German factory orders, and squeezed margins for Indian businesses due to increased costs and dampened demand. Domestically within Iran, the economic situation is dire, with skyrocketing inflation contributing to widespread despair. The potential for a full resumption of war is being considered, with the IDF anticipating several days of fighting. Meanwhile, Yemen's Houthi rebels have vowed to block Israeli ships from traversing the Red Sea, adding another layer of regional instability to the ongoing conflict.",
     "top_themes": [
@@ -21213,6 +21223,20 @@
           "published": "Jun 08, 2026 · 13:59 BRT",
           "pub_date": "2026-06-08",
           "pub_ts": 1780937966,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran and Israel Halt Exchanges of Fire - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWi1qZHpOOXlndl9pb25lRldfN09RVjVYVU1OQWt5OUVLRWl0UXpxblFyTjlwcV9oRVhKdGxfTlA5QnZTcVVYdHlNLVNENm5CYXRNNlNQSXF6U2c0ZVhxd0tkbXBBY19jUm9DTG9zbGtlY3VrTEJWMVVfMXNBemxVQ180MXk5SVI3dlB6a3dmN1dMQnpvUV9RaHFvd2lLZnJuUGoxUDJ5b09hSkUwcWhB?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 08, 2026 · 13:30 BRT",
+          "pub_date": "2026-06-08",
+          "pub_ts": 1780936200,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

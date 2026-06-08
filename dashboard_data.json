@@ -20438,7 +20438,7 @@
       "pub_date": "2026-06-07"
     },
     "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html": {
-      "summary": "",
+      "summary": "In a lengthy interview with NBC’s “Meet the Press,” the president again vowed that gas prices would go down when the war in Iran ends.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -20448,7 +20448,7 @@
       "pub_date": "2026-06-07"
     },
     "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html": {
-      "summary": "",
+      "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -20573,7 +20573,7 @@
       "pub_date": "2026-06-07"
     },
     "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html": {
-      "summary": "",
+      "summary": "Israel had struck the outskirts of the Lebanese capital, Beirut, earlier on Sunday, prompting Iran to retaliate.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -20611,11 +20611,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-07"
+    },
+    "https://www.timesofisrael.com/trump-ties-israels-hands-as-the-partnership-that-went-to-war-100-days-ago-collapses/": {
+      "summary": "Telling Israel it had better not respond to an Iranian missile attack, the US president, desperate for a deal with the devilish regime, presents Netanyahu with a terrible dilemma",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-07",
-  "last_generated_time": "2026-06-07T21:01:50.084038+00:00",
+  "last_generated_time": "2026-06-07T22:01:47.671254+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in military exchanges between Iran and the U.S. in the Gulf region, with Iran launching missiles and drones, prompting U.S. strikes on Iranian sites. These confrontations are testing a fragile ceasefire, with peace talks reportedly stalling. Diplomatic tensions are evident, with reports of Republican lawmakers clashing with President Trump over Iran policy ahead of midterm elections. There are also indications of Israeli intelligence operations potentially utilizing Azerbaijani bases for operations against Iran, and concerns within the U.S. Defense Department regarding espionage threats from Israel. The conflict is having tangible economic consequences, including India hiking LPG prices due to refinery losses and airlines delaying aircraft purchase decisions, impacting the aviation industry. Proposals are being considered to use frozen Iranian assets to compensate Gulf allies for war damage, reflecting strained relations between the U.S. administration and regional partners. Despite the ongoing conflict, international sporting event preparations, such as the 2027 Basketball World Cup in Qatar, are proceeding as scheduled.",
     "top_themes": [
@@ -30100,6 +30110,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Airlines face $100bn hit on jet fuel from Iran energy shock - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2lNWHNxd05Yd0NydGdsU2xxT19ZWnZCS0hxZXE3WGtIbktQTThIWFl4czFZaGtVUTdEY2I1R2FqQ0ZTT21aM1VzRXNKMjRhTURGa2ZXNkhtbVN6SE1vQzJ3c0EzeTItdHBTVnU3NVYtSm0zeUxBUk11N19EQWJoYzVtX1Q?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 07, 2026 · 12:25 BRT",
+          "pub_date": "2026-06-07",
+          "pub_ts": 1780845917,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "South Korea jet fuel exports rebound in May to pre-war levels, sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzRWcU1zR1QwUFZzUEczS1JQNzNmQU9LcVZVRUdlMXBmWDRiNG1jZkE0LXhvZVhvd25SSktnQUx4aUUwdmJ6dGFSRE9TWTktSU9SYlZoZUZaUWZ5REJ3U1hqYmVHQmVyUlBSSGtHNjlla3NpcWRTWXhOdGRNbmJOVmY5M0o5LWhBUGFEM2xjb21VczJRc3hnSnF5cXN0cGZISjRzZnMtbjg4WnNXVmVVTEc0cU51OUpfOV9F?oc=5",

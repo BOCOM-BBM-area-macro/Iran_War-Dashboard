@@ -20521,7 +20521,7 @@
       "pub_date": "2026-06-07"
     },
     "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html": {
-      "summary": "",
+      "summary": "U.S. efforts for a truce in Lebanon appear to have stalled. Israel accused Hezbollah of firing at Israeli territory. Iran swiftly retaliated.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -20621,11 +20621,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-07"
+    },
+    "https://www.reuters.com/world/india/india-inc-hikes-prices-shrinks-packs-iran-war-squeezes-margins-2026-06-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
+    },
+    "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html": {
+      "summary": "Oil prices jumped and stocks plunged after Iran fired missiles at Israel, raising doubts about the future of fragile cease-fire in the Middle East.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/idf-says-it-struck-military-targets-in-western-and-central-iran-following-missile-attacks/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-07",
-  "last_generated_time": "2026-06-07T22:01:47.671254+00:00",
+  "last_generated_time": "2026-06-07T23:01:47.221136+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in military exchanges between Iran and the U.S. in the Gulf region, with Iran launching missiles and drones, prompting U.S. strikes on Iranian sites. These confrontations are testing a fragile ceasefire, with peace talks reportedly stalling. Diplomatic tensions are evident, with reports of Republican lawmakers clashing with President Trump over Iran policy ahead of midterm elections. There are also indications of Israeli intelligence operations potentially utilizing Azerbaijani bases for operations against Iran, and concerns within the U.S. Defense Department regarding espionage threats from Israel. The conflict is having tangible economic consequences, including India hiking LPG prices due to refinery losses and airlines delaying aircraft purchase decisions, impacting the aviation industry. Proposals are being considered to use frozen Iranian assets to compensate Gulf allies for war damage, reflecting strained relations between the U.S. administration and regional partners. Despite the ongoing conflict, international sporting event preparations, such as the 2027 Basketball World Cup in Qatar, are proceeding as scheduled.",
     "top_themes": [
@@ -28182,6 +28212,20 @@
           "published": "Jun 03, 2026 · 20:21 BRT",
           "pub_date": "2026-06-03",
           "pub_ts": 1780528919,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Plunging global oil supplies threaten to push fuel prices even higher - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSW8yR0hNY1dpcVJiR25SUE1CRnZCTGh3Ynk4WTBueUtIZG1WMkpaZGdwbE1ueVh4LWtXd0h0U1hrMEc2S0p0X3k4czJjX09BOFE5Qi1DbE83blZ0Zm02UXFneDROS3lpWnhWa3ZPa3Q0UUZBZlZ1SDVTcFUyOWItT0pKQ3U1SGNBY3lzZE1YSThycGk3UVhWVUFEWEhTSmxTN1lqdFgzRlNYMmxXSXFteFZzRk5JOUE?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 03, 2026 · 13:00 BRT",
+          "pub_date": "2026-06-03",
+          "pub_ts": 1780502400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

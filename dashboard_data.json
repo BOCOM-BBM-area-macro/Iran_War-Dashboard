@@ -21146,6 +21146,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-09"
+    },
+    "https://www.nytimes.com/2026/06/09/business/dubai-economy-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
     }
   },
   "last_run_success": true,
@@ -21304,6 +21314,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Dubai Reinvented Itself. Now a War Is Testing Its Endurance. - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52bWhtWDZkV1lYaVdackZVazhGR3Mwc1RDaU9KSmNucUNyYlo0OWJld1IxaTlsWFNoQ0k4X2trSmxSRDZyZjFLSzBlcXFRdGQwMnh6bW1NLUJaOXI5WWVicVA4OVZpLTB0MHRZSTYwRmJpdHA1RDBTd1FCUQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 06:00 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1780995655,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Indian economy, government finances, see mounting costs from Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmY0YXFQTDY3YVJoX2xGeGphWTVfeUhMZG9waDVxSVNsQWViUnRhcVY0YmVKRW45SDctRW1YUkg3V05yYXJXWjltOW1TWVFlMHJkcm8yMnRpcmlZdlBldmQ3WW1SU1E2RkptcVRxbmlOaG13WWVZeDFLbDRWQzk1RldmRThoWC14T19JdGZMYjFrOG41Y1VFMldQdUpzMFVadkxGZGJDN1dEd0pLZU4w?oc=5",

@@ -19159,7 +19159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-04"
+      "pub_date": "2026-06-03"
     },
     "https://www.reuters.com/world/middle-east/most-gulf-markets-retreat-iran-war-jitters-2026-06-03/": {
       "summary": "",
@@ -21086,6 +21086,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-09"
+    },
+    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
     }
   },
   "last_run_success": true,
@@ -21259,6 +21269,20 @@
           "_rank": 0
         },
         {
+          "title": "Oil Steady as Israel and Iran Halt Hostilities That Risked Talks - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMV84X08yTmtqRU1EV1dVUEx1STBLWWlySW54SU1pLWNMY3JMOXJEVm9CaGprNEZHaE9HdUtWTGJoelVPM2x2TTNFLTd4bmlvOTItQUNFWHFXMW0xaWRsTEF3UHJWWnpSdzNYbTNoZmdqS1FFckdjZXFYclk1dTUtOGxEcE11V3plZ3hJdG9zWlRpRWJIUEl2RHBINTRjZw?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 08, 2026 · 19:07 BRT",
+          "pub_date": "2026-06-08",
+          "pub_ts": 1780956447,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Treasuries Drop as Jobs Data, Iran Tensions Fuel Rate Hike Bets - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1Z5VXh3OTNRNTBKRXJ5T19nOGFNTDF5ZWc4N3VmYlFieXBiLW45aXozS0pIX3hvak4tNmdieUtZa2M3UmllMm03aXJ6b0JBRXh2MERLNDVCYnQxYzlrYkpjLVluMHExSzNOV2t3SkZTUXNTSjVyUkkzQmt1Q09JMDRMT2RTbDBBVkFQUDRjTm43dGVfSHIzTXN2cXRocGpTNjF5NFcwT1ludGp2anpjU01VVQ?oc=5",
           "source": "Bloomberg.com",
@@ -21281,6 +21305,20 @@
           "published": "Jun 08, 2026 · 13:30 BRT",
           "pub_date": "2026-06-08",
           "pub_ts": 1780936200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Why the Iran-aligned Houthis threatening Red Sea shipping could mean more for the oil market this time - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZndSZ05Ec0xibk5xQ0JPWjFrM2ZzOGhyTDgtR01HOVhuY3J6THhKMVU3UXZxbnlKOUJma041dUJmcTlTNlJ2Q19PREcxWmc3b2pyV2dXVGFNSTJ5aXVTMG9RdDVEUk5CU0luTE9Hc19ESnBBMm5KWVZOblR6NzU0ejdJX1JPSzNQS0tlUzZLYXh3c1FRMjdYbUZ2dmJ5ajE0UU16eTBtYW9vQm9pQXJvM213RWVhLWpURkxPSDNkd1lmUEE1TXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 08, 2026 · 11:33 BRT",
+          "pub_date": "2026-06-08",
+          "pub_ts": 1780929227,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

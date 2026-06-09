@@ -20985,7 +20985,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-09"
+      "pub_date": "2026-06-08"
     },
     "https://www.bloomberg.com/news/articles/2026-06-08/how-israel-s-battle-with-lebanon-s-hezbollah-fits-into-the-iran-war": {
       "summary": "",
@@ -21156,90 +21156,142 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-09"
+    },
+    "https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
+    },
+    "https://www.reuters.com/world/africa/south-africas-economy-shows-modest-q1-growth-iran-war-impact-yet-show-2026-06-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-09/crop-and-fertilizer-markets-wipe-out-iran-war-risk-premium": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-09/basf-warns-iran-war-could-trigger-supply-shortages-for-carmakers": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
+    },
+    "https://www.jpost.com/israel-news/article-898831": {
+      "summary": "The bill, which is designed to establish a unified and binding framework for cyber defense within essential organizations for the first time in Israel, passed with zero opposing votes.",
+      "tags": [
+        "Knesset",
+        "Israel Iran War",
+        "cybersecurity",
+        "Cyber"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-08",
-  "last_generated_time": "2026-06-08T23:01:45.499715+00:00",
+  "last_generated_date": "2026-06-09",
+  "last_generated_time": "2026-06-09T08:02:01.672056+00:00",
   "digest": {
-    "digest": "Recent events indicate a significant escalation in hostilities between Iran and Israel, with Iran launching missiles at Israel for the first time since a ceasefire, prompting retaliatory strikes from Israel on Iranian military targets and petrochemical plants. This exchange has led to a surge in oil prices and a decline in stock markets, raising concerns about the stability of the Middle East and impacting global trade. US President Trump has publicly urged both Israel and Iran to cease fire, emphasizing his influence over Israeli decision-making and suggesting Netanyahu has \"no choice\" but to accept a deal with Iran, a stance that appears to be creating friction with Israeli leadership who feel compelled to respond to direct attacks. The conflict is also having tangible economic consequences globally, with reports of stalled e-commerce growth, falling German factory orders, and squeezed margins for Indian businesses due to increased costs and dampened demand. Domestically within Iran, the economic situation is dire, with skyrocketing inflation contributing to widespread despair. The potential for a full resumption of war is being considered, with the IDF anticipating several days of fighting. Meanwhile, Yemen's Houthi rebels have vowed to block Israeli ships from traversing the Red Sea, adding another layer of regional instability to the ongoing conflict.",
+    "digest": "The ongoing conflict between Iran and Israel has seen a significant escalation in cyber warfare, with Israel passing a National Cyber Defense Bill to bolster its defenses against evolving threats. Diplomatic efforts to de-escalate the situation are evident, with calls for an immediate cessation of hostilities from the U.S. President, though ceasefire agreements appear fragile. The conflict's economic repercussions are mounting globally, impacting energy markets with record jet fuel output and doubled prices in March, while also forcing energy-importing nations to prioritize domestic resources. Crop and fertilizer markets have seen their risk premiums wiped out, and industries like automotive manufacturing face potential supply shortages. The war is also testing the endurance of regional economic hubs like Dubai. U.S. and Israeli strategic differences regarding Iran remain apparent, complicating efforts to manage the crisis. Despite attempts to avoid further conflict, leaders are encountering limitations in their ability to control the situation, with Iran revealing new regional ambitions through its attacks on Israel.",
     "top_themes": [
-      "Escalation of Iran-Israel hostilities",
-      "US diplomatic pressure on Israel",
-      "Global economic impact of the conflict"
+      "Geopolitical Tensions and Diplomatic Efforts",
+      "Economic Impacts of the Conflict",
+      "Regional Security and Cyber Defense"
     ],
     "next_events": [
       {
-        "title": "US Diplomatic Pressure and Israel's Response",
-        "description": "US President Trump is actively attempting to constrain Israel's military actions and push for a deal with Iran, creating a significant dilemma for Prime Minister Netanyahu. Analysts should monitor the effectiveness of US pressure on Israel's retaliatory strategy and any progress or breakdown in US-Iran negotiations."
+        "title": "Monitoring the Israel-Iran Ceasefire",
+        "description": "The recent halt in exchanges of fire between Iran and Israel is precarious, with reports of the ceasefire fraying and US warnings against renewed conflict. Analysts should watch for any breaches, rhetoric from key leaders (Trump, Netanyahu), and military movements that could signal a return to direct confrontation."
       },
       {
-        "title": "Direct Military Escalation between Iran and Israel",
-        "description": "Recent direct missile exchanges and retaliatory strikes indicate a high potential for further military confrontation between Iran and Israel, with the IDF expecting several days of fighting. Watch for the intensity, targets, and frequency of future attacks, as well as any shifts in military readiness or rhetoric from both nations."
+        "title": "Prospects for US-Iran Negotiations",
+        "description": "Despite ongoing conflict, there are indications of US-Iran talks, though both sides reportedly demand victory, making a resolution challenging. Observe any shifts in negotiating positions, the involvement of intermediaries, or public statements that could indicate progress or a complete breakdown in diplomatic efforts."
       },
       {
-        "title": "Global Economic Repercussions and Oil Market Volatility",
-        "description": "The escalating conflict has already caused oil prices to surge and is impacting global trade, supply chains, and national economies, including Germany and India. Analysts should closely track crude oil prices, global inflation rates, and the performance of key economic indicators, particularly in energy-dependent sectors and Iran's struggling domestic economy."
+        "title": "Global Economic and Energy Market Volatility",
+        "description": "The Iran war has already impacted global energy prices, supply chains (e.g., carmakers, crops, fertilizers), and regional economies. Analysts should monitor oil and gas market fluctuations, reports of supply shortages, and the economic performance of key trading nations like India, South Africa, and regional hubs like Dubai, as the full impact may still be unfolding."
       },
       {
-        "title": "Regional Spillover and Maritime Security Threats",
-        "description": "Iran-backed Houthis have threatened to block Israeli ships in the Red Sea, signaling a potential expansion of the conflict's geographic scope and a threat to maritime security. Monitor any Houthi actions against commercial shipping and the responses from international naval forces, as this could further disrupt global trade routes."
+        "title": "Expansion of Cyber Warfare",
+        "description": "Israel's passing of a National Cyber Defense Bill amidst the war with Iran highlights the increasing intensity and formalization of cyberattacks. Watch for reports of significant cyber incidents targeting critical infrastructure or essential organizations in both Iran and its adversaries, as this domain could become a primary battleground."
       },
       {
-        "title": "Netanyahu's Political Calculus and War Sustainability",
-        "description": "The ongoing conflict is deeply intertwined with Prime Minister Netanyahu's political standing, offering short-term gains but presenting long-term challenges regarding war termination. Observe domestic political developments in Israel, public sentiment, and any indications of a shift in Israel's long-term strategy or a viable exit plan from the protracted conflict."
+        "title": "Iran's Regional Posture and Allied Divergence",
+        "description": "Iran's recent actions suggest new and aggressive regional ambitions, while the US and Israel continue to show differences in their approach to the conflict. Analysts should observe Iran's strategic moves, the coordination (or lack thereof) between the US and Israel, and how these dynamics reshape regional power balances and potential future alliances."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran fires missiles at Israel for first time since ceasefire - Axios",
-      "url": "https://www.axios.com/2026/06/07/iran-israel-missiles-us-tehran-negotiations-ceasefire-risk",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Jun 08, 2026 · 03:22 BRT",
-      "pub_date": "2026-06-08",
-      "pub_ts": 1780899732,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Israel launches strikes on Iran after Tehran fires barrage of missiles - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 08, 2026 · 02:21 BRT",
-      "pub_date": "2026-06-08",
-      "pub_ts": 1780896060,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Oil Surges After Hostilities Between Iran and Israel Escalate - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
+      "title": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 08, 2026 · 06:10 BRT",
+      "published": "Jun 09, 2026 · 07:12 BRT",
+      "pub_date": "2026-06-09",
+      "pub_ts": 1780999920,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran and Israel Halt Exchanges of Fire - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 08, 2026 · 13:30 BRT",
       "pub_date": "2026-06-08",
-      "pub_ts": 1780909829,
-      "summary": "Oil prices jumped and stocks plunged after Iran fired missiles at Israel, raising doubts about the future of fragile cease-fire in the Middle East.",
+      "pub_ts": 1780936200,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "The Iran War is Forcing Energy-Importing Countries to Turn Inward - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 08, 2026 · 14:56 BRT",
+      "pub_date": "2026-06-08",
+      "pub_ts": 1780941374,
+      "summary": "The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -21249,18 +21301,18 @@
       "sentiment_success": false
     },
     {
-      "title": "IDF says it expects several days of fighting against Iran, potential full resumption of war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-expects-several-days-of-fighting-against-iran/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jun 08, 2026 · 06:05 BRT",
+      "title": "Iran’s Attack on Israel Reveals New and Aggressive Regional Ambitions - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/irans-attack-on-israel-reveals-new-and-aggressive-regional-ambitions-46a63383",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 08, 2026 · 21:00 BRT",
       "pub_date": "2026-06-08",
-      "pub_ts": 1780909505,
+      "pub_ts": 1780963200,
       "summary": "",
       "tags": [
         "extracted",
-        "timesofisrael.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -21268,42 +21320,43 @@
       "sentiment_success": false
     },
     {
-      "title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 07, 2026 · 18:04 BRT",
-      "pub_date": "2026-06-07",
-      "pub_ts": 1780866283,
-      "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
+      "title": "US jet fuel output hits record as Iran war doubled prices in March, EIA says - Reuters",
+      "url": "https://www.reuters.com/business/energy/us-jet-fuel-output-hits-record-iran-war-doubled-prices-march-eia-says-2026-06-08/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 08, 2026 · 15:50 BRT",
+      "pub_date": "2026-06-08",
+      "pub_ts": 1780944630,
+      "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Renewed fire, and no one left to sign: the war Israel cannot end - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-898695",
+      "title": "National Cyber Defense Bill passes first reading during war with Iran - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-898831",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jun 08, 2026 · 05:42 BRT",
-      "pub_date": "2026-06-08",
-      "pub_ts": 1780908132,
-      "summary": "Three years in, with four fronts still open and everyone who had power in December 2023 killed by Israeli fire, can this war ever end?",
+      "published": "Jun 09, 2026 · 05:50 BRT",
+      "pub_date": "2026-06-09",
+      "pub_ts": 1780995022,
+      "summary": "The bill, which is designed to establish a unified and binding framework for cyber defense within essential organizations for the first time in Israel, passed with zero opposing votes.",
       "tags": [
-        "Bashar Assad",
-        "Gaza",
-        "Hamas",
-        "Hezbollah",
-        "Iran"
+        "Knesset",
+        "Israel Iran War",
+        "cybersecurity",
+        "Cyber"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "National\nCyber\nDefense\nBill\npasses\nfirst\nreading\nduring\nwar\nwith\nIran\n|\nThe\nJerusalem\nPost\nNational\nCyber\nDefense\nBill\npasses\nfirst\nreading\namid\nongoing\nwar\nagainst\nIran\nThe\nbill,\nwhich\nis\ndesigned\nto\nestablish\na\nunified\nand\nbinding\nframework\nfor\ncyber\ndefense\nwithin\nessential\norganizations\nfor\nthe\nfirst\ntime\nin\nIsrael,\npassed\nwith\nzero\nopposing\nvotes.\nFollow\nus\non\nGoogle\nA\nman\nholds\na\nlaptop\ncomputer\nas\ncyber\ncode\nis\nprojected\non\nhim\nin\nthis\nillustration\npicture.\n(\nphoto\ncredit\n:\nKACPER\nPEMPEL/ILLUSTRATION\nPHOTO/REUTERS\n)\nBy\nANNA\nBARSKY\nJUNE\n9,\n2026\n11:47\nUpdated\n:\nJUNE\n9,\n2026\n11:50\nThe\nNational\nCyber\nDefense\nBill\npassed\nits\nfirst\nreading\nin\nthe\nKnesset\non\nMonday\namid\nthe\nrising\nintensity\nof\ncyberattacks\nduring\nthe\nongoing\nwar\nagainst\nIran.\nFollowing\nmore\nthan\na\ndecade\nof\nefforts\nto\nadvance\nthe\nlegislation,\nthe\nbill,\nwhich\nis\ndesigned\nto\nestablish\na\nunified\nand\nbinding\nframework\nfor\ncyber\ndefense\nwithin\nessential\norganizations\nfor\nthe\nfirst\ntime\nin\nIsrael,\npassed\nwith\nzero\nopposing\nvotes.\nThe\nlaw\nis\naimed,\namong\nother\nthings,\nat\naddressing\nthe\ncurrent\nreality\nin\nwhich\nvarious\norganizations\noperate\nunder\ndiffering\nlevels\nof\nsecurity\nin\nthe\nabsence\nof\na\nunified\nnational\nstandard\nby\nestablishing\nmandatory\ncyber\nrequirements\nbased\non\naccepted\ninternational\nconcepts\nand\nbenchmarks.\nFirst,\nit\nestablishes\na\nmandatory\ndefense\nthreshold\nand\nrisk\nmanagement\nframework,\ndefining\nthe\ndefense\nrequirements\nand\nprofessional\nstandards\nthat\nensure\nthe\noperational\ncontinuity\nof\nessential\norganizations\nand\ndigital\nservice\nproviders.\nSecond,\nthere\nis\nthe\nmandatory\nreporting\nof\nsignificant\ncyberattacks\n,\nas\nwell\nas\nthe\nability\nto\nissue\ndirectives\nto\nmitigate\nsevere\ncyber\nincidents.\nAn\nillustrative\nphoto\nof\na\nlaptop\ndisplaying\nthe\nIranian\nflag,\nrepresenting\nIran\nin\na\ndigital\nor\ncyber\ncontext,\nMarch\n27,\n2026.\n(credit:\nNATI\nSHOHAT/FLASH90)\nThird,\ninvolves\na\nprofessional\nguidance\nand\noversight\nmechanism.\nEssential\norganizations\nwill\nbe\nsupervised\nby\nunits\nwithin\ngovernment\nministries,\neach\naccording\nto\nits\narea\nof\nresponsibility,\nall\nunder\nthe\nprofessional\nguidance\nof\nthe\nNational\nCyber\nDirectorate.\n'Cyber\nthreat\nevolving\nat\na\nrapid\npace,\nthis\nlaw\nwill\nstrengthen\ncapabilities'\n\"This\nis\na\nhistoric\nmilestone\nfor\ncyber\ndefense\nin\nIsrael.\nIt\nis\ntime\nfor\nIsrael\nto\njoin\nthe\nadvanced\nnations\nthat\nimplemented\nsimilar\nlaws\nabout\na\ndecade\nago,\"\nThe\nHead\nof\nthe\nNational\nCyber\nDirectorate,\nYossi\nKaradi,\nsaid.\n\"The\ncyber\nthreat\nis\nevolving\nat\na\nrapid\npace,\nand\nthe\nState\nof\nIsrael\nmust\nensure\nthat\nthe\nlevel\nof\ndefense\nfor\nessential\nservices\nprovided\nto\nits\ncitizens\nis\nunified,\nprofessional,\nand\nbased\non\nadvanced\nstandards.\nThis\nlaw\nwill\nstrengthen\nIsrael's\ncapability\nto\nconfront\nthe\ncyber\nthreats\nof\ntoday\nand\ntomorrow.\nThis\nis\na\nsignificant\nstep\ntoward\nbolstering\nnational\nresilience\nand\nsafeguarding\nthe\nsecurity\nof\nIsraeli\ncitizens.\"\nThe\nproposal\nis\nnow\nset\nto\nbe\ntransferred\nto\nthe\nForeign\nAffairs\nand\nDefense\nCommittee\nto\nprepare\nit\nfor\nits\nsecond\nand\nthird\nreadings.\nSee\nmore\non\nKnesset\n|\nIsrael\nIran\nWar\n|\ncybersecurity\n|\nCyber\nFollow\nus\non\nGoogle",
       "sentiment_success": false
     }
   ],
@@ -32017,6 +32070,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "Crop and Fertilizer Markets Wipe Out Iran War Risk Premium - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQU9qRG5JN0I1NnZFbXFIdWY1cVNnbHJhQ1ZFTmloRDBtMzRtSlVFaHA0TVlPQURELTdVQm5OTmdETmhYSVpuUGh4Nm44MWtCVFRTSVdrRUYzZnlNNm1tb0hVQWNnTVlURlI5UXMzUmZRMDIyZDUzUjB5R1pnSHBtTEVwS2lhNFFNRlFkZzF1aldxWC1jblBZNGU1MklrN1NDejRxbWNfMVNrMlNKN2c?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 07:42 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1781001746,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "G7 Ministers Seek Joint Fertilizer Action as War Roils Supplies - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFlTcjhvMmNkUzNTY1htcDBEdFhxa3VMU1VLTnM3dmgzSThUMlQtcjNkV0Z0N04wVE1LMDBXYWRWZFpxTHN3NFY5Wnl6Mk5fUXdXTldKak9sTHNoM01mVnNyLVdPZDlPYmxQSWJRdXY4ZzVGcXRGV2g3X0ZIUmM2NVF5VkZHMnpLdkJ5RDhkUEM4TXhSLVRTYUh2M0tYUWxxWENJWUNoSTRBS3prb0NTMjE1NHQ?oc=5",
           "source": "Bloomberg.com",
@@ -34045,7 +34112,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-08T11:05:44.188755+00:00",
-  "last_watch_time": "2026-06-08T11:05:59.472134+00:00",
-  "last_relevant_time": "2026-06-08T11:06:00.065207+00:00"
+  "last_digest_time": "2026-06-09T11:06:10.265145+00:00",
+  "last_watch_time": "2026-06-09T11:06:25.560838+00:00",
+  "last_relevant_time": "2026-06-09T11:06:26.091613+00:00"
 }

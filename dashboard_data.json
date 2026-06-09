@@ -21311,11 +21311,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-09"
+    },
+    "https://www.wsj.com/opinion/inside-trumps-economic-war-on-iran-cdc4b576": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
+    },
+    "https://www.axios.com/2026/06/07/trump-israel-iran-missile-attack": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-09/trump-blames-iran-for-hitting-helicopter-says-us-must-respond": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
+    },
+    "https://www.reuters.com/business/energy/rising-fuel-prices-hit-us-farms-iran-war-drags-2026-06-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-09",
-  "last_generated_time": "2026-06-09T15:02:03.416996+00:00",
+  "last_generated_time": "2026-06-09T16:02:17.549792+00:00",
   "digest": {
     "digest": "The ongoing conflict between Iran and Israel has seen a significant escalation in cyber warfare, with Israel passing a National Cyber Defense Bill to bolster its defenses against evolving threats. Diplomatic efforts to de-escalate the situation are evident, with calls for an immediate cessation of hostilities from the U.S. President, though ceasefire agreements appear fragile. The conflict's economic repercussions are mounting globally, impacting energy markets with record jet fuel output and doubled prices in March, while also forcing energy-importing nations to prioritize domestic resources. Crop and fertilizer markets have seen their risk premiums wiped out, and industries like automotive manufacturing face potential supply shortages. The war is also testing the endurance of regional economic hubs like Dubai. U.S. and Israeli strategic differences regarding Iran remain apparent, complicating efforts to manage the crisis. Despite attempts to avoid further conflict, leaders are encountering limitations in their ability to control the situation, with Iran revealing new regional ambitions through its attacks on Israel.",
     "top_themes": [
@@ -27720,6 +27760,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Rising fuel prices hit US farms as Iran war drags on - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEJuTERzUURfX2hORlJoVzlkUVc2TFhvV2xiWVZrc0d1TkJYMXRfbllmM21BNEw1Mno1cmE3cHZtQjdHX2xncldFbWNOeEFXbG9jaTNMeGJXcDVGQzF3d3FzT2hVM055OWFZbUVLX2xoX3VjVUptTEt1R0c3NjhNTk9sZFhfT3BKRGpXMTRMMUdMRklXbS1zWjU3SVM5Nzg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 15:51 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1781031108,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Europe’s Imports of Diesel and Jet Fuel Shrivel as War Drags On - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1BPbUVRWGtQQTk4V0RvYllwUVVIZ2NSOVNRYW5tc1lGOFlxSWJDNG12ZWxqbHhPb1dpc3NnWHVzQlRVeUY1S1hUTW9iYnB5dDVGemEwb2h1aVZLQmhSTE5XMFAxdHJUUGJnWmRJdHNSSmZpVDZ3amI0OTd2dlJ3M1Axc05RVzI5V0RFYVRXel93OVR4cmprSUtOdGlmemNuaVNpTTNlbGxEMS1VOEEzRGhPaEg?oc=5",
           "source": "Bloomberg.com",
@@ -29096,6 +29150,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Stocks Drop on Tech Fears and War Worries - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnczhFakx0RzkxZDU1LXVqMnBFQ3ZpYkl1cHFnR2p6Nk9ESTdSTHZSNUMzVjVlWHJESGU3bXlZajREakZraEEybU5hLVJyMExZWDdhOFgzRGtjM0JoTV9QWUY3YTFFa3prV0ZnQ09xN19zTk1nUUN3?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 14:29 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1781026191,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "LNG demand in Asia recovers from Iran shock as China buys - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME8tR25BVGlpS1lPR09idGVCV2dUQ205eXM5SmdaRGlWMjZ5WWswRjdsLVY1R183Nmk5ZkEzOWNUTUtJSFc2VHEtdU5qTmRLS0RxeXZXVlBTTEpnaGI1VWRlOE1UdkxBbmxZcWkwSzJZMlNobFZKTFZPdUdLZjBYN000ZnExcE1BQkUxYWdKQWVkdlRoUUhwcnVlbWtpVHFJQWQwakxwTjFYZ1NsTzNFaXQwSk41QQ?oc=5",

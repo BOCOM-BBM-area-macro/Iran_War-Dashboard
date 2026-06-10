@@ -21863,11 +21863,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-10"
+    },
+    "https://www.reuters.com/business/ecb-poised-insurance-hike-iran-war-fans-euro-zone-inflation-2026-06-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-10/us-launches-more-strikes-against-iran-further-straining-truce": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-10",
-  "last_generated_time": "2026-06-10T19:01:42.507479+00:00",
+  "last_generated_time": "2026-06-10T20:01:59.436005+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in hostilities between the United States and Iran, marked by direct military strikes. Following the downing of a U.S. Army helicopter, American forces launched retaliatory \"self-defense strikes\" against Iran. Iran, in turn, has retaliated with strikes on U.S. bases in the Gulf and has also engaged in exchanges with Israel, including missile firings. These actions have tested ongoing peace talks and raised questions about the survival of existing ceasefires. Diplomatic efforts are underway, with President Trump attempting to keep negotiations alive, while Iran demonstrates its capacity to impose costs. Israel is focused on maintaining deterrence within Washington's diplomatic framework. The conflict is having tangible economic repercussions, affecting industrial output, sales, fuel prices for farms, and investment flows in emerging markets. Public opinion surveys reveal stark divisions, with Israelis largely supporting the U.S. and Israeli actions, while Palestinians express strong opposition, and Americans are divided on the decision and its implications for safety and Iran's nuclear program. Despite the ongoing exchanges, there are indications of temporary pauses in strikes, with one instance of Israel halting strikes after claims of progress toward nuclear talks, though both sides remain prepared to resume hostilities.",
     "top_themes": [
@@ -22035,6 +22055,20 @@
           "published": "Jun 10, 2026 · 16:19 BRT",
           "pub_date": "2026-06-10",
           "pub_ts": 1781119196,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says US will attack Iran 'very hard' and has taken oil through Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUdOeWRybkJaaDV4dzVCMFdsOUJSSHhBaHliNV9WajdMUXgxTGx2QldYLXF3akJSSW5meGpzcW53QnFqOWpKQVpkci1aTUY4WEtkYlFGNHk3b3B0ci0zSjYzOENmd2xzcEFzUVBFbi04dk5QdTF3dWRPTGVJemJ3cmprRURzeFQ2T1YtejUxUVFMMXBKWTJjU1ZXcDAxTEZPTnp0OTJ3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 15:48 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781117281,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -29821,6 +29855,34 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "US Inflation Accelerates on War-Driven Gas Prices - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFBjWDVYNFBQRzVGMUNaZGtuaHlfZU05UFRqbjg3RkpVbF9Cb3pyQjF1S0I0NzI2Umk0eXJWSW1FbmNtYXcxN3o5bzVPR1hNYTRlMVB5TWctRThqT05QOGk2aWpoLWk4YTRTcVdIQ2VzcXlQclh3dEx2VnN5d3VvV1Uta25iUkNEdFNNeWZYQ2h3blVNdXdFTWllVm5HdDVkanYtOXpzaEd1U0ROZXNtcWZsb05FcXhi?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 19:26 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781130365,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Video: Trump Says He ‘Loves the Inflation’ Amid War With Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRExQNEhYU1BCeXRGOWkzNm9GdjNRdmNrazMzMXZZVnN4Z2hxbkdKQlBpbDNfRU9JdFpTcGpGb3dGX3d2S0VLSDAzV1Yxd3RHdnpRODVhUkJxbm9HUXVHbDgyRkF1Sm1sNE5JcHhQR1RMMlRZN3JTS2F5U2tkX3NqbVdKVDRlazhXNGhSRXpwdGU?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 19:05 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781129132,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Inflation heats up to highest pace in three years, fueled by Iran war - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmptMnhyVjl6N2pTcXBIXzAxcGtwcUhfNDZybkJWRmNPZ05rMG9EQnhPcUVTWWlac3Z3VmRQUmpPN1JCeXJRS09lMTZLX3BNX3VRS3o1YmF4LWtoMGlJWENOWm5FQjk0cENOZFVET3RMaFMtU0dhVWJQdU94MHBfMDkwTFhaeEJpR1VEVjd3YmM5eEZqdUktZU5aeVRiXzdPa1E?oc=5",
           "source": "The Washington Post",
@@ -29829,6 +29891,20 @@
           "published": "Jun 10, 2026 · 18:57 BRT",
           "pub_date": "2026-06-10",
           "pub_ts": 1781128675,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’ - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3BUT2hyVXdVeXcwVFZqbmF0WHNzYm9EYjhfQ3RSRlYxLXNuMWJnYWNxd05WUUhmS0owZERrZFRtYUdoMXdBNkdYSEdOeTV0UkZoWmZkSHV6aTNrRGVxRFNHdTBKVTlxUUZZX0tkTUNtcGZlWXNVd2NicmczNnZMXzQ1NzdSMUh3?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 14:00 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781110852,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

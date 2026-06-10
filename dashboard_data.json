@@ -21435,7 +21435,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-09"
+      "pub_date": "2026-06-10"
     },
     "https://www.bloomberg.com/news/articles/2026-06-10/wage-gains-at-japan-s-smaller-firms-at-risk-as-iran-war-drags-on": {
       "summary": "",
@@ -21547,6 +21547,36 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.reuters.com/world/africa/south-african-rand-steady-with-iran-war-us-inflation-data-focus-2026-06-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-10/qatar-mega-fund-s-plans-for-bigger-deals-push-dented-by-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.reuters.com/business/energy/spains-volotea-scraps-iran-war-fuel-surcharge-regulators-question-policy-2026-06-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -21710,6 +21740,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Inflation likely reached 3-year high last month as Iran war spikes gas prices - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTDVuUjBUaEJlVTQ1TlI5bXVqS1JVWjlTOC1rUVpYQ2ctWVdWakp4N3ZhczNuOEdXeGgxU0F2VUNLZW1lcnFGYjJmb1NtZ0FNX3l1VWdYVTZmUXZyU0piaVFGMENxZ1JXU3F2UkpqbmRTTVUzTVVpcHBSZTZRaGZEbmRzVURsMHVhVFB3RUw4R3hiQlFyOC1pWERmald6M0tFekZKanhNTkI5eFNQNkotRURFLTl2N3RIMnEzbUNreHM0THVnMzBobHFZQ3Y?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 04:32 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781076731,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmVTQlBBU2hybzN1RVMzZUZuU19hbTYtRm5GdW9kUU9Kd19KOThfbUE2aHRyNFU3NnZSS2RjREJUbW14NTZXMEVxNDJNdnlLd1I0SXh4U1JmTlVQRU9GNEhlUkRxRWc4Sm14LUdkWm0yU3dYaU8taVVGYkV0TEFGZw?oc=5",

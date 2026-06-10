@@ -21398,7 +21398,7 @@
       "pub_date": "2026-06-09"
     },
     "https://www.nytimes.com/2026/06/09/opinion/middle-east-war-accountability-iran-us-trump.html": {
-      "summary": "",
+      "summary": "None of the participants in the recent wars of the Middle East can claim victory. All are to blame.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -21426,11 +21426,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-09"
+    },
+    "https://www.axios.com/2026/06/09/us-strikes-iran-army-helicopter-response": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-09",
-  "last_generated_time": "2026-06-09T20:01:50.896571+00:00",
+  "last_generated_time": "2026-06-09T21:01:54.119610+00:00",
   "digest": {
     "digest": "The ongoing conflict between Iran and Israel has seen a significant escalation in cyber warfare, with Israel passing a National Cyber Defense Bill to bolster its defenses against evolving threats. Diplomatic efforts to de-escalate the situation are evident, with calls for an immediate cessation of hostilities from the U.S. President, though ceasefire agreements appear fragile. The conflict's economic repercussions are mounting globally, impacting energy markets with record jet fuel output and doubled prices in March, while also forcing energy-importing nations to prioritize domestic resources. Crop and fertilizer markets have seen their risk premiums wiped out, and industries like automotive manufacturing face potential supply shortages. The war is also testing the endurance of regional economic hubs like Dubai. U.S. and Israeli strategic differences regarding Iran remain apparent, complicating efforts to manage the crisis. Despite attempts to avoid further conflict, leaders are encountering limitations in their ability to control the situation, with Iran revealing new regional ambitions through its attacks on Israel.",
     "top_themes": [
@@ -21594,6 +21604,20 @@
           "published": "Jun 09, 2026 · 08:17 BRT",
           "pub_date": "2026-06-09",
           "pub_ts": 1781003844,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0VFhYMWdHNzZoZ09mWVRRV1hrTFR3NHJyb3BqMEhvTlpac0M0cXpSWnk5anVfd0xEdUpmX3hYUXV5V3ZVZVlQdkpMSVNHWi1mWUtETTZDSTh4amEzLTY3U2FkdUoxS3JUMWg5TGxUbllNQ2R1X25wQzczVmF1QQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 06:07 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1780996020,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

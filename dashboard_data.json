@@ -21299,7 +21299,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-10"
+      "pub_date": "2026-06-09"
     },
     "https://www.wsj.com/world/middle-east/apache-helicopter-crash-coast-oman-4de26c6d": {
       "summary": "",
@@ -21468,6 +21468,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-10"
+    },
+    "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-09"
     }
   },
   "last_run_success": true,
@@ -21627,6 +21647,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil rises nearly 1% as US launches new strikes against Iran, supply tightens - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 21:33 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1781051580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Kuwait Offers Oil to Asian Buyers for First Time Since War Began - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1gxY01iZUJTYnh3VjZKLUZKa3JfbmVOX1oxLWRYV0taVDB0WTZyZURuejAxSWZjTmFiQ0lhd3E5MlZrd1cyZTR2TFpxN0c0UFJDVmpmMThXTTRFMVBJYllvYVppSWRMdTdQNk93MkxUbTB2MEE4Ukc2NHlQUkdhb1ZMNHJsRlhMZ2VIY0FXQm9KU1RHQ21KZ3FMaENnRzNaZHFCUHNwQWdEVVp3UTBKYlpiMzBYdw?oc=5",

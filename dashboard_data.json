@@ -21521,6 +21521,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-10"
+    },
+    "https://www.reuters.com/world/india/india-equity-mutual-fund-inflows-slip-one-year-low-may-amid-iran-war-jitters-2026-06-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-10/us-iran-attack-each-other-over-apache-downed-near-hormuz-strait": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-10/physical-oil-markets-are-floundering-despite-100-days-of-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
     }
   },
   "last_run_success": true,
@@ -21680,6 +21710,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmVTQlBBU2hybzN1RVMzZUZuU19hbTYtRm5GdW9kUU9Kd19KOThfbUE2aHRyNFU3NnZSS2RjREJUbW14NTZXMEVxNDJNdnlLd1I0SXh4U1JmTlVQRU9GNEhlUkRxRWc4Sm14LUdkWm0yU3dYaU8taVVGYkV0TEFGZw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 04:27 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781076420,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Physical Oil Markets Are Floundering Despite 100 Days of War - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjdFZS1ZZDktbWdjWVZwS2llaFZRLURGMEJiR2lTS0Rqa3Y2OXU2dU1LaGliVGhndVVwVlZjQW5ESmF5blN2djFrdGdybHZSS1NqNDRLbi04Vi1ZTzhqV25TWHpKNkU1X0hOY1psWFZXVlNLZXViU3Nob19RR0wzS0tNQk93d1kwQnViSHhVSl9CaVp5QWpueG9UbnNuclpFVEZUSUVIZnliT3B3QUNtcw?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 03:56 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781074560,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil rises nearly 1% as US launches new strikes against Iran, supply tightens - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5",

@@ -21435,7 +21435,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-09"
+      "pub_date": "2026-06-10"
     },
     "https://www.bloomberg.com/news/articles/2026-06-10/wage-gains-at-japan-s-smaller-firms-at-risk-as-iran-war-drags-on": {
       "summary": "",
@@ -21701,11 +21701,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-10"
+    },
+    "https://www.cbc.ca/news/politics/donald-trump-sports-9.7229826": {
+      "summary": "As the world prepares to watch the FIFA World Cup 2026, the war in Iran and U.S. President Donald Trump's politics are already making the event more complicated.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-10",
-  "last_generated_time": "2026-06-10T12:02:03.184643+00:00",
+  "last_generated_time": "2026-06-10T13:01:53.949034+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in hostilities between the United States and Iran, marked by direct military strikes. Following the downing of a U.S. Army helicopter, American forces launched retaliatory \"self-defense strikes\" against Iran. Iran, in turn, has retaliated with strikes on U.S. bases in the Gulf and has also engaged in exchanges with Israel, including missile firings. These actions have tested ongoing peace talks and raised questions about the survival of existing ceasefires. Diplomatic efforts are underway, with President Trump attempting to keep negotiations alive, while Iran demonstrates its capacity to impose costs. Israel is focused on maintaining deterrence within Washington's diplomatic framework. The conflict is having tangible economic repercussions, affecting industrial output, sales, fuel prices for farms, and investment flows in emerging markets. Public opinion surveys reveal stark divisions, with Israelis largely supporting the U.S. and Israeli actions, while Palestinians express strong opposition, and Americans are divided on the decision and its implications for safety and Iran's nuclear program. Despite the ongoing exchanges, there are indications of temporary pauses in strikes, with one instance of Israel halting strikes after claims of progress toward nuclear talks, though both sides remain prepared to resume hostilities.",
     "top_themes": [
@@ -22055,6 +22065,20 @@
           "published": "Jun 08, 2026 · 13:30 BRT",
           "pub_date": "2026-06-08",
           "pub_ts": 1780936200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran and Israel say they have halted strikes on each other for now - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTR6aGlfWGhCWWdKS05SWUxZSDk0RU0zcVRxSDEzM3dYcWVubTExaTE4cTRpb3VnS2IxVFoyRUpqLTVhMEhXWkpCUjNDTmpCZUpra1lVMWY2X0xjel9xQmtIdnhMX1hWRmk1d09oZHd2MnlBNDhfaktHNEFRa1RqWmFZaW1aTlo1Sk8yM3NMaFYzeFNkRHU0aHlMRTU3RVBPOUlLVW9ydGY1ZEdxaHg5ZQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 08, 2026 · 12:03 BRT",
+          "pub_date": "2026-06-08",
+          "pub_ts": 1780931014,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -29617,6 +29641,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Opinion | Inside Trump’s Economic War on Iran - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vd0dVRmF3YW1MTUNZRVR3bTlBTTBaRnNTclo4OVhNVGlQYmpDWDROWnZWNnItZFBKUkZHYjVSTlBrc19nVGNNTjdEd0M0cHA1QWlySVg0UE11X3VQQVN4LWtMNUFPRWFOVENqbU1oVzFWVFhfdmt5TVhRMA?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 15:03 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1781028180,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Stocks Drop on Tech Fears and War Worries - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnczhFakx0RzkxZDU1LXVqMnBFQ3ZpYkl1cHFnR2p6Nk9ESTdSTHZSNUMzVjVlWHJESGU3bXlZajREakZraEEybU5hLVJyMExZWDdhOFgzRGtjM0JoTV9QWUY3YTFFa3prV0ZnQ09xN19zTk1nUUN3?oc=5",
           "source": "The New York Times",
@@ -29639,6 +29677,20 @@
           "published": "Jun 09, 2026 · 07:29 BRT",
           "pub_date": "2026-06-09",
           "pub_ts": 1781000973,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Europe Watches Its Economic Recovery Fade Into the Distance - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtYzVVQmVtYVR4d0ZQS2Q5X2hnRkplbW1HSkItV1RraS1jdXdCTjF1SWRRa01pZGZ1NEplcWxzWWdORjlvY0d1djM3ZmRKVmpoTlpKMEktTXF2Q2tUazl6aXZWSzVUUWdUX0Q2UVJhQVlGaDl5M3B5WWoyOTBxQ0E?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 08, 2026 · 06:02 BRT",
+          "pub_date": "2026-06-08",
+          "pub_ts": 1780909325,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

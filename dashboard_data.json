@@ -21488,6 +21488,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-09"
+    },
+    "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-898924": {
+      "summary": "According to Adiri, the recent confrontations with Iran are shaping a new reality in the Middle East and forcing Israel to reexamine the limits of the campaign.",
+      "tags": [
+        "IDF",
+        "Iran",
+        "Tehran",
+        "Middle East",
+        "missiles"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
     }
   },
   "last_run_success": true,
@@ -21656,6 +21679,20 @@
           "published": "Jun 09, 2026 · 21:33 BRT",
           "pub_date": "2026-06-09",
           "pub_ts": 1781051580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Climbs After Fresh US Strikes on Iran Over Helicopter Attack - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVIzckRPUVZCUG56cnJuMlVHbVZSUzVuRzNLTzdSN1M3aFUxVmRSZG1Ka3pzLUcxbXhwbHEweWRUX1lEV21sMC1Obng0Q3B1Q2U2VDVSaWhmU3RpT04yMTFtamxrLTV0eGVYSlMxRU9oXzlOUTNwMllKNHVPTk9aeXNHYU9DbVRQYXVFdnRac2tGdjQtNEROSUlXYjZuNGc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 19:03 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1781042622,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

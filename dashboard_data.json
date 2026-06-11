@@ -20670,7 +20670,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-07"
+      "pub_date": "2026-06-08"
     },
     "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-targets-western-central-iran-2026-06-08/": {
       "summary": "",
@@ -21256,7 +21256,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-10"
+      "pub_date": "2026-06-11"
     },
     "https://www.timesofisrael.com/liveblog_entry/idf-chief-israel-planned-severe-blow-to-iranian-regime-is-prepared-to-return-to-war/": {
       "summary": "",
@@ -21862,7 +21862,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-10"
+      "pub_date": "2026-06-11"
     },
     "https://www.reuters.com/business/ecb-poised-insurance-hike-iran-war-fans-euro-zone-inflation-2026-06-10/": {
       "summary": "",
@@ -21882,7 +21882,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-11"
+      "pub_date": "2026-06-10"
     },
     "https://www.nytimes.com/2026/06/10/world/middleeast/us-iran-strikes.html": {
       "summary": "President Trump said that the Iranians were taking “too long to negotiate” a deal to end the conflict launched by the United States and Israel four months ago.",
@@ -21959,6 +21959,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
+    },
+    "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
+    },
+    "https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -22126,6 +22146,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "U.S. and Iran Trade Strikes for a Second Day - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aV05JeGgybkVNbms1UjJ3N1lDSHcwUHMyVk1MeUg3TVJSZnB3QzZwZEdaRXVQcUZJWnNFSm5nU2xvQTBkalRlWkM4SGwtRm1zOVVROVJsbU5tLUo4dEZMQzl3S0hiWDBIQXkxbWlBMmM?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 02:54 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781157240,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHJVNktSSVdidVFMY2gzSThFUkZMeWRQSS1jVjlaNURKMGFaUm56bGNLNWZOcjB5NkFJRkFncmVXTVBCVW5ySFJJWUJVd1RyVTlMMXJsakM0TjF6Q2R5dkJlMW9NMzQySGNlM3VEUVFvTEJQLWYtWTNSdWJnblhxQk9xWXZULVh5MmV0ZHVn?oc=5",
@@ -34107,6 +34141,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Indian refiners bolster crude, LPG supplies despite Iran conflict - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORG5tdGh0MXpDZEZ1SEVsOHh3WHVSR3o2SFNKU1gwRjJYM0xlVjN2S1BpX05pUHRIanJHQ1h1MVNEMGdydEpHaE1paEtEWm5Bb1FKZV96N2o5bjBsU3ROX1Jfa3U5UHJlQ3ptekNGN1FkYW9MRTJIQWNuYkJNc2dmbkd5Nll6WmlHZTBLUndQOE15NTZiX0NHaEFSek1HaVhyMEFQTEk2OEQwa1RiaXhfXzdVZVVROFU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 03:44 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781160240,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Most Gulf markets retreat on Iran war jitters - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGhTNk9zcm9YbV9xNGxPZ1M3bnN3TGZaWFNKQmdtOThTQ09PalE4OVh6SlI2LW9GOVpHbW5hNmM1eGlaNjBHZndncUswWDJ6Y3NuRS1ldGRqUHhEVWphVVM1RHFtZ1kzc2twWnZ1S2NVRmowWEVBZ1NWdnFybjA4Q0NzNTQ5VzdGTnpYZ3dqaVpTbjlJNkh3YzZCUHo?oc=5",

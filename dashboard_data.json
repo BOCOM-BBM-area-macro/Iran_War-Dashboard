@@ -22179,11 +22179,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-11"
+    },
+    "https://www.cbc.ca/news/world/iran-war-india-tanker-9.7231207": {
+      "summary": "The United States will ‌hit Iran \"very hard tonight\" and will soon ​take control of ​the Middle Eastern country's oil and ​gas infrastructure and markets, U.S. President ‌Donald Trump said on Thursday.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
+    },
+    "https://www.nytimes.com/2026/06/11/business/economy/globa-economy-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-11",
-  "last_generated_time": "2026-06-11T12:01:59.092558+00:00",
+  "last_generated_time": "2026-06-11T13:01:39.776918+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in military actions between the United States and Iran, with both sides engaging in strikes for consecutive days. This heightened conflict has led to concerns about a potential return to all-out war, as Iran has targeted U.S. bases. Diplomatic efforts appear to be underway, with reports suggesting negotiations are intensifying, though progress is hampered by ongoing attacks and ultimatums. President Trump has indicated a willingness to halt strikes, citing progress in talks, but also warned of readiness to resume if negotiations stall. The conflict's impact on the global economy is becoming increasingly apparent, with inflation rising for a third consecutive month in the U.S. due to energy price shocks stemming from the war. Oil prices have shown volatility, fluctuating despite new military actions. The European Central Bank is considering interest rate hikes to combat inflation fueled by the Iran war, and Ethiopia is anticipating higher spending due to war-related costs. There is also an ongoing investigation into whether U.S. strikes intentionally targeted an Iranian water facility, raising questions about potential war crimes.",
     "top_themes": [
@@ -22338,6 +22358,48 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Citing fallout from Iran war, World Bank cuts forecast for global economic growth - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkFIX3ZYbjItQVE4R0lxdEhwV284OGo4ZmNXV0o2WnFNT3BHVkhTMEZIeGgzdkNGOFVMYm9QTTBxUEVYZG0wNEVod2JyNGZDRUZYZGNRRnpGTEEzaHBFeE1mNE5yUEhCOW1QSzVzaWVJeXpMbHJ4VDB0Q3NGenJ1UHZYVlUwel93eUFOajlOX3c3alFRU3F5WnRrbU9aU0YxODNMY1A2cVlsOW45Ry1HcWpBdkRKMThIdGRyUXJwMkc3ejJQcXlv?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 12:47 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781192838,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump Says U.S. Will Hit Iran Tonight, Threatens Seizure of Energy Markets - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3pnZVJGQk5CVW1KN1pQYUk5TzNLZThPZFFZYkRrdkowRERtYUNXMUV2eks2Rnp2ZklMZHpHTWItQnVydmhNV01YbTl5REZRNmxiaS1BTVF4aGVGUTJOSDJxOXlxMlRwUWx4THlxdV8xcGhUR1FyVFdHOXN3WjJFZlQyLTdvMlo0V1h2STlrQzB4bC1jWUZXbl9PZlZYN0VBakl6RHZyTUFhbFJBRmJBMTJWNFlTT2pObjUzT2lpbHdXMjlF?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 12:07 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781190420,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says he wants to \"take\" Iran's Kharg Island oil hub - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3p5OEw3eVhKRzdxY0x0SXNxd2dnMjJvaks0VWRudHdSVXpIejRyR2YwdVhPeHkzYW5zNHJYUXFTV0N5LXZYa2NNUnZ4NjZMZmJ6MkE2QVBjVWdmdU5Db1VtdGxKejdDZ3l6MGRPM3VFT3pwRTlxbHE1VUdEdFBVeWU4RGRpaXo2V1ZWejh1dU0tT05hM0FKaGJaS25aNjh5cC1BcjJZT0tvMms?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 10:45 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781185551,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran war is the worst hit to the global economy since covid, World Bank says - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHlOSWVrNVhDd0loTEFRR3V4Wm9uR3gxanAteTByMlJYbUFSREw0RVo0OURlTHQ5OUhoMy1udUdMdXowc0ZuOGpFYzJVaGc2X091ejFVWk9BcWZRcjM4blZHaUpVMFpqVXBucU9NYmZXdGZPem1LaG5zUzBVZENqbmxiSk5OUm9uT0JXZlhtN2dMb21DaUtiRk83dEVJNkRWRUFGZ0dXZW1qcEI1VU9GSnNoMDBHdUU?oc=5",
           "source": "The Washington Post",
@@ -22360,6 +22422,20 @@
           "published": "Jun 11, 2026 · 09:30 BRT",
           "pub_date": "2026-06-11",
           "pub_ts": 1781181006,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran’s Oil Production Slumped 19% Last Month, OPEC Data Show - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWVhZ2cwb2ZkYTRfRUx1S1FPNk42ams0RXdwSWR2NWhDbDh4ZUpITE5mdW1NRElIUldsMkpvUVg3VDVWOVdwR3VoMlptSzdfeGN0ajdjSWM0NzJER0w4bUFkRFNrR194MC1jLTN5Z09RZGZNcS1fY1FYRXlTX2xUeDJWd1hmTVVfM1MwQ1RmOURUdHZ4SGJsY0JqUVdSVk9EUDljM3ZicVVxbmRKWEE?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 09:10 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781179822,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -22402,6 +22478,20 @@
           "published": "Jun 11, 2026 · 02:04 BRT",
           "pub_date": "2026-06-11",
           "pub_ts": 1781154240,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says US will hit Iran 'very hard tonight', wants control of energy infrastructure - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVE5bkkxajhqTThUeThITm81VlJnMkJ0emlrMGJ0anNFSG9lT3FXUjNPekRYUzh5STVHeWh1SmNrQzM0NmpNeWtrR183TkZ0NXFjMFhfeUJOVmtIclBJTG80ekZTa1B5TXhvZ091bWN1bVo2ckpNTUt5WjEyWmh3M3M1RzljSlVIakdFTENWa1RMejBweHhTWHZkSktGR3NNN3NMMm90QUpISVFEZTVmenRHMDY?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 01:17 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781151420,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

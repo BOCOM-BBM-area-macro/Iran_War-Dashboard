@@ -20670,7 +20670,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-08"
+      "pub_date": "2026-06-07"
     },
     "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-targets-western-central-iran-2026-06-08/": {
       "summary": "",
@@ -21823,7 +21823,7 @@
       "pub_date": "2026-06-10"
     },
     "https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html": {
-      "summary": "",
+      "summary": "A U.S. military official said the president’s seemingly dramatic announcement on Wednesday referred to a previously reported effort to shepherd commercial vessels through the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -21883,11 +21883,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-10"
+    },
+    "https://www.nytimes.com/2026/06/10/world/middleeast/us-iran-strikes.html": {
+      "summary": "President Trump said that the Iranians were taking “too long to negotiate” a deal to end the conflict launched by the United States and Israel four months ago.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-10"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-10",
-  "last_generated_time": "2026-06-10T20:01:59.436005+00:00",
+  "last_generated_time": "2026-06-10T21:01:43.285596+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in hostilities between the United States and Iran, marked by direct military strikes. Following the downing of a U.S. Army helicopter, American forces launched retaliatory \"self-defense strikes\" against Iran. Iran, in turn, has retaliated with strikes on U.S. bases in the Gulf and has also engaged in exchanges with Israel, including missile firings. These actions have tested ongoing peace talks and raised questions about the survival of existing ceasefires. Diplomatic efforts are underway, with President Trump attempting to keep negotiations alive, while Iran demonstrates its capacity to impose costs. Israel is focused on maintaining deterrence within Washington's diplomatic framework. The conflict is having tangible economic repercussions, affecting industrial output, sales, fuel prices for farms, and investment flows in emerging markets. Public opinion surveys reveal stark divisions, with Israelis largely supporting the U.S. and Israeli actions, while Palestinians express strong opposition, and Americans are divided on the decision and its implications for safety and Iran's nuclear program. Despite the ongoing exchanges, there are indications of temporary pauses in strikes, with one instance of Israel halting strikes after claims of progress toward nuclear talks, though both sides remain prepared to resume hostilities.",
     "top_themes": [
@@ -22167,6 +22177,20 @@
           "published": "Jun 09, 2026 · 19:03 BRT",
           "pub_date": "2026-06-09",
           "pub_ts": 1781042622,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. Exports Rose in April, as War with Iran Buoyed Oil Demand - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlB5dEtONXJFZEFvUGV4dWsxR1NqN2tMVDVLcWVoMlVFdzEyUHoyZVNUOWR3VXBFZDVpOTJyZ0F3N1hwSUQ2VFZIN0M2Tk54V21Ca2lVdmlVNlRpRHRJU1kzSkJ5bENsaEl4ODUtRGZWUDRuRXU1aTJsQzdqdFVKRkd4VDZnUE50RUE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 09, 2026 · 15:11 BRT",
+          "pub_date": "2026-06-09",
+          "pub_ts": 1781028714,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

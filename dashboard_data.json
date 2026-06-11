@@ -21968,7 +21968,7 @@
       "pub_date": "2026-06-10"
     },
     "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us": {
-      "summary": "",
+      "summary": "The exchanges raise the specter of a return to all-out war in the Middle East.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -22161,7 +22161,7 @@
       "pub_date": "2026-06-11"
     },
     "https://www.nytimes.com/2026/06/11/world/middleeast/iran-us-war-strikes-ceasefire.html": {
-      "summary": "",
+      "summary": "Analysts saw little prospect of either President Trump or Tehran backing down after days of exchanging fire.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -22224,7 +22224,7 @@
       "pub_date": "2026-06-11"
     },
     "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html": {
-      "summary": "",
+      "summary": "The targeted countries host sprawling American military bases and thousands of personnel at a time when the United States is waging war against Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -22292,11 +22292,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-11"
+    },
+    "https://www.wsj.com/world/middle-east/trump-iran-strikes-peace-talks-38996e77": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-11",
-  "last_generated_time": "2026-06-11T15:01:50.777078+00:00",
+  "last_generated_time": "2026-06-11T16:01:49.910023+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation in military actions between the United States and Iran, with both sides engaging in strikes for consecutive days. This heightened conflict has led to concerns about a potential return to all-out war, as Iran has targeted U.S. bases. Diplomatic efforts appear to be underway, with reports suggesting negotiations are intensifying, though progress is hampered by ongoing attacks and ultimatums. President Trump has indicated a willingness to halt strikes, citing progress in talks, but also warned of readiness to resume if negotiations stall. The conflict's impact on the global economy is becoming increasingly apparent, with inflation rising for a third consecutive month in the U.S. due to energy price shocks stemming from the war. Oil prices have shown volatility, fluctuating despite new military actions. The European Central Bank is considering interest rate hikes to combat inflation fueled by the Iran war, and Ethiopia is anticipating higher spending due to war-related costs. There is also an ongoing investigation into whether U.S. strikes intentionally targeted an Iranian water facility, raising questions about potential war crimes.",
     "top_themes": [
@@ -33833,6 +33843,20 @@
           "published": "Jun 08, 2026 · 11:22 BRT",
           "pub_date": "2026-06-08",
           "pub_ts": 1780928545,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US agriculture chief says screwworm can be contained in Texas - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aUEMyUE1zVzhURFJUNDBpbHNfVnZ5TGVWOEk0Q3hzLVYxTjNzRER3OG1GZlp6X1dTTkRieUNCR3B1Nzh2aHNTRmdVNXppd0ttUnQwcDJvZmJWZWhsdEpjWlVadDZsTTg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 04, 2026 · 19:17 BRT",
+          "pub_date": "2026-06-04",
+          "pub_ts": 1780611420,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

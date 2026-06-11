@@ -22066,53 +22066,81 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-11"
+    },
+    "https://www.washingtonpost.com/ripple/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
+    },
+    "https://www.wsj.com/politics/policy/the-u-s-and-iran-stumble-back-into-war-ab024831": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
+    },
+    "https://www.washingtonpost.com/world/2026/06/11/iran-targets-five-us-bases-raising-fears-return-all-out-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-10",
-  "last_generated_time": "2026-06-10T23:01:56.669710+00:00",
+  "last_generated_date": "2026-06-11",
+  "last_generated_time": "2026-06-11T08:01:35.554675+00:00",
   "digest": {
-    "digest": "Recent events indicate a significant escalation in hostilities between the United States and Iran, marked by direct military strikes. Following the downing of a U.S. Army helicopter, American forces launched retaliatory \"self-defense strikes\" against Iran. Iran, in turn, has retaliated with strikes on U.S. bases in the Gulf and has also engaged in exchanges with Israel, including missile firings. These actions have tested ongoing peace talks and raised questions about the survival of existing ceasefires. Diplomatic efforts are underway, with President Trump attempting to keep negotiations alive, while Iran demonstrates its capacity to impose costs. Israel is focused on maintaining deterrence within Washington's diplomatic framework. The conflict is having tangible economic repercussions, affecting industrial output, sales, fuel prices for farms, and investment flows in emerging markets. Public opinion surveys reveal stark divisions, with Israelis largely supporting the U.S. and Israeli actions, while Palestinians express strong opposition, and Americans are divided on the decision and its implications for safety and Iran's nuclear program. Despite the ongoing exchanges, there are indications of temporary pauses in strikes, with one instance of Israel halting strikes after claims of progress toward nuclear talks, though both sides remain prepared to resume hostilities.",
+    "digest": "Recent events indicate a significant escalation in military actions between the United States and Iran, with both sides engaging in strikes for consecutive days. This heightened conflict has led to concerns about a potential return to all-out war, as Iran has targeted U.S. bases. Diplomatic efforts appear to be underway, with reports suggesting negotiations are intensifying, though progress is hampered by ongoing attacks and ultimatums. President Trump has indicated a willingness to halt strikes, citing progress in talks, but also warned of readiness to resume if negotiations stall. The conflict's impact on the global economy is becoming increasingly apparent, with inflation rising for a third consecutive month in the U.S. due to energy price shocks stemming from the war. Oil prices have shown volatility, fluctuating despite new military actions. The European Central Bank is considering interest rate hikes to combat inflation fueled by the Iran war, and Ethiopia is anticipating higher spending due to war-related costs. There is also an ongoing investigation into whether U.S. strikes intentionally targeted an Iranian water facility, raising questions about potential war crimes.",
     "top_themes": [
-      "US-Iran military exchanges",
-      "Israeli involvement in Iran conflict",
-      "Diplomatic efforts and tensions",
-      "Economic impacts of the conflict",
-      "Public opinion on the war"
+      "US-Iran military escalation",
+      "Impact on global inflation and oil prices",
+      "Diplomatic negotiations amidst conflict"
     ],
     "next_events": [
       {
-        "title": "Durability of US-Iran Ceasefire and Peace Talks",
-        "description": "Recent events show a pattern of US and Iranian strikes followed by attempts at de-escalation and ceasefires, often influenced by diplomatic efforts. Analysts should closely monitor any new incidents, such as military asset downings or attacks, that could trigger a fresh cycle of retaliation and potentially collapse the fragile peace negotiations."
+        "title": "Durability of Ceasefire and Diplomatic Progress",
+        "description": "The current ceasefire is fragile, with both sides warning of resuming attacks and trading strikes even as talks intensify. Analysts should monitor whether negotiations lead to a sustained de-escalation or if ultimatums and continued attacks cause the ceasefire to collapse, potentially reigniting full-scale conflict."
       },
       {
-        "title": "Israel's Independent Military Actions",
-        "description": "Israel has engaged in direct strikes with Iran and has paused actions based on US diplomatic pressure, yet remains a key player. Watch for any unilateral Israeli military operations against Iranian targets or proxies, as these could reignite broader regional conflict and challenge the stability of existing ceasefires."
+        "title": "Escalation of Military Engagements and Targets",
+        "description": "Despite ongoing talks, both the U.S./Israel and Iran have continued to launch strikes, raising fears of a return to all-out war. Watch for the frequency, scale, and nature of future military actions, particularly any targeting of critical infrastructure or civilian facilities, which could significantly escalate the conflict and draw international condemnation."
       },
       {
-        "title": "Iran's Nuclear Program Developments",
-        "description": "The conflict has raised questions about its long-term impact on Iran's nuclear ambitions, with varying expectations on its likelihood of developing a nuclear weapon. Track any intelligence reports, IAEA statements, or shifts in Iran's nuclear policy and enrichment activities, as this remains a critical strategic concern for regional and global security."
+        "title": "Global Economic Fallout: Oil Prices and Inflation",
+        "description": "The conflict has already caused significant energy shocks, leading to rising oil prices and accelerating inflation in the U.S. and Eurozone. Analysts should track global oil market stability, consumer price indices, and central bank responses (e.g., ECB interest rate hikes) as the war's duration and intensity will continue to dictate economic pressures worldwide."
       },
       {
-        "title": "Global Economic Repercussions",
-        "description": "The ongoing conflict has already impacted global markets, leading to rising fuel prices, affecting industrial output, and influencing investment flows. Monitor key economic indicators, particularly energy markets and global supply chains, for further volatility or stabilization, as the conflict's trajectory will continue to shape economic performance worldwide."
+        "title": "Scrutiny of Civilian Infrastructure Targeting",
+        "description": "Reports suggest potential U.S. strikes on Iranian water facilities, raising concerns about deliberate targeting of civilian infrastructure, which could constitute a war crime. Watch for further investigations, international reactions, and any future incidents that might impact civilian populations or violate international humanitarian law, potentially broadening the conflict's scope."
       },
       {
-        "title": "US Congressional Stance on Iran War Powers",
-        "description": "Congress has previously engaged with war powers resolutions concerning Iran, indicating a potential for legislative influence over future military engagements. Observe any new congressional debates, resolutions, or attempts to define or limit presidential authority regarding military action against Iran, which could shape the US's strategic approach."
+        "title": "Leadership Rhetoric and Strategic Posturing",
+        "description": "The conflict is described as heavily influenced by the psychology of leaders like Trump and Khamenei, with Trump dismissing inflation and issuing warnings. Analysts should closely monitor public statements, ultimatums, and strategic posturing from key leaders, as their rhetoric can signal intentions, influence negotiation outcomes, and either de-escalate or further inflame tensions."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
+      "title": "U.S. and Iran Trade Strikes for a Second Day - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 10, 2026 · 04:27 BRT",
-      "pub_date": "2026-06-10",
-      "pub_ts": 1781076420,
+      "published": "Jun 11, 2026 · 02:54 BRT",
+      "pub_date": "2026-06-11",
+      "pub_ts": 1781157240,
       "summary": "",
       "tags": [
         "extracted",
@@ -22124,51 +22152,14 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. and Iran exchange strikes after helicopter downing - Axios",
-      "url": "https://www.axios.com/2026/06/09/us-strikes-iran-army-helicopter-response",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Jun 10, 2026 · 00:54 BRT",
-      "pub_date": "2026-06-10",
-      "pub_ts": 1781063690,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran and Israel Exchange Strikes for First Time Since April Cease-Fire - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 10, 2026 · 04:55 BRT",
-      "pub_date": "2026-06-10",
-      "pub_ts": 1781078105,
-      "summary": "Iran fired missiles at Israel in retaliation for an Israeli attack in Lebanon. Hours after the Iranian launches, the Israeli military said it had struck military targets in Iran.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. launches strikes on Iran after downing of Army helicopter, prompting retaliation - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/06/09/trump-says-pilots-fine-after-helicopter-went-down-near-strait-hormuz/",
+      "title": "U.S. launches new strikes on Iran, hours after Trump issued warning - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/10/trump-threatens-iran-after-it-targets-us-assets-middle-east/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 10, 2026 · 06:38 BRT",
-      "pub_date": "2026-06-10",
-      "pub_ts": 1781084286,
+      "published": "Jun 11, 2026 · 03:14 BRT",
+      "pub_date": "2026-06-11",
+      "pub_ts": 1781158493,
       "summary": "",
       "tags": [
         "extracted",
@@ -22180,45 +22171,79 @@
       "sentiment_success": false
     },
     {
-      "title": "US Strikes Iran After Helicopter Downed, Testing Peace Talks - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/trump-blames-iran-for-hitting-helicopter-says-us-must-respond",
-      "source": "Bloomberg",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 09, 2026 · 23:12 BRT",
-      "pub_date": "2026-06-09",
-      "pub_ts": 1781057520,
-      "summary": "American forces carried out “self-defense strikes” against Iran on Tuesday, hours after President Donald Trump blamed Tehran for shooting down an American military helicopter off the coast of Oman.",
+      "title": "Inflation Jumps as Iran War Intensifies Price Squeeze - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/10/business/inflation-report-cpi",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 11, 2026 · 02:32 BRT",
+      "pub_date": "2026-06-11",
+      "pub_ts": 1781155920,
+      "summary": "Consumer prices rose at a faster rate for a third-straight month in May, to 4.2 percent annually, as the energy shock put more pressure on the U.S. economy.",
       "tags": [
-        "Iran",
-        "Donald John Trump",
-        "Israel",
-        "Military",
-        "Lebanon"
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "US Launches Strikes Against Iran After Helicopter Shot Down - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/us-launches-new-strikes-against-iran-after-helicopter-shot-down",
-      "source": "Bloomberg",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 09, 2026 · 18:28 BRT",
-      "pub_date": "2026-06-09",
-      "pub_ts": 1781040530,
-      "summary": "The US military launched fresh airstrikes against Iran hours after President Donald Trump vowed to retaliate for the shooting down of a US Army helicopter.",
+      "title": "Video: Trump Says He ‘Loves the Inflation’ Amid War With Iran - The New York Times",
+      "url": "https://www.nytimes.com/video/us/politics/100000010958803/trump-inflation-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 10, 2026 · 19:05 BRT",
+      "pub_date": "2026-06-10",
+      "pub_ts": 1781129132,
+      "summary": "President Trump dismissed the newest inflation report on Wednesday, marking the third-straight month of high prices for consumers. The war in Iran has snarled the world’s energy supply, resulting in high oil and gas prices.",
       "tags": [
-        "Iran",
-        "Military",
-        "Donald John Trump",
-        "Social Media",
-        "TWITTER INC"
+        "Inflation",
+        "US Economy",
+        "Donald Trump",
+        "Iran"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’ - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 10, 2026 · 14:00 BRT",
+      "pub_date": "2026-06-10",
+      "pub_ts": 1781110852,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran targets U.S. bases for a second night, raising fears of return to all-out war - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/11/iran-targets-five-us-bases-raising-fears-return-all-out-war/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 11, 2026 · 07:41 BRT",
+      "pub_date": "2026-06-11",
+      "pub_ts": 1781174484,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -35534,7 +35559,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-10T11:06:46.148013+00:00",
-  "last_watch_time": "2026-06-10T11:06:55.421256+00:00",
-  "last_relevant_time": "2026-06-10T11:06:56.037524+00:00"
+  "last_digest_time": "2026-06-11T11:07:21.488770+00:00",
+  "last_watch_time": "2026-06-11T11:07:37.581341+00:00",
+  "last_relevant_time": "2026-06-11T11:07:38.147892+00:00"
 }

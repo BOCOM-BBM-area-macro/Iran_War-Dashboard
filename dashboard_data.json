@@ -22002,7 +22002,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-10"
+      "pub_date": "2026-06-11"
     },
     "https://www.bloomberg.com/news/newsletters/2026-06-11/budget-airline-wizz-air-s-profits-slashed-by-iran-war": {
       "summary": "",
@@ -22029,6 +22029,29 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
+    },
+    "https://www.wsj.com/finance/oil-falls-despite-fresh-u-s-military-action-on-iran-u-s-futures-rise-94547df5": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
+    },
+    "https://www.jpost.com/defense-and-tech/article-899072": {
+      "summary": "Over a dozen Israeli companies are participating in ILA Berlin, bringing combat-proven technology to Germany",
+      "tags": [
+        "Germany",
+        "germany and israel",
+        "weapons",
+        "defense industry",
+        "Defense Tech"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

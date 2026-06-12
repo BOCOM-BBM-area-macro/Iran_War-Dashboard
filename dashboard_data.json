@@ -17479,7 +17479,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-02"
+      "pub_date": "2026-06-10"
     },
     "https://www.reuters.com/world/middle-east/trumps-room-maneuver-narrows-us-iran-close-framework-deal-2026-05-29/": {
       "summary": "",
@@ -22531,51 +22531,94 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-12"
+    },
+    "https://www.washingtonpost.com/world/2026/06/12/qatar-pursued-secret-talks-with-iran-shield-gas-complex-strikes/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.jpost.com/israel-news/article-899173": {
+      "summary": "DIPLOMATIC AFFAIRS: A startup’s relationship with Google and North Korea’s path to the nuclear bomb offers unexpected insights into this week’s 12-hour war with Iran.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "IDF",
+        "Iran",
+        "United States"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.reuters.com/world/us/evangelicals-divided-trumps-war-iran-immigration-crackdown-reutersipsos-poll-2026-06-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.reuters.com/sports/soccer/iranian-american-fans-face-uneasy-world-cup-war-rages-2026-06-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-11",
-  "last_generated_time": "2026-06-11T23:01:54.124448+00:00",
+  "last_generated_date": "2026-06-12",
+  "last_generated_time": "2026-06-12T08:01:42.990322+00:00",
   "digest": {
-    "digest": "Recent events indicate a significant escalation in military actions between the United States and Iran, with both sides engaging in strikes for consecutive days. This heightened conflict has led to concerns about a potential return to all-out war, as Iran has targeted U.S. bases. Diplomatic efforts appear to be underway, with reports suggesting negotiations are intensifying, though progress is hampered by ongoing attacks and ultimatums. President Trump has indicated a willingness to halt strikes, citing progress in talks, but also warned of readiness to resume if negotiations stall. The conflict's impact on the global economy is becoming increasingly apparent, with inflation rising for a third consecutive month in the U.S. due to energy price shocks stemming from the war. Oil prices have shown volatility, fluctuating despite new military actions. The European Central Bank is considering interest rate hikes to combat inflation fueled by the Iran war, and Ethiopia is anticipating higher spending due to war-related costs. There is also an ongoing investigation into whether U.S. strikes intentionally targeted an Iranian water facility, raising questions about potential war crimes.",
+    "digest": "Recent developments indicate a significant de-escalation in the Iran conflict, with President Trump repeatedly stating that a deal is near and that plans for strikes have been canceled. Despite these claims, Iran has maintained that no final decision has been reached. This diplomatic stance has led to a temporary halt in hostilities, with Israel reportedly pausing planned actions following US directives. Qatar has also engaged in separate talks with Iran to protect its gas facilities. The economic repercussions of the conflict are substantial, with the World Bank identifying the Iran war as the most severe global economic shock since COVID-19, contributing to a UK economic contraction and surging inflation expectations. Furthermore, the conflict, combined with El Niño, poses a risk of a hunger crisis affecting over 100 million people. The situation has also influenced global markets, with oil prices dropping significantly following statements about a potential US-Iran deal, while demand for gas turbines has risen, impacting sectors like AI. The ongoing uncertainty leaves the world in a precarious state, balancing relief with the potential for renewed conflict.",
     "top_themes": [
-      "US-Iran military escalation",
-      "Impact on global inflation and oil prices",
-      "Diplomatic negotiations amidst conflict"
+      "US-Iran Diplomacy and Negotiations",
+      "Economic Impact of Iran Conflict",
+      "Geopolitical Tensions and Regional Stability"
     ],
     "next_events": [
       {
-        "title": "Durability of Ceasefire and Diplomatic Progress",
-        "description": "The current ceasefire is fragile, with both sides warning of resuming attacks and trading strikes even as talks intensify. Analysts should monitor whether negotiations lead to a sustained de-escalation or if ultimatums and continued attacks cause the ceasefire to collapse, potentially reigniting full-scale conflict."
+        "title": "Verification and Scope of US-Iran Agreement",
+        "description": "Multiple reports indicate President Trump's claims of a deal being 'near' or 'close,' with some mentioning a 60-day ceasefire and nuclear negotiations. Analysts should watch for official confirmation from both the US and Iran, and critically examine the specific terms of any agreement, particularly whether it addresses Iran's ballistic missile program and support for regional proxies like Hezbollah, which Mehr claims will not be included."
       },
       {
-        "title": "Escalation of Military Engagements and Targets",
-        "description": "Despite ongoing talks, both the U.S./Israel and Iran have continued to launch strikes, raising fears of a return to all-out war. Watch for the frequency, scale, and nature of future military actions, particularly any targeting of critical infrastructure or civilian facilities, which could significantly escalate the conflict and draw international condemnation."
+        "title": "Regional Stability and Proxy Group Activity",
+        "description": "Despite claims of a potential deal, tensions in the Strait of Hormuz linger, and Iran's 'hostage strategy' against Gulf states remains a concern. Monitor for any escalation or de-escalation of proxy conflicts, especially in Lebanon, and observe how Gulf states react to the ongoing diplomatic efforts, as they fear retaliation if a deal is perceived as incomplete or insufficient."
       },
       {
-        "title": "Global Economic Fallout: Oil Prices and Inflation",
-        "description": "The conflict has already caused significant energy shocks, leading to rising oil prices and accelerating inflation in the U.S. and Eurozone. Analysts should track global oil market stability, consumer price indices, and central bank responses (e.g., ECB interest rate hikes) as the war's duration and intensity will continue to dictate economic pressures worldwide."
+        "title": "Israel's Strategic Posture and US Influence",
+        "description": "The recent '12-hour Iran war' highlighted Israel's deep strategic dependence on the US, with Israel reportedly halting strikes at Trump's command. Future events will reveal how Israel balances its primary goal of preventing an Iranian nuclear weapon with US diplomatic initiatives, and how this dynamic impacts Prime Minister Netanyahu's domestic political standing."
       },
       {
-        "title": "Scrutiny of Civilian Infrastructure Targeting",
-        "description": "Reports suggest potential U.S. strikes on Iranian water facilities, raising concerns about deliberate targeting of civilian infrastructure, which could constitute a war crime. Watch for further investigations, international reactions, and any future incidents that might impact civilian populations or violate international humanitarian law, potentially broadening the conflict's scope."
+        "title": "Global Economic and Humanitarian Repercussions",
+        "description": "The 'Iran War' has already been cited as a major blow to the global economy since COVID, contributing to shrinking economies, surging inflation, and a potential hunger crisis for over 100 million people. Continue to monitor key economic indicators, commodity prices (especially oil), and humanitarian aid efforts, as these impacts are likely to persist regardless of a partial peace deal."
       },
       {
-        "title": "Leadership Rhetoric and Strategic Posturing",
-        "description": "The conflict is described as heavily influenced by the psychology of leaders like Trump and Khamenei, with Trump dismissing inflation and issuing warnings. Analysts should closely monitor public statements, ultimatums, and strategic posturing from key leaders, as their rhetoric can signal intentions, influence negotiation outcomes, and either de-escalate or further inflame tensions."
+        "title": "Iran's Nuclear Program Advancement",
+        "description": "While negotiations are ongoing, the ultimate red line for the US and Israel remains Iran's nuclear capabilities. Analysts should closely track any reports on Iran's enrichment levels, centrifuge deployment, and overall progress towards a nuclear weapon, as a failure to secure a 'distinctly better' deal than previous agreements could lead back to a full-scale conflict."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. and Iran Trade Strikes for a Second Day - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
+      "title": "Neither Peace Nor War: Iran Conflict Leaves World in Dangerous Limbo - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 11, 2026 · 02:54 BRT",
-      "pub_date": "2026-06-11",
-      "pub_ts": 1781157240,
+      "published": "Jun 12, 2026 · 06:05 BRT",
+      "pub_date": "2026-06-12",
+      "pub_ts": 1781255131,
       "summary": "",
       "tags": [
         "extracted",
@@ -22587,14 +22630,36 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. launches new strikes on Iran, hours after Trump issued warning - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/10/trump-threatens-iran-after-it-targets-us-assets-middle-east/",
+      "title": "Why Israel stopped when Trump said stop: Understanding the 12-hour Iran war - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-899173",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jun 12, 2026 · 07:04 BRT",
+      "pub_date": "2026-06-12",
+      "pub_ts": 1781258681,
+      "summary": "DIPLOMATIC AFFAIRS: A startup’s relationship with Google and North Korea’s path to the nuclear bomb offers unexpected insights into this week’s 12-hour war with Iran.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "IDF",
+        "Iran",
+        "United States"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "Understanding\nthe\n12-hour\nIran\nwar:\nWhy\nIsrael\nstopped\nwhen\nDonald\nTrump\nsaid\nstop\n|\nThe\nJerusalem\nPost\nWhy\nIsrael\nstopped\nwhen\nTrump\nsaid\nstop:\nUnderstanding\nthe\n12-hour\nIran\nwar\nDIPLOMATIC\nAFFAIRS:\nA\nstartup’s\nrelationship\nwith\nGoogle\nand\nNorth\nKorea’s\npath\nto\nthe\nnuclear\nbomb\noffers\nunexpected\ninsights\ninto\nthis\nweek’s\n12-hour\nwar\nwith\nIran.\nFollow\nus\non\nGoogle\nPRIME\nMINISTER\nBenjamin\nNetanyahu\nand\nUS\nPresident\nDonald\nTrump.\nNever\nhas\nIsrael\nhad\na\nmore\nsupportive\npresident\nin\nthe\nWhite\nHouse,\nand\nnever\nhas\nIsrael\nbeen\nso\ndependent\non\na\nUS\npresident,\nthe\nwriter\nasserts.\n(\nphoto\ncredit\n:\nJIM\nWATSON/AFP\nVIA\nGETTY\nIMAGES\n)\nBy\nHERB\nKEINON\nJUNE\n12,\n2026\n13:04\nIsrael\nwaged\nthe\nSix\nDay\nWar\nin\nJune\n1967.\nThe\n12-Day\nWar\nwith\nIran\nin\nJune\n2025.\nAnd\nnow,\nin\n2026,\nthe\n12-hour\nwar.\nAgain\nwith\nIran\n.\nAgain\nin\nJune.\nTo\nhelp\nmake\nsense\nof\nwhat\nhappened,\nwhat\nthe\ncountry\nexperienced,\nand\nwhat\nit\nmeans\ngoing\nforward,\nit\nis\nuseful\nto\nlook\nat\nother\nexamples.\nIn\na\nJerusalem\nInstitute\nfor\nStrategy\nand\nSecurity\nZoom\nbriefing\nthis\nweek,\nformer\nNational\nSecurity\nCouncil\nhead\nYaakov\nAmidror\nand\nEran\nLerman,\na\nformer\nsenior\nNSC\nofficial,\nturned\nto\ntwo\nseemingly\nunlikely\nexamples:\nNorth\nKorea\nand\nGoogle.\nNo\nfree\nlunch\nfor\nIsrael\nFirst,\nGoogle.\nThe\nweek’s\nevents\nmade\nit\nclear\nto\neveryone\nin\nIsrael\nthat\nthere\nis\nno\nfree\nlunch.\nUS\nPresident\nDonald\nTrump\n’s\nsupport\nfor\nIsrael\n–\nthe\nsteps\nhe\nhas\ntaken\nacross\nthe\nboard\nover\nthe\nyears\nto\nassist\nthe\ncountry\n–\nis\nnot\nwithout\na\ncost.\nAnd\nthe\ncost\nis\nthat\nhe\ngets\na\nsay,\na\nbig\nsay,\nin\nwhat\nIsrael\ncan\nand\ncannot\ndo.\nUS\nPresident\nDonald\nTrump\nreacts\nas\nremarks\nare\ndelivered\nto\nreporters\nabout\nhis\nadministration's\nsupport\nfor\ncoal\nenergy\nproduction,\namong\nother\ntopics,\nin\nthe\nOval\nOffice\nat\nthe\nWhite\nHouse\nin\nWashington,\nDC,\nUS\nJune\n4,\n2026.\n(credit:\nREUTERS/JONATHAN\nERNST)\nNever\nhas\nIsrael\nhad\na\nmore\nsupportive\npresident\nin\nthe\nWhite\nHouse.\nThat’s\nthe\nupside.\nThe\ndownside?\nNever\nhas\nIsrael\nbeen\nso\ndependent\non\na\nUS\npresident.\nAnd\nthis\nis\nwhere\nGoogle\ncomes\ninto\nplay.\nAmidror\nsaid\nthat\nhe\nhas\ntwo\nfriends\nwith\nstartups\nin\nwhich\nGoogle\ndecided\nto\ninvest.\nBoth\nwelcomed\nthe\npartnership.\nBut\nafter\na\nyear,\nboth\nrealized\nthat\nwhen\nGoogle\nis\nyour\npartner,\nGoogle\nhas\nsomething\nto\nsay\nabout\nhow\nthe\ncompany\nis\nrun.\nAmidror\nsaid\none\nof\nhis\nfriends\ndisliked\nthe\narrangement\nand\ndecided\nto\nsever\nthe\npartnership\nand\ncontinue\non\nhis\nown.\nThe\nother\nchose\nto\nstay\nwith\nGoogle\nand\nfigure\nout\nhow\nto\nwork\nwith\nits\ninput.\n“If\nsomeone\nthinks\nthat\nwhen\nGoogle\nis\nyour\npartner,\nyou\ncan\nneglect\nGoogle,\nI\nthink\nthey\nare\nmaking\na\nbig\nmistake,”\nAmidror\nsaid.\n“But\nyou\nhave\nto\nmake\na\nstrategic\ndecision.\nDo\nyou\nwant\nto\ncontinue\nwith\nGoogle\nand\nhave\nsome\nflexibility\nhere,\nor\ndo\nyou\nsay,\n‘Okay,\nI’ll\ncontinue\nalone\nwithout\nGoogle?’”\nAmidror\nsaid\nthat\nwhen\nhe\nposed\nthat\nquestion\nto\nother\nfriends,\nthey\nall\ngave\nthe\nsame\nanswer.\n“All\nmy\nfriends\ntold\nme\nthat\nif\nthey\nhad\nto\nmake\nthe\ndecision,\nthey\nwould\nstay\nwith\nGoogle.\nThis\nis\nthe\nsituation\nof\nIsrael\ntoday.\nWe\nare\nwith\nGoogle,\nand\nwe\nhave\nto\ntake\ninto\nconsideration\nthat\nGoogle\nis\nour\npartner.”\nThe\nUS,\nto\ncarry\nthe\nmetaphor,\nis\nIsrael’s\nGoogle.\nAs\na\nresult,\nit\nwill\nhave\na\nsay\nin\nhow\nwe\nrun\nour\nstartup.\nAt\ntimes,\nthat\nsmarts.\nAt\ntimes,\nit\nis\nfrustrating.\nAt\ntimes,\nit\nlimits\nyour\nability\nto\nmake\nfully\nindependent\ndecisions.\nBut\nit\nalso\ncarries\nenormous\nbenefits\n–\nbenefits\nthat\nshould\nnot\nbe\noverlooked\nin\na\nmoment\nof\nfrustration\nover\ninterference\nby\nthe\nlarger\npartner.\nKeeping\nthe\nbigger\npicture\nin\nmind\nIT\nIS\nALSO\nimportant\nto\nkeep\nthe\nbigger\npicture\nin\nmind.\nAnd\nwhat\nis\nthe\nbigger\npicture?\nIran’s\nnuclear\ncapabilities.\nPrime\nMinister\nBenjamin\nNetanyahu\noften\nboasts\nthat\nhe\nhas\nbeen\nsounding\nthe\nalarm\nabout\nIran’s\nnuclear\nprogram\nfor\nmore\nthan\n30\nyears.\nAnd\nhe\nhas.\nIt\nhas\nbeen\nhis\ntop\npriority.\nWhen\nhistory\nis\nwritten\na\nhundred\nyears\nfrom\nnow,\none\nof\nthe\ndefining\nelements\nof\nNetanyahu’s\nlegacy\nwill\nbe\nhis\nefforts\nto\nprevent\nIran\nfrom\nobtaining\na\nnuclear\nweapon.\nThat\nremains\nhis\noverriding\npriority.\nHezbollah,\nthe\nHouthis,\nHamas\n–\nall\nof\nthat\nis\nsecondary.\nWhat\nis\nkey,\nwhat\nis\nessential,\nis\npreventing\nIran\nfrom\ngetting\nthe\nbomb.\nThen\nalong\ncomes\nTrump\nand\nsays,\n“I’m\nalmost\nthere.\nI’m\njust\na\nstep\naway\nfrom\ngetting\nthe\nIranians\nto\nconcede\non\nthe\nnuclear\nissue\nin\nnegotiations.\nThe\nmilitary\npressure,\nthe\neconomic\npressure,\nit’s\nhaving\nan\neffect,\nand\nsoon\nthey\nwill\ngive\nit\nup\nin\ntalks.”\nDo\nyou\nbelieve\nhim\n–\na\npresident\nwho\nhas\ndeclared\npeace\nwhere\nthere\nis\nno\npeace,\nvictory\nwhere\nthere\nis\nno\nvictory,\nand\nthe\ndestruction\nof\nIran’s\nmilitary\ncapabilities\nwhen\nthey\nclearly\nstill\npossess\nthem?\nMaybe\nnot.\nBut\nremember:\nhe\nis\nGoogle,\nand\nGoogle\nhas\na\nsay.\nWhy\nNetanyahu\nbends\nto\nTrump's\ndemands\nThis\nis\nwhy\nNetanyahu\ndeferred\nthis\nweek\nto\nTrump’s\nwishes\nand\ndid\nnot\ncarry\nout\nthe\ntype\nof\nattack\nIsrael\nhad\nreportedly\nplanned\nfor\nIran\non\nMonday\nafter\nthe\nIranian\nregime\nfired\n11\nballistic\nmissiles\nat\nIsrael.\nTrump\nsaid\nstop\nshooting,\nand\nIsrael\n–\nand\nIran\n–\nstopped\nshooting.\nWhy?\nTo\ngive\nthose\nnegotiations\na\nchance.\nTrump,\nbeing\nTrump,\ncast\nthis\nin\nterms\nof\nhis\nown\nomnipotence\n–\nat\nleast\nwhen\nit\ncomes\nto\nNetanyahu.\nNetanyahu,\nhe\nhas\nrepeatedly\nsuggested\nover\nthe\nlast\nfew\nweeks\nin\nvarious\nforums\nand\nin\nvarious\nways,\nwill\ndance\nobediently\nto\nhis\ntune.\n“He’s\nfine.\nHe\nwill\ndo\nwhatever\nI\nwant\nhim\nto\ndo.\nHe’s\na\nvery\ngood\nman,”\nTrump\ntold\nreporters\non\nMay\n20.\nOn\nSunday,\nhe\ntold\nthe\nFinancial\nTimes:\n“I\ncall\nall\nthe\nshots.\nHe\ndoesn’t\ncall\nthe\nshots.”\nAnd\non\nTuesday,\nhe\ntold\nthe\nBBC:\n“If\nI\ntell\nhim\nto\ndo\nsomething,\nhe\ndoes\nit.”\nThose\nquotes\nwill\ninevitably\nbe\ntrotted\nout\nby\nNetanyahu’s\npolitical\nopponents\nduring\nthe\nupcoming\nelection\ncampaign\nas\nevidence\nthat\nthe\nprime\nminister\nis\nTrump’s\npoodle\nand\npuppet.\nThe\nwidespread\nassumption,\nat\nleast\nuntil\nrecently,\nwas\nthat\nNetanyahu\nwas\nTrump’s\npreferred\ncandidate.\nIf\nthat\nis\nthe\ncase,\ndoesn’t\nTrump\nrealize\nthat\nremarks\nlike\nthese\ncould\nbe\npolitically\ntoxic?\nPerhaps.\nBut\nTrump,\ntoo,\nhas\ndomestic\npolitical\nconsiderations.\nAccording\nto\nLerman,\nTrump\nhas\nbeen\nstung\nby\naccusations\nfrom\nthe\nTucker\nCarlson\nwing\nof\nthe\nMAGA\nmovement\nthat\nNetanyahu\ndragged\nhim\ninto\nthe\nwar\nwith\nIran.\nComments\nsuch\nas\n“If\nI\ntell\nhim\nto\ndo\nsomething,\nhe\ndoes\nit”\nneed\nto\nbe\nseen\nin\nthe\ncontext\nof\nrebutting\nthe\ncharge,\nincreasingly\ncommon\nin\nsome\nUS\ncircles,\nthat\nthe\nIran\nepisode\nis\na\nclassic\ncase\nof\nthe\ntail\nwagging\nthe\ndog.\nWhile\nLerman\nsaid\nTrump\nhas\nbeen\n“quite\ndecisive”\nin\nshutting\ndown\nthe\nanti-Israel\nand\nantisemitic\nelements\nof\nthe\nMAGA\nlandscape,\nhe\nadded\nthat\nthe\npresident\nis\nnevertheless\n“affected\nby\nthe\nmusic\nand\nhas\nresponded\nto\nit.”\nWhich\nbrings\nus\nto\nNorth\nKorea.\n“One\nof\nthe\nbest\nexamples\nof\nbad\ndiplomacy\nin\nmodern\nhistory\nis\nthe\nsuccess\nof\nNorth\nKorea\nin\nbecoming\na\nnuclear\npower,”\nAmidror\nsaid.\nOne\nreason\nthe\nUS\ndid\nnot\nuse\nforce\nto\nstop\nNorth\nKorea,\nhe\nargued,\nwas\nSouth\nKorea’s\nadamant\nopposition.\nAnd\nwhy\nwas\nSouth\nKorea\nopposed?\nBecause\nof\nthe\nfear\nthat,\nin\nthe\nevent\nof\na\nUS\nattack,\nNorth\nKorea\nwould\nunleash\ndevastating\nforce\nagainst\nSeoul,\nwhich\nsits\nonly\n60\nkm.\nfrom\nthe\nDemilitarized\nZone.\nThe\nNorth\nKoreans\nhave\nthousands\nof\nartillery\npieces\nand\nrocket\nlaunchers\ndug\ninto\nthe\nmountains\nalong\nthe\nborder\nthat,\nSouth\nKoreans\nfeared,\ncould\nbe\nused\nin\na\nmassive\nretaliatory\nbarrage\non\nthe\ncapital.\nSo\nthey\nforcefully\nurged\nthe\nUS\nnot\nto\nstrike.\nIranians\nlearned\n'hostage\nstrategy'\nfrom\nNorth\nKorea\nThe\nIranians\nhave\nlearned\nmore\nfrom\nthe\nNorth\nKoreans\nthan\njust\nhow\nto\nbuild\nmissiles.\nThey\nhave\nalso\nlearned\nthe\nvalue\nof\nthis\n“hostage\nstrategy.”\nIRAN\nIS\neffectively\nholding\nthe\nGulf\nstates\nhostage\nin\nmuch\nthe\nsame\nway\nNorth\nKorea\nheld\nSeoul\nhostage\n–\nnot\nonly\ndeterring\noverwhelming\nAmerican\naction\nbut\nalso\nhelping\npersuade\nWashington\nto\nlimit\nIsrael’s\nattacks.\n“The\nIranians\nare\nslowly\nbuilding\nthis\nsame\ndynamic\nin\nthe\nGulf,”\nAmidror\nsaid.\n“What\nthey\nare\nsaying\nclearly\nis,\n‘If\nyou\ndo\nsomething\nto\nIran,\nwe\nwill\ndestroy\nthe\nGulf\ncountries.’\n“Under\nthe\ntable,\nthese\ncountries\nare\nsaying\nto\nthe\nAmericans:\n‘If\nyou\nare\ngoing\nto\ntake\naction,\ndo\nit\nto\nthe\nend.\nFinish\nthis\nregime.\nDestroy\nits\ncapabilities\ntotally.\nBut\nif\nyou\ndon’t\nfinish\nthe\njob,\ndon’t\nput\nus\n–\nthe\nGulf\ncountries\n–\nin\na\nvery\ndire\nsituation.\nBecause\nif\nyou\ngo\nhalfway,\nat\nthe\nend\nof\nthe\nday\nwe\nwill\npay\nthe\nprice.’”\nThe\nIranians\nhave\nsucceeded\nin\ncreating\na\n“coercive\nsituation”\nin\nthe\nGulf\nbecause\nthe\nAmericans\nare\nnot\nready\nto\ngo\nthe\nextra\nmile\nand\ntotally\ndestroy\nIran’s\ncapabilities,\nAmidror\nsaid.\nLerman,\ntrying\nto\nmake\nsense\nof\nTrump’s\noften\ncontradictory\nrhetoric\n–\none\nday\ntalking\nabout\nobliterating\nIranian\ncivilization,\nthe\nnext\nabout\nmeeting\nthe\nnew\nIranian\nleader\n–\noffered\na\nriff\non\nthe\nwell-known\nsaying\nby\nthe\nancient\nChinese\nstrategist\nSun\nTzu:\n“Know\nthyself\nand\nknow\nthy\nenemy,\nand\nyou\nwill\nnot\nlose\na\nhundred\nbattles.”\nThe\nTrump\nversion,\nhe\nsaid,\nis:\n“If\nyou\ndon’t\nknow\nwhat\nyou’re\ndoing,\nthe\nenemy\ndoesn’t\neither.”\nThat\nsaid,\nLerman\nadded\nthat\nTrump\nhas\nshown\na\ndetermination\nto\nprevent\nIran\nfrom\nbecoming\na\nnuclear\nstate.\nAnd\nthat,\ntoo,\nmay\nstem\nfrom\nNorth\nKorea.\n“The\nexperience\nof\ntrying\nto\nget\nKim\nJong\nUn\nto\ngive\nup\non\nhis\nnuclear\nproject\nduring\nTrump’s\nfirst\nterm\n–\nand\nfailing\n–\nhas\ntaught\nhim\nthat\nthese\nkinds\nof\nregimes\nhave\nto\nbe\nstopped\nbefore\nthey\nhave\nthe\nbomb,”\nhe\nsaid.\n“And\non\nthis,\nI\nthink\nhe’s\nbeen\nvery\nconsistent.\nEither\nthey\nactually\ngive\nhim\nsomething\ndistinctly\nbetter\nthan\nthe\ndeal\n[then-president\nBarack]\nObama\nstruck,\nor\nwe\nmay\ngo\nback\nto\nsquare\none.”\nMeaning,\nback\nto\na\nfull-scale\nwar.\nWhether\nTrump\nis\nright\nabout\nthe\nnegotiations\nis\nanyone’s\nguess.\nWhat\nthis\nweek\ndemonstrated,\nhowever,\nis\nsomething\nelse\nentirely:\nthat\nIsrael’s\nstrategic\ndependence\non\nthe\nUS\nis\nnow\nso\ndeep\nthat\nwhen\nthe\npresident\nsays\nstop,\nIsrael\nstops.\nThat\nmay\nbe\nfrustrating.\nIt\nmay\neven\nbe\nuncomfortable\nand\nhumbling.\nBut,\nas\nAmidror’s\nstart-up\nstory\nillustrated,\nthat\nis\nthe\nprice\nof\nhaving\nGoogle\nas\nyour\npartner.\nSee\nmore\non\nIsrael\n|\nBenjamin\nNetanyahu\n|\nIDF\n|\nIran\n|\nUnited\nStates\n|\nNorth\nKorea\n|\ngoogle\n|\nMiddle\nEast\n|\nDonald\nTrump\nFollow\nus\non\nGoogle",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran war is the worst hit to the global economy since covid, World Bank says - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/06/11/world-bank-says-iran-war-is-worst-hit-global-economy-since-covid/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 11, 2026 · 03:14 BRT",
+      "published": "Jun 11, 2026 · 17:30 BRT",
       "pub_date": "2026-06-11",
-      "pub_ts": 1781158493,
+      "pub_ts": 1781209800,
       "summary": "",
       "tags": [
         "extracted",
@@ -22606,52 +22671,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Inflation Jumps as Iran War Intensifies Price Squeeze - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/10/business/inflation-report-cpi",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 11, 2026 · 02:32 BRT",
-      "pub_date": "2026-06-11",
-      "pub_ts": 1781155920,
-      "summary": "Consumer prices rose at a faster rate for a third-straight month in May, to 4.2 percent annually, as the energy shock put more pressure on the U.S. economy.",
+      "title": "El Niño and the Iran war may spark hunger crisis for more than 100 million - The Washington Post",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/06/12/why-iran-war-powerful-el-nio-could-fuel-global-hunger-crisis/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 12, 2026 · 07:32 BRT",
+      "pub_date": "2026-06-12",
+      "pub_ts": 1781260349,
+      "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Video: Trump Says He ‘Loves the Inflation’ Amid War With Iran - The New York Times",
-      "url": "https://www.nytimes.com/video/us/politics/100000010958803/trump-inflation-iran-war.html",
+      "title": "Whipsawed Between Fear and Relief, Iranians Hope for War’s End - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 10, 2026 · 19:05 BRT",
-      "pub_date": "2026-06-10",
-      "pub_ts": 1781129132,
-      "summary": "President Trump dismissed the newest inflation report on Wednesday, marking the third-straight month of high prices for consumers. The war in Iran has snarled the world’s energy supply, resulting in high oil and gas prices.",
-      "tags": [
-        "Inflation",
-        "US Economy",
-        "Donald Trump",
-        "Iran"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’ - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 10, 2026 · 14:00 BRT",
-      "pub_date": "2026-06-10",
-      "pub_ts": 1781110852,
+      "published": "Jun 11, 2026 · 19:10 BRT",
+      "pub_date": "2026-06-11",
+      "pub_ts": 1781215838,
       "summary": "",
       "tags": [
         "extracted",
@@ -22663,18 +22709,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran targets U.S. bases for a second night, raising fears of return to all-out war - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/11/iran-targets-five-us-bases-raising-fears-return-all-out-war/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 11, 2026 · 07:41 BRT",
+      "title": "Iran war adds to AI boom as demand for gas turbines rises further, Siemens Energy says - Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-war-adds-ai-boom-demand-gas-turbines-rises-further-siemens-energy-says-2026-06-11/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 11, 2026 · 13:05 BRT",
       "pub_date": "2026-06-11",
-      "pub_ts": 1781174484,
+      "pub_ts": 1781193924,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -22689,6 +22735,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran-US agreement will end Lebanon war, unfreeze Iranian assets, Mehr claims - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMVEJobTg5VlZSejduXzZZdThMTmxpN0V0VV9XNFlIcUFpanBZUUV6bUpBNEFUbEN3NGJVR1ZXUmxiaDFMdzUzaHVkb1h6LUc1cU9ZTGhaYm1ncnJRa05ZdWtvSGZjSEFWakE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 06:51 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781257897,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump Again Claims Deal Is Close After Retracting Threat of Strikes - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc3htM1JvcDRxY19PR2JBeUxDYy1hbHB2dUxzV1JKMEtJemJia1VFaFdTYzlXT2N0RHJ6ZDBlWEpxU2JSY0xoRXdjeXdJbDluQjhQY2FyNnNYODhoM1BJSWEtNmZjYUk1eENWTU1uNURqNmk1N1VhbVdn?oc=5",
@@ -35544,6 +35604,20 @@
           "_rank": 0
         },
         {
+          "title": "Gold rises 2% as Trump canceling Iran strikes eases inflation fears - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0RQOFgzZFBuaHBaZ2wzd3gxeHhzU0hSX2tKYzBKaGhzeEo1NWtPc0NQTERGQ09KLWI5bDNTUTIyemNXZjRrTzJfWEZZMlh1VDZ4YUl2WlBtVjBIbXg5YjlGTzRQV2NlUmVUSUFpOTJMME5JRWRjS0Z5ajByRy1jSE5OUjZ4VEtvTlpFODJWMVRqWC12TEd1aUREWkpfLVJvN3NXeUFaU3ViRElTX3dkT3FNM2dNZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 22:05 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781139900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "China's imports of major commodities show price remains key driver - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnFfckNXcWNYaXBqQVNraHlTdzJucHRlM3p1bWhzSElsWXMwMUJ5MjBsX0UzYjdoZGN5SVdwSzhTeXc1eHZ0Z0hBWHBiM3RKeFBxZlNyTUNUVmxEY0VFUjNtWi02bXdTbkFXQno4QlBSOGs2dUYtVTY4bjM4bzU4WEdIS01yUXZEaXhhT1BmQ293dTlTdmpxZE1RNDBtRURacHFPQ0pSblVfUGdUcTFmRWFvVGptUC0zakNvOW0xbWpHNGplQUlTMEx2TQ?oc=5",
           "source": "Reuters",
@@ -36372,7 +36446,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-11T11:07:21.488770+00:00",
-  "last_watch_time": "2026-06-11T11:07:37.581341+00:00",
-  "last_relevant_time": "2026-06-11T11:07:38.147892+00:00"
+  "last_digest_time": "2026-06-12T11:08:35.357457+00:00",
+  "last_watch_time": "2026-06-12T11:08:45.050104+00:00",
+  "last_relevant_time": "2026-06-12T11:08:45.592931+00:00"
 }

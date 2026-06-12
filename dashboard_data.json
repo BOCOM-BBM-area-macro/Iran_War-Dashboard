@@ -22498,6 +22498,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-11"
+    },
+    "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.washingtonpost.com/climate-environment/2026/06/12/why-iran-war-powerful-el-nio-could-fuel-global-hunger-crisis/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-899213": {
+      "summary": "Iran's ballistic missile program, as well as its support for proxy groups across the Middle East such as Hezbollah, will not be included in the negotiations, according to Mehr.",
+      "tags": [
+        "Iran",
+        "Lebanon",
+        "United States",
+        "Iran Deal",
+        "Iran nuclear"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
     }
   },
   "last_run_success": true,
@@ -34128,6 +34161,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "El Niño and the Iran war may spark hunger crisis for more than 100 million - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0NFVklsYWdRVXNZRGRpOWZsbEREdXh1S0hOZHVUZ2FjbGZXdUZzRGJoaHA2X3l3WFlMcU03WkZuT09MUGJFYWhUTlhpNEtRcmJseVV0cEZfV3dRT1pNZVpZMWFvb2pJMnp5ZFRwVGtEVVcxM21KMnV4dmhlX1ZVUGxLTkNpbnFqSUJZc2lUZk13Q3E4SUJvS0thQkFHZ0FLMGhvRVJ6Nm41NXphTmFLanRZZlBUa21DX29DaGZOcGg?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 06:05 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781255139,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India's fertiliser ministry seeks to double subsidy fund as cost of Iran war mounts - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlV1M2JVZzR1WnQwWkNxVjltVkFyclo3eHp1TjQ0VDVLOEdVMlhwXzJmZFJadmJ6aFJkWGtxN3B6ZkZ0dUF4aXU0QXFub2Q5V2k3U3pPLXVQM1QycnVzTmtpdUVneC1fTkE0WnpybWtQdVkxMC1lNm1iNmRlMjVxVUYyZnpGRUVGbEJBWlNhc2kwb0dmbXh3dVdIVXlLdktKaHVyalM2QnBOYXExVFlVRUk1MUNGdGx0cFlGSV9n?oc=5",

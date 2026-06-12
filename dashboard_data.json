@@ -21905,7 +21905,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-11"
+      "pub_date": "2026-06-10"
     },
     "https://www.wsj.com/world/middle-east/u-s-launches-fresh-wave-of-strikes-against-iran-2a23d87b": {
       "summary": "",
@@ -22402,6 +22402,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-12"
+    },
+    "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899199": {
+      "summary": "This is Likud’s lowest figure since August 2025, when it received 21 seats in a Maariv poll. However, the coalition bloc maintained its strength from last week at 50 seats.",
+      "tags": [
+        "Avigdor Liberman",
+        "Benjamin Netanyahu",
+        "Elections",
+        "Likud",
+        "Naftali Bennett"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-12/uk-economy-shrank-in-april-as-iran-war-started-to-take-its-toll": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
     }
   },
   "last_run_success": true,
@@ -22560,6 +22593,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump Again Claims Deal Is Close After Retracting Threat of Strikes - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc3htM1JvcDRxY19PR2JBeUxDYy1hbHB2dUxzV1JKMEtJemJia1VFaFdTYzlXT2N0RHJ6ZDBlWEpxU2JSY0xoRXdjeXdJbDluQjhQY2FyNnNYODhoM1BJSWEtNmZjYUk1eENWTU1uNURqNmk1N1VhbVdn?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 03:28 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781245680,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says Iran war deal close as Strait of Hormuz tensions linger - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 02:06 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781240760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtbEFYSXZCM1RNYXRCbTllT0Y0SFpLcnhUd21idmFVMHJKMHdKZUx0STdlYnlpTHZrM1RiWnE5UjRHTzBWTk9mUFoxLW04SWZURWZWcEhOLW8xdVZFcHRpek1lYlNRWWtBd093X2k1OVJFOW9CMXc?oc=5",
@@ -35339,6 +35400,20 @@
           "published": "Jun 11, 2026 · 01:01 BRT",
           "pub_date": "2026-06-11",
           "pub_ts": 1781150513,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China's imports of major commodities show price remains key driver - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnFfckNXcWNYaXBqQVNraHlTdzJucHRlM3p1bWhzSElsWXMwMUJ5MjBsX0UzYjdoZGN5SVdwSzhTeXc1eHZ0Z0hBWHBiM3RKeFBxZlNyTUNUVmxEY0VFUjNtWi02bXdTbkFXQno4QlBSOGs2dUYtVTY4bjM4bzU4WEdIS01yUXZEaXhhT1BmQ293dTlTdmpxZE1RNDBtRURacHFPQ0pSblVfUGdUcTFmRWFvVGptUC0zakNvOW0xbWpHNGplQUlTMEx2TQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 02:23 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781069016,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

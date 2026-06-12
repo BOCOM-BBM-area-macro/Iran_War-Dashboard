@@ -21975,7 +21975,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-11"
+      "pub_date": "2026-06-10"
     },
     "https://www.wsj.com/world/middle-east/three-days-of-clashes-show-the-iran-conflict-is-entering-a-dangerous-new-phase-0b677422": {
       "summary": "",
@@ -22098,7 +22098,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-11"
+      "pub_date": "2026-06-12"
     },
     "https://www.bloomberg.com/opinion/articles/2026-06-11/the-iran-war-is-all-about-psychology-trump-s-and-khamenei-s": {
       "summary": "",
@@ -22382,6 +22382,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-12"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-claims-us-has-ended-the-war-with-iran-even-as-tehran-says-no-decision-reached/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
     }
   },
   "last_run_success": true,
@@ -22540,6 +22560,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtbEFYSXZCM1RNYXRCbTllT0Y0SFpLcnhUd21idmFVMHJKMHdKZUx0STdlYnlpTHZrM1RiWnE5UjRHTzBWTk9mUFoxLW04SWZURWZWcEhOLW8xdVZFcHRpek1lYlNRWWtBd093X2k1OVJFOW9CMXc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 00:48 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781236104,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says he has canceled plans to strike Iran, claiming deal is near - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDlrbERzZVp6YW9PdnZwY04tb2U5c19zVDZyRTZfajNxeEx0dkFpS1o4anpXVUdEczZHYkJXZWM4WVRlYk9jM0E3MTdMdkliQVRvTmI3TkFsU0s0c0tkSGN5TzZtZE9KODQyTjlXbkRENXpHM1JuMDJzcTBRRENxS0ZzRVQtdExacHp1Nld5NXhLNlVCQjRIQnlBeWVRYVFFaUtYRkVOWFZwWGlT?oc=5",
@@ -29224,6 +29258,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "China learns to live on less fuel, to the relief of oil markets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmJmNHk1akxrVzVuRmc0cmxZYkh5anRaOEtSQ0FLTWhfdVlYWXpkbjRNNGxmOWpLM18tdl9WZm1mbUg1bWxPekVLSjZFdm1rUjZDakhIdTN6WG9IS1JnYmw0VnZEeDgyLVRGTlIyd2VrZ09YWHhXN0RVamdjR1NnalpGTHN3bXZFYlJRRVdZY1BaX3BJLUdKZ092eEx0aDg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 06:11 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781169060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Rising fuel prices hit US farms as Iran war drags on - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEJuTERzUURfX2hORlJoVzlkUVc2TFhvV2xiWVZrc0d1TkJYMXRfbllmM21BNEw1Mno1cmE3cHZtQjdHX2xncldFbWNOeEFXbG9jaTNMeGJXcDVGQzF3d3FzT2hVM055OWFZbUVLX2xoX3VjVUptTEt1R0c3NjhNTk9sZFhfT3BKRGpXMTRMMUdMRklXbS1zWjU3SVM5Nzg?oc=5",
           "source": "Reuters",
@@ -33965,6 +34013,20 @@
           "published": "Jun 09, 2026 · 07:42 BRT",
           "pub_date": "2026-06-09",
           "pub_ts": 1781001746,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Soaring fertilizer prices dim Brazilian farmers' edge over US rivals - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTRJN0N3YTkwemFtSTJzRjRZWnJXVHJFRWRGZGNEeF8zQXZJVXVSRXlHRnJUYVRtdXZEZjhUXzljSGZRTEUzWVRnZTZLSFF0Q1AydVY0TDc1WTRLSHB4OTRWVDB6bkcyZkxhNUJ3UmlFMDRReXNfendtMV9UZncxUHhzZXk5Y29OMWJnSTBKM0ZwRjdhSFpnakJSMlJkamlrZEhETE1UVmN0akgweDBZWWFzeDhuWkg4N3c?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 08, 2026 · 11:48 BRT",
+          "pub_date": "2026-06-08",
+          "pub_ts": 1780930124,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -22584,11 +22584,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-12"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-12/us-futures-rally-with-all-eyes-on-spacex-iran-war-peace-hopes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.wsj.com/world/middle-east/worlds-food-supply-imperiled-by-iran-war-fertilizer-manufacturer-fertiglobe-chief-says-878b25fb": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-12",
-  "last_generated_time": "2026-06-12T09:01:46.219357+00:00",
+  "last_generated_time": "2026-06-12T10:01:42.209544+00:00",
   "digest": {
     "digest": "Recent developments indicate a significant de-escalation in the Iran conflict, with President Trump repeatedly stating that a deal is near and that plans for strikes have been canceled. Despite these claims, Iran has maintained that no final decision has been reached. This diplomatic stance has led to a temporary halt in hostilities, with Israel reportedly pausing planned actions following US directives. Qatar has also engaged in separate talks with Iran to protect its gas facilities. The economic repercussions of the conflict are substantial, with the World Bank identifying the Iran war as the most severe global economic shock since COVID-19, contributing to a UK economic contraction and surging inflation expectations. Furthermore, the conflict, combined with El Niño, poses a risk of a hunger crisis affecting over 100 million people. The situation has also influenced global markets, with oil prices dropping significantly following statements about a potential US-Iran deal, while demand for gas turbines has risen, impacting sectors like AI. The ongoing uncertainty leaves the world in a precarious state, balancing relief with the potential for renewed conflict.",
     "top_themes": [
@@ -22745,6 +22765,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil sinks to three-month low after Trump says US close to Iran deal - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX04xWDJfSGVsQUZHdXoyTktXbFlJalJRZ2FjdlpLQjhnZTZ3WXc2WWRIYkNIZm9ZanhsTGhnZ2hySmhOM2g5RjBQWk9xRHlmMmxlTXJ5VWRvbS1hc1NhZ2gtNEttN3A0enBDRzExQ3ZNcFl3SkhVNGxycjA2OHVDc255U1Y?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 06:56 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781258175,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran-US agreement will end Lebanon war, unfreeze Iranian assets, Mehr claims - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMVEJobTg5VlZSejduXzZZdThMTmxpN0V0VV9XNFlIcUFpanBZUUV6bUpBNEFUbEN3NGJVR1ZXUmxiaDFMdzUzaHVkb1h6LUc1cU9ZTGhaYm1ncnJRa05ZdWtvSGZjSEFWakE?oc=5",
@@ -34231,6 +34265,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "World’s Food Supply Imperiled by Iran War, Fertilizer Manufacturer Fertiglobe Chief Says - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMjNjYzhDLWdJaFNxaU9NMUlDRkRGRTNlRlFZNndtRmw0ckFXbVVwWV9KRW1HbjdiYTlzMXhsV01ITl8xYVl4MjhiTVM4RTFQeVBuLUdrajJEaUptVkpTOE1MSlRBZF9Yb094RUJ3MzNReDJmT2JiTUt6NGNiUU9Lb05mcWVQSWNJUXVnR0lGMjMwREotbkc5dlJKSjk2d3FEUkg1NXpUaWd6N2dZWUJPLVo0bURYc3hsQ1lHWnlNdUs4dGdXZDJHdGJseWY0dw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 09:12 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781266320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "El Niño and the Iran war may spark hunger crisis for more than 100 million - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0NFVklsYWdRVXNZRGRpOWZsbEREdXh1S0hOZHVUZ2FjbGZXdUZzRGJoaHA2X3l3WFlMcU03WkZuT09MUGJFYWhUTlhpNEtRcmJseVV0cEZfV3dRT1pNZVpZMWFvb2pJMnp5ZFRwVGtEVVcxM21KMnV4dmhlX1ZVUGxLTkNpbnFqSUJZc2lUZk13Q3E4SUJvS0thQkFHZ0FLMGhvRVJ6Nm41NXphTmFLanRZZlBUa21DX29DaGZOcGg?oc=5",

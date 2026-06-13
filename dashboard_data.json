@@ -22706,7 +22706,7 @@
       "pub_date": "2026-06-12"
     },
     "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html": {
-      "summary": "",
+      "summary": "A “memorandum of understanding” between the two sides is under discussion. Both sides are keen to frame it as a victory.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -22757,11 +22757,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-12"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-899234": {
+      "summary": "Axios cited a source with direct knowledge of the call who said Netanyahu, who is not directly involved in US-Iran talks, was caught off guard by the pending agreement.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Iran",
+        "Washington",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
+    },
+    "https://www.timesofisrael.com/iran-mou-would-cap-self-defeating-ceasefire-for-trump-marks-huge-problem-for-israel/": {
+      "summary": "As US president waxes optimistic about chances for a 60-day deal with Tehran, Netanyahu seems unsure of how to react. Spinning this as victory before the elections won't be easy",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-12"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-12",
-  "last_generated_time": "2026-06-12T21:02:02.097158+00:00",
+  "last_generated_time": "2026-06-12T22:01:52.433307+00:00",
   "digest": {
     "digest": "Recent developments indicate a significant de-escalation in the Iran conflict, with President Trump repeatedly stating that a deal is near and that plans for strikes have been canceled. Despite these claims, Iran has maintained that no final decision has been reached. This diplomatic stance has led to a temporary halt in hostilities, with Israel reportedly pausing planned actions following US directives. Qatar has also engaged in separate talks with Iran to protect its gas facilities. The economic repercussions of the conflict are substantial, with the World Bank identifying the Iran war as the most severe global economic shock since COVID-19, contributing to a UK economic contraction and surging inflation expectations. Furthermore, the conflict, combined with El Niño, poses a risk of a hunger crisis affecting over 100 million people. The situation has also influenced global markets, with oil prices dropping significantly following statements about a potential US-Iran deal, while demand for gas turbines has risen, impacting sectors like AI. The ongoing uncertainty leaves the world in a precarious state, balancing relief with the potential for renewed conflict.",
     "top_themes": [

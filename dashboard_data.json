@@ -22756,7 +22756,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-12"
     },
     "https://www.jpost.com/middle-east/iran-news/article-899234": {
       "summary": "Axios cited a source with direct knowledge of the call who said Netanyahu, who is not directly involved in US-Iran talks, was caught off guard by the pending agreement.",
@@ -22799,7 +22799,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-12"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -22833,51 +22833,72 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-13"
+    },
+    "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-13"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-12",
-  "last_generated_time": "2026-06-12T23:01:50.112515+00:00",
+  "last_generated_date": "2026-06-13",
+  "last_generated_time": "2026-06-13T08:01:35.238203+00:00",
   "digest": {
-    "digest": "Recent developments indicate a significant de-escalation in the Iran conflict, with President Trump repeatedly stating that a deal is near and that plans for strikes have been canceled. Despite these claims, Iran has maintained that no final decision has been reached. This diplomatic stance has led to a temporary halt in hostilities, with Israel reportedly pausing planned actions following US directives. Qatar has also engaged in separate talks with Iran to protect its gas facilities. The economic repercussions of the conflict are substantial, with the World Bank identifying the Iran war as the most severe global economic shock since COVID-19, contributing to a UK economic contraction and surging inflation expectations. Furthermore, the conflict, combined with El Niño, poses a risk of a hunger crisis affecting over 100 million people. The situation has also influenced global markets, with oil prices dropping significantly following statements about a potential US-Iran deal, while demand for gas turbines has risen, impacting sectors like AI. The ongoing uncertainty leaves the world in a precarious state, balancing relief with the potential for renewed conflict.",
+    "digest": "Recent reports indicate that the United States and Iran are nearing a preliminary peace agreement, with both sides signaling that a deal is close. Despite this progress, sticking points, particularly concerning the Strait of Hormuz, remain a significant obstacle. Iran is reportedly claiming victory in these negotiations, suggesting a willingness to withstand further pressure. Concurrently, new military actions have been reported near the Strait of Hormuz, indicating ongoing tensions in the region. In a related development, Donald Trump reportedly informed Benjamin Netanyahu of the pending agreement, a move that caught Netanyahu, who is not directly involved in the US-Iran talks, off guard. Trump has previously stated his intention to end the conflict with Iran. The proximity of this potential deal has been a subject of discussion since March, with Trump repeatedly asserting that the war would conclude soon.",
     "top_themes": [
-      "US-Iran Diplomacy and Negotiations",
-      "Economic Impact of Iran Conflict",
-      "Geopolitical Tensions and Regional Stability"
+      "US-Iran Peace Talks",
+      "Strait of Hormuz",
+      "Netanyahu's Reaction"
     ],
     "next_events": [
       {
-        "title": "Verification and Scope of US-Iran Agreement",
-        "description": "Multiple reports indicate President Trump's claims of a deal being 'near' or 'close,' with some mentioning a 60-day ceasefire and nuclear negotiations. Analysts should watch for official confirmation from both the US and Iran, and critically examine the specific terms of any agreement, particularly whether it addresses Iran's ballistic missile program and support for regional proxies like Hezbollah, which Mehr claims will not be included."
+        "title": "Finalization and Specifics of the US-Iran Peace Deal",
+        "description": "Multiple sources indicate a peace deal is on the cusp of being finalized. Analysts should closely monitor the official announcement and the detailed terms of the preliminary agreement, especially regarding critical areas like the Strait of Hormuz, to understand the immediate implications for regional stability and international relations."
       },
       {
-        "title": "Regional Stability and Proxy Group Activity",
-        "description": "Despite claims of a potential deal, tensions in the Strait of Hormuz linger, and Iran's 'hostage strategy' against Gulf states remains a concern. Monitor for any escalation or de-escalation of proxy conflicts, especially in Lebanon, and observe how Gulf states react to the ongoing diplomatic efforts, as they fear retaliation if a deal is perceived as incomplete or insufficient."
+        "title": "Regional Responses to the Peace Agreement",
+        "description": "The impending deal has reportedly caught Israeli Prime Minister Benjamin Netanyahu off guard and is considered a 'bitter pill' for him. It is crucial to observe the reactions and potential counter-actions from Israel and other regional players, as their responses could introduce new dynamics or challenges to the perceived peace."
       },
       {
-        "title": "Israel's Strategic Posture and US Influence",
-        "description": "The recent '12-hour Iran war' highlighted Israel's deep strategic dependence on the US, with Israel reportedly halting strikes at Trump's command. Future events will reveal how Israel balances its primary goal of preventing an Iranian nuclear weapon with US diplomatic initiatives, and how this dynamic impacts Prime Minister Netanyahu's domestic political standing."
-      },
-      {
-        "title": "Global Economic and Humanitarian Repercussions",
-        "description": "The 'Iran War' has already been cited as a major blow to the global economy since COVID, contributing to shrinking economies, surging inflation, and a potential hunger crisis for over 100 million people. Continue to monitor key economic indicators, commodity prices (especially oil), and humanitarian aid efforts, as these impacts are likely to persist regardless of a partial peace deal."
-      },
-      {
-        "title": "Iran's Nuclear Program Advancement",
-        "description": "While negotiations are ongoing, the ultimate red line for the US and Israel remains Iran's nuclear capabilities. Analysts should closely track any reports on Iran's enrichment levels, centrifuge deployment, and overall progress towards a nuclear weapon, as a failure to secure a 'distinctly better' deal than previous agreements could lead back to a full-scale conflict."
+        "title": "Security and Activity in the Strait of Hormuz",
+        "description": "Despite the looming peace deal, reports indicate new military action flaring near the Strait of Hormuz, which remains a key sticking point. Analysts must watch for any continued or escalated military activity in this vital waterway, as it could test the durability of the agreement and signal ongoing friction points."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Neither Peace Nor War: Iran Conflict Leaves World in Dangerous Limbo - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+      "title": "How the U.S. and Iran Turned From Renewed War to the Cusp of Peace - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-war-peace-talks-what-happened-d033900f",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 13, 2026 · 02:27 BRT",
+      "pub_date": "2026-06-13",
+      "pub_ts": 1781328420,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 12, 2026 · 06:05 BRT",
-      "pub_date": "2026-06-12",
-      "pub_ts": 1781255131,
+      "published": "Jun 13, 2026 · 06:02 BRT",
+      "pub_date": "2026-06-13",
+      "pub_ts": 1781341333,
       "summary": "",
       "tags": [
         "extracted",
@@ -22889,97 +22910,74 @@
       "sentiment_success": false
     },
     {
-      "title": "Why Israel stopped when Trump said stop: Understanding the 12-hour Iran war - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-899173",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jun 12, 2026 · 07:04 BRT",
-      "pub_date": "2026-06-12",
-      "pub_ts": 1781258681,
-      "summary": "DIPLOMATIC AFFAIRS: A startup’s relationship with Google and North Korea’s path to the nuclear bomb offers unexpected insights into this week’s 12-hour war with Iran.",
-      "tags": [
-        "Israel",
-        "Benjamin Netanyahu",
-        "IDF",
-        "Iran",
-        "United States"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "Understanding\nthe\n12-hour\nIran\nwar:\nWhy\nIsrael\nstopped\nwhen\nDonald\nTrump\nsaid\nstop\n|\nThe\nJerusalem\nPost\nWhy\nIsrael\nstopped\nwhen\nTrump\nsaid\nstop:\nUnderstanding\nthe\n12-hour\nIran\nwar\nDIPLOMATIC\nAFFAIRS:\nA\nstartup’s\nrelationship\nwith\nGoogle\nand\nNorth\nKorea’s\npath\nto\nthe\nnuclear\nbomb\noffers\nunexpected\ninsights\ninto\nthis\nweek’s\n12-hour\nwar\nwith\nIran.\nFollow\nus\non\nGoogle\nPRIME\nMINISTER\nBenjamin\nNetanyahu\nand\nUS\nPresident\nDonald\nTrump.\nNever\nhas\nIsrael\nhad\na\nmore\nsupportive\npresident\nin\nthe\nWhite\nHouse,\nand\nnever\nhas\nIsrael\nbeen\nso\ndependent\non\na\nUS\npresident,\nthe\nwriter\nasserts.\n(\nphoto\ncredit\n:\nJIM\nWATSON/AFP\nVIA\nGETTY\nIMAGES\n)\nBy\nHERB\nKEINON\nJUNE\n12,\n2026\n13:04\nIsrael\nwaged\nthe\nSix\nDay\nWar\nin\nJune\n1967.\nThe\n12-Day\nWar\nwith\nIran\nin\nJune\n2025.\nAnd\nnow,\nin\n2026,\nthe\n12-hour\nwar.\nAgain\nwith\nIran\n.\nAgain\nin\nJune.\nTo\nhelp\nmake\nsense\nof\nwhat\nhappened,\nwhat\nthe\ncountry\nexperienced,\nand\nwhat\nit\nmeans\ngoing\nforward,\nit\nis\nuseful\nto\nlook\nat\nother\nexamples.\nIn\na\nJerusalem\nInstitute\nfor\nStrategy\nand\nSecurity\nZoom\nbriefing\nthis\nweek,\nformer\nNational\nSecurity\nCouncil\nhead\nYaakov\nAmidror\nand\nEran\nLerman,\na\nformer\nsenior\nNSC\nofficial,\nturned\nto\ntwo\nseemingly\nunlikely\nexamples:\nNorth\nKorea\nand\nGoogle.\nNo\nfree\nlunch\nfor\nIsrael\nFirst,\nGoogle.\nThe\nweek’s\nevents\nmade\nit\nclear\nto\neveryone\nin\nIsrael\nthat\nthere\nis\nno\nfree\nlunch.\nUS\nPresident\nDonald\nTrump\n’s\nsupport\nfor\nIsrael\n–\nthe\nsteps\nhe\nhas\ntaken\nacross\nthe\nboard\nover\nthe\nyears\nto\nassist\nthe\ncountry\n–\nis\nnot\nwithout\na\ncost.\nAnd\nthe\ncost\nis\nthat\nhe\ngets\na\nsay,\na\nbig\nsay,\nin\nwhat\nIsrael\ncan\nand\ncannot\ndo.\nUS\nPresident\nDonald\nTrump\nreacts\nas\nremarks\nare\ndelivered\nto\nreporters\nabout\nhis\nadministration's\nsupport\nfor\ncoal\nenergy\nproduction,\namong\nother\ntopics,\nin\nthe\nOval\nOffice\nat\nthe\nWhite\nHouse\nin\nWashington,\nDC,\nUS\nJune\n4,\n2026.\n(credit:\nREUTERS/JONATHAN\nERNST)\nNever\nhas\nIsrael\nhad\na\nmore\nsupportive\npresident\nin\nthe\nWhite\nHouse.\nThat’s\nthe\nupside.\nThe\ndownside?\nNever\nhas\nIsrael\nbeen\nso\ndependent\non\na\nUS\npresident.\nAnd\nthis\nis\nwhere\nGoogle\ncomes\ninto\nplay.\nAmidror\nsaid\nthat\nhe\nhas\ntwo\nfriends\nwith\nstartups\nin\nwhich\nGoogle\ndecided\nto\ninvest.\nBoth\nwelcomed\nthe\npartnership.\nBut\nafter\na\nyear,\nboth\nrealized\nthat\nwhen\nGoogle\nis\nyour\npartner,\nGoogle\nhas\nsomething\nto\nsay\nabout\nhow\nthe\ncompany\nis\nrun.\nAmidror\nsaid\none\nof\nhis\nfriends\ndisliked\nthe\narrangement\nand\ndecided\nto\nsever\nthe\npartnership\nand\ncontinue\non\nhis\nown.\nThe\nother\nchose\nto\nstay\nwith\nGoogle\nand\nfigure\nout\nhow\nto\nwork\nwith\nits\ninput.\n“If\nsomeone\nthinks\nthat\nwhen\nGoogle\nis\nyour\npartner,\nyou\ncan\nneglect\nGoogle,\nI\nthink\nthey\nare\nmaking\na\nbig\nmistake,”\nAmidror\nsaid.\n“But\nyou\nhave\nto\nmake\na\nstrategic\ndecision.\nDo\nyou\nwant\nto\ncontinue\nwith\nGoogle\nand\nhave\nsome\nflexibility\nhere,\nor\ndo\nyou\nsay,\n‘Okay,\nI’ll\ncontinue\nalone\nwithout\nGoogle?’”\nAmidror\nsaid\nthat\nwhen\nhe\nposed\nthat\nquestion\nto\nother\nfriends,\nthey\nall\ngave\nthe\nsame\nanswer.\n“All\nmy\nfriends\ntold\nme\nthat\nif\nthey\nhad\nto\nmake\nthe\ndecision,\nthey\nwould\nstay\nwith\nGoogle.\nThis\nis\nthe\nsituation\nof\nIsrael\ntoday.\nWe\nare\nwith\nGoogle,\nand\nwe\nhave\nto\ntake\ninto\nconsideration\nthat\nGoogle\nis\nour\npartner.”\nThe\nUS,\nto\ncarry\nthe\nmetaphor,\nis\nIsrael’s\nGoogle.\nAs\na\nresult,\nit\nwill\nhave\na\nsay\nin\nhow\nwe\nrun\nour\nstartup.\nAt\ntimes,\nthat\nsmarts.\nAt\ntimes,\nit\nis\nfrustrating.\nAt\ntimes,\nit\nlimits\nyour\nability\nto\nmake\nfully\nindependent\ndecisions.\nBut\nit\nalso\ncarries\nenormous\nbenefits\n–\nbenefits\nthat\nshould\nnot\nbe\noverlooked\nin\na\nmoment\nof\nfrustration\nover\ninterference\nby\nthe\nlarger\npartner.\nKeeping\nthe\nbigger\npicture\nin\nmind\nIT\nIS\nALSO\nimportant\nto\nkeep\nthe\nbigger\npicture\nin\nmind.\nAnd\nwhat\nis\nthe\nbigger\npicture?\nIran’s\nnuclear\ncapabilities.\nPrime\nMinister\nBenjamin\nNetanyahu\noften\nboasts\nthat\nhe\nhas\nbeen\nsounding\nthe\nalarm\nabout\nIran’s\nnuclear\nprogram\nfor\nmore\nthan\n30\nyears.\nAnd\nhe\nhas.\nIt\nhas\nbeen\nhis\ntop\npriority.\nWhen\nhistory\nis\nwritten\na\nhundred\nyears\nfrom\nnow,\none\nof\nthe\ndefining\nelements\nof\nNetanyahu’s\nlegacy\nwill\nbe\nhis\nefforts\nto\nprevent\nIran\nfrom\nobtaining\na\nnuclear\nweapon.\nThat\nremains\nhis\noverriding\npriority.\nHezbollah,\nthe\nHouthis,\nHamas\n–\nall\nof\nthat\nis\nsecondary.\nWhat\nis\nkey,\nwhat\nis\nessential,\nis\npreventing\nIran\nfrom\ngetting\nthe\nbomb.\nThen\nalong\ncomes\nTrump\nand\nsays,\n“I’m\nalmost\nthere.\nI’m\njust\na\nstep\naway\nfrom\ngetting\nthe\nIranians\nto\nconcede\non\nthe\nnuclear\nissue\nin\nnegotiations.\nThe\nmilitary\npressure,\nthe\neconomic\npressure,\nit’s\nhaving\nan\neffect,\nand\nsoon\nthey\nwill\ngive\nit\nup\nin\ntalks.”\nDo\nyou\nbelieve\nhim\n–\na\npresident\nwho\nhas\ndeclared\npeace\nwhere\nthere\nis\nno\npeace,\nvictory\nwhere\nthere\nis\nno\nvictory,\nand\nthe\ndestruction\nof\nIran’s\nmilitary\ncapabilities\nwhen\nthey\nclearly\nstill\npossess\nthem?\nMaybe\nnot.\nBut\nremember:\nhe\nis\nGoogle,\nand\nGoogle\nhas\na\nsay.\nWhy\nNetanyahu\nbends\nto\nTrump's\ndemands\nThis\nis\nwhy\nNetanyahu\ndeferred\nthis\nweek\nto\nTrump’s\nwishes\nand\ndid\nnot\ncarry\nout\nthe\ntype\nof\nattack\nIsrael\nhad\nreportedly\nplanned\nfor\nIran\non\nMonday\nafter\nthe\nIranian\nregime\nfired\n11\nballistic\nmissiles\nat\nIsrael.\nTrump\nsaid\nstop\nshooting,\nand\nIsrael\n–\nand\nIran\n–\nstopped\nshooting.\nWhy?\nTo\ngive\nthose\nnegotiations\na\nchance.\nTrump,\nbeing\nTrump,\ncast\nthis\nin\nterms\nof\nhis\nown\nomnipotence\n–\nat\nleast\nwhen\nit\ncomes\nto\nNetanyahu.\nNetanyahu,\nhe\nhas\nrepeatedly\nsuggested\nover\nthe\nlast\nfew\nweeks\nin\nvarious\nforums\nand\nin\nvarious\nways,\nwill\ndance\nobediently\nto\nhis\ntune.\n“He’s\nfine.\nHe\nwill\ndo\nwhatever\nI\nwant\nhim\nto\ndo.\nHe’s\na\nvery\ngood\nman,”\nTrump\ntold\nreporters\non\nMay\n20.\nOn\nSunday,\nhe\ntold\nthe\nFinancial\nTimes:\n“I\ncall\nall\nthe\nshots.\nHe\ndoesn’t\ncall\nthe\nshots.”\nAnd\non\nTuesday,\nhe\ntold\nthe\nBBC:\n“If\nI\ntell\nhim\nto\ndo\nsomething,\nhe\ndoes\nit.”\nThose\nquotes\nwill\ninevitably\nbe\ntrotted\nout\nby\nNetanyahu’s\npolitical\nopponents\nduring\nthe\nupcoming\nelection\ncampaign\nas\nevidence\nthat\nthe\nprime\nminister\nis\nTrump’s\npoodle\nand\npuppet.\nThe\nwidespread\nassumption,\nat\nleast\nuntil\nrecently,\nwas\nthat\nNetanyahu\nwas\nTrump’s\npreferred\ncandidate.\nIf\nthat\nis\nthe\ncase,\ndoesn’t\nTrump\nrealize\nthat\nremarks\nlike\nthese\ncould\nbe\npolitically\ntoxic?\nPerhaps.\nBut\nTrump,\ntoo,\nhas\ndomestic\npolitical\nconsiderations.\nAccording\nto\nLerman,\nTrump\nhas\nbeen\nstung\nby\naccusations\nfrom\nthe\nTucker\nCarlson\nwing\nof\nthe\nMAGA\nmovement\nthat\nNetanyahu\ndragged\nhim\ninto\nthe\nwar\nwith\nIran.\nComments\nsuch\nas\n“If\nI\ntell\nhim\nto\ndo\nsomething,\nhe\ndoes\nit”\nneed\nto\nbe\nseen\nin\nthe\ncontext\nof\nrebutting\nthe\ncharge,\nincreasingly\ncommon\nin\nsome\nUS\ncircles,\nthat\nthe\nIran\nepisode\nis\na\nclassic\ncase\nof\nthe\ntail\nwagging\nthe\ndog.\nWhile\nLerman\nsaid\nTrump\nhas\nbeen\n“quite\ndecisive”\nin\nshutting\ndown\nthe\nanti-Israel\nand\nantisemitic\nelements\nof\nthe\nMAGA\nlandscape,\nhe\nadded\nthat\nthe\npresident\nis\nnevertheless\n“affected\nby\nthe\nmusic\nand\nhas\nresponded\nto\nit.”\nWhich\nbrings\nus\nto\nNorth\nKorea.\n“One\nof\nthe\nbest\nexamples\nof\nbad\ndiplomacy\nin\nmodern\nhistory\nis\nthe\nsuccess\nof\nNorth\nKorea\nin\nbecoming\na\nnuclear\npower,”\nAmidror\nsaid.\nOne\nreason\nthe\nUS\ndid\nnot\nuse\nforce\nto\nstop\nNorth\nKorea,\nhe\nargued,\nwas\nSouth\nKorea’s\nadamant\nopposition.\nAnd\nwhy\nwas\nSouth\nKorea\nopposed?\nBecause\nof\nthe\nfear\nthat,\nin\nthe\nevent\nof\na\nUS\nattack,\nNorth\nKorea\nwould\nunleash\ndevastating\nforce\nagainst\nSeoul,\nwhich\nsits\nonly\n60\nkm.\nfrom\nthe\nDemilitarized\nZone.\nThe\nNorth\nKoreans\nhave\nthousands\nof\nartillery\npieces\nand\nrocket\nlaunchers\ndug\ninto\nthe\nmountains\nalong\nthe\nborder\nthat,\nSouth\nKoreans\nfeared,\ncould\nbe\nused\nin\na\nmassive\nretaliatory\nbarrage\non\nthe\ncapital.\nSo\nthey\nforcefully\nurged\nthe\nUS\nnot\nto\nstrike.\nIranians\nlearned\n'hostage\nstrategy'\nfrom\nNorth\nKorea\nThe\nIranians\nhave\nlearned\nmore\nfrom\nthe\nNorth\nKoreans\nthan\njust\nhow\nto\nbuild\nmissiles.\nThey\nhave\nalso\nlearned\nthe\nvalue\nof\nthis\n“hostage\nstrategy.”\nIRAN\nIS\neffectively\nholding\nthe\nGulf\nstates\nhostage\nin\nmuch\nthe\nsame\nway\nNorth\nKorea\nheld\nSeoul\nhostage\n–\nnot\nonly\ndeterring\noverwhelming\nAmerican\naction\nbut\nalso\nhelping\npersuade\nWashington\nto\nlimit\nIsrael’s\nattacks.\n“The\nIranians\nare\nslowly\nbuilding\nthis\nsame\ndynamic\nin\nthe\nGulf,”\nAmidror\nsaid.\n“What\nthey\nare\nsaying\nclearly\nis,\n‘If\nyou\ndo\nsomething\nto\nIran,\nwe\nwill\ndestroy\nthe\nGulf\ncountries.’\n“Under\nthe\ntable,\nthese\ncountries\nare\nsaying\nto\nthe\nAmericans:\n‘If\nyou\nare\ngoing\nto\ntake\naction,\ndo\nit\nto\nthe\nend.\nFinish\nthis\nregime.\nDestroy\nits\ncapabilities\ntotally.\nBut\nif\nyou\ndon’t\nfinish\nthe\njob,\ndon’t\nput\nus\n–\nthe\nGulf\ncountries\n–\nin\na\nvery\ndire\nsituation.\nBecause\nif\nyou\ngo\nhalfway,\nat\nthe\nend\nof\nthe\nday\nwe\nwill\npay\nthe\nprice.’”\nThe\nIranians\nhave\nsucceeded\nin\ncreating\na\n“coercive\nsituation”\nin\nthe\nGulf\nbecause\nthe\nAmericans\nare\nnot\nready\nto\ngo\nthe\nextra\nmile\nand\ntotally\ndestroy\nIran’s\ncapabilities,\nAmidror\nsaid.\nLerman,\ntrying\nto\nmake\nsense\nof\nTrump’s\noften\ncontradictory\nrhetoric\n–\none\nday\ntalking\nabout\nobliterating\nIranian\ncivilization,\nthe\nnext\nabout\nmeeting\nthe\nnew\nIranian\nleader\n–\noffered\na\nriff\non\nthe\nwell-known\nsaying\nby\nthe\nancient\nChinese\nstrategist\nSun\nTzu:\n“Know\nthyself\nand\nknow\nthy\nenemy,\nand\nyou\nwill\nnot\nlose\na\nhundred\nbattles.”\nThe\nTrump\nversion,\nhe\nsaid,\nis:\n“If\nyou\ndon’t\nknow\nwhat\nyou’re\ndoing,\nthe\nenemy\ndoesn’t\neither.”\nThat\nsaid,\nLerman\nadded\nthat\nTrump\nhas\nshown\na\ndetermination\nto\nprevent\nIran\nfrom\nbecoming\na\nnuclear\nstate.\nAnd\nthat,\ntoo,\nmay\nstem\nfrom\nNorth\nKorea.\n“The\nexperience\nof\ntrying\nto\nget\nKim\nJong\nUn\nto\ngive\nup\non\nhis\nnuclear\nproject\nduring\nTrump’s\nfirst\nterm\n–\nand\nfailing\n–\nhas\ntaught\nhim\nthat\nthese\nkinds\nof\nregimes\nhave\nto\nbe\nstopped\nbefore\nthey\nhave\nthe\nbomb,”\nhe\nsaid.\n“And\non\nthis,\nI\nthink\nhe’s\nbeen\nvery\nconsistent.\nEither\nthey\nactually\ngive\nhim\nsomething\ndistinctly\nbetter\nthan\nthe\ndeal\n[then-president\nBarack]\nObama\nstruck,\nor\nwe\nmay\ngo\nback\nto\nsquare\none.”\nMeaning,\nback\nto\na\nfull-scale\nwar.\nWhether\nTrump\nis\nright\nabout\nthe\nnegotiations\nis\nanyone’s\nguess.\nWhat\nthis\nweek\ndemonstrated,\nhowever,\nis\nsomething\nelse\nentirely:\nthat\nIsrael’s\nstrategic\ndependence\non\nthe\nUS\nis\nnow\nso\ndeep\nthat\nwhen\nthe\npresident\nsays\nstop,\nIsrael\nstops.\nThat\nmay\nbe\nfrustrating.\nIt\nmay\neven\nbe\nuncomfortable\nand\nhumbling.\nBut,\nas\nAmidror’s\nstart-up\nstory\nillustrated,\nthat\nis\nthe\nprice\nof\nhaving\nGoogle\nas\nyour\npartner.\nSee\nmore\non\nIsrael\n|\nBenjamin\nNetanyahu\n|\nIDF\n|\nIran\n|\nUnited\nStates\n|\nNorth\nKorea\n|\ngoogle\n|\nMiddle\nEast\n|\nDonald\nTrump\nFollow\nus\non\nGoogle",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran war is the worst hit to the global economy since covid, World Bank says - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/06/11/world-bank-says-iran-war-is-worst-hit-global-economy-since-covid/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 11, 2026 · 17:30 BRT",
-      "pub_date": "2026-06-11",
-      "pub_ts": 1781209800,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "El Niño and the Iran war may spark hunger crisis for more than 100 million - The Washington Post",
-      "url": "https://www.washingtonpost.com/climate-environment/2026/06/12/why-iran-war-powerful-el-nio-could-fuel-global-hunger-crisis/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 12, 2026 · 07:32 BRT",
-      "pub_date": "2026-06-12",
-      "pub_ts": 1781260349,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Whipsawed Between Fear and Relief, Iranians Hope for War’s End - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 11, 2026 · 19:10 BRT",
-      "pub_date": "2026-06-11",
-      "pub_ts": 1781215838,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran war adds to AI boom as demand for gas turbines rises further, Siemens Energy says - Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-war-adds-ai-boom-demand-gas-turbines-rises-further-siemens-energy-says-2026-06-11/",
+      "title": "U.S., Iran signal peace deal near as Tehran claims victory - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 11, 2026 · 13:05 BRT",
-      "pub_date": "2026-06-11",
-      "pub_ts": 1781193924,
+      "published": "Jun 12, 2026 · 19:34 BRT",
+      "pub_date": "2026-06-12",
+      "pub_ts": 1781303669,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran peace deal looms, new military action flares near Strait of Hormuz - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 12, 2026 · 22:33 BRT",
+      "pub_date": "2026-06-12",
+      "pub_ts": 1781314380,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "What to Know About the U.S.-Iran Peace Talks - The New York Times",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 12, 2026 · 19:48 BRT",
+      "pub_date": "2026-06-12",
+      "pub_ts": 1781304480,
+      "summary": "U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump's pending Iran deal is bitter pill for Netanyahu - Axios",
+      "url": "https://www.axios.com/2026/06/12/netanyahu-trump-iran-deal-israel-lebanon",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jun 12, 2026 · 19:14 BRT",
+      "pub_date": "2026-06-12",
+      "pub_ts": 1781302496,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -36831,7 +36829,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-12T11:08:35.357457+00:00",
-  "last_watch_time": "2026-06-12T11:08:45.050104+00:00",
-  "last_relevant_time": "2026-06-12T11:08:45.592931+00:00"
+  "last_digest_time": "2026-06-13T11:04:52.880386+00:00",
+  "last_watch_time": "2026-06-13T11:04:58.281949+00:00",
+  "last_relevant_time": "2026-06-13T11:04:58.732959+00:00"
 }

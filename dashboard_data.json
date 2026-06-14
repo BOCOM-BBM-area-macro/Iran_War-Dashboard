@@ -22825,7 +22825,7 @@
       "pub_date": "2026-06-13"
     },
     "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel": {
-      "summary": "",
+      "summary": "U.S. and Iranian officials said final details were still being worked out, but President Trump and Iran’s foreign minister both said they were close to an agreement. Previous potential deals have evaporated at the last minute.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -22872,7 +22872,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-13"
     },
     "https://www.reuters.com/world/middle-east/iran-says-signing-islamabad-memorandum-will-not-take-place-sunday-2026-06-13/": {
       "summary": "",
@@ -23186,11 +23186,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-14"
+    },
+    "https://www.axios.com/2026/06/14/trump-netanyahu-iran-deal-israel-beirut-strike": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-899373": {
+      "summary": "Some 126 people were arrested for \"sabotage operations and rioting\" during the January protests, while four individuals were accused of spying for Israel and the US, Iranian media reported.",
+      "tags": [
+        "Iran",
+        "espionage",
+        "Iran News",
+        "islamic regime",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-14",
-  "last_generated_time": "2026-06-14T13:01:50.406028+00:00",
+  "last_generated_time": "2026-06-14T14:01:50.354588+00:00",
   "digest": {
     "digest": "Recent developments indicate a significant shift towards a potential resolution of the Iran war, with claims of progress in peace negotiations. President Trump announced the cancellation of planned strikes following U.S. airstrikes, citing advancements in diplomatic efforts. Both the U.S. and Iran have been reported to be nearing an agreement, with expectations of an \"electronic\" signing of a deal to end the conflict. Qatari mediators have been actively involved, traveling to Tehran to finalize the terms of a peace agreement. Despite these optimistic reports, Iran has disputed the proposed timeline for signing the deal, suggesting that while progress is being made, the exact timing remains unclear. Concurrently, Iranian media has accused the U.S. of alleged war crimes, citing strikes on water reservoirs that supplied villages and violating international law. Analysis suggests that initial goals set by leaders at the war's outset may have been overly ambitious. Global central banks are monitoring the situation, with the war's impact on inflation and growth remaining a key consideration. The U.S. faces an Iran that appears more resilient to pressure as a potential deal nears finalization.",
     "top_themes": [
@@ -30285,6 +30308,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US consumer sentiment pushes off record lows as gasoline prices ease - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenl0OHVZSjNUQ05QM0FTbnhld3NWZ3k1ZzdPWHU2YVU3OGFxenUyWnBZSzVvZFpCSHNyc0pfWlVEclV6TTNNWDRiTFhJUnlBUlhTSVN3bGREV1pTSnRub2lJZ1ZZbDRDT21MQkgtcDY5TDlGekI3QXl2OWtseWppbzdHWWdOOWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 13:24 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781281483,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China learns to live on less fuel, to the relief of oil markets - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmJmNHk1akxrVzVuRmc0cmxZYkh5anRaOEtSQ0FLTWhfdVlYWXpkbjRNNGxmOWpLM18tdl9WZm1mbUg1bWxPekVLSjZFdm1rUjZDakhIdTN6WG9IS1JnYmw0VnZEeDgyLVRGTlIyd2VrZ09YWHhXN0RVamdjR1NnalpGTHN3bXZFYlJRRVdZY1BaX3BJLUdKZ092eEx0aDg?oc=5",

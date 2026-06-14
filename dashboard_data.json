@@ -21500,7 +21500,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-10"
+      "pub_date": "2026-06-09"
     },
     "https://www.jpost.com/middle-east/iran-news/article-898924": {
       "summary": "According to Adiri, the recent confrontations with Iran are shaping a new reality in the Middle East and forcing Israel to reexamine the limits of the campaign.",
@@ -22411,7 +22411,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-14"
     },
     "https://www.jpost.com/israel-news/politics-and-diplomacy/article-899199": {
       "summary": "This is Likud’s lowest figure since August 2025, when it received 21 seats in a Maariv poll. However, the coalition bloc maintained its strength from last week at 50 seats.",
@@ -22928,10 +22928,13 @@
       "pub_date": "2026-06-13"
     },
     "https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal": {
-      "summary": "",
+      "summary": "For several global central banks, the question of whether the Iran war poses more of an immediate danger to inflation or to growth is likely to remain open in the coming week.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "European Central Bank",
+        "inflation",
+        "Iran",
+        "Unemployment Rate",
+        "Donald John Trump"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -23001,6 +23004,26 @@
         "Gaza",
         "Hezbollah",
         "IDF"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-13"
+    },
+    "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-13"
+    },
+    "https://www.reuters.com/world/asia-pacific/us-iran-inch-closer-deal-timing-remains-unclear-2026-06-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -31494,6 +31517,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Gas Supply Woes Are Delaying Bangladesh’s Industrial Dreams - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlwc3ZMaVpRZXZfc2tzeS1TRE9MZkUzaWx1QmlYa1pRd0NUUEtfWFJHTWJlTUR1WUY5QjNZZlFURGQ2TEY1ejQ1UURkbzJTOU5HNS1DOUlYWF95ZnlEYm8ydUkwMkpDZjg2ZnJKMjBGQUkyTmEtWjFQMUNzM21ic2wzVVhhNWxBOXl0bnBUVS1URHdKaHhsR2VVNjBjTGxYNUxkV1pTOXJCU1JHVkVJ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 11, 2026 · 22:00 BRT",
+          "pub_date": "2026-06-11",
+          "pub_ts": 1781226000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran war is testing the limits of India’s economic resilience - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1F3QklqUGZJTnJGT0lIQkc2dVdJb3hUSGtHS3JqeHBvWlNCcEVJeEMtWGdNcURYd05QNl93b3JYeTdyMEE4Y2xaTnBVbzVXbmUxcHFEMFcyZzFmRmhwZi1IdUVnTHN4MS1CbWNpSl8wTE05clVlcmt2dEh2elJLUDM4VU8?oc=5",

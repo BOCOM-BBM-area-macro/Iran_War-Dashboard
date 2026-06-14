@@ -22872,7 +22872,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-13"
     },
     "https://www.reuters.com/world/middle-east/iran-says-signing-islamabad-memorandum-will-not-take-place-sunday-2026-06-13/": {
       "summary": "",
@@ -23269,11 +23269,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-14"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/irans-deputy-fm-confirms-announcement-of-immediate-and-permanent-end-of-the-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.reuters.com/world/asia-pacific/us-iran-reach-peace-deal-signing-set-friday-pakistan-says-2026-06-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-14",
-  "last_generated_time": "2026-06-14T19:01:51.472619+00:00",
+  "last_generated_time": "2026-06-14T20:01:44.107089+00:00",
   "digest": {
     "digest": "Recent developments indicate a significant shift towards a potential resolution of the Iran war, with claims of progress in peace negotiations. President Trump announced the cancellation of planned strikes following U.S. airstrikes, citing advancements in diplomatic efforts. Both the U.S. and Iran have been reported to be nearing an agreement, with expectations of an \"electronic\" signing of a deal to end the conflict. Qatari mediators have been actively involved, traveling to Tehran to finalize the terms of a peace agreement. Despite these optimistic reports, Iran has disputed the proposed timeline for signing the deal, suggesting that while progress is being made, the exact timing remains unclear. Concurrently, Iranian media has accused the U.S. of alleged war crimes, citing strikes on water reservoirs that supplied villages and violating international law. Analysis suggests that initial goals set by leaders at the war's outset may have been overly ambitious. Global central banks are monitoring the situation, with the war's impact on inflation and growth remaining a key consideration. The U.S. faces an Iran that appears more resilient to pressure as a potential deal nears finalization.",
     "top_themes": [
@@ -23433,6 +23463,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil slips over 4% after US, Iran reach peace deal, reopen Strait of Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 14, 2026 · 19:32 BRT",
+          "pub_date": "2026-06-14",
+          "pub_ts": 1781476340,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why Oil Prices Haven’t Shot Through the Roof—Yet - WSJ",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NvNVpJU29xQjk0RVNqRGVkZzh0TlNGSWo0ODNzT1JwSFJFY1liQVoySU5hN2NVbUNMcWR3Mmh5X2pwWnBIM1ZDaHhtRmV3b1hDcFR1VDhFWVF3emZ5OGQzRG9xbzAwZTJtQ253RmN0SVVBZWx6ai1BZUNmbENrV1dWZ3gxSkFsb196bFNUWG9rNUhqRkxsVGY4cw?oc=5",
@@ -31829,6 +31873,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Qatar pursued secret talks with Iran to shield gas complex from strikes, security officials say - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVng1ZXkzVEtCQVhkc1ZWajNYWmRiYjZ4bWgzRnlKWi1UUmRvSkNHWTdEQzlmQW1zM1dEb1hDVXpheS1mbzdoSkx0empVMkNfLWJ0MnFRSzVSalkxLWFveXJRVldjdzNocmVzMDdCOHlSRmtGRlNBaE9hSnIxZExnZG0xSEtBbnVmbVRubzJiU3h2alNweGl3Yy1keWRONF9veWt5eDRzVWtDSERvamJTWDJ3?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 12, 2026 · 13:01 BRT",
+          "pub_date": "2026-06-12",
+          "pub_ts": 1781280060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gas Supply Woes Are Delaying Bangladesh’s Industrial Dreams - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlwc3ZMaVpRZXZfc2tzeS1TRE9MZkUzaWx1QmlYa1pRd0NUUEtfWFJHTWJlTUR1WUY5QjNZZlFURGQ2TEY1ejQ1UURkbzJTOU5HNS1DOUlYWF95ZnlEYm8ydUkwMkpDZjg2ZnJKMjBGQUkyTmEtWjFQMUNzM21ic2wzVVhhNWxBOXl0bnBUVS1URHdKaHhsR2VVNjBjTGxYNUxkV1pTOXJCU1JHVkVJ?oc=5",

@@ -23064,43 +23064,80 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-14"
+    },
+    "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-13",
-  "last_generated_time": "2026-06-13T23:01:39.795334+00:00",
+  "last_generated_date": "2026-06-14",
+  "last_generated_time": "2026-06-14T08:01:35.170287+00:00",
   "digest": {
-    "digest": "Recent reports indicate that the United States and Iran are nearing a preliminary peace agreement, with both sides signaling that a deal is close. Despite this progress, sticking points, particularly concerning the Strait of Hormuz, remain a significant obstacle. Iran is reportedly claiming victory in these negotiations, suggesting a willingness to withstand further pressure. Concurrently, new military actions have been reported near the Strait of Hormuz, indicating ongoing tensions in the region. In a related development, Donald Trump reportedly informed Benjamin Netanyahu of the pending agreement, a move that caught Netanyahu, who is not directly involved in the US-Iran talks, off guard. Trump has previously stated his intention to end the conflict with Iran. The proximity of this potential deal has been a subject of discussion since March, with Trump repeatedly asserting that the war would conclude soon.",
+    "digest": "Recent developments indicate a significant shift towards a potential resolution of the Iran war, with claims of progress in peace negotiations. President Trump announced the cancellation of planned strikes following U.S. airstrikes, citing advancements in diplomatic efforts. Both the U.S. and Iran have been reported to be nearing an agreement, with expectations of an \"electronic\" signing of a deal to end the conflict. Qatari mediators have been actively involved, traveling to Tehran to finalize the terms of a peace agreement. Despite these optimistic reports, Iran has disputed the proposed timeline for signing the deal, suggesting that while progress is being made, the exact timing remains unclear. Concurrently, Iranian media has accused the U.S. of alleged war crimes, citing strikes on water reservoirs that supplied villages and violating international law. Analysis suggests that initial goals set by leaders at the war's outset may have been overly ambitious. Global central banks are monitoring the situation, with the war's impact on inflation and growth remaining a key consideration. The U.S. faces an Iran that appears more resilient to pressure as a potential deal nears finalization.",
     "top_themes": [
-      "US-Iran Peace Talks",
-      "Strait of Hormuz",
-      "Netanyahu's Reaction"
+      "Iran War Peace Negotiations",
+      "US-Iran Diplomatic Progress",
+      "International Mediation Efforts"
     ],
     "next_events": [
       {
-        "title": "Finalization and Specifics of the US-Iran Peace Deal",
-        "description": "Multiple sources indicate a peace deal is on the cusp of being finalized. Analysts should closely monitor the official announcement and the detailed terms of the preliminary agreement, especially regarding critical areas like the Strait of Hormuz, to understand the immediate implications for regional stability and international relations."
+        "title": "Formalization of the US-Iran Peace Agreement",
+        "description": "Multiple reports indicate an electronic signing of a peace deal is imminent, possibly on Sunday. Analysts should monitor for official confirmation of the agreement, its specific terms, and the immediate reactions from all involved parties, especially regarding the disputed timeline and any potential last-minute hurdles."
       },
       {
-        "title": "Regional Responses to the Peace Agreement",
-        "description": "The impending deal has reportedly caught Israeli Prime Minister Benjamin Netanyahu off guard and is considered a 'bitter pill' for him. It is crucial to observe the reactions and potential counter-actions from Israel and other regional players, as their responses could introduce new dynamics or challenges to the perceived peace."
+        "title": "Outcomes of Post-Deal Technical-Level Talks",
+        "description": "Following the expected signing, technical-level talks are anticipated next week, as mentioned by the Pakistani Prime Minister. It is crucial to observe the scope and success of these discussions, as they will likely address the practical implementation details and potential sticking points of the broader agreement, determining its long-term viability."
       },
       {
-        "title": "Security and Activity in the Strait of Hormuz",
-        "description": "Despite the looming peace deal, reports indicate new military action flaring near the Strait of Hormuz, which remains a key sticking point. Analysts must watch for any continued or escalated military activity in this vital waterway, as it could test the durability of the agreement and signal ongoing friction points."
+        "title": "Ramifications of Iran's War Crimes Allegations",
+        "description": "Iranian media has accused the US of war crimes for striking water reservoirs, violating international law. Analysts should watch whether Iran formally pursues these allegations in international forums or if they become a point of contention in post-deal negotiations, potentially complicating the peace process or future relations."
+      },
+      {
+        "title": "Israel's Strategic Adjustments and Regional Stability",
+        "description": "The impending peace deal is noted as not solving all of Israel's problems, suggesting continued regional tensions. Analysts should monitor Israel's official reaction to the agreement and any subsequent strategic adjustments, as these will be critical indicators of broader stability in the Middle East and potential future flashpoints."
+      },
+      {
+        "title": "Global Economic Impact and Central Bank Responses",
+        "description": "The Iran war has significantly impacted global central banks, raising concerns about inflation and growth. Analysts should observe how global markets and central banks react to the formalization of peace or any lingering uncertainties, assessing the implications for energy prices, supply chains, and monetary policy decisions worldwide."
       }
     ]
   },
   "relevant_news": [
+    {
+      "title": "U.S., Iran expected to \"electronically\" sign agreement to end war Sunday - Axios",
+      "url": "https://www.axios.com/2026/06/13/us-iran-deal-pakistan-signing",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jun 13, 2026 · 22:17 BRT",
+      "pub_date": "2026-06-13",
+      "pub_ts": 1781399855,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "How the U.S. and Iran Turned From Renewed War to the Cusp of Peace - WSJ",
       "url": "https://www.wsj.com/world/middle-east/iran-war-peace-talks-what-happened-d033900f",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 13, 2026 · 02:27 BRT",
+      "published": "Jun 13, 2026 · 15:31 BRT",
       "pub_date": "2026-06-13",
-      "pub_ts": 1781328420,
+      "pub_ts": 1781375460,
       "summary": "",
       "tags": [
         "extracted",
@@ -23112,33 +23149,56 @@
       "sentiment_success": false
     },
     {
-      "title": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 13, 2026 · 06:02 BRT",
+      "title": "Qatari mediators fly to Tehran to finalize deal, end Iran war - The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-899301",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jun 14, 2026 · 04:37 BRT",
+      "pub_date": "2026-06-14",
+      "pub_ts": 1781422642,
+      "summary": "Pakistan is now preparing for an electronic signing expected within the next 24 hours, followed by technical-level talks next week, according to Pakistani Prime Minister Shehbaz Sharif.",
+      "tags": [
+        "Qatar",
+        "Iran Deal",
+        "iran negotiations",
+        "Iran US Conflict",
+        "us iran"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US accused of alleged war crimes in recent strikes by Iranian media - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-899274",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jun 13, 2026 · 20:50 BRT",
       "pub_date": "2026-06-13",
-      "pub_ts": 1781341333,
-      "summary": "",
+      "pub_ts": 1781394601,
+      "summary": "Iran accused the US of striking reservoirs that supplied drinking water to 10 villages and violating international law.",
       "tags": [
-        "extracted",
-        "nytimes.com"
+        "Iran",
+        "strike",
+        "war crimes",
+        "Israel Iran War",
+        "Geneva conventions"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "U.S., Iran signal peace deal near as Tehran claims victory - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/",
+      "title": "US, Iran inch closer to deal, Trump says Sunday but timing remains unclear - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-iran-inch-closer-deal-timing-remains-unclear-2026-06-14/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 12, 2026 · 19:34 BRT",
-      "pub_date": "2026-06-12",
-      "pub_ts": 1781303669,
+      "published": "Jun 13, 2026 · 22:53 BRT",
+      "pub_date": "2026-06-13",
+      "pub_ts": 1781401980,
       "summary": "",
       "tags": [
         "extracted",
@@ -23150,59 +23210,24 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran peace deal looms, new military action flares near Strait of Hormuz - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 12, 2026 · 22:33 BRT",
-      "pub_date": "2026-06-12",
-      "pub_ts": 1781314380,
-      "summary": "",
+      "title": "Fed and BOE Stay Guarded After 100 Days of Iran War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 13, 2026 · 17:00 BRT",
+      "pub_date": "2026-06-13",
+      "pub_ts": 1781380800,
+      "summary": "For several global central banks, the question of whether the Iran war poses more of an immediate danger to inflation or to growth is likely to remain open in the coming week.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "European Central Bank",
+        "inflation",
+        "Iran",
+        "Unemployment Rate",
+        "Donald John Trump"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "What to Know About the U.S.-Iran Peace Talks - The New York Times",
-      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 12, 2026 · 19:48 BRT",
-      "pub_date": "2026-06-12",
-      "pub_ts": 1781304480,
-      "summary": "U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump's pending Iran deal is bitter pill for Netanyahu - Axios",
-      "url": "https://www.axios.com/2026/06/12/netanyahu-trump-iran-deal-israel-lebanon",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Jun 12, 2026 · 19:14 BRT",
-      "pub_date": "2026-06-12",
-      "pub_ts": 1781302496,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -37176,7 +37201,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-13T11:04:52.880386+00:00",
-  "last_watch_time": "2026-06-13T11:04:58.281949+00:00",
-  "last_relevant_time": "2026-06-13T11:04:58.732959+00:00"
+  "last_digest_time": "2026-06-14T11:03:49.647739+00:00",
+  "last_watch_time": "2026-06-14T11:03:58.996244+00:00",
+  "last_relevant_time": "2026-06-14T11:03:59.478682+00:00"
 }

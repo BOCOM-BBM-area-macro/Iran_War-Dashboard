@@ -22769,7 +22769,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-12"
     },
     "https://www.timesofisrael.com/iran-mou-would-cap-self-defeating-ceasefire-for-trump-marks-huge-problem-for-israel/": {
       "summary": "As US president waxes optimistic about chances for a 60-day deal with Tehran, Netanyahu seems unsure of how to react. Spinning this as victory before the elections won't be easy",
@@ -23028,6 +23028,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-13"
+    },
+    "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-11"
     }
   },
   "last_run_success": true,

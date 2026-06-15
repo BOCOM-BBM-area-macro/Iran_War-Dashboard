@@ -23251,7 +23251,7 @@
       "pub_date": "2026-06-14"
     },
     "https://www.nytimes.com/2026/06/14/world/world-cup-iran-lebanon-trump-birthday.html": {
-      "summary": "",
+      "summary": "The Iranian government has always used the national team to project soft power. That puts players and fans who oppose the regime in a tough spot.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -23299,11 +23299,71 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-14"
+    },
+    "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html": {
+      "summary": "In a call to The New York Times, President Trump praised Russia and China’s leaders and described Israel’s prime minister as “a very difficult guy.”",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-14/pakistan-says-us-and-iran-have-reached-a-peace-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.cbc.ca/news/world/us-iran-peace-deal-9.7235112": {
+      "summary": "The United States and Iran have reached a deal to end their war, U.S. President Donald Trump and Pakistani Prime Minister Shehbaz Sharif posted on Sunday.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.axios.com/2026/06/14/oil-prices-us-iran-war-hormuz-strait-peace-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-14/us-futures-climb-oil-falls-on-iran-peace-deal-markets-wrap": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-14",
-  "last_generated_time": "2026-06-14T20:01:44.107089+00:00",
+  "last_generated_time": "2026-06-14T21:01:46.181227+00:00",
   "digest": {
     "digest": "Recent developments indicate a significant shift towards a potential resolution of the Iran war, with claims of progress in peace negotiations. President Trump announced the cancellation of planned strikes following U.S. airstrikes, citing advancements in diplomatic efforts. Both the U.S. and Iran have been reported to be nearing an agreement, with expectations of an \"electronic\" signing of a deal to end the conflict. Qatari mediators have been actively involved, traveling to Tehran to finalize the terms of a peace agreement. Despite these optimistic reports, Iran has disputed the proposed timeline for signing the deal, suggesting that while progress is being made, the exact timing remains unclear. Concurrently, Iranian media has accused the U.S. of alleged war crimes, citing strikes on water reservoirs that supplied villages and violating international law. Analysis suggests that initial goals set by leaders at the war's outset may have been overly ambitious. Global central banks are monitoring the situation, with the war's impact on inflation and growth remaining a key consideration. The U.S. faces an Iran that appears more resilient to pressure as a potential deal nears finalization.",
     "top_themes": [
@@ -23463,6 +23523,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices fall on US, Iran deal announcement - Axios",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNallCNE9mRXY2dXF1dW92bDNUMmNqUUtoWUlEc19nUVJUT0FMLWpEM3ZteFk3d2VUVTV4VlotMks0YVhSV0hTdm9kU3c1QlhaRFdyUEVUZXFjdGpaYzZ5Wk5BMW84Zm1wQUhzUU1YOVNPUzMySnVQU2VLWHRneF8wMGJZb2pSY0E?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 14, 2026 · 20:15 BRT",
+          "pub_date": "2026-06-14",
+          "pub_ts": 1781478944,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil slips over 4% after US, Iran reach peace deal, reopen Strait of Hormuz - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5",

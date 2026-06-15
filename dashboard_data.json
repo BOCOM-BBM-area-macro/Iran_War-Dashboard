@@ -22799,7 +22799,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-13"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -23251,7 +23251,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-15"
     },
     "https://www.nytimes.com/2026/06/14/world/world-cup-iran-lebanon-trump-birthday.html": {
       "summary": "The Iranian government has always used the national team to project soft power. That puts players and fans who oppose the regime in a tough spot.",
@@ -23472,6 +23472,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-15"
+    },
+    "https://www.ft.com/content/3bc9f664-dcad-4c2e-b745-91bb4e0fa934?syn-25a6b1a6=1": {
+      "summary": "Agreement will extend ceasefire by 60 days, reopen the Strait of Hormuz and begin nuclear negotiations",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
     }
   },
   "last_run_success": true,
@@ -23645,6 +23655,20 @@
           "published": "Jun 15, 2026 · 02:26 BRT",
           "pub_date": "2026-06-15",
           "pub_ts": 1781501160,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump veers toward exit in Iran war but risks loom - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEZVelNtYmlvYmYzR3RtY1ViZ0EzNzU2LTdEcjctWGo0WnhBejRXVG5aVXNBT2VGQWdwWHhNdW90djhTV0VHN0FmcmZjZVJSYThHVzhPcTJ6TDlEdV9NSElZbk9fVWNEN3VlazRLeWtTaXEwb3Z4M1VMeTRTOGRCMWJ3MFByc1dmamxmVklVWVRYUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 14, 2026 · 22:41 BRT",
+          "pub_date": "2026-06-14",
+          "pub_ts": 1781487660,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

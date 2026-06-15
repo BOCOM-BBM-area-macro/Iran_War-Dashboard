@@ -23017,7 +23017,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-15"
     },
     "https://www.reuters.com/world/asia-pacific/us-iran-inch-closer-deal-timing-remains-unclear-2026-06-14/": {
       "summary": "",
@@ -23828,11 +23828,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-15"
+    },
+    "https://www.wsj.com/world/middle-east/what-iran-and-the-u-s-are-saying-about-their-deal-f7796213": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-15",
-  "last_generated_time": "2026-06-15T19:01:59.914043+00:00",
+  "last_generated_time": "2026-06-15T20:01:59.813437+00:00",
   "digest": {
     "digest": "A preliminary agreement has been reached between the United States and Iran to end the ongoing conflict, with a formal signing anticipated for Friday. This development follows a weekslong war that commenced on February 28th, initiated by attacks from the United States and Israel against Iran, and which subsequently spread to neighboring countries, significantly impacting global markets. The reported terms of the deal include the reopening of the Strait of Hormuz to shipping, a critical chokepoint for global oil trade, and the release of $12 billion to Iran. While the agreement aims to de-escalate tensions, particularly in light of recent Israel-Iran friction, Israel was reportedly not involved in the direct negotiations. President Trump has indicated that the Strait will be \"permanently toll-free\" under the agreement and has also suggested that attacks could resume if a nuclear accord is not reached. The news of the impending peace deal has led to a significant drop in oil prices and a surge in stock markets, although inflation concerns continue to influence market sentiment. Many Iranians have expressed relief over the prospect of an end to the war, while the deal itself represents a shift in U.S. strategy, moving from a focus on regime change to securing the reopening of the Strait of Hormuz. The agreement is also being viewed in the context of broader geopolitical dynamics, with Russia and China's leaders being praised by President Trump, and concerns about looming tariff threats from the G7 leaders.",
     "top_themes": [
@@ -31010,6 +31030,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Worst of US Inflation May Be Over If Iran Peace Deal Sticks - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0lvbm13SWFEb3dUNkg1YkJ0Q1RGVmZFa2FMS1RyM2hNR0hrWk5UbUducUNaMXlXdDNBVXFZcm1LamxxeS1XdmdERnlCTnBQc3Ffa29iSGpvc3h4c1YtdEd3V3I4aE1sZEg5bGU3ZEFSbFZUTDFRbUsxZnFpU0pRV0pRWHAzY0JWeHJmRDB3M25ETkJmUTRkU0t4cjROaDRia21VcTVINjFBTlpieThB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 17:22 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781554934,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US consumer sentiment pushes off record lows as gasoline prices ease - Reuters",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenl0OHVZSjNUQ05QM0FTbnhld3NWZ3k1ZzdPWHU2YVU3OGFxenUyWnBZSzVvZFpCSHNyc0pfWlVEclV6TTNNWDRiTFhJUnlBUlhTSVN3bGREV1pTSnRub2lJZ1ZZbDRDT21MQkgtcDY5TDlGekI3QXl2OWtseWppbzdHWWdOOWc?oc=5",

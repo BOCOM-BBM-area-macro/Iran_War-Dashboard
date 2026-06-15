@@ -23705,11 +23705,54 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-15"
+    },
+    "https://www.wsj.com/economy/central-banking/impact-of-iran-war-to-persist-despite-deal-offering-hope-for-peace-ecbs-nagel-says-614fe1ff": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.nytimes.com/video/world/middleeast/100000010967531/us-iran-deal-iranians-reaction.html": {
+      "summary": "People in Tehran expressed cautious optimism, as well as mistrust, over a preliminary deal between the United States and Iran that could pave the way toward a final peace agreement.",
+      "tags": [
+        "US and Israeli Attack on Iran",
+        "Peace Process",
+        "Tehran",
+        "US Foreign Policy",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-15",
-  "last_generated_time": "2026-06-15T13:02:13.908772+00:00",
+  "last_generated_time": "2026-06-15T14:02:02.410343+00:00",
   "digest": {
     "digest": "A preliminary agreement has been reached between the United States and Iran to end the ongoing conflict, with a formal signing anticipated for Friday. This development follows a weekslong war that commenced on February 28th, initiated by attacks from the United States and Israel against Iran, and which subsequently spread to neighboring countries, significantly impacting global markets. The reported terms of the deal include the reopening of the Strait of Hormuz to shipping, a critical chokepoint for global oil trade, and the release of $12 billion to Iran. While the agreement aims to de-escalate tensions, particularly in light of recent Israel-Iran friction, Israel was reportedly not involved in the direct negotiations. President Trump has indicated that the Strait will be \"permanently toll-free\" under the agreement and has also suggested that attacks could resume if a nuclear accord is not reached. The news of the impending peace deal has led to a significant drop in oil prices and a surge in stock markets, although inflation concerns continue to influence market sentiment. Many Iranians have expressed relief over the prospect of an end to the war, while the deal itself represents a shift in U.S. strategy, moving from a focus on regime change to securing the reopening of the Strait of Hormuz. The agreement is also being viewed in the context of broader geopolitical dynamics, with Russia and China's leaders being praised by President Trump, and concerns about looming tariff threats from the G7 leaders.",
     "top_themes": [
@@ -32357,6 +32400,20 @@
           "published": "Jun 14, 2026 · 23:29 BRT",
           "pub_date": "2026-06-14",
           "pub_ts": 1781490584,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTy1SZzdFMnRlYnc5V0k1Z0RMd3pfRUtPNlBGVjUxbzZ1Z2txOEJnbFdvdGtiYTlNVzBDUVJFblljUWI2S1JsOThucHIxWk5UR0FiOFp1a0F1Q2VXblNURkVMX1lsOGlOMl9FVEUtN0h5YW1FSHFTdENINktsbk1zRC1naVdvak9aX2RKRkdQM1ZQb3dZMlpjNGZBN3ZVWGdicVpyNnVqS1dzOGQ1X191YUprR0s5c1FUSWtxaGdaTDBVMjlqVnBIOHRFM0lfaUM5ME1Tdmx1dGhZd0dHMV9F?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 14, 2026 · 21:45 BRT",
+          "pub_date": "2026-06-14",
+          "pub_ts": 1781484320,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

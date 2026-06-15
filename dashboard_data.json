@@ -2399,7 +2399,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-05-23"
+      "pub_date": "2026-06-14"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html": {
       "summary": "",
@@ -22799,7 +22799,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-12"
+      "pub_date": "2026-06-13"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -23017,7 +23017,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-13"
     },
     "https://www.reuters.com/world/asia-pacific/us-iran-inch-closer-deal-timing-remains-unclear-2026-06-14/": {
       "summary": "",
@@ -23398,6 +23398,16 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-14"
+    },
+    "https://www.cbc.ca/news/world/iran-us-war-agreement-mou-9.7235197": {
+      "summary": "U.S. President Donald Trump and senior Iranian officials say they have reached a memorandum of understanding to bring an end to the war pitting the United States and Israel against Iran. Here's what we know about the deal so far.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -31990,6 +32000,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "A tentative deal is reached to end the Iran war and Trump orders a stop to the US naval blockade - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMENXdWdJd3BHM1V6YXNmdXVRekRvOWxJMTRYUXA4WEZzUjdaYWdpbmltRmtUckdnTWZMdEt1UzQ0VHR3V21XZko2eXZkS2lsdmFvNWRVOHdpWndSWERWN2xzWWQzOUdER0xGMlQwaF9VYU14WWk3TExXTFhwWnFHbURmQ0V3MEJfMVNnX2RvblRaTFQyX0tJUkltQmt6R0w3LWE5QTlXUFhxR1pPaUVqbkgwaEItMEdvMF90Ymw1VQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 14, 2026 · 23:29 BRT",
+          "pub_date": "2026-06-14",
+          "pub_ts": 1781490584,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Qatar pursued secret talks with Iran to shield gas complex from strikes, security officials say - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVng1ZXkzVEtCQVhkc1ZWajNYWmRiYjZ4bWgzRnlKWi1UUmRvSkNHWTdEQzlmQW1zM1dEb1hDVXpheS1mbzdoSkx0empVMkNfLWJ0MnFRSzVSalkxLWFveXJRVldjdzNocmVzMDdCOHlSRmtGRlNBaE9hSnIxZExnZG0xSEtBbnVmbVRubzJiU3h2alNweGl3Yy1keWRONF9veWt5eDRzVWtDSERvamJTWDJ3?oc=5",

@@ -23672,11 +23672,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-15"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-899430": {
+      "summary": "Iranian source: 'We are all shocked...They can’t believe they made the deal' • Concern that Islamic regime and its proxies see US deal as a victory, source stresses",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "Iran Deal",
+        "islamic regime"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-15/imf-says-still-on-high-alert-for-war-impact-after-iran-us-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-strait-weapons-israel.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-15",
-  "last_generated_time": "2026-06-15T12:02:17.046589+00:00",
+  "last_generated_time": "2026-06-15T13:02:13.908772+00:00",
   "digest": {
     "digest": "A preliminary agreement has been reached between the United States and Iran to end the ongoing conflict, with a formal signing anticipated for Friday. This development follows a weekslong war that commenced on February 28th, initiated by attacks from the United States and Israel against Iran, and which subsequently spread to neighboring countries, significantly impacting global markets. The reported terms of the deal include the reopening of the Strait of Hormuz to shipping, a critical chokepoint for global oil trade, and the release of $12 billion to Iran. While the agreement aims to de-escalate tensions, particularly in light of recent Israel-Iran friction, Israel was reportedly not involved in the direct negotiations. President Trump has indicated that the Strait will be \"permanently toll-free\" under the agreement and has also suggested that attacks could resume if a nuclear accord is not reached. The news of the impending peace deal has led to a significant drop in oil prices and a surge in stock markets, although inflation concerns continue to influence market sentiment. Many Iranians have expressed relief over the prospect of an end to the war, while the deal itself represents a shift in U.S. strategy, moving from a focus on regime change to securing the reopening of the Strait of Hormuz. The agreement is also being viewed in the context of broader geopolitical dynamics, with Russia and China's leaders being praised by President Trump, and concerns about looming tariff threats from the G7 leaders.",
     "top_themes": [
@@ -23835,6 +23868,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "U.S. and Iran Reach Framework for Peace - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MUHZ0QlhoQWdnbmJYZHBITkxyWmlrNVFMMTBRUzY3T2FyODc3RDFfRXFtYVZoZUYtRzRaYUo2WlBrbWhLS0dEOWU0eWM4WUw1Q1JLWUlhU0s3MGVQTUl5ZG1rYVFXeUV3dXdCQV95eHo?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 11:59 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781535540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Stocks leap worldwide, and oil prices drop after the US and Iran reach a tentative deal on their war - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONkx6YzJxWmNrLVFfNjV2dG9jX0Z3bVB5SGFjNUx3TVRGZXJ1NlhURWNCam5kTzU3dWJ2UVAtTHN3eDh5OFplZVJseDY3T2JZV2hyZ1N1ZUE5SHE1akJ4T0oxVkNadkhieVRSazVGRTUyXzJTdGFhLWNRa0pCb2JoODNsclJrbHlRcnVSdk1rUk5SUTIzNC1kal9xQ1hlODFPdGlTbHJJNGVadXpHSEQ0RUdxcDRuM2tOaHo1aXB0aWNWQXNSOENpLTZvSjdSZw?oc=5",

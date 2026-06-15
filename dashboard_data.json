@@ -23017,7 +23017,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-14"
     },
     "https://www.reuters.com/world/asia-pacific/us-iran-inch-closer-deal-timing-remains-unclear-2026-06-14/": {
       "summary": "",
@@ -23612,11 +23612,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-15"
+    },
+    "https://www.reuters.com/world/middle-east/vance-says-he-hopes-release-text-agreement-halt-war-iran-this-week-2026-06-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.ft.com/content/306284ac-0551-4c36-8299-cfd7fb7f4f52?syn-25a6b1a6=1": {
+      "summary": "Conflict has split Republican Party and left Americans facing higher prices with no clear sense of victory",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.nytimes.com/2026/06/15/briefing/a-deal-in-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-15",
-  "last_generated_time": "2026-06-15T10:02:09.390545+00:00",
+  "last_generated_time": "2026-06-15T11:02:06.697725+00:00",
   "digest": {
     "digest": "A preliminary agreement has been reached between the United States and Iran to end the ongoing conflict, with a formal signing anticipated for Friday. This development follows a weekslong war that commenced on February 28th, initiated by attacks from the United States and Israel against Iran, and which subsequently spread to neighboring countries, significantly impacting global markets. The reported terms of the deal include the reopening of the Strait of Hormuz to shipping, a critical chokepoint for global oil trade, and the release of $12 billion to Iran. While the agreement aims to de-escalate tensions, particularly in light of recent Israel-Iran friction, Israel was reportedly not involved in the direct negotiations. President Trump has indicated that the Strait will be \"permanently toll-free\" under the agreement and has also suggested that attacks could resume if a nuclear accord is not reached. The news of the impending peace deal has led to a significant drop in oil prices and a surge in stock markets, although inflation concerns continue to influence market sentiment. Many Iranians have expressed relief over the prospect of an end to the war, while the deal itself represents a shift in U.S. strategy, moving from a focus on regime change to securing the reopening of the Strait of Hormuz. The agreement is also being viewed in the context of broader geopolitical dynamics, with Russia and China's leaders being praised by President Trump, and concerns about looming tariff threats from the G7 leaders.",
     "top_themes": [
@@ -23775,6 +23805,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Stocks leap worldwide, and oil prices drop after the US and Iran reach a tentative deal on their war - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONkx6YzJxWmNrLVFfNjV2dG9jX0Z3bVB5SGFjNUx3TVRGZXJ1NlhURWNCam5kTzU3dWJ2UVAtTHN3eDh5OFplZVJseDY3T2JZV2hyZ1N1ZUE5SHE1akJ4T0oxVkNadkhieVRSazVGRTUyXzJTdGFhLWNRa0pCb2JoODNsclJrbHlRcnVSdk1rUk5SUTIzNC1kal9xQ1hlODFPdGlTbHJJNGVadXpHSEQ0RUdxcDRuM2tOaHo1aXB0aWNWQXNSOENpLTZvSjdSZw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 10:45 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781531108,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran, US agree to halt war and reopen Hormuz, sending oil prices tumbling - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmEtalo0LU0tcVFDaV9MWHlZSVZYQnhla0d1eF9uR0hmVGlnX29sMWVHckNwbDV2cVBVYnpTMEFDVFJJcnlybm5jUGk1UURjTmdGdzEtUlVmSmVNYUdkY3FpV3c5U3BDb2ctVnFiSkRYMFRIaVNRSFd1NnNjbmNnT0h3ZjZDeERwQTBXSzh5bDJXV21WX0gwcGZraG02ZHdNdURNT0Q1dG1QaWVvdV9VNm1HTFE3MEU3SEs4?oc=5",

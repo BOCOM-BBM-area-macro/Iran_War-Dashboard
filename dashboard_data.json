@@ -22799,7 +22799,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-14"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -23482,6 +23482,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-14"
+    },
+    "https://www.bloomberg.com/news/videos/2026-06-15/us-and-iran-agree-to-halt-near-four-month-war-video?srnd=homepage-americas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
     }
   },
   "last_run_success": true,

@@ -2399,7 +2399,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-14"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html": {
       "summary": "",
@@ -24021,6 +24021,56 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.washingtonpost.com/business/2026/06/17/iran-had-healthy-oil-sales-through-months-war-thanks-higher-prices/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/16/trump-iran-deal-followed-pressure-supporters-who-questioned-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/world/europe/europe-strait-of-hormuz-iran-security.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.reuters.com/business/reckitt-ceo-expects-delayed-inflation-impact-iran-war-2026-06-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,
@@ -24184,6 +24234,48 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Continue to Fall as Traders Assess U.S.-Iran Deal - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YUU1Fa0VsMTg4YTYzdDZxdzdoYnRTSnlfX3F3Y2Jkd3J6eXhCWWpybm1kTl9NTVBkeFc3UHlJckhkdjFoVFFtWHdPTWs0YlVpWTJkTlJEYlNtX2w4aDVvZEVLc1d4S2hxdS1YRV9OTks0dVFYSDRz?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 06:23 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781601830,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran’s oil lifeline outlasted the U.S. assault, strengthening its hand - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVYxYVpKVF9Hbnl6OGxSU3dGVlU3UzFLSUlXYzJKaGtaeGZPb3VxSXJ4UFdJS25wSUdmYTd0UG5MNEdNWkk0LS1PeHE0RGM3My1Yemd0RThieVY5S0FmalFHNTZyMFkzQ2NxOThVdU9LeG5IVzV1ZEJ6dmNVR0R3R3lyUElCY0g1ZFJYVEY5TTNULW0yZ3NtOS1JbEFKdEo0NG1aeVdBQ19sX1pEMmFNeERmTFpjR1Rtbnc?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 06:01 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781600508,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The Iran War Permanently Altered the Global Economy - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWd1WlVlcTRuWllUZjVGM0EzbjZ6Z0RkOW1DUTludjJuMGJoSW9hVG1XREtsNDhsUFdXa0dvZGtIM2JLa1g0dlR6TnJQUC1PR2d5aks0RTZ0bkk3S01KWTFfU1BlOGhjR1M4Nmd3cXdrdEh1bVJaeF90andzeWlNTg?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 06:01 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781600466,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "What the US-Iran Peace Deal Means for the Strait of Hormuz, Oil and Shipping - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHRmNWg1aTJmMzUtbzA2X3dhNVhES1pYMDlHQlRxcXZLUklJVEE3WV9CUU83eFpWT25oZk10TFJTY0NUU3FOVl9YNGYtNDV0UnVGUXNLTERmSjVOWVBfODJReEdRWlo0NnBpN3RxRk94VUNxbFlCVi1NU29Xci1QaHVxSGhIbFFKajh2a3EzR05XbWFQc0c2NlFIRjhUVTdGOHFSd0xlczMxS2sya09GOGtsaHo0UzExWVJ4N2dpdk1ZWUNHNmxpMmVB?oc=5",

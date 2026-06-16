@@ -23907,7 +23907,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-16"
     },
     "https://www.nytimes.com/2026/06/15/world/middleeast/senate-iran-deal-trump.html": {
       "summary": "",
@@ -23984,6 +23984,39 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/live/2026/06/03/us/trump-administration-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-899564": {
+      "summary": "This statistic would mean that Israeli satellites were taking well over 1,000 photos per day of the Islamic Republic during the war.",
+      "tags": [
+        "Israel Iran War",
+        "us iran",
+        "us israel iran",
+        "intelligence",
+        "Satellite"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -23907,7 +23907,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-16"
+      "pub_date": "2026-06-15"
     },
     "https://www.nytimes.com/2026/06/15/world/middleeast/senate-iran-deal-trump.html": {
       "summary": "",
@@ -23974,6 +23974,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-16/sudan-ditches-iran-weapons-courting-us-support-for-ending-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -32789,6 +32799,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "How has India dealt with the economic hit from the Iran war? - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTVyaTdPVVJJN1I4N1JJVEpiM3hhcHpxYWhoRmFGdVpwUG44OFVDQk1zSkN1dURhT18zS1ZNSElJbk52YmF0YVprczl0M1pCa0xqMEtCOEptRTVDY1YwUHlibFNnTDNOMW9vQjFQNDhVRjJWV0tVY0pTcjJ3a0c1dU1WdzU?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 22:31 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781573461,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Potential End of War Tests Trump’s Promise of Quick Economic Rebound - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3JnSmtpR1FTZzNBeDVXaklFRzVfLS1PamYzX3ZfQ0g1ZTBkbEhwZ1J1V3VFX3lLV29jcGJVSngwcEg1dEhmM2ZCZk41WVhzZm5tS1RuM3ptNDlOSHYxUXV6Y2dZZmZMdm1JU3pxdlJNUHMzak9aaEhJdUlJdGllZmJ3Yl9mX3QxSHl0Y3NSbk1tQQ?oc=5",

@@ -23591,7 +23591,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-16"
     },
     "https://www.reuters.com/world/middle-east/gulf-recalibrates-iran-emerges-intact-war-2026-06-15/": {
       "summary": "",
@@ -23887,7 +23887,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-16"
     },
     "https://www.bloomberg.com/news/newsletters/2026-06-15/trump-s-iran-war-deal-raises-2015-obama-accord-comparisons": {
       "summary": "",
@@ -23918,6 +23918,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-15"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-06-16/iran-war-china-now-has-a-powerful-new-oil-price-weapon": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,
@@ -24081,6 +24091,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "After Iran, China Has a Powerful New Oil Price Weapon - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzlfZHY0T3R5T1pVXzJZcTNXMUxGejZaVFdoLXM1R0xRN2Fxb2JJMG9sNHVrdXlqS0Z3S0N4REdieTNYUlJzVnAyZDRBWERQZnZSSzFuQWxkZk0tZE1PSEJfZFlNaXQtLVhRVmhMN2ozeGhXZW5Wb0NWeTFlWXRyVkJhNVVOYlpXSVZzUmRDU2Z1UHRWYlhOSjZNVjZCNWNRNjMtZVVBQ1NKSTdy?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 00:00 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781578800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Is the Iran war just an energy shock - or a turning point? - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FRWE5MTXBpNWRsVmZGc0ZLUS1nbG56MXVZeEU2SlBqN2Z4VTVmNmlyRzF6TW96SlpfZkZXdFlycmFHalhaMy1OckdpajR2end5OXAzVUNzRTFaQURzQmw4ZWN5LVgweXVGRnB1ZndRREdOSl9NMFNJQjZoOXc5ZXliX0tpNENwVktxVU5kWTJRaTZTckhvMHc3ak1NTDF0OHNDZ3JrWEEyUkFQWm1LNmV4dFlLQS1Semc?oc=5",

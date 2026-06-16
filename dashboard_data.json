@@ -22799,7 +22799,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-14"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -23878,11 +23878,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-15"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/15/trump-claims-victory-over-iran-deal-is-silent-nuclear-weapons/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-06-15/trump-s-iran-war-deal-raises-2015-obama-accord-comparisons": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-15",
-  "last_generated_time": "2026-06-15T21:02:09.774496+00:00",
+  "last_generated_time": "2026-06-15T22:02:11.196313+00:00",
   "digest": {
     "digest": "A preliminary agreement has been reached between the United States and Iran to end the ongoing conflict, with a formal signing anticipated for Friday. This development follows a weekslong war that commenced on February 28th, initiated by attacks from the United States and Israel against Iran, and which subsequently spread to neighboring countries, significantly impacting global markets. The reported terms of the deal include the reopening of the Strait of Hormuz to shipping, a critical chokepoint for global oil trade, and the release of $12 billion to Iran. While the agreement aims to de-escalate tensions, particularly in light of recent Israel-Iran friction, Israel was reportedly not involved in the direct negotiations. President Trump has indicated that the Strait will be \"permanently toll-free\" under the agreement and has also suggested that attacks could resume if a nuclear accord is not reached. The news of the impending peace deal has led to a significant drop in oil prices and a surge in stock markets, although inflation concerns continue to influence market sentiment. Many Iranians have expressed relief over the prospect of an end to the war, while the deal itself represents a shift in U.S. strategy, moving from a focus on regime change to securing the reopening of the Strait of Hormuz. The agreement is also being viewed in the context of broader geopolitical dynamics, with Russia and China's leaders being praised by President Trump, and concerns about looming tariff threats from the G7 leaders.",
     "top_themes": [
@@ -24042,6 +24062,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Trump allies raise alarm as energy inflation overpowers his economic policies - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVkVZem40VUZkMm9HclNscnp4a1NZSWoycXN3TjIwQ3dnT0F3U0lwbkpHNlN0cXN0LUljNmN3ZlJQYmVxTjdlSzNBNzFvdkZFd2dUWjdlV3A5MEdCdE5FdXhLTHg1NTZzS0NiWWVYbGxiejBXZTZNSndnUTl4SlE0dXNjOVBHakttWFdQZ1VsYldpdXJqYUlhU2dJbkxHMkJtRHVjWk5CNVlFaXNNejZyT1Y3R3Z0WFNsUk96N2M4OGFOQy1lSWZzMDBaV3hUUUhCd204?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 13:00 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781539200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "U.S. and Iran Reach Framework for Peace - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MUHZ0QlhoQWdnbmJYZHBITkxyWmlrNVFMMTBRUzY3T2FyODc3RDFfRXFtYVZoZUYtRzRaYUo2WlBrbWhLS0dEOWU0eWM4WUw1Q1JLWUlhU0s3MGVQTUl5ZG1rYVFXeUV3dXdCQV95eHo?oc=5",
           "source": "The New York Times",
@@ -24064,6 +24098,34 @@
           "published": "Jun 15, 2026 · 10:45 BRT",
           "pub_date": "2026-06-15",
           "pub_ts": 1781531108,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How China Can Move the Price of Oil Even by Not Buying - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uenBnTnpZT3RRS0lfRlpXbVgzRGV3TE5Xejl5SWxRd1JGVkpaUVdzZ1BqdVZRMWdOemoxTnNKaFFTYXl1R3VtUkdJRElwaTJwWFFqWU9sNWR4TWJnTjZuSW9KaV8yRlBtZjY4dUN6Qko?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 09:28 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781526503,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The Iran war in seven charts - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFZQSzVqZEl0UlZPMUlBWWpvMUFDU3otcTJLVTlVb1RQLVNuSnAzVmhCV3AzN3dpbEZHeERLaUZDX0lIb05Namd6QWV5TklpcTNaQ1dJVXVRVHNGZTRkSS1sZ1dROEdSMEZQVmsyblVfNnlxYkl3Q0ltaWR6MV9oaG9ZQzE?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 05:11 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781511081,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -24120,6 +24182,20 @@
           "published": "Jun 14, 2026 · 19:32 BRT",
           "pub_date": "2026-06-14",
           "pub_ts": 1781476340,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US, Iran reach preliminary agreement to end war, signing set for Friday - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkM0aHUzN3lFUGRoNGhaYnA0aXFMTVdPYUlUWXlocnpiZUZCUWhZbFNoTDVSNGJVbTM2bnN0aUdXaXUtYjBzX21SX2xoUjFwWUgyMDNsNVhwS1NMekItUDFGYmxoRXAyNzlUekpFTjVUU2Y2aWZTajVGV3JvcllPVXRub2lJZUFSVElrbk1ncEt1YjRnZEFLRFN4V293cW8xYTFULU93MkRBc3g2LU4wbktn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 14, 2026 · 18:39 BRT",
+          "pub_date": "2026-06-14",
+          "pub_ts": 1781473140,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -31125,6 +31201,20 @@
           "published": "Jun 11, 2026 · 05:37 BRT",
           "pub_date": "2026-06-11",
           "pub_ts": 1781167066,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Bayer hopes to speed up biofuel feedstock plan amid Iran war energy crunch - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlItUkhpcWhrUGFrUGRHTzZPemh6WkloblJSS0YtSkc1akNMSFlsSktVanBETWFZcmRFR3RMYndBTVloNTJUQmNucmdILWtUOXQyLS1MTGtydDRTNURfX2NCbTFyQ2VFWlNpVWFUaDRQQmU0dkYyc3N6V2trdXZRcTYyZWRIRjVFS0UyMTdPVHNjSXhBU09WbDNPUndjM3Eza09sSERaVTREOGNISktjZXN2dEltSVZFU1dOTDZHbmJFbThZeF9N?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 10, 2026 · 14:46 BRT",
+          "pub_date": "2026-06-10",
+          "pub_ts": 1781113618,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

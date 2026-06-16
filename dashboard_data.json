@@ -22693,7 +22693,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-12"
+      "pub_date": "2026-06-13"
     },
     "https://www.reuters.com/world/since-march-trump-has-repeatedly-said-iran-war-will-end-soon-2026-06-12/": {
       "summary": "",
@@ -22799,7 +22799,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-13"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -23907,7 +23907,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-16"
     },
     "https://www.nytimes.com/2026/06/15/world/middleeast/senate-iran-deal-trump.html": {
       "summary": "",
@@ -24053,7 +24053,7 @@
       "pub_date": "2026-06-16"
     },
     "https://www.nytimes.com/2026/06/16/world/europe/europe-strait-of-hormuz-iran-security.html": {
-      "summary": "",
+      "summary": "For months, a coalition led by Britain and France has been preparing to send minesweepers and other ships to secure the strait once the fighting ends. That moment may finally be here.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24201,11 +24201,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/opinion/iran-us-war-trump-cease-fire.html": {
+      "summary": "In a contest of wills, the hard men of Tehran prevailed over the vain man of Washington.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.wsj.com/politics/policy/trump-iran-deal-conservatives-worried-58348d67": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/business/energy-environment/us-iran-deal-gas-prices.html": {
+      "summary": "The preliminary agreement may not have an immediate effect on prices at the pump. Damaged infrastructure and risky transport could keep costs up.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.reuters.com/business/finance/iran-deal-includes-300-billion-fund-more-than-half-which-already-committed-2026-06-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-16",
-  "last_generated_time": "2026-06-16T15:02:09.262756+00:00",
+  "last_generated_time": "2026-06-16T16:02:18.761111+00:00",
   "digest": {
     "digest": "Recent reports indicate a preliminary deal has been signed between the U.S. and Iran, though its specific terms remain undisclosed and subject to dispute regarding the timeline for finalization. Iran disputes the U.S. claim of a Sunday signing, suggesting an agreement may be reached in the coming days. Despite claims of victory from the U.S., the deal is reportedly silent on nuclear weapons, and the U.S. is perceived to be emerging from the conflict militarily, diplomatically, and economically weaker. Iran's oil lifeline has persisted through the U.S. assault, strengthening its negotiating position and emboldening its stance in upcoming nuclear talks. The conflict has significantly altered the global economy, with oil prices experiencing fluctuations; spot oil premiums have slipped to pre-war levels following the U.S.-Iran deal, though shipping concerns provide a floor. Norway's Equinor has benefited from the war, boosting its cash flow and leading to increased share buybacks. China has emerged with a new oil price weapon, while companies like Reckitt are anticipating delayed inflation impacts. France, Britain, and other nations are deploying ships to the Strait of Hormuz, indicating ongoing geopolitical tensions in the region.",
     "top_themes": [
@@ -24361,6 +24401,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Gas Prices May Remain High Despite US-Iran Deal - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWFzSWFhak5mNHBWVUJKSHB5LUVMQ2FneVplcllSQmRSTDdtaXFSTE9nd0gyRnE5dy1HYU94d3pmYXhURXIwbE1uR050dzJtVEg4cVMza1JBZWpLYW9iVXJqbE5vY2QyQ25GYUJGcEJQZVBLMTRuMmRkSE5JaXFqTG1KTnptdEY4U2pIREs1V2s2TndpX1E?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 13:57 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781629025,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "U.S.-Iran deal allows Tehran to immediately sell oil, WSJ reports - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMF8zSlRJcE1kRDQ1Y0VlSmRwMEV1YmYzbi1jZS1Ha2lPd0hocXBMMThndVRPRVk1dXlGQlhYam14c1VUTmUzaTBKQllGdkw1Zlo4bGFhRFRiU3p2b2Y2T05MY3Nfcm5Ja1BDX2gwTlhPbzFubnczOENYaWZrY0RzeTd5QlNRRTV5UmYtZDlsMDJyaTFFTXFreFRNTXpzaW1CUGxnZUg1UGpuTzU3ZUdYQQ?oc=5",
           "source": "Reuters",
@@ -24383,6 +24437,20 @@
           "published": "Jun 16, 2026 · 13:03 BRT",
           "pub_date": "2026-06-16",
           "pub_ts": 1781625780,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How the Iran war energy crisis defied expectations - Axios",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95LWN6V2oxeDRBcVh5UTlIOGNHbFRPakg3UWpJUE1RaGVFX0txN2hCXzVxTjBxTlVXakNYZXYweE9FMTBIMG1IOEpsTnc4UEVOUHE4aENZZHVBV21EOWZ6dmE4OEtVVFRCc2RRbDAwWE9pLS10LXQw?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 09:49 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781614197,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -24481,6 +24549,20 @@
           "published": "Jun 16, 2026 · 05:54 BRT",
           "pub_date": "2026-06-16",
           "pub_ts": 1781600040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil markets bet Trump would chicken out on Iran. They won - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSk0yajlnVVczRzVaLW9CamI2ajNhclRvaGN5MEQwOTIwX1ZaR2tWMU9pclpQQmswQnlFdUttMnc1Ymt3NFlzN2xUU2YwX25uX3RFREZVbWw0Q2UzclQ1UDd5MXhfTzdBeWNIb0lxUkpRMWJrbzk0bWVnMFZRelUwSmsybktpUmxpeDJ6VVZBTFpOUHNpQWxuckdVVGRDSUJQTkZlaGprYU5YajhZWnVGbkg5LWxTcTl4aHI4VzRuYw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 03:05 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781589900,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

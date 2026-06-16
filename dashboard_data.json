@@ -24251,11 +24251,44 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-16"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-16/us-iran-deal-set-to-offer-iran-broad-financial-gains-to-end-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.jpost.com/middle-east/article-899615": {
+      "summary": "The reported draft focuses primarily on the end of the ongoing conflict, the reopening of the Strait of Hormuz, and the release of all funds currently sanctioned by the US.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "Lebanon",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/climate/iran-war-energy-prices.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-16",
-  "last_generated_time": "2026-06-16T17:02:18.516217+00:00",
+  "last_generated_time": "2026-06-16T18:02:12.942703+00:00",
   "digest": {
     "digest": "Recent reports indicate a preliminary deal has been signed between the U.S. and Iran, though its specific terms remain undisclosed and subject to dispute regarding the timeline for finalization. Iran disputes the U.S. claim of a Sunday signing, suggesting an agreement may be reached in the coming days. Despite claims of victory from the U.S., the deal is reportedly silent on nuclear weapons, and the U.S. is perceived to be emerging from the conflict militarily, diplomatically, and economically weaker. Iran's oil lifeline has persisted through the U.S. assault, strengthening its negotiating position and emboldening its stance in upcoming nuclear talks. The conflict has significantly altered the global economy, with oil prices experiencing fluctuations; spot oil premiums have slipped to pre-war levels following the U.S.-Iran deal, though shipping concerns provide a floor. Norway's Equinor has benefited from the war, boosting its cash flow and leading to increased share buybacks. China has emerged with a new oil price weapon, while companies like Reckitt are anticipating delayed inflation impacts. France, Britain, and other nations are deploying ships to the Strait of Hormuz, indicating ongoing geopolitical tensions in the region.",
     "top_themes": [
@@ -24410,6 +24443,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Falls Further As Market Prices Rapid Supply Recovery - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXpscnJGSWJ3NjRpVTBRU2k5c0NWMERxRDdHenBHOVdkdGRxSmlpZUFYaE1TR1U4bTM2NW9QQXl4WnpiY09tMVpDOWxzSURiZjBabEVtUUNxWVZsdEtmc3FRWTh5ZGdDTG5MSTItQWFrTDhYUVhjWTdla3BXU05UWmp4Q3RWTnlYWjdzTXdCNU1XaXdyODRXMzZwQXJxa0NxRTZXbw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 16:22 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781637720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gas Prices May Remain High Despite US-Iran Deal - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWFzSWFhak5mNHBWVUJKSHB5LUVMQ2FneVplcllSQmRSTDdtaXFSTE9nd0gyRnE5dy1HYU94d3pmYXhURXIwbE1uR050dzJtVEg4cVMza1JBZWpLYW9iVXJqbE5vY2QyQ25GYUJGcEJQZVBLMTRuMmRkSE5JaXFqTG1KTnptdEY4U2pIREs1V2s2TndpX1E?oc=5",
@@ -38160,6 +38207,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Gold drifts higher as Iran, US agree to halt war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDRBZ2VtTERRLW5oS1J0MVZvWlJBTkNiNFJpcGJ2RmM1bmYwQXMtMWI1dlFVb1ptZGpNYURkZ0VGaFRZeFNPZ3NMZkVRMzZTV2hfYTlXOFFQMUpDQ0c5bnFjeXR5bDlXYlRXVFlvR3NUNkRBNklJT2wwREhMN2I4aXhNMHp4SnBoS1lnR1NjaDhvcUl1R2pULW5PbE4?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 14, 2026 · 21:02 BRT",
+          "pub_date": "2026-06-14",
+          "pub_ts": 1781481720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war tightens ‘super-squeeze’ in metals markets - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnNpSFhkZi15Z0ZiMndxbUcyWnVRZXpacTBRZ2ZLNmNqOUJQVDg0TVN6d3dpNko5N3ZTNnVhcVU2REFKREJIMnZSc0t5NDFhelhKMUdCVGlLMnBPNVJaZGg2UnZwRlpjS2R6WDE5UVBaUmRPOTZ3aG9OcDBJUnhBS0czN1g?oc=5",

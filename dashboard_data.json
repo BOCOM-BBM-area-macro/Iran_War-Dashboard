@@ -2399,7 +2399,7 @@
       ],
       "sentiment": "negative",
       "sentiment_success": true,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-15"
     },
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html": {
       "summary": "",
@@ -23907,7 +23907,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-16"
     },
     "https://www.nytimes.com/2026/06/15/world/middleeast/senate-iran-deal-trump.html": {
       "summary": "",
@@ -23930,6 +23930,36 @@
       "pub_date": "2026-06-16"
     },
     "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/opinion/trump-iran-war-aggression.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-15/strait-of-hormuz-what-the-us-iran-interim-peace-deal-means-for-oil-and-shipping": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-15"
+    },
+    "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html": {
       "summary": "",
       "tags": [
         "extracted",

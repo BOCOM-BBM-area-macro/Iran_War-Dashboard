@@ -24071,76 +24071,111 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-16"
+    },
+    "https://www.wsj.com/finance/stocks/the-iran-wars-odd-investing-lessons-32858847": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.reuters.com/business/norways-equinor-buy-back-more-shares-iran-war-boosts-cash-flow-2026-06-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
+    },
+    "https://www.reuters.com/business/energy/spot-oil-premiums-slip-pre-war-levels-after-us-iran-deal-shipping-angst-provides-2026-06-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-15",
-  "last_generated_time": "2026-06-15T23:02:10.385139+00:00",
+  "last_generated_date": "2026-06-16",
+  "last_generated_time": "2026-06-16T08:02:00.719535+00:00",
   "digest": {
-    "digest": "A preliminary agreement has been reached between the United States and Iran to end the ongoing conflict, with a formal signing anticipated for Friday. This development follows a weekslong war that commenced on February 28th, initiated by attacks from the United States and Israel against Iran, and which subsequently spread to neighboring countries, significantly impacting global markets. The reported terms of the deal include the reopening of the Strait of Hormuz to shipping, a critical chokepoint for global oil trade, and the release of $12 billion to Iran. While the agreement aims to de-escalate tensions, particularly in light of recent Israel-Iran friction, Israel was reportedly not involved in the direct negotiations. President Trump has indicated that the Strait will be \"permanently toll-free\" under the agreement and has also suggested that attacks could resume if a nuclear accord is not reached. The news of the impending peace deal has led to a significant drop in oil prices and a surge in stock markets, although inflation concerns continue to influence market sentiment. Many Iranians have expressed relief over the prospect of an end to the war, while the deal itself represents a shift in U.S. strategy, moving from a focus on regime change to securing the reopening of the Strait of Hormuz. The agreement is also being viewed in the context of broader geopolitical dynamics, with Russia and China's leaders being praised by President Trump, and concerns about looming tariff threats from the G7 leaders.",
+    "digest": "Recent reports indicate a preliminary deal has been signed between the U.S. and Iran, though its specific terms remain undisclosed and subject to dispute regarding the timeline for finalization. Iran disputes the U.S. claim of a Sunday signing, suggesting an agreement may be reached in the coming days. Despite claims of victory from the U.S., the deal is reportedly silent on nuclear weapons, and the U.S. is perceived to be emerging from the conflict militarily, diplomatically, and economically weaker. Iran's oil lifeline has persisted through the U.S. assault, strengthening its negotiating position and emboldening its stance in upcoming nuclear talks. The conflict has significantly altered the global economy, with oil prices experiencing fluctuations; spot oil premiums have slipped to pre-war levels following the U.S.-Iran deal, though shipping concerns provide a floor. Norway's Equinor has benefited from the war, boosting its cash flow and leading to increased share buybacks. China has emerged with a new oil price weapon, while companies like Reckitt are anticipating delayed inflation impacts. France, Britain, and other nations are deploying ships to the Strait of Hormuz, indicating ongoing geopolitical tensions in the region.",
     "top_themes": [
-      "Iran War Ceasefire Agreement",
-      "Strait of Hormuz Reopening",
-      "Global Market Reaction to Peace Deal"
+      "US-Iran Deal",
+      "Global Economic Impact",
+      "Energy Markets",
+      "Geopolitical Tensions"
     ],
     "next_events": [
       {
-        "title": "Formalization and Implementation of the US-Iran Peace Deal",
-        "description": "The planned signing of the memorandum of understanding on Friday is a critical immediate event. Analysts should monitor the official signing, the specific terms released, and the immediate actions taken by both the US and Iran to implement the ceasefire, reopen the Strait of Hormuz, and facilitate the release of funds."
+        "title": "Unveiling the US-Iran Peace Deal's Specifics",
+        "description": "A preliminary deal has been signed, promising an end to the war, but its terms remain secret and its implementation unclear. Analysts should monitor for the official release of the agreement's details, particularly regarding timelines, enforcement mechanisms, and any provisions beyond immediate conflict resolution. The clarity of these terms will dictate the true path to de-escalation and stability."
       },
       {
-        "title": "Stability of the Strait of Hormuz and Global Energy Market Response",
-        "description": "The agreement includes the reopening of the Strait of Hormuz, a vital global shipping lane. Watch for sustained, unimpeded passage of oil shipments and how global oil prices and energy markets react in the long term, beyond the initial tumble and surge, to ensure lasting stability."
+        "title": "Iran's Nuclear Program and Future Negotiations",
+        "description": "Despite the peace accord, reports indicate the deal is silent on nuclear weapons, and Iran is entering future nuclear talks feeling emboldened. It is crucial to watch for any new developments or demands from Iran regarding its nuclear capabilities and how international powers, particularly the US, respond to these. This will be a key indicator of long-term regional security."
       },
       {
-        "title": "Israel's Response and Regional Security Implications",
-        "description": "Despite the US-Iran deal, Israel was not involved in the negotiations, and the agreement was reportedly spurred by recent Israel-Iran tension. Analysts must monitor Israel's official and unofficial reactions, potential shifts in its regional strategy, and any renewed tensions, especially concerning the mention of a future nuclear accord."
+        "title": "Global Economic and Oil Market Adjustments",
+        "description": "The Iran War significantly impacted the global economy, oil prices, and supply chains, with China gaining leverage and shipping angst persisting. Analysts should closely track crude oil prices, shipping premiums, and global inflation indicators for signs of stabilization or new disruptions as the deal's effects ripple through markets. The long-term economic consequences and shifts in energy geopolitics will be critical to observe."
       },
       {
-        "title": "Progress Towards a New Nuclear Accord",
-        "description": "President Trump indicated that attacks could resume if a nuclear accord is not reached, suggesting this peace deal might be a precursor or a temporary measure. Watch for any diplomatic efforts, statements, or negotiations regarding a new nuclear agreement between the US and Iran, as its absence could reignite conflict."
+        "title": "Stability and Security in the Strait of Hormuz",
+        "description": "Even with a peace deal, France, Britain, and other nations are sending ships to the Strait of Hormuz, indicating ongoing concerns about maritime security. Monitoring the presence and activities of international naval forces, as well as any incidents in this vital waterway, will be essential. This will reflect the true level of regional de-escalation and the commitment to safe passage."
       },
       {
-        "title": "Long-Term Economic Repercussions and Inflationary Pressures",
-        "description": "The initial market reactions saw oil prices fall and stocks rise, but inflation worries persist. Analysts should track the sustained impact on global economies, particularly how the release of $12 billion to Iran and the reopening of shipping lanes affect inflation, trade, and investment portfolios in the coming months."
-      },
-      {
-        "title": "US Domestic Political Repercussions for the Trump Administration",
-        "description": "The deal, while ending a war, is noted to leave President Trump 'fighting a war at home.' Monitor domestic political reactions in the US, including criticism or support from various factions, and how this agreement impacts Trump's political standing and future policy decisions."
+        "title": "Evolution of US-Iran Diplomatic Relations",
+        "description": "The accord offers an exit from war but introduces fresh political risks, with the US perceived as weaker and Iran emboldened. Analysts should observe the tone and substance of future diplomatic engagements between Washington and Tehran, including any high-level meetings or public statements. This will reveal whether the deal fosters genuine reconciliation or merely shifts the arena of competition."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. and Iran Have Reached a Deal to Stop Fighting, Reopen Shipping - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beiruts-outskirts-d0390e22",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 14, 2026 · 20:31 BRT",
-      "pub_date": "2026-06-14",
-      "pub_ts": 1781479860,
-      "summary": "Signing is planned for Friday, marking a potential breakthrough in a war that has roiled the global economy.",
+      "title": "U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 16, 2026 · 05:54 BRT",
+      "pub_date": "2026-06-16",
+      "pub_ts": 1781600040,
+      "summary": "",
       "tags": [
-        "Asia",
-        "Developing Economies",
-        "Iran",
-        "Middle East",
-        "Middle East and North Africa"
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "What the US and Iran say they have agreed in the memorandum to end the war - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/what-us-iran-say-they-have-agreed-memorandum-end-war-2026-06-15/",
+      "title": "US-Iran deal promises end to war but how it will work remains unclear - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear-2026-06-16/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 15, 2026 · 07:21 BRT",
-      "pub_date": "2026-06-15",
-      "pub_ts": 1781518900,
+      "published": "Jun 16, 2026 · 03:33 BRT",
+      "pub_date": "2026-06-16",
+      "pub_ts": 1781591580,
       "summary": "",
       "tags": [
         "extracted",
@@ -24152,74 +24187,75 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran, US agree to halt war and reopen Hormuz, sending oil prices tumbling - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-us-agree-halt-war-reopen-hormuz-sending-oil-prices-tumbling-2026-06-15/",
+      "title": "The Iran War Permanently Altered the Global Economy - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 16, 2026 · 06:01 BRT",
+      "pub_date": "2026-06-16",
+      "pub_ts": 1781600466,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War: China Has a Powerful New Oil Price Weapon - Bloomberg",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-06-16/iran-war-china-now-has-a-powerful-new-oil-price-weapon",
+      "source": "Bloomberg",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 16, 2026 · 00:00 BRT",
+      "pub_date": "2026-06-16",
+      "pub_ts": 1781578800,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran’s oil lifeline outlasted the U.S. assault, strengthening its hand - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/06/17/iran-had-healthy-oil-sales-through-months-war-thanks-higher-prices/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 16, 2026 · 07:31 BRT",
+      "pub_date": "2026-06-16",
+      "pub_ts": 1781605908,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Spot oil premiums slip to pre-war levels after US-Iran deal, but shipping angst provides floor - Reuters",
+      "url": "https://www.reuters.com/business/energy/spot-oil-premiums-slip-pre-war-levels-after-us-iran-deal-shipping-angst-provides-2026-06-16/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 15, 2026 · 02:26 BRT",
-      "pub_date": "2026-06-15",
-      "pub_ts": 1781501160,
+      "published": "Jun 16, 2026 · 07:10 BRT",
+      "pub_date": "2026-06-16",
+      "pub_ts": 1781604650,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
-      "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 14, 2026 · 21:38 BRT",
-      "pub_date": "2026-06-14",
-      "pub_ts": 1781483913,
-      "summary": "The United States and Israel attacked Iran on Feb. 28, starting a weekslong war that spread to neighboring countries and rocked global markets.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "negative",
-      "_rank": 0,
-      "sentiment_success": true
-    },
-    {
-      "title": "What to Know About the U.S.-Iran Framework Agreement - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 15, 2026 · 07:51 BRT",
-      "pub_date": "2026-06-15",
-      "pub_ts": 1781520680,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Oil Tumbles and Stocks Surge After Trump Announces Deal With Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 15, 2026 · 06:54 BRT",
-      "pub_date": "2026-06-15",
-      "pub_ts": 1781517240,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -24271,6 +24307,20 @@
           "published": "Jun 16, 2026 · 06:01 BRT",
           "pub_date": "2026-06-16",
           "pub_ts": 1781600466,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zSTY3dGwzeU9lR0VWenQtS0k5U3JCVUdVd1hoODg2c0FPa25pbE5Pa3l1YlpsYUphaEZ3MjU0eUpkb2FWal9WZHh6NmIzd3gxUUpiaFk5TV9iODA3Qmpza2pXekZIZ2d6UVRCQ2t1dVJYWi1RTk1Z?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 05:54 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781600040,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -32925,6 +32975,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "With the extra money spent on gas, here are the groceries you could’ve bought - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXA4V053WFFKQ2xvMHZPdkVGNFA2Z3JPRUg1QWFoT3ZBeHhqSlkxU0loLUZ4VFB6V1N3LTFqdW1OR3lfMkN0SXo0cTZiMERjY0lsUUxCd2JMd3dTUHU3Q3F3a3lfb0VKWU41NGRwUEI2R0VfZHo0WF9oZzFJNHRWc3kzcnA4WVN6WEZRR2pSbzh6cmxiaVIzMlFEcFYyaWdkLTRkc3RTRlQ1amlVTHNCT0hwWEh2Tk02aWhnWkQ3RmpoQQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 07:41 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781606496,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "How has India dealt with the economic hit from the Iran war? - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTVyaTdPVVJJN1I4N1JJVEpiM3hhcHpxYWhoRmFGdVpwUG44OFVDQk1zSkN1dURhT18zS1ZNSElJbk52YmF0YVprczl0M1pCa0xqMEtCOEptRTVDY1YwUHlibFNnTDNOMW9vQjFQNDhVRjJWV0tVY0pTcjJ3a0c1dU1WdzU?oc=5",
           "source": "Financial Times",
@@ -38631,7 +38695,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-15T11:06:29.437408+00:00",
-  "last_watch_time": "2026-06-15T11:06:40.353011+00:00",
-  "last_relevant_time": "2026-06-15T11:06:40.877974+00:00"
+  "last_digest_time": "2026-06-16T11:07:47.495562+00:00",
+  "last_watch_time": "2026-06-16T11:07:57.460420+00:00",
+  "last_relevant_time": "2026-06-16T11:07:58.004623+00:00"
 }

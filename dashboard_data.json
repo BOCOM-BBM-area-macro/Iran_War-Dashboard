@@ -23311,7 +23311,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-14"
     },
     "https://www.bloomberg.com/news/articles/2026-06-14/pakistan-says-us-and-iran-have-reached-a-peace-deal": {
       "summary": "",
@@ -23591,7 +23591,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-16"
+      "pub_date": "2026-06-15"
     },
     "https://www.reuters.com/world/middle-east/gulf-recalibrates-iran-emerges-intact-war-2026-06-15/": {
       "summary": "",
@@ -23928,6 +23928,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-16"
+    },
+    "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,
@@ -24100,6 +24110,20 @@
           "published": "Jun 16, 2026 · 00:00 BRT",
           "pub_date": "2026-06-16",
           "pub_ts": 1781578800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil falls as markets weigh return of supply, US-Iran peace deal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 22:14 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781572440,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

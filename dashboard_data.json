@@ -23033,7 +23033,7 @@
       "pub_date": "2026-06-14"
     },
     "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel": {
-      "summary": "",
+      "summary": "An Iran-backed militia took responsibility for an overnight attack on the U.S. Embassy in Baghdad. President Trump called on other nations to help escort oil tankers through the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24605,7 +24605,7 @@
       "pub_date": "2026-06-17"
     },
     "https://www.nytimes.com/2026/06/17/world/middleeast/us-iran-deal-trump-hormuz-nuclear.html": {
-      "summary": "",
+      "summary": "The document leaves complicated issues like Iran’s nuclear program still to be decided and a 60-day window to determine them.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24655,6 +24655,16 @@
       "pub_date": "2026-06-17"
     },
     "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html": {
+      "summary": "President Trump denied that the United States would be part of a $300 billion rebuilding fund for Iran and argued that his agreement was better than the one Barack Obama struck in 2015.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-17"
+    },
+    "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html": {
       "summary": "",
       "tags": [
         "extracted",
@@ -24667,7 +24677,7 @@
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-17",
-  "last_generated_time": "2026-06-17T18:02:11.416908+00:00",
+  "last_generated_time": "2026-06-17T19:02:08.538334+00:00",
   "digest": {
     "digest": "A preliminary peace deal framework between the U.S. and Iran has been revealed, with some characterizing it as a \"game changer\" for ending hostilities in the Middle East. This framework reportedly includes broad financial gains for Iran and allows for immediate oil sales, contingent on Israeli withdrawal. The U.S. administration, particularly Senator JD Vance, is actively working to gain support for this MOU, facing internal opposition from hawkish Republican critics. Despite this diplomatic push, Congressional efforts to halt the war and seek authorization from Congress have been blocked, with a recent War Powers measure failing in the Senate due to insufficient bipartisan support. The ongoing conflict has had a significant and potentially irreversible impact on the global oil trade, leading to energy shocks and affecting major economies. Corporate entities, such as BMW, have issued profit warnings directly linked to the war's impact on global demand and supply chains. While some sectors like Egyptian tourism anticipate record numbers, the broader global economic order has been demonstrably altered by the conflict, with expectations that economies will not simply revert to pre-war conditions.",
     "top_themes": [
@@ -24818,6 +24828,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Trump says Iran bombing more could have caused 'international depression' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTFUblBYMU1GNThsMnJyWWU2WUY5RVJVOHJmNno4OXNSRk9tMVdyNUhpVXVVQUFDNUZ2eXl6ZUtud193WUZvVW1VTWF4S1hubmxFNTZQYmRmZGZ6b0REdGNTQW1QWjdzZTZmSmpWZ2hWSG02VzlKY09FaFE3cFlfdFd6eEE4eGVqeURhMTFuSDhuSXBJeTllQ3h5OUQtNmhud1FHay1vMGtWempXZWI3ci1HajhicnlLaDZ3UzFIZDZpdWxm?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 17, 2026 · 15:11 BRT",
+          "pub_date": "2026-06-17",
+          "pub_ts": 1781719872,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil Prices Waver as Traders Hope the Strait of Hormuz Will Reopen - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1acEdfU1lqS1FrQlVmQUZLRjM5STNiUVhsZFdkNlRJM0d6ei1xdjNFMllnb0hmYTh5NGJGczR0Z0M0d0dHNXJHZ1ZvUlJ1ZDlWdEQ4emJKRnRtcUlLY3RuNm5UWFNoekp0NWx5Q0ZORGJUQkIyWE5hQWpaNkI?oc=5",
           "source": "The New York Times",
@@ -24826,6 +24850,20 @@
           "published": "Jun 17, 2026 · 10:42 BRT",
           "pub_date": "2026-06-17",
           "pub_ts": 1781703737,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The long way back from the Iran energy shock - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHpnWGZMMGZZbDNfb2sxMDZrUm5NYng5NlBjWjZfSkI3dkZqNVBTU1h2RFRFOVJZX2gwcnhfN1FPeWVEcGd1dnc5ZXdMMDRFWFUzYUQ2OXIzVGZSWWYtNDFabDBVTGpxaWFBNEx3Z1VlNkxrUV9nd0plM2x3Yk40RTVwaG4?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 17, 2026 · 01:01 BRT",
+          "pub_date": "2026-06-17",
+          "pub_ts": 1781668901,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

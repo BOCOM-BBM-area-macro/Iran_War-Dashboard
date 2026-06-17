@@ -24334,6 +24334,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-16"
+    },
+    "https://www.cbc.ca/news/politics/carney-iran-u-s-war-deal-9.7238187": {
+      "summary": "Prime Minister Mark Carney says he's seen a copy of the preliminary deal struck between the U.S. and Iran to end hostilities in the Middle East and is calling it a \"game changer.\"",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-17"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-16/read-the-14-point-draft-memorandum-between-the-us-and-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,

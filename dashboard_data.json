@@ -24296,7 +24296,7 @@
       "pub_date": "2026-06-16"
     },
     "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france": {
-      "summary": "",
+      "summary": "After the United States reached a preliminary deal with Iran, the mood seemed lighter than had been expected. But President Trump’s remarks highlighted persistent divisions among the allies.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24314,11 +24314,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-16"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-stabilise-investors-weigh-iran-war-end-hormuz-reopening-uncertainty-2026-06-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-16"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-16",
-  "last_generated_time": "2026-06-16T22:02:14.380620+00:00",
+  "last_generated_time": "2026-06-16T23:02:10.940662+00:00",
   "digest": {
     "digest": "Recent reports indicate a preliminary deal has been signed between the U.S. and Iran, though its specific terms remain undisclosed and subject to dispute regarding the timeline for finalization. Iran disputes the U.S. claim of a Sunday signing, suggesting an agreement may be reached in the coming days. Despite claims of victory from the U.S., the deal is reportedly silent on nuclear weapons, and the U.S. is perceived to be emerging from the conflict militarily, diplomatically, and economically weaker. Iran's oil lifeline has persisted through the U.S. assault, strengthening its negotiating position and emboldening its stance in upcoming nuclear talks. The conflict has significantly altered the global economy, with oil prices experiencing fluctuations; spot oil premiums have slipped to pre-war levels following the U.S.-Iran deal, though shipping concerns provide a floor. Norway's Equinor has benefited from the war, boosting its cash flow and leading to increased share buybacks. China has emerged with a new oil price weapon, while companies like Reckitt are anticipating delayed inflation impacts. France, Britain, and other nations are deploying ships to the Strait of Hormuz, indicating ongoing geopolitical tensions in the region.",
     "top_themes": [
@@ -24473,6 +24483,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices stabilise as investors weigh Iran war end, Hormuz reopening uncertainty - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenNvdC1DbGktWE0tRE5scUJEblVjSy1HVWROZkNNQ3lqT290eXhQV0R5MXhxYUhHYlBaN1lqdl95QUpEaHRaX0lOY3h2aEJSblJxYldFODhXWGFwN3dlOV9xbFFWTnpJNUlTUkJkaG9nWjRUUEpSemE2N09VWFVtNFRnT2RSQ3lKV094RjN5MkNYZlRIOURlZWJhREdaLWc2bVhiV2hCNUlYaTZrTUdXWkpKRnBTLWo1QVVEcDBIbGFWdGFqczhubmVR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 16, 2026 · 22:09 BRT",
+          "pub_date": "2026-06-16",
+          "pub_ts": 1781658540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Falls Further As Market Prices Rapid Supply Recovery - WSJ",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXpscnJGSWJ3NjRpVTBRU2k5c0NWMERxRDdHenBHOVdkdGRxSmlpZUFYaE1TR1U4bTM2NW9QQXl4WnpiY09tMVpDOWxzSURiZjBabEVtUUNxWVZsdEtmc3FRWTh5ZGdDTG5MSTItQWFrTDhYUVhjWTdla3BXU05UWmp4Q3RWTnlYWjdzTXdCNU1XaXdyODRXMzZwQXJxa0NxRTZXbw?oc=5",

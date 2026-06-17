@@ -22782,10 +22782,13 @@
       "pub_date": "2026-06-12"
     },
     "https://www.wsj.com/world/middle-east/iran-war-peace-talks-what-happened-d033900f": {
-      "summary": "",
+      "summary": "A U.S. helicopter crash spurred an escalation that led both sides to back down and negotiate.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Asia",
+        "Developing Economies",
+        "Iran",
+        "Middle East",
+        "Middle East and North Africa"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -24040,7 +24043,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-16"
+      "pub_date": "2026-06-17"
     },
     "https://www.washingtonpost.com/politics/2026/06/16/trump-iran-deal-followed-pressure-supporters-who-questioned-war/": {
       "summary": "",
@@ -24467,11 +24470,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-17"
+    },
+    "https://www.cbc.ca/news/world/iran-us-war-memorandum-details-9.7238245": {
+      "summary": "Iran will immediately take steps to reopen the Strait of Hormuz once a tentative deal with the U.S. to end the war is signed and will be allowed to sell its oil without restrictions, according to leaked copies of an interim agreement that officials say broadly matches the document.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-17"
+    },
+    "https://www.nytimes.com/2026/06/17/briefing/what-could-happen-in-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-17"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-17",
-  "last_generated_time": "2026-06-17T10:01:58.129239+00:00",
+  "last_generated_time": "2026-06-17T11:02:23.577679+00:00",
   "digest": {
     "digest": "A preliminary peace deal framework between the U.S. and Iran has been revealed, with some characterizing it as a \"game changer\" for ending hostilities in the Middle East. This framework reportedly includes broad financial gains for Iran and allows for immediate oil sales, contingent on Israeli withdrawal. The U.S. administration, particularly Senator JD Vance, is actively working to gain support for this MOU, facing internal opposition from hawkish Republican critics. Despite this diplomatic push, Congressional efforts to halt the war and seek authorization from Congress have been blocked, with a recent War Powers measure failing in the Senate due to insufficient bipartisan support. The ongoing conflict has had a significant and potentially irreversible impact on the global oil trade, leading to energy shocks and affecting major economies. Corporate entities, such as BMW, have issued profit warnings directly linked to the war's impact on global demand and supply chains. While some sectors like Egyptian tourism anticipate record numbers, the broader global economic order has been demonstrably altered by the conflict, with expectations that economies will not simply revert to pre-war conditions.",
     "top_themes": [
@@ -24621,6 +24644,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Waver as Traders Hope the Strait of Hormuz Will Reopen - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1acEdfU1lqS1FrQlVmQUZLRjM5STNiUVhsZFdkNlRJM0d6ei1xdjNFMllnb0hmYTh5NGJGczR0Z0M0d0dHNXJHZ1ZvUlJ1ZDlWdEQ4emJKRnRtcUlLY3RuNm5UWFNoekp0NWx5Q0ZORGJUQkIyWE5hQWpaNkI?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 17, 2026 · 10:42 BRT",
+          "pub_date": "2026-06-17",
+          "pub_ts": 1781703737,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices stabilise as investors weigh Iran war end, Hormuz reopening uncertainty - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenNvdC1DbGktWE0tRE5scUJEblVjSy1HVWROZkNNQ3lqT290eXhQV0R5MXhxYUhHYlBaN1lqdl95QUpEaHRaX0lOY3h2aEJSblJxYldFODhXWGFwN3dlOV9xbFFWTnpJNUlTUkJkaG9nWjRUUEpSemE2N09VWFVtNFRnT2RSQ3lKV094RjN5MkNYZlRIOURlZWJhREdaLWc2bVhiV2hCNUlYaTZrTUdXWkpKRnBTLWo1QVVEcDBIbGFWdGFqczhubmVR?oc=5",

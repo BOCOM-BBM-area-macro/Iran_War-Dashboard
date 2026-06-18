@@ -22802,7 +22802,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-13"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -24243,7 +24243,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-16"
+      "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/2026/06/16/us/politics/us-strike-iranian-school.html": {
       "summary": "U.S. officials have not publicly acknowledged responsibility for the deaths or released a report on their findings from an investigation into the Feb. 28 strike.",
@@ -24665,7 +24665,7 @@
       "pub_date": "2026-06-17"
     },
     "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html": {
-      "summary": "",
+      "summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24765,7 +24765,7 @@
       "pub_date": "2026-06-17"
     },
     "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france": {
-      "summary": "",
+      "summary": "A U.S. official provided what was described as the text of the preliminary agreement, which outlined a $300 billion plan for Iran’s reconstruction and 60 days of talks on its nuclear program.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24785,7 +24785,7 @@
       "pub_date": "2026-06-17"
     },
     "https://www.nytimes.com/2026/06/18/world/asia/asia-oil-crisis-iran-solar-panels.html": {
-      "summary": "",
+      "summary": "Homeowners and businesses in Southeast Asia, which relies heavily on imported oil, are installing rooftop solar panels to reduce the sting of soaring energy costs.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24795,7 +24795,7 @@
       "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/2026/06/18/opinion/iran-nuclear-deal-trump.html": {
-      "summary": "",
+      "summary": "The world doesn’t need a nuclear deal with Tehran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24832,7 +24832,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-17"
+      "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/video/world/middleeast/100000010975931/trump-signs-iran-deal.html": {
       "summary": "The White House confirmed that President Trump signed the memorandum of understanding between the United States and Iran on Wednesday at the Palace of Versailles.",
@@ -24878,7 +24878,7 @@
       "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html": {
-      "summary": "",
+      "summary": "The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24888,7 +24888,7 @@
       "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html": {
-      "summary": "",
+      "summary": "The agreement accomplishes none of Israel’s stated war aims and arguably leaves the country in worse shape on each of them.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24928,10 +24928,23 @@
       "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/2026/06/18/world/middleeast/hegseth-nato-us-iran-war-trump.html": {
-      "summary": "",
+      "summary": "Defense Secretary Pete Hegseth used a meeting of NATO defense ministers to continue the Trump administration’s sharp criticism of European military policies.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-899842": {
+      "summary": "At least 28 people were killed and hundreds were injured after Iran launched unprovoked attacks on GCC countries, though information on said attacks was largely restricted by those states.",
+      "tags": [
+        "Iran",
+        "Saudi Arabia",
+        "war crimes",
+        "amnesty international",
+        "Middle East"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -24940,7 +24953,7 @@
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-18",
-  "last_generated_time": "2026-06-18T10:02:04.233944+00:00",
+  "last_generated_time": "2026-06-18T11:02:24.465250+00:00",
   "digest": {
     "digest": "The United States and Iran have signed a preliminary deal to end the ongoing war, with the agreement expected to facilitate the reopening of the Strait of Hormuz. President Trump confirmed the signing of a memorandum of understanding, though the specific terms of the deal have not been fully disclosed. Reports indicate the agreement addresses issues beyond the Strait of Hormuz, including Lebanon. While the deal aims to de-escalate tensions, President Trump has stated that military actions could resume. The G7 leaders have expressed support for the agreement as more details become available. This development has led to a significant drop in oil prices, reaching their lowest point since the conflict began. Saudi Aramco is reportedly considering expanding its global storage capacity in response to the war's conclusion. Despite the agreement, concerns remain about potential economic consequences, such as higher food prices. The deal provides Iran with economic relief in exchange for minimal concessions, according to initial reports.",
     "top_themes": [
@@ -38620,6 +38633,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Despite Trump's rejection, MOU reportedly includes $300 billion for Iran - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VNDhRa3RpM09ESzFaRzRLVXhJQnd5RFMwa2NWRlRtNHZkd3p5QUZzUk9RSjAxQkZoMklUbk1RNDE4NXJ0NVNVUGZLUXE5ekc0SFBVWWtNc1ZmVGJkRVRQWlZCZzRyMVhOdkE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 17, 2026 · 10:37 BRT",
+          "pub_date": "2026-06-17",
+          "pub_ts": 1781703439,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUQ2ODdpWjF3UzYxRTVRUi1hMkZRMEw3S3pDR0VWSzY5bjVWeE1TXzJZUUp1SWQ4QXFjVUJBNzRDcFp2cnJoMVBSQU45Vkp6YjdDanJLMlNiVFRTMm1KNnhlLWkxOXFLQUJmeTJkOThzTmlQMlpuVHlybW9SMnczd2lIWXJBcHI4Uk94R2RwUVg5aHJxR1ptNGppUVRSV1pneUp3WkN1elRrN1FSd0EwZ05kZDVEMTRpX0VGeHFwOVlvTmV3b3c?oc=5",

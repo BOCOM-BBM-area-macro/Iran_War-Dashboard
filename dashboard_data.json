@@ -24000,7 +24000,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-15"
+      "pub_date": "2026-06-17"
     },
     "https://www.nytimes.com/live/2026/06/03/us/trump-administration-news": {
       "summary": "",
@@ -24585,7 +24585,7 @@
       "pub_date": "2026-06-17"
     },
     "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html": {
-      "summary": "",
+      "summary": "New York Times reporters annotated the agreement, which a senior official disclosed on Wednesday.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -24672,7 +24672,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-18"
+      "pub_date": "2026-06-17"
     },
     "https://www.reuters.com/world/trump-signs-memo-aimed-ending-iran-war-white-house-official-says-2026-06-17/": {
       "summary": "",
@@ -24783,6 +24783,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-17"
+    },
+    "https://www.nytimes.com/2026/06/18/world/asia/asia-oil-crisis-iran-solar-panels.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
     }
   },
   "last_run_success": true,
@@ -24937,6 +24947,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil slips again as US, Iran sign peace deal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 17, 2026 · 21:56 BRT",
+          "pub_date": "2026-06-17",
+          "pub_ts": 1781744160,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Deal Gives Iran Chance to Turbocharge Its Oil Revenue - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREdiUzRWclF5N1JQNTJteXpLVjQzVTVYNFIxM0hlWW1MM2tmeWxybWJEandlQzUzUW42UjFMWjBHZ2tZWTRWWW9iTTZ2OThBZk9uVy16NVJKMW5qYXdiNnNETTdvOGhaM0dJRzJVbEk3SzQtU1czMG5hTkUxTFg5eXpER1ZJWUN0cjBVaGxxLWxVY2dKYy11NGp1RHFpc0pnSVE?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 17, 2026 · 21:01 BRT",
+          "pub_date": "2026-06-17",
+          "pub_ts": 1781740870,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says Iran bombing more could have caused 'international depression' - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTFUblBYMU1GNThsMnJyWWU2WUY5RVJVOHJmNno4OXNSRk9tMVdyNUhpVXVVQUFDNUZ2eXl6ZUtud193WUZvVW1VTWF4S1hubmxFNTZQYmRmZGZ6b0REdGNTQW1QWjdzZTZmSmpWZ2hWSG02VzlKY09FaFE3cFlfdFd6eEE4eGVqeURhMTFuSDhuSXBJeTllQ3h5OUQtNmhud1FHay1vMGtWempXZWI3ci1HajhicnlLaDZ3UzFIZDZpdWxm?oc=5",

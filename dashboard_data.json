@@ -24772,7 +24772,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-17"
+      "pub_date": "2026-06-18"
     },
     "https://www.wsj.com/world/middle-east/deal-gives-iran-chance-to-turbocharge-its-oil-revenue-5b481eb6": {
       "summary": "",
@@ -24833,6 +24833,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-17"
+    },
+    "https://www.nytimes.com/video/world/middleeast/100000010975931/trump-signs-iran-deal.html": {
+      "summary": "The White House confirmed that President Trump signed the memorandum of understanding between the United States and Iran on Wednesday at the Palace of Versailles.",
+      "tags": [
+        "US and Israeli Attack on Iran",
+        "US Foreign Policy",
+        "Donald Trump",
+        "Iran",
+        "US"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
     }
   },
   "last_run_success": true,
@@ -32496,6 +32509,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Average U.S. Gasoline Price Falls Below $4 for First Time in Months - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb21GQ1hlVGFvV3lrcW5HbkFLNEUwandUT3RHT3RweHlydUtkcjZmS21LQzExTU1JSUlSR3p3Vlo5N2JaRTlWa2lLc0UzR0h3MTlrTjlWOGJCNl9FNS1hdnBkRkFSTkRpcjlNOFN2TWRqci1sa0JOa1JnRGhBd2tCMlVZaFlzcTAyRW5CZXRERUcta1FkRHNv?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 04:55 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781769334,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Strong US retail sales showcase economy's resilience despite Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQllHQ2xXS3BfQnloTWxzVnJOZ2tLclF5STNKX0lnS2Q1MzRFUlFJYkQ0aGZKZEgwWDB1Sml6U041UTViUEF4eWp4XzlIWGhJSmQ4dG54WnRNR0JYUkxFcC13R1pPc2tuZUdBWVdqeUtpZHoxYnlkWTlNMG9DMkVqZTZpbno4UDIwX2ZxbkFXSFprQ3M2MVVaV3RmLXJfWjA?oc=5",

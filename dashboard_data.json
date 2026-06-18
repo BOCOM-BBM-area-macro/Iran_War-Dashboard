@@ -24459,7 +24459,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-17"
+      "pub_date": "2026-06-18"
     },
     "https://www.reuters.com/world/asia-pacific/after-war-losses-hezbollah-seen-gaining-iran-us-deal-2026-06-17/": {
       "summary": "",
@@ -24832,7 +24832,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-17"
+      "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/video/world/middleeast/100000010975931/trump-signs-iran-deal.html": {
       "summary": "The White House confirmed that President Trump signed the memorandum of understanding between the United States and Iran on Wednesday at the Palace of Versailles.",
@@ -24856,150 +24856,189 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-18"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.wsj.com/business/energy-oil/saudi-aramco-weighs-expanding-storage-capacity-after-iran-war-fbd3a1c1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-17",
-  "last_generated_time": "2026-06-17T23:02:02.340284+00:00",
+  "last_generated_date": "2026-06-18",
+  "last_generated_time": "2026-06-18T08:01:41.750428+00:00",
   "digest": {
-    "digest": "A preliminary peace deal framework between the U.S. and Iran has been revealed, with some characterizing it as a \"game changer\" for ending hostilities in the Middle East. This framework reportedly includes broad financial gains for Iran and allows for immediate oil sales, contingent on Israeli withdrawal. The U.S. administration, particularly Senator JD Vance, is actively working to gain support for this MOU, facing internal opposition from hawkish Republican critics. Despite this diplomatic push, Congressional efforts to halt the war and seek authorization from Congress have been blocked, with a recent War Powers measure failing in the Senate due to insufficient bipartisan support. The ongoing conflict has had a significant and potentially irreversible impact on the global oil trade, leading to energy shocks and affecting major economies. Corporate entities, such as BMW, have issued profit warnings directly linked to the war's impact on global demand and supply chains. While some sectors like Egyptian tourism anticipate record numbers, the broader global economic order has been demonstrably altered by the conflict, with expectations that economies will not simply revert to pre-war conditions.",
+    "digest": "The United States and Iran have signed a preliminary deal to end the ongoing war, with the agreement expected to facilitate the reopening of the Strait of Hormuz. President Trump confirmed the signing of a memorandum of understanding, though the specific terms of the deal have not been fully disclosed. Reports indicate the agreement addresses issues beyond the Strait of Hormuz, including Lebanon. While the deal aims to de-escalate tensions, President Trump has stated that military actions could resume. The G7 leaders have expressed support for the agreement as more details become available. This development has led to a significant drop in oil prices, reaching their lowest point since the conflict began. Saudi Aramco is reportedly considering expanding its global storage capacity in response to the war's conclusion. Despite the agreement, concerns remain about potential economic consequences, such as higher food prices. The deal provides Iran with economic relief in exchange for minimal concessions, according to initial reports.",
     "top_themes": [
-      "Iran War Peace Deal Framework",
-      "Economic Impact of Iran War",
-      "US-Iran Diplomatic Negotiations",
-      "Global Oil Market Volatility",
-      "Congressional Opposition to War Powers"
+      "US-Iran Ceasefire Agreement",
+      "Strait of Hormuz Reopening",
+      "Global Oil Market Impact"
     ],
     "next_events": [
       {
-        "title": "Finalization and Implementation of the US-Iran Peace Deal",
-        "description": "Multiple reports indicate a preliminary deal or memorandum of understanding (MOU) between the US and Iran to end hostilities. Analysts should monitor the specific terms of the 14-point draft, including broad financial gains for Iran and the immediate resumption of oil sales, as well as the process for its official signing and implementation. This will be a critical indicator of de-escalation and future relations."
+        "title": "Full Disclosure and Implementation of the U.S.-Iran Deal",
+        "description": "While initial details are emerging, the complete text and the practical implementation of the agreement remain critical. Analysts should monitor the official release of all terms and how both parties adhere to their commitments, especially regarding the Strait of Hormuz and any broader regional provisions mentioned like Lebanon."
       },
       {
-        "title": "Global Oil Market Response to Iran's Return",
-        "description": "The peace deal reportedly allows Iran to immediately sell oil, which could significantly alter global energy dynamics. Analysts need to watch for the volume of Iranian oil entering the market, its effect on oil prices, and how it interacts with existing forecasts of a 2027 glut. This will determine the extent of the 'energy shock' and its long-term implications for the global economy."
+        "title": "Israel's Reaction and Regional Stability",
+        "description": "Israel's leader appears not to be fully on board with the preliminary deal, posing a potential challenge to regional stability. Watch for official statements, actions, or diplomatic efforts from Israel that could indicate their level of acceptance or opposition, and how this might impact the broader Middle East."
       },
       {
-        "title": "Political Challenges and Congressional Scrutiny of the Agreement",
-        "description": "Despite progress, the deal faces opposition from hawkish GOP critics, and previous attempts to block war powers measures in the Senate have been noted. Analysts should observe the political maneuvering, particularly within the US Congress, and the efforts by figures like JD Vance to garner support for the deal. The level of bipartisan support or opposition will dictate the deal's stability and long-term viability."
+        "title": "Durability of the Ceasefire and U.S. Commitment",
+        "description": "President Trump signed the ceasefire agreement but also stated he could still resume attacks, indicating the deal's potential fragility. Analysts should closely monitor any rhetoric or actions from the U.S. administration that could signal a potential withdrawal or escalation, testing the long-term viability of the agreement."
       },
       {
-        "title": "Regional Security and Israeli Withdrawal Demands",
-        "description": "The G7 leaders have demanded a ceasefire in Lebanon, and Hezbollah has stated Iran will not sign the MOU without an Israeli withdrawal. Analysts must monitor the situation in Lebanon and the broader Middle East, specifically how the peace deal impacts regional proxies and the potential for Israeli withdrawal. This will be crucial for assessing overall regional stability post-agreement."
+        "title": "Economic Repercussions and Iran's Recovery",
+        "description": "The deal provides Iran with a major economic lifeline, while global oil prices have fallen and food prices remain high. Track the economic recovery within Iran, the impact on global energy markets, and any shifts in international trade and investment as sanctions potentially ease."
+      },
+      {
+        "title": "Strait of Hormuz Security and Shipping Lanes",
+        "description": "A key component of the agreement is the expected opening of the Strait of Hormuz. It is crucial to monitor the actual security and freedom of navigation through this vital waterway, as any disruptions could quickly escalate tensions and impact global trade."
+      },
+      {
+        "title": "Saudi Aramco's Strategic Adjustments",
+        "description": "Saudi Aramco is considering expanding its storage capacity worldwide in the aftermath of the Iran war. This indicates a strategic response to the new geopolitical and energy landscape; analysts should watch for concrete investment decisions and their implications for global oil supply and logistics."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "G7 leaders demand ceasefire in Lebanon, welcome Iran deal - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/g7-leaders-demand-ceasefire-lebanon-welcome-iran-deal-2026-06-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 17, 2026 · 05:46 BRT",
-      "pub_date": "2026-06-17",
-      "pub_ts": 1781686001,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran War Has Irrevocably Changed the Middle Eastern Oil Trade - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-16/iran-war-has-irrevocably-changed-the-middle-eastern-oil-trade",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 17, 2026 · 03:11 BRT",
-      "pub_date": "2026-06-17",
-      "pub_ts": 1781676701,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US Set to Offer Iran Broad Financial Gains in Peace Deal - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-16/us-iran-deal-set-to-offer-iran-broad-financial-gains-to-end-war",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 17, 2026 · 00:08 BRT",
-      "pub_date": "2026-06-17",
-      "pub_ts": 1781665680,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Oil steadies as investors weigh peace deal, IEA forecasts 2027 glut - Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-stabilise-investors-weigh-iran-war-end-hormuz-reopening-uncertainty-2026-06-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 16, 2026 · 22:09 BRT",
-      "pub_date": "2026-06-16",
-      "pub_ts": 1781658540,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Carney says he's seen U.S.-Iran framework to end war, calls it a 'game changer' in CNN interview - CBC",
-      "url": "https://www.cbc.ca/news/politics/carney-iran-u-s-war-deal-9.7238187",
-      "source": "CBC",
-      "domain": "cbc.ca",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=cbc.ca",
-      "published": "Jun 17, 2026 · 00:08 BRT",
-      "pub_date": "2026-06-17",
-      "pub_ts": 1781665680,
-      "summary": "Prime Minister Mark Carney says he's seen a copy of the preliminary deal struck between the U.S. and Iran to end hostilities in the Middle East and is calling it a \"game changer.\"",
-      "tags": [
-        "extracted",
-        "cbc.ca"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "The Iran War Permanently Altered the Global Economy - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html",
+      "title": "U.S.-Iran Agreement Includes Strait of Hormuz, Lebanon and More: See Full Text of the Deal - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 16, 2026 · 06:01 BRT",
-      "pub_date": "2026-06-16",
-      "pub_ts": 1781600466,
-      "summary": "The global order has been altered, and economies are unlikely to simply pick up where they left off before the U.S. and Israel began bombing Iran.",
+      "published": "Jun 18, 2026 · 04:10 BRT",
+      "pub_date": "2026-06-18",
+      "pub_ts": 1781766600,
+      "summary": "New York Times reporters annotated the agreement, which a senior official disclosed on Wednesday.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil falls to lowest since start of Iran war after ceasefire deal signed - Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-slips-again-us-iran-sign-peace-deal-2026-06-18/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 18, 2026 · 05:53 BRT",
+      "pub_date": "2026-06-18",
+      "pub_ts": 1781772827,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump Defends Deal to End the War With Iran as Details Emerge - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 17, 2026 · 18:17 BRT",
+      "pub_date": "2026-06-17",
+      "pub_ts": 1781731058,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. and Iran sign initial deal to end war and open Strait of Hormuz - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 18, 2026 · 07:44 BRT",
+      "pub_date": "2026-06-18",
+      "pub_ts": 1781779493,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Video: Trump Signs Preliminary Deal to End the War With Iran - The New York Times",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010975931/trump-signs-iran-deal.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 18, 2026 · 05:18 BRT",
+      "pub_date": "2026-06-18",
+      "pub_ts": 1781770708,
+      "summary": "The White House confirmed that President Trump signed the memorandum of understanding between the United States and Iran on Wednesday at the Palace of Versailles.",
+      "tags": [
+        "US and Israeli Attack on Iran",
+        "US Foreign Policy",
+        "Donald Trump",
+        "Iran",
+        "US"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 18, 2026 · 06:28 BRT",
+      "pub_date": "2026-06-18",
+      "pub_ts": 1781774901,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -39911,7 +39950,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-17T11:06:29.417207+00:00",
-  "last_watch_time": "2026-06-17T11:06:37.998517+00:00",
-  "last_relevant_time": "2026-06-17T11:06:46.218265+00:00"
+  "last_digest_time": "2026-06-18T11:05:48.860102+00:00",
+  "last_watch_time": "2026-06-18T11:05:57.969985+00:00",
+  "last_relevant_time": "2026-06-18T11:06:04.883086+00:00"
 }

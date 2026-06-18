@@ -22802,7 +22802,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-14"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -24000,7 +24000,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-17"
+      "pub_date": "2026-06-18"
     },
     "https://www.nytimes.com/live/2026/06/03/us/trump-administration-news": {
       "summary": "",
@@ -24409,7 +24409,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-17"
+      "pub_date": "2026-06-16"
     },
     "https://www.reuters.com/world/middle-east/has-trump-achieved-his-goals-war-with-iran-2026-06-17/": {
       "summary": "",
@@ -24813,6 +24813,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-18"
+    },
+    "https://www.bloomberg.com/features/2026-iran-war-food-inflation/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.reuters.com/business/energy/oil-slips-again-us-iran-sign-peace-deal-2026-06-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-17"
     }
   },
   "last_run_success": true,
@@ -37517,6 +37537,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "The Iran War May Be Over. Higher Food Prices Aren’t. - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UYTRlbjZITmxYXzN6ZkxsQzQ2UTd3cUVEUjV4TmpkOUNlVVBRYm1QYmNQdEItNFd2U2hQZGF0Rm9uMUtnNzhzTnF4ZzFSZy1SaGNGZW9FUUhQQXl3Q0dPeDRBLUFSYnZmUkRmYXo0QkROUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 03:00 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781762400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "War Hangs Over American Farmers as Fertilizer Prices Rise - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEU212Q2VUOTBINWVHVVcwVzlic3QybDVCc1BPakc3aXE3Sk9VYUJuV2J2MVVUYmZ0aGx2WS1nY0JicGQ1TlMwV1lsMWRIOHFvcDNtN0ZlVHhyLXNyRWZIZ3hOTnBxZjlnMnZuLTNRQ09MOUE2UDVkdGZiRk8?oc=5",

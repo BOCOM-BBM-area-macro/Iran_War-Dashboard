@@ -22802,7 +22802,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-14"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -24962,11 +24962,54 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-18"
+    },
+    "https://www.wsj.com/world/middle-east/trumps-deal-sidesteps-key-reasons-he-went-to-war-with-iran-6820b1b4": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.washingtonpost.com/opinions/2026/06/18/is-iran-war-really-over/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.jpost.com/middle-east/article-899829": {
+      "summary": "While Gulf states were likely relieved by what they see as a “tactical pause,” there is an obvious fear that the financial terms of the agreement would allow Iran to further destabilize the region.",
+      "tags": [
+        "Iran",
+        "Donald Trump",
+        "Memorandum of Understanding",
+        "Gulf States",
+        "USA"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.cbc.ca/news/world/strait-of-hormuz-tankers-pass-iran-israel-strikes-lebanon-9.7239768": {
+      "summary": "Israel's military published a map on Thursday showing an expanded zone of control for its troops in southern Lebanon, as Israeli officials told Reuters Israel was holding talks with the U.S. over continuing its deployment.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-18",
-  "last_generated_time": "2026-06-18T12:01:48.057230+00:00",
+  "last_generated_time": "2026-06-18T14:02:12.967412+00:00",
   "digest": {
     "digest": "The United States and Iran have signed a preliminary deal to end the ongoing war, with the agreement expected to facilitate the reopening of the Strait of Hormuz. President Trump confirmed the signing of a memorandum of understanding, though the specific terms of the deal have not been fully disclosed. Reports indicate the agreement addresses issues beyond the Strait of Hormuz, including Lebanon. While the deal aims to de-escalate tensions, President Trump has stated that military actions could resume. The G7 leaders have expressed support for the agreement as more details become available. This development has led to a significant drop in oil prices, reaching their lowest point since the conflict began. Saudi Aramco is reportedly considering expanding its global storage capacity in response to the war's conclusion. Despite the agreement, concerns remain about potential economic consequences, such as higher food prices. The deal provides Iran with economic relief in exchange for minimal concessions, according to initial reports.",
     "top_themes": [
@@ -37718,6 +37761,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "Global fertilizer trade down 30% this year amid Iran war, UN says - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU5YeWhWaGdKUlhuWHh6VFlpT0VvOGI4Q1JjX1RDVE9GbjREa0wwSlEtbXJLYU1oN2E5NWlUeUloSGtURHVMVF9WSTdtbmhZQ1hERTNOLWJPd2ZWeVI2bEsyWVdRVVJGOElkbG9La0pDRmIwU0RoaFROamExeE9kM3hvbnhwNjBERGExRXZFakR4ZENveVF5NkNJT08yUFFxeXJsQTNzdWVkSG5sWEE?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 12:09 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781795350,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "The Iran War May Be Over. Higher Food Prices Aren’t. - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UYTRlbjZITmxYXzN6ZkxsQzQ2UTd3cUVEUjV4TmpkOUNlVVBRYm1QYmNQdEItNFd2U2hQZGF0Rm9uMUtnNzhzTnF4ZzFSZy1SaGNGZW9FUUhQQXl3Q0dPeDRBLUFSYnZmUkRmYXo0QkROUQ?oc=5",
           "source": "Bloomberg.com",
@@ -39183,6 +39240,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Gold slips as hawkish Fed signals lift dollar, boost rate hike bets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa254NGd0TnM3NEliRVJYV2J3blZ4NzZ0b1dhMEMzSE9YWG9qQ2xmSzE3WHN1cEV1WXVrVGkzcUhFQVVnZXVtT2cyejY3UzdLM3JtRVlzaVpWNzNDZXdzOHlveGk3Wm13aXpaQVVTVnZYT0xZRmxHcXJtNTlsOEFYeXJaWEdKeHR0MWVnT3hJNkRYbFVCUEJEM0RCbjd6QQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 00:06 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781751960,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gold little changed as markets eye Warsh's Fed debut, US-Iran deal details - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmo2a0piWUpISXJxNEJNWlprT0NaYUx4OU1pZzZ6QUp3dUZCdGlsTUQxNlhZaG9WaXVNT1I2ZWxUb2RUSERFZ3ZpSVktbGN6N1JNUFdZdUplNEJsMWdPX1d0bi03b0lWVGk3TjBaYkJBY3NNQXJpazhpYmNhVndseV9wNXVuSW1IRDlMMTZBTVROeFdBRmkwa0s4Yk9hWHZVcGlmLVdUVXZEdw?oc=5",

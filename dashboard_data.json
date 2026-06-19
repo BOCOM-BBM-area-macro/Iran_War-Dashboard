@@ -25158,11 +25158,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-18"
+    },
+    "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal": {
+      "summary": "The vice president delivered a rebuke to Israeli critics of the agreement, warning them not to alienate their most important ally, as the administration sought to rebut mounting criticism of the deal.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.axios.com/2026/06/18/trump-iran-war-power-no-limits": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-18/philippine-thai-earnings-southeast-asia-s-worst-hit-by-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-18",
-  "last_generated_time": "2026-06-18T20:02:07.678222+00:00",
+  "last_generated_time": "2026-06-18T21:02:06.860548+00:00",
   "digest": {
     "digest": "The United States and Iran have signed a preliminary deal to end the ongoing war, with the agreement expected to facilitate the reopening of the Strait of Hormuz. President Trump confirmed the signing of a memorandum of understanding, though the specific terms of the deal have not been fully disclosed. Reports indicate the agreement addresses issues beyond the Strait of Hormuz, including Lebanon. While the deal aims to de-escalate tensions, President Trump has stated that military actions could resume. The G7 leaders have expressed support for the agreement as more details become available. This development has led to a significant drop in oil prices, reaching their lowest point since the conflict began. Saudi Aramco is reportedly considering expanding its global storage capacity in response to the war's conclusion. Despite the agreement, concerns remain about potential economic consequences, such as higher food prices. The deal provides Iran with economic relief in exchange for minimal concessions, according to initial reports.",
     "top_themes": [
@@ -25321,6 +25351,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdDdJdGdoOXdsZTF6ZUhRS1I1akpzQWdiNE1EcTFCMjA2SnFqQkNmMEFUc1Q1X1RMNzNpMG9sUmE1dTgzYlAxUlI4TDdxcVJlMncwWUF3a3RmUjBrZ3dFTlc3blA4X1JObDh4OHV2T0pMOUc0R2VV?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 20:37 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781825858,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trading Day: Stocks rally, oil hits pre-Iran-war lows as Strait of Hormuz reopens for business - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWi11em9BSXkyTVBsZ09QdU5zS3lZTUh3TE1kV3VCanhVOTdYaDlqamZvRmlNaERYdzZ6ejdZZ3M5TUUzNWlwaE5teGdpOGdVVmlyOHR6SFJ4eF8ya2dpaXlCb01kMVB1Sm92VVVaRzVDVFhVMHBOMlBvRjQtWXk3T0EzSTdZdW96bm1IN3h4aERkRXotb2tmeUd5T2dvZllJVjFhM3ZR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 18:03 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781816623,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil flowing through the strait, says Vance, but Israeli strikes in Lebanon raise doubts over peace - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
@@ -25974,6 +26032,20 @@
           "published": "Jun 15, 2026 · 02:26 BRT",
           "pub_date": "2026-06-15",
           "pub_ts": 1781501160,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US and Iran Agree to Halt War, Restart Middle East Oil Shipments - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2c4Q1dLQVRXZXVLWUlvOWtxSDJSVnBiNU55OVE5MGpFdHRMVmZ0UlZoLWZESzFqbTZua1p5M21tOFpYc2NPZ0EzdmVLb1JiVHFTbGw5Y2U5LTZEekk1QUxqdUpzdThlVURHV011RVMydWRqblF2RDhhNU03ajU0LVBhSUZGT044ZngyZXBfU1J5cFNFdVkzdkFMUGFoNUlaaUZRVA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 01:14 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781496840,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

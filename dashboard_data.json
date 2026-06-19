@@ -25361,73 +25361,99 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-19"
+    },
+    "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-18",
-  "last_generated_time": "2026-06-18T23:02:01.703584+00:00",
+  "last_generated_date": "2026-06-19",
+  "last_generated_time": "2026-06-19T08:01:59.205757+00:00",
   "digest": {
-    "digest": "The United States and Iran have signed a preliminary deal to end the ongoing war, with the agreement expected to facilitate the reopening of the Strait of Hormuz. President Trump confirmed the signing of a memorandum of understanding, though the specific terms of the deal have not been fully disclosed. Reports indicate the agreement addresses issues beyond the Strait of Hormuz, including Lebanon. While the deal aims to de-escalate tensions, President Trump has stated that military actions could resume. The G7 leaders have expressed support for the agreement as more details become available. This development has led to a significant drop in oil prices, reaching their lowest point since the conflict began. Saudi Aramco is reportedly considering expanding its global storage capacity in response to the war's conclusion. Despite the agreement, concerns remain about potential economic consequences, such as higher food prices. The deal provides Iran with economic relief in exchange for minimal concessions, according to initial reports.",
+    "digest": "Recent reports indicate a significant US-Iran deal has been reached, with implications for regional dynamics and Iran's global economic reintegration. Vice President Vance has issued strong statements defending the agreement, emphasizing the US as Israel's primary ally and highlighting the substantial US financial contribution to Israel's defense, while also rebuking Israeli critics of the deal. The Pentagon has formally requested $80 billion from lawmakers, citing the ongoing Iran war and other expenditures, a request that has encountered legislative hurdles amid scrutiny of war-related costs. The conflict's financial and human toll, including thousands of lives and billions of dollars, is under renewed examination. Diplomatic efforts appear to be facing setbacks, with a scheduled Switzerland meeting concerning US-Iran peace talks being canceled, casting uncertainty over the timing of future negotiations. The deal itself is described as sidestepping the original justifications for the conflict, with some analyses suggesting it offers a familiar, potentially false, promise of resolution. The war's impact extends to global markets, with oil prices experiencing significant weekly losses due to the outlook for a US-Iran truce, and also fueling interest in renewable energy sources according to a multilateral lender. The agreement is seen as redrawing the Middle East map, with Iran potentially gaining advantages while alarming regional rivals.",
     "top_themes": [
-      "US-Iran Ceasefire Agreement",
-      "Strait of Hormuz Reopening",
-      "Global Oil Market Impact"
+      "US-Iran Deal and its Implications",
+      "Military Spending and Costs of Conflict",
+      "Diplomatic Relations and Peace Talks"
     ],
     "next_events": [
       {
-        "title": "Full Disclosure and Implementation of the U.S.-Iran Deal",
-        "description": "While initial details are emerging, the complete text and the practical implementation of the agreement remain critical. Analysts should monitor the official release of all terms and how both parties adhere to their commitments, especially regarding the Strait of Hormuz and any broader regional provisions mentioned like Lebanon."
+        "title": "Monitoring the US-Iran Peace Deal's Implementation",
+        "description": "The recent agreement aims to end the Iran War, but its full scope and implementation remain uncertain. Analysts should watch for specific details of the deal, the progress of peace talks (especially after the scrapped Switzerland meeting), and how Iran reintegrates into the global economy."
       },
       {
-        "title": "Israel's Reaction and Regional Stability",
-        "description": "Israel's leader appears not to be fully on board with the preliminary deal, posing a potential challenge to regional stability. Watch for official statements, actions, or diplomatic efforts from Israel that could indicate their level of acceptance or opposition, and how this might impact the broader Middle East."
+        "title": "Shifting Dynamics in US-Israel Relations",
+        "description": "Vice President Vance's blunt warnings to Israel highlight potential strain in the alliance following the US-Iran agreement. It is crucial to monitor Israel's official and unofficial reactions to the deal, as well as any changes in US military or diplomatic support for Israel, given the strong rhetoric about Israel's reliance on US aid."
       },
       {
-        "title": "Durability of the Ceasefire and U.S. Commitment",
-        "description": "President Trump signed the ceasefire agreement but also stated he could still resume attacks, indicating the deal's potential fragility. Analysts should closely monitor any rhetoric or actions from the U.S. administration that could signal a potential withdrawal or escalation, testing the long-term viability of the agreement."
+        "title": "Congressional Debate on Iran War Funding and US Military Budget",
+        "description": "The Pentagon's request for $80 billion to cover Iran War costs and other bills, coupled with snags in Trump's military budget, signals a significant financial challenge. Analysts should track congressional debates, potential budget approvals or rejections, and the long-term impact on US defense spending and military readiness."
       },
       {
-        "title": "Economic Repercussions and Iran's Recovery",
-        "description": "The deal provides Iran with a major economic lifeline, while global oil prices have fallen and food prices remain high. Track the economic recovery within Iran, the impact on global energy markets, and any shifts in international trade and investment as sanctions potentially ease."
+        "title": "Geopolitical Realignment and Regional Reactions to the Iran Deal",
+        "description": "The US-Iran deal is expected to redraw the Middle East, with Iran potentially gaining influence and its rivals alarmed. It is vital to observe the reactions and strategic adjustments of other regional powers, the stability of existing alliances, and any potential for new conflicts or shifts in power dynamics."
       },
       {
-        "title": "Strait of Hormuz Security and Shipping Lanes",
-        "description": "A key component of the agreement is the expected opening of the Strait of Hormuz. It is crucial to monitor the actual security and freedom of navigation through this vital waterway, as any disruptions could quickly escalate tensions and impact global trade."
-      },
-      {
-        "title": "Saudi Aramco's Strategic Adjustments",
-        "description": "Saudi Aramco is considering expanding its storage capacity worldwide in the aftermath of the Iran war. This indicates a strategic response to the new geopolitical and energy landscape; analysts should watch for concrete investment decisions and their implications for global oil supply and logistics."
+        "title": "Economic and Energy Market Repercussions of Iran's Reintegration",
+        "description": "With the potential for Iran to reconnect to the global economy, analysts should monitor its impact on international trade, investment, and particularly energy markets. The reported interest in renewables due to the war and the volatility in Brent crude prices suggest significant shifts are underway."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S.-Iran Agreement Includes Strait of Hormuz, Lebanon and More: See Full Text of the Deal - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html",
+      "title": "Exclusive | Pentagon Tells Lawmakers It Needs $80 Billion for Iran War and Other Bills - WSJ",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-tells-lawmakers-it-needs-80-billion-for-iran-war-and-other-bills-c4b8ff91",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 18, 2026 · 23:11 BRT",
+      "pub_date": "2026-06-18",
+      "pub_ts": 1781835068,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "The Costs of the Iran War: Thousands of Lives and Billions of Dollars - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/19/us/politics/iran-war-costs-deaths.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 18, 2026 · 04:10 BRT",
-      "pub_date": "2026-06-18",
-      "pub_ts": 1781766600,
-      "summary": "New York Times reporters annotated the agreement, which a senior official disclosed on Wednesday.",
+      "published": "Jun 19, 2026 · 06:04 BRT",
+      "pub_date": "2026-06-19",
+      "pub_ts": 1781859862,
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Oil falls to lowest since start of Iran war after ceasefire deal signed - Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-slips-again-us-iran-sign-peace-deal-2026-06-18/",
+      "title": "Brent heading for over 8% weekly loss as traders weigh US-Iran truce outlook - Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-falls-supply-starts-moving-through-strait-hormuz-2026-06-19/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 18, 2026 · 05:53 BRT",
-      "pub_date": "2026-06-18",
-      "pub_ts": 1781772827,
+      "published": "Jun 19, 2026 · 05:59 BRT",
+      "pub_date": "2026-06-19",
+      "pub_ts": 1781859559,
       "summary": "",
       "tags": [
         "extracted",
@@ -25439,14 +25465,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump Defends Deal to End the War With Iran as Details Emerge - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
+      "title": "How Deal With U.S. Could Reconnect Iran to the Global Economy - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 17, 2026 · 18:17 BRT",
-      "pub_date": "2026-06-17",
-      "pub_ts": 1781731058,
+      "published": "Jun 19, 2026 · 06:04 BRT",
+      "pub_date": "2026-06-19",
+      "pub_ts": 1781859843,
       "summary": "",
       "tags": [
         "extracted",
@@ -25458,18 +25484,18 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. and Iran sign initial deal to end war and open Strait of Hormuz - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 18, 2026 · 07:44 BRT",
+      "title": "US-Iran deal redraws the Middle East: Iran gains, rivals alarmed - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-deal-redraws-middle-east-iran-gains-rivals-alarmed-2026-06-18/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 18, 2026 · 14:06 BRT",
       "pub_date": "2026-06-18",
-      "pub_ts": 1781779493,
+      "pub_ts": 1781802360,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -25477,39 +25503,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Video: Trump Signs Preliminary Deal to End the War With Iran - The New York Times",
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010975931/trump-signs-iran-deal.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 18, 2026 · 05:18 BRT",
+      "title": "Iran Deal Skirts Why Trump Went to War - WSJ",
+      "url": "https://www.wsj.com/business/iran-deal-skirts-why-trump-went-to-war-ad98c3ad",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 18, 2026 · 18:14 BRT",
       "pub_date": "2026-06-18",
-      "pub_ts": 1781770708,
-      "summary": "The White House confirmed that President Trump signed the memorandum of understanding between the United States and Iran on Wednesday at the Palace of Versailles.",
-      "tags": [
-        "US and Israeli Attack on Iran",
-        "US Foreign Policy",
-        "Donald Trump",
-        "Iran",
-        "US"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 18, 2026 · 06:28 BRT",
-      "pub_date": "2026-06-18",
-      "pub_ts": 1781774901,
+      "pub_ts": 1781817240,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -40705,7 +40710,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-18T11:05:48.860102+00:00",
-  "last_watch_time": "2026-06-18T11:05:57.969985+00:00",
-  "last_relevant_time": "2026-06-18T11:06:04.883086+00:00"
+  "last_digest_time": "2026-06-19T11:07:11.130595+00:00",
+  "last_watch_time": "2026-06-19T11:07:21.825510+00:00",
+  "last_relevant_time": "2026-06-19T11:07:23.733574+00:00"
 }

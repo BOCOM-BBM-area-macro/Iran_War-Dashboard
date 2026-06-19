@@ -22802,7 +22802,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-13"
+      "pub_date": "2026-06-14"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -24865,7 +24865,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-18"
+      "pub_date": "2026-06-19"
     },
     "https://www.wsj.com/business/energy-oil/saudi-aramco-weighs-expanding-storage-capacity-after-iran-war-fbd3a1c1": {
       "summary": "",
@@ -25214,6 +25214,16 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.timesofisrael.com/poll-71-of-israelis-dont-trust-trump-to-look-out-for-them-in-iran-deal-just-11-say-israel-won-war/": {
+      "summary": "Trump says he'll 'most likely' endorse Netanyahu but wants to see who else is running, as survey underscores deep discontent among Israeli public over US-Iran deal and PM's conduct",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

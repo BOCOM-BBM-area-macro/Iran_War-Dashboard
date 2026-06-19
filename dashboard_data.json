@@ -25177,7 +25177,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-19"
+      "pub_date": "2026-06-18"
     },
     "https://www.bloomberg.com/news/articles/2026-06-18/philippine-thai-earnings-southeast-asia-s-worst-hit-by-iran-war": {
       "summary": "",
@@ -25454,11 +25454,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-19"
+    },
+    "https://www.wsj.com/world/trump-defends-iran-deal-says-he-wants-to-avoid-economic-catastrophe-cdf41846": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
+    },
+    "https://www.washingtonpost.com/opinions/2026/06/19/trumps-iran-war-failure-offers-three-important-lessons/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
+    },
+    "https://www.ft.com/content/bd4c29d7-8893-4007-8fff-0c4db216d06c": {
+      "summary": "The country carries the seeds of escalation that could undo Trump’s tenuous deal with Tehran",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
+    },
+    "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-19",
-  "last_generated_time": "2026-06-19T13:02:01.572112+00:00",
+  "last_generated_time": "2026-06-19T14:01:33.010537+00:00",
   "digest": {
     "digest": "Recent reports indicate a significant US-Iran deal has been reached, with implications for regional dynamics and Iran's global economic reintegration. Vice President Vance has issued strong statements defending the agreement, emphasizing the US as Israel's primary ally and highlighting the substantial US financial contribution to Israel's defense, while also rebuking Israeli critics of the deal. The Pentagon has formally requested $80 billion from lawmakers, citing the ongoing Iran war and other expenditures, a request that has encountered legislative hurdles amid scrutiny of war-related costs. The conflict's financial and human toll, including thousands of lives and billions of dollars, is under renewed examination. Diplomatic efforts appear to be facing setbacks, with a scheduled Switzerland meeting concerning US-Iran peace talks being canceled, casting uncertainty over the timing of future negotiations. The deal itself is described as sidestepping the original justifications for the conflict, with some analyses suggesting it offers a familiar, potentially false, promise of resolution. The war's impact extends to global markets, with oil prices experiencing significant weekly losses due to the outlook for a US-Iran truce, and also fueling interest in renewable energy sources according to a multilateral lender. The agreement is seen as redrawing the Middle East map, with Iran potentially gaining advantages while alarming regional rivals.",
     "top_themes": [
@@ -37346,6 +37386,20 @@
       "theme": "Jet Fuel",
       "articles": [
         {
+          "title": "Philippine, Thai Earnings Southeast Asia’s Worst Hit by Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ29fdkp6by1xWWJOcU42ejM5RFYzY2YwbEFfTjBEU2R0V0E0Vng2LXN6YmsyWGZnRDdsdDZwenBJZ05PNnY2cEEtaGdvX2w4cGxnYi1rSURCSnpnd0VXREk4bFV1cU4xMnZKdHZteFpnY1lvSXJQQmVqejk1LW51bHF3TlZLLU9xMjJHUGwtRmVpSUpNM3VmVXI3NzdTRm1kSEh4MXg3c1QwMkdIS2MxTGVCdVM?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 20:00 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781823600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Jet fuel market rebalances on higher production, imports, IEA says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1FIYkNIc3hVYkhnWDFKMFhxeXNXRzhOTmFOalBwY0thYmprcGk5SEdwN2NLLU1lb1BoNWJEaWgtaUVTMTJYRHJDTjFPMWQ0MVZpSDVSVkNnTDA4T3B4STNFLXk2b2RUY3RIZDNuc1p2TVVNRUk5R1NMMUlSRW0tMEM2MnRTTjAwN3NNR05WN0lKUFRJeFhvYjd6YUdxRFh3ekNsVV9sZXI2NDhDT0NnM2lmYw?oc=5",
           "source": "Reuters",
@@ -37354,6 +37408,20 @@
           "published": "Jun 17, 2026 · 08:42 BRT",
           "pub_date": "2026-06-17",
           "pub_ts": 1781696537,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Airport Handler Menzies Sees High Jet Fuel Prices Through Summer - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmxudE5qd05lMlVVcVJkdi1FLU5sNWdreDhPZElkdmpTM3Q1MnFEQ285cDFVeUFWTmp3VE5lUi1JZk0zRUl1Qm5TYUFuM2FkdGNUV0NmWlJ1VFZZUVVuekdtbGE3SkZvTXRUbWhid0UtSXlQN0ZORlVaRjhnZXdacmdqSU1Eam13YlVRa1hUZzd5aXF5Z250eVJaSTd6RFRsMWFQa2t2bEk4TDFKbFhTdWNaVlBfZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 15, 2026 · 10:29 BRT",
+          "pub_date": "2026-06-15",
+          "pub_ts": 1781530193,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

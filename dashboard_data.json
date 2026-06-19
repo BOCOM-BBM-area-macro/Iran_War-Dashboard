@@ -22802,7 +22802,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-14"
+      "pub_date": "2026-06-13"
     },
     "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114": {
       "summary": "Earlier this week, the U.S. launched two nights of airstrikes on Iran. Those attacks seemed to suggest that the U.S. believes the regime, despite weeks of coming under constant bombardment before the April ceasefire, still retains a significant cache of weapons that need to be taken out.",
@@ -25204,6 +25204,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-18"
+    },
+    "https://www.wsj.com/politics/national-security/pentagon-tells-lawmakers-it-needs-80-billion-for-iran-war-and-other-bills-c4b8ff91": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

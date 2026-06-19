@@ -23980,7 +23980,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-16"
+      "pub_date": "2026-06-17"
     },
     "https://www.bloomberg.com/news/articles/2026-06-16/sudan-ditches-iran-weapons-courting-us-support-for-ending-war": {
       "summary": "",
@@ -25228,6 +25228,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-18"
+    },
+    "https://www.reuters.com/world/us/pentagon-tells-us-lawmakers-it-needs-80-billion-iran-war-other-bills-wsj-reports-2026-06-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
+    },
+    "https://www.nytimes.com/2026/06/18/world/iran-trump-us-uk-special-election-world-cup.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/18/parts-trumps-iran-deal-sharply-criticized-by-some-key-republicans/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
     }
   },
   "last_run_success": true,
@@ -25391,6 +25421,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil falls as supply moves through Strait of Hormuz after Iran war pact - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG8wSGhHblhWdlppN2pVNUt0WFExeHM3a2xOS19weUVYRmEtSnQtVlRMNnBxY0hoZkF4b181N0FmTTQyNkFfYTduYUJHSGlreF9vSC1Ib1RPRFU1RERHRngtYWUwTEt0ZkpPSFdlOHBZMF9BN1JMenpYTzcwZ0RzOENHQ2Q1VTc2R0poVWdaTUNLc1lJbjMzRmttWW9LOC1FMWtHU0ZlTQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 23:00 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781834400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdDdJdGdoOXdsZTF6ZUhRS1I1akpzQWdiNE1EcTFCMjA2SnFqQkNmMEFUc1Q1X1RMNzNpMG9sUmE1dTgzYlAxUlI4TDdxcVJlMncwWUF3a3RmUjBrZ3dFTlc3blA4X1JObDh4OHV2T0pMOUc0R2VV?oc=5",

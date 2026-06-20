@@ -25581,10 +25581,13 @@
       "pub_date": "2026-06-20"
     },
     "https://www.bloomberg.com/news/articles/2026-06-20/pakistan-brokers-us-iran-peace-deal-boosting-its-global-status": {
-      "summary": "",
+      "summary": "Throughout the nearly four-month Iran war, few countries were more visibly at the center of the efforts to end it than Pakistan, an unlikely actor thrust into the spotlight by US President Donald Trump.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Pakistan",
+        "Donald John Trump",
+        "Iran",
+        "Shehbaz Sharif",
+        "Cold War"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -25608,7 +25611,17 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-19"
+      "pub_date": "2026-06-20"
+    },
+    "https://www.reuters.com/world/middle-east/iranian-guards-business-empire-win-big-if-us-sanctions-lifted-2026-06-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-20"
     }
   },
   "last_run_success": true,

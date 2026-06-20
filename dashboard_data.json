@@ -25343,7 +25343,7 @@
       "pub_date": "2026-06-19"
     },
     "https://www.nytimes.com/2026/06/19/opinion/iran-israel-us-war-deal.html": {
-      "summary": "",
+      "summary": "The Iran deal wasn’t about peace but answering Trump’s personal needs.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -25566,11 +25566,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-19"
+    },
+    "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-20/pakistan-brokers-us-iran-peace-deal-boosting-its-global-status": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-19"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-19",
-  "last_generated_time": "2026-06-19T22:01:56.675184+00:00",
+  "last_generated_time": "2026-06-19T23:01:57.516312+00:00",
   "digest": {
     "digest": "Recent reports indicate a significant US-Iran deal has been reached, with implications for regional dynamics and Iran's global economic reintegration. Vice President Vance has issued strong statements defending the agreement, emphasizing the US as Israel's primary ally and highlighting the substantial US financial contribution to Israel's defense, while also rebuking Israeli critics of the deal. The Pentagon has formally requested $80 billion from lawmakers, citing the ongoing Iran war and other expenditures, a request that has encountered legislative hurdles amid scrutiny of war-related costs. The conflict's financial and human toll, including thousands of lives and billions of dollars, is under renewed examination. Diplomatic efforts appear to be facing setbacks, with a scheduled Switzerland meeting concerning US-Iran peace talks being canceled, casting uncertainty over the timing of future negotiations. The deal itself is described as sidestepping the original justifications for the conflict, with some analyses suggesting it offers a familiar, potentially false, promise of resolution. The war's impact extends to global markets, with oil prices experiencing significant weekly losses due to the outlook for a US-Iran truce, and also fueling interest in renewable energy sources according to a multilateral lender. The agreement is seen as redrawing the Middle East map, with Iran potentially gaining advantages while alarming regional rivals.",
     "top_themes": [
@@ -35025,6 +35045,20 @@
           "published": "Jun 18, 2026 · 18:09 BRT",
           "pub_date": "2026-06-18",
           "pub_ts": 1781816940,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Qatar Brings Empty LNG Ship Back for First Time Since War Began - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3FkRDJxcENUT1BXd19sZzRyaVc1VmlWUU96aUxDc3hTSlJvVF9xY1F1a29scDFHZ0k2WG5wUGt5THBiRFc0WFB6UVc5MkxKZ3lUNVhaYnhPeVRrRzRVaW5xTUlPX2xYT2RPankyNmNvRG5DTTQzaXI2bU45QUs3VjJfSVBSQVprSkd4dENXaXRydG1TQldZLWNHeWM0MmdLdzR3aWJaZWJ2UmpGY05IMlhKNE0?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 07:19 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781777986,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

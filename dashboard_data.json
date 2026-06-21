@@ -25167,7 +25167,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-20"
+      "pub_date": "2026-06-21"
     },
     "https://www.axios.com/2026/06/18/trump-iran-war-power-no-limits": {
       "summary": "",
@@ -25905,51 +25905,91 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-21"
+    },
+    "https://www.wsj.com/world/middle-east/war-in-lebanon-casts-shadow-over-renewed-iran-u-s-nuclear-talks-f457c7e9": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.timesofisrael.com/poll-92-of-israelis-believe-iran-emerged-as-winner-after-war-and-deal-with-us/": {
+      "summary": "Findings point to crisis of confidence in Israeli leadership, as majority of respondents don't believe PM's claims of achievements, rate his management of war poorly",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-20",
-  "last_generated_time": "2026-06-20T23:01:42.306837+00:00",
+  "last_generated_date": "2026-06-21",
+  "last_generated_time": "2026-06-21T08:02:05.253911+00:00",
   "digest": {
-    "digest": "Recent developments indicate a complex diplomatic landscape surrounding the Iran conflict. U.S. envoys are heading for talks with Iran, coinciding with continued Israeli strikes following a new Lebanon ceasefire agreement. While a ceasefire in Lebanon has been committed to, Israeli troops are slated to remain, and key issues such as Israel's occupation and Hezbollah's arsenal remain unresolved. The U.S. military has lifted a blockade, though Israeli reactions to the Iran deal have drawn criticism. Talks have stalled prior to commencement due to issues related to Lebanon, highlighting significant hurdles ahead. World leaders remain wary of the Iran deal despite its potential to offer hope for peace, with the impact of the Iran War expected to persist. The conflict has incurred substantial costs, including thousands of lives and billions of dollars, with human and economic tolls mounting rapidly after the initial attacks. The potential lifting of U.S. sanctions could significantly benefit the business empire of Iranian Guards.",
+    "digest": "United States and Iranian officials convened for peace talks in Switzerland, with the Strait of Hormuz identified as a key point of tension. Vice President Vance engaged in diplomatic discussions, delivering a warning to Israeli critics of the agreement and defending the deal. These talks followed an initial agreement on nuclear arms and sanctions relief, with Iran's foreign minister indicating new negotiations would commence. Despite the diplomatic efforts, analysts suggest the primary threats posed by Iran remain unaddressed by the war or the recent deal. In Israel, a significant poll revealed that 92% of Israelis believe Iran emerged as the winner of the war and the subsequent deal with the US, with a majority also feeling the conflict weakened Israel's long-term security and that the country failed to achieve its objectives. The poll also indicated widespread dissatisfaction with Prime Minister Netanyahu's handling of the war and a negative view of US President Trump's management of the conflict. Meanwhile, a separate conflict in Lebanon continues to cast a shadow over the renewed Iran-US nuclear talks, and global oil markets are experiencing volatility, prompting some regions to accelerate renewable energy adoption.",
     "top_themes": [
-      "US-Iran Diplomacy",
-      "Lebanon Ceasefire",
-      "Economic Impact of Conflict"
+      "US-Iran Peace Talks",
+      "Strait of Hormuz Tensions",
+      "Israeli Public Opinion on Iran War Outcome"
     ],
     "next_events": [
       {
-        "title": "Stability and Implementation of the US-Iran Peace Deal",
-        "description": "Analysts should closely monitor the progress and stability of the emerging US-Iran peace deal. Despite initial agreements and 'glimmers of relief,' significant hurdles remain, including Israeli opposition and skepticism from world leaders. Watch for adherence to ceasefire terms, the resolution of contentious issues, and the reactions of all involved parties to ensure the deal's long-term viability."
+        "title": "Adherence to the US-Iran Agreement",
+        "description": "The recently signed agreement on nuclear arms and sanctions relief is a critical development. Analysts should closely monitor both Iran's compliance with the terms and the US's commitment to sanctions relief, as any perceived breach or failure to implement could quickly reignite tensions and unravel the peace efforts."
       },
       {
-        "title": "Israel's Actions and Regional Security Posture",
-        "description": "Israel's role as a potential spoiler to the peace deal and its continued military actions are critical. Despite a new Lebanon ceasefire, Israeli troops remain, and strikes have continued. Observe Israeli statements and military movements, particularly concerning Lebanon and the broader deal, as its actions could undermine peace efforts or lead to renewed escalation."
+        "title": "Stability of the Strait of Hormuz",
+        "description": "The Strait of Hormuz has re-emerged as a significant point of tension, with Iran having claimed its closure. Watch for any further Iranian naval activities, international responses, or disruptions to shipping, as this vital chokepoint remains a potential flashpoint for direct military confrontation."
       },
       {
-        "title": "Lebanon's Internal Dynamics and Regional Impact",
-        "description": "Lebanon has emerged as a 'weak link' in the US-Iran deal, with talks stalling over its unresolved issues, specifically Israel's occupation and Hezbollah's arsenal. Watch for any developments regarding these core conflicts, as the failure to address them could destabilize the broader peace agreement and reignite conflict in the region."
+        "title": "Israeli Political and Military Reactions",
+        "description": "Overwhelming Israeli public sentiment indicates a belief that Iran emerged as the winner of the war and deal, weakening Israel's long-term security. This deep dissatisfaction could pressure Israeli leadership towards unilateral actions, particularly against regional proxies like Hezbollah, or lead to significant internal political instability and shifts."
       },
       {
-        "title": "Economic Consequences and Sanctions Relief",
-        "description": "The economic impact of the war is profound, and the potential lifting of US sanctions is a key component of any peace deal. Analysts should track the actual implementation of sanctions relief and its effects on Iran's economy, including the potential for the Iranian Revolutionary Guard's business empire to benefit significantly. The persistence of war's economic costs despite a deal will also be important to observe."
+        "title": "US Domestic Political Influence on Iran Policy",
+        "description": "Despite the peace talks and a signed deal, US President Trump's initial desire to exit the Iran war and Vice President Vance's defense of the agreement highlight ongoing internal US political complexities. Future policy direction and the stability of the deal will be heavily influenced by domestic pressures and the administration's evolving stance."
       },
       {
-        "title": "Future of Hezbollah's Arsenal and Influence",
-        "description": "Hezbollah's arsenal is explicitly identified as an unresolved issue at the heart of the conflict in Lebanon, directly impacting the US-Iran deal. Monitor any negotiations, demands, or actions related to Hezbollah's disarmament or its future role in Lebanese and regional politics, as this will be a major determinant of long-term stability."
+        "title": "Regional Proxy Conflict Escalation",
+        "description": "The war in Lebanon and continued support for military action against Hezbollah cast a shadow over the renewed US-Iran nuclear talks. Analysts should watch for any renewed or intensified conflicts involving Iran-backed groups, as these proxy battles could destabilize the broader Middle East despite the direct peace efforts between the US and Iran."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. intelligence warns Israel is likely to undermine Iran peace deal, officials say - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/06/19/us-intelligence-warns-israel-is-likely-undermine-iran-peace-deal-officials-say/",
+      "title": "Trump wanted out of the Iran war. The aftermath is pulling him back in. - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/21/trump-confronts-new-hurdles-bid-peace-deal-with-iran/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 19, 2026 · 19:50 BRT",
-      "pub_date": "2026-06-19",
-      "pub_ts": 1781909446,
+      "published": "Jun 21, 2026 · 07:31 BRT",
+      "pub_date": "2026-06-21",
+      "pub_ts": 1782037919,
       "summary": "",
       "tags": [
         "extracted",
@@ -25961,74 +26001,37 @@
       "sentiment_success": false
     },
     {
-      "title": "US, Iran envoys head for talks, Israeli strikes continue after ceasefire - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-envoy-iranian-minister-head-switzerland-talks-2026-06-20/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 20, 2026 · 04:26 BRT",
-      "pub_date": "2026-06-20",
-      "pub_ts": 1781940369,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Chaotic run-up to U.S.-Iran talks signals steep hurdles ahead - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/20/diplomats-expect-hurdles-us-iran-talks-which-are-already-delayed/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 20, 2026 · 06:51 BRT",
-      "pub_date": "2026-06-20",
-      "pub_ts": 1781949072,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "The Costs of the Iran War: Thousands of Lives and Billions of Dollars - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/19/us/politics/iran-war-costs-deaths.html",
+      "title": "Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 19, 2026 · 06:04 BRT",
-      "pub_date": "2026-06-19",
-      "pub_ts": 1781859862,
-      "summary": "The human toll and economic costs mounted rapidly after the United States and Israel attacked Iran on Feb. 28.",
+      "published": "Jun 20, 2026 · 19:59 BRT",
+      "pub_date": "2026-06-20",
+      "pub_ts": 1781996373,
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "US-Iran Nuclear Talks Stall Over Lebanon Before They Begin - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-19/vance-delays-swiss-trip-as-white-house-says-talks-never-simple",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 20, 2026 · 03:21 BRT",
-      "pub_date": "2026-06-20",
-      "pub_ts": 1781936460,
+      "title": "Poll: 92% of Israelis believe Iran emerged as winner after war and deal with US - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/poll-92-of-israelis-believe-iran-emerged-as-winner-after-war-and-deal-with-us/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jun 21, 2026 · 04:15 BRT",
+      "pub_date": "2026-06-21",
+      "pub_ts": 1782026145,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -26036,18 +26039,56 @@
       "sentiment_success": false
     },
     {
-      "title": "Vance slams Israeli reaction to Iran deal as U.S. military lifts blockade - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/",
+      "title": "Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/fighting-flares-again-in-lebanon-despite-israel-hezbollah-ceasefire-4d0ffae8",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 20, 2026 · 19:34 BRT",
+      "pub_date": "2026-06-20",
+      "pub_ts": 1781994840,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. and Iranian negotiators meet in Switzerland to hash out peace plan - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 19, 2026 · 01:53 BRT",
-      "pub_date": "2026-06-19",
-      "pub_ts": 1781844780,
+      "published": "Jun 21, 2026 · 07:25 BRT",
+      "pub_date": "2026-06-21",
+      "pub_ts": 1782037548,
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Top-level US-Iran peace talks to begin at Swiss resort with Hormuz in spotlight - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-disputes-iranian-claims-about-closing-strait-hormuz-negotiators-head-2026-06-20/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 20, 2026 · 20:49 BRT",
+      "pub_date": "2026-06-20",
+      "pub_ts": 1781999340,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -26099,6 +26140,20 @@
           "published": "Jun 19, 2026 · 11:28 BRT",
           "pub_date": "2026-06-19",
           "pub_ts": 1781879308,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "For India, the Return of Iranian Oil Cannot Come Soon Enough - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPVFZ4akVRYkZ5bTdhY0d5emgwOHhKQ3haU2tWaGRqUGVkR2h2RFBITVJSWkVyLTktc0R2QkYwbjZvY05Xb291dklHTjVTdEI3TUdBZ2ZBUG9CRjlZaDItNzJqcmdXYXN0OFZaTzVoNm5jRmxJT09oV3VmRQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 19, 2026 · 10:17 BRT",
+          "pub_date": "2026-06-19",
+          "pub_ts": 1781875079,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -41439,7 +41494,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-20T11:10:21.103031+00:00",
-  "last_watch_time": "2026-06-20T11:10:30.169110+00:00",
-  "last_relevant_time": "2026-06-20T11:10:30.863915+00:00"
+  "last_digest_time": "2026-06-21T11:11:40.641530+00:00",
+  "last_watch_time": "2026-06-21T11:11:51.498450+00:00",
+  "last_relevant_time": "2026-06-21T11:11:52.149172+00:00"
 }

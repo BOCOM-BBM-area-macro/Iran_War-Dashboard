@@ -24792,7 +24792,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-18"
+      "pub_date": "2026-06-21"
     },
     "https://www.nytimes.com/2026/06/18/opinion/iran-nuclear-deal-trump.html": {
       "summary": "The world doesn’t need a nuclear deal with Tehran.",
@@ -25815,6 +25815,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-20"
+    },
+    "https://www.nytimes.com/2026/06/20/world/middleeast/iran-peace-talks-switzerland.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/poll-92-of-israelis-believe-iran-emerged-as-winner-after-war-and-deal-with-us/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49": {
+      "summary": "Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-20/vance-heads-to-us-iran-talks-with-status-of-hormuz-in-question": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
     }
   },
   "last_run_success": true,

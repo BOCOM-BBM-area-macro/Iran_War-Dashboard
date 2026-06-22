@@ -2885,46 +2885,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     {% if (cfg.hormuz_tracker.enabled and (hormuz_historical or hormuz_vessels)) or (cfg.trade_tracker.enabled and trade_data) %}
     <div id="hormuzTab" class="tab-content">
     
-    {% if hormuz_historical or hormuz_vessels %}
-    <div class="section-title" style="margin-bottom: 20px; color: var(--accent2); border-bottom: 2px solid var(--accent2);">Higher Frequency (hormuztracking.com)</div>
-    {% endif %}
-
-    {% if hormuz_historical %}
-    <div class="hourly-section">
-    <div class="section-header">
-    <div class="section-title">Hormuz Daily Transit Overview</div>
-    </div>
-    <div class="hourly-card">
-    <div class="hourly-chart-wrap" style="height: 450px;">
-    <canvas id="hormuzHistoricalChart"></canvas>
-    </div>
-    <div class="chart-controls" style="margin-top: 15px;">
-    <button class="chart-btn" onclick="updateHormuzChart('1mo', this)">1M</button>
-    <button class="chart-btn" onclick="updateHormuzChart('3mo', this)">3M</button>
-    <button class="chart-btn" onclick="updateHormuzChart('6mo', this)">6M</button>
-    <button class="chart-btn active" id="defaultHormuzBtn" onclick="updateHormuzChart('all', this)">ALL</button>
-    </div>
-    <div class="range-wrapper" id="hormuzRangeWrapper">
-        <div class="range-slider">
-            <span class="range-selected"></span>
-        </div>
-        <div class="range-input">
-            <input type="range" class="min" min="0" max="100" value="0" step="1" oninput="handleRangeInput('hormuz', 'min')">
-            <input type="range" class="max" min="0" max="100" value="100" step="1" oninput="handleRangeInput('hormuz', 'max')">
-        </div>
-        <div class="range-labels">
-            <span class="min-date">Start</span>
-            <span class="current-range">Select Range</span>
-            <span class="max-date">End</span>
-        </div>
-    </div>
-    <div class="hourly-note">Data source: Hormuz Tracking.</div>
-    </div>
-    </div>
-    {% endif %}
-
     {% if cfg.trade_tracker.enabled and trade_data %}
-    <div class="section-title" style="margin-top: 40px; margin-bottom: 20px; color: var(--accent); border-bottom: 2px solid var(--accent);">More robust data treatment (IMF PortWatch)</div>
     <div class="hourly-section">
     <div class="section-header">
     <div class="section-title">Hormuz Tracker (IMF) — Daily Transit & Capacity</div>

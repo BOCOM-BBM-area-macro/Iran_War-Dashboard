@@ -24875,7 +24875,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-18"
+      "pub_date": "2026-06-22"
     },
     "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html": {
       "summary": "The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.",
@@ -26421,30 +26421,39 @@
       "pub_date": "2026-06-22"
     },
     "https://www.bloomberg.com/news/articles/2026-06-22/gulf-oil-floods-through-hormuz-at-fastest-pace-since-war-began": {
-      "summary": "",
+      "summary": "The flow of oil through the Strait of Hormuz is running at the fastest pace since the Iran war began — despite Tehran stating that the world’s key shipping chokepoint is shut and a report that the Islamic Republic continues to harass passing vessels.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Generic 1st 'CL' Future",
+        "War",
+        "Iran",
+        "Tehran",
+        "Military"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-22"
     },
     "https://www.bloomberg.com/news/articles/2026-06-22/us-allows-sale-of-some-iranian-oil-as-part-of-deal-to-end-war": {
-      "summary": "",
+      "summary": "The US has authorized the sale of Iranian oil and fuels as part of an agreement to end the war against Tehran, a sweeping change after years of economic sanctions.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Generic 1st 'CL' Future",
+        "Iran",
+        "Economic Sanctions",
+        "War",
+        "Tehran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-22"
     },
     "https://www.bloomberg.com/news/articles/2026-06-22/iran-war-vance-hails-good-day-of-talks-as-us-waives-oil-sanctions": {
-      "summary": "",
+      "summary": "The US issued a 60-day license allowing Iran to sell oil on the international market, giving Tehran an economic lifeline as the two adversaries continued talks for a permanent peace deal.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Generic 1st 'CL' Future",
+        "Economic Sanctions",
+        "War",
+        "Tehran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -26504,10 +26513,13 @@
       "pub_date": "2026-06-22"
     },
     "https://www.bloomberg.com/news/articles/2026-06-22/israel-hezbollah-conflict-complicates-efforts-to-end-iran-war": {
-      "summary": "",
+      "summary": "After the US and Israel began their war with Iran on Feb. 28, the Iran-backed Lebanese militia Hezbollah was quick to join the fray, firing rockets and drones into Israel. Officials there saw in the crisis sweeping the region a chance to finally drive Hezbollah, already weakened by a series of setbacks, away from Israel’s northern border.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Israel",
+        "Iran",
+        "War",
+        "Lebanon",
+        "Beirut"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -26576,7 +26588,7 @@
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-22",
-  "last_generated_time": "2026-06-22T15:02:21.113038+00:00",
+  "last_generated_time": "2026-06-22T15:33:01.597265+00:00",
   "digest": {
     "digest": "Direct negotiations between the U.S. and Iran have concluded, with mediators reporting progress towards settling a four-month conflict. Both sides have cited 'major progress' and 'encouraging progress' following all-night discussions in Switzerland, aiming to ease tensions in Lebanon and the Strait of Hormuz. While diplomatic efforts appear to be advancing, underlying threats in Iran persist, and the war continues to have significant global economic repercussions. Chinese oil imports may not fully recover, and the conflict has triggered a global race to build oil reserves. The Philippines has slashed its economic growth outlook due to costlier oil and domestic issues, while the war also puts a substantial Gulf remittance lifeline at risk, impacting a labor-based economic model. Conversely, the Iran war has supercharged electric vehicle uptake in Africa, particularly for motorbikes and buses, benefiting Chinese manufacturers. The conflict has also led to an increase in domestic hangings of dissidents within Iran as international war-related tensions ease.",
     "top_themes": [
@@ -26952,6 +26964,20 @@
           "published": "Jun 18, 2026 · 20:37 BRT",
           "pub_date": "2026-06-18",
           "pub_ts": 1781825858,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Set for Deep Weekly Loss as Hormuz Traffic Starts to Pick Up - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHYzN2dKalpfQVZRU2N6TEM5dkN4c3pJTTVIYWFZNVFpcE5UV1cwUFdWMW9PYTlQSFlqV2R2QjdRRmppdnNGXzlhZnNIbjNJOUJSX0E2bDZxU0c2Zm56RXgwdDV3S2ZRbmNvOWZ5YVZrTTNTUW5yMFRsdDdXRXMyZ0xhdF8wX3RsSU5MeC03aGFZeGNVak1wbzFVMW11aFU?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 18, 2026 · 19:04 BRT",
+          "pub_date": "2026-06-18",
+          "pub_ts": 1781820257,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

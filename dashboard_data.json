@@ -24865,7 +24865,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-19"
+      "pub_date": "2026-06-18"
     },
     "https://www.wsj.com/business/energy-oil/saudi-aramco-weighs-expanding-storage-capacity-after-iran-war-fbd3a1c1": {
       "summary": "",
@@ -26286,6 +26286,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-22/pakistan-seeks-diplomatic-boost-with-key-role-in-us-iran-talks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
     }
   },
   "last_run_success": true,

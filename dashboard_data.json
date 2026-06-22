@@ -25867,7 +25867,7 @@
       "pub_date": "2026-06-22"
     },
     "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html": {
-      "summary": "",
+      "summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -26328,7 +26328,7 @@
       "pub_date": "2026-06-21"
     },
     "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon": {
-      "summary": "",
+      "summary": "Qatari and Pakistani officials said there was “encouraging progress” toward a lasting peace deal during talks in Switzerland. But strains over Lebanon were apparent, and President Trump renewed threats against Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -26482,11 +26482,71 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-22/lagarde-sees-no-need-for-more-forceful-ecb-response-to-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.reuters.com/world/asia-pacific/rubio-heads-uae-kuwait-bahrain-discuss-iran-deal-with-gulf-allies-2026-06-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-22/israel-hezbollah-conflict-complicates-efforts-to-end-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.washingtonpost.com/video/opinions/a-long-term-effect-of-the-iran-war/2026/06/22/c9328c25-ea0f-4ef9-a509-4cce46bdd824_video.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.nytimes.com/2026/06/22/world/middleeast/will-do-iran-us-peace-talks-lebanon-hormuz.html": {
+      "summary": "The U.S. and Iran have agreed to set up a Strait of Hormuz hotline and a “de-confliction cell” for Lebanon, according to mediators from Pakistan and Qatar.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.washingtonpost.com/national-security/2026/06/22/rubio-heads-middle-east-critics-question-his-support-iran-deal/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-22",
-  "last_generated_time": "2026-06-22T12:02:22.833144+00:00",
+  "last_generated_time": "2026-06-22T13:02:08.319756+00:00",
   "digest": {
     "digest": "Direct negotiations between the U.S. and Iran have concluded, with mediators reporting progress towards settling a four-month conflict. Both sides have cited 'major progress' and 'encouraging progress' following all-night discussions in Switzerland, aiming to ease tensions in Lebanon and the Strait of Hormuz. While diplomatic efforts appear to be advancing, underlying threats in Iran persist, and the war continues to have significant global economic repercussions. Chinese oil imports may not fully recover, and the conflict has triggered a global race to build oil reserves. The Philippines has slashed its economic growth outlook due to costlier oil and domestic issues, while the war also puts a substantial Gulf remittance lifeline at risk, impacting a labor-based economic model. Conversely, the Iran war has supercharged electric vehicle uptake in Africa, particularly for motorbikes and buses, benefiting Chinese manufacturers. The conflict has also led to an increase in domestic hangings of dissidents within Iran as international war-related tensions ease.",
     "top_themes": [
@@ -26643,6 +26703,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Vance Hails ‘Good Day’ of Iran Talks as US Waives Oil Sanctions - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVZqM2xZRDlxVXkza0JDQWloVEx2UXYtazk3MXlBdTlQczhRYkowSUJlaEdMaWxGTmo2RUl4SjQ0aUN0bkR4TFFLT2JTNEQ4WU04eXR1OWltQTlCS3hPNHUxZU5qV2lDLUtMQVVTaWZua3A5dVI2NXMtYWRnLUc1ZWhXOFYzN1hhclN6SjZYVE9XZFVyb2JveHFReGpxNDYzeHlKSVliVHhGNUdRV1hKcGNiVEttQVk?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 22, 2026 · 11:24 BRT",
+          "pub_date": "2026-06-22",
+          "pub_ts": 1782138271,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War: Gulf Oil Floods Through Hormuz at Fastest Pace Since War Began - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVpNaUhzSXZIU2s4cDBWYTRUZ1g2SzMtWmtCcGt5YVNUMWJYV0ttQVJyZExoNi1Ed3FMMmZwX3BOWVVWYWVCSE4tMGotLUh2OERTcGF2elI3bkZudmU5VlFQMTlOVjd5SG1EckFwc3hzTHYyZTcwcG5ULXpMTXJQaDJzcjJhWWU3MzQ4d09DVWNGa0dFSnltYzZlVV9JbUNKejdWaW5uNHNfT2JCcHIyMlFmOA?oc=5",

@@ -25914,7 +25914,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-21"
+      "pub_date": "2026-06-22"
     },
     "https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/": {
       "summary": "",
@@ -26356,70 +26356,81 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-22"
-    }
-  },
-  "last_run_success": true,
-  "last_generated_date": "2026-06-21",
-  "last_generated_time": "2026-06-21T23:01:57.214967+00:00",
-  "digest": {
-    "digest": "United States and Iranian officials convened for peace talks in Switzerland, with the Strait of Hormuz identified as a key point of tension. Vice President Vance engaged in diplomatic discussions, delivering a warning to Israeli critics of the agreement and defending the deal. These talks followed an initial agreement on nuclear arms and sanctions relief, with Iran's foreign minister indicating new negotiations would commence. Despite the diplomatic efforts, analysts suggest the primary threats posed by Iran remain unaddressed by the war or the recent deal. In Israel, a significant poll revealed that 92% of Israelis believe Iran emerged as the winner of the war and the subsequent deal with the US, with a majority also feeling the conflict weakened Israel's long-term security and that the country failed to achieve its objectives. The poll also indicated widespread dissatisfaction with Prime Minister Netanyahu's handling of the war and a negative view of US President Trump's management of the conflict. Meanwhile, a separate conflict in Lebanon continues to cast a shadow over the renewed Iran-US nuclear talks, and global oil markets are experiencing volatility, prompting some regions to accelerate renewable energy adoption.",
-    "top_themes": [
-      "US-Iran Peace Talks",
-      "Strait of Hormuz Tensions",
-      "Israeli Public Opinion on Iran War Outcome"
-    ],
-    "next_events": [
-      {
-        "title": "Adherence to the US-Iran Agreement",
-        "description": "The recently signed agreement on nuclear arms and sanctions relief is a critical development. Analysts should closely monitor both Iran's compliance with the terms and the US's commitment to sanctions relief, as any perceived breach or failure to implement could quickly reignite tensions and unravel the peace efforts."
-      },
-      {
-        "title": "Stability of the Strait of Hormuz",
-        "description": "The Strait of Hormuz has re-emerged as a significant point of tension, with Iran having claimed its closure. Watch for any further Iranian naval activities, international responses, or disruptions to shipping, as this vital chokepoint remains a potential flashpoint for direct military confrontation."
-      },
-      {
-        "title": "Israeli Political and Military Reactions",
-        "description": "Overwhelming Israeli public sentiment indicates a belief that Iran emerged as the winner of the war and deal, weakening Israel's long-term security. This deep dissatisfaction could pressure Israeli leadership towards unilateral actions, particularly against regional proxies like Hezbollah, or lead to significant internal political instability and shifts."
-      },
-      {
-        "title": "US Domestic Political Influence on Iran Policy",
-        "description": "Despite the peace talks and a signed deal, US President Trump's initial desire to exit the Iran war and Vice President Vance's defense of the agreement highlight ongoing internal US political complexities. Future policy direction and the stability of the deal will be heavily influenced by domestic pressures and the administration's evolving stance."
-      },
-      {
-        "title": "Regional Proxy Conflict Escalation",
-        "description": "The war in Lebanon and continued support for military action against Hezbollah cast a shadow over the renewed US-Iran nuclear talks. Analysts should watch for any renewed or intensified conflicts involving Iran-backed groups, as these proxy battles could destabilize the broader Middle East despite the direct peace efforts between the US and Iran."
-      }
-    ]
-  },
-  "relevant_news": [
-    {
-      "title": "Trump wanted out of the Iran war. The aftermath is pulling him back in. - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/21/trump-confronts-new-hurdles-bid-peace-deal-with-iran/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 21, 2026 · 07:31 BRT",
-      "pub_date": "2026-06-21",
-      "pub_ts": 1782037919,
+    },
+    "https://www.washingtonpost.com/opinions/2026/06/22/iran-war-shows-50-year-oil-crisis-is-over/": {
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
     },
+    "https://www.reuters.com/commentary/reuters-open-interest/iran-war-triggers-global-race-build-oil-reserves-2026-06-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-06-22/iran-cites-major-progress-after-all-night-talks-with-us": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    }
+  },
+  "last_run_success": true,
+  "last_generated_date": "2026-06-22",
+  "last_generated_time": "2026-06-22T08:02:13.940983+00:00",
+  "digest": {
+    "digest": "Direct negotiations between the U.S. and Iran have concluded, with mediators reporting progress towards settling a four-month conflict. Both sides have cited 'major progress' and 'encouraging progress' following all-night discussions in Switzerland, aiming to ease tensions in Lebanon and the Strait of Hormuz. While diplomatic efforts appear to be advancing, underlying threats in Iran persist, and the war continues to have significant global economic repercussions. Chinese oil imports may not fully recover, and the conflict has triggered a global race to build oil reserves. The Philippines has slashed its economic growth outlook due to costlier oil and domestic issues, while the war also puts a substantial Gulf remittance lifeline at risk, impacting a labor-based economic model. Conversely, the Iran war has supercharged electric vehicle uptake in Africa, particularly for motorbikes and buses, benefiting Chinese manufacturers. The conflict has also led to an increase in domestic hangings of dissidents within Iran as international war-related tensions ease.",
+    "top_themes": [
+      "US-Iran Diplomatic Progress",
+      "Economic Impacts of Iran War",
+      "Regional Tensions"
+    ],
+    "next_events": [
+      {
+        "title": "Conclusion of US-Iran Peace Negotiations",
+        "description": "Multiple reports indicate 'major progress' in direct talks between the US and Iran in Switzerland, aiming to end the four-month conflict and ease tensions in Lebanon and Hormuz. Analysts should monitor the specific terms of any agreement, particularly regarding regional security and the timeline for implementation, as a comprehensive deal could reshape geopolitical dynamics."
+      },
+      {
+        "title": "Post-Agreement Regional Stability and Challenges",
+        "description": "Even with a potential deal, analysts highlight ongoing challenges, including potential Israeli actions and the persistence of 'main threats' not resolved by the agreement. It's crucial to watch for any escalations or new conflicts in the region, especially concerning Lebanon and the Strait of Hormuz, and how the deal impacts Iran's regional leverage."
+      },
+      {
+        "title": "Internal Political Climate and Repression in Iran",
+        "description": "As the war with the U.S. eases, reports indicate an increase in hangings of dissidents within Iran. This suggests a potential shift in the regime's focus towards internal consolidation and suppression. Observers should monitor human rights developments and any signs of increased internal instability or dissent following a de-escalation of external conflict."
+      },
+      {
+        "title": "Long-Term Global Energy Market Transformation",
+        "description": "The Iran war has significantly impacted global energy markets, accelerating a permanent shift away from traditional fuels, boosting electric vehicle uptake in Africa, and triggering a race to build oil reserves. Analysts should track the long-term implications for oil demand, renewable energy investments, and global energy security strategies as these trends continue to unfold."
+      },
+      {
+        "title": "Economic Recovery and Gulf Remittance Stability",
+        "description": "The conflict has put billions in Gulf remittances at risk and impacted economic growth outlooks in countries like the Philippines due to costlier oil. Monitoring the recovery of these remittance lifelines and the broader economic stability of Gulf nations, which rely heavily on foreign labor, will be crucial for understanding the post-war economic landscape."
+      }
+    ]
+  },
+  "relevant_news": [
     {
-      "title": "Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
+      "title": "First Round of U.S.-Iran Talks Concludes, Mediators Say - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 20, 2026 · 19:59 BRT",
-      "pub_date": "2026-06-20",
-      "pub_ts": 1781996373,
+      "published": "Jun 22, 2026 · 06:23 BRT",
+      "pub_date": "2026-06-22",
+      "pub_ts": 1782120180,
       "summary": "",
       "tags": [
         "extracted",
@@ -26431,75 +26442,97 @@
       "sentiment_success": false
     },
     {
-      "title": "Poll: 92% of Israelis believe Iran emerged as winner after war and deal with US - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/poll-92-of-israelis-believe-iran-emerged-as-winner-after-war-and-deal-with-us/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jun 21, 2026 · 04:15 BRT",
-      "pub_date": "2026-06-21",
-      "pub_ts": 1782026145,
-      "summary": "",
+      "title": "US and Iran make ‘progress’ in talks - Financial Times",
+      "url": "https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Jun 22, 2026 · 05:40 BRT",
+      "pub_date": "2026-06-22",
+      "pub_ts": 1782117657,
+      "summary": "Tehran and Washington locked in negotiations in Switzerland over deal to settle four-month conflict",
       "tags": [
         "extracted",
-        "timesofisrael.com"
+        "ft.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/fighting-flares-again-in-lebanon-despite-israel-hezbollah-ceasefire-4d0ffae8",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 20, 2026 · 19:34 BRT",
-      "pub_date": "2026-06-20",
-      "pub_ts": 1781994840,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. and Iranian negotiators meet in Switzerland to hash out peace plan - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 21, 2026 · 07:25 BRT",
-      "pub_date": "2026-06-21",
-      "pub_ts": 1782037548,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Top-level US-Iran peace talks to begin at Swiss resort with Hormuz in spotlight - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-disputes-iranian-claims-about-closing-strait-hormuz-negotiators-head-2026-06-20/",
+      "title": "Iran war triggers global race to build oil reserves - Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/iran-war-triggers-global-race-build-oil-reserves-2026-06-22/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 20, 2026 · 20:49 BRT",
-      "pub_date": "2026-06-20",
-      "pub_ts": 1781999340,
+      "published": "Jun 22, 2026 · 03:06 BRT",
+      "pub_date": "2026-06-22",
+      "pub_ts": 1782108360,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Philippines Slashes 2026 Growth Outlook on Iran War, Graft Mess - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/philippines-slashes-2026-growth-outlook-on-iran-war-graft-mess",
+      "source": "Bloomberg",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 22, 2026 · 02:42 BRT",
+      "pub_date": "2026-06-22",
+      "pub_ts": 1782106920,
+      "summary": "The Philippines cut its economic growth target for this year, as the country wrestled with the impact of costlier oil spurred by the Iran war and a government corruption crackdown.",
+      "tags": [
+        "Philippines",
+        "Economic Growth",
+        "War",
+        "Iran",
+        "Generic 1st 'CL' Future"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Puts $124 Billion Gulf Remittance Lifeline at Risk - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/iran-war-puts-uae-saudi-arabia-s-foreign-workers-under-strain",
+      "source": "Bloomberg",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 22, 2026 · 01:00 BRT",
+      "pub_date": "2026-06-22",
+      "pub_ts": 1782100800,
+      "summary": "The conflict is putting billions of dollars in remittances at risk and testing a Gulf economic model built on foreign labor.",
+      "tags": [
+        "War",
+        "Foreign Direct Investment",
+        "Iran",
+        "United Arab Emirates",
+        "Saudi Arabia"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US and Iran Make ‘Progress’ in Talks, Aim to Keep Hormuz Open - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/us-and-iran-poised-to-begin-swiss-talks-on-lasting-ceasefire",
+      "source": "Bloomberg",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 21, 2026 · 23:54 BRT",
+      "pub_date": "2026-06-21",
+      "pub_ts": 1782096840,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -26515,6 +26548,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Opinion | The 53-year oil crisis has finally ended - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWG5xRS1OUW04T0ZnWV9RcURxZ3lLUVlWdjI5ejNZMkxYakVYaERiZTdHbW9lemZyX2lreHpRSzkzTmRZOG1BWVpJQkFVMlBZRnVoM1VScm5wTWh2TDdfX0dRaWtBUE5sSVFrVnM2eUwyQmJpNHFNYXFDNkttaVF1SEJrSEQyQjJ3QVhEd0JkUnpsdno2VkJ0eQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 22, 2026 · 07:50 BRT",
+          "pub_date": "2026-06-22",
+          "pub_ts": 1782125456,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iranian Crude Oil Exports Surge Via Hormuz as More Ships Transit - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemNsZVlaOTBXU3l2eVI4OW5NMmpaRHlPdTVyaVFNYzYtazhwSGdIV2NlemJUSGUzd3dsYWpxRTF2eVdTTGRqVk9DMjJnWFFpb3p4eEw1RnkxS3JNR2FYQm8zVlo0c1RweVZEQV9mYTVJMWFZVnNCWFZtY2ZLZGpVQ3Z1RXhhRG01aVRITEY5bWxoVVNScGs2OFB0VzdVOWVSUmZ5UDlTdmZQQkt5YmZlMVZrOA?oc=5",
           "source": "Bloomberg.com",
@@ -26523,6 +26570,20 @@
           "published": "Jun 22, 2026 · 03:09 BRT",
           "pub_date": "2026-06-22",
           "pub_ts": 1782108540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war triggers global race to build oil reserves - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2VKQXhDQ0hnaDQtUUhLb21EZUhxSUVsQnBwUXBQMUMxYzRNWHM3ZkZmUDJubXFQZDBzY3JzTU1fdmtxNTBEN3RzazFRa2FHTWtfNnk1R3F1eVFmWkFyVG1sX3VPejFSNWZoU3NYZUJQZFlTWHZVZlhfd2FLcEJwUXpjVWhXYWJYOEgxZTROMFZQTDhMT3hfaTVyTGZGSHlnRXBkT1hQc0pvR2w4ZC1FdXRfQ1pYak54?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 22, 2026 · 03:06 BRT",
+          "pub_date": "2026-06-22",
+          "pub_ts": 1782108360,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -42059,7 +42120,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-21T11:11:40.641530+00:00",
-  "last_watch_time": "2026-06-21T11:11:51.498450+00:00",
-  "last_relevant_time": "2026-06-21T11:11:52.149172+00:00"
+  "last_digest_time": "2026-06-22T11:10:35.581669+00:00",
+  "last_watch_time": "2026-06-22T11:10:45.793677+00:00",
+  "last_relevant_time": "2026-06-22T11:10:49.065147+00:00"
 }

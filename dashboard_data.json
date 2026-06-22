@@ -25571,7 +25571,7 @@
       "pub_date": "2026-06-19"
     },
     "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal": {
-      "summary": "",
+      "summary": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -26157,11 +26157,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-21"
+    },
+    "https://www.reuters.com/commentary/breakingviews/trumps-iran-folly-opens-slim-path-safer-world-2026-06-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-21/gold-holds-decline-after-trump-warns-iran-during-peace-talks": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-21",
-  "last_generated_time": "2026-06-21T21:02:04.824953+00:00",
+  "last_generated_time": "2026-06-21T22:02:00.478205+00:00",
   "digest": {
     "digest": "United States and Iranian officials convened for peace talks in Switzerland, with the Strait of Hormuz identified as a key point of tension. Vice President Vance engaged in diplomatic discussions, delivering a warning to Israeli critics of the agreement and defending the deal. These talks followed an initial agreement on nuclear arms and sanctions relief, with Iran's foreign minister indicating new negotiations would commence. Despite the diplomatic efforts, analysts suggest the primary threats posed by Iran remain unaddressed by the war or the recent deal. In Israel, a significant poll revealed that 92% of Israelis believe Iran emerged as the winner of the war and the subsequent deal with the US, with a majority also feeling the conflict weakened Israel's long-term security and that the country failed to achieve its objectives. The poll also indicated widespread dissatisfaction with Prime Minister Netanyahu's handling of the war and a negative view of US President Trump's management of the conflict. Meanwhile, a separate conflict in Lebanon continues to cast a shadow over the renewed Iran-US nuclear talks, and global oil markets are experiencing volatility, prompting some regions to accelerate renewable energy adoption.",
     "top_themes": [
@@ -26315,6 +26335,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "While the World Scrambles for Oil, China Sits on Full Tanks - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GSll4eTJoZHdDRTV6TThNNTBOMFhQWVN1TGkyTEhsS1ZnUlVrT2czUlR0b203UWY4dktpWjhpNllXSlFaaDFvT2tidUFITExWY3NUcVBTQVh4RjZiOHNNbFBNNm1LQUh0SUtYcWhDNXU?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 21, 2026 · 06:01 BRT",
+          "pub_date": "2026-06-21",
+          "pub_ts": 1782032512,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iraq Tells Oil Fields to Start Lifting Output After US-Iran Deal - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnQwODYyeUZDYzVCR0tKSHNKSlNjckJ6aXh2ZGZNa1hhWjctQzYzektnS19IQ2Z6d3VUZkV4Q1ZkYVVyWmdWUE1kVnJXVmE4bXlqMEVOMVZWMkVxaWhuNE1QMGpGNDZMSnFvclBTWUF2OGluMFNfUWl5X2ZkY0d1ZkdYQTZ0RGtRT1RGd0dBS1d3U2NlVll3MjMweU91MnM1c2xNYzFWQWJCQ0lET1NHODRZT2U3dw?oc=5",

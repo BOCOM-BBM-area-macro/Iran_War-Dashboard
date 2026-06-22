@@ -26209,10 +26209,13 @@
       "pub_date": "2026-06-21"
     },
     "https://www.bloomberg.com/news/articles/2026-06-22/chinese-oil-imports-may-never-fully-recover-from-the-iran-war": {
-      "summary": "",
+      "summary": "Chinese oil imports may never fully recover from the Iran war, with analysts saying the conflict accelerated a permanent shift away from fuels like gasoline and diesel.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Generic 1st 'CL' Future",
+        "Imports",
+        "War",
+        "China",
+        "Iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -26239,10 +26242,13 @@
       "pub_date": "2026-06-21"
     },
     "https://www.bloomberg.com/news/articles/2026-06-22/iran-war-puts-uae-saudi-arabia-s-foreign-workers-under-strain": {
-      "summary": "",
+      "summary": "The conflict is putting billions of dollars in remittances at risk and testing a Gulf economic model built on foreign labor.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "War",
+        "Foreign Direct Investment",
+        "Iran",
+        "United Arab Emirates",
+        "Saudi Arabia"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -26263,6 +26269,19 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-22/philippines-slashes-2026-growth-outlook-on-iran-war-graft-mess": {
+      "summary": "The Philippines cut its economic growth target for this year, as the country wrestled with the impact of costlier oil spurred by the Iran war and a government corruption crackdown.",
+      "tags": [
+        "Philippines",
+        "Economic Growth",
+        "War",
+        "Iran",
+        "Generic 1st 'CL' Future"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -26770,6 +26789,20 @@
           "published": "Jun 17, 2026 · 15:11 BRT",
           "pub_date": "2026-06-17",
           "pub_ts": 1781719872,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "While Trump hails Gulf oil flowing, Iran's fleet also gearing up to boost exports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFFlYnl5QndZQXFjZmhWYzcxclFRY2x2NG1MWExhZlFhTnR3Q3ozSnhXVHg5YUpQQWhmRHZCQ2tpRVo5M1BsUVNMTHFaLWZPMzQ1NjVzdWhCM0lEMlZZMDIzN2JPNTltbVhYTkJSZ1JGRWtwUXc2dGszeldrRThyNk1RbnFWUUZtX0p1MEZ0OXBKeGdjeThhSmtCN29DbXhtRTdzWmpGU1BzTDFlRjhHOEplVF9ndGZ0WUE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 17, 2026 · 11:40 BRT",
+          "pub_date": "2026-06-17",
+          "pub_ts": 1781707210,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

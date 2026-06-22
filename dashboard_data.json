@@ -25864,7 +25864,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-21"
+      "pub_date": "2026-06-22"
     },
     "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html": {
       "summary": "",
@@ -26207,6 +26207,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-22/chinese-oil-imports-may-never-fully-recover-from-the-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676": {
+      "summary": "Tehran and Washington locked in talks in Switzerland over deal to settle four-month conflict",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-us-to-set-up-de-confliction-cell-to-stop-military-ops-in-lebanon-mediators-say/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
     }
   },
   "last_run_success": true,
@@ -26365,6 +26395,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Chinese Oil Imports May Never Fully Recover From the Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXBDZlMzM3o2Szc4akZGbVAwaW96cUY3Z0haSHpVODBONGNKM0F2cHppa21SSGFJeXVzUnhmNWJ5dTZqeG1jNjlBSkR1eXRXSlJFanpfUHpndXJYMndDY3EzRmpwcDJTNnk2ZHlCZ0ZqT1h6Q2h0OHdqeHYtcTNTS0ZnVVlHVDluMlRHMjFUb3V3LXdXbS1zZGJ0a290UWZfcnYxQVVfdHZidmpRQ29NeWJ3?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 22, 2026 · 00:40 BRT",
+          "pub_date": "2026-06-22",
+          "pub_ts": 1782099600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "While the World Scrambles for Oil, China Sits on Full Tanks - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GSll4eTJoZHdDRTV6TThNNTBOMFhQWVN1TGkyTEhsS1ZnUlVrT2czUlR0b203UWY4dktpWjhpNllXSlFaaDFvT2tidUFITExWY3NUcVBTQVh4RjZiOHNNbFBNNm1LQUh0SUtYcWhDNXU?oc=5",

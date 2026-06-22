@@ -26316,6 +26316,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-21/us-and-iran-poised-to-begin-swiss-talks-on-lasting-ceasefire": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-21"
+    },
+    "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-22"
     }
   },
   "last_run_success": true,
@@ -26474,6 +26494,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iranian Crude Oil Exports Surge Via Hormuz as More Ships Transit - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemNsZVlaOTBXU3l2eVI4OW5NMmpaRHlPdTVyaVFNYzYtazhwSGdIV2NlemJUSGUzd3dsYWpxRTF2eVdTTGRqVk9DMjJnWFFpb3p4eEw1RnkxS3JNR2FYQm8zVlo0c1RweVZEQV9mYTVJMWFZVnNCWFZtY2ZLZGpVQ3Z1RXhhRG01aVRITEY5bWxoVVNScGs2OFB0VzdVOWVSUmZ5UDlTdmZQQkt5YmZlMVZrOA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 22, 2026 · 03:09 BRT",
+          "pub_date": "2026-06-22",
+          "pub_ts": 1782108540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Chinese Oil Imports May Never Fully Recover From the Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXBDZlMzM3o2Szc4akZGbVAwaW96cUY3Z0haSHpVODBONGNKM0F2cHppa21SSGFJeXVzUnhmNWJ5dTZqeG1jNjlBSkR1eXRXSlJFanpfUHpndXJYMndDY3EzRmpwcDJTNnk2ZHlCZ0ZqT1h6Q2h0OHdqeHYtcTNTS0ZnVVlHVDluMlRHMjFUb3V3LXdXbS1zZGJ0a290UWZfcnYxQVVfdHZidmpRQ29NeWJ3?oc=5",

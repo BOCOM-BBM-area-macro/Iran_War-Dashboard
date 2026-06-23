@@ -25217,7 +25217,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-22"
+      "pub_date": "2026-06-18"
     },
     "https://www.timesofisrael.com/poll-71-of-israelis-dont-trust-trump-to-look-out-for-them-in-iran-deal-just-11-say-israel-won-war/": {
       "summary": "Trump says he'll 'most likely' endorse Netanyahu but wants to see who else is running, as survey underscores deep discontent among Israeli public over US-Iran deal and PM's conduct",
@@ -26667,6 +26667,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-23/north-korea-s-kim-wants-more-nuclear-forces-after-us-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-23"
     }
   },
   "last_run_success": true,

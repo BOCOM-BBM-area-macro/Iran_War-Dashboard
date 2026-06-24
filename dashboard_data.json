@@ -27162,14 +27162,14 @@
       "pub_date": "2026-06-23"
     },
     "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon": {
-      "summary": "",
+      "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-23"
+      "pub_date": "2026-06-24"
     },
     "https://www.reuters.com/world/middle-east/rubio-kicks-off-middle-east-trip-allies-seek-answers-iran-2026-06-24/": {
       "summary": "",
@@ -27205,7 +27205,7 @@
       "pub_date": "2026-06-24"
     },
     "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html": {
-      "summary": "",
+      "summary": "Government supporters are showing off new ties with alleged former dissidents in a bid to show that they can withstand enemies at home as well as abroad.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -27225,7 +27225,7 @@
       "pub_date": "2026-06-24"
     },
     "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html": {
-      "summary": "",
+      "summary": "Secretary of State Marco Rubio was scheduled to meet with leaders in the United Arab Emirates, Kuwait and Bahrain, which were targeted by Iranian attacks during the war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -27235,7 +27235,7 @@
       "pub_date": "2026-06-24"
     },
     "https://www.nytimes.com/2026/06/24/opinion/thomas-friedman-iran-deal.html": {
-      "summary": "",
+      "summary": "How the world views of Jared Kushner and the founder of the Islamic Republic of Iran can help explain the issue at the heart of the negotiations.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -27341,7 +27341,7 @@
       "pub_date": "2026-06-24"
     },
     "https://www.nytimes.com/2026/06/24/world/middleeast/bahrain-ashura-restrictions-shiite.html": {
-      "summary": "",
+      "summary": "The restrictions are the latest in a string of measures Bahrain has taken against Shiite citizens in the Gulf country, with many accused of having loyalties to Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -27359,11 +27359,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-24"
+    },
+    "https://www.reuters.com/business/energy/us-airline-stocks-rise-oil-retreats-pre-iran-war-levels-2026-06-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-24",
-  "last_generated_time": "2026-06-24T13:02:19.311459+00:00",
+  "last_generated_time": "2026-06-24T14:02:04.594359+00:00",
   "digest": {
     "digest": "The US Senate has voted to block President Trump from resuming war with Iran, with both the Senate and House passing resolutions to halt hostilities and direct the President to seek congressional authorization. This action represents a significant rebuke to the President's war powers. In parallel, conflicting accounts have emerged from the US and Iran regarding nuclear discussions, with President Trump defending the unfreezing of Iranian funds for humanitarian purposes, stating they will only be used for food and medical supplies from the US. This move aims to ease concerns amidst ongoing peace negotiations. Diplomatic efforts are also underway in the Middle East, with US Senator Rubio undertaking a trip to reassure Persian Gulf allies on Iran policy and the Iran deal. Qatar has highlighted the essential role of a US-Iran hotline for reopening the Strait of Hormuz, indicating potential progress in de-escalating tensions in the vital shipping lane. Public opinion in the US indicates low support for a war with Iran, with President Trump's approval ratings tied to their lowest point during his term.",
     "top_themes": [
@@ -27581,6 +27591,20 @@
           "published": "Jun 22, 2026 · 18:33 BRT",
           "pub_date": "2026-06-22",
           "pub_ts": 1782163980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US authorizes Iranian oil sales amid talks on final peace deal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 22, 2026 · 11:46 BRT",
+          "pub_date": "2026-06-22",
+          "pub_ts": 1782139590,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -39697,6 +39721,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "US airline stocks rise as oil retreats to pre-Iran war levels - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWlMZ1R5R3kwcFZ5aU1SNnlnYm0wNThQTXFLU2c4U0c2WFNWLVJXZVhJRVp4VTJHaW9OT184bWI5a3ozY3NPeVVSWW9sQlEwQ1pBNWEwYlk4cUhUY1hSVXZOdUJ5U2F1eTRyZEZlYXJRM2JkdUJTUXRacDNYTWNwUXJjOV9JTU9GN0g4NEQ5TlBXR0FNdEZ5ekZBVk5YejJ6cDdTOEFBdzQ5ekk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 24, 2026 · 13:31 BRT",
+          "pub_date": "2026-06-24",
+          "pub_ts": 1782318676,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How Europe’s refineries helped save your summer holiday - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU9pQ0RoVU9PR3F3c2kwREdtREtrY1RMSHV2T0gteDhCOFFVaWxfOHhlN2pVQ0Q4WmZYX2lLUWdyV2Zhd2hPTmFkcEFqYmtiRjhfdEdJOVlkTmtGR3pXVUlTdVktdTdFaW9idksxU3ktNTNDWEZPTTV2aW55RkoxTExyTE0?oc=5",

@@ -27490,11 +27490,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-24"
+    },
+    "https://www.reuters.com/world/us/trump-administration-sends-congress-876-billion-supplemental-budget-request-2026-06-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
+    },
+    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
+    },
+    "https://www.wsj.com/politics/policy/trump-abruptly-cancels-signing-ceremony-for-bipartisan-housing-bill-c94f5ff1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-24",
-  "last_generated_time": "2026-06-24T19:01:59.505965+00:00",
+  "last_generated_time": "2026-06-24T20:02:00.480920+00:00",
   "digest": {
     "digest": "The US Senate has voted to block President Trump from resuming war with Iran, with both the Senate and House passing resolutions to halt hostilities and direct the President to seek congressional authorization. This action represents a significant rebuke to the President's war powers. In parallel, conflicting accounts have emerged from the US and Iran regarding nuclear discussions, with President Trump defending the unfreezing of Iranian funds for humanitarian purposes, stating they will only be used for food and medical supplies from the US. This move aims to ease concerns amidst ongoing peace negotiations. Diplomatic efforts are also underway in the Middle East, with US Senator Rubio undertaking a trip to reassure Persian Gulf allies on Iran policy and the Iran deal. Qatar has highlighted the essential role of a US-Iran hotline for reopening the Strait of Hormuz, indicating potential progress in de-escalating tensions in the vital shipping lane. Public opinion in the US indicates low support for a war with Iran, with President Trump's approval ratings tied to their lowest point during his term.",
     "top_themes": [
@@ -37318,6 +37348,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Global natural gas markets to stabilize after Middle East war, says GECF Secretary General - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVUzRjVPQk0wMzhkNUl4cElrYVJkazBzUDhLY3VYWm5VeVdrTDQxRFJMQ0JLdWJsdWNENkJKYU95MGoxTUlrbkdQeDVQeDQ0c1FMODBLai1hM2FxTkNKc1g4b1RXNGo5REpvQU1pUTk2SzlKWmM4RVBiMXVqelRPM1FhVlBKclgtVGdIa2ZzTkpwVUJDX2ZUS3FYQzRmU3JUczNEWkhPUHJqOUFmT0RSNnRZT0xhYXRERDd4OXQ5akptdXFwbVE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 24, 2026 · 18:37 BRT",
+          "pub_date": "2026-06-24",
+          "pub_ts": 1782337043,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Qatar says US-Iran hotline essential to reopen Strait of Hormuz - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaF9lMU1DVTVXWTRFRm9XNm9fZkZSSFlmQ0pEaE9TbXFncmRBVVlvTEJUYlMzei1Kdk1aWmFtT213OEZxTjBVUVZnRXdBVlAzMzBCdmE4OXNMT015Z2lNRlBHTnZlc28wY0dZbWRxZWJjSnYyamRWR1lOdktJUy1xakVBRGo?oc=5",
           "source": "Financial Times",
@@ -41079,6 +41123,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Syrians rush to battle wildfires sweeping through wheat fields - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrMW1zdzlyX1FzYUQxQ0M4Mmpia2cxSWhuRjdFb3k1WHk2NjhCVnlsclo0S08wcTZXaDE2RUw0Umwxbmpjem1FZ1c4UXpnbEhLYmMzMUYwUTNEUjBxdzNPZWVYWnBZcDA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 24, 2026 · 07:49 BRT",
+          "pub_date": "2026-06-24",
+          "pub_ts": 1782298183,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US Senate votes to halt Iran war in latest rebuke of Trump - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ncElWWDl6ZWN6WFJweW1YUUpELVpvQmdtV242QjF4Rl9CQVlOT050OWpSdHVTUWtyS1JaVWZxbXd2eFBuWnlRUF9WOU1IUEFVR2RyZF9jZkJDdkZvbTczdXMxSlBUcjg?oc=5",

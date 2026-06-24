@@ -25420,7 +25420,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-19"
+      "pub_date": "2026-06-23"
     },
     "https://www.jpost.com/opinion/article-899671": {
       "summary": "As election approach, it is becoming harder to imagine Netanyahu convincing enough Israelis that he is still the man who can deliver security, status, or dignity.",
@@ -26626,7 +26626,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-23"
+      "pub_date": "2026-06-22"
     },
     "https://www.wsj.com/world/middle-east/we-parsed-trumps-shifting-rhetoric-on-the-iran-war-f8ea89c7": {
       "summary": "",
@@ -27154,6 +27154,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-23"
+    },
+    "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-23"
+    },
+    "https://www.reuters.com/world/middle-east/rubio-kicks-off-middle-east-trip-allies-seek-answers-iran-2026-06-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-06-24/live-updates-900328": {
+      "summary": "UN inquiry accuses Israel of genocide as talks begin with Lebanon in Washington • S. Korean ships leave Strait of Hormuz • Trump, IAEA claims Iran agreed to inspection of nuclear facilities •",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "IAEA",
+        "IDF",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
+    },
+    "https://www.ft.com/content/e2d91812-1553-4d9e-a3cf-abe499de70b1?syn-25a6b1a6=1": {
+      "summary": "Prime Minister Sheikh Mohammed says Gulf state will resume normal LNG production within weeks",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
     }
   },
   "last_run_success": true,

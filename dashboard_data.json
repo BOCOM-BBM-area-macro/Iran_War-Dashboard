@@ -24412,10 +24412,13 @@
       "pub_date": "2026-06-20"
     },
     "https://www.reuters.com/world/middle-east/has-trump-achieved-his-goals-war-with-iran-2026-06-17/": {
-      "summary": "",
+      "summary": "Shortly after the U.S. and Israel launched airstrikes on Iran on February 28, U.S. President Donald Trump laid out a host of objectives, from destroying Iran's ballistic missile capabilities to ensuring Tehran can never have a nuclear weapon.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "MTPIX",
+        "TOPNWS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -27102,10 +27105,13 @@
       "pub_date": "2026-06-23"
     },
     "https://www.reuters.com/world/us/us-senate-joins-house-voting-halt-iran-war-rebuking-trump-2026-06-23/": {
-      "summary": "",
+      "summary": "The Senate voted 50-48 in favor of the war powers resolution.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "CLJ",
+        "CWP",
+        "DIP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -27321,20 +27327,26 @@
       "pub_date": "2026-06-24"
     },
     "https://www.reuters.com/business/aerospace-defense/italy-rebukes-natos-rutte-over-remarks-us-use-bases-iran-war-2026-06-24/": {
-      "summary": "",
+      "summary": "Italy on Wednesday pushed back against remarks by NATO Secretary General Mark Rutte that hundreds of U.S. aircraft had taken off from American bases in Italy to ​support military operations against Iran, saying Rome had authorised only technical ‌and logistical flights.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "AER",
+        "AERO",
+        "CWP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-24"
     },
     "https://www.reuters.com/world/middle-east/us-iran-deal-may-leave-netanyahu-biggest-casualty-2026-06-24/": {
-      "summary": "",
+      "summary": "The biggest casualty of the U.S.-Iran deal may not be Israel's Iran strategy, but the political brand Benjamin Netanyahu spent decades constructing as the Israeli leader who could uniquely bend Washington to his will on Iran, analysts, former U.S. officials and diplomats say.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "ANV",
+        "EREP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -27351,20 +27363,26 @@
       "pub_date": "2026-06-24"
     },
     "https://www.reuters.com/world/europe/israel-stands-firm-troops-southern-lebanon-rubio-seeks-sell-peace-deal-middle-2026-06-24/": {
-      "summary": "",
+      "summary": "Israel has been battling Hezbollah in Lebanon since early March, after the militant group attacked Israel in support of Iran.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "MTVID",
+        "MTPIX",
+        "CWP",
+        "DEF"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-24"
     },
     "https://www.reuters.com/business/energy/us-airline-stocks-rise-oil-retreats-pre-iran-war-levels-2026-06-24/": {
-      "summary": "",
+      "summary": "U.S. airline ​stocks rose 3% to 7% on Wednesday after crude prices fell to their lowest since before ‌the Iran war, raising hopes that pressure on carriers' earnings could ease, though the benefits are unlikely to be passed on to passengers immediately.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "GRAPHC",
+        "MTGFX",
+        "AIR",
+        "AIRL",
+        "AIRL1"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -27381,10 +27399,23 @@
       "pub_date": "2026-06-24"
     },
     "https://www.reuters.com/world/china/baltic-exchange-defends-its-tanker-rates-reliable-during-iran-war-2026-06-24/": {
+      "summary": "The Baltic Exchange defended its flagship oil tanker benchmark in a London court filing, saying it accurately reflected market conditions during ​the U.S.-Israeli conflict with Iran despite disruption in the Strait of Hormuz.",
+      "tags": [
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "CLJ",
+        "CMPNY",
+        "COM"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
+    },
+    "https://www.washingtonpost.com/opinions/2026/06/24/sanctions-relief-iran-makes-dangerous-middle-east/": {
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -27393,7 +27424,7 @@
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-24",
-  "last_generated_time": "2026-06-24T15:02:01.718076+00:00",
+  "last_generated_time": "2026-06-24T16:02:01.340312+00:00",
   "digest": {
     "digest": "The US Senate has voted to block President Trump from resuming war with Iran, with both the Senate and House passing resolutions to halt hostilities and direct the President to seek congressional authorization. This action represents a significant rebuke to the President's war powers. In parallel, conflicting accounts have emerged from the US and Iran regarding nuclear discussions, with President Trump defending the unfreezing of Iranian funds for humanitarian purposes, stating they will only be used for food and medical supplies from the US. This move aims to ease concerns amidst ongoing peace negotiations. Diplomatic efforts are also underway in the Middle East, with US Senator Rubio undertaking a trip to reassure Persian Gulf allies on Iran policy and the Iran deal. Qatar has highlighted the essential role of a US-Iran hotline for reopening the Strait of Hormuz, indicating potential progress in de-escalating tensions in the vital shipping lane. Public opinion in the US indicates low support for a war with Iran, with President Trump's approval ratings tied to their lowest point during his term.",
     "top_themes": [

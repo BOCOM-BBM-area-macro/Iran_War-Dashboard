@@ -27610,6 +27610,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-25"
+    },
+    "https://www.ft.com/content/39883d15-863b-4563-8b31-7e65102301cd?syn-25a6b1a6=1": {
+      "summary": "US president singles out alliance members, including the UK, after meeting secretary-general Mark Rutte",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
     }
   },
   "last_run_success": true,
@@ -27776,6 +27786,20 @@
           "published": "Jun 25, 2026 · 00:03 BRT",
           "pub_date": "2026-06-25",
           "pub_ts": 1782356580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil extends decline on rising Middle East supply - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkdDYmZFSTkwNFU4TGw0UDItS3RmdzdoR0hYUjRhYVUtaWRpWjFueDBQSUlQQklKZzdoTWJlQ1phYXRWaHMtZU5jNnNmOVZPalE2eExoaE5ESEJOcW9RN1l3VjFFTXNPLUJvdWFfTWVOTno3SEdlMHNJQjMxM0hJcXM1WHFtVG9NeHZtSGtZQlY4b21GZ3pqWjFn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 24, 2026 · 22:35 BRT",
+          "pub_date": "2026-06-24",
+          "pub_ts": 1782351300,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

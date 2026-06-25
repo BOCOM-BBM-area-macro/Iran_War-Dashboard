@@ -27620,6 +27620,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-24"
+    },
+    "https://www.nytimes.com/2026/06/25/business/strait-of-hormuz-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-25"
+    },
+    "https://www.timesofisrael.com/war-of-words-nuclear-inspection-dispute-shows-us-iran-negotiating-in-public/": {
+      "summary": "Statements by Iranian, US, Israel and UN officials come alongside, and may complicate, multiple negotiations happening simultaneously over uranium stockpile, Lebanon, frozen funds",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-25"
     }
   },
   "last_run_success": true,
@@ -27777,6 +27797,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSVNDTFVkNnZrbkgtSEJNemJmbG9vMWtLSWk0X2U0ZHdBWS1PbG9EeUo0bE1iTU1nejRVMkdOVVdEdDVlT0I4ZjlZZi1MWE1YT3JVMjlzSHBhX1VqUHZLWTlBOVBsWHFhUkhhSzJFVDg0T2dZRktDLWtrVlBQN1U?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 25, 2026 · 06:04 BRT",
+          "pub_date": "2026-06-25",
+          "pub_ts": 1782378241,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Indian shares set to rise after oil slips to pre-Iran war levels - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXVVYk8yNHVUek1WdHdQN0Jhb0tDcnFiVkJieUYtVVk2SngxYnVETG9JdmdXal9GcUNXZ3BqZGprMy1mYmZTSTdfUUlrWkdFQXZ2YkJZdzUyMU9BOVBUZnNMZ2FxR1lKZkpCNzJNbXFTb2FtTC10VXRNOVVTVE5hUmVyTjJEMFJrd2VDWm9fbGgyTUNUQUdWTXVUNnpsQ1EtZ0hIMmhYa0ctUQ?oc=5",

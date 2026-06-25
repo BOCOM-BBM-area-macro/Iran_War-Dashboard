@@ -27529,7 +27529,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-24"
+      "pub_date": "2026-06-25"
     },
     "https://www.axios.com/2026/06/25/trump-white-house-congress-request-iran-war-us-farmers-ebola": {
       "summary": "",
@@ -27550,6 +27550,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-24"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/24/trump-declares-iran-war-over-peace-remains-uncertain/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-25"
+    },
+    "https://www.timesofisrael.com/trump-claims-he-stopped-great-leader-erdogan-from-bringing-turkey-into-war-on-irans-side/": {
+      "summary": "US president says Turkish leader was 'a prime candidate' to join the conflict 'because he's not a big fan of Israel,' hints at potential F-35 sale",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-24"
+    },
+    "https://www.reuters.com/world/india/indian-shares-set-rise-after-oil-slips-pre-iran-war-levels-2026-06-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-25"
+    },
+    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-25"
     }
   },
   "last_run_success": true,
@@ -27707,6 +27747,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Indian shares set to rise after oil slips to pre-Iran war levels - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXVVYk8yNHVUek1WdHdQN0Jhb0tDcnFiVkJieUYtVVk2SngxYnVETG9JdmdXal9GcUNXZ3BqZGprMy1mYmZTSTdfUUlrWkdFQXZ2YkJZdzUyMU9BOVBUZnNMZ2FxR1lKZkpCNzJNbXFTb2FtTC10VXRNOVVTVE5hUmVyTjJEMFJrd2VDWm9fbGgyTUNUQUdWTXVUNnpsQ1EtZ0hIMmhYa0ctUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 25, 2026 · 00:03 BRT",
+          "pub_date": "2026-06-25",
+          "pub_ts": 1782356580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway - WSJ",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXJJX05QWEtlRnkwX285cU1uUG9oUlNDVHlwclhNcmhwZThZNnZZRkd0cUtGVTYtWktZSjdqTDNfR0RhbnNNRGl4aVRhZWFvUDFGTHZNei11SkpEdE5tblNzUDBDYXA1cVlSLXVCajhvSGY1ZmtFMHh3dXI4Z0RwQldXakdEOXY4ZG1ia0xaa0JwM3ZBZk5xeDZZZl9EZWRpVFh5Sk5vdE5KNzhleG4tendB?oc=5",
@@ -35855,6 +35909,20 @@
           "published": "Jun 23, 2026 · 06:01 BRT",
           "pub_date": "2026-06-23",
           "pub_ts": 1782205279,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iraq to export crude, naphtha through Syria after Hormuz shock - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjFTV0lGXzVST2l2Y05WQ2Nkcjl1OUM3NHBvMVFER1IxTlQ4V3JCZ2tVZmh0Zm51ajZJb1dkTWo5OHNOT3ItQ3VoNFB6YlZnVXZUTEdlYnBBb29KSU9IWHV3RkpRallIVkh3bkdXWHRKVFRJRGFoTi1YMnllbllLTjkyLURUNFJ1YU9kRm9JSXB1b1ViZW1FZ3JhdHA1elBoOHBYb2EzRXZrVXZaMFhn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 19, 2026 · 12:16 BRT",
+          "pub_date": "2026-06-19",
+          "pub_ts": 1781882201,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

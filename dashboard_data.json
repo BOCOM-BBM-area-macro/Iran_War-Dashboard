@@ -27600,6 +27600,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-25"
+    },
+    "https://www.nytimes.com/live/2026/06/24/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-25"
     }
   },
   "last_run_success": true,
@@ -35910,6 +35920,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Mideast fuel oil exports to hit four-month high in June, still below pre-war levels - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRURnaTlPbmIydXQ2SkF1NUlVZWpQRWdnLUFnZkFPSXdzN0RhTF9IbkVwRzRIRzZ3dndGa2FEQmlkc1dBM2tDUzFyN0VLOGRHZXhwd3hUX0VxZHJma2dvT095OU9URzFJS2xFN3h1YldER2dXYzczNDRvX3RuUDhyWmZsMjZGYXQxY3VPaW9wMGFHUkVCWERvaXJDVlhuN0U0NFJPaHNyWVpfOXpaeDlvUW1mOG1INUhIcU5zMW5DS2dFd3dGRU1v?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 25, 2026 · 03:20 BRT",
+          "pub_date": "2026-06-25",
+          "pub_ts": 1782368400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "America’s Thirst for Gasoline May Not Recover After Iran War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUl0TU1aNXpPek5GWEVma29nRG5jZUxZYjJ3T0FPOGpoNThRQjZrMlQxY1NrYXVRTWxrcGJ4ZkVwejdvNlFlRWFfREpvaENfX19GZE1ZUjVyMmxLNkhSdDNUTjlPajhrZ1Iyc2FrUkp5cHJjbmphWUpleUlTV1IwdG85YndSZWtSNGJWMw?oc=5",

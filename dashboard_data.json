@@ -27855,7 +27855,7 @@
       "pub_date": "2026-06-25"
     },
     "https://www.nytimes.com/2026/06/26/opinion/pope-leo-just-war-theory-encyclical-ai-iran.html": {
-      "summary": "",
+      "summary": "Pope Leo’s first encyclical takes on a major flaw of Catholic just war theory: its use as a fig leaf for attacking an enemy.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -27931,7 +27931,7 @@
       "pub_date": "2026-06-26"
     },
     "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html": {
-      "summary": "",
+      "summary": "A win or draw against Egypt on Friday, and the team’s unusual journey will continue.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -27941,7 +27941,7 @@
       "pub_date": "2026-06-26"
     },
     "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html": {
-      "summary": "",
+      "summary": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -27981,7 +27981,7 @@
       "pub_date": "2026-06-26"
     },
     "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html": {
-      "summary": "",
+      "summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -28044,7 +28044,7 @@
       "pub_date": "2026-06-26"
     },
     "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html": {
-      "summary": "",
+      "summary": "The president did not say how or whether he would respond, a day after Iran fired on a container ship that was transiting the Strait of Hormuz, an act Mr. Trump called “foolish.”",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -28062,11 +28062,34 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-26/euro-zone-probably-saw-first-inflation-slowdown-since-iran-war-began": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-26"
+    },
+    "https://www.jpost.com/american-politics/article-900609": {
+      "summary": "The contrast suggests that, even as the administration has emphasized unity, differing worldviews are at times rising to the surface, offering an early glimpse of the Republican Party’s future.",
+      "tags": [
+        "Iran",
+        "White House",
+        "republicans",
+        "Donald Trump",
+        "Marco Rubio"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-26"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-26",
-  "last_generated_time": "2026-06-26T15:02:18.994780+00:00",
+  "last_generated_time": "2026-06-26T16:02:06.614118+00:00",
   "digest": {
     "digest": "The ongoing conflict with Iran has led to significant economic repercussions, including accelerated inflation in May due to rising energy prices. The United States is considering a strategic relocation of its Gulf military bases westward, including to Israel, to mitigate exposure to Iranian missile and drone attacks, following substantial damage to the US Naval Support Activity base in Bahrain, estimated at $400 million. This recalibration of US military posture is a direct response to Iran's retaliatory strikes, which occurred after the commencement of a US-Israeli bombing campaign in Iran on February 28, resulting in 13 US service members killed and hundreds wounded. The conflict has also prompted the White House to seek an additional $88 billion from Congress for war-related expenses and other priorities. Shipping through the Strait of Hormuz remains a critical concern, with crude shipments at their highest since the war began and oil supertankers turning back after a vessel was struck near Oman. The UN has halted its escort of ships through the Strait following an attack on a vessel. Travel disruptions are also evident, with Heathrow Airport cutting passenger and profit forecasts due to the war's impact on travel. A memorandum of understanding was reached between the US and Iran, initiating 60 days of negotiations to end regional hostilities, though Israel is not a party to this agreement and has expressed criticism, particularly regarding the halt to operations against Hezbollah without concrete concessions from Iran on its nuclear program. The financial impact extends globally, with stock markets in Asia experiencing a tumble.",
     "top_themes": [
@@ -36568,6 +36591,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US diesel refining economics remain firm despite Iran war truce - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaktNajNVTlRkTm1nVkRyMHNDc3FBTk5BRjRVVy16cjRNbFdhSFhYWkYtcy1wNlJkMzRjTWhnakNiUmJjZ3V1c2luUG9lNVcyaG1Semg3UkhQOHEtY2tFS1lQbkkwZll4U3MzU2J3QmJuQnRKUzFuVVJPQXpJNzRjNmd2Rzc2aC1XRDMxck1OcXlxd3dNM1pJQnFHb3Z1S2U5VmVMYWtNY190WmdtNmtKd29fQm8zZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 26, 2026 · 14:04 BRT",
+          "pub_date": "2026-06-26",
+          "pub_ts": 1782493444,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Mideast fuel oil exports to hit four-month high in June, still below pre-war levels - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRURnaTlPbmIydXQ2SkF1NUlVZWpQRWdnLUFnZkFPSXdzN0RhTF9IbkVwRzRIRzZ3dndGa2FEQmlkc1dBM2tDUzFyN0VLOGRHZXhwd3hUX0VxZHJma2dvT095OU9URzFJS2xFN3h1YldER2dXYzczNDRvX3RuUDhyWmZsMjZGYXQxY3VPaW9wMGFHUkVCWERvaXJDVlhuN0U0NFJPaHNyWVpfOXpaeDlvUW1mOG1INUhIcU5zMW5DS2dFd3dGRU1v?oc=5",

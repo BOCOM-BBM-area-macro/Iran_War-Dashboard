@@ -25220,7 +25220,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-18"
+      "pub_date": "2026-06-26"
     },
     "https://www.timesofisrael.com/poll-71-of-israelis-dont-trust-trump-to-look-out-for-them-in-iran-deal-just-11-say-israel-won-war/": {
       "summary": "Trump says he'll 'most likely' endorse Netanyahu but wants to see who else is running, as survey underscores deep discontent among Israeli public over US-Iran deal and PM's conduct",
@@ -27859,6 +27859,42 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-26"
+    },
+    "https://www.reuters.com/world/us/vance-rubio-strike-different-tone-iran-israel-2026-06-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-06-25/live-updates-900444": {
+      "summary": "Italy, France agree on coalition to support Lebanon after UN mission ends • S. Korean ships leave Strait of Hormuz • Iran rejects claim unfrozen funds to be spent in US",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "IAEA",
+        "IDF",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-26"
+    },
+    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900600": {
+      "summary": "Since the merger between Naftali Bennett and Yair Lapid, the joint party has lost 10 seats in about two months and has declined this week to just 18 seats.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Elections",
+        "Knesset",
+        "Likud",
+        "Naftali Bennett"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

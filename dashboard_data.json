@@ -28144,7 +28144,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-26"
+      "pub_date": "2026-06-27"
     },
     "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-93e57fe0": {
       "summary": "",
@@ -28175,6 +28175,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-26"
+    },
+    "https://www.wsj.com/world/middle-east/iranians-weary-of-war-decompress-on-a-turkish-dance-floor-d6fbc09e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-27"
     }
   },
   "last_run_success": true,

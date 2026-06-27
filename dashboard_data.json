@@ -28235,56 +28235,160 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-27/iran-us-trade-accusations-of-violating-ceasefire-after-strikes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-27"
+    },
+    "https://www.axios.com/2026/06/27/gas-airfare-oil-brent-prices-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-27"
+    },
+    "https://www.reuters.com/world/us/trumps-iran-deal-falls-short-these-voters-some-fear-it-could-cost-republicans-2026-06-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-27"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-26",
-  "last_generated_time": "2026-06-26T23:02:19.009388+00:00",
+  "last_generated_date": "2026-06-27",
+  "last_generated_time": "2026-06-27T08:01:56.478370+00:00",
   "digest": {
-    "digest": "The ongoing conflict with Iran has led to significant economic repercussions, including accelerated inflation in May due to rising energy prices. The United States is considering a strategic relocation of its Gulf military bases westward, including to Israel, to mitigate exposure to Iranian missile and drone attacks, following substantial damage to the US Naval Support Activity base in Bahrain, estimated at $400 million. This recalibration of US military posture is a direct response to Iran's retaliatory strikes, which occurred after the commencement of a US-Israeli bombing campaign in Iran on February 28, resulting in 13 US service members killed and hundreds wounded. The conflict has also prompted the White House to seek an additional $88 billion from Congress for war-related expenses and other priorities. Shipping through the Strait of Hormuz remains a critical concern, with crude shipments at their highest since the war began and oil supertankers turning back after a vessel was struck near Oman. The UN has halted its escort of ships through the Strait following an attack on a vessel. Travel disruptions are also evident, with Heathrow Airport cutting passenger and profit forecasts due to the war's impact on travel. A memorandum of understanding was reached between the US and Iran, initiating 60 days of negotiations to end regional hostilities, though Israel is not a party to this agreement and has expressed criticism, particularly regarding the halt to operations against Hezbollah without concrete concessions from Iran on its nuclear program. The financial impact extends globally, with stock markets in Asia experiencing a tumble.",
+    "digest": "Recent events indicate a continuation of military exchanges between the United States and Iran. The U.S. military conducted strikes against Iranian missile and drone sites, explicitly stated as retaliation for an Iranian drone strike on a commercial vessel in the Strait of Hormuz. Iran, in turn, reported striking U.S.-linked targets in response to these U.S. attacks. Both nations have traded accusations of violating a ceasefire following these engagements. Despite these escalations, crude oil prices have returned to pre-war levels, though gas and airfare prices are not expected to decrease in the near term. Shipping activity through the Strait of Hormuz has reached its highest point since the conflict began. Meanwhile, Gulf Arab countries are reassessing their defense strategies and trade routes in response to an emerging U.S.-Iran deal. Diplomatic tensions remain high as both sides accuse each other of violating agreements, underscoring the volatile nature of the current situation.",
     "top_themes": [
-      "Economic Impact of Iran War",
-      "US Military Strategy Adjustments",
-      "Strait of Hormuz Shipping Disruptions",
-      "International Diplomatic and Financial Responses"
+      "US-Iran Military Exchanges",
+      "Strait of Hormuz Shipping",
+      "Global Economic Impact"
     ],
     "next_events": [
       {
-        "title": "Outcome of US-Iran Hostility Negotiations",
-        "description": "The 60-day negotiation period following the US-Iran Memorandum of Understanding (MOU) is critical for regional stability. Analysts should closely monitor the progress and final terms of any agreement, particularly concerning Iran's nuclear program and regional proxies, given Israel's expressed criticisms and non-participation."
+        "title": "Direct US-Iran Military Escalation",
+        "description": "Recent US strikes on Iranian military sites and Iran's claims of hitting US-linked targets indicate a direct military confrontation. Analysts should watch for further retaliatory actions, the scale and targets of any new strikes, and official statements from both nations regarding their military posture and red lines."
       },
       {
-        "title": "US Military Base Relocation and Regional Posture Shift",
-        "description": "The United States is considering moving military installations from the Gulf westward, potentially to Israel, in response to Iranian missile and drone attacks. This strategic recalculation could significantly alter regional power dynamics and US force projection, requiring observation of official announcements, timelines, and reactions from host nations and Iran."
+        "title": "Strait of Hormuz Security and Shipping Dynamics",
+        "description": "The Strait of Hormuz remains a critical flashpoint, with recent attacks on commercial vessels and Oman's suggestion of potential shipping fees. Monitor for new incidents involving commercial or military vessels, changes in shipping insurance rates or routes, and any concrete steps by regional actors to impose tariffs or enhance naval presence."
       },
       {
-        "title": "Strait of Hormuz Security and Shipping Incidents",
-        "description": "Ongoing incidents involving ships in the Strait of Hormuz and Iran's assertion of control pose a continuous threat to global energy supplies. Analysts should track any further disruptions to shipping, international naval responses, and the progress of efforts to reduce global reliance on this critical chokepoint."
+        "title": "Adherence to or Collapse of the US-Iran 'Truce'",
+        "description": "Reports mention a 'ceasefire' or 'truce' alongside accusations of violations, creating ambiguity about the conflict's status. It is crucial to observe whether military actions align with a de-escalation, look for official confirmations or denials of a formal truce, and track any diplomatic efforts to stabilize the situation."
       },
       {
-        "title": "Economic Impact and Energy Market Volatility",
-        "description": "The Iran war has already triggered oil shocks, accelerated inflation, and disrupted global travel and supply chains. Continued monitoring of global energy prices, inflation rates, and the stability of international markets is essential, especially as the US seeks substantial supplemental funding for the war's aftermath."
+        "title": "Regional Geopolitical Realignment and Alliances",
+        "description": "The conflict is prompting Gulf Arab countries to reshape their defense strategies and economies, while US-Israeli relations face potential strain. Watch for new security agreements, shifts in diplomatic ties between regional powers, and any public statements from leaders indicating changes in their alliances or foreign policy orientations."
       },
       {
-        "title": "Israel's Reaction to US-Iran Diplomatic Efforts",
-        "description": "Israel has voiced strong criticism of the US-Iran MOU, specifically regarding its implications for operations against Hezbollah and the absence of concrete concessions on Iran's nuclear program. Analysts should watch for Israel's diplomatic and potential military responses, as these actions could significantly influence regional stability and the future of US-Iran relations."
+        "title": "Global Energy Market Stability",
+        "description": "While some oil prices have returned to pre-war levels, long-term impacts on gas and airfare are still anticipated. Continue to monitor crude oil and refined product prices, assess the resilience of supply chains through the Strait of Hormuz, and evaluate any new disruptions or policy changes affecting global energy markets."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "How a Jet Fuel Refinery Is Scrambling After the Iran War Oil Shock - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/26/world/asia/iran-war-korea-jet-fuel.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 26, 2026 · 06:40 BRT",
-      "pub_date": "2026-06-26",
-      "pub_ts": 1782466809,
+      "title": "Iran says it hits US-linked targets as Bahrain reports drone attack - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-says-it-hits-us-linked-targets-bahrain-reports-drone-attack-2026-06-27/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 27, 2026 · 06:46 BRT",
+      "pub_date": "2026-06-27",
+      "pub_ts": 1782553587,
       "summary": "",
       "tags": [
         "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Military Strikes Missile and Drone Sites in Iran - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 26, 2026 · 20:59 BRT",
+      "pub_date": "2026-06-26",
+      "pub_ts": 1782518371,
+      "summary": "U.S. Central Command said the attacks were in retaliation for an Iranian drone strike on a commercial vessel in the Strait of Hormuz on Thursday. They concluded after about 90 minutes, according to a U.S. official.",
+      "tags": [
+        "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/06/26/us-strikes-iranian-military-sites-after-ship-was-hit-strait-hormuz/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 27, 2026 · 07:44 BRT",
+      "pub_date": "2026-06-27",
+      "pub_ts": 1782557055,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran, US Trade Accusations of Violating Ceasefire After Strikes - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/iran-us-trade-accusations-of-violating-ceasefire-after-strikes",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 27, 2026 · 05:45 BRT",
+      "pub_date": "2026-06-27",
+      "pub_ts": 1782549911,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War: Oman Tells Allies Ships Going Through Hormuz May Have to Pay - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/oman-tells-allies-ships-going-through-hormuz-may-have-to-pay",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 26, 2026 · 17:30 BRT",
+      "pub_date": "2026-06-26",
+      "pub_ts": 1782505850,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -28300,88 +28404,13 @@
       "published": "Jun 26, 2026 · 06:01 BRT",
       "pub_date": "2026-06-26",
       "pub_ts": 1782464464,
-      "summary": "",
+      "summary": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Inflation Accelerated in May as Iran War Pushed Up Prices - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/25/business/inflation-iran-war-prices.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 25, 2026 · 10:36 BRT",
-      "pub_date": "2026-06-25",
-      "pub_ts": 1782394605,
-      "summary": "A closely watched measure of inflation ticked up as the conflict in the Middle East inflated energy prices.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/25/business/strait-of-hormuz-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 25, 2026 · 06:04 BRT",
-      "pub_date": "2026-06-25",
-      "pub_ts": 1782378241,
-      "summary": "Increased stockpiles, more pipelines and other tactics could loosen the waterway’s stranglehold on the global economy.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "White House seeks additional $88 billion from Congress for Iran war, other priorities - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/24/white-house-asks-congress-88-billion-iran-war/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 25, 2026 · 03:32 BRT",
-      "pub_date": "2026-06-25",
-      "pub_ts": 1782369130,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "UK's Heathrow cuts passenger, profit forecast as Iran war disrupts travel - Reuters",
-      "url": "https://www.reuters.com/world/uk/uks-heathrow-cuts-passenger-profit-forecast-iran-war-disrupts-travel-2026-06-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 26, 2026 · 03:37 BRT",
-      "pub_date": "2026-06-26",
-      "pub_ts": 1782455820,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -44805,7 +44834,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-26T11:08:41.675460+00:00",
-  "last_watch_time": "2026-06-26T11:08:49.648863+00:00",
-  "last_relevant_time": "2026-06-26T11:10:03.260241+00:00"
+  "last_digest_time": "2026-06-27T11:07:42.868454+00:00",
+  "last_watch_time": "2026-06-27T11:07:51.725687+00:00",
+  "last_relevant_time": "2026-06-27T11:07:52.417833+00:00"
 }

@@ -27689,7 +27689,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-25"
+      "pub_date": "2026-06-26"
     },
     "https://www.jpost.com/opinion/article-900266": {
       "summary": "Combining Israeli technological expertise with Emirati resources and industrial ambitions could generate a significant strategic advantage for both countries.",
@@ -28185,6 +28185,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-27"
+    },
+    "https://www.reuters.com/world/middle-east/uae-stresses-hormuz-security-rare-call-with-iran-after-war-tensions-2026-06-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-26"
     }
   },
   "last_run_success": true,
@@ -40915,6 +40925,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Hormuz Crisis Exposed Fragility of How the World Keeps Planes Flying - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JYmc0SVdQdkJoazltYWRHYnRHSnAzRDl3SlpwYlNWaWhTLU9OQWdsLTVmU0RNWDZVd3IxMXhwcXJnUnBVWDd0N0s3TjFOMzliYnNudEEyU0Q4b3gxbHROVklEWXRuTHd2enpFQmcwdEtCcHc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 27, 2026 · 03:01 BRT",
+          "pub_date": "2026-06-27",
+          "pub_ts": 1782540067,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Hormuz Crisis Exposed Fragility of How the World Keeps Planes Flying - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeG1DRE0xWC1Kd0lueEFzVnUxOEZsQVpRUzI4cGVfOUIxclFPMlQ2QTU2RFUxekVqZUYwWU1mQi1hQWNEMjR4bE9PZTlIQUxtenp0ZFhyQXpvckdjRnpLeWNnYWNfeW82eF9EQnI5MUFIVGozWVFfXzJmcDg1LVNoSTlodzJtOEptOHN6RkRJcG4?oc=5",

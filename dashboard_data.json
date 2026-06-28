@@ -28427,6 +28427,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-27"
+    },
+    "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0?syn-25a6b1a6=1": {
+      "summary": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-27"
     }
   },
   "last_run_success": true,
@@ -28942,6 +28952,20 @@
           "published": "Jun 22, 2026 · 21:41 BRT",
           "pub_date": "2026-06-22",
           "pub_ts": 1782175272,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Watch US Lets Iran Sell Oil Again as Part of Deal to End War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0JxemIwWjQ0TldYbkxpdlFnZDdsLWhsNkdLQWdQVWlQaHdROUpjWE1zZ0FZeXpWMm1YNFFWZmp0NjdRVzRSbGlNWkROQlBpbEM3MVZrUTUtMXQ1WVNhbnY3bEVRclh5cEVrQngxQzNHQjk1V09idWFjdG5pUU81SzBqZndvQzFBRThKUC1sQzZDRDZ1alJsZnM0T01Xc0x6Nkc1MlRrR05vc2JRSEE?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 22, 2026 · 21:00 BRT",
+          "pub_date": "2026-06-22",
+          "pub_ts": 1782172800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

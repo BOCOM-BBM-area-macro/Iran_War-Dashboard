@@ -28574,10 +28574,13 @@
       "pub_date": "2026-06-28"
     },
     "https://www.bloomberg.com/news/articles/2026-06-28/trump-s-u-turn-on-iran-sanctions-would-unravel-decades-of-curbs": {
-      "summary": "",
+      "summary": "The Trump administration’s effort to unwind decades of sanctions as part of a deal to end the war with Iran has created a head-spinning situation for governments, banks and other companies as they contemplate a shifting patchwork of new permissions and old restrictions.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Economic Sanctions",
+        "Donald John Trump",
+        "War",
+        "Generic 1st 'CL' Future"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -28594,7 +28597,7 @@
       "pub_date": "2026-06-28"
     },
     "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html": {
-      "summary": "",
+      "summary": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -28612,11 +28615,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-28"
+    },
+    "https://www.axios.com/2026/06/28/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-28"
+    },
+    "https://www.cbc.ca/news/world/iran-us-exchange-attacks-sunday-9.7251746": {
+      "summary": "Iran launched drone and missile attacks Sunday targeting Bahrain and Kuwait in response to U.S. airstrikes that hit the Islamic republic, and threatened a \"complete halt\" in negotiations to end the war if Washington continues its attacks.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-28"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-28",
-  "last_generated_time": "2026-06-28T17:01:54.104181+00:00",
+  "last_generated_time": "2026-06-28T18:02:00.759183+00:00",
   "digest": {
     "digest": "Hostilities have escalated in the Strait of Hormuz, with both the U.S. and Iran conducting strikes on military targets. This follows a period of increased tension, including a tanker being struck in the Strait and Iranian drones targeting Bahrain. The U.S. has launched fresh strikes on Iranian military sites in response to these incidents. These actions are testing a fragile ceasefire and have led to recriminations over a recently signed peace deal. The U.S. President has reiterated threats to \"complete the job\" militarily if necessary. The interpretation of the peace deal's provisions regarding passage through the Strait of Hormuz has become a point of contention, with Iran asserting control over designated shipping routes. Meanwhile, there are indications of economic considerations for Iran in a post-war scenario, with a deal potentially providing an economic lifeline. Evidence of damage from Iran to a U.S. naval base has also been investigated. In Israel, Ben-Gurion Airport Terminal 1 has reopened after being closed due to the Iran war, suggesting a potential de-escalation or shift in the conflict's immediate impact on civilian infrastructure.",
     "top_themes": [

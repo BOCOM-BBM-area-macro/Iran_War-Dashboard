@@ -17499,7 +17499,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-28"
+      "pub_date": "2026-06-29"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
       "summary": "",
@@ -28740,6 +28740,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-29"
+    },
+    "https://www.reuters.com/business/energy/oil-climbs-following-renewed-us-iran-strikes-middle-east-2026-06-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-28"
     }
   },
   "last_run_success": true,
@@ -28900,6 +28910,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil climbs following renewed US, Iran strikes in Middle East - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVE4MTEtZkdxUjFqY0VNeW1uZ09lM01DRkRxcVRkTzNFajVCMmx6QWVLdG9NQmRaMFBIdmswQ09GaExRMnNvV1lvS044S3oxQXVOSjYtcmhVelkxbmxJZ0JxOXRJOWNQbmhmSFNpalZUTVEzRldFZ01XdTdtYlhOZDdCazRjeHlJUi1ReEctQ1hfQ2toMnpZQjJXd3BJOWRBNWR4NDczX0diZ09D?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 28, 2026 · 19:15 BRT",
+          "pub_date": "2026-06-28",
+          "pub_ts": 1782684900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S., Iran launch new strikes, testing fragile ceasefire as Hormuz tensions flare - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWlZa1Z2ekR6MzlkR0RRNUd1X2FwTnBBcExWYkVPRndJcUVJWTk1NkxBTmMyQ3pta1V2S1lFU2RoQWE1TnpKYXktMl9ieFU4Vi1LOEFoUFB1dHdocU1rUTd6Y3ZOcGg4TTIxc1dqSlpPS0otcUpwQjVSWldvZWZ5UkpDMF9YWEo3VE5nRENFbXcxaEw4RllSVzNPUFdJQkN4Zm40eHV2bzFndDdOOWc?oc=5",

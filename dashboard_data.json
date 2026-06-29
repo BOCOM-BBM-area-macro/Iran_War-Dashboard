@@ -28290,7 +28290,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-27"
+      "pub_date": "2026-06-28"
     },
     "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-say-it-targeted-us-positions-region-response-attack-2026-06-26/": {
       "summary": "",
@@ -28651,6 +28651,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-28"
+    },
+    "https://www.timesofisrael.com/us-iran-agree-to-halt-hormuz-attacks-hold-talks-about-strait-in-qatar-on-tuesday-report/": {
+      "summary": "US official says sides to stand down 'for now' after Tehran skips technical talks scheduled for Sunday; Iran's FM threatens to 'increase tensions' if ships don't traverse route it controls",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-28"
+    },
+    "https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1": {
+      "summary": "Tehran yet to confirm end of tit-for-tat attacks that threaten fragile truce in Strait of Hormuz",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

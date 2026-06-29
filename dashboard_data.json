@@ -17499,7 +17499,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-29"
+      "pub_date": "2026-06-28"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
       "summary": "",
@@ -28633,7 +28633,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-28"
+      "pub_date": "2026-06-29"
     },
     "https://www.cbc.ca/news/world/iran-us-exchange-attacks-sunday-9.7251746": {
       "summary": "Iran launched drone and missile attacks Sunday targeting Bahrain and Kuwait in response to U.S. airstrikes that hit the Islamic republic, and threatened a \"complete halt\" in negotiations to end the war if Washington continues its attacks.",
@@ -28750,6 +28750,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-28"
+    },
+    "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-29"
+    },
+    "https://www.reuters.com/world/middle-east/senior-lebanese-official-slams-us-brokered-deal-with-israel-warns-divisions-2026-06-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-29"
+    },
+    "https://www.timesofisrael.com/iranian-cyberattacks-on-israel-surged-in-2026-cyber-chief-says/": {
+      "summary": "Yossi Karadi says Israel recorded 4,800 Iranian attacks this month, up from 1,600 last June; says digital propaganda, including Lego-style AI animation videos, part of the cyber war",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-29"
     }
   },
   "last_run_success": true,
@@ -29297,6 +29327,20 @@
           "published": "Jun 23, 2026 · 22:17 BRT",
           "pub_date": "2026-06-23",
           "pub_ts": 1782263820,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Pak1acG03S1o5ZmJ3LXAwclNpWnZyV21PaC1NY0pKSW4yalNSbV9oQXBxcUR3WldvWS0xZjB5OFZxYWRaNFVqa1dMbG9leUJvZ0NBOXZZMldIMWNydWVFc1B0UVVHdnJhWTduelNjRUdPemVwaUE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 23, 2026 · 19:37 BRT",
+          "pub_date": "2026-06-23",
+          "pub_ts": 1782254235,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

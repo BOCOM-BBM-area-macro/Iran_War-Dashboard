@@ -28830,42 +28830,161 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-29"
+    },
+    "https://www.reuters.com/investigations/shattered-tiles-trembling-domes-an-inside-look-how-war-has-damaged-irans-2026-06-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-29"
+    },
+    "https://www.reuters.com/world/middle-east/mediators-set-up-de-escalation-channels-ahead-us-iran-talks-source-says-2026-06-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-29"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-28",
-  "last_generated_time": "2026-06-28T23:02:02.472454+00:00",
+  "last_generated_date": "2026-06-29",
+  "last_generated_time": "2026-06-29T08:02:05.981603+00:00",
   "digest": {
-    "digest": "Hostilities have escalated in the Strait of Hormuz, with both the U.S. and Iran conducting strikes on military targets. This follows a period of increased tension, including a tanker being struck in the Strait and Iranian drones targeting Bahrain. The U.S. has launched fresh strikes on Iranian military sites in response to these incidents. These actions are testing a fragile ceasefire and have led to recriminations over a recently signed peace deal. The U.S. President has reiterated threats to \"complete the job\" militarily if necessary. The interpretation of the peace deal's provisions regarding passage through the Strait of Hormuz has become a point of contention, with Iran asserting control over designated shipping routes. Meanwhile, there are indications of economic considerations for Iran in a post-war scenario, with a deal potentially providing an economic lifeline. Evidence of damage from Iran to a U.S. naval base has also been investigated. In Israel, Ben-Gurion Airport Terminal 1 has reopened after being closed due to the Iran war, suggesting a potential de-escalation or shift in the conflict's immediate impact on civilian infrastructure.",
+    "digest": "Recent developments indicate a fragile ceasefire between the U.S. and Iran, with both sides agreeing to halt strikes and resume talks. However, the ceasefire is reportedly on shaky ground, with renewed strikes testing its stability and U.S. officials expressing concerns about its longevity. Iran is leveraging its control over the Strait of Hormuz as a critical point in negotiations, potentially risking the ceasefire to maintain this leverage. The U.S. and Iran have agreed to de-escalation channels ahead of further discussions, though the vague language of previous agreements, particularly concerning passage through the Strait, is now complicating peace efforts. The conflict's broader implications are evident, with China emerging as a relative winner from the crisis in the Strait of Hormuz, and Spain maintaining its economic growth forecast despite the war. India's bond market is also monitoring the situation, with Goldman Sachs indicating its impact is contained. Meanwhile, cyberattacks from Iran on Israel have surged, and the war's fallout is placing the UAE in a delicate position between Jerusalem and Tehran.",
     "top_themes": [
-      "Escalating Hostilities in Hormuz",
-      "Fragile Ceasefire Under Strain",
-      "Post-War Economic Considerations"
+      "US-Iran Ceasefire and Talks",
+      "Strait of Hormuz Tensions",
+      "Geopolitical and Economic Impacts"
     ],
     "next_events": [
       {
-        "title": "Durability of the US-Iran Peace Deal",
-        "description": "Despite a recent peace deal or ceasefire, both the US and Iran have engaged in new strikes, testing its extreme fragility. Analysts should watch for any formal declarations of withdrawal or abandonment of the deal, as its collapse would signal a return to heightened conflict."
+        "title": "Fragility of the US-Iran Ceasefire",
+        "description": "Multiple reports indicate the ceasefire is on 'shaky ground' and 'could go up in flames,' with new strikes already testing its limits. Analysts should monitor any further military actions, official statements from both sides regarding the ceasefire's status, and the rhetoric from key leaders like Trump, who has threatened to resume the war."
       },
       {
-        "title": "Strait of Hormuz Flashpoint",
-        "description": "The Strait of Hormuz remains a critical flashpoint, with a tanker struck and vague language in the peace deal regarding ship passage. Monitor for further maritime incidents, Iran's enforcement of its interpretation of transit rights, and potential international responses to secure this vital waterway."
+        "title": "Strait of Hormuz Control and Shipping Disputes",
+        "description": "Iran views its control over the Strait of Hormuz as critical leverage in peace talks, and the vague language of the current deal regarding ship passage is a major point of contention. Watch for Iran's interpretation and enforcement of shipping routes, any challenges to international maritime traffic, and diplomatic efforts to clarify or enforce passage agreements."
       },
       {
-        "title": "US Escalation Threshold and 'Complete the Job' Threat",
-        "description": "President Trump's threats to 'complete the job' militarily signal a potential for more decisive US action. Analysts should watch for any changes in US military deployments, intelligence, and the specific triggers that might lead to a broader military campaign, moving beyond retaliatory strikes."
+        "title": "Progress and Challenges in US-Iran Peace Talks",
+        "description": "Despite de-escalation channels and ongoing talks, the peace efforts are hampered by vague language in agreements and Iran's willingness to risk the ceasefire to maintain leverage. Key indicators include the outcomes of upcoming meetings, any breakthroughs or breakdowns in negotiations, and the effectiveness of mediators in bridging interpretive gaps."
       },
       {
-        "title": "Regional Spillover and Proxy Activity",
-        "description": "The targeting of Bahrain by Iranian drones indicates a potential for the conflict to expand beyond direct US-Iran engagements. Monitor for increased activity by Iranian-backed proxies, potential attacks on US allies, and how regional actors respond to the escalating tensions."
+        "title": "Escalation of Cyber Warfare",
+        "description": "Reports indicate a significant surge in Iranian cyberattacks on Israel in 2026, suggesting a potential new dimension of conflict. Analysts should watch for further reports of cyberattacks, their targets and sophistication, and the responses from affected nations, as this could be a proxy for broader tensions."
       },
       {
-        "title": "Iran's Economic Stability and Deal Benefits",
-        "description": "The peace deal was intended to provide Iran an economic lifeline, with leaders anticipating postwar gains. Watch how Iran utilizes this economic relief, its impact on domestic stability and military capabilities, and whether renewed hostilities could lead to the re-imposition of sanctions, jeopardizing its economic recovery."
+        "title": "Regional Geopolitical Realignment and Alliances",
+        "description": "The conflict is impacting regional dynamics, forcing countries like the UAE to navigate a tightrope between Israel and Iran. Monitor for shifts in security ties, diplomatic postures of regional powers, and any new alliances or realignments that emerge as nations seek to manage the long-term implications of the Iran-US tensions."
       }
     ]
   },
   "relevant_news": [
+    {
+      "title": "U.S. and Iran agree to halt strikes and meet this week, U.S. official says - Axios",
+      "url": "https://www.axios.com/2026/06/28/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jun 29, 2026 · 03:57 BRT",
+      "pub_date": "2026-06-29",
+      "pub_ts": 1782716279,
+      "summary": "The ceasefire is barely 11 days old and already on shaky ground.",
+      "tags": [
+        "Middle East",
+        "Diplomacy",
+        "Mideast peace",
+        "Iran deal",
+        "Middle East conflict"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. and Iran will ‘stand down’ after strikes and resume talks, official says - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/28/iran-insists-it-has-sole-control-hormuz-ignoring-trumps-threats/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 29, 2026 · 07:53 BRT",
+      "pub_date": "2026-06-29",
+      "pub_ts": 1782730417,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S.-Iran ceasefire could go up in flames - Axios",
+      "url": "https://www.axios.com/2026/06/28/us-iran-ceasefire-could-go-up-in-flames",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jun 28, 2026 · 19:19 BRT",
+      "pub_date": "2026-06-28",
+      "pub_ts": 1782685152,
+      "summary": "Trump is threatening to resume the war.",
+      "tags": [
+        "Middle East",
+        "Iran deal",
+        "Middle East conflict",
+        "Iran",
+        "Drone strikes"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Mediators set up de-escalation channels ahead of US-Iran talks, source says - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/mediators-set-up-de-escalation-channels-ahead-us-iran-talks-source-says-2026-06-29/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jun 29, 2026 · 07:35 BRT",
+      "pub_date": "2026-06-29",
+      "pub_ts": 1782729343,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S., Iran launch new strikes, testing fragile ceasefire as Hormuz tensions flare - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jun 28, 2026 · 12:05 BRT",
+      "pub_date": "2026-06-28",
+      "pub_ts": 1782659107,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire - WSJ",
       "url": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8",
@@ -28879,103 +28998,6 @@
       "tags": [
         "extracted",
         "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. says it hit targets in Iran as hostilities erupt over Hormuz for third day - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 28, 2026 · 07:35 BRT",
-      "pub_date": "2026-06-28",
-      "pub_ts": 1782642906,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-says-it-hits-us-linked-targets-bahrain-reports-drone-attack-2026-06-27/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 27, 2026 · 19:09 BRT",
-      "pub_date": "2026-06-27",
-      "pub_ts": 1782598168,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found. - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/we-investigated-damage-from-iran-to-a-u-s-naval-base-heres-what-we-found-4a9f13a7",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 27, 2026 · 18:00 BRT",
-      "pub_date": "2026-06-27",
-      "pub_ts": 1782594000,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US strikes Iran, explosions reported near Strait of Hormuz - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-900656",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jun 28, 2026 · 04:06 BRT",
-      "pub_date": "2026-06-28",
-      "pub_ts": 1782630394,
-      "summary": "\"There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started,\" said US President Donald Trump.",
-      "tags": [
-        "Iran",
-        "iran israel war",
-        "Memorandum of Understanding",
-        "Attack",
-        "Hormuz"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/06/26/us-strikes-iranian-military-sites-after-ship-was-hit-strait-hormuz/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 27, 2026 · 11:20 BRT",
-      "pub_date": "2026-06-27",
-      "pub_ts": 1782570022,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -29195,6 +29217,20 @@
           "published": "Jun 25, 2026 · 09:49 BRT",
           "pub_date": "2026-06-25",
           "pub_ts": 1782391784,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Rupee ends a tad higher as oil slide, foreign inflows lift sentiment - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclpjalVIajRNZC1pamxfbGR1Um40Y19xbDB1S1E3eTQybzl6M3hXNy11TUhlWHJUa2wtQ0Z2b1ppS1VwQTVjYjNLN2V1dHFCMlR0TXlPbE4tQndubmpiY0dxZDBvMXRxNnQ1VFlRaTlnXzIxaGo0UUVGOWk3MUdLcGlyeGRzNmZPay1KLVNwd3JYcjk4c0tRWGtpemEzUExNc29TSDBaOTJVMTlnd2xMOVlSeFhEdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 25, 2026 · 07:20 BRT",
+          "pub_date": "2026-06-25",
+          "pub_ts": 1782382818,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -45669,7 +45705,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-28T11:07:48.996592+00:00",
-  "last_watch_time": "2026-06-28T11:07:57.124346+00:00",
-  "last_relevant_time": "2026-06-28T11:07:57.652413+00:00"
+  "last_digest_time": "2026-06-29T11:07:57.429726+00:00",
+  "last_watch_time": "2026-06-29T11:08:05.259041+00:00",
+  "last_relevant_time": "2026-06-29T11:08:06.137775+00:00"
 }

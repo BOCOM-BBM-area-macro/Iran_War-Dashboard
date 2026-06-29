@@ -28547,7 +28547,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-28"
+      "pub_date": "2026-06-29"
     },
     "https://www.timesofisrael.com/iran-war-fallout-puts-uae-on-tightrope-between-jerusalem-and-tehran/": {
       "summary": "The conflict boosted security ties with Israel's chief Abraham Accords ally, but Abu Dhabi remains wary of public warmth and is more convinced it must manage Iran for the long term",
@@ -28893,11 +28893,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-29/kenya-congo-eurobonds-among-top-winners-from-iran-war-trade-unwind": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-29"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-29",
-  "last_generated_time": "2026-06-29T11:02:08.888579+00:00",
+  "last_generated_time": "2026-06-29T12:02:20.456150+00:00",
   "digest": {
     "digest": "Recent developments indicate a fragile ceasefire between the U.S. and Iran, with both sides agreeing to halt strikes and resume talks. However, the ceasefire is reportedly on shaky ground, with renewed strikes testing its stability and U.S. officials expressing concerns about its longevity. Iran is leveraging its control over the Strait of Hormuz as a critical point in negotiations, potentially risking the ceasefire to maintain this leverage. The U.S. and Iran have agreed to de-escalation channels ahead of further discussions, though the vague language of previous agreements, particularly concerning passage through the Strait, is now complicating peace efforts. The conflict's broader implications are evident, with China emerging as a relative winner from the crisis in the Strait of Hormuz, and Spain maintaining its economic growth forecast despite the war. India's bond market is also monitoring the situation, with Goldman Sachs indicating its impact is contained. Meanwhile, cyberattacks from Iran on Israel have surged, and the war's fallout is placing the UAE in a delicate position between Jerusalem and Tehran.",
     "top_themes": [
@@ -29055,6 +29065,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "China Emerges as a Relative Winner From Strait of Hormuz Crisis - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0gwVnI3ZjZQZXNiRDl4TDNkLUZVUTZqR1NiSm01aDBRdWxPdjBJelF5UmVfWjlYdEtIbEVSbmJZRXJtSkhHazA4ZFRjbVFWUmxZYUh2dURXamZEWjh6V0RqdDg0MlJpRFZtQ3pSZGd6SVg5WVVHWkQ4WUpLN2JHT1Z5dlcycnNPeFl0Tw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 29, 2026 · 06:03 BRT",
+          "pub_date": "2026-06-29",
+          "pub_ts": 1782723789,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Rise as U.S. and Iran Discuss Deal to Suspend Attacks in Gulf - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0azJlM0sxUTQ0ZTdNWWtDdWR4bUZXX2NQYnEwNjctS3M3dnpLM1N0U2Z0Q3NFNGt0a2pNcXdVcTYzU2tCNzlsZnNSV2JYbVdJb2RCN3ZudWE5Y25kU2Rjb3NEQkNxaC05OWUwMkI1SEhWWGJ2SUE?oc=5",
@@ -29344,6 +29368,20 @@
           "published": "Jun 25, 2026 · 03:24 BRT",
           "pub_date": "2026-06-25",
           "pub_ts": 1782368684,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump is frustrated gasoline prices don't mirror oil's decline. Experts say it’s not that simple - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEJHdnZNZmJ0d0ZrWjNLQ3NfcjAzWHJDZmkzTEU3T1NvUjBmX0MxUzR6cVJGTERYMzNtSlJnOEk5MXU2Mmo3bFNNQWhvQTZhb05HLXNlODZ4RFR2MG5BNGtnZEc2V2FhMFFnc0FYUXJ4Z05nV25SZEV5X3JXNnBxSXBGSTEzcmdRRjFqT0lsT2tteGFLNTd4enZTa0M5dHdZcnFyTXJMbWJvY0VvcWhRN2tnc0c0QXE0ZHppVm5fMS1fS3VvLUh0U01QNjJzMFNMaWJ6WA?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 25, 2026 · 01:19 BRT",
+          "pub_date": "2026-06-25",
+          "pub_ts": 1782361150,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

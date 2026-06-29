@@ -28419,14 +28419,17 @@
       "pub_date": "2026-06-27"
     },
     "https://www.axios.com/2026/06/27/us-iran-strikes-strait-hormuz": {
-      "summary": "",
+      "summary": "Renewed strikes could put the shaky U.S.-Iran memorandum of understanding at risk.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Military news",
+        "United States",
+        "Middle East conflict",
+        "Iran",
+        "Airstrikes"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-27"
+      "pub_date": "2026-06-28"
     },
     "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0?syn-25a6b1a6=1": {
       "summary": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
@@ -28534,10 +28537,13 @@
       "pub_date": "2026-06-28"
     },
     "https://www.axios.com/2026/06/28/us-iran-ceasefire-could-go-up-in-flames": {
-      "summary": "",
+      "summary": "Trump is threatening to resume the war.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Middle East",
+        "Iran deal",
+        "Middle East conflict",
+        "Iran",
+        "Drone strikes"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -28617,10 +28623,13 @@
       "pub_date": "2026-06-29"
     },
     "https://www.axios.com/2026/06/28/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says": {
-      "summary": "",
+      "summary": "The ceasefire is barely 11 days old and already on shaky ground.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Middle East",
+        "Diplomacy",
+        "Mideast peace",
+        "Iran deal",
+        "Middle East conflict"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -28687,10 +28696,23 @@
       "pub_date": "2026-06-28"
     },
     "https://www.reuters.com/world/india/gold-slips-fresh-us-iran-strikes-boost-oil-fed-rate-hike-bets-weigh-2026-06-29/": {
-      "summary": "",
+      "summary": "Gold prices eased on Monday as recent ‌U.S.-Iran strikes in the Gulf pushed oil prices higher, while expectations of U.S. Federal Reserve interest rate hikes further weighed on the non-yielding metal.",
+      "tags": [
+        "TOPIC:MARKETS-GOLD",
+        "MKTREP",
+        "REP",
+        "TOPNWS",
+        "BLR"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-28"
+    },
+    "https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1?syn-25a6b1a6=1": {
+      "summary": "Tehran yet to confirm end of tit-for-tat attacks that threaten fragile truce in Strait of Hormuz",
       "tags": [
         "extracted",
-        "reuters.com"
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -44532,6 +44554,20 @@
           "published": "Jun 28, 2026 · 23:56 BRT",
           "pub_date": "2026-06-28",
           "pub_ts": 1782701760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "EU plans 15% tax on aluminium scrap exports - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEFZeXlfSU1ucWswSU1QMlpEZ09VMTlmei1JT2EwMXBWSHdpQ2QwdXpRR1NHbWhuRF9zR2ZQUnpOZUdYZmJBRWg3VFpLcFF5RTZPWEpNbXBQZU14Q2NLaTBtcmotdHVXNWI3WEdldDZUcHRIWWdzQjZkejBZbXlNbnROVVE?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 26, 2026 · 10:28 BRT",
+          "pub_date": "2026-06-26",
+          "pub_ts": 1782480482,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

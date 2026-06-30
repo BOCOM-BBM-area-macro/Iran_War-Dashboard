@@ -29171,11 +29171,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-30"
+    },
+    "https://www.reuters.com/world/americas/global-markets-h1-analysis-pix-2026-06-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-30",
-  "last_generated_time": "2026-06-30T11:02:05.315430+00:00",
+  "last_generated_time": "2026-06-30T12:02:13.762645+00:00",
   "digest": {
     "digest": "Recent developments indicate ongoing diplomatic engagement between the United States and Iran, with negotiators heading to Doha for discussions, though the prospect of a direct meeting remains uncertain. Iran has reiterated its intention to participate in the Doha discussions but not for direct talks with the U.S., while also increasing rhetoric regarding control of the Strait of Hormuz. Despite these diplomatic maneuvers, oil prices have shown volatility, experiencing a rise on news of a potential agreement to suspend attacks in a key shipping lane, followed by a period of steady prices as talks approached. The broader economic impact of the conflict is becoming apparent, with the UK economy showing growth prior to anticipated war impacts and India planning to increase strategic fuel reserves and reduce reliance on Middle Eastern oil following the shock of the war. Switzerland's central bank intervened to halt a rush for the franc at the outbreak of the Iran war, and South African Rand trading surged due to war-induced volatility. China is emerging as a relative economic beneficiary from the Strait of Hormuz crisis, despite a general negative impact on Asian economies. Domestically, the conflict has become a significant point of division within both the Democratic and Republican parties in the U.S., potentially influencing future electoral outcomes.",
     "top_themes": [
@@ -29329,6 +29339,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 11:51 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782831101,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India Plans to Cut Reliance on Middle East Oil After War Shock - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHN4bmRhY1BTT3JHOXdVVUptUW9Cbm5OMHMtSlNyTmtJZmZTS3VoMFNvaTZXMTBiTlUtZTFBWmV4eVRISEprT3VFNHVqSzhVRm9SUTRHVW1JYXl1aXk5YmU4djdiMjlmY3FGNFNraGk5STdxYVVVTjNhMDFHbnhTNkNodXNYNWZ5Yk9rMFVwWVR1Rm1Ma3BkelJsLXNSZGNWMnlHQnRqSHpQb1dZYTRCSVpTcw?oc=5",

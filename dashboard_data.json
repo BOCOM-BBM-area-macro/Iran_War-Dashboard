@@ -28952,7 +28952,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-29"
+      "pub_date": "2026-06-30"
     },
     "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes": {
       "summary": "",
@@ -29056,76 +29056,85 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-30/rand-trading-surges-as-war-spawns-volatility-central-bank-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
+    },
+    "https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-30/india-plans-to-add-strategic-fuel-reserves-after-iran-war-shock": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-29",
-  "last_generated_time": "2026-06-29T23:02:02.090807+00:00",
+  "last_generated_date": "2026-06-30",
+  "last_generated_time": "2026-06-30T08:02:14.029369+00:00",
   "digest": {
-    "digest": "Recent developments indicate a fragile ceasefire between the U.S. and Iran, with both sides agreeing to halt strikes and resume talks. However, the ceasefire is reportedly on shaky ground, with renewed strikes testing its stability and U.S. officials expressing concerns about its longevity. Iran is leveraging its control over the Strait of Hormuz as a critical point in negotiations, potentially risking the ceasefire to maintain this leverage. The U.S. and Iran have agreed to de-escalation channels ahead of further discussions, though the vague language of previous agreements, particularly concerning passage through the Strait, is now complicating peace efforts. The conflict's broader implications are evident, with China emerging as a relative winner from the crisis in the Strait of Hormuz, and Spain maintaining its economic growth forecast despite the war. India's bond market is also monitoring the situation, with Goldman Sachs indicating its impact is contained. Meanwhile, cyberattacks from Iran on Israel have surged, and the war's fallout is placing the UAE in a delicate position between Jerusalem and Tehran.",
+    "digest": "Recent developments indicate ongoing diplomatic engagement between the United States and Iran, with negotiators heading to Doha for discussions, though the prospect of a direct meeting remains uncertain. Iran has reiterated its intention to participate in the Doha discussions but not for direct talks with the U.S., while also increasing rhetoric regarding control of the Strait of Hormuz. Despite these diplomatic maneuvers, oil prices have shown volatility, experiencing a rise on news of a potential agreement to suspend attacks in a key shipping lane, followed by a period of steady prices as talks approached. The broader economic impact of the conflict is becoming apparent, with the UK economy showing growth prior to anticipated war impacts and India planning to increase strategic fuel reserves and reduce reliance on Middle Eastern oil following the shock of the war. Switzerland's central bank intervened to halt a rush for the franc at the outbreak of the Iran war, and South African Rand trading surged due to war-induced volatility. China is emerging as a relative economic beneficiary from the Strait of Hormuz crisis, despite a general negative impact on Asian economies. Domestically, the conflict has become a significant point of division within both the Democratic and Republican parties in the U.S., potentially influencing future electoral outcomes.",
     "top_themes": [
-      "US-Iran Ceasefire and Talks",
-      "Strait of Hormuz Tensions",
-      "Geopolitical and Economic Impacts"
+      "Geopolitical Tensions and Diplomacy",
+      "Economic Impacts of Conflict",
+      "Energy Market Volatility"
     ],
     "next_events": [
       {
-        "title": "Fragility of the US-Iran Ceasefire",
-        "description": "Multiple reports indicate the ceasefire is on 'shaky ground' and 'could go up in flames,' with new strikes already testing its limits. Analysts should monitor any further military actions, official statements from both sides regarding the ceasefire's status, and the rhetoric from key leaders like Trump, who has threatened to resume the war."
+        "title": "US-Iran Diplomatic Progress",
+        "description": "Watch for any confirmed direct or indirect talks between the US and Iran, particularly those aimed at de-escalating tensions or suspending attacks in the Gulf. Progress here could significantly impact regional stability and global markets, as seen with previous discussions on halting attacks."
       },
       {
-        "title": "Strait of Hormuz Control and Shipping Disputes",
-        "description": "Iran views its control over the Strait of Hormuz as critical leverage in peace talks, and the vague language of the current deal regarding ship passage is a major point of contention. Watch for Iran's interpretation and enforcement of shipping routes, any challenges to international maritime traffic, and diplomatic efforts to clarify or enforce passage agreements."
+        "title": "Strait of Hormuz Security and Iranian Actions",
+        "description": "Monitor Iran's rhetoric and actions regarding the Strait of Hormuz, a vital global shipping lane. Any attempts to assert control or disrupt passage would have immediate and severe consequences for oil prices and international trade, potentially escalating the conflict."
       },
       {
-        "title": "Progress and Challenges in US-Iran Peace Talks",
-        "description": "Despite de-escalation channels and ongoing talks, the peace efforts are hampered by vague language in agreements and Iran's willingness to risk the ceasefire to maintain leverage. Key indicators include the outcomes of upcoming meetings, any breakthroughs or breakdowns in negotiations, and the effectiveness of mediators in bridging interpretive gaps."
+        "title": "Global Economic and Oil Market Volatility",
+        "description": "Observe global economic indicators, especially oil prices and market reactions, for signs of continued volatility or recovery. The 'Iran War uncertainty' has already prompted central bank interventions and strategic fuel reserve planning, indicating potential for further economic disruption."
       },
       {
-        "title": "Escalation of Cyber Warfare",
-        "description": "Reports indicate a significant surge in Iranian cyberattacks on Israel in 2026, suggesting a potential new dimension of conflict. Analysts should watch for further reports of cyberattacks, their targets and sophistication, and the responses from affected nations, as this could be a proxy for broader tensions."
+        "title": "Broader Regional Geopolitical Shifts",
+        "description": "Pay close attention to evolving alliances and tensions in the broader Middle East, including US engagement in Lebanon and the ongoing Israel-Iran dynamic. These regional shifts could indicate a wider reordering of power and influence, impacting long-term stability and potentially benefiting actors like China."
       },
       {
-        "title": "Regional Geopolitical Realignment and Alliances",
-        "description": "The conflict is impacting regional dynamics, forcing countries like the UAE to navigate a tightrope between Israel and Iran. Monitor for shifts in security ties, diplomatic postures of regional powers, and any new alliances or realignments that emerge as nations seek to manage the long-term implications of the Iran-US tensions."
+        "title": "US Domestic Political Landscape",
+        "description": "Monitor the evolving debate within US political parties regarding foreign policy towards Iran and Israel. Significant ideological shifts or bipartisan consensus (or lack thereof) could influence future US diplomatic and military strategies in the region, impacting upcoming elections."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. and Iran agree to halt strikes and meet this week, U.S. official says - Axios",
-      "url": "https://www.axios.com/2026/06/28/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Jun 29, 2026 · 03:57 BRT",
-      "pub_date": "2026-06-29",
-      "pub_ts": 1782716279,
-      "summary": "The ceasefire is barely 11 days old and already on shaky ground.",
-      "tags": [
-        "Middle East",
-        "Diplomacy",
-        "Mideast peace",
-        "Iran deal",
-        "Middle East conflict"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. and Iran will ‘stand down’ after strikes and resume talks, official says - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/28/iran-insists-it-has-sole-control-hormuz-ignoring-trumps-threats/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 29, 2026 · 07:53 BRT",
-      "pub_date": "2026-06-29",
-      "pub_ts": 1782730417,
+      "title": "Iran Ratchets Up Talk of Controlling Hormuz Ahead of New Talks - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/iran-ratchets-up-talk-of-controlling-hormuz-ahead-of-new-talks",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jun 30, 2026 · 04:13 BRT",
+      "pub_date": "2026-06-30",
+      "pub_ts": 1782803588,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -29133,35 +29142,32 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S.-Iran ceasefire could go up in flames - Axios",
-      "url": "https://www.axios.com/2026/06/28/us-iran-ceasefire-could-go-up-in-flames",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Jun 28, 2026 · 19:19 BRT",
-      "pub_date": "2026-06-28",
-      "pub_ts": 1782685152,
-      "summary": "Trump is threatening to resume the war.",
+      "title": "Oil Prices Rise as U.S. and Iran Discuss Deal to Suspend Gulf Attacks - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 29, 2026 · 17:18 BRT",
+      "pub_date": "2026-06-29",
+      "pub_ts": 1782764321,
+      "summary": "Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.",
       "tags": [
-        "Middle East",
-        "Iran deal",
-        "Middle East conflict",
-        "Iran",
-        "Drone strikes"
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "Mediators set up de-escalation channels ahead of US-Iran talks, source says - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/mediators-set-up-de-escalation-channels-ahead-us-iran-talks-source-says-2026-06-29/",
+      "title": "How 5 weeks of war shattered some of Iran’s cherished monuments - Reuters",
+      "url": "https://www.reuters.com/investigates/special-report/iran-crisis-cultural-heritage/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 29, 2026 · 07:35 BRT",
+      "published": "Jun 29, 2026 · 06:00 BRT",
       "pub_date": "2026-06-29",
-      "pub_ts": 1782729343,
+      "pub_ts": 1782723600,
       "summary": "",
       "tags": [
         "extracted",
@@ -29173,37 +29179,57 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S., Iran launch new strikes, testing fragile ceasefire as Hormuz tensions flare - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/",
+      "title": "China Emerges as a Relative Winner From Strait of Hormuz Crisis - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 29, 2026 · 09:21 BRT",
+      "pub_date": "2026-06-29",
+      "pub_ts": 1782735715,
+      "summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-06-30/live-updates-900897",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jun 29, 2026 · 21:00 BRT",
+      "pub_date": "2026-06-29",
+      "pub_ts": 1782777605,
+      "summary": "IDF kills PIJ terrorist who took hostages on Oct. 7 • Senior Lebanese official slams US-brokered deal with Israel • Hakeem Jeffries calls for 'full unclassified briefing’ on US-Iran talks",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Iran",
+        "Lebanon",
+        "rockets"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Opinion | Trump’s ‘small piece of the puzzle’ in the Iran war is the whole game - The Washington Post",
+      "url": "https://www.washingtonpost.com/opinions/2026/06/29/lebanon-hezbollah-arent-pieces-iran-puzzle-they-game/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 28, 2026 · 12:05 BRT",
-      "pub_date": "2026-06-28",
-      "pub_ts": 1782659107,
+      "published": "Jun 29, 2026 · 15:15 BRT",
+      "pub_date": "2026-06-29",
+      "pub_ts": 1782756900,
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jun 28, 2026 · 04:53 BRT",
-      "pub_date": "2026-06-28",
-      "pub_ts": 1782633180,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -29218,6 +29244,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil set for steepest quarterly loss since 2020 as traders focus on US-Iran talks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDFWV0lhZFUtN1Y1N2hwRlNPWGZYVFQ5TXZxVjVpQTFib25IaS0walpsa3V6a0VRbVIxOEw5bVVYZFlWTzZuWWZrcFZtd2dUQVZEU00xX3VEVDBxanpod0lsaUFYbzFESXVJSWZKLUtmZDBNUVRXTk5ZaGw1SmRBWjJzNGQ0TzdXcmpsa3BhMXl1djBhc1hScXVxc0RaNzR1M1A2YzlrSWtVZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 29, 2026 · 22:18 BRT",
+          "pub_date": "2026-06-29",
+          "pub_ts": 1782782280,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran’s Oil Money Is Coming Back. Its Main Street Will Have to Wait. - WSJ",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUnhnQzdFX0Jib2NXOEllYW9hLWFoLTFoYlFlN3FkNDMtMmk2TXFaMWd0NFRKVkhtS2MyamY1anFZelJkQjdRUUpFWkdzZmstLWNBYlZQS3E0UGs0Q1doVWJseW13QU1SbnBlYzZDS0QwaXRNYmdZOA?oc=5",
@@ -46107,7 +46147,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-29T11:07:57.429726+00:00",
-  "last_watch_time": "2026-06-29T11:08:05.259041+00:00",
-  "last_relevant_time": "2026-06-29T11:08:06.137775+00:00"
+  "last_digest_time": "2026-06-30T11:09:29.544609+00:00",
+  "last_watch_time": "2026-06-30T11:09:40.781388+00:00",
+  "last_relevant_time": "2026-06-30T11:09:53.237948+00:00"
 }

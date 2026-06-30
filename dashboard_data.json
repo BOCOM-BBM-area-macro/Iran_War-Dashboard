@@ -17479,7 +17479,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-23"
+      "pub_date": "2026-06-28"
     },
     "https://www.reuters.com/world/middle-east/trumps-room-maneuver-narrows-us-iran-close-framework-deal-2026-05-29/": {
       "summary": "",
@@ -29036,6 +29036,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-29"
+    },
+    "https://www.bloomberg.com/news/videos/2026-06-30/ecb-says-extent-of-inflation-shock-remains-to-be-seen-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-06-30/india-plans-to-cut-reliance-on-middle-east-oil-after-war-shock": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
     }
   },
   "last_run_success": true,
@@ -44483,6 +44503,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Trump administration touts Iran deal as a payday for US farmers, but Iran denies it - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDZEVlRwejJaVWlKOW9fNkozSW5pNTJJWXh1c3gwWGJRejhrNTdYMVNvVnRXdHRtZjMzWkRVc0NuUlhhb0dMRXRFYXpySlhiSVl0WnZNZEdzTzZHdXdOdWpqeWZuWHRna0N6NU8yOWhKLWdrbDlsSnhHMnRKRWtQbVBiMXFDNlR3RWhLMlliTFpVMEtZR3NnZU5ITVlqczJpQURNRXdmNmNHOHhtRzVMRFRmSnJaV0w0Z0Q4SXZZV3VmY1RjTTM3U2hkSklfVmNEcnd0LVFaR2daLVhObDJEdVlCcDMxZw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 24, 2026 · 03:04 BRT",
+          "pub_date": "2026-06-24",
+          "pub_ts": 1782281072,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US Treasury issues general license for Iran to sell oil, petroleum products - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3YUtId2lFX2ZuNGRuOFgzckM4cUF1N3F1ZFkxcnRYUVp4M05pcGx3VE9SRkJxQmRLcGJLc25mSlljcnh2bFdHLXN5N3BFN0xwUUV5WTlGNDJLZTlacE5nS3dETWU1cmx6TFE?oc=5",

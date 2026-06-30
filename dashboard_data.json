@@ -28577,7 +28577,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-06-29"
     },
     "https://www.bloomberg.com/news/articles/2026-06-28/trump-s-u-turn-on-iran-sanctions-would-unravel-decades-of-curbs": {
       "summary": "The Trump administration’s effort to unwind decades of sanctions as part of a deal to end the war with Iran has created a head-spinning situation for governments, banks and other companies as they contemplate a shifting patchwork of new permissions and old restrictions.",
@@ -29116,11 +29116,33 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-30"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/30/iran-wartime-gains-hang-over-trump-nuclear-talks/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
+    },
+    "https://www.jpost.com/opinion/article-900932": {
+      "summary": "The 60-day Iran MOU may be betrayal, retreat, or the greatest political theater of our time. Israel cannot afford to guess wrong.",
+      "tags": [
+        "Hezbollah",
+        "Iran",
+        "Donald Trump",
+        "Memorandum of Understanding"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-30",
-  "last_generated_time": "2026-06-30T09:02:19.953999+00:00",
+  "last_generated_time": "2026-06-30T10:01:59.778762+00:00",
   "digest": {
     "digest": "Recent developments indicate ongoing diplomatic engagement between the United States and Iran, with negotiators heading to Doha for discussions, though the prospect of a direct meeting remains uncertain. Iran has reiterated its intention to participate in the Doha discussions but not for direct talks with the U.S., while also increasing rhetoric regarding control of the Strait of Hormuz. Despite these diplomatic maneuvers, oil prices have shown volatility, experiencing a rise on news of a potential agreement to suspend attacks in a key shipping lane, followed by a period of steady prices as talks approached. The broader economic impact of the conflict is becoming apparent, with the UK economy showing growth prior to anticipated war impacts and India planning to increase strategic fuel reserves and reduce reliance on Middle Eastern oil following the shock of the war. Switzerland's central bank intervened to halt a rush for the franc at the outbreak of the Iran war, and South African Rand trading surged due to war-induced volatility. China is emerging as a relative economic beneficiary from the Strait of Hormuz crisis, despite a general negative impact on Asian economies. Domestically, the conflict has become a significant point of division within both the Democratic and Republican parties in the U.S., potentially influencing future electoral outcomes.",
     "top_themes": [
@@ -29274,6 +29296,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "India Plans to Cut Reliance on Middle East Oil After War Shock - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHN4bmRhY1BTT3JHOXdVVUptUW9Cbm5OMHMtSlNyTmtJZmZTS3VoMFNvaTZXMTBiTlUtZTFBWmV4eVRISEprT3VFNHVqSzhVRm9SUTRHVW1JYXl1aXk5YmU4djdiMjlmY3FGNFNraGk5STdxYVVVTjNhMDFHbnhTNkNodXNYNWZ5Yk9rMFVwWVR1Rm1Ma3BkelJsLXNSZGNWMnlHQnRqSHpQb1dZYTRCSVpTcw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 06:36 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782812209,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "India Plans to Add Strategic Fuel Reserves After Iran War Shock - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamRGWl91TEhFWFdhNmJpTzRKMDRPQnNJeUlVUGxZQ1oxakl5ZDE5cE1RVXA0a19adUQ4bWY0N1FMQmtPY2ZhRjZuWlpmeUkwLUZfWXlMeUxKcUFsUXo3bFBmdlQzdzFtUTllWGFUdmtwaTRlaWJIaXB0UllmdU5iN2Z2Z3plckdRUXZpZVdIbnRsQjhUZnJVMjN1dXZwNDJVREhJMXJvMnZuRUhWbkl3TVBGU2E?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 03:43 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782801780,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil set for steepest quarterly loss since 2020 as traders focus on US-Iran talks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDFWV0lhZFUtN1Y1N2hwRlNPWGZYVFQ5TXZxVjVpQTFib25IaS0walpsa3V6a0VRbVIxOEw5bVVYZFlWTzZuWWZrcFZtd2dUQVZEU00xX3VEVDBxanpod0lsaUFYbzFESXVJSWZKLUtmZDBNUVRXTk5ZaGw1SmRBWjJzNGQ0TzdXcmpsa3BhMXl1djBhc1hScXVxc0RaNzR1M1A2YzlrSWtVZw?oc=5",
@@ -39631,6 +39681,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Iran war turns Asia toward diversifying energy supplies, undermining climate goals - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM3pUMjE0UVp0NU5QNDR0RndDOXduNFRMTTZKZ3FmVjVlb2F0YzBiaWJNNzk4d0pnc2RHYTgxcXVacjdJWXpvdFdQYkVQcF94TFJ6eEo5cUhXYmxvSDhwQndMUi1oRTJpc09JNzBWdXVQRFhBWnZISjlEdVNLOThHM2xzOG5PNVpMaGUzZzdfbTZwLVoxby1DY2ozX1Y1QW9qYV9xV3hhZ0JMQ3NfNGNodEN0Rm1kcDhOTE9za0ZubjBWRWdSdHZ5a0dVa2JYUXhWTEE?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 09:32 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782822752,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Don't expect pre-war gas or airfare prices any time soon - Axios",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DRW92d3dMMzJNQkE3dEZsSHpTUVdtTS12YTNaa2t2UXR0b1hPM1J5aC1QQUw2Ull0WE9KWnJENlRlb2xpTEdJVEVXSDY4RDFDdS03NFlqQ0FFbE9CeEtFRF9LY1B4TVJxcV9SNy1aVmxSS3lD?oc=5",
           "source": "Axios",
@@ -44587,6 +44651,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "'Maybe on the Iran side': Trump reveals Turkey's Erdogan stayed out of Iran war at his request - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NVG9BRGl1dTFqTUxJU29XakJtZ1drSVZLTElsRGV1MElBa3N3S2dzWHljOHpRbFNuOF80MnI5YmFjWDJ1d1ZrOFRfendnREZuaFgzWjAxUHdqclZYUmNv?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 25, 2026 · 02:55 BRT",
+          "pub_date": "2026-06-25",
+          "pub_ts": 1782366949,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump administration touts Iran deal as a payday for US farmers, but Iran denies it - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDZEVlRwejJaVWlKOW9fNkozSW5pNTJJWXh1c3gwWGJRejhrNTdYMVNvVnRXdHRtZjMzWkRVc0NuUlhhb0dMRXRFYXpySlhiSVl0WnZNZEdzTzZHdXdOdWpqeWZuWHRna0N6NU8yOWhKLWdrbDlsSnhHMnRKRWtQbVBiMXFDNlR3RWhLMlliTFpVMEtZR3NnZU5ITVlqczJpQURNRXdmNmNHOHhtRzVMRFRmSnJaV0w0Z0Q4SXZZV3VmY1RjTTM3U2hkSklfVmNEcnd0LVFaR2daLVhObDJEdVlCcDMxZw?oc=5",

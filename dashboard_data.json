@@ -29476,55 +29476,65 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-01"
+    },
+    "https://www.jpost.com/middle-east/article-901050": {
+      "summary": "According to the WSJ, Saudi Arabia refused to allow the United States to use its bases and airspace for the mission. In retaliation, the White House threatened to withhold interception systems.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Saudi Arabia",
+        "White House",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-06-30",
-  "last_generated_time": "2026-06-30T23:02:16.200174+00:00",
+  "last_generated_date": "2026-07-01",
+  "last_generated_time": "2026-07-01T08:02:09.081895+00:00",
   "digest": {
-    "digest": "Recent developments indicate ongoing diplomatic engagement between the United States and Iran, with negotiators heading to Doha for discussions, though the prospect of a direct meeting remains uncertain. Iran has reiterated its intention to participate in the Doha discussions but not for direct talks with the U.S., while also increasing rhetoric regarding control of the Strait of Hormuz. Despite these diplomatic maneuvers, oil prices have shown volatility, experiencing a rise on news of a potential agreement to suspend attacks in a key shipping lane, followed by a period of steady prices as talks approached. The broader economic impact of the conflict is becoming apparent, with the UK economy showing growth prior to anticipated war impacts and India planning to increase strategic fuel reserves and reduce reliance on Middle Eastern oil following the shock of the war. Switzerland's central bank intervened to halt a rush for the franc at the outbreak of the Iran war, and South African Rand trading surged due to war-induced volatility. China is emerging as a relative economic beneficiary from the Strait of Hormuz crisis, despite a general negative impact on Asian economies. Domestically, the conflict has become a significant point of division within both the Democratic and Republican parties in the U.S., potentially influencing future electoral outcomes.",
+    "digest": "Recent developments indicate a complex diplomatic landscape surrounding Iran. U.S. and Iranian officials have been present in Qatar, a key intermediary, following a series of attacks that jeopardized peace deal efforts. While Iran's delegation is in Doha, it has stated its intention to engage only with mediators regarding U.S. adherence to cease-fire commitments, not direct talks with the U.S. President Trump has reportedly been briefed on war options but has favored continued negotiations, with discussions potentially extending beyond previous deadlines. A significant point of contention has emerged regarding the Strait of Hormuz, with reports of a U.S.-Saudi dispute over an operation to escort vessels, leading to a U.S. threat to withhold interception systems. This incident has strained U.S.-Saudi relations, with Saudi Arabia reportedly refusing U.S. access to bases and airspace for a mission. Oman has proposed a plan for Iran and Oman to collect fees for ships transiting the Strait of Hormuz. The conflict's economic repercussions are evident globally, impacting Chinese petrochemicals trade and South African factory orders, while UK factory orders show a fading rush from the conflict. Despite the ongoing tensions, major U.S. stock indices like the S&P 500 and Nasdaq have registered strong quarterly performance. The U.S. has indicated a potential deal to suspend attacks in the Strait, though Iran has not yet confirmed this agreement.",
     "top_themes": [
-      "Geopolitical Tensions and Diplomacy",
-      "Economic Impacts of Conflict",
-      "Energy Market Volatility"
+      "US-Iran Diplomatic Engagements",
+      "Strait of Hormuz Security",
+      "US-Saudi Relations Strain",
+      "Global Economic Impact of Iran Conflict"
     ],
     "next_events": [
       {
-        "title": "US-Iran Diplomatic Progress",
-        "description": "Watch for any confirmed direct or indirect talks between the US and Iran, particularly those aimed at de-escalating tensions or suspending attacks in the Gulf. Progress here could significantly impact regional stability and global markets, as seen with previous discussions on halting attacks."
+        "title": "US-Iran Diplomatic Progress and Nuclear Deal Status",
+        "description": "Ongoing, complex negotiations between the US and Iran, often mediated by Qatar, are central to regional stability. Analysts should monitor the nature of these talks, any breakthroughs on a lasting peace deal or cease-fire commitments, and the potential for a renewed nuclear agreement, as their success or failure will dictate future tensions."
       },
       {
-        "title": "Strait of Hormuz Security and Iranian Actions",
-        "description": "Monitor Iran's rhetoric and actions regarding the Strait of Hormuz, a vital global shipping lane. Any attempts to assert control or disrupt passage would have immediate and severe consequences for oil prices and international trade, potentially escalating the conflict."
+        "title": "Strait of Hormuz Security and Transit Agreements",
+        "description": "The Strait of Hormuz remains a critical flashpoint, with reports of a US-Iran deal to suspend attacks and proposals for new transit fees. Watch for official confirmations of any agreements regarding safe passage, de-escalation channels, or new economic arrangements, as these will significantly impact global energy markets and regional maritime security."
       },
       {
-        "title": "Global Economic and Oil Market Volatility",
-        "description": "Observe global economic indicators, especially oil prices and market reactions, for signs of continued volatility or recovery. The 'Iran War uncertainty' has already prompted central bank interventions and strategic fuel reserve planning, indicating potential for further economic disruption."
+        "title": "Evolution of US-Saudi Relations and Gulf Alliances",
+        "description": "Recent reports highlight significant friction between the US and Saudi Arabia over military operations and regional strategy. Observe how these tensions evolve, whether the US alters its military presence in the region, and how Gulf Arab countries continue to reshape their defense strategies and alliances in response to the evolving US-Iran dynamic."
       },
       {
-        "title": "Broader Regional Geopolitical Shifts",
-        "description": "Pay close attention to evolving alliances and tensions in the broader Middle East, including US engagement in Lebanon and the ongoing Israel-Iran dynamic. These regional shifts could indicate a wider reordering of power and influence, impacting long-term stability and potentially benefiting actors like China."
-      },
-      {
-        "title": "US Domestic Political Landscape",
-        "description": "Monitor the evolving debate within US political parties regarding foreign policy towards Iran and Israel. Significant ideological shifts or bipartisan consensus (or lack thereof) could influence future US diplomatic and military strategies in the region, impacting upcoming elections."
+        "title": "Risk of Escalation to Full-Scale Conflict",
+        "description": "Despite diplomatic efforts, the option of 'all-out war' remains a consideration for the US, and Iran has stated its readiness for conflict. Analysts should closely watch for any breakdown in negotiations, increased military posturing, or incidents that could trigger a rapid escalation, as some sources suggest a new war could be imminent."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran Ratchets Up Talk of Controlling Hormuz Ahead of New Talks - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/iran-ratchets-up-talk-of-controlling-hormuz-ahead-of-new-talks",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jun 30, 2026 · 04:13 BRT",
+      "title": "Exclusive | Trump Briefed on All-Out War Options in Iran but Opts to Stick With Talks - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/trump-briefed-on-all-out-war-options-in-iran-but-opts-to-stick-with-talks-98304b5b",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 30, 2026 · 22:04 BRT",
       "pub_date": "2026-06-30",
-      "pub_ts": 1782803588,
+      "pub_ts": 1782867873,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -29532,15 +29542,15 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil Prices Rise as U.S. and Iran Discuss Deal to Suspend Gulf Attacks - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html",
+      "title": "U.S. and Iran to Meet with Mediators in Qatar - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 29, 2026 · 17:18 BRT",
-      "pub_date": "2026-06-29",
-      "pub_ts": 1782764321,
-      "summary": "Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.",
+      "published": "Jul 01, 2026 · 02:19 BRT",
+      "pub_date": "2026-07-01",
+      "pub_ts": 1782883140,
+      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -29550,14 +29560,32 @@
       "sentiment_success": false
     },
     {
-      "title": "How 5 weeks of war shattered some of Iran’s cherished monuments - Reuters",
-      "url": "https://www.reuters.com/investigates/special-report/iran-crisis-cultural-heritage/",
+      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 30, 2026 · 16:33 BRT",
+      "pub_date": "2026-06-30",
+      "pub_ts": 1782848004,
+      "summary": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil falls over 1% as markets await outcome of Iran-US talks, US stocks data - Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-ticks-higher-irans-refusal-meet-us-envoys-dims-ceasefire-hopes-2026-07-01/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jun 29, 2026 · 06:00 BRT",
-      "pub_date": "2026-06-29",
-      "pub_ts": 1782723600,
+      "published": "Jun 30, 2026 · 21:45 BRT",
+      "pub_date": "2026-06-30",
+      "pub_ts": 1782866700,
       "summary": "",
       "tags": [
         "extracted",
@@ -29569,57 +29597,37 @@
       "sentiment_success": false
     },
     {
-      "title": "China Emerges as a Relative Winner From Strait of Hormuz Crisis - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jun 29, 2026 · 09:21 BRT",
-      "pub_date": "2026-06-29",
-      "pub_ts": 1782735715,
-      "summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-06-30/live-updates-900897",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jun 29, 2026 · 21:00 BRT",
-      "pub_date": "2026-06-29",
-      "pub_ts": 1782777605,
-      "summary": "IDF kills PIJ terrorist who took hostages on Oct. 7 • Senior Lebanese official slams US-brokered deal with Israel • Hakeem Jeffries calls for 'full unclassified briefing’ on US-Iran talks",
-      "tags": [
-        "Benjamin Netanyahu",
-        "Hezbollah",
-        "Iran",
-        "Lebanon",
-        "rockets"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Opinion | Trump’s ‘small piece of the puzzle’ in the Iran war is the whole game - The Washington Post",
-      "url": "https://www.washingtonpost.com/opinions/2026/06/29/lebanon-hezbollah-arent-pieces-iran-puzzle-they-game/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jun 29, 2026 · 15:15 BRT",
-      "pub_date": "2026-06-29",
-      "pub_ts": 1782756900,
+      "title": "Exclusive | A Dispute Over Opening Hormuz Drives a Wedge Into U.S.-Saudi Relations - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/saudi-arabia-us-relationship-iran-war-ca0f31a0",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jun 30, 2026 · 22:16 BRT",
+      "pub_date": "2026-06-30",
+      "pub_ts": 1782868594,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jun 30, 2026 · 04:00 BRT",
+      "pub_date": "2026-06-30",
+      "pub_ts": 1782802800,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -46761,7 +46769,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-06-30T11:09:29.544609+00:00",
-  "last_watch_time": "2026-06-30T11:09:40.781388+00:00",
-  "last_relevant_time": "2026-06-30T11:09:53.237948+00:00"
+  "last_digest_time": "2026-07-01T11:09:17.259779+00:00",
+  "last_watch_time": "2026-07-01T11:09:28.233352+00:00",
+  "last_relevant_time": "2026-07-01T11:09:51.842154+00:00"
 }

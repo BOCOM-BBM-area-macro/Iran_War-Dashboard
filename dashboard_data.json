@@ -27948,7 +27948,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-26"
+      "pub_date": "2026-06-30"
     },
     "https://www.timesofisrael.com/us-considering-moving-gulf-bases-hit-by-iran-westward-including-to-israel-report/": {
       "summary": "WSJ says Iran's retaliatory strikes did greater damage to the Middle East's only US Navy base, in Bahrain, than the Pentagon has acknowledged",
@@ -29304,11 +29304,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-06-30"
+    },
+    "https://www.wsj.com/world/middle-east/saudi-arabia-us-relationship-iran-war-ca0f31a0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-01/iran-war-delivers-massive-swings-in-chinese-petrochemicals-trade": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-06-30",
-  "last_generated_time": "2026-06-30T22:02:18.180893+00:00",
+  "last_generated_time": "2026-06-30T23:02:16.200174+00:00",
   "digest": {
     "digest": "Recent developments indicate ongoing diplomatic engagement between the United States and Iran, with negotiators heading to Doha for discussions, though the prospect of a direct meeting remains uncertain. Iran has reiterated its intention to participate in the Doha discussions but not for direct talks with the U.S., while also increasing rhetoric regarding control of the Strait of Hormuz. Despite these diplomatic maneuvers, oil prices have shown volatility, experiencing a rise on news of a potential agreement to suspend attacks in a key shipping lane, followed by a period of steady prices as talks approached. The broader economic impact of the conflict is becoming apparent, with the UK economy showing growth prior to anticipated war impacts and India planning to increase strategic fuel reserves and reduce reliance on Middle Eastern oil following the shock of the war. Switzerland's central bank intervened to halt a rush for the franc at the outbreak of the Iran war, and South African Rand trading surged due to war-induced volatility. China is emerging as a relative economic beneficiary from the Strait of Hormuz crisis, despite a general negative impact on Asian economies. Domestically, the conflict has become a significant point of division within both the Democratic and Republican parties in the U.S., potentially influencing future electoral outcomes.",
     "top_themes": [
@@ -29462,6 +29482,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 21:45 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782866700,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Strong earnings, easing oil prices drive Q2 stock rally - Axios",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lMkN3QTd1T0wwS2ZSdldrM05qN055cUg2UnFXWkZlQzZ6NVB2Zl9GaHUxQUtpVGdfb2VsNHdwU3Vqa0hBM3NqMVhjbVpDZWRNLUt0dUJMQjBCdm5Jb25LeXZJWnI1Q0xBeFVZa2k3cEsza2kyOGc?oc=5",
@@ -44901,6 +44935,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Iran War Delivers Massive Swings in Chinese Petrochemicals Trade - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0JVaTBDUkJINjc2c0RtWGhEbjJXS1ZMd202aFY4MnRVT0hENDZfS2g2OUZSWEp0a0VDUmxtQS0zdDRISm5HY0FoSnFqb1hBbTVDMFVKNGkza2F0VUdnaktxQzJlR3VBUWNXOURQSkpJUEEtenNwaVp4dGpTQkxwXy1BNjFLODEtMUxOWXF0dmRFSm5HLUZMVk43V2lHZVp6cm9IeTRhb0pBV2dyc1hBRFhRQTM0UQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 22:15 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782868500,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "'Maybe on the Iran side': Trump reveals Turkey's Erdogan stayed out of Iran war at his request - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NVG9BRGl1dTFqTUxJU29XakJtZ1drSVZLTElsRGV1MElBa3N3S2dzWHljOHpRbFNuOF80MnI5YmFjWDJ1d1ZrOFRfendnREZuaFgzWjAxUHdqclZYUmNv?oc=5",

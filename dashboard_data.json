@@ -28962,7 +28962,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-06-29"
     },
     "https://www.bloomberg.com/opinion/articles/2026-06-30/iran-war-the-us-is-getting-something-right-in-lebanon": {
       "summary": "",
@@ -29386,6 +29386,16 @@
     },
     "https://www.timesofisrael.com/liveblog_entry/trump-has-weighed-return-to-full-war-in-iran-but-prefers-diplomatic-push-report/": {
       "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
+    },
+    "https://www.timesofisrael.com/trump-weighed-return-to-full-war-against-iran-but-prefers-diplomatic-efforts-report/": {
+      "summary": "White House official says deconfliction channel including IRGC, US military has been used by both sides; Tehran's chief negotiator: Iran prioritizes diplomacy but is ready for war",
       "tags": [
         "extracted",
         "timesofisrael.com"

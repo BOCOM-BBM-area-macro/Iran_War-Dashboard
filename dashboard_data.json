@@ -28985,7 +28985,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-07-01"
     },
     "https://www.wsj.com/business/retail/sainsburys-posts-sales-growth-but-warns-of-iran-war-uncertainty-09732d3e": {
       "summary": "",
@@ -29125,7 +29125,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-07-01"
     },
     "https://www.jpost.com/opinion/article-900932": {
       "summary": "The 60-day Iran MOU may be betrayal, retreat, or the greatest political theater of our time. Israel cannot afford to guess wrong.",
@@ -29330,6 +29330,32 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-901026": {
+      "summary": "Trump has also said that he is fine with negotiations with Iran continuing past a previous August 18 deadline for a nuclear deal, WSJ wrote.",
+      "tags": [
+        "Iran",
+        "Nuclear",
+        "Iran Deal",
+        "us iran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-901020": {
+      "summary": "According to a WSJ report, Pezeshkian’s priority is revitalizing the Iranian economy, while the IRGC is more focused on keeping control over the Strait of Hormuz.",
+      "tags": [
+        "Iran",
+        "Qatar",
+        "IRGC",
+        "Masoud Pezeshkian",
+        "Mojtaba Khamenei"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

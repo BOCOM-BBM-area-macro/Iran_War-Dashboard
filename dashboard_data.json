@@ -29253,7 +29253,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-07-01"
     },
     "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz": {
       "summary": "",
@@ -29551,7 +29551,7 @@
       "pub_date": "2026-07-01"
     },
     "https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html": {
-      "summary": "",
+      "summary": "Crown Prince Mohammed bin Salman pressed President Trump earlier to cripple Iran. But as Iran asserted its power, the prince urged a cease-fire, and is now pursuing his security priorities.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -29579,11 +29579,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-01"
+    },
+    "https://www.timesofisrael.com/us-reportedly-mulls-pulling-troops-from-saudi-arabia-as-ties-sour-over-iran-war/": {
+      "summary": "Riyadh initially refused Washington request to use bases critical to Hormuz ship escort operation, prompting US ire; Riyadh interprets Rubio skipping over Saudi on Gulf tour as snub",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-01/trump-hails-meetings-in-qatar-on-iran-as-talks-set-to-continue": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-01",
-  "last_generated_time": "2026-07-01T14:02:19.756499+00:00",
+  "last_generated_time": "2026-07-01T15:02:11.665316+00:00",
   "digest": {
     "digest": "Recent developments indicate a complex diplomatic landscape surrounding Iran. U.S. and Iranian officials have been present in Qatar, a key intermediary, following a series of attacks that jeopardized peace deal efforts. While Iran's delegation is in Doha, it has stated its intention to engage only with mediators regarding U.S. adherence to cease-fire commitments, not direct talks with the U.S. President Trump has reportedly been briefed on war options but has favored continued negotiations, with discussions potentially extending beyond previous deadlines. A significant point of contention has emerged regarding the Strait of Hormuz, with reports of a U.S.-Saudi dispute over an operation to escort vessels, leading to a U.S. threat to withhold interception systems. This incident has strained U.S.-Saudi relations, with Saudi Arabia reportedly refusing U.S. access to bases and airspace for a mission. Oman has proposed a plan for Iran and Oman to collect fees for ships transiting the Strait of Hormuz. The conflict's economic repercussions are evident globally, impacting Chinese petrochemicals trade and South African factory orders, while UK factory orders show a fading rush from the conflict. Despite the ongoing tensions, major U.S. stock indices like the S&P 500 and Nasdaq have registered strong quarterly performance. The U.S. has indicated a potential deal to suspend attacks in the Strait, though Iran has not yet confirmed this agreement.",
     "top_themes": [

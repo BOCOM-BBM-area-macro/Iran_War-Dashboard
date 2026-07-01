@@ -27689,7 +27689,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-26"
+      "pub_date": "2026-06-25"
     },
     "https://www.jpost.com/opinion/article-900266": {
       "summary": "Combining Israeli technological expertise with Emirati resources and industrial ambitions could generate a significant strategic advantage for both countries.",
@@ -29320,6 +29320,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-06-30"
+    },
+    "https://www.washingtonpost.com/politics/2026/06/30/trump-voting-iran-white-house/74c18c68-7486-11f1-b665-5f8be87f3787_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -45542,6 +45552,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "South32 Sells Aluminum Assets to Alcoa in $5.6 Billion Deal - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnNBazh6al9CQUZUYTluTkY3bjMtc2JDTC1ObkJmU2JIenE1cXpSNGtrVE9hVU9qTUVORkpvY2pwSzVCYm53UFBOQXBJaEozeEFWUzh5VmliQ3drMm9icDZNNDBiRlZISkUzb0dMQmlUZmJPb1hDSFY0TUxPSnBCV2FXbG5ONUstV2dtYzF4cXlzNnlDdE5aQTBKNjlrNkU5R0duUEs3dHozTFR5TUE?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 23:15 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782872100,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2lPRHR2cWFNZDNkUldYQlBkWnNnU0dZU1VMQmZGMHZIWW1YamNpLU9SNktDc1htRnJIVF9QcFVlY1pzNkdOYjZlckduODlyZFdrVXRpSWNHNnEzWW5PblV3ZWFZV3NOUkFoRlZkRnZUS2FabGNvM2xqRXBjZFhOblI4LVRlaEItTmlkclpFbmdBXy10M21ZT25ITXZ5NW1xTkI3ZVcyV1p6enBxQy1jcmEwZFlIYVdGdThGV2pzWV9jaU1L?oc=5",

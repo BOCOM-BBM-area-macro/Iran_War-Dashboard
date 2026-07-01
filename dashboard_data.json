@@ -29382,7 +29382,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-07-01"
     },
     "https://www.timesofisrael.com/liveblog_entry/trump-has-weighed-return-to-full-war-in-iran-but-prefers-diplomatic-push-report/": {
       "summary": "",
@@ -29419,6 +29419,29 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-01/uk-factory-orders-barely-grow-as-rush-from-iran-war-fades?srnd=phx-economics-v2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-901053": {
+      "summary": "\"The difference between us is not in how we understand the threat, but in our priorities: for us, Iran is an existential threat; for the United States, it is a chronic regional challenge.\"",
+      "tags": [
+        "IDF",
+        "Iran",
+        "Washington",
+        "China",
+        "Tehran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -28962,7 +28962,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-29"
+      "pub_date": "2026-06-30"
     },
     "https://www.bloomberg.com/opinion/articles/2026-06-30/iran-war-the-us-is-getting-something-right-in-lebanon": {
       "summary": "",
@@ -29253,7 +29253,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-07-01"
     },
     "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz": {
       "summary": "",
@@ -29359,7 +29359,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-30"
+      "pub_date": "2026-07-01"
     },
     "https://www.washingtonpost.com/world/2026/07/01/iran-school-strike-baluch-trump/df93d3b8-7501-11f1-b665-5f8be87f3787_story.html": {
       "summary": "",
@@ -29399,6 +29399,26 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/next-iran-war-may-come-sooner-than-you-think-joachim-klement-2026-07-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-01"
+    },
+    "https://www.washingtonpost.com/world/2026/07/01/iran-school-strike-baluch-trump/a968acdc-7501-11f1-b665-5f8be87f3787_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -29561,6 +29581,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The next Iran war may come sooner than you think - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGhZVGxYcGxXVFlVSXdiMDkxN0Z1QnJwX1k1Nm1pWTRJX0hBR0c4QW5CUFg2Ukw3dmxJUUstR2EtUDY2TDNuMjBVWmRTNnNNeTR4MkVGU3AwYkV5Wmo4OU9ZYWR1enRRNk9PUlNLcnBpVElzTnNaVTBTOVNkcmtyVE9FSXRVUWpKQ3ZWeDA1QWxVblNaTURUWk92YlR5VF9VRDNJczJTaDhYakQtbk9PVHo5a0R4MldOcW12amV5bVhYRm05VVJOTQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 01, 2026 · 04:18 BRT",
+          "pub_date": "2026-07-01",
+          "pub_ts": 1782890303,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5",

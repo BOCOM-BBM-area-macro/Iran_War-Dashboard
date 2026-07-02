@@ -29802,11 +29802,21 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-02"
+    },
+    "https://www.reuters.com/world/middle-east/iran-prepares-bury-slain-supreme-leader-with-week-mass-mourning-2026-07-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-02"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-02",
-  "last_generated_time": "2026-07-02T10:02:10.696140+00:00",
+  "last_generated_time": "2026-07-02T11:02:18.652078+00:00",
   "digest": {
     "digest": "Indirect technical talks between the U.S. and Iran concerning the Strait of Hormuz have concluded in Doha, with discussions reportedly progressing, though showing little headway in broader negotiations. Vice President JD Vance stated the U.S. would avoid full combat in Iran unless necessary, while also defending the administration's efforts to end the conflict. The U.S. is reportedly evaluating the relocation of CENTCOM forces and naval assets from Gulf States to Israel, citing vulnerability to Iranian attacks and seeking greater distance from potential threats. This potential move follows significant damage to U.S. naval facilities in Bahrain, with estimated rebuilding costs reaching $400 million. Tensions between the U.S. and Saudi Arabia have also surfaced, with reports of the U.S. considering troop withdrawals from Saudi Arabia due to disagreements over the Iran war and Riyadh's refusal to grant access to critical bases. Economically, the conflict has impacted business morale in the UK, leading to increased costs, and has caused a 30% drop in business jet departures in the Middle East, though a recent truce has led to a fall in diesel and petrol prices. Saudi Crown Prince Mohammed bin Salman has shifted from pressing for action against Iran to advocating for a ceasefire. The funeral of Iranian Supreme Leader Khamenei drew dignitaries from China and Russia, indicating continued international engagement with Iran amidst the conflict.",
     "top_themes": [
@@ -29964,6 +29974,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Saudi Oil Exports Approach Pre-War Levels as Hormuz Flows Rise - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjRRbENaLTR0MXBadnU2NGRlTEUxR2N0M0pzTkszd1Z3d09sbTdBY3AzVEJQUk1OR25Na0lVWGpnOEdUZGNnY1hQX2tWdnFSZzdnZkpWN3ZNVHZpMjctWWFsaEsyUXJZWnR3dmM5WV80Q3hIemw4dDZNSm44WHRpdkZfQlBBQjc2bmVXUHNLZzJDb1VtNC1wTF9hc1A4dWxYYTVaeS1LVlNoSHc1d3F0WWlQNA?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 02, 2026 · 10:04 BRT",
+          "pub_date": "2026-07-02",
+          "pub_ts": 1782997467,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Saudi Supertankers Exit Hormuz in Kingdom’s Biggest Oil Flow Since Iran War Truce - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWEwaWJqWG9XWDVKRDR0aWtyR1ViSnVHcGpOYl81eHlBdHNpdlB5cnFfc0Izc3R1LUVwV2xBblh0aHd1UkYyRm44eFBBUDZ3anF4OVZNWmxqYzF4cjE1Z1AtZTRhbUpVUHJjVnJnTkxEeUJoUDdMUkFqWXZWelIzM2R6MTdjTzgxeERCb1lvbldQRkNZX1F3akJFbXdmTVB2aENCS2ZyQ1hjTHFoSURVamt4VzlMRkpNS0V3b1hLMDZjTHAzZnc?oc=5",
           "source": "Bloomberg.com",
@@ -29972,6 +29996,20 @@
           "published": "Jul 02, 2026 · 08:14 BRT",
           "pub_date": "2026-07-02",
           "pub_ts": 1782990840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil falls to four-month low as US, Iran conclude talks in Doha - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 01, 2026 · 22:11 BRT",
+          "pub_date": "2026-07-01",
+          "pub_ts": 1782954660,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -46205,6 +46243,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "LME metals whipsawed by war and peace in first half of 2026 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnpZQjdPMnRxa3Z1cERaLWo2c2t2SUFYQldzNjZNVGhkb3Blb3NWbEoySUxmQ29vbjE3REhwRzhPNDNqeHFIaHlTQVhlR0l4MVk0bE5tZmtGdlBuVVhLdXV5a1c1dUs3NmUyd3hWSUdsVmlyUXVBRFFzTm9VbFN2eDk4aHdyTXl6a1BJTXd3eU5CRVQxaUNoQkVBZHlMNlNWRnJiczR1cHFDd3dvU3ZPWXVpMUNoZl9yZkE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 02, 2026 · 10:45 BRT",
+          "pub_date": "2026-07-02",
+          "pub_ts": 1782999953,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "South32 Sells Aluminum Assets to Alcoa in $5.6 Billion Deal - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnNBazh6al9CQUZUYTluTkY3bjMtc2JDTC1ObkJmU2JIenE1cXpSNGtrVE9hVU9qTUVORkpvY2pwSzVCYm53UFBOQXBJaEozeEFWUzh5VmliQ3drMm9icDZNNDBiRlZISkUzb0dMQmlUZmJPb1hDSFY0TUxPSnBCV2FXbG5ONUstV2dtYzF4cXlzNnlDdE5aQTBKNjlrNkU5R0duUEs3dHozTFR5TUE?oc=5",

@@ -29668,13 +29668,23 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-02"
+      "pub_date": "2026-07-01"
     },
     "https://www.bloomberg.com/news/articles/2026-07-02/business-jet-departures-in-middle-east-drop-30-during-iran-war": {
       "summary": "",
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-02"
+    },
+    "https://www.washingtonpost.com/national-security/2026/07/01/navy-helicopter-crashes-arabian-sea-search-ongoing-missing-sailor/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -29953,6 +29963,20 @@
           "published": "Jun 30, 2026 · 11:51 BRT",
           "pub_date": "2026-06-30",
           "pub_ts": 1782831101,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran says it won't meet with U.S. envoys, clouding prospects for peace deal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOem1UeFBMZHJrM2tKRG9fdE5oTEQzWEpsRGxPTVNwZ1cyTEMta3laT2Z0N1NMYU1zc1BzMTYtSGJSSGI0VUVselZGZnQ4cnlKSk5MekZIakY2LUNMTzFMZU5oV0dxeFNLaEpsZzRLOFJjWVVoU2xDS1ZaQ3Q4YlE2Zk1DbjFrSnoyWnlZTC1zOTQ5bnpOR3RhWVN6X3BKcjNGd3I4MVlFajF0aFBiZl96NnAyclQtMWs?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 07:23 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782814980,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

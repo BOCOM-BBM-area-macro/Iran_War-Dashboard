@@ -29731,7 +29731,7 @@
       "pub_date": "2026-07-02"
     },
     "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html": {
-      "summary": "",
+      "summary": "Senior U.S. officials have said Iran would be richly rewarded for changing its stance on the United States. Iran’s leaders have rejected such a bargain in the past.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -29928,6 +29928,19 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-02"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-901302": {
+      "summary": "\"A year and a half ago, we were laughed at. They’re not laughing anymore,” said the US president, who in the interview defended his decision to start a war with Iran that is now in its fourth month.",
+      "tags": [
+        "Iran",
+        "Iran nuclear",
+        "Donald Trump",
+        "Memorandum of Understanding",
+        "strait of hormuz"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -27961,10 +27961,13 @@
       "pub_date": "2026-06-26"
     },
     "https://www.reuters.com/world/middle-east/iran-insists-right-control-shipping-strait-hormuz-after-ship-hit-near-oman-2026-06-26/": {
-      "summary": "",
+      "summary": "Both countries accuse the other of violating terms of a ceasefire agreed on last week.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:EXPLORATION-PRODUCTION",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:MARKETS-RECOMMENDED",
+        "MTVID"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -29498,7 +29501,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-03"
+      "pub_date": "2026-07-01"
     },
     "https://www.reuters.com/world/middle-east/iran-warns-immediate-response-any-threat-cites-us-commitment-restrain-israel-2026-07-01/": {
       "summary": "",
@@ -29748,7 +29751,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-02"
+      "pub_date": "2026-07-03"
     },
     "https://www.washingtonpost.com/world/2026/07/02/trump-backed-ceasefire-lebanon-key-iran-peace-deal-risks-new-civil-war/": {
       "summary": "",
@@ -30122,7 +30125,7 @@
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-03",
-  "last_generated_time": "2026-07-03T18:02:10.596796+00:00",
+  "last_generated_time": "2026-07-03T19:02:12.172678+00:00",
   "digest": {
     "digest": "The ongoing Iran War has seen significant diplomatic activity, with US and Iranian officials meeting with mediators in Qatar amidst renewed attacks threatening peace efforts. The US has also indirectly warned Iran that Israel may attempt to assassinate top Iranian negotiators, a move US officials believed would derail peace talks. Internally, Iran is preparing for mass funeral events for Supreme Leader Ayatollah Ali Khamenei, who was killed at the war's outset, presenting a critical moment for the regime to project stability. The conflict's economic repercussions are evident, with Britain's services sector contracting sharply, though British firms remain firm on price rises. Conversely, transits through the Strait of Hormuz have quadrupled as a US-Iran ceasefire holds, with a proposal from Oman and Iran to collect fees for ships passing through the waterway. The US had previously warned Iran about Israel's aims to assassinate leaders. A Trump-backed truce in Lebanon, considered key to an Iran peace deal, is reportedly at risk of sparking a new civil war. The war, now in its fourth month, has seen the US president defend his decision to initiate it. Gulf states are being urged to undertake a joint security makeover in light of the war's impact.",
     "top_themes": [
@@ -39393,6 +39396,20 @@
           "published": "Jul 02, 2026 · 04:25 BRT",
           "pub_date": "2026-07-02",
           "pub_ts": 1782977148,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "UK Diesel Prices Post Biggest Monthly Drop on Record, RAC Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUndpVEJ6TGxHRGZDQVVqLU5XWVMzd1R0ZzJyMkk3LTBFMFhZWW1CMF9oeVBUYTh4Y1hUdG5WaXNLOEpKVEY0dHZYVjNZMU5pbFAyczQ4eWxBMjkzTlBKWHJYM1hwT1IzeXUxT2pWcTJLTVV2OGNILVhGM0hLZzhiTDFCX21oQmc4TkNUTmpRck01ZUNFSEhGQWZabWFLTGpXNlFmVkRFd0tFeTNKZ1dqNHNn?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 01, 2026 · 20:01 BRT",
+          "pub_date": "2026-07-01",
+          "pub_ts": 1782946860,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

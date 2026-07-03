@@ -29253,7 +29253,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-01"
+      "pub_date": "2026-07-02"
     },
     "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz": {
       "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.",
@@ -29945,6 +29945,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-02"
+    },
+    "https://www.timesofisrael.com/us-indirectly-warned-iran-during-talks-that-israel-might-try-to-kill-its-top-negotiators-nyt/": {
+      "summary": "US reportedly feared that Israeli assassinations of Mohammad Bagher Ghalibaf, Iran's parliament speaker, and Foreign Minister Abbas Araghchi, would derail negotiations",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-03"
     }
   },
   "last_run_success": true,

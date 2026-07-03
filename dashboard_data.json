@@ -29668,7 +29668,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-01"
+      "pub_date": "2026-07-02"
     },
     "https://www.bloomberg.com/news/articles/2026-07-02/business-jet-departures-in-middle-east-drop-30-during-iran-war": {
       "summary": "",
@@ -29971,6 +29971,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-03"
+    },
+    "https://www.washingtonpost.com/world/2026/07/03/iran-ayatollah-khamenei-funeral-us-war-what-to-know/cd0bba1c-76a5-11f1-b665-5f8be87f3787_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-03"
+    },
+    "https://www.ft.com/content/6c72395c-4701-49c3-9e24-1683f88d8fac": {
+      "summary": "Soumaya Keynes talks to Tyler Goodspeed, chief economist of ExxonMobil",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

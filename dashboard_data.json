@@ -30048,52 +30048,103 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-03"
+    },
+    "https://www.ft.com/content/a23d758d-3b48-4ea4-a08c-5dba88543d08": {
+      "summary": "Dignitaries from neighbouring states pay respects to slain supreme leader ahead of funeral",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-03"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-07-02",
-  "last_generated_time": "2026-07-02T23:02:16.499036+00:00",
+  "last_generated_date": "2026-07-03",
+  "last_generated_time": "2026-07-03T08:02:05.703541+00:00",
   "digest": {
-    "digest": "Indirect technical talks between the U.S. and Iran concerning the Strait of Hormuz have concluded in Doha, with discussions reportedly progressing, though showing little headway in broader negotiations. Vice President JD Vance stated the U.S. would avoid full combat in Iran unless necessary, while also defending the administration's efforts to end the conflict. The U.S. is reportedly evaluating the relocation of CENTCOM forces and naval assets from Gulf States to Israel, citing vulnerability to Iranian attacks and seeking greater distance from potential threats. This potential move follows significant damage to U.S. naval facilities in Bahrain, with estimated rebuilding costs reaching $400 million. Tensions between the U.S. and Saudi Arabia have also surfaced, with reports of the U.S. considering troop withdrawals from Saudi Arabia due to disagreements over the Iran war and Riyadh's refusal to grant access to critical bases. Economically, the conflict has impacted business morale in the UK, leading to increased costs, and has caused a 30% drop in business jet departures in the Middle East, though a recent truce has led to a fall in diesel and petrol prices. Saudi Crown Prince Mohammed bin Salman has shifted from pressing for action against Iran to advocating for a ceasefire. The funeral of Iranian Supreme Leader Khamenei drew dignitaries from China and Russia, indicating continued international engagement with Iran amidst the conflict.",
+    "digest": "The ongoing Iran War has seen significant diplomatic activity, with US and Iranian officials meeting with mediators in Qatar amidst renewed attacks threatening peace efforts. The US has also indirectly warned Iran that Israel may attempt to assassinate top Iranian negotiators, a move US officials believed would derail peace talks. Internally, Iran is preparing for mass funeral events for Supreme Leader Ayatollah Ali Khamenei, who was killed at the war's outset, presenting a critical moment for the regime to project stability. The conflict's economic repercussions are evident, with Britain's services sector contracting sharply, though British firms remain firm on price rises. Conversely, transits through the Strait of Hormuz have quadrupled as a US-Iran ceasefire holds, with a proposal from Oman and Iran to collect fees for ships passing through the waterway. The US had previously warned Iran about Israel's aims to assassinate leaders. A Trump-backed truce in Lebanon, considered key to an Iran peace deal, is reportedly at risk of sparking a new civil war. The war, now in its fourth month, has seen the US president defend his decision to initiate it. Gulf states are being urged to undertake a joint security makeover in light of the war's impact.",
     "top_themes": [
-      "US-Iran Negotiations",
-      "Middle East Military Realignment",
-      "Economic Impact of Conflict",
-      "Political Stances on Conflict"
+      "Iran-US Diplomatic Engagements",
+      "Impact on Global Trade and Economy",
+      "Internal Iranian Political Developments",
+      "Regional Security Concerns"
     ],
     "next_events": [
       {
-        "title": "US CENTCOM's Strategic Shift to Israel",
-        "description": "The US is actively evaluating moving its military bases and naval assets from Gulf states to Israel, particularly the Negev, following significant damage from Iranian attacks. This potential relocation signifies a major re-alignment of US military presence in the Middle East and a deepening of the US-Israel strategic alliance. Analysts should closely monitor official announcements, logistical preparations, and the reactions from both Gulf nations and Iran to this strategic pivot."
+        "title": "U.S.-Iran Peace Talks in Qatar",
+        "description": "American and Iranian officials are meeting in Qatar, a key intermediary, days after new attacks threatened peace efforts. The outcome of these talks is crucial for de-escalation and signing a lasting peace deal. Analysts should monitor statements from officials, the progress of negotiations, and any agreements or disagreements that emerge from these discussions."
       },
       {
-        "title": "Future of US-Iran Diplomatic Engagements",
-        "description": "Despite a recent ceasefire, indirect technical talks between the US and Iran in Qatar and Doha have made little headway, with a primary focus on the critical Strait of Hormuz. The success or failure of these ongoing negotiations will be pivotal in determining the long-term stability of the region and the potential for a lasting peace deal. Watch for any breakthroughs, stalemates, or shifts in diplomatic rhetoric from either side, as well as the role of international mediators."
+        "title": "Israeli Actions Against Iranian Negotiators",
+        "description": "The U.S. reportedly warned Iran about Israeli plans to assassinate key Iranian negotiators, including the Foreign Minister and Parliament Speaker. Any such action would severely destabilize peace talks and could reignite conflict. Analysts should monitor Israeli military and intelligence activities, as well as any rhetoric from Israeli officials regarding Iranian leadership or negotiators."
       },
       {
-        "title": "Lebanon's Fragile Ceasefire and Civil War Risk",
-        "description": "A Trump-backed ceasefire in Lebanon, intended to be a key component of a broader Iran peace deal, is now reportedly risking a new civil war within Lebanon. Contentious negotiations over the withdrawal lines of the IDF from southern Lebanon, with differing demands from the Lebanese government and Hezbollah, are a major point of instability. Monitor the progress of these withdrawal talks and any internal Lebanese political or military escalations that could destabilize the ceasefire and reignite conflict."
+        "title": "Strait of Hormuz Fee Proposal",
+        "description": "Oman has proposed a plan for Iran and Oman to collect fees for ships passing through the Strait of Hormuz. This proposal, if implemented, would significantly impact global shipping and oil prices, and could become a point of contention if not agreed upon by international stakeholders. Watch for further negotiations, international reactions, and any steps towards formalizing this fee structure."
       },
       {
-        "title": "US-Saudi Alliance Under Strain",
-        "description": "Tensions between the United States and Saudi Arabia are escalating, with reports indicating the US is considering pulling troops from the Kingdom. This consideration stems from Riyadh's refusal to allow the use of its bases for the crucial Strait of Hormuz ship escort operation, signaling a significant rift in the long-standing alliance. Observe any official statements regarding troop movements, diplomatic engagements, and how Saudi Arabia's evolving security priorities might impact regional stability."
+        "title": "Stability of Lebanon Truce",
+        "description": "A Trump-backed truce in Lebanon is considered key to the broader Iran peace deal, but it risks sparking a new civil war. The fragility of this truce could undermine regional stability and complicate efforts to secure a lasting peace with Iran. Monitor internal Lebanese political developments, the actions of various factions, and any external influences that could destabilize the truce."
       },
       {
-        "title": "Iran's Post-Khamenei Regional Posture",
-        "description": "Following the funeral of Supreme Leader Khamenei, which saw attendance from Chinese and Russian dignitaries, Iran has issued stern warnings against potential US and Israeli attacks. This suggests a continued assertive stance in the region, potentially under new or consolidated leadership, and highlights Iran's ongoing international diplomatic engagements. Analysts should watch for any shifts in Iran's foreign policy, military actions, or rhetoric that could signal renewed aggression or a change in its approach to regional conflicts."
+        "title": "Iranian Leadership Transition and Succession",
+        "description": "Following the reported death of Supreme Leader Ayatollah Ali Khamenei, Iran is undergoing a period of mourning and preparing for his burial. The subsequent succession process is critical for Iran's internal stability and its posture towards external adversaries. Watch for any retaliatory actions, shifts in leadership, or changes in Iran's foreign policy stance during this sensitive transition."
+      },
+      {
+        "title": "Durability of the US-Iran Ceasefire",
+        "description": "The increase in Strait of Hormuz transits indicates that the US-Iran ceasefire is currently holding, allowing for a cautious return of tankers. However, the peace deal remains fragile, as evidenced by recent attacks and assassination plots. Analysts should closely monitor any violations of the ceasefire, military movements in the region, and the rhetoric from both sides that could signal a breakdown."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-warns-us-israel-against-attacks-ahead-funeral-processions-khamenei-2026-07-02/",
+      "title": "U.S. warned Iran about Israel’s aims to assassinate leaders - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/02/us-warned-iran-about-israels-aims-assassinate-leaders/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 03, 2026 · 01:01 BRT",
+      "pub_date": "2026-07-03",
+      "pub_ts": 1783051260,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan - The New York Times",
+      "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 02, 2026 · 15:39 BRT",
+      "pub_date": "2026-07-02",
+      "pub_ts": 1783017540,
+      "summary": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Britain's services sector contracts sharply under strain of Iran war, PMI shows - Reuters",
+      "url": "https://www.reuters.com/world/uk/britains-services-sector-contracts-sharply-under-strain-iran-war-pmi-shows-2026-07-03/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 02, 2026 · 05:46 BRT",
-      "pub_date": "2026-07-02",
-      "pub_ts": 1782981983,
+      "published": "Jul 03, 2026 · 05:35 BRT",
+      "pub_date": "2026-07-03",
+      "pub_ts": 1783067743,
       "summary": "",
       "tags": [
         "extracted",
@@ -30105,73 +30156,14 @@
       "sentiment_success": false
     },
     {
-      "title": "US reportedly mulls pulling troops from Saudi Arabia as ties sour over Iran war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/us-reportedly-mulls-pulling-troops-from-saudi-arabia-as-ties-sour-over-iran-war/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jul 01, 2026 · 14:19 BRT",
-      "pub_date": "2026-07-01",
-      "pub_ts": 1782926340,
-      "summary": "Riyadh initially refused Washington request to use bases critical to Hormuz ship escort operation, prompting US ire; Riyadh interprets Rubio skipping over Saudi on Gulf tour as snub",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US evaluates moving CENTCOM forces and naval assets to Israel after Iran war - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-901210",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jul 02, 2026 · 07:01 BRT",
-      "pub_date": "2026-07-02",
-      "pub_ts": 1782986482,
-      "summary": "One option is to establish a new base in the Negev big enough to hold the American army’s forces, or to expand one of the Negev’s air force bases and allocate an American compound there.",
-      "tags": [
-        "Negev",
-        "Saudi Arabia",
-        "israel iran",
-        "israel us",
-        "us iran"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "US\nevaluates\nmoving\nCENTCOM\nforces\nand\nnaval\nassets\nto\nIsrael\nafter\nIran\nwar\n|\nThe\nJerusalem\nPost\nCENTCOM\nconsiders\nrelocating\nUS\nbases\nfrom\nGulf\nStates\nto\nNegev\nafter\npainful\nIran\nstrikes\n-\nreport\nOne\noption\nis\nto\nestablish\na\nnew\nbase\nin\nthe\nNegev\nbig\nenough\nto\nhold\nthe\nAmerican\narmy’s\nforces,\nor\nto\nexpand\none\nof\nthe\nNegev’s\nair\nforce\nbases\nand\nallocate\nan\nAmerican\ncompound\nthere.\nFollow\nus\non\nGoogle\nA\nU.S.\nAir\nForce\nB-52\nStratofortress\nbomber\narrives\nat\nAl\nUdeid\nAir\nBase,\nQatar\nApril\n9,\n2016.\n(\nphoto\ncredit\n:\nREUTERS/US\nAir\nForce/Tech.\nSgt.\nTerrica\nY.\nJones\n)\nBy\nHADAR\nKATSMAN\nJULY\n2,\n2026\n13:01\nUpdated\n:\nJULY\n2,\n2026\n13:47\nThe\nUnited\nStates\nCentral\nCommand\n(\nCENTCOM\n)\nis\nconsidering\nmoving\nits\nmilitary\nbases’\noperational\nsystems\nin\nBahrain,\nKuwait,\nand\nSaudi\nArabia\nto\nIsrael\nin\norder\nto\nincrease\ntheir\ndistance\nfrom\nfurther\nIranian\nmissile\nand\ndrone\nattacks,\nThe\nWall\nStreet\nJournal\nreported\nlast\nThursday.\nThe\nUS\nNavy\nmay\nrevamp\nits\nbase\nin\nBahrain,\nwhich\nhas\nsuffered\nsevere\ndamage\nsince\nlate\nFebruary\nup\nuntil\nthe\nrecent\nUS-Iran\nceasefire.\nBahrain\nhas\nbeen\nhome\nto\nthe\nUS\nNavy’s\ncentral\nforces\nin\nthe\nMiddle\nEast\nfor\nover\n50\nyears.\nOne\noption\nis\nto\nestablish\na\nnew\nbase\nin\nthe\nNegev\nbig\nenough\nto\nhold\nthe\nAmerican\narmy’s\nforces,\nor\nto\nexpand\none\nof\nthe\nNegev’s\nair\nforce\nbases\nand\nallocate\nan\nAmerican\ncompound\nthere.\nThe\nUS\nDepartment\nof\nDefense\nand\nthe\nUS\nArmy\nalso\nplan\nto\nrenew\ntheir\nsupply\ncontracts\nwith\nthe\nMinistry\nof\nDefense\nand\nthe\nIDF\nuntil\n2030,\nand\npossibly\nfurther.\nThis\nidea\nfor\nrelocation\nfollows\nIran’s\nextensive\ndamage\nto\nat\nleast\n20\nUS\nsites\nacross\nthe\nMiddle\nEast\nsince\nthe\nonset\nof\nthe\nwar,\nespecially\nNSA\nBahrain.\nA\nscreengrab\nfrom\na\nvideo\nreleased\nby\nU.S.\nCentral\nCommand\n(CENTCOM),\nwhich\naccompanied\na\npress\nrelease\ndescribing\nthe\noperation\ndubbed\n''Epic\nFury'',\nan\nattack\nby\nthe\nUnited\nStates\nand\nIsrael\non\nIran,\nshows\na\nflight\ndeck\ncrew\nmember\nsignaling\nan\nF‑35\njet\non\nan\naircraft\ncarrier\n(credit:\nUS\nCENTCOM/Reuters)\nThe\nUS\nArmy\nis\nhoping\nfor\nless\nvulnerability\nin\nGulf\ncountries\nIt\nwould\ntake\nan\nestimated\n$400\nmillion\nto\nrebuild\nwhat\nIran\ndestroyed\nat\nNSA\nBahrain,\nexcluding\ncosts\nof\ndebris\nremoval,\nthe\nrebuilding\nof\ntwo\nAN/GSC-52B\nsatellite\ncommunication\nterminals\nand\na\ncommunications\nmanagement\nfacility,\nand\nother\nrelevant\ncosts.\nIt\nis\npossible\nthat\ndestroyed\nstructures\nwill\nnot\nbe\nrevamped,\nand\ncommand\nand\ncontrol\nnodes\nmay\nhave\nto\nbe\nmoved\nunderground.\nBack\nin\nMay,\nIranian\nSupreme\nLeader\nMojtaba\nKhamenei\nstated\nthe\nUS\nmilitary\nis\nnot\nwell\nenough\nprotected\nin\nthe\nMiddle\nEast.\n“America\nwill\nno\nlonger\nhave\na\nsafe\nhaven\nfor\nmischief\nand\nthe\nestablishment\nof\nmilitary\nbases\nin\nthe\nregion,”\nKhamenei\nposted\non\nhis\nTwitter/X\naccount.\nThe\nPentagon\nhas\nyet\nto\npublicly\nacknowledge\nthe\nextent\nof\nthe\ndamage\nthat\nIran\ninflicted\non\ntheir\nnaval\nbase\nin\nBahrain.\nCapt.\nTim\nHawkins,\na\nUS\nCentral\nCommand\nspokesman,\nsaid\nthat\nthe\nUS\nmilitary\nstruck\nIran\nharder\nthan\nIran\nhit\nit.\n“Centcom\nrightfully\nprioritized\nthe\nprotection\nof\npeople\nover\nbuildings,\nand\nour\nstrategy\nof\nprotecting\npeople\nworked,”\nHawkins\ntold\nThe\nWall\nStreet\nJournal.\n“Iran\nshot\nmore\nthan\n8,000\nmissiles\nand\ndrones,\nand\nonly\ntwo\nhits\nresulted\nin\nUS\nfatalities.”\nThe\nextensive\ndamage\n“has\nthe\nUS\nre-evaluating\nits\nentire\nfootprint\nin\nthe\nregion,”\nUS\nofficials\ntold\nThe\nWall\nStreet\nJournal.\nRetired\nNavy\nV.-Adm.\nKevin\nDonegan,\na\nUS\nNavy\nCommander\nin\nthe\nMiddle\nEast,\nexpects\nthe\nUS\ndoes\nnot\nwant\nto\ncompletely\nremove\nits\npresence\nin\nBahrain,\ngiven\ntheir\nstrong\nalliance.\nSome\nof\nIsrael’s\nsecurity\nofficials\napprove\nthe\nestablishment\nof\nAmerican\nbases\nin\nIsrael.\n“A\npermanent\nAmerican\npresence\nin\nIsrael\nwill\nrequire\nan\nair\ndefense\nenvelope,\nand\nbeyond\nthat,\nit\nwill\nstrengthen\nthe\nlong-term\nrelationship\nbetween\nthe\nmilitaries\nand\nthe\nadministrations\non\nthe\nstrategic\nlevel,”\na\nsecurity\nsource\ntold\nWalla.\nNo\nfinal\ndecisions\nhave\nbeen\nannounced\nby\nthe\nUS\nyet.\nMoving\nforces\nfurther\nwest\noffers\nUS\nmore\naccess\nto\nfuture\nof\nMiddle\nEast\nA\nlong-term\nAmerican\npresence\nin\nIsrael\ngives\nthe\nUS\nbetter\naccess\nto\nthe\nUS\nCivil-Military\nCoordination\nCenter\n(CMCC)\nat\nKiryat\nGat,\nand\nit\ncan\nbetter\nmonitor\nthe\nongoing\noperations\nin\nGaza\nand\nthe\nMiddle\nEast\nregion.\nMeanwhile,\nin\nhis\nnext\nvisit\nto\nIsrael\nlater\nthis\nweek,\nCENTCOM\nCommander\nAdm.\nBrad\nCooper\nplans\nto\nnegotiate\nthe\nLebanon\nceasefire\nterms\nand\nfurther\ndefine\nthe\nwithdrawal\nlines\nof\nthe\nIDF\nfrom\nsouthern\nLebanon.\nThe\nLebanese\ngovernment\nand\nHezbollah\nwant\nwithdrawals\nthat\nare\nless\nmodest\nthan\nthose\nthe\nIDF\nis\noffering.\nUSAF\npresence\nin\nIsrael\nhas\nmade\nthings\nharder\nfor\nIsrael\nIsrael\nhas\nalready\nmade\nroom\nfor\nAmerica\nsince\nthe\nonset\nof\nthe\n2026\nIran\nwar.\nBen-Gurion\nAirport\nhosted\nUSAF\nrefueling\naircraft\nover\nthe\ncourse\nof\nthe\nwar,\nwhich\ninterfered\nwith\nthe\nflexibility\nof\nIsrael’s\nairspace\nand\nairport\noperations.\nNot\nall\nofficials\nreceived\nUS\nmilitary\npresence\nin\nIsrael\nwith\nopen\narms.\nCivil\nAviation\nAuthority\nhead\nShmuel\nZakai\nonce\ncalled\nBen-Gurion\na\n“US\nmilitary\nbase,”\ngiven\nits\nconstant\npresence\nof\nAmerican\nplanes.\nUS\nAir\nForce\npresence\nhas\nalso\ncaused\nthe\nIsrael\nAirports\nAuthority\n(IAA)\nto\nlose\nNIS\n700\nmillion,\nsaid\nNational\nSecurity\nCouncil\ndirector\nShmuel\nBen-Ezra.\nIn\nresponse\nto\nthe\nconstraints\non\nairport\ncapacity,\nMaariv\nsaid\nUSAF\naircraft\nwill\nbe\nrelocated\nfrom\nBen-Gurion\nto\nIsrael\nAir\nForce\nbases.\nThose\nIAF\nbases’\ntroops\nwill\nmove\nto\nother\nbases\naround\nIsrael.\nSee\nmore\non\nNegev\n|\nSaudi\nArabia\n|\nisrael\niran\n|\nisrael\nus\n|\nus\niran\n|\nUS\nIsrael\n|\nUS\nNavy\n|\nUS\nmilitary\n|\nbahrain\n|\nUS\nArmy\n|\nkuwait\n|\nnaval\nbase\n|\nUS\nDepartment\nof\nDefense\n|\nGulf\nStates\n|\nCENTCOM\nFollow\nus\non\nGoogle",
-      "sentiment_success": false
-    },
-    {
-      "title": "Diesel, Petrol Prices Fall After Iran War Truce - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-02/uk-diesel-petrol-prices-fall-as-iran-war-inflation-shock-unwinds-rac-says",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 02, 2026 · 07:25 BRT",
-      "pub_date": "2026-07-02",
-      "pub_ts": 1782987948,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-iran-enter-technical-talks-secure-peace-deal-restart-shipping-2026-07-01/",
+      "title": "Iran's slain leader Khamenei laid in state in Tehran for week of mass funeral events - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/irans-slain-leader-khamenei-laid-state-tehran-week-mass-funeral-events-2026-07-03/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 01, 2026 · 07:06 BRT",
-      "pub_date": "2026-07-01",
-      "pub_ts": 1782900360,
+      "published": "Jul 03, 2026 · 07:51 BRT",
+      "pub_date": "2026-07-03",
+      "pub_ts": 1783075888,
       "summary": "",
       "tags": [
         "extracted",
@@ -30183,14 +30175,32 @@
       "sentiment_success": false
     },
     {
-      "title": "Khamenei’s Funeral Draws Chinese and Russian Dignitaries to Iran - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-sends-first-senior-official-to-iran-since-war-for-funeral",
+      "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 02, 2026 · 23:47 BRT",
+      "pub_date": "2026-07-02",
+      "pub_ts": 1783046871,
+      "summary": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War: The Gulf States Need a Joint Security Makeover - Bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-07-03/iran-war-the-gulf-states-need-a-joint-security-makeover",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 02, 2026 · 05:33 BRT",
-      "pub_date": "2026-07-02",
-      "pub_ts": 1782981217,
+      "published": "Jul 03, 2026 · 01:00 BRT",
+      "pub_date": "2026-07-03",
+      "pub_ts": 1783051200,
       "summary": "",
       "tags": [
         "extracted",
@@ -47616,7 +47626,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-07-02T11:08:07.756124+00:00",
-  "last_watch_time": "2026-07-02T11:08:22.196007+00:00",
-  "last_relevant_time": "2026-07-02T11:08:31.242591+00:00"
+  "last_digest_time": "2026-07-03T11:07:17.861378+00:00",
+  "last_watch_time": "2026-07-03T11:07:28.372694+00:00",
+  "last_relevant_time": "2026-07-03T11:07:29.347920+00:00"
 }

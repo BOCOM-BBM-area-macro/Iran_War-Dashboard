@@ -29874,7 +29874,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-02"
+      "pub_date": "2026-07-03"
     },
     "https://www.reuters.com/business/energy/kuwait-raises-crude-production-165-mln-bpd-june-source-says-2026-07-02/": {
       "summary": "",
@@ -30259,7 +30259,7 @@
       "pub_date": "2026-07-04"
     },
     "https://www.nytimes.com/2026/07/04/world/middleeast/iran-dissidents-crackdown.html": {
-      "summary": "",
+      "summary": "The country’s security service has continued to target civil society and dissidents, including thousands of arrests since the launch of the U.S.-Israeli war in February.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -30300,11 +30300,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-04"
+    },
+    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
+    },
+    "https://www.reuters.com/world/middle-east/yemens-armed-forces-threaten-saudi-targets-over-iran-flight-sanaa-2026-07-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-03"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-04",
-  "last_generated_time": "2026-07-04T16:02:34.579706+00:00",
+  "last_generated_time": "2026-07-04T17:02:06.859542+00:00",
   "digest": {
     "digest": "Iran has commenced the long-delayed funeral ceremonies for its Supreme Leader, Ayatollah Ali Khamenei, who was killed in U.S.-Israeli strikes at the war's outset. Massive crowds have gathered in Tehran, with mourners chanting calls for revenge against the United States and Israel, underscoring the deep-seated animosity and the regime's efforts to project resilience. The funeral proceedings coincide with the U.S. marking its 250th anniversary, a timing noted by Iranian state media and attendees. Diplomatic discussions between the U.S. and Iran have concluded in Doha, with a primary focus on the strategic Strait of Hormuz, a key chokepoint for global oil transit. Iran continues to assert its leverage over the strait, warning against external interference. Meanwhile, the war's economic repercussions are evident, with Britain's services sector contracting sharply, according to PMI data. The ongoing conflict also poses risks to maritime security, as evidenced by reports of stranded sailors near the Strait of Hormuz. Concerns remain regarding potential further Israeli actions, with Iran issuing warnings to the U.S. and Israel against miscalculations, particularly concerning the succession of leadership. The funeral is seen as a critical moment for the Iranian regime to demonstrate its stability amidst the ongoing conflict and internal pressures.",
     "top_themes": [
@@ -46327,6 +46347,20 @@
           "published": "Jun 30, 2026 · 22:15 BRT",
           "pub_date": "2026-06-30",
           "pub_ts": 1782868500,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "SNB Intervened to Halt Rush for Franc at Iran War Outbreak - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1Ixd09WTDE4NEVSMldnYkgzRURrbGpGTk4tYldBNjlZSjE3dWlnSkRBck5GeHNycDdxUzR6Uk1VOHVVc1dBTFFiYjVJRFduUXNDNUpyM3JZQ3JUdHlmeGlwMTlRSml4Vi1udWVscWdHemhLRlg1bHpGZ0F6Slk5N2x0U0EtcF9WR1dReWhRSV9LY3l6OE1KcVM3YllVczVxNDA3TU1SOWIyOXpzT1E?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 30, 2026 · 04:03 BRT",
+          "pub_date": "2026-06-30",
+          "pub_ts": 1782802985,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

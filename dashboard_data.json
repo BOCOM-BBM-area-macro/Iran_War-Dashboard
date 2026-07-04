@@ -17499,7 +17499,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-06-28"
+      "pub_date": "2026-07-02"
     },
     "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances": {
       "summary": "",
@@ -29874,7 +29874,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-03"
+      "pub_date": "2026-07-02"
     },
     "https://www.reuters.com/business/energy/kuwait-raises-crude-production-165-mln-bpd-june-source-says-2026-07-02/": {
       "summary": "",
@@ -30237,11 +30237,54 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-04/iran-s-envoy-to-china-says-beijing-to-get-hormuz-concessions": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
+    },
+    "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-khamenei-son.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
+    },
+    "https://www.nytimes.com/2026/07/04/world/middleeast/iran-dissidents-crackdown.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
+    },
+    "https://www.jpost.com/israel-news/article-901382": {
+      "summary": "\"What is happening today is massive surrender by the US to Iran; the Iranians are setting the tone, the US is releasing funds to Iran,\" he said.",
+      "tags": [
+        "foreign affairs",
+        "Israel Iran War",
+        "israel us relations",
+        "us iran",
+        "us israel iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-04",
-  "last_generated_time": "2026-07-04T12:02:10.426926+00:00",
+  "last_generated_time": "2026-07-04T15:02:40.394135+00:00",
   "digest": {
     "digest": "Iran has commenced the long-delayed funeral ceremonies for its Supreme Leader, Ayatollah Ali Khamenei, who was killed in U.S.-Israeli strikes at the war's outset. Massive crowds have gathered in Tehran, with mourners chanting calls for revenge against the United States and Israel, underscoring the deep-seated animosity and the regime's efforts to project resilience. The funeral proceedings coincide with the U.S. marking its 250th anniversary, a timing noted by Iranian state media and attendees. Diplomatic discussions between the U.S. and Iran have concluded in Doha, with a primary focus on the strategic Strait of Hormuz, a key chokepoint for global oil transit. Iran continues to assert its leverage over the strait, warning against external interference. Meanwhile, the war's economic repercussions are evident, with Britain's services sector contracting sharply, according to PMI data. The ongoing conflict also poses risks to maritime security, as evidenced by reports of stranded sailors near the Strait of Hormuz. Concerns remain regarding potential further Israeli actions, with Iran issuing warnings to the U.S. and Israel against miscalculations, particularly concerning the succession of leadership. The funeral is seen as a critical moment for the Iranian regime to demonstrate its stability amidst the ongoing conflict and internal pressures.",
     "top_themes": [
@@ -30405,6 +30448,20 @@
           "published": "Jul 03, 2026 · 10:44 BRT",
           "pub_date": "2026-07-03",
           "pub_ts": 1783086283,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The Race to Rescue 8,000 Sailors Still Stranded Behind Hormuz - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnU1NVNWVmhGQWN5eEowcU9CMUVhN2xkYlctN1R5djFWZ3dMQnU4WlFMbVZZczJwbE1MbWNJLVRrNTFraUdOMmR6YlhId0pQVDgzVlc4bGN3SUF2UHRZdGtqRUpoeHBRYnBkbFd1ZWlwb2N6aHNMSVlGb1FVaW9yb2RLdG5LQlNJSmFyZ3ZLdlFQTUJoWC1VTGRUbXZKVi12UnZqR2FUb2V6bkVBYllMb2ZJeUhmTzQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 03, 2026 · 05:02 BRT",
+          "pub_date": "2026-07-03",
+          "pub_ts": 1783065741,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

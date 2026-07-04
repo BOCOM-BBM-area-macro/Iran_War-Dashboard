@@ -29874,7 +29874,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-03"
+      "pub_date": "2026-07-02"
     },
     "https://www.reuters.com/business/energy/kuwait-raises-crude-production-165-mln-bpd-june-source-says-2026-07-02/": {
       "summary": "",
@@ -29947,7 +29947,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-02"
+      "pub_date": "2026-07-03"
     },
     "https://www.timesofisrael.com/us-indirectly-warned-iran-during-talks-that-israel-might-try-to-kill-its-top-negotiators-nyt/": {
       "summary": "US reportedly feared that Israeli assassinations of Mohammad Bagher Ghalibaf, Iran's parliament speaker, and Foreign Minister Abbas Araghchi, would derail negotiations",
@@ -30140,6 +30140,16 @@
         "Tehran",
         "Qatar",
         "iran israel war"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-03"
+    },
+    "https://www.nytimes.com/2026/07/04/world/middleeast/khamenei-funeral-itineray-iran-iraq-shia.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -43769,6 +43779,20 @@
           "published": "Jul 01, 2026 · 03:32 BRT",
           "pub_date": "2026-07-01",
           "pub_ts": 1782887561,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How Much Have Airfares Risen With High Jet Fuel Costs? - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BNzk4OEk3eU9CTklpOXFxWG82SDNsUHVQVXVyZzdVVjZWQlZudk9CX1ZfUXd5MWpTQ01EaG5yQ2xpX3p0aXBLeGxLREJENVdHUlIyelgta2hoeDNpSkhyZm5XbjgwYnIxRzZSZlRoVi1PUV81QnhReGpWTQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jun 27, 2026 · 06:00 BRT",
+          "pub_date": "2026-06-27",
+          "pub_ts": 1782550853,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

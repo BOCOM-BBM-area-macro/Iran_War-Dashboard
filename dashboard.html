@@ -1023,7 +1023,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div style="display: flex; align-items: center; gap: 12px; margin-top: 4px;">
             <span class="topic-badge">Iran War</span>
             <span style="font-size: 11px; color: var(--muted); background: rgba(255,255,255,0.03); padding: 4px 10px; border-radius: 4px; border: 1px solid var(--border);">
-                    AI-Generated Summaries · Jul 04, 2026  03:04 UTC / 00:04 BRT
+                    AI-Generated Summaries · Jul 04, 2026  04:04 UTC / 01:04 BRT
             </span>
     </div> </div>
     <div class="header-right">
@@ -1129,6 +1129,8 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <span style="font-size: 11px; color: var(--muted); text-transform: uppercase;">Filter Dates:</span>
     <button class="filter-btn active" id="date-all" onclick="toggleDate('all')">All Dates</button>
     
+    <button class="filter-btn" id="date-2026-07-04" onclick="toggleDate('2026-07-04')">Today</button>
+    
     <button class="filter-btn" id="date-2026-07-03" onclick="toggleDate('2026-07-03')">Yesterday</button>
     
     <button class="filter-btn" id="date-2026-07-02" onclick="toggleDate('2026-07-02')">Jul 02</button>
@@ -1155,7 +1157,25 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
 
     <div class="articles-grid" id="articlesGrid">
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-03" data-ts="1783102200" data-relevance="0" data-content="u.s. officials believed israel was plotting to kill iranian negotiators - the new york times any israeli attempt to kill abbas araghchi, the foreign minister, or mohammad ghalibaf, the parliament speaker, would have derailed peace talks, american officials feared.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-04" data-ts="1783134000" data-relevance="0" data-content="iran’s leader was killed in february. the country will finally bury him. - the washington post ">
+    <div class="card-head">
+    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=washingtonpost.com" alt="" onerror="this.style.display='none'" />
+    <div class="card-title-wrap">
+    <div class="card-title"><a href="https://www.washingtonpost.com/world/2026/07/03/iran-begins-funeral-rites-ali-khamenei-supreme-leader-killed-war/" target="_blank">Iran’s leader was killed in February. The country will finally bury him. - The Washington Post</a></div>
+    <div class="card-meta">
+    <span class="card-source">The Washington Post</span>
+    <span class="sentiment-dot neutral"></span>
+    <span>Jul 04, 2026 · 00:00 BRT</span>
+    </div>
+    </div>
+    </div>
+    <p class="card-summary"></p>
+    <div class="card-tags">
+    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('washingtonpost.com')">washingtonpost.com</span>
+    </div>
+    </div>
+    
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-03" data-ts="1783102200" data-relevance="1" data-content="u.s. officials believed israel was plotting to kill iranian negotiators - the new york times any israeli attempt to kill abbas araghchi, the foreign minister, or mohammad ghalibaf, the parliament speaker, would have derailed peace talks, american officials feared.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1170,24 +1190,6 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <p class="card-summary">Any Israeli attempt to kill Abbas Araghchi, the foreign minister, or Mohammad Ghalibaf, the Parliament speaker, would have derailed peace talks, American officials feared.</p>
     <div class="card-tags">
     <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('nytimes.com')">nytimes.com</span>
-    </div>
-    </div>
-    
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-03" data-ts="1783131254" data-relevance="1" data-content="iran’s leader was killed in february. the country will finally bury him. - the washington post ">
-    <div class="card-head">
-    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=washingtonpost.com" alt="" onerror="this.style.display='none'" />
-    <div class="card-title-wrap">
-    <div class="card-title"><a href="https://www.washingtonpost.com/world/2026/07/03/iran-begins-funeral-rites-ali-khamenei-supreme-leader-killed-war/" target="_blank">Iran’s leader was killed in February. The country will finally bury him. - The Washington Post</a></div>
-    <div class="card-meta">
-    <span class="card-source">The Washington Post</span>
-    <span class="sentiment-dot neutral"></span>
-    <span>Jul 03, 2026 · 23:14 BRT</span>
-    </div>
-    </div>
-    </div>
-    <p class="card-summary"></p>
-    <div class="card-tags">
-    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('washingtonpost.com')">washingtonpost.com</span>
     </div>
     </div>
     
@@ -1263,25 +1265,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-03" data-ts="1783067743" data-relevance="6" data-content="britain&#39;s services sector contracts sharply under strain of iran war, pmi shows - reuters ">
-    <div class="card-head">
-    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=reuters.com" alt="" onerror="this.style.display='none'" />
-    <div class="card-title-wrap">
-    <div class="card-title"><a href="https://www.reuters.com/world/uk/britains-services-sector-contracts-sharply-under-strain-iran-war-pmi-shows-2026-07-03/" target="_blank">Britain&#39;s services sector contracts sharply under strain of Iran war, PMI shows - Reuters</a></div>
-    <div class="card-meta">
-    <span class="card-source">Reuters</span>
-    <span class="sentiment-dot neutral"></span>
-    <span>Jul 03, 2026 · 05:35 BRT</span>
-    </div>
-    </div>
-    </div>
-    <p class="card-summary"></p>
-    <div class="card-tags">
-    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('reuters.com')">reuters.com</span>
-    </div>
-    </div>
-    
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-02" data-ts="1783022820" data-relevance="7" data-content="u.s. and iran to meet with mediators in qatar - the new york times american and iranian officials are in the gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-02" data-ts="1783022820" data-relevance="6" data-content="u.s. and iran to meet with mediators in qatar - the new york times american and iranian officials are in the gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1296,6 +1280,24 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <p class="card-summary">American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.</p>
     <div class="card-tags">
     <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('nytimes.com')">nytimes.com</span>
+    </div>
+    </div>
+    
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-03" data-ts="1783067743" data-relevance="7" data-content="britain&#39;s services sector contracts sharply under strain of iran war, pmi shows - reuters ">
+    <div class="card-head">
+    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=reuters.com" alt="" onerror="this.style.display='none'" />
+    <div class="card-title-wrap">
+    <div class="card-title"><a href="https://www.reuters.com/world/uk/britains-services-sector-contracts-sharply-under-strain-iran-war-pmi-shows-2026-07-03/" target="_blank">Britain&#39;s services sector contracts sharply under strain of Iran war, PMI shows - Reuters</a></div>
+    <div class="card-meta">
+    <span class="card-source">Reuters</span>
+    <span class="sentiment-dot neutral"></span>
+    <span>Jul 03, 2026 · 05:35 BRT</span>
+    </div>
+    </div>
+    </div>
+    <p class="card-summary"></p>
+    <div class="card-tags">
+    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('reuters.com')">reuters.com</span>
     </div>
     </div>
     
@@ -1317,7 +1319,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-03" data-ts="1783130405" data-relevance="9" data-content="live updates: latest from israel, iran, and middle east - the jerusalem post foreign officials attend khamenei&#39;s funeral • iranian general warns israel, us against strikes • idf reservist severely wounded in lebanon">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-04" data-ts="1783134005" data-relevance="9" data-content="live updates: latest from israel, iran, and middle east - the jerusalem post foreign officials attend khamenei&#39;s funeral • iranian general warns israel, us against strikes • idf reservist severely wounded in lebanon">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=jpost.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1325,7 +1327,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <div class="card-meta">
     <span class="card-source">The Jerusalem Post</span>
     <span class="sentiment-dot neutral"></span>
-    <span>Jul 03, 2026 · 23:00 BRT</span>
+    <span>Jul 04, 2026 · 00:00 BRT</span>
     </div>
     </div>
     </div>
@@ -1479,25 +1481,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-03" data-ts="1783105620" data-relevance="18" data-content="new lebanon deal revives jerusalem’s hopes of curbing iran’s influence - the times of israel trilateral pact formalizes idf coordination with lebanese army and ties israeli withdrawal to hezbollah&#39;s disarmament, but certainly doesn&#39;t guarantee peace on the northern border">
-    <div class="card-head">
-    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=timesofisrael.com" alt="" onerror="this.style.display='none'" />
-    <div class="card-title-wrap">
-    <div class="card-title"><a href="https://www.timesofisrael.com/new-lebanon-deal-revives-jerusalems-hopes-of-curbing-irans-influence/" target="_blank">New Lebanon deal revives Jerusalem’s hopes of curbing Iran’s influence - The Times of Israel</a></div>
-    <div class="card-meta">
-    <span class="card-source">The Times of Israel</span>
-    <span class="sentiment-dot neutral"></span>
-    <span>Jul 03, 2026 · 16:07 BRT</span>
-    </div>
-    </div>
-    </div>
-    <p class="card-summary">Trilateral pact formalizes IDF coordination with Lebanese army and ties Israeli withdrawal to Hezbollah&#39;s disarmament, but certainly doesn&#39;t guarantee peace on the northern border</p>
-    <div class="card-tags">
-    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('timesofisrael.com')">timesofisrael.com</span>
-    </div>
-    </div>
-    
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782865080" data-relevance="19" data-content="exclusive | trump briefed on all-out war options in iran but opts to stick with talks - wsj ">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782865080" data-relevance="18" data-content="exclusive | trump briefed on all-out war options in iran but opts to stick with talks - wsj ">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=wsj.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1515,7 +1499,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782915936" data-relevance="20" data-content="how the iran war ignited a clash between trump and the saudi crown prince - the new york times crown prince mohammed bin salman pressed president trump earlier to cripple iran. but as iran asserted its power, the prince urged a cease-fire, and is now pursuing his security priorities.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782915936" data-relevance="19" data-content="how the iran war ignited a clash between trump and the saudi crown prince - the new york times crown prince mohammed bin salman pressed president trump earlier to cripple iran. but as iran asserted its power, the prince urged a cease-fire, and is now pursuing his security priorities.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1533,7 +1517,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782936874" data-relevance="21" data-content="jd vance defends iran war in speech to military members - the new york times the vice president, a staunch critic of foreign wars, accused the president’s detractors of trying to prolong a conflict the administration was trying to end.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782936874" data-relevance="20" data-content="jd vance defends iran war in speech to military members - the new york times the vice president, a staunch critic of foreign wars, accused the president’s detractors of trying to prolong a conflict the administration was trying to end.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1551,7 +1535,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782802800" data-relevance="22" data-content="u.s. indicates a deal to suspend attacks in strait but iran hasn’t confirmed - the new york times a u.s. official said the u.s. and iran agreed to halt attacks in the strait of hormuz and allow vessels to move freely. hostilities in recent days have threatened a two-week-old cease-fire.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782802800" data-relevance="21" data-content="u.s. indicates a deal to suspend attacks in strait but iran hasn’t confirmed - the new york times a u.s. official said the u.s. and iran agreed to halt attacks in the strait of hormuz and allow vessels to move freely. hostilities in recent days have threatened a two-week-old cease-fire.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1564,6 +1548,24 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     <p class="card-summary">A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.</p>
+    <div class="card-tags">
+    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('nytimes.com')">nytimes.com</span>
+    </div>
+    </div>
+    
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-29" data-ts="1782727226" data-relevance="22" data-content="u.s. and iran trade more strikes, testing truce - the new york times u.s. forces carried out more airstrikes on iran, calling them a retaliation for an attack on an oil tanker. iran’s military later said it had attacked american targets in bahrain and kuwait.">
+    <div class="card-head">
+    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
+    <div class="card-title-wrap">
+    <div class="card-title"><a href="https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz" target="_blank">U.S. and Iran Trade More Strikes, Testing Truce - The New York Times</a></div>
+    <div class="card-meta">
+    <span class="card-source">The New York Times</span>
+    <span class="sentiment-dot neutral"></span>
+    <span>Jun 29, 2026 · 07:00 BRT</span>
+    </div>
+    </div>
+    </div>
+    <p class="card-summary">U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.</p>
     <div class="card-tags">
     <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('nytimes.com')">nytimes.com</span>
     </div>
@@ -1587,25 +1589,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-29" data-ts="1782727226" data-relevance="24" data-content="u.s. and iran trade more strikes, testing truce - the new york times u.s. forces carried out more airstrikes on iran, calling them a retaliation for an attack on an oil tanker. iran’s military later said it had attacked american targets in bahrain and kuwait.">
-    <div class="card-head">
-    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
-    <div class="card-title-wrap">
-    <div class="card-title"><a href="https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz" target="_blank">U.S. and Iran Trade More Strikes, Testing Truce - The New York Times</a></div>
-    <div class="card-meta">
-    <span class="card-source">The New York Times</span>
-    <span class="sentiment-dot neutral"></span>
-    <span>Jun 29, 2026 · 07:00 BRT</span>
-    </div>
-    </div>
-    </div>
-    <p class="card-summary">U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.</p>
-    <div class="card-tags">
-    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('nytimes.com')">nytimes.com</span>
-    </div>
-    </div>
-    
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782802800" data-relevance="25" data-content="how three months of war changed the gulf forever - the new york times facing an emerging u.s.-iran deal that leaves them vulnerable, gulf arab countries are reshaping their defense strategies, economies and trade routes.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782802800" data-relevance="24" data-content="how three months of war changed the gulf forever - the new york times facing an emerging u.s.-iran deal that leaves them vulnerable, gulf arab countries are reshaping their defense strategies, economies and trade routes.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1623,7 +1607,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-28" data-ts="1782655257" data-relevance="26" data-content="u.s.-iran ceasefire could go up in flames - axios trump is threatening to resume the war.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-28" data-ts="1782655257" data-relevance="25" data-content="u.s.-iran ceasefire could go up in flames - axios trump is threatening to resume the war.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=axios.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1641,7 +1625,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-29" data-ts="1782723803" data-relevance="27" data-content="iran says its delegation will be in doha, but not for talks with u.s. - the new york times after president trump said u.s.-iran talks would take place in the qatari capital on tuesday, an iranian official said its delegation would only be talking to mediators about getting the u.s. to uphold its cease-fire commitments.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-29" data-ts="1782723803" data-relevance="26" data-content="iran says its delegation will be in doha, but not for talks with u.s. - the new york times after president trump said u.s.-iran talks would take place in the qatari capital on tuesday, an iranian official said its delegation would only be talking to mediators about getting the u.s. to uphold its cease-fire commitments.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=nytimes.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1659,7 +1643,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-28" data-ts="1782684661" data-relevance="28" data-content="iran and us agree to halt attacks and renew talks, us official says - reuters ">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-28" data-ts="1782684661" data-relevance="27" data-content="iran and us agree to halt attacks and renew talks, us official says - reuters ">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=reuters.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1677,7 +1661,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-28" data-ts="1782696660" data-relevance="29" data-content="iran war developments, fed rate path cues in focus for indian rupee and bonds - reuters ">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-28" data-ts="1782696660" data-relevance="28" data-content="iran war developments, fed rate path cues in focus for indian rupee and bonds - reuters ">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=reuters.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1695,7 +1679,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-29" data-ts="1782723600" data-relevance="30" data-content="how 5 weeks of war shattered some of iran’s cherished monuments - reuters ">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-29" data-ts="1782723600" data-relevance="29" data-content="how 5 weeks of war shattered some of iran’s cherished monuments - reuters ">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=reuters.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1713,7 +1697,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782885540" data-relevance="31" data-content="trump weighed return to full war against iran, but prefers diplomatic efforts – report - the times of israel white house official says deconfliction channel including irgc, us military has been used by both sides; tehran&#39;s chief negotiator: iran prioritizes diplomacy but is ready for war">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782885540" data-relevance="30" data-content="trump weighed return to full war against iran, but prefers diplomatic efforts – report - the times of israel white house official says deconfliction channel including irgc, us military has been used by both sides; tehran&#39;s chief negotiator: iran prioritizes diplomacy but is ready for war">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=timesofisrael.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1731,7 +1715,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782868500" data-relevance="32" data-content="iran war delivers massive swings in chinese petrochemicals trade - bloomberg.com ">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-30" data-ts="1782868500" data-relevance="31" data-content="iran war delivers massive swings in chinese petrochemicals trade - bloomberg.com ">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=bloomberg.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1749,7 +1733,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-27" data-ts="1782574988" data-relevance="33" data-content="us strikes iran in response to attack on cargo ship in strait of hormuz - reuters both countries accuse the other of violating terms of a ceasefire agreed on last week.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-27" data-ts="1782574988" data-relevance="32" data-content="us strikes iran in response to attack on cargo ship in strait of hormuz - reuters both countries accuse the other of violating terms of a ceasefire agreed on last week.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=reuters.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1767,7 +1751,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-06-27" data-ts="1782598168" data-relevance="34" data-content="tanker struck in hormuz as iran, us trade attacks in worst escalation since peace deal - reuters ">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-27" data-ts="1782598168" data-relevance="33" data-content="tanker struck in hormuz as iran, us trade attacks in worst escalation since peace deal - reuters ">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=reuters.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1785,7 +1769,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     </div>
     </div>
     
-    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782878051" data-relevance="35" data-content="donald trump considers returning to war with iran, prefers talks - the jerusalem post trump has also said that he is fine with negotiations with iran continuing past a previous august 18 deadline for a nuclear deal, wsj wrote.">
+    <div class="article-card" data-sentiment="neutral" data-date="2026-07-01" data-ts="1782878051" data-relevance="34" data-content="donald trump considers returning to war with iran, prefers talks - the jerusalem post trump has also said that he is fine with negotiations with iran continuing past a previous august 18 deadline for a nuclear deal, wsj wrote.">
     <div class="card-head">
     <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=jpost.com" alt="" onerror="this.style.display='none'" />
     <div class="card-title-wrap">
@@ -1800,6 +1784,24 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <p class="card-summary">Trump has also said that he is fine with negotiations with Iran continuing past a previous August 18 deadline for a nuclear deal, WSJ wrote.</p>
     <div class="card-tags">
     <span class="tag" onclick="filterByTag('iran')">Iran</span><span class="tag" onclick="filterByTag('nuclear')">Nuclear</span><span class="tag" onclick="filterByTag('iran deal')">Iran Deal</span><span class="tag" onclick="filterByTag('us iran')">us iran</span><span class="tag" onclick="filterByTag('donald trump')">Donald Trump</span>
+    </div>
+    </div>
+    
+    <div class="article-card" data-sentiment="neutral" data-date="2026-06-28" data-ts="1782659107" data-relevance="35" data-content="u.s., iran launch new strikes, testing fragile ceasefire as hormuz tensions flare - the washington post ">
+    <div class="card-head">
+    <img class="favicon" src="https://www.google.com/s2/favicons?sz=32&amp;domain=washingtonpost.com" alt="" onerror="this.style.display='none'" />
+    <div class="card-title-wrap">
+    <div class="card-title"><a href="https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/" target="_blank">U.S., Iran launch new strikes, testing fragile ceasefire as Hormuz tensions flare - The Washington Post</a></div>
+    <div class="card-meta">
+    <span class="card-source">The Washington Post</span>
+    <span class="sentiment-dot neutral"></span>
+    <span>Jun 28, 2026 · 12:05 BRT</span>
+    </div>
+    </div>
+    </div>
+    <p class="card-summary"></p>
+    <div class="card-tags">
+    <span class="tag" onclick="filterByTag('extracted')">extracted</span><span class="tag" onclick="filterByTag('washingtonpost.com')">washingtonpost.com</span>
     </div>
     </div>
     
@@ -1889,8 +1891,6 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     
     <span class="tag" onclick="filterByTag('wsj.com')">wsj.com</span>
     
-    <span class="tag" onclick="filterByTag('timesofisrael.com')">timesofisrael.com</span>
-    
     <span class="tag" onclick="filterByTag('iran')">Iran</span>
     
     <span class="tag" onclick="filterByTag('israel')">Israel</span>
@@ -1910,6 +1910,8 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     <span class="tag" onclick="filterByTag('middle east conflict')">Middle East conflict</span>
     
     <span class="tag" onclick="filterByTag('drone strikes')">Drone strikes</span>
+    
+    <span class="tag" onclick="filterByTag('timesofisrael.com')">timesofisrael.com</span>
     
     <span class="tag" onclick="filterByTag('repi:exploration-production')">REPI:EXPLORATION-PRODUCTION</span>
     
@@ -14273,7 +14275,7 @@ footer { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 20p
     
 
     <footer>
-    Iran War Monitor · Summaries via gemini-2.5-flash-lite &amp; gemini-2.5-flash &amp; gemini-2.5-flash-lite · Jul 04, 2026  03:04 UTC / 00:04 BRT
+    Iran War Monitor · Summaries via gemini-2.5-flash-lite &amp; gemini-2.5-flash &amp; gemini-2.5-flash-lite · Jul 04, 2026  04:04 UTC / 01:04 BRT
     </footer>
 </div>
 

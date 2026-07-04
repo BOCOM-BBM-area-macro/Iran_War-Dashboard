@@ -29874,7 +29874,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-03"
+      "pub_date": "2026-07-02"
     },
     "https://www.reuters.com/business/energy/kuwait-raises-crude-production-165-mln-bpd-june-source-says-2026-07-02/": {
       "summary": "",
@@ -30174,56 +30174,82 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-04"
+    },
+    "https://www.reuters.com/business/media-telecom/iranians-flock-week-long-funeral-rites-khamenei-2026-07-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
+    },
+    "https://www.timesofisrael.com/mourners-chant-death-to-america-and-israel-as-iran-begins-days-long-khamenei-funeral/": {
+      "summary": "Millions expected to flood Tehran's streets as slain supreme leader's casket starts journey through cities in Iran and Iraq; unclear if his son and successor, Mojtaba, will appear",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
+    },
+    "https://www.ft.com/content/c40471ec-cac8-4ab0-8a77-34ae971a7ffc": {
+      "summary": "The week-long remembrance is intended to demonstrate public support for the regime",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-04"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-07-03",
-  "last_generated_time": "2026-07-03T23:02:09.778773+00:00",
+  "last_generated_date": "2026-07-04",
+  "last_generated_time": "2026-07-04T09:02:13.597081+00:00",
   "digest": {
-    "digest": "The ongoing Iran War has seen significant diplomatic activity, with US and Iranian officials meeting with mediators in Qatar amidst renewed attacks threatening peace efforts. The US has also indirectly warned Iran that Israel may attempt to assassinate top Iranian negotiators, a move US officials believed would derail peace talks. Internally, Iran is preparing for mass funeral events for Supreme Leader Ayatollah Ali Khamenei, who was killed at the war's outset, presenting a critical moment for the regime to project stability. The conflict's economic repercussions are evident, with Britain's services sector contracting sharply, though British firms remain firm on price rises. Conversely, transits through the Strait of Hormuz have quadrupled as a US-Iran ceasefire holds, with a proposal from Oman and Iran to collect fees for ships passing through the waterway. The US had previously warned Iran about Israel's aims to assassinate leaders. A Trump-backed truce in Lebanon, considered key to an Iran peace deal, is reportedly at risk of sparking a new civil war. The war, now in its fourth month, has seen the US president defend his decision to initiate it. Gulf states are being urged to undertake a joint security makeover in light of the war's impact.",
+    "digest": "Iran has commenced the long-delayed funeral ceremonies for its Supreme Leader, Ayatollah Ali Khamenei, who was killed in U.S.-Israeli strikes at the war's outset. Massive crowds have gathered in Tehran, with mourners chanting calls for revenge against the United States and Israel, underscoring the deep-seated animosity and the regime's efforts to project resilience. The funeral proceedings coincide with the U.S. marking its 250th anniversary, a timing noted by Iranian state media and attendees. Diplomatic discussions between the U.S. and Iran have concluded in Doha, with a primary focus on the strategic Strait of Hormuz, a key chokepoint for global oil transit. Iran continues to assert its leverage over the strait, warning against external interference. Meanwhile, the war's economic repercussions are evident, with Britain's services sector contracting sharply, according to PMI data. The ongoing conflict also poses risks to maritime security, as evidenced by reports of stranded sailors near the Strait of Hormuz. Concerns remain regarding potential further Israeli actions, with Iran issuing warnings to the U.S. and Israel against miscalculations, particularly concerning the succession of leadership. The funeral is seen as a critical moment for the Iranian regime to demonstrate its stability amidst the ongoing conflict and internal pressures.",
     "top_themes": [
-      "Iran-US Diplomatic Engagements",
-      "Impact on Global Trade and Economy",
-      "Internal Iranian Political Developments",
-      "Regional Security Concerns"
+      "Iran's leadership transition and funeral",
+      "Regional tensions and military posturing",
+      "Economic impacts of the Iran war",
+      "Diplomatic negotiations and Strait of Hormuz"
     ],
     "next_events": [
       {
-        "title": "U.S.-Iran Peace Talks in Qatar",
-        "description": "American and Iranian officials are meeting in Qatar, a key intermediary, days after new attacks threatened peace efforts. The outcome of these talks is crucial for de-escalation and signing a lasting peace deal. Analysts should monitor statements from officials, the progress of negotiations, and any agreements or disagreements that emerge from these discussions."
+        "title": "Consolidation of Power by New Supreme Leader",
+        "description": "The funeral of Ayatollah Ali Khamenei served as a public display of national unity and defiance, but the true test lies in Mojtaba Khamenei's ability to consolidate power. Analysts should monitor for any signs of internal dissent or challenges to his authority, as well as his public appearances and initial policy directives, which will signal the stability of Iran's leadership transition."
       },
       {
-        "title": "Israeli Actions Against Iranian Negotiators",
-        "description": "The U.S. reportedly warned Iran about Israeli plans to assassinate key Iranian negotiators, including the Foreign Minister and Parliament Speaker. Any such action would severely destabilize peace talks and could reignite conflict. Analysts should monitor Israeli military and intelligence activities, as well as any rhetoric from Israeli officials regarding Iranian leadership or negotiators."
+        "title": "Potential for Iranian Retaliation Against US and Israel",
+        "description": "The widespread calls for 'revenge' and 'death to America and Israel' at Khamenei's funeral indicate a high likelihood of retaliatory actions. Watch for increased activity from Iran's proxy networks, cyberattacks, or direct military provocations targeting Israeli interests or US assets in the region, as Iran seeks to avenge its slain leader."
       },
       {
-        "title": "Strait of Hormuz Fee Proposal",
-        "description": "Oman has proposed a plan for Iran and Oman to collect fees for ships passing through the Strait of Hormuz. This proposal, if implemented, would significantly impact global shipping and oil prices, and could become a point of contention if not agreed upon by international stakeholders. Watch for further negotiations, international reactions, and any steps towards formalizing this fee structure."
+        "title": "Escalation in the Strait of Hormuz",
+        "description": "Iran's stated intent to charge vessels passing through the Strait of Hormuz, coupled with British and French military patrols, creates a high-risk environment. Monitor for any Iranian attempts to enforce new transit fees or disrupt shipping, and observe how international naval forces respond to maintain freedom of navigation, as this choke point remains a critical leverage point for Iran."
       },
       {
-        "title": "Stability of Lebanon Truce",
-        "description": "A Trump-backed truce in Lebanon is considered key to the broader Iran peace deal, but it risks sparking a new civil war. The fragility of this truce could undermine regional stability and complicate efforts to secure a lasting peace with Iran. Monitor internal Lebanese political developments, the actions of various factions, and any external influences that could destabilize the truce."
+        "title": "Future of US-Iran Negotiations and De-escalation Efforts",
+        "description": "Despite the funeral's anti-US sentiment, recent talks in Doha focused on the Strait of Hormuz suggest ongoing, albeit tense, diplomatic channels. Analysts should watch for further rounds of negotiations, any shifts in US or Iranian demands, and whether these talks can lead to de-escalation or a permanent end to the conflict, especially concerning the oil trade and regional stability."
       },
       {
-        "title": "Iranian Leadership Transition and Succession",
-        "description": "Following the reported death of Supreme Leader Ayatollah Ali Khamenei, Iran is undergoing a period of mourning and preparing for his burial. The subsequent succession process is critical for Iran's internal stability and its posture towards external adversaries. Watch for any retaliatory actions, shifts in leadership, or changes in Iran's foreign policy stance during this sensitive transition."
-      },
-      {
-        "title": "Durability of the US-Iran Ceasefire",
-        "description": "The increase in Strait of Hormuz transits indicates that the US-Iran ceasefire is currently holding, allowing for a cautious return of tankers. However, the peace deal remains fragile, as evidenced by recent attacks and assassination plots. Analysts should closely monitor any violations of the ceasefire, military movements in the region, and the rhetoric from both sides that could signal a breakdown."
+        "title": "Intensification of Regional Proxy Conflicts",
+        "description": "The visible support for Hezbollah at the funeral underscores Iran's reliance on its 'Axis of Resistance' proxies. Monitor for increased military engagements between Hezbollah and Israel in southern Lebanon, as well as potential actions by other Iran-backed groups in the Middle East, which could signal a broader escalation of the regional conflict."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "U.S. warned Iran about Israel’s aims to assassinate leaders - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/02/us-warned-iran-about-israels-aims-assassinate-leaders/",
+      "title": "Iran’s leader was killed in February. The country will finally bury him. - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/03/iran-begins-funeral-rites-ali-khamenei-supreme-leader-killed-war/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 03, 2026 · 01:01 BRT",
-      "pub_date": "2026-07-03",
-      "pub_ts": 1783051260,
+      "published": "Jul 04, 2026 · 08:16 BRT",
+      "pub_date": "2026-07-04",
+      "pub_ts": 1783163814,
       "summary": "",
       "tags": [
         "extracted",
@@ -30235,21 +30261,60 @@
       "sentiment_success": false
     },
     {
-      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan - The New York Times",
-      "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 02, 2026 · 15:39 BRT",
-      "pub_date": "2026-07-02",
-      "pub_ts": 1783017540,
-      "summary": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+      "title": "Iran Begins Khamenei’s Funeral in Show of Defiance Against the U.S. - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-supreme-leader-khamenei-funeral-7e1ad603",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 04, 2026 · 05:37 BRT",
+      "pub_date": "2026-07-04",
+      "pub_ts": 1783154220,
+      "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/iranians-flock-week-long-funeral-rites-khamenei-2026-07-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 04, 2026 · 07:47 BRT",
+      "pub_date": "2026-07-04",
+      "pub_ts": 1783162061,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Mourners chant ‘death’ to America and Israel as Iran begins days-long Khamenei funeral - The Times of Israel",
+      "url": "https://www.timesofisrael.com/mourners-chant-death-to-america-and-israel-as-iran-begins-days-long-khamenei-funeral/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jul 04, 2026 · 07:07 BRT",
+      "pub_date": "2026-07-04",
+      "pub_ts": 1783159650,
+      "summary": "Millions expected to flood Tehran's streets as slain supreme leader's casket starts journey through cities in Iran and Iraq; unclear if his son and successor, Mojtaba, will appear",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "Mourners\nchant\n'death'\nto\nAmerica\nand\nIsrael\nas\nIran\nbegins\ndays-long\nKhamenei\nfuneral\n|\nThe\nTimes\nof\nIsrael\nSkip\nto\nmain\ncontent\n×\nAdvertisement\nHomepage\nMourners\nattend\nthe\nstart\nof\nthe\ndayslong\nfuneral\nceremonies\nfor\nthe\nlate\nIranian\nSupreme\nLeader\nAyatollah\nAli\nKhamenei\nand\nmembers\nof\nhis\nfamily\nat\nthe\nImam\nKhomeini\nMosalla\nGrand\nMosque\nin\nTehran,\nIran,\nSaturday,\nJuly\n4,\n2026.\n(AP\nPhoto/Altaf\nQadri)\nMassive\ncrowds\ngathered\nas\nIran\nbegan\na\ndays-long\nfuneral\nSaturday\nfor\nthe\nlate\nsupreme\nleader\nAyatollah\nAli\nKhamenei,\nwith\nmany\ncalling\nfor\n“revenge”\nand\n“death\nto\nIsrael,”\nmonths\nafter\nan\nairstrike\nkilled\nhim\nat\nthe\nstart\nof\nthe\nwar.\nAuthorities\nunveiled\nthe\ncasket\ncontaining\nKhameneiâs\nbody\nin\na\nglass\ncase\nat\nthe\nGrand\nMosalla\nin\nTehran,\nIranâs\ncapital.\nMourners\nwept\nat\nthe\nsight,\nwith\nsome\nchanting:\nâOur\nword\nis\none!\nRevenge!\nRevenge!â\nand\nâWe\nwill\nkill,\nwe\nwill\nkill\nhe\nwho\nkilled\nour\nImam.â\nSome\ncarried\nbanners\nand\nred\nflags,\na\nsymbol\nof\nrevenge\nin\nShiite\nIslam,\nwhile\nbillboards\nacross\nthe\ncity\nbore\nKhameneiâs\nimage.\nCrowds\nof\nmen\nrhythmically\nbeat\ntheir\nchests\nin\nmourning,\na\ncommon\npractice\nat\nShiite\nfunerals.\n“We\nhave\ncome\nnot\nfor\nthe\nfuneral\nbut\nfor\nrevenge,”\na\neulogist\nat\nthe\nevent\nchanted.\n“We’re\nnever\ngoing\nto\ngive\nup\nyour\nblood,\nwhich\nis\nthe\nreddest\nline.”\n“We\nmust\nrise\nup\nand,\nGod\nwilling,\navenge\nthe\nblood\nof\nour\nleader,”\nsaid\nHamidreza\nShabani,\nan\n18-year-old\nstudent.\nGet\nThe\nTimes\nof\nIsrael's\nDaily\nEdition\nby\nemail\nand\nnever\nmiss\nour\ntop\nstories\nBy\nsigning\nup,\nyou\nagree\nto\nthe\nterms\nâI\nam\nhere\nto\nsay\ngoodbye\nto\nmy\nbeloved\nleader\nAli\nKhamenei,â\nsaid\na\nweeping\nHananeh\nMousavi,\n27,\nwho\nattended\nthe\nfuneral\nalongside\nher\nmother.\nâI\nnever\nexpected\nto\nsee\nsuch\na\nday.\nI\nwish\nI\nhad\ndied\nbefore\nthis\ntragedy.”\nMourners\nattend\nthe\nstart\nof\nthe\ndays-long\nfuneral\nceremonies\nfor\nthe\nlate\nIranian\nsupreme\nleader\nAyatollah\nAli\nKhamenei\nand\nmembers\nof\nhis\nfamily\nat\nthe\nImam\nKhomeini\nMosalla\nGrand\nMosque\nin\nTehran,\nIran,\nSaturday,\nJuly\n4,\n2026.\n(AP\nPhoto/Altaf\nQadri)\nAn\noutdoor\nstage\nset\nup\nat\nthe\nGrand\nMosalla\nresembled\nthe\nstage\nwhere\nKhamenei\nonce\ngave\nhis\nspeeches\nat\na\nhusseiniyah\n,\nor\nShiite\ncongregation\nhall,Â at\nhis\ncompound\nin\ndowntown\nTehran.\nThat\nsite\nwas\ndestroyed\nin\nthe\nIsraeli\nairstrike\nthat\nkilled\nKhamenei\nand\nsome\nof\nhis\nfamily\nat\nthe\nstart\nof\nthe\nIran\nwar\non\nFebruary\n28.\nThe\ncaskets\nof\nhis\ndead\nfamily\nmembers\nsat\nbeneath\nhis,\nwhich\nhad\nhis\nblack\nturban\natop\nit,\nidentifying\nhim\nas\na\ndirect\ndescendant\nof\nthe\nProphet\nMuhammad.\nAdvertisement\nSome\nmourners\ncarried\nportraits\nof\nIran’s\nnew\nsupreme\nleader\nMojtaba\nKhamenei,\nwho\nhas\nsucceeded\nhis\nfather\nbut\nremained\nout\nof\npublic\nsight.\nAlso\nseen\namong\nthe\ncrowds\nwas\nthe\nyellow\nflag\nof\nthe\nIran-backed\nterror\ngroup\nHezbollah,\nwhich\nhas\nbeen\nbattling\nIsraeli\nforces\nin\nsouthern\nLebanon\nsince\nthe\nregional\nwar\nbroke\nout.\nMourners\nattend\nthe\nstart\nof\nthe\ndays-long\nfuneral\nceremonies\nfor\nthe\nlate\nIranian\nsupreme\nleader\nAyatollah\nAli\nKhamenei\nand\nmembers\nof\nhis\nfamily\nat\nthe\nImam\nKhomeini\nMosalla\nGrand\nMosque\nin\nTehran,\nIran,\nSaturday,\nJuly\n4,\n2026.\n(AP\nPhoto/Altaf\nQadri)\nHezbollah\nis\npart\nof\nthe\nIran-aligned\n“Axis\nof\nResistance”,\na\nnetwork\nof\nterror\nproxies\nacross\nthe\nMiddle\nEast\nthat\nis\nopposed\nto\nIsrael\nand\nthe\nUnited\nStates.\nIranâs\ngovernment\nexpects\nto\nsee\nmillions\nflood\nthe\nstreets\nof\nthe\ncapital\nin\nscenes\nreminiscent\nof\nthe\nburial\nof\nthe\nlate\nsupreme\nleader\nAyatollah\nRuhollah\nKhomeini\nin\n1989.\nOrganizers\nsprayed\nwater\non\nthe\ncrowds\nand\noffered\ncold\ndrinks\nto\nhelp\nthose\nwith\nthe\nsummertime\nheat.\nâWe\nattended\nthe\nfuneral\nto\nshow\nthat\nwe\nare\nall\ncommitted\nto\ndefending\nour\ncountry\nand\nreligion,â\nsaid\nAli\nKazemi,\nwho\ncame\nfrom\nthe\nnorthwestern\ncity\nof\nTabriz,\nsome\n530\nkilometers\n(330\nmiles)\naway\nfrom\nTehran.\nThe\ncoffins\nof\nslain\nIranian\nsupreme\nleader\nAyatollah\nAli\nKhamenei\nand\nmembers\nof\nhis\nfamily\nare\ndisplayed\non\na\nplatform\nabove\nan\nempty\nchair\nat\nthe\nstart\nof\nthe\ndays-long\nfuneral\nceremonies\nat\nthe\nImam\nKhomeini\nMosalla\nGrand\nMosque\nin\nTehran,\nIran,\nJuly\n4,\n2026.\n(AP\nPhoto/Altaf\nQadri)\nA\nlarge\nturnout\ncould\nprovide\na\nboost\nfor\nIranâs\ngovernment,\nparticularly\nas\nit\ntries\nto\nleverage\nits\nhold\nonÂ the\nStrait\nof\nHormuzÂ in\nnegotiations\nwith\nthe\nUnited\nStates\nover\na\npermanent\nend\nto\nthe\nwar,\nand\nas\nconcern\nstill\nlingers\nthat\nIsrael\ncould\nattack\nyet\nagain.\nAdvertisement\nKhamenei,\nwho\nwas\n86\nat\nthe\ntime\nof\nhis\ndeath,\nruled\nIran\nsince\n1989,\nand\noversaw\nthe\nexpansion\nof\nits\nnuclear\nprogram\nand\nterrorist\nproxy\nnetwork.\nLike\nother\nIranian\nleaders,\nhe\nwas\nsworn\nto\nIsrael’s\ndestruction.\nFuneral\nstarts\nas\nUS\nmarks\nits\n250th\nanniversary\nIran\nchose\nJuly\n4,\nthe\n250th\nanniversary\nof\nthe\ncreation\nof\nthe\nUS,\nto\nbegin\nthe\nfuneral\n.\nWhile\nauthorities\ndid\nnot\nacknowledge\nthe\ntiming,\ncrowds\nat\nthe\nceremony\nin\nTehran\nchanted:\nâDeath\nto\nAmerica!â\nand\n“Death\nto\nIsrael!”\nâ\nreprising\nchants\nthat\nhave\nbeen\ncommon\nin\nIran\nsince\nthe\n1979\nIslamic\nRevolution\nand\nUS\nEmbassy\ntakeover\nand\nhostage\ncrisis.\nâWe\nknocked\nthe\nhell\nout\nof\nIran,â\nUS\nPresident\nDonald\nTrump\nsaid\nin\na\nspeech\nat\nthe\nsame\ntime\nin\nSouth\nDakota\nin\nfront\nof\nMount\nRushmore.\nâThey\nwant\nto\nsettle\nso\nbadly.\nWe\ngave\nthem\na\nweek\noff\nfor\na\nfuneral.â\nThe\nAmerican\npresident\nwas\nnot\nforgotten\nin\nTehran.\nIn\nthe\ncrowd\nin\nGrand\nMosalla,\nseveral\nmourners\nheld\na\nlarge\nflag\nthat\nread:\nâ#KillTrump.â\nAs\nthe\nceremony\nwent\non,\nIran’s\nchief\nnegotiator\nKazem\nGharibabadi\ncriticized\na\njoint\nstatement\novernight\nfrom\nBritish\nPrime\nMinister\nKeir\nStarmer\nand\nFrench\nPresident\nEmmanuel\nMacron,\nwhich\nsuggested\ntheir\nmilitaries\nstood\nready\nto\npatrol\nthe\nStrait\nof\nHormuz.\nControl\nof\nthe\nstrait\nhas\nbeen\na\nmajor\npoint\nof\nleverage\nfor\nIran,\nwhich\nhas\nsuggested\nit\nwants\nto\ncharge\nvessels\npassing\nthrough\nit,\nupending\ndecades\nof\nthe\nworld\nconsidering\nit\nan\ninternational\nwaterway.\nâThe\nsecurity\nof\nHormuz\nlies\nwith\nthe\ncoastal\nstates\nâ\nthe\ncrisis-makers\nwill\nbe\nheld\naccountable\nfor\nthe\nconsequences\nof\ntheir\nadventurism,â\nGharibabadi\nwrote\non\nX.\nâThis\nis\na\nserious\nwarning.â\nAdvertisement\nKhameneiâs\nbody\nwill\nbe\ntransported\nto\ncities\nin\nboth\nIran\nand\nneighboring\nIraq.\nAuthorities\nhave\nshut\ndown\nstreets,\nairspace\nand\ndaily\nlife\nin\nTehran\nfor\nthe\nmourning.\nIt\nremains\nunclear\nwhether\nIranâs\nnew\nsupreme\nleader,Â Ayatollah\nMojtaba\nKhamenei,\nwill\nappear\nat\nhis\nfatherâs\nfuneral.\nThe\nlate\nsupreme\nleader\nappeared\nin\n1989\nat\nKhomeiniâs\nfuneral,\nweeping\nvisibly,\nas\nhe\nbegan\nhis\njourney\nto\nlead\nIran\nfor\ndecades\nwith\nan\niron\nfist\nwhile\nconfronting\nthe\nWest.\nMojtaba\nKhamenei’s\nlate\nwife\nwas\none\nof\nthe\ndead\non\ndisplay\nat\nthe\nGrand\nMosalla.\nIsraelâs\nrepeated\nthreats\nto\nkill\nMojtaba\nKhamenei\ndrew\na\nwarning\nfrom\nIranâs\njoint\nmilitary\ncommand\nThursday,\nwhich\ntold\nIsrael\nand\nthe\nUS\nâto\navoid\nany\nmiscalculationâ\nover\nthe\ncoming\ndays.\nTimes\nof\nIsrael\nStaff\ncontributed\nto\nthis\nreport\nWe\ncan't\ndo\nthis\nwork\nalone.\nThe\nwar\nwith\nIran\nhas\nbeen\ndraining\nfor\nall\nof\nus\nin\nIsrael.\nBut\nwhen\nI\nheard\nabout\na\nhigh\ncasualty\nincident\nâ\nballistic\nmissile\nimpacts\nin\nArad\nand\nDimona\nthat\nleft\nnearly\n200\npeople\nwounded\nâ\nI\ndrank\na\ncup\nof\ncoffee,\npacked\na\nbag,\nand\nheaded\nsouth.\nThere,\nI\nspoke\nwith\nShilgit,\nthe\nhead\nof\nan\nafter-school\nprogram\nfor\nunderprivileged\nyouth.\nStanding\noutside\nher\ndestroyed\ncenter,\nShilgit\nsaid\nit\nwas\na\nmiracle\nthat\nno\nchildren\nwere\nhurt\nand\nspoke\nabout\nthe\ncommunity\ncoming\ntogether\nin\nthe\nhours\nsince.\nAs\na\nTimes\nof\nIsrael\nreporter,\nIâm\ncommitted\nto\ntelling\nstories\nof\nresilience\nlike\nShilgitâs.\nBut\nmy\ncolleagues\nand\nI\ncan't\ndo\nthis\nalone.\nIf\nyou\nvalue\nwork\nlike\nthis,\nplease\nconsider\njoining\nour\nreader\nsupport\ngroup,\nThe\nTimes\nof\nIsrael\nCommunity.\nYour\nfinancial\nsupport\nis\nessential\nto\nkeep\nreal\nhuman\nreporting\nlike\nthis\ngoing.\nâ\nStav\nLevaton,\nmilitary\nreporter\nYes,\nI'll\njoin\nYes,\nI'll\njoin\nAlready\na\nmember?\nSign\nin\nto\nstop\nseeing\nthis\nYou're\na\ndedicated\nreader\nWeâre\nreally\npleased\nthat\nyouâve\nread\nX\nTimes\nof\nIsrael\narticles\nin\nthe\npast\nmonth.\nThatâs\nwhy\nwe\nstarted\nthe\nTimes\nof\nIsrael\n-\nto\nprovide\ndiscerning\nreaders\nlike\nyou\nwith\nmust-read\ncoverage\nof\nIsrael\nand\nthe\nJewish\nworld.\nSo\nnow\nwe\nhave\na\nrequest.\nUnlike\nother\nnews\noutlets,\nwe\nhavenât\nput\nup\na\npaywall.\nBut\nas\nthe\njournalism\nwe\ndo\nis\ncostly,\nwe\ninvite\nreaders\nfor\nwhom\nThe\nTimes\nof\nIsrael\nhas\nbecome\nimportant\nto\nhelp\nsupport\nour\nwork\nby\njoining\nThe\nTimes\nof\nIsrael\nCommunity.\nFor\nas\nlittle\nas\n$6\na\nmonth\nyou\ncan\nhelp\nsupport\nour\nquality\njournalism\nwhile\nenjoying\nThe\nTimes\nof\nIsrael\nAD-FREE\n,\nas\nwell\nas\naccessing\nexclusive\ncontent\navailable\nonly\nto\nTimes\nof\nIsrael\nCommunity\nmembers.\nThank\nyou,\nDavid\nHorovitz,\nFounding\nEditor\nof\nThe\nTimes\nof\nIsrael\nJoin\nOur\nCommunity\nJoin\nOur\nCommunity\nAlready\na\nmember?\nSign\nin\nto\nstop\nseeing\nthis\nMost\nPopular\n1\nIsrael\nranks\n18th\nin\nglobal\nwealth\nlist\nas\n8,800\nIsraelis\nbecome\nnew\nmillionaires\n2\nUS\nindirectly\nwarned\nIran\nduring\ntalks\nthat\nIsrael\nmight\ntry\nto\nkill\nits\ntop\nnegotiators\n—\nNYT\n3\nKhamenei\nlies\nin\nstate\nin\nTehran\nas\nIran\nbegins\nweek\nof\nmass\nfuneral\nceremonies\n4\nIran\nwarns\nUS,\nIsrael\nagainst\nattacks\nahead\nof\nlong-delayed\nKhamenei\nfuneral\n5\nTrump\nclaims\n‘spoiled\nchild’\nIran\nhas\nagreed\nto\nmost\nUS\ndemands\nin\nnegotiations\n6\nAnalysis\nNew\nLebanon\ndeal\nrevives\nJerusalem’s\nhopes\nof\ncurbing\nIran’s\ninfluence\n7\nRabbinate\napproves\nâ\nthen\ndisputes\nâ\nalternative\nTzohar\nkosher\ncertification\nin\nlandmark\nruling\n8\nFlowers\nand\n‘vengeance’:\nTehran’s\nGrand\nMosalla\nreceives\nKhamenei’s\nbody\nahead\nof\nfuneral\nread\nmore:\nIsrael\n&\nthe\nRegion\nAli\nKhamenei\nDonald\nTrump\n2026\nUS-Israel\nwar\nwith\nIran\nMojtaba\nKhamenei\nIran\nIf\nyouâd\nlike\nto\ncomment,\njoin\nThe\nTimes\nof\nIsrael\nCommunity.\nJOIN\nTHE\nTOI\nCOMMUNITY\nAlready\na\nmember?\nLog\nin\nhere\nclose\npopup\nSign\nin\nor\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nPaying\nToI\nCommunity\nmembers\nare\ninvited\nto\ncomment\non\narticles\nOr\nContinue\nwith\nBy\njoining\nyou\nagree\nto\nthe\nterms\nand\nconditions\nback\nclose\npopup\nRegister\nto\ncontinue\nOr\nContinue\nwith\nback\nclose\npopup\nLog\nin\nto\ncontinue\nback\nclose\npopup\nSign\nin\nor\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nYou\nare\ncurrently\nregistered.\nPlease\njoin\nThe\nTimes\nof\nIsrael\nCo",
       "sentiment_success": false
     },
     {
@@ -30272,51 +30337,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran's slain leader Khamenei laid in state in Tehran for week of mass funeral events - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-slain-leader-khamenei-laid-state-tehran-week-mass-funeral-events-2026-07-03/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 03, 2026 · 07:51 BRT",
-      "pub_date": "2026-07-03",
-      "pub_ts": 1783075888,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 02, 2026 · 23:47 BRT",
-      "pub_date": "2026-07-02",
-      "pub_ts": 1783046871,
-      "summary": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran War: The Gulf States Need a Joint Security Makeover - Bloomberg.com",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-07-03/iran-war-the-gulf-states-need-a-joint-security-makeover",
+      "title": "The Race to Rescue 8,000 Sailors Still Stranded Behind Hormuz - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/strait-of-hormuz-sailors-remain-trapped-despite-iran-us-ceasefire",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 03, 2026 · 01:00 BRT",
+      "published": "Jul 03, 2026 · 05:02 BRT",
       "pub_date": "2026-07-03",
-      "pub_ts": 1783051200,
+      "pub_ts": 1783065741,
       "summary": "",
       "tags": [
         "extracted",
@@ -47854,7 +47882,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-07-03T11:07:17.861378+00:00",
-  "last_watch_time": "2026-07-03T11:07:28.372694+00:00",
-  "last_relevant_time": "2026-07-03T11:07:29.347920+00:00"
+  "last_digest_time": "2026-07-04T12:07:38.071570+00:00",
+  "last_watch_time": "2026-07-04T12:07:47.619332+00:00",
+  "last_relevant_time": "2026-07-04T12:07:50.883768+00:00"
 }

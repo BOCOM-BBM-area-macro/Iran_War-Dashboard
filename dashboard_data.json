@@ -30216,7 +30216,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-04"
+      "pub_date": "2026-07-05"
     },
     "https://www.ft.com/content/c40471ec-cac8-4ab0-8a77-34ae971a7ffc?syn-25a6b1a6=1": {
       "summary": "The week-long remembrance is intended to demonstrate public support for the regime",
@@ -30365,7 +30365,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-05"
+      "pub_date": "2026-07-04"
     },
     "https://www.jpost.com/middle-east/article-901116": {
       "summary": "A weekly selection of opinions and analyses from the Arab media around the world.",
@@ -30411,6 +30411,26 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/minister-confirms-israel-deployed-iron-dome-battery-to-uae-during-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-05/japan-s-plastic-wrapped-products-face-shortages-from-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -30574,6 +30594,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil market opens up as retail traders pour in - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHZYWXd1TzVYdlBEU3FUNXBTc2NyUkZzS1Y4NTM3eEhhenN5X3ZVX1ZFYlgzcjlwcnd5WVNNUkt2LUpwVi16QnV6RFdPbS1ETVBpWG1EbFUxT1pYSjRLRHVTSkZqY2JMZ1VKVUVWdFA4WEMwbEZCRWoxNDVJZDYwSzJ5MUw?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 05, 2026 · 01:02 BRT",
+          "pub_date": "2026-07-05",
+          "pub_ts": 1783224138,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How does the Iran crisis compare with the 1979 oil shock? - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkU?oc=5",

@@ -30392,6 +30392,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-05"
+    },
+    "https://www.jpost.com/middle-east/article-901422": {
+      "summary": "Dozens of Iranian missiles fired towards the Gulf state were intercepted by the system.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "Palestinians",
+        "Iron Dome",
+        "Miri Regev"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.washingtonpost.com/world/2026/07/04/khamenei-funeral-supreme-leader-iran-us-war-july-5-2026/94aeaee2-7824-11f1-b665-5f8be87f3787_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
     }
   },
   "last_run_success": true,

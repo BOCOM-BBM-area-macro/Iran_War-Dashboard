@@ -30528,11 +30528,71 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-05"
+    },
+    "https://www.ft.com/content/f1fe0dae-d22b-4284-b0f9-fa10f717af1c?syn-25a6b1a6=1": {
+      "summary": "Survey shows conflict is dragging down president’s approval ratings ahead of November midterms",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.washingtonpost.com/world/2026/07/05/families-children-killed-iran-school-bombing-join-leaders-funeral-tehran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.ft.com/content/a3dedf8e-f0fa-4646-a18e-5842c7359e3c?syn-25a6b1a6=1": {
+      "summary": "Mojtaba Khamenei does not join other top leaders and sons alongside coffin of slain supreme leader",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
+    },
+    "https://www.timesofisrael.com/3-of-khameneis-sons-join-top-leaders-at-tehran-funeral-but-not-his-successor-mojtaba/": {
+      "summary": "Iranian poet leads chants of 'Death to Israel' and 'Death to America,' threatens Trump's life in address to crowd, as mourners declare fealty to new leader and express desire for revenge",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-05",
-  "last_generated_time": "2026-07-05T11:02:17.225434+00:00",
+  "last_generated_time": "2026-07-05T13:02:20.625968+00:00",
   "digest": {
     "digest": "Iran is holding a multi-day funeral for its Supreme Leader, Ali Khamenei, who was killed during the recent war. Massive crowds have gathered in Tehran to mourn his death, with his body expected to be transported to other Shi'ite centers. Notably, his son Mojtaba Khamenei, who was reportedly wounded at the beginning of the war, was barred from attending the funeral due to assassination fears, and did not appear alongside his three brothers. This event highlights potential divisions among Iran's leadership despite the outward display of unity. In parallel, Israel confirmed the deployment of an Iron Dome system and IDF soldiers to the UAE during the war, which successfully intercepted Iranian missiles targeting the Gulf state. This deployment underscores the deepening security cooperation between Israel and the UAE in the face of regional threats. Meanwhile, assessments suggest Iran's regime has survived the war and emerged more hard-line and ruthless, indicating a potentially more challenging geopolitical landscape moving forward.",
     "top_themes": [
@@ -30687,6 +30747,34 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "A Sudden Glut of Oil Threatens to Weaken Iran’s Hand in Talks - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczd6bXBBdWZ2QnhMd09sNF9xdUV5cENkX0xZbXFqMW0zcVpnTmRaTUQ2QzRteWlSeE9uZWlzSVN1MHQxZVNQTnBmX2xwTHNVZWszRmJfeFBlV05sVDlOTnJtbGJjQ3hCX3hHWm9nNTJYTWRibVVCM2xNTDN0Mm9XcjFFOFdsR3VQQ3dEa3JNMTJKYi1PZ0s0Qmk2LWhkUWxFLVloSjNyUC1vazJoNk5qeUhLS1h4NnZW?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 05, 2026 · 10:54 BRT",
+          "pub_date": "2026-07-05",
+          "pub_ts": 1783259640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zSGh4ZUo4WnhrVTNaRlNxWDdOOHdkbzI5enZFMF9sVk5PVzc1SENHTDFBTEFQaWNhSm5VbTQxR3dacmdyUnlMZWRtUVM3enpydjl4VXdEOTJMVzBfMHNnMVdXOVVqaXY1STBlWEp1TXIySjFab0l6OEdJZkRkdw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 05, 2026 · 09:50 BRT",
+          "pub_date": "2026-07-05",
+          "pub_ts": 1783255845,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil market opens up as retail traders pour in - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHZYWXd1TzVYdlBEU3FUNXBTc2NyUkZzS1Y4NTM3eEhhenN5X3ZVX1ZFYlgzcjlwcnd5WVNNUkt2LUpwVi16QnV6RFdPbS1ETVBpWG1EbFUxT1pYSjRLRHVTSkZqY2JMZ1VKVUVWdFA4WEMwbEZCRWoxNDVJZDYwSzJ5MUw?oc=5",
           "source": "Financial Times",
@@ -30695,6 +30783,20 @@
           "published": "Jul 05, 2026 · 01:02 BRT",
           "pub_date": "2026-07-05",
           "pub_ts": 1783224138,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil’s Supply Wave, Tumbling Prices Rekindle Fears of Global Glut - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVdYQlQzOEh5N2RfUmNRQmdMNFdhSG5LaW8yNVFPbDJTVjBuUk00S2wxb2lDaTlZVHQyNDEzbU5zRDBBbXl6aDI5V2FweGZtYzVGZ0YyeEU4cDBLeTFFRmdTMmNKWkRfQmxEbjkweTVlRmN2VnJRZ3gyNHVBc2RlS3N5eVlnMFp6YTJLV0ZQTS1veC1FREJsVlNwaVQwemY1Qk56ZUd4bDRTNm8?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 04, 2026 · 09:31 BRT",
+          "pub_date": "2026-07-04",
+          "pub_ts": 1783168266,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

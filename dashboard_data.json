@@ -30309,7 +30309,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-05"
+      "pub_date": "2026-07-06"
     },
     "https://www.reuters.com/world/middle-east/yemens-armed-forces-threaten-saudi-targets-over-iran-flight-sanaa-2026-07-03/": {
       "summary": "",
@@ -30643,7 +30643,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-05"
+      "pub_date": "2026-07-06"
     },
     "https://www.washingtonpost.com/world/2026/07/05/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026/11ecd25e-78e7-11f1-b194-f872dd4ec5aa_story.html": {
       "summary": "",
@@ -30730,106 +30730,57 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-05"
+    },
+    "https://www.reuters.com/world/middle-east/iranian-mourners-call-vengeance-trump-during-khamenei-funeral-procession-2026-07-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-07-05",
-  "last_generated_time": "2026-07-05T23:02:45.096857+00:00",
+  "last_generated_date": "2026-07-06",
+  "last_generated_time": "2026-07-06T08:02:27.821938+00:00",
   "digest": {
-    "digest": "Iran is holding a multi-day funeral for its Supreme Leader, Ali Khamenei, who was killed during the recent war. Massive crowds have gathered in Tehran to mourn his death, with his body expected to be transported to other Shi'ite centers. Notably, his son Mojtaba Khamenei, who was reportedly wounded at the beginning of the war, was barred from attending the funeral due to assassination fears, and did not appear alongside his three brothers. This event highlights potential divisions among Iran's leadership despite the outward display of unity. In parallel, Israel confirmed the deployment of an Iron Dome system and IDF soldiers to the UAE during the war, which successfully intercepted Iranian missiles targeting the Gulf state. This deployment underscores the deepening security cooperation between Israel and the UAE in the face of regional threats. Meanwhile, assessments suggest Iran's regime has survived the war and emerged more hard-line and ruthless, indicating a potentially more challenging geopolitical landscape moving forward.",
+    "digest": "The passing of Supreme Leader Ayatollah Ali Khamenei has dominated recent events, with his funeral procession drawing large crowds and calls for vengeance against the United States. The succession process is underway, with his sons appearing at the funeral, though a clear successor has not been designated. This leadership transition occurs amidst ongoing regional tensions, as Israel monitors the situation closely, fearing renewed fighting and viewing parts of the funeral ceremony as an attempt to legitimize Mojtaba Khamenei's potential rise. The war's impact on global oil markets continues to be felt, with depleted stocks posing risks despite OPEC Plus pledges to increase production and a potential glut threatening to weaken Iran's negotiating position. Economically, the war's effects are starting to fade in some sectors, such as German factory orders and alternative-fuel vehicle market share reaching record highs. However, a significant portion of Americans perceive the war as not economically worthwhile and believe it has weakened the U.S. position. Meanwhile, incidents like a cargo vessel attack off Yemen's coast underscore persistent maritime security concerns in the region.",
     "top_themes": [
-      "Iran Leader's Funeral and Succession",
-      "Israel-UAE Security Cooperation",
-      "Post-War Iranian Regime Dynamics"
+      "Iran's Leadership Transition",
+      "Global Oil Market Dynamics",
+      "Regional Security Concerns"
     ],
     "next_events": [
       {
-        "title": "Iranian Leadership Stability and Succession",
-        "description": "The recent death of Ali Khamenei and the conspicuous absence of the current Supreme Leader, Mojtaba Khamenei, from his father's funeral, citing assassination fears and prior injury, suggest potential instability. Analysts should monitor for signs of a power vacuum, internal power struggles, or challenges to Mojtaba Khamenei's authority, which could impact Iran's domestic and foreign policy."
+        "title": "Iran's Post-Khamenei Leadership and Stability",
+        "description": "The ongoing funeral ceremonies for Ayatollah Ali Khamenei are being used to project strength and potentially normalize Mojtaba Khamenei's status. Analysts should monitor the succession process, the influence of various factions like Kataib Hezbollah, and any signs of internal dissent or consolidation of power that could impact Iran's future trajectory."
       },
       {
-        "title": "Iran's Post-War Regional Posture and Actions",
-        "description": "Following the war, Iran's regime is described as more ruthless and hard-line, with funeral chants explicitly targeting the US and Israel. Discussions about potentially handing the Strait of Hormuz to Iran signal a continued assertive and potentially aggressive posture in the region. Analysts should watch for increased Iranian military activities, proxy support, or challenges to international shipping lanes, particularly in the Strait of Hormuz."
+        "title": "Intensification of Regional Proxy Conflicts",
+        "description": "With reports of cargo vessels under attack off Yemen and Israel's fears of renewed fighting, the region remains volatile. Watch for increased proxy activities, direct or indirect confrontations involving Iran and its adversaries, and the deployment of military assets like the Iron Dome, which could signal a broader escalation of hostilities."
       },
       {
-        "title": "Israel's Evolving Strategy Towards Iran",
-        "description": "Former Israeli Prime Minister Lapid's suggestion to have bombed Iran's oil infrastructure during the war, coupled with the confirmed deployment of the Iron Dome to the UAE, highlights Israel's proactive and potentially escalatory approach. Analysts should monitor for any shifts in Israel's military doctrine, intelligence operations, or overt/covert actions targeting Iranian assets or capabilities, especially regarding its nuclear program or regional proxies."
+        "title": "Global Oil Market Volatility and Iran's Economic Position",
+        "description": "The 'Iran war' has significantly impacted global oil supplies, leading to depleted stocks and pledges from OPEC Plus to pump more amidst falling prices. A sudden glut of oil could weaken Iran's hand in international talks. Monitor oil prices, production levels, and global energy policies as these factors will directly influence Iran's economic stability and its leverage on the world stage."
       },
       {
-        "title": "Internal Divisions within Iran's Leadership",
-        "description": "Despite the public display of unity during the Supreme Leader's funeral, reports indicate deep divisions among Iran's leadership. These internal rifts, potentially exacerbated by the succession process and the war's aftermath, could lead to policy inconsistencies or internal instability. Analysts should look for signs of factionalism, purges, or shifts in key governmental and military appointments that could signal a change in the regime's direction or resilience."
+        "title": "International Diplomatic Engagement and Alliance Shifts",
+        "description": "The 'Iran War' continues to loom over international forums like the NATO Summit, and public opinion in key nations like the US indicates a weariness with the conflict. Observe diplomatic efforts, potential shifts in international alliances, and the rhetoric from global powers, as these will shape the geopolitical response to Iran and the broader Middle East."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Israel sent dozens of IDF soldiers, Iron Dome system to UAE during Iran war, minister confirms - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-901422",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jul 05, 2026 · 03:12 BRT",
-      "pub_date": "2026-07-05",
-      "pub_ts": 1783231939,
-      "summary": "Dozens of Iranian missiles fired towards the Gulf state were intercepted by the system.",
-      "tags": [
-        "Benjamin Netanyahu",
-        "Iran",
-        "Palestinians",
-        "Iron Dome",
-        "Miri Regev"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran’s leader was killed in February. The country will finally bury him. - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/07/03/iran-begins-funeral-rites-ali-khamenei-supreme-leader-killed-war/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 04, 2026 · 14:40 BRT",
-      "pub_date": "2026-07-04",
-      "pub_ts": 1783186801,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran’s regime survived the war and is now savvier, ruthless and more hard-line - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/07/04/irans-new-leadership-is-younger-savvier-ruthless-even-more-hardline/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 04, 2026 · 13:00 BRT",
-      "pub_date": "2026-07-04",
-      "pub_ts": 1783180800,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Mass grief in Iran at Khamenei funeral after US, Israel war killing - Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/iranians-flock-week-long-funeral-rites-khamenei-2026-07-04/",
+      "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
+      "url": "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 04, 2026 · 08:02 BRT",
-      "pub_date": "2026-07-04",
-      "pub_ts": 1783162920,
+      "published": "Jul 06, 2026 · 04:47 BRT",
+      "pub_date": "2026-07-06",
+      "pub_ts": 1783324074,
       "summary": "",
       "tags": [
         "extracted",
@@ -30841,18 +30792,36 @@
       "sentiment_success": false
     },
     {
-      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+      "title": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 04, 2026 · 13:12 BRT",
-      "pub_date": "2026-07-04",
-      "pub_ts": 1783181544,
-      "summary": "",
+      "published": "Jul 05, 2026 · 12:52 BRT",
+      "pub_date": "2026-07-05",
+      "pub_ts": 1783266725,
+      "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/05/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026/11ecd25e-78e7-11f1-b194-f872dd4ec5aa_story.html",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 06, 2026 · 07:44 BRT",
+      "pub_date": "2026-07-06",
+      "pub_ts": 1783334664,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -30860,24 +30829,62 @@
       "sentiment_success": false
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-07-05/live-updates-901406",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jul 04, 2026 · 21:00 BRT",
-      "pub_date": "2026-07-04",
-      "pub_ts": 1783209605,
-      "summary": "Mojtaba Khamenei banned from attending father's funeral over assasination fears • Trump, Netanyahu discuss possible White House visit • Former Israeli amb. to US calls MoU 'massive surrender to Iran'",
+      "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iranian-mourners-call-vengeance-trump-during-khamenei-funeral-procession-2026-07-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 06, 2026 · 07:19 BRT",
+      "pub_date": "2026-07-06",
+      "pub_ts": 1783333166,
+      "summary": "",
       "tags": [
-        "Israel",
-        "Benjamin Netanyahu",
-        "Iran",
-        "Ayatollah Ali Khamenei",
-        "Tehran"
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel fears renewed Iran fighting as it monitors Khamenei's funeral - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-901547",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jul 06, 2026 · 07:12 BRT",
+      "pub_date": "2026-07-06",
+      "pub_ts": 1783332774,
+      "summary": "Security officials also told Walla that they view parts of the ceremony as an effort to normalize and validate the status of Mojtaba Khamenei.",
+      "tags": [
+        "Iran",
+        "Ayatollah Ali Khamenei",
+        "Tehran",
+        "IRGC",
+        "Mojtaba Khamenei"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/three-sons-irans-slain-leader-khamenei-appear-funeral-not-his-successor-2026-07-05/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 05, 2026 · 04:06 BRT",
+      "pub_date": "2026-07-05",
+      "pub_ts": 1783235160,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -48547,7 +48554,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-07-05T11:11:29.808326+00:00",
-  "last_watch_time": "2026-07-05T11:11:37.955907+00:00",
-  "last_relevant_time": "2026-07-05T11:11:38.760340+00:00"
+  "last_digest_time": "2026-07-06T11:08:56.316173+00:00",
+  "last_watch_time": "2026-07-06T11:09:03.505458+00:00",
+  "last_relevant_time": "2026-07-06T11:09:14.166289+00:00"
 }

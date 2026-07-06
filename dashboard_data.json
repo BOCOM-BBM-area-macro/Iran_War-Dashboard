@@ -30090,7 +30090,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-03"
+      "pub_date": "2026-07-04"
     },
     "https://www.wsj.com/world/middle-east/iran-supreme-leader-khamenei-funeral-7e1ad603": {
       "summary": "",
@@ -30650,6 +30650,19 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-901537": {
+      "summary": "His funeral, delayed due to the ongoing war, began on Saturday with chants of \"death to America, death to Israel,\" while the ceremonies are expected to last at least a week.",
+      "tags": [
+        "Iran",
+        "Ayatollah Ali Khamenei",
+        "funeral",
+        "Operation Epic Fury",
+        "Operation Roaring Lion"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -44351,6 +44364,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "EasyJet Accepts Castlelake’s $5 Billion Bid in Principle - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFFzeWZmWnRfSTZySENRVUswbVRwWDkzTWJ1YjZyNkVVVC1DTExrbV80RWt4WG9mcWdHWC03WFg4Uk1WUDVsR2tUUmV3eVpLc3VsNDNUMGptdEEtSmoybUtpVUxheVBFUGJtQ3c2U0R3WTgzVDhUSjZ1OGViZk84aDVpeFhaeVJTR0JsemZWRW5jSU1aOTJuc3ZwRl9sYncxMEVvUmNZZUIzd0xpWGlkOHBzbHcwbFkwSjRv?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 05, 2026 · 21:00 BRT",
+          "pub_date": "2026-07-05",
+          "pub_ts": 1783296000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India's IndiGo launches cheaper tickets for passengers with cabin baggage only - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUpWbjVqTXJTVXN1Q2xRbnc4VHIxNzQ0U09UN1Jaamhzd1A5Q196RE5JNEx1dGFEUG5BZ3dqX1dCeU1ET3ltbFRzbWVyNWxnOGtWUlFLbnpKM0psaFFiLU1lenA1UVU2QjlvM09yTTdRRmF4aUpZc2hpWG9TUHFIM2RzZDFCVEFWUUI2bW04Y3A2VEw0RFRlMWxBR0dNSC1EWEM4ODE5ZXFPdUhzcEVna0NzT2J1WkFxb24zMjJ3?oc=5",

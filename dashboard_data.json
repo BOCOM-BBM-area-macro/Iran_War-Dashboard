@@ -30643,7 +30643,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-05"
+      "pub_date": "2026-07-06"
     },
     "https://www.washingtonpost.com/world/2026/07/05/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026/11ecd25e-78e7-11f1-b194-f872dd4ec5aa_story.html": {
       "summary": "",
@@ -30687,6 +30687,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-06"
+    },
+    "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
+    },
+    "https://www.reuters.com/world/middle-east/irans-musicians-struggle-with-wartime-disruption-internet-blackouts-2026-07-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-901547": {
+      "summary": "Security officials also told Walla that they view parts of the ceremony as an effort to normalize and validate the status of Mojtaba Khamenei.",
+      "tags": [
+        "Iran",
+        "Ayatollah Ali Khamenei",
+        "Tehran",
+        "IRGC",
+        "Mojtaba Khamenei"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
+    },
+    "https://www.wsj.com/finance/commodities-futures/a-sudden-glut-of-oil-threatens-to-weaken-irans-hand-in-talks-adfcf7c0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-05"
     }
   },
   "last_run_success": true,
@@ -30845,6 +30888,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWZSMXB6NXpuMkgtV3ZhdDlhTmFvS2gybVlDcWFqNzlJUk16QnFtUnVEMkFpY1hMcFJlNW42V2JHSGZ0Q1FpNWFycnR0YW9Xdy1lVVQ2Vm53V1liVDd2ZlRpWkdIMjQ4OW1LOWxfLWdmcUc1ck5VZlViSmdydGxtdllHUGpvckllVDZSLXpQcjlveVZNeEVQQTBiMzVVeW0wVjlLeGRCTjczd3B5NFQ2TUpMbGtBZHNHcUdNOXNtSG1uVFNLWHc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 04:36 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783323369,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Supertanker Tycoon Making Millions on Hormuz Shuttle Runs - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVgwR25fY2VCYVEzNmNKdkZOQ1ZMX0ZYdDNCRVd1aUxDYk51ZlVVNmhoSFRsMmJYUzQ2cXRmTTNUNW1zSmtrQVNROVBzQnhYNDM1MHhaYk9hN1NaOGpzX0xmbmNXYXZKc0JaRkl3U19EeEk4TXVweExOQVFyT3FDQU8wQ0hjT3Z1MWV3RUpLUkdDMzR2bnFGMDBNaE0yaVNjYWNoeDZhQWMwOG5qa19FbDVB?oc=5",

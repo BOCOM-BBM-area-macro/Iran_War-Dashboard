@@ -30643,7 +30643,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-07"
+      "pub_date": "2026-07-06"
     },
     "https://www.washingtonpost.com/world/2026/07/05/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026/11ecd25e-78e7-11f1-b194-f872dd4ec5aa_story.html": {
       "summary": "",
@@ -30789,7 +30789,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-06"
+      "pub_date": "2026-07-05"
     },
     "https://www.jpost.com/health-and-wellness/article-901618": {
       "summary": "Many children have experienced traumatic responses since the war began, which can manifest in anxiety, speech disorders, and other blockages.",
@@ -30958,7 +30958,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-06"
+      "pub_date": "2026-07-07"
     },
     "https://www.axios.com/2026/07/07/iran-resumes-hormuz-attacks-us-officials": {
       "summary": "",
@@ -30968,7 +30968,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-07"
+      "pub_date": "2026-07-06"
     },
     "https://www.reuters.com/business/tsx-futures-tick-higher-oil-prices-retreat-2026-07-06/": {
       "summary": "",
@@ -30985,6 +30985,49 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.axios.com/2026/07/07/trump-nato-iran-war-grudge": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-07/iran-war-opens-brief-refinancing-window-for-europe-chemicals-firms-lazard-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-901679": {
+      "summary": "Araghchi was likely responding to a Monday interview where US President Donald Trump threatened Iran, saying, \"We're going to make a deal, or we're going to finish the job.\"",
+      "tags": [
+        "Foreign Ministry",
+        "Iran",
+        "iran deputy foreign minister",
+        "us iran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-07/shell-signals-strong-oil-and-gas-trading-profit-on-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -31144,6 +31187,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Shell Signals Strong Oil and Gas Trading Profit on Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTAtTzBqeF9DV25VdkhqVlpidVFqQTZMdWdDclFQYWlqMllneWFmMGhpdllNQ19ZckZBRVlNMkRqUXlzUTdzektqMW0xbnYxN2wweC1SMXR2RG1hQ2xJWVl6MVl3Mi1fY3FFOUVKYXRrNmpjNFBIS2VZaG96RUdYdVVDNmZBMVVVU2lYNS1UaGhEaHBUdHphUFFMRldqckRsZVJfWEFjS0d4T1BpSDlr?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 03:08 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783404480,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Has Oil-Rich Alaska Freaked Out About $9 Gas - WSJ",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXI1azZFa1NJWk5DeEpicVhwWGJBa3ZkLWFzWFZKNGJkRjVBb1VPTXJlZjRwTFVqdWJFUmVGaElGSW1jZWQtbVVUbnVnd0M0aDRJX1pPYnRiNWl3WldwTEtla1R0YlNnR1o2ZEFQTDlfb3BTeFR0cVBhaG8xNHRybg?oc=5",
@@ -42144,6 +42201,34 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Qatari LNG tanker badly damaged after being hit in Strait of Hormuz, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFSZk5WeEJaVV96QWl0TDFIZDJUNWFlNTVkNERLdkxfYlVuY2paaS1KbkFHaDB6dkpEeVQ0ZXlLLW1RTXlBTmN2XzBPaklObVJ1VzdpWkFVTDhIYWFNbWlRdDVWZDJkZF9BY0FlNmJHaDBPbmY5ZTVDMEw3M0ozbjN5N2ljem83ZVBQZ3BhUEc4VTZBYmNZVnBiTVFoWUJUdml0dEdOUVYtMG02VEJKQUhMaUZSSnJuWmc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 06:11 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783415466,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran’s Revolutionary Guard Fires Missiles at Ships Near Hormuz - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXptTnNYdkpkaHlOVGEzOXRuYnVVVDRlQW1USXZCUlhVLXJSaTVLYmh5bk9Zc0Z1UXViMDlCcnhMU2NWM095RTRjN0xTRHRsLUNodmNZNl9GVFZPUEgxcTRic0pNOE4zVlNNRXp5dndscHZIWWVMV1JZVFRrbDBkMG5KZ2NveFpfYmNlZlVRYVFwQnBURVJiNlROOA?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 04:48 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783410480,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "AB Foods warns of more sugar losses as Iran war lifts gas costs - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFAyYnVCMXBXU2FZMzl3U0p4bmhzZUdoRlhWM2ZGeENHMm1FMTVGZzBoOTRkbzVjQUg2OE8zNWhtYXdKcW0wREQzSUdGUUh2YkwxdXpoRDVmYmM1bTRjY05PcmZwT2xzSWlpZmgxVEdnWmNETTBxSG1HamZsODZWazd0Y0pjVjhCR2Vqbi0xb1VpRGtMb2RWdlhncmNIMDJ3bWJ3VzNBelpkTWd3aXZKZW80MnBGRnNK?oc=5",

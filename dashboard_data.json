@@ -31125,11 +31125,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-07/us-sees-global-oil-output-flows-back-at-pre-war-level-by-2027": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.washingtonpost.com/world/2026/07/07/khameneis-funeral-highly-scripted-show-public-mourning-fury/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-07/iran-tells-un-it-has-right-to-control-parts-of-hormuz-strait": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-07",
-  "last_generated_time": "2026-07-07T14:02:38.023452+00:00",
+  "last_generated_time": "2026-07-07T15:02:39.432464+00:00",
   "digest": {
     "digest": "Recent events indicate a significant escalation of tensions in the Strait of Hormuz, with Iran's Revolutionary Guard firing missiles at ships and a Qatari LNG tanker sustaining damage. These attacks follow a lull and test a potential US-Iran cease-fire. Diplomatic exchanges reveal a hardening stance from both sides; President Trump has stated there will either be a deal with Iran or the US will 'finish the job,' a sentiment echoed by Iranian FM Araghchi who threatened to halt talks if US threats continue. The funeral procession for Khamenei saw mourners calling for vengeance on Trump, signaling defiance and a potential shift in the regional order. The global oil market is absorbing significant supply losses, though depleted stocks pose future risks, with some companies like Shell signaling strong trading profits. Conversely, oil prices have settled at pre-Iran war levels, impacting markets like the TSX. A new report suggests Iran targeted civilians as a tactic of war, pushing for IRGC accountability. The ongoing conflict is also impacting European chemicals and causing concern over potential gas price increases in regions like Alaska.",
     "top_themes": [
@@ -31286,6 +31316,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US Sees Global Oil Output, Flows Back at Pre-War Level By 2027 - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0NUT2RUR0hLSlluZ0VUS25NcEY1SFNReU01S1BsNkhSLWdWMVU1cjBhVXhCSkNJSF8tUTZSTlA2WlM5VXVDb2dtcDlTOW12b0ExbGdkYUNiVFl1Vmk5MmJTVEkyWjRQSEtXNS1TdFVBSUJtb01LdjNobmNnTkZQUmdQUjQtcnhfZ3E0ZHd0c25aek9uS1FFY3VjQlE1UERLQjREQlVxN0VhS1Z2cmFMdzFR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 14:40 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783446050,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Qatar blames Iran for striking tanker in strait as huge crowds mourn Khamenei - Reuters",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVhY1RZUlFOQjM4aHdQa05DS0JCT0tfV3gxOUlqTGVFbWVTQnVhbUdDVElDMmxmVm1mUGZyOEQ5bGt1b1JmSGM3Mm1RNGZWdjFpei1wX1hXOFRXcXoxMDBmVy1SM1lMVEQ5U3E0RWNKbHJjTVlGSEd3RnZ1dmFIcWFjUFVhdDQxWjliNTZMMHkzX25IaXVreFRGN09qZ2k0VGxhVDNsTXlrV2pZTERKTmR0N2szZGZsZHB6V3lCWU1xZ0JQZXE0SFhlOWo?oc=5",

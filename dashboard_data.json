@@ -30959,6 +30959,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-06"
+    },
+    "https://www.axios.com/2026/07/07/iran-resumes-hormuz-attacks-us-officials": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.reuters.com/business/tsx-futures-tick-higher-oil-prices-retreat-2026-07-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
     }
   },
   "last_run_success": true,
@@ -31123,6 +31143,34 @@
           "published": "Jul 06, 2026 · 22:00 BRT",
           "pub_date": "2026-07-06",
           "pub_ts": 1783386000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices gain as focus shifts to supply recovery and demand - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjZCV2V0UjBnQVQwWi1tTUNISGRvT3JTRGJodTlLNHVGcWQ4YkU5ZXRsMlBNb2lCSHJtUFAtUWx2c2hkZzVadmgxSVFncmRObHVQMGZITVNncS1nNXRDcEdfYkd4Wl9kT0ZINDFDUUU2cWV6eVdjcVdLUkJoRDlnR2FhSjdMYWRoM3N0bUw0aVJHRVgzcWlVNUpkWTdFUHVMbHlaMS1R?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 21:53 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783385580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "TSX slips as gold falls, oil prices settle at pre-Iran war levels - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWppQ194em8yQUxCanJrWnZucUpTVjIycXhTQjFTdFpzb3B6eHRSazktZ0hsaXUtelpUaFZkWlRVMktwRWsySmE1NlRqcHdMR3FZRWJoSXYwRWxSV2lDU2FVdHlUeWt3TGQ3Q0tCSlZLeUVkT212c1FKck14YjUzOVZ0UVJfWkI2cjZvV1k3dGo?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 17:35 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783370101,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

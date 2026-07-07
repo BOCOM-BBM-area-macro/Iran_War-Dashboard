@@ -30929,11 +30929,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-06"
+    },
+    "https://www.wsj.com/world/middle-east/irgc-fires-missiles-at-ships-in-strait-of-hormuz-c3fbadd0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
+    },
+    "https://www.wsj.com/business/energy-oil/alaska-gas-prices-iran-war-afbdaed8": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-06",
-  "last_generated_time": "2026-07-06T22:02:46.621304+00:00",
+  "last_generated_time": "2026-07-06T23:02:29.258836+00:00",
   "digest": {
     "digest": "The passing of Supreme Leader Ayatollah Ali Khamenei has dominated recent events, with his funeral procession drawing large crowds and calls for vengeance against the United States. The succession process is underway, with his sons appearing at the funeral, though a clear successor has not been designated. This leadership transition occurs amidst ongoing regional tensions, as Israel monitors the situation closely, fearing renewed fighting and viewing parts of the funeral ceremony as an attempt to legitimize Mojtaba Khamenei's potential rise. The war's impact on global oil markets continues to be felt, with depleted stocks posing risks despite OPEC Plus pledges to increase production and a potential glut threatening to weaken Iran's negotiating position. Economically, the war's effects are starting to fade in some sectors, such as German factory orders and alternative-fuel vehicle market share reaching record highs. However, a significant portion of Americans perceive the war as not economically worthwhile and believe it has weakened the U.S. position. Meanwhile, incidents like a cargo vessel attack off Yemen's coast underscore persistent maritime security concerns in the region.",
     "top_themes": [
@@ -31084,6 +31104,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The Iran War Has Oil-Rich Alaska Freaked Out About $9 Gas - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXI1azZFa1NJWk5DeEpicVhwWGJBa3ZkLWFzWFZKNGJkRjVBb1VPTXJlZjRwTFVqdWJFUmVGaElGSW1jZWQtbVVUbnVnd0M0aDRJX1pPYnRiNWl3WldwTEtla1R0YlNnR1o2ZEFQTDlfb3BTeFR0cVBhaG8xNHRybg?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 22:00 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783386000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Russia Oil Price Falls to Pre-Iran War Level in Blow to Kremlin - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUpGeVpXVzVLcmdCTm8zR2pISk8zZVVIYUxFR3hna2dNWlVwNFRZbVh2UjduekM4OU5qSE9sNHV2NTdPWndoQUNSR2ppelZKbU5KdThCbFhTTkNHRUZ3aVVQRkJDRU9CZEpta05yV2VLYUJsd011TDU1ZkhMd0dYQm1SMGY3dlN6MmR6VHoxZVVkc2QteHQzUDdQdUdfUF9GemN2bFp0dXVyRXN0ZFlqcUtpR2w?oc=5",
@@ -44693,6 +44727,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Jet-Fuel Prices Have Plunged but Aren’t Resulting in Much Lower Fares - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVZ5QlBISjJzckFxREJ5OVZxZzFseXl2WGlxUkxIQTVVREFGNFRpaHY5VnRyYnh4QWdENjJpaEpfZzg0NWpVOHBGdVpXdnl2MVdKWGYxaEZHb0RxaEpKcUFSTFpqUW10QW0tWldiQWYtczVKUTRkUEdybUw1RFItLTB4SXljNmxEUk93VEE1R3NQTHRHM2VNSVBkRWdadnhQMFAzRjZLNGVHWmdGWEpWdmMyYzR1QQ?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 22:00 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783386000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Air Canada halts, delays several flight routes to U.S. destinations amid high fuel costs - CBC",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91UGhWSmNBdWhvRnBFaTl3ekpveWZHcVdvYkhrMzRLMlM2R1lxaktFdkw1MDYzT0U2Yi00ZjZyTFlJTmYxM2V0d0Q2SGZ5ZHRvekREa0VqVmhFZ1NFVkJSLTVvb0NFbS1STGRLRVVYSXREY3FXNm45SGc5Y3FSZ2c?oc=5",

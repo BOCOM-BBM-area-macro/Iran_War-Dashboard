@@ -30968,7 +30968,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-06"
+      "pub_date": "2026-07-07"
     },
     "https://www.reuters.com/business/tsx-futures-tick-higher-oil-prices-retreat-2026-07-06/": {
       "summary": "",
@@ -31032,51 +31032,66 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-07"
+    },
+    "https://www.reuters.com/world/middle-east/gulf-bourses-mixed-ahead-earnings-weak-oil-us-iran-tensions-2026-07-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-07-06",
-  "last_generated_time": "2026-07-06T23:02:29.258836+00:00",
+  "last_generated_date": "2026-07-07",
+  "last_generated_time": "2026-07-07T08:02:34.717945+00:00",
   "digest": {
-    "digest": "The passing of Supreme Leader Ayatollah Ali Khamenei has dominated recent events, with his funeral procession drawing large crowds and calls for vengeance against the United States. The succession process is underway, with his sons appearing at the funeral, though a clear successor has not been designated. This leadership transition occurs amidst ongoing regional tensions, as Israel monitors the situation closely, fearing renewed fighting and viewing parts of the funeral ceremony as an attempt to legitimize Mojtaba Khamenei's potential rise. The war's impact on global oil markets continues to be felt, with depleted stocks posing risks despite OPEC Plus pledges to increase production and a potential glut threatening to weaken Iran's negotiating position. Economically, the war's effects are starting to fade in some sectors, such as German factory orders and alternative-fuel vehicle market share reaching record highs. However, a significant portion of Americans perceive the war as not economically worthwhile and believe it has weakened the U.S. position. Meanwhile, incidents like a cargo vessel attack off Yemen's coast underscore persistent maritime security concerns in the region.",
+    "digest": "Recent events indicate a significant escalation of tensions in the Strait of Hormuz, with Iran's Revolutionary Guard firing missiles at ships and a Qatari LNG tanker sustaining damage. These attacks follow a lull and test a potential US-Iran cease-fire. Diplomatic exchanges reveal a hardening stance from both sides; President Trump has stated there will either be a deal with Iran or the US will 'finish the job,' a sentiment echoed by Iranian FM Araghchi who threatened to halt talks if US threats continue. The funeral procession for Khamenei saw mourners calling for vengeance on Trump, signaling defiance and a potential shift in the regional order. The global oil market is absorbing significant supply losses, though depleted stocks pose future risks, with some companies like Shell signaling strong trading profits. Conversely, oil prices have settled at pre-Iran war levels, impacting markets like the TSX. A new report suggests Iran targeted civilians as a tactic of war, pushing for IRGC accountability. The ongoing conflict is also impacting European chemicals and causing concern over potential gas price increases in regions like Alaska.",
     "top_themes": [
-      "Iran's Leadership Transition",
-      "Global Oil Market Dynamics",
-      "Regional Security Concerns"
+      "Strait of Hormuz Tensions",
+      "Oil Market Volatility",
+      "Iran's Regional Stance",
+      "US-Iran Diplomatic Relations"
     ],
     "next_events": [
       {
-        "title": "Iran's Post-Khamenei Leadership and Stability",
-        "description": "The ongoing funeral ceremonies for Ayatollah Ali Khamenei are being used to project strength and potentially normalize Mojtaba Khamenei's status. Analysts should monitor the succession process, the influence of various factions like Kataib Hezbollah, and any signs of internal dissent or consolidation of power that could impact Iran's future trajectory."
+        "title": "Escalation of Attacks in the Strait of Hormuz",
+        "description": "Recent reports indicate renewed attacks on ships, including a Qatari LNG tanker, in the critical Strait of Hormuz. Analysts should monitor the frequency and severity of these incidents, as they directly impact global energy supplies and could trigger a broader military response, potentially disrupting international trade routes."
       },
       {
-        "title": "Intensification of Regional Proxy Conflicts",
-        "description": "With reports of cargo vessels under attack off Yemen and Israel's fears of renewed fighting, the region remains volatile. Watch for increased proxy activities, direct or indirect confrontations involving Iran and its adversaries, and the deployment of military assets like the Iron Dome, which could signal a broader escalation of hostilities."
+        "title": "US-Iran Diplomatic Engagement and 'Finish the Job' Ultimatum",
+        "description": "President Trump has threatened to 'finish the job' if a deal isn't reached, while Iran's FM has threatened to halt talks if US threats continue. Watch for any direct or indirect communication channels, the nature of any proposed deals, and whether either side escalates rhetoric or actions that could lead to a breakdown in potential diplomacy or military confrontation."
       },
       {
-        "title": "Global Oil Market Volatility and Iran's Economic Position",
-        "description": "The 'Iran war' has significantly impacted global oil supplies, leading to depleted stocks and pledges from OPEC Plus to pump more amidst falling prices. A sudden glut of oil could weaken Iran's hand in international talks. Monitor oil prices, production levels, and global energy policies as these factors will directly influence Iran's economic stability and its leverage on the world stage."
+        "title": "Iranian Internal Political Dynamics and Succession",
+        "description": "Following Khamenei's funeral, marked by calls for vengeance and defiance, but also simmering discontent, Iran's internal political landscape is crucial. Analysts should observe any signs of power struggles, shifts in hardline or reformist influence, and how these internal dynamics might translate into changes in Iran's regional and international policies."
       },
       {
-        "title": "International Diplomatic Engagement and Alliance Shifts",
-        "description": "The 'Iran War' continues to loom over international forums like the NATO Summit, and public opinion in key nations like the US indicates a weariness with the conflict. Observe diplomatic efforts, potential shifts in international alliances, and the rhetoric from global powers, as these will shape the geopolitical response to Iran and the broader Middle East."
+        "title": "Sustained Volatility in Global Oil and Gas Markets",
+        "description": "The 'Iran War' has already led to historic oil supply losses and freaked out oil-rich regions like Alaska. Monitor crude oil prices, strategic reserve levels, and the performance of energy companies, as continued instability in the Middle East could lead to further price spikes, supply chain disruptions, and significant economic repercussions globally."
+      },
+      {
+        "title": "International Pressure and Accountability for IRGC Actions",
+        "description": "A new report highlights Iran's targeting of civilians as a war tactic and pushes for IRGC accountability. Watch for increased international calls for sanctions, legal actions against Iranian leaders, or coordinated efforts by global powers to address Iran's military and proxy activities, which could further isolate Tehran."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
-      "url": "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 06, 2026 · 04:47 BRT",
-      "pub_date": "2026-07-06",
-      "pub_ts": 1783324074,
+      "title": "Iran’s Revolutionary Guard Fires Missiles at Ships Near Hormuz - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/irgc-fires-missiles-at-ships-in-strait-of-hormuz-c3fbadd0",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 07, 2026 · 04:48 BRT",
+      "pub_date": "2026-07-07",
+      "pub_ts": 1783410480,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -31084,51 +31099,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
+      "title": "New Strikes on Ships in Strait of Hormuz Test U.S.-Iran Cease-Fire - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 05, 2026 · 12:52 BRT",
-      "pub_date": "2026-07-05",
-      "pub_ts": 1783266725,
-      "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
+      "published": "Jul 07, 2026 · 03:38 BRT",
+      "pub_date": "2026-07-07",
+      "pub_ts": 1783406292,
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/07/05/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026/11ecd25e-78e7-11f1-b194-f872dd4ec5aa_story.html",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 06, 2026 · 07:44 BRT",
-      "pub_date": "2026-07-06",
-      "pub_ts": 1783334664,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
       "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iranian-mourners-call-vengeance-trump-during-khamenei-funeral-procession-2026-07-06/",
+      "title": "Qatari LNG tanker badly damaged after being hit in Strait of Hormuz, sources say - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-fires-missiles-commercial-ships-strait-hormuz-axios-reports-2026-07-07/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 06, 2026 · 07:19 BRT",
-      "pub_date": "2026-07-06",
-      "pub_ts": 1783333166,
+      "published": "Jul 07, 2026 · 06:11 BRT",
+      "pub_date": "2026-07-07",
+      "pub_ts": 1783415466,
       "summary": "",
       "tags": [
         "extracted",
@@ -31140,43 +31137,62 @@
       "sentiment_success": false
     },
     {
-      "title": "Israel fears renewed Iran fighting as it monitors Khamenei's funeral - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-901547",
+      "title": "Iran resumes attacks in Strait of Hormuz after lull, U.S. officials say - Axios",
+      "url": "https://www.axios.com/2026/07/07/iran-resumes-hormuz-attacks-us-officials",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jul 07, 2026 · 00:34 BRT",
+      "pub_date": "2026-07-07",
+      "pub_ts": 1783395247,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
+      "url": "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 06, 2026 · 10:02 BRT",
+      "pub_date": "2026-07-06",
+      "pub_ts": 1783342940,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran targeted civilians as tactic of war, new report pushes IRGC accountability - interview - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-901643",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jul 06, 2026 · 07:12 BRT",
+      "published": "Jul 06, 2026 · 13:06 BRT",
       "pub_date": "2026-07-06",
-      "pub_ts": 1783332774,
-      "summary": "Security officials also told Walla that they view parts of the ceremony as an effort to normalize and validate the status of Mojtaba Khamenei.",
+      "pub_ts": 1783353972,
+      "summary": "Adv. Uri Morad said that Iran’s missile campaign targeted civilians as a tactic of war, and argued that senior Iranian leaders should face legal action.",
       "tags": [
+        "Israel",
         "Iran",
-        "Ayatollah Ali Khamenei",
         "Tehran",
-        "IRGC",
-        "Mojtaba Khamenei"
+        "war crimes",
+        "ICC"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/three-sons-irans-slain-leader-khamenei-appear-funeral-not-his-successor-2026-07-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 05, 2026 · 04:06 BRT",
-      "pub_date": "2026-07-05",
-      "pub_ts": 1783235160,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
@@ -49028,7 +49044,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-07-06T11:08:56.316173+00:00",
-  "last_watch_time": "2026-07-06T11:09:03.505458+00:00",
-  "last_relevant_time": "2026-07-06T11:09:14.166289+00:00"
+  "last_digest_time": "2026-07-07T11:07:26.186622+00:00",
+  "last_watch_time": "2026-07-07T11:07:35.027996+00:00",
+  "last_relevant_time": "2026-07-07T11:07:54.664610+00:00"
 }

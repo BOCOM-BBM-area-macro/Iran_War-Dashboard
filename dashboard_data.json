@@ -31214,7 +31214,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-07"
+      "pub_date": "2026-07-08"
     },
     "https://www.timesofisrael.com/liveblog_entry/iran-claims-us-restoration-of-oil-sanctions-violates-mou-ending-war/": {
       "summary": "",
@@ -31308,6 +31308,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-07"
+    },
+    "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
     }
   },
   "last_run_success": true,

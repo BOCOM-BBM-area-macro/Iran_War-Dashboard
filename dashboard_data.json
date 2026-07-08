@@ -31247,7 +31247,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-07"
     },
     "https://www.reuters.com/business/energy/us-oil-prices-jump-after-us-military-launches-strikes-against-iran-2026-07-07/": {
       "summary": "",
@@ -31307,7 +31307,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-07"
+      "pub_date": "2026-07-08"
     },
     "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/": {
       "summary": "",
@@ -31407,6 +31407,46 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/world/india/gold-eases-fresh-us-iran-tensions-lift-oil-prices-rate-hike-bets-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
+    },
+    "https://www.nytimes.com/2026/07/08/insider/iran-war-satellite-image-restrictions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/world/middle-east/global-markets-trump-instant-view-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/business/us-stock-futures-tumble-trump-says-iran-deal-is-over-oil-climbs-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -31581,6 +31621,34 @@
           "published": "Jul 08, 2026 · 01:21 BRT",
           "pub_date": "2026-07-08",
           "pub_ts": 1783484460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gold slips as oil jumps after Trump says Iran peace deal 'over' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 22:28 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783474080,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran claims US restoration of oil sanctions violates MOU ending war, vows ‘decisive’ action - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTURNM3ZBN3hsd2F3OGVIbDl4ZTFZYmlhRXRNTWVRZl8wekVzbUJjQWowTEF6R0N2c2RmQmhlTUFMSnBfTXdIeVpLVXVFN0xpX1BiODJDVW95V3dWb2hZS1lLWnhuVHA4elh6dzdCUkNRNzJOVzFOSHRsQTJWMC04Zy1pbEl6MkY2dFlQb0NYdFJwaWJnQXdQSjhfRWU0RnFGZS03RV8tNWdEYVotZk43VFVHOA?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 21:01 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783468912,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

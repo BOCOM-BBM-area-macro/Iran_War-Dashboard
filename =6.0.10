@@ -40,7 +40,7 @@ Downloading tzlocal-5.4.4-py3-none-any.whl (18 kB)
 Building wheels for collected packages: sgmllib3k
   Building wheel for sgmllib3k (pyproject.toml): started
   Building wheel for sgmllib3k (pyproject.toml): finished with status 'done'
-  Created wheel for sgmllib3k: filename=sgmllib3k-1.0.0-py3-none-any.whl size=6089 sha256=7e7d0a3c76a564b1401ec5cf8dec6579b61061c4429e1585431367280f295613
+  Created wheel for sgmllib3k: filename=sgmllib3k-1.0.0-py3-none-any.whl size=6089 sha256=b513d4116a30d8e7d79a01746055aaf96353f13ef946b4bc6335e65b838d1392
   Stored in directory: /home/runner/.cache/pip/wheels/f0/69/93/a47e9d621be168e9e33c7ce60524393c0b92ae83cf6c6e89c5
 Successfully built sgmllib3k
 Installing collected packages: sgmllib3k, pytz, tzlocal, typing-extensions, soupsieve, six, regex, feedparser, python-dateutil, beautifulsoup4, dateparser

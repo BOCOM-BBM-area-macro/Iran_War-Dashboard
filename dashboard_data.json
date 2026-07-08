@@ -31247,7 +31247,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-07"
+      "pub_date": "2026-07-08"
     },
     "https://www.reuters.com/business/energy/us-oil-prices-jump-after-us-military-launches-strikes-against-iran-2026-07-07/": {
       "summary": "",
@@ -31571,11 +31571,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-08/trump-says-us-will-probably-strike-iran-again-on-wednesday": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/world/trump-iran-us-will-probably-hit-them-again-wednesday-night-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-08",
-  "last_generated_time": "2026-07-08T11:03:20.978950+00:00",
+  "last_generated_time": "2026-07-08T12:02:32.167488+00:00",
   "digest": {
     "digest": "President Trump declared an interim agreement to end the war with Iran to be \"over\" following a series of retaliatory strikes between the two nations. The United States conducted new strikes against Iran, targeting air defense systems and Revolutionary Guard Corps assets, in response to Iranian attacks on commercial shipping in the Strait of Hormuz and subsequent strikes on U.S. bases in Bahrain and Kuwait. Iran, in turn, launched strikes on sites in Bahrain and Kuwait. The U.S. Treasury revoked a waiver allowing global sales of Iranian oil, reimposing sanctions. These actions have led to significant volatility in global markets, with oil prices jumping and U.S. stock futures tumbling. The European Union aviation agency advised operators to avoid airspaces in Iran, Iraq, and Lebanon. Diplomatic stances indicate a hardening of positions, with President Trump labeling Iranian leaders as \"scum\" and Iran condemning U.S. strikes as a \"blatant act of aggression\" and threatening a \"crushing response.\" This escalation marks a significant setback for efforts to find a lasting end to hostilities and preserve freedom of navigation in critical waterways.",
     "top_themes": [
@@ -31761,6 +31781,20 @@
           "published": "Jul 08, 2026 · 01:21 BRT",
           "pub_date": "2026-07-08",
           "pub_ts": 1783484460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. and Iran Exchange Strikes in Latest Threat to Fragile Ceasefire - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXc1cldrSkZVRXJ6dFN1WTFGQXpfbkVXb1RCSXdCd0lQZ1hnay1hVXVQdDJUbFREb0wtU0NPOXNKVXJyOEZCb3JEWmJSNVpsSC1vSlVRQWszWUJoMVNZbklRZ3BOSTBYcFlJSGw1Nk5KOWtYaXp4UFRfVkp4eVF5S2xKVzNUa0xLYVdWcTY2TUhua0RIN0wteGt3?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 00:34 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783481640,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

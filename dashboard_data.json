@@ -30309,7 +30309,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-06"
+      "pub_date": "2026-07-07"
     },
     "https://www.reuters.com/world/middle-east/yemens-armed-forces-threaten-saudi-targets-over-iran-flight-sanaa-2026-07-03/": {
       "summary": "",
@@ -30789,7 +30789,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-05"
+      "pub_date": "2026-07-06"
     },
     "https://www.jpost.com/health-and-wellness/article-901618": {
       "summary": "Many children have experienced traumatic responses since the war began, which can manifest in anxiety, speech disorders, and other blockages.",
@@ -31268,6 +31268,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-07"
+    },
+    "https://www.reuters.com/world/middle-east/nato-allies-discuss-hormuz-tensions-mission-with-gulf-arabs-2026-07-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-07"
     }
   },
   "last_run_success": true,
@@ -31429,6 +31439,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices climb as US strikes on Iran fuel fears truce is unravelling - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 19:42 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783464120,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5",
@@ -46653,6 +46677,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Opinion | Trump’s exploding farm subsidies - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTJMcXVXMlE0V3AxZ2lQUTJScEc2SWRTVXgteTdVUldmZlBuU2poVmZGWkk5d0VMZUFJdnU2dnIzUU9PdTdDMXVfQW1UTFB2VGo0Z2RQT3dhWVdaSlp0cXBWSjhTVjVIeENjdTltcjJtc0Q0LThLYWM1VHdxdUN5UE5HMlpHR3NwbF9YSVBTR3JSTkkxRUhpNzF6ZFZjRG9hNWVJY3ZSSFYwTkpCTEVycVR3Z00?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 23:26 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783477563,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "USDA announces $500 million in funding to expand US domestic fertilizer production - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODIyaTNYNTNZLVNRZ0U1Rlp4WXdpWHZUR1ZZaENfYXJYSURGcVRMaExkN3JGek1aUG5veWpyOGZTa0Z0anQ4T2FzYlVzVmhNM1MzbmpoQ3M0ODMwUXlpTFR4ei1LY3VJeTQtZjEyaWJySTlsOFU4TTVNd0JfMXhDWnUxODBTTko4LVRsendtVkZONDBlcC1NN2lteXM4UlFQSjBUTVpZT2lPQ3BmUzRhTUlNRVBXYVRTOEI2Rg?oc=5",

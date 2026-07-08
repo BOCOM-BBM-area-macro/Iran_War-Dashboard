@@ -31654,11 +31654,61 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-is-conducting-fresh-strikes-iran-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.cbc.ca/news/world/iran-khamenei-trump-war-funeral-9.7262878": {
+      "summary": "On Wednesday, U.S. President Donald Trump said the ceasefire with Iran was effectively over, and called the country's leadership \"scum.\" His comments come in the midst of Iran’s weeklong funeral for former supreme leader Ali Khamenei, who was killed by U.S.-Israeli airstrikes in February.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.wsj.com/world/middle-east/iraq-us-dollar-shipments-iran-eccef82f": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/business/energy/venture-globals-second-quarter-liquefaction-fee-jumps-69-iran-war-lifts-lng-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-08/us-military-launches-strikes-on-iran-for-second-straight-day": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
     }
   },
   "last_run_success": true,
   "last_generated_date": "2026-07-08",
-  "last_generated_time": "2026-07-08T16:02:39.587615+00:00",
+  "last_generated_time": "2026-07-08T18:02:38.009283+00:00",
   "digest": {
     "digest": "President Trump declared an interim agreement to end the war with Iran to be \"over\" following a series of retaliatory strikes between the two nations. The United States conducted new strikes against Iran, targeting air defense systems and Revolutionary Guard Corps assets, in response to Iranian attacks on commercial shipping in the Strait of Hormuz and subsequent strikes on U.S. bases in Bahrain and Kuwait. Iran, in turn, launched strikes on sites in Bahrain and Kuwait. The U.S. Treasury revoked a waiver allowing global sales of Iranian oil, reimposing sanctions. These actions have led to significant volatility in global markets, with oil prices jumping and U.S. stock futures tumbling. The European Union aviation agency advised operators to avoid airspaces in Iran, Iraq, and Lebanon. Diplomatic stances indicate a hardening of positions, with President Trump labeling Iranian leaders as \"scum\" and Iran condemning U.S. strikes as a \"blatant act of aggression\" and threatening a \"crushing response.\" This escalation marks a significant setback for efforts to find a lasting end to hostilities and preserve freedom of navigation in critical waterways.",
     "top_themes": [
@@ -31807,6 +31857,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Market Calm Is Shattered by Fresh Hostilities - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNThDLUkwN0NDaWE1M2o2cEJnMzB0ODNRSzBTRFZ2bE1DcVZwREtNM3RIZnNPS2tEVU1NaFktaVItR1ZheGYzb0RpeEVvRHBVZFM4a2t1TVZtMG5SQ1lndFh5MUpLX05WOHJoQW91aDlVemdEY1hhcHlOeW5JNmI4SXBVTXpJSFYtc0p0emlWdUU?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 13:19 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783527543,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices jump more than 6% and stocks fall after Trump says ceasefire with Iran is 'over' - CBC",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2T2c0aUZleXhFWUFKMTVVMmtQV3o3Q19fN1FLNEd6c1ZpOWhEQ2RVMXBzdjZOWnh6Qjg3TlZJWlZDOGhQWWNvUVByaG12MHg1VzZQYkJvMlNjSm82UUloY214d1BJNG9ZTVB4Q0ZKdmJQSjJ3bFMxLTdNUQ?oc=5",
@@ -43046,6 +43110,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Venture Global's second-quarter liquefaction fee jumps 69% as Iran war lifts LNG prices - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFplVTZwY3czQU5CNDA1RzFEWkVnTnRLVUROTG16bS14OWVRYXNpampiTjd3cVNtU251V0diZmczbmd2bGd1aXBUTUw3U0FIbWJVS3VvY1lKbXUtYVl5ODA5YXJlXzlpa2hRUWZidG5VYVBTTkVJNnpZY1U0eWhnTG5rellFRlBTdHM5dVY2V3JCd25DSUFpcVllb2IwX182UTZEWmw0TzZOSGJXU3BtVXh6TGQ3TDFGNlVvckFCSWV4eFFLQmc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 17:11 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783541505,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Trump reopens the Iran war — and a political problem he can’t shake - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnVWX1ROWWN0cUo1bHQwQlVVUXRxdjFHazR6QjdNREs5YXR2WURHUEZ4WEpDdnNmRXJ4ZlhvUzFpTkxtcjdYRXc1NWY4VE8xUTBtSFVTcFEwbG1RSkpFcHRmcWZVcjZxX1RaREVCWFdJZmQ4a0FnUTJCZEpjcnRUSG9TNWd3VnpHNGFlVHg0NlV5anBQU1JVRTFOUExEVkk5QWtycVUyUU8yUQ?oc=5",
           "source": "The Washington Post",
@@ -48917,6 +48995,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Gold edges down as Middle East tensions propel oil prices higher, Fed minutes awaited - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3YtNTR2VmdTVnNrNVpWcmVjYWpZb1d6NTlmOEVyekFmdlpvek96eW5XbXJWMGhEWUNJNHBHOXhqWG4yRmxtTVZGdzdnYmk0V2ZhUzExaHd0Vld3MTJia2RzUkY4dmgwOEpFXzZZbEJQcFI0NURhREc0dm1lN1RralRYZ2dQdm5iUkcwblRaMjZpcmRIbnZ3S0lR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 23:57 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783393020,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "UAE markets end higher; IHC gains on India aluminium venture - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnBVejJiOVpkRzNHbWstMmVUdWNGLU5WMDF3alY3cVlzdUY3V0xxYzZSVjI1Y2tlMHdHLUNhNUtMX2NRZkt1VFpPaVhFTmVQLXFKbm9OVU1yMkFFN1l1d0JWTzJBbFpEQmRUdXdBbkNibW9fSzlYQWZrLXh3ZkxDZHVrZnZ4ZGNjYW0zX2xaWjRjbWh5b09kTWUyUndkbFNwbHFmaG9RZ2RWbW9DNXkw?oc=5",

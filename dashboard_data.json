@@ -31451,56 +31451,92 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-08"
+    },
+    "https://www.washingtonpost.com/world/2026/07/08/trump-declares-ceasefire-with-iran-has-ended/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/world/middle-east/eu-aviation-agency-tells-operators-avoid-iran-iraq-lebanon-airspaces-until-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-08/bitcoin-btc-weakens-as-trump-s-remarks-raise-fresh-iran-war-concerns": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.cbc.ca/news/world/iran-targets-bahrain-kuwait-9.7262342": {
+      "summary": "U.S. President Donald Trump said ​an interim agreement to end the war with Iran was \"over\" on Wednesday after Tehran carried ​out new attacks on U.S. bases in the Gulf.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
     }
   },
   "last_run_success": true,
-  "last_generated_date": "2026-07-07",
-  "last_generated_time": "2026-07-07T23:02:27.889388+00:00",
+  "last_generated_date": "2026-07-08",
+  "last_generated_time": "2026-07-08T08:02:45.940580+00:00",
   "digest": {
-    "digest": "Recent events indicate a significant escalation of tensions in the Strait of Hormuz, with Iran's Revolutionary Guard firing missiles at ships and a Qatari LNG tanker sustaining damage. These attacks follow a lull and test a potential US-Iran cease-fire. Diplomatic exchanges reveal a hardening stance from both sides; President Trump has stated there will either be a deal with Iran or the US will 'finish the job,' a sentiment echoed by Iranian FM Araghchi who threatened to halt talks if US threats continue. The funeral procession for Khamenei saw mourners calling for vengeance on Trump, signaling defiance and a potential shift in the regional order. The global oil market is absorbing significant supply losses, though depleted stocks pose future risks, with some companies like Shell signaling strong trading profits. Conversely, oil prices have settled at pre-Iran war levels, impacting markets like the TSX. A new report suggests Iran targeted civilians as a tactic of war, pushing for IRGC accountability. The ongoing conflict is also impacting European chemicals and causing concern over potential gas price increases in regions like Alaska.",
+    "digest": "President Trump declared an interim agreement to end the war with Iran to be \"over\" following a series of retaliatory strikes between the two nations. The United States conducted new strikes against Iran, targeting air defense systems and Revolutionary Guard Corps assets, in response to Iranian attacks on commercial shipping in the Strait of Hormuz and subsequent strikes on U.S. bases in Bahrain and Kuwait. Iran, in turn, launched strikes on sites in Bahrain and Kuwait. The U.S. Treasury revoked a waiver allowing global sales of Iranian oil, reimposing sanctions. These actions have led to significant volatility in global markets, with oil prices jumping and U.S. stock futures tumbling. The European Union aviation agency advised operators to avoid airspaces in Iran, Iraq, and Lebanon. Diplomatic stances indicate a hardening of positions, with President Trump labeling Iranian leaders as \"scum\" and Iran condemning U.S. strikes as a \"blatant act of aggression\" and threatening a \"crushing response.\" This escalation marks a significant setback for efforts to find a lasting end to hostilities and preserve freedom of navigation in critical waterways.",
     "top_themes": [
-      "Strait of Hormuz Tensions",
+      "US-Iran Escalation",
+      "Ceasefire Collapse",
       "Oil Market Volatility",
-      "Iran's Regional Stance",
-      "US-Iran Diplomatic Relations"
+      "International Aviation Warnings"
     ],
     "next_events": [
       {
-        "title": "Escalation of Attacks in the Strait of Hormuz",
-        "description": "Recent reports indicate renewed attacks on ships, including a Qatari LNG tanker, in the critical Strait of Hormuz. Analysts should monitor the frequency and severity of these incidents, as they directly impact global energy supplies and could trigger a broader military response, potentially disrupting international trade routes."
+        "title": "Escalation of US-Iran Military Engagements",
+        "description": "With President Trump declaring the interim peace accord 'over' and both the US and Iran having launched retaliatory strikes, analysts should closely monitor for further military actions. This includes potential targets, the intensity and scope of attacks, and any expansion of the conflict beyond current areas, particularly in the Gulf region and against critical infrastructure."
       },
       {
-        "title": "US-Iran Diplomatic Engagement and 'Finish the Job' Ultimatum",
-        "description": "President Trump has threatened to 'finish the job' if a deal isn't reached, while Iran's FM has threatened to halt talks if US threats continue. Watch for any direct or indirect communication channels, the nature of any proposed deals, and whether either side escalates rhetoric or actions that could lead to a breakdown in potential diplomacy or military confrontation."
+        "title": "Impact on Global Oil Markets and Shipping in the Strait of Hormuz",
+        "description": "Iran's attacks on commercial ships and the re-imposition of US oil sanctions directly threaten the critical Strait of Hormuz, a vital chokepoint for global oil flow. Watch for any further disruptions to shipping, continued volatility in oil prices, and international efforts to ensure freedom of navigation, as these events could have significant global economic repercussions."
       },
       {
-        "title": "Iranian Internal Political Dynamics and Succession",
-        "description": "Following Khamenei's funeral, marked by calls for vengeance and defiance, but also simmering discontent, Iran's internal political landscape is crucial. Analysts should observe any signs of power struggles, shifts in hardline or reformist influence, and how these internal dynamics might translate into changes in Iran's regional and international policies."
+        "title": "International Diplomatic and Economic Responses",
+        "description": "The breakdown of the peace accord and renewed hostilities will prompt reactions from international bodies and individual nations. Monitor statements and actions from NATO, the EU (especially their planned meeting with Gulf counterparts), and other major powers, as well as any new sanctions or trade restrictions that could further isolate Iran or impact global markets."
       },
       {
-        "title": "Sustained Volatility in Global Oil and Gas Markets",
-        "description": "The 'Iran War' has already led to historic oil supply losses and freaked out oil-rich regions like Alaska. Monitor crude oil prices, strategic reserve levels, and the performance of energy companies, as continued instability in the Middle East could lead to further price spikes, supply chain disruptions, and significant economic repercussions globally."
-      },
-      {
-        "title": "International Pressure and Accountability for IRGC Actions",
-        "description": "A new report highlights Iran's targeting of civilians as a war tactic and pushes for IRGC accountability. Watch for increased international calls for sanctions, legal actions against Iranian leaders, or coordinated efforts by global powers to address Iran's military and proxy activities, which could further isolate Tehran."
+        "title": "Regional Stability and Allied Security Concerns",
+        "description": "Iran's targeting of US military sites in Bahrain and Kuwait, alongside the EU aviation agency's warning for regional airspaces, highlights a broader regional security risk. Analysts should watch for any further attacks on US bases or allied nations, and how regional partners respond to these escalating threats, which could destabilize the wider Middle East."
       }
     ]
   },
   "relevant_news": [
     {
-      "title": "Iran’s Revolutionary Guard Fires Missiles at Ships Near Hormuz - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/irgc-fires-missiles-at-ships-in-strait-of-hormuz-c3fbadd0",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 07, 2026 · 04:48 BRT",
+      "title": "US says it has completed a new round of strikes on Iran - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-says-it-has-completed-a-new-round-strikes-iran-2026-07-08/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 07, 2026 · 23:39 BRT",
       "pub_date": "2026-07-07",
-      "pub_ts": 1783410480,
+      "pub_ts": 1783478340,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -31508,14 +31544,88 @@
       "sentiment_success": false
     },
     {
-      "title": "New Strikes on Ships in Strait of Hormuz Test U.S.-Iran Cease-Fire - The New York Times",
+      "title": "US military launches strikes against Iran, Central Command says - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-launches-strikes-against-iran-central-command-says-2026-07-07/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 07, 2026 · 18:45 BRT",
+      "pub_date": "2026-07-07",
+      "pub_ts": 1783460752,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 07, 2026 · 20:02 BRT",
+      "pub_date": "2026-07-07",
+      "pub_ts": 1783465325,
+      "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. and Iran launch fresh strikes following attacks on commercial ships - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 08, 2026 · 07:48 BRT",
+      "pub_date": "2026-07-08",
+      "pub_ts": 1783507733,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow - The New York Times",
       "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 07, 2026 · 03:38 BRT",
+      "published": "Jul 07, 2026 · 19:01 BRT",
       "pub_date": "2026-07-07",
-      "pub_ts": 1783406292,
+      "pub_ts": 1783461660,
+      "summary": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Strikes Iran and Blocks Its Oil Sales - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/07/us/trump-news-nato",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 08, 2026 · 00:35 BRT",
+      "pub_date": "2026-07-08",
+      "pub_ts": 1783481721,
       "summary": "",
       "tags": [
         "extracted",
@@ -31524,84 +31634,6 @@
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Qatari LNG tanker badly damaged after being hit in Strait of Hormuz, sources say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-fires-missiles-commercial-ships-strait-hormuz-axios-reports-2026-07-07/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 07, 2026 · 06:11 BRT",
-      "pub_date": "2026-07-07",
-      "pub_ts": 1783415466,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran resumes attacks in Strait of Hormuz after lull, U.S. officials say - Axios",
-      "url": "https://www.axios.com/2026/07/07/iran-resumes-hormuz-attacks-us-officials",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Jul 07, 2026 · 00:34 BRT",
-      "pub_date": "2026-07-07",
-      "pub_ts": 1783395247,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
-      "url": "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 06, 2026 · 10:02 BRT",
-      "pub_date": "2026-07-06",
-      "pub_ts": 1783342940,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran targeted civilians as tactic of war, new report pushes IRGC accountability - interview - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-901643",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jul 06, 2026 · 13:06 BRT",
-      "pub_date": "2026-07-06",
-      "pub_ts": 1783353972,
-      "summary": "Adv. Uri Morad said that Iran’s missile campaign targeted civilians as a tactic of war, and argued that senior Iranian leaders should face legal action.",
-      "tags": [
-        "Israel",
-        "Iran",
-        "Tehran",
-        "war crimes",
-        "ICC"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
       "sentiment_success": false
     }
   ],
@@ -31612,6 +31644,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US stock futures tumble as Trump says Iran deal is 'over', oil climbs - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 07:41 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783507303,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran targets sites in Bahrain, Kuwait after wave of US strikes - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXVzMnQ5aVh0S2MxNlBNWXBLcWZ0TFNrUWJuVFRRWjhKSmFVb2UtcGVWNWNVajcwb2dGVERnc3E5QVZseV9qN3RqdFBueUtRUUp3WTA0UVlSREdxOHN4UmV1QUdxSDh1cHVjNFZCWkRqVGpudXpHRnNiOWlMamoyaXY3Tl9ZT0pua1lDTHFNR3hUY1BxWWxHWktDSmpSNEVSOTVTQVZLb1VXaHg0dHc?oc=5",
@@ -42795,6 +42841,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Vietnam Eyes Building More Coal Power as War Squeezes LNG Supply - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObEpfMVZGMGNDeVJVZXNuMURQYWdlQ0FfNGpsTWRMRmllMnVPNUNuVXFoTlFPcUU4RDNjY1RRTXpJd0JDdWJtSGFkc3lEYlJRV3pyYV93dGl1LVJrOEFqVENDcXcyVTlTb0lJSFkxSjU2QVEwSXZTUTZZWG9jVUhNcFRuRmRfSk1FZE9ZcFVvSllZZTlva1A3VG02Z2pmYnYwZF9Lb1pPUVcxUVR2cTNMTldXd3FxQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 04:35 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783496137,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Vietnam looks at more coal power plants as Iran war complicates LNG plans - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjFoY3hBZU5RUmZnVnJHTXZ0Z1o2SU1ESHplMENWOW9wMDdJdXhsaC1LM0MweG1GSUhBZnFvVEJZNkE1dXFPbVNuWjY2TE45UXRNZkxlWXluWU1ZYno4WUhOazJ2Z090ZEVrbldpbWRPOGlLemoxeFpNWnEwZERUT2pUOUE5dTZOSXg4RnluMWFmaFRTalFSSmI5U1RaSmNaNWJMSjE5OVY1WnNiWDR3UTNXNHV0NV9FWU5j?oc=5",
           "source": "Reuters",
@@ -49733,7 +49793,7 @@
       ]
     }
   ],
-  "last_digest_time": "2026-07-07T11:07:26.186622+00:00",
-  "last_watch_time": "2026-07-07T11:07:35.027996+00:00",
-  "last_relevant_time": "2026-07-07T11:07:54.664610+00:00"
+  "last_digest_time": "2026-07-08T11:13:34.900410+00:00",
+  "last_watch_time": "2026-07-08T11:13:42.998005+00:00",
+  "last_relevant_time": "2026-07-08T11:13:54.297153+00:00"
 }

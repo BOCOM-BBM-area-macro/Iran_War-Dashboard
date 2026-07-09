@@ -518,7 +518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/world/asia-pacific/boj-keeps-regional-economic-view-steady-sees-receding-hit-iran-war-2026-07-09/": {
       "summary": "",
@@ -588,6 +588,36 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.reuters.com/world/middle-east/iran-says-it-hits-us-military-targets-gulf-prepares-bury-slain-leader-2026-07-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.axios.com/2026/07/09/iran-war-hormuz-oil-natural-gas-energy-transition": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.reuters.com/world/middle-east/oil-tanker-traffic-through-hormuz-near-standstill-attacks-strain-iran-truce-2026-07-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -747,12 +777,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-09T11:15:03.560173+00:00",
   "last_generated_date": "2026-07-09",
-  "last_generated_time": "2026-07-09T08:07:29.787767+00:00",
+  "last_generated_time": "2026-07-09T10:03:20.356233+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The Iran war's limited boost for energy transition - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkxSWUdoQTB2NWxxSnlyb29UbllBSWE3dE1BVUdXREtJemgyYTNwMVlER2tuaUpTNnRzdW1IY1JNTmtKc2p6amM2MEJ5TlRZQWJwOFM4eVRTajBILUpjN0ZVd3JhQVVqelRMWXFiTmo5QUtVTERfNl9oM1NiYjhZUkhwb3RLeDF0TFE?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 09:50 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783601406,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Asian stocks slip and oil prices jump as Iran and US launch fresh attacks - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk82SnRZZ3I5N1RaaWlDUXhuOU5DaDdwX3RNUjFJRnVUYTNzbTMxdVFkSjk4Z2hwMUtnSzRjZ3hPckxHaUNKdGU1X2FaamZlQ0h6UEtqSlNuRTR1T2RQZXJVVE9FYXVHeXlsOGNmRy1WY0lfa0dDU3VkOXNEbWZGLWJydkdsYnk5dzhSMHd6dm43ZTN1M3lPYnNYa1dYcUFLN18tT0ZIX0dkUGhlakJyMjkyVHYzUjB6RmVSWXhkUS1XZw?oc=5",
@@ -1160,6 +1204,20 @@
           "_rank": 0
         },
         {
+          "title": "Oil Prices Are Falling, but OPEC Plus Pledges to Pump More - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zSGh4ZUo4WnhrVTNaRlNxWDdOOHdkbzI5enZFMF9sVk5PVzc1SENHTDFBTEFQaWNhSm5VbTQxR3dacmdyUnlMZWRtUVM3enpydjl4VXdEOTJMVzBfMHNnMVdXOVVqaXY1STBlWEp1TXIySjFab0l6OEdJZkRkdw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 05, 2026 · 09:50 BRT",
+          "pub_date": "2026-07-05",
+          "pub_ts": 1783255845,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "How does the Iran crisis compare with the 1979 oil shock? - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkU?oc=5",
           "source": "Reuters",
@@ -1276,6 +1334,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "EXCLUSIVE: China lifts fuel export curbs for July, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZhYmpBVW0zQnJyY2N1c05Udmt2Vy1BUzhlaGozWlJzbm5rTWlMaFU1YVNOaUgyM282Q3k1OFFVZGYwcklsMXVEeVFPdWZSRDR6NGpkbGJVZEM2TjRIWENsZzdkYVNzSjlHUnQ2Z09CUms0LXlzZ3A3NFpzZkdSUGhBWU1fRHFhWDNZWjFxclJLTm1jN1hPN0pXWERfWjJyTnRxTmgyOWdKUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 01:50 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783486200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Shell Says Oil, Gas Trading Strong as War Drives Volatility - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTAtTzBqeF9DV25VdkhqVlpidVFqQTZMdWdDclFQYWlqMllneWFmMGhpdllNQ19ZckZBRVlNMkRqUXlzUTdzektqMW0xbnYxN2wweC1SMXR2RG1hQ2xJWVl6MVl3Mi1fY3FFOUVKYXRrNmpjNFBIS2VZaG96RUdYdVVDNmZBMVVVU2lYNS1UaGhEaHBUdHphUFFMRldqckRsZVJfWEFjS0d4T1BpSDlr?oc=5",

@@ -359,6 +359,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-02"
+    },
+    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
     }
   },
   "last_digest_success": true,
@@ -514,12 +524,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-09T01:10:03.572982+00:00",
   "last_generated_date": "2026-07-08",
-  "last_generated_time": "2026-07-08T22:02:28.790474+00:00",
+  "last_generated_time": "2026-07-08T23:02:34.022601+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil rises after US launches fresh strikes against Iran - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 22:05 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783559138,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "S&P 500 ends down after Trump says Iran deal is 'over' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 20:20 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783552801,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkg2NWtteXRjblpQRDNvZVBHcVdOTUlJYlYzZUltRS10OWVVSGpjcnU4bjl3U3doZnJMRGREdEoxaTAtMXRhTVA2WGJSUjZHN244dlZsSXM2SHJwbGxmYnZxdVJNb2JNRWd6M1ZPMmd2dmlHN3FpdWt3aUZjSFE0SHBGYUVRMlloTE5tSVNzcjJqOVNqZkdDRjhOS3Jja1gyYWN6VlVNNEVtZ2NrYWFyeWdLcmNwMUFNbExiWmJxS2R1eUdodXM0?oc=5",
@@ -549,6 +587,20 @@
           "_rank": 0
         },
         {
+          "title": "VIEW Stocks, bonds retreat after Trump says Iran MOU 'is over' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2NZR0VCUmNCZGxrSS1qamhkR3g4MkJfTjNaV1AzSGpOSzJydGwyT2FGeUJFZm5vY3ZrNVNjRlhmbGs3a1RmV0NWTEZSWTRyS09tMTBaT2padWxOSi1CN2hwTGxkZlh5aWtTT0lRb3VyaUk3WkdOMjAya09UXzBGNE9Oa1NMdXBpeDJSdzJXN1k?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 13:11 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783527067,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Global Economic Output Looks Slower for 2026, IMF Says - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMktxdXlJWExWLTFHUkkzY25IRzdfM3ZvNE5XLWlLdzdxMGdZVWRhMUhjaUwzRjdwcGpVMFp6MkZYMGtwTzVSOG00Ml9IVV93QjR4Tm80cG9xdC1LdHFJME9XOG1odnRsQU15bUtqeEFoN1VEeXE4VGlncHlLWkUzR0g5LWFQNkx6VG51MA?oc=5",
           "source": "The New York Times",
@@ -557,6 +609,20 @@
           "published": "Jul 08, 2026 · 11:27 BRT",
           "pub_date": "2026-07-08",
           "pub_ts": 1783520845,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US military says it is carrying out fresh strikes on Iran, after Trump says accord is 'over' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXVzMnQ5aVh0S2MxNlBNWXBLcWZ0TFNrUWJuVFRRWjhKSmFVb2UtcGVWNWNVajcwb2dGVERnc3E5QVZseV9qN3RqdFBueUtRUUp3WTA0UVlSREdxOHN4UmV1QUdxSDh1cHVjNFZCWkRqVGpudXpHRnNiOWlMamoyaXY3Tl9ZT0pua1lDTHFNR3hUY1BxWWxHWktDSmpSNEVSOTVTQVZLb1VXaHg0dHc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 01:21 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783484460,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -689,6 +755,20 @@
           "_rank": 0
         },
         {
+          "title": "Stocks surge on chip news, oil holds at pre-war levels - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlM2X2FVc0tycmNWVXBBYWRaMDZFYXk0dE9rQW5mV21DaXhXWEpXazNmbjRDeks1ZVFXZmJ5Ti1OeTd4bXpFQTVteFBXa285NTZSTm9RaVlfX2JMczIycm9TZEhyVDhZdkRDVVFPQWR1TER5STh6NXpBQ08xOHc5azRyYw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 19:04 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783375491,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWZSMXB6NXpuMkgtV3ZhdDlhTmFvS2gybVlDcWFqNzlJUk16QnFtUnVEMkFpY1hMcFJlNW42V2JHSGZ0Q1FpNWFycnR0YW9Xdy1lVVQ2Vm53V1liVDd2ZlRpWkdIMjQ4OW1LOWxfLWdmcUc1ck5VZlViSmdydGxtdllHUGpvckllVDZSLXpQcjlveVZNeEVQQTBiMzVVeW0wVjlLeGRCTjczd3B5NFQ2TUpMbGtBZHNHcUdNOXNtSG1uVFNLWHc?oc=5",
           "source": "Reuters",
@@ -745,6 +825,20 @@
           "_rank": 0
         },
         {
+          "title": "The Race to Rescue 8,000 Sailors Still Stranded Behind Hormuz - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnU1NVNWVmhGQWN5eEowcU9CMUVhN2xkYlctN1R5djFWZ3dMQnU4WlFMbVZZczJwbE1MbWNJLVRrNTFraUdOMmR6YlhId0pQVDgzVlc4bGN3SUF2UHRZdGtqRUpoeHBRYnBkbFd1ZWlwb2N6aHNMSVlGb1FVaW9yb2RLdG5LQlNJSmFyZ3ZLdlFQTUJoWC1VTGRUbXZKVi12UnZqR2FUb2V6bkVBYllMb2ZJeUhmTzQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 03, 2026 · 05:02 BRT",
+          "pub_date": "2026-07-03",
+          "pub_ts": 1783065741,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil gains on short-covering buys ahead of US holiday - Reuters",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
           "source": "Reuters",
@@ -753,6 +847,20 @@
           "published": "Jul 02, 2026 · 16:28 BRT",
           "pub_date": "2026-07-02",
           "pub_ts": 1783020506,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi Oil Exports Approach Pre-War Levels as Hormuz Flows Rise - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjRRbENaLTR0MXBadnU2NGRlTEUxR2N0M0pzTkszd1Z3d09sbTdBY3AzVEJQUk1OR25Na0lVWGpnOEdUZGNnY1hQX2tWdnFSZzdnZkpWN3ZNVHZpMjctWWFsaEsyUXJZWnR3dmM5WV80Q3hIemw4dDZNSm44WHRpdkZfQlBBQjc2bmVXUHNLZzJDb1VtNC1wTF9hc1A4dWxYYTVaeS1LVlNoSHc1d3F0WWlQNA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 02, 2026 · 15:53 BRT",
+          "pub_date": "2026-07-02",
+          "pub_ts": 1783018391,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -1059,6 +1167,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "The Iran War threatened a food crisis. The next Gulf conflict could do the same. - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1dEx6ekdtMWswNHBjUEhfbURVWTUwRnk4WS0xYVR1YVk4cEliZjl0NnpuazF2YnMyYXBKMzIweUkyV05XWjlncXFwQVFIa2h4Y1dMd1Frb0tYendTRGFVRzRXWGlidFJ2eUJWTDRSWnU4SG8?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 21:35 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783557338,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "GrainCorp Pushes for Australia Biofuel Mandates After Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFNTVW14QjVHaXN4SnVEUWdxUVRwYWxocVJ0T1BleW54QUt4U0swYlJlNi1uVDM4QU81dXkwQXZOY2pSS2RScGhpb2psWnZuWlloRVNDcmdFVzB3UlUwaFRPTTZxb1U0MTFKNU9UQTJmbmlLQ000ZUQ0bVdZSnNZcGx4cFRlWDRLblFUdGJ4SlpyaF8tVmNDb0lHMlNBTS1FamFjQk9waVNrR1oxTW0yMmtHSQ?oc=5",
           "source": "Bloomberg.com",
@@ -1091,6 +1213,34 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Canada's trade surplus in May jumps to a four-year high as US exports surge - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVBnMVdMY0JTdWZoUG1pTi1OUFBTUW9oQmlnM2tldnI4emY3eDlsOEh0NnhNZUZqWlpmMGN4aWE2RUNUTDdtSldROUJxNmRvODRCLXA0bFBfbm00TVpWcGNDVzFaU1BwWjRjbFdPODhRYlRaTFdBRld3UHhCNzRycUJ2ZXFiaENLZDJ3Y3d1WlNjenZ1aHhBYVhNNUlGdzYyU0FyVQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 11:20 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783434040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gold edges down as Middle East tensions propel oil prices higher, Fed minutes awaited - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3YtNTR2VmdTVnNrNVpWcmVjYWpZb1d6NTlmOEVyekFmdlpvek96eW5XbXJWMGhEWUNJNHBHOXhqWG4yRmxtTVZGdzdnYmk0V2ZhUzExaHd0Vld3MTJia2RzUkY4dmgwOEpFXzZZbEJQcFI0NURhREc0dm1lN1RralRYZ2dQdm5iUkcwblRaMjZpcmRIbnZ3S0lR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 06, 2026 · 23:57 BRT",
+          "pub_date": "2026-07-06",
+          "pub_ts": 1783393020,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "LME metals whipsawed by war and peace in first half of 2026 - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnpZQjdPMnRxa3Z1cERaLWo2c2t2SUFYQldzNjZNVGhkb3Blb3NWbEoySUxmQ29vbjE3REhwRzhPNDNqeHFIaHlTQVhlR0l4MVk0bE5tZmtGdlBuVVhLdXV5a1c1dUs3NmUyd3hWSUdsVmlyUXVBRFFzTm9VbFN2eDk4aHdyTXl6a1BJTXd3eU5CRVQxaUNoQkVBZHlMNlNWRnJiczR1cHFDd3dvU3ZPWXVpMUNoZl9yZkE?oc=5",

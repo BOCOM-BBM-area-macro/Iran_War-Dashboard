@@ -88,7 +88,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-07"
     },
     "https://www.reuters.com/world/europe/trump-says-interim-accord-with-iran-end-war-is-over-2026-07-08/": {
       "summary": "",
@@ -231,7 +231,7 @@
       "pub_date": "2026-07-02"
     },
     "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes": {
-      "summary": "",
+      "summary": "After President Trump said U.S.-Iran talks would take place in the Qatari capital on Tuesday, an Iranian official said its delegation would only be talking to mediators about getting the U.S. to uphold its cease-fire commitments.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -499,6 +499,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-02"
+    },
+    "https://www.wsj.com/economy/trade/german-exports-rise-shrugging-off-iran-war-concerns-16c47883": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.ft.com/content/0be6ad24-1f91-4b5a-96cd-36d390cb22c7?syn-25a6b1a6=1": {
+      "summary": "Producer price index rises for fourth straight month as Strait of Hormuz closure roils supply chains",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
     }
   },
   "last_digest_success": true,

@@ -469,6 +469,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-08"
+    },
+    "https://www.ft.com/content/aa2bacf1-4a2a-447b-b7fb-6620fab03cf1?syn-25a6b1a6=1": {
+      "summary": "Fuel price surge triggered by conflict brings pain for consumers but profit gusher for US groups",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.reuters.com/business/aerospace-defense/airbus-trims-jet-industry-demand-forecast-after-iran-war-tariffs-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-02/saudi-tankers-exit-hormuz-in-kingdom-s-biggest-oil-flow-since-iran-war-truce": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-02"
     }
   },
   "last_digest_success": true,
@@ -632,6 +662,20 @@
       "articles": [
         {
           "title": "Iran war windfall puts Big Oil on collision course with Trump - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVd6RVFlU1ZfQTNfYTFmQk5ITXhZS1E4anVCTTNlSEtDWkpPQ0R3bGFkdmJGbGFjUkM4S05oOVhyRTVyNjIwU2Z0SGlFa0hNYkdJU0MwMTh2VllQemU5U2s5ckVyWXlMWmxfaGhZbkN3WmVETTFfWjZUclpYRW1pdW5hX2g?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 01:04 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783569879,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war windfall puts Big Oil on collision course with Trump - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rbFJlZFNMUUpTcVhITmx4VGNpZXJqSFYyZklwVUtDdjB4UjBySHFBNERQbmVmYXN3ZW1SNzZmRV9MOWE1T01LdVgyaldSVjdrNXRmUk9TNE1IRmRtcDQ5YmJFcHRYbm1SU0VpaDViWFo?oc=5",
           "source": "Financial Times",
           "domain": "news.google.com",
@@ -765,6 +809,20 @@
           "published": "Jul 08, 2026 · 01:21 BRT",
           "pub_date": "2026-07-08",
           "pub_ts": 1783484460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. and Iran Exchange Strikes in Latest Threat to Fragile Ceasefire - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXc1cldrSkZVRXJ6dFN1WTFGQXpfbkVXb1RCSXdCd0lQZ1hnay1hVXVQdDJUbFREb0wtU0NPOXNKVXJyOEZCb3JEWmJSNVpsSC1vSlVRQWszWUJoMVNZbklRZ3BOSTBYcFlJSGw1Nk5KOWtYaXp4UFRfVkp4eVF5S2xKVzNUa0xLYVdWcTY2TUhua0RIN0wteGt3?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 00:34 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783481640,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -1397,6 +1455,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Forget TACO. Trump's best Mexican food acronym is TAMALES - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVlCTE1xSndQd2lBWjRreFBZa1JLTGliSWlweWprR2xYMS1OeE5pc2ZCLUE5VzJadUIwUWRhdXpya3dFYkFGMmY1eDB1cDV6ZkFXZnNOZFVGSGlvNmRMSEtTVC1PRmx5TWoxU1dkRDVtLWc5SWdOb0RvTENKR3N1a2FETVlUY3ZTS0ZQa0lNb0VtMnE1VEdUa1lzOVBfMXR4ZzI1VVhCQUtIbTRCX1lpZjJIMDREcm02WmR2M2ppSjdKUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 02:10 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783573800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Canada's trade surplus in May jumps to a four-year high as US exports surge - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVBnMVdMY0JTdWZoUG1pTi1OUFBTUW9oQmlnM2tldnI4emY3eDlsOEh0NnhNZUZqWlpmMGN4aWE2RUNUTDdtSldROUJxNmRvODRCLXA0bFBfbm00TVpWcGNDVzFaU1BwWjRjbFdPODhRYlRaTFdBRld3UHhCNzRycUJ2ZXFiaENLZDJ3Y3d1WlNjenZ1aHhBYVhNNUlGdzYyU0FyVQ?oc=5",

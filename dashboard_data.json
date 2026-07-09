@@ -622,6 +622,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-09"
+    },
+    "https://www.reuters.com/world/middle-east/iran-fired-ten-ballistic-missiles-jordans-azraq-military-base-2026-07-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-09/russia-swings-to-june-budget-surplus-on-oil-rally-amid-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.reuters.com/business/energy/eu-drafts-electrification-plan-curb-oil-gas-use-after-iran-war-disruption-2026-07-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
     }
   },
   "last_digest_success": true,
@@ -777,12 +807,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-09T11:15:03.560173+00:00",
   "last_generated_date": "2026-07-09",
-  "last_generated_time": "2026-07-09T10:03:20.356233+00:00",
+  "last_generated_time": "2026-07-09T11:02:19.189779+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Russia Swings to June Budget Surplus on Oil Rally Amid Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDB4X1ZSX2tnSnh2a2d0MWRheGc4TEsta1poQ3dNTzdwTVMtdVF6TGhLLVdTbUZ1RU9ZRjN5VDlRVEhrTVhnZHptdW4xSFVOdDI1SDloSEpTTTZOTTRZcWotSm5lLUtyUk9Ga1ZuYnhWSWwtaEltSFpxVGZJYk1fcThQNjlwSjU3M0V1ekR2d1c2dG51ZGc1UjBON2c0R19LNndYY012S2hCMV9HSXZnMHVyazQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 10:25 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783603551,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran war's limited boost for energy transition - Axios",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkxSWUdoQTB2NWxxSnlyb29UbllBSWE3dE1BVUdXREtJemgyYTNwMVlER2tuaUpTNnRzdW1IY1JNTmtKc2p6amM2MEJ5TlRZQWJwOFM4eVRTajBILUpjN0ZVd3JhQVVqelRMWXFiTmo5QUtVTERfNl9oM1NiYjhZUkhwb3RLeDF0TFE?oc=5",
@@ -792,6 +836,20 @@
           "published": "Jul 09, 2026 · 09:50 BRT",
           "pub_date": "2026-07-09",
           "pub_ts": 1783601406,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "EU drafts 'electrification' plan to curb oil and gas use, after Iran war disruption - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelR4YllUUlFCN1lSUzNsWGloUUowNDJ2c1J4TldYRkhEZVR6U29OUVZOWVlDSzlkdlJRT215c1RGOGtIOVNGZ3FjUVo4d0FqdWxNRGtPbjh0UGZoT2Z1SXNiOFVWNmxPdWVXcTU0Nll0LXZrYjJYMDh0UkJtRDU5TDlUczk0SFIzNjlXNmNubWo1RzVkTldBUmUtV1prc0htQzg5MUZvREtWSlk4SVhuWGlXQm1zck9TblMtVTFaakxjWHc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 08:31 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783596712,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -1240,6 +1298,20 @@
           "published": "Jul 03, 2026 · 05:02 BRT",
           "pub_date": "2026-07-03",
           "pub_ts": 1783065741,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1aa2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 02, 2026 · 23:08 BRT",
+          "pub_date": "2026-07-02",
+          "pub_ts": 1783044491,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

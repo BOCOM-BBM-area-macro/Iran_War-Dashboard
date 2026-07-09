@@ -78,7 +78,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-07"
     },
     "https://www.axios.com/2026/07/07/trump-nato-iran-war-grudge": {
       "summary": "",
@@ -148,7 +148,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-07-08/": {
       "summary": "",
@@ -515,6 +515,29 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/world/asia-pacific/boj-keeps-regional-economic-view-steady-sees-receding-hit-iran-war-2026-07-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-901936": {
+      "summary": "A US official told The Jerusalem Post that “Everything depends on Iran’s response. If they continue firing, what happened last night could become a daily or even weekly occurrence. We are prepared.”",
+      "tags": [
+        "Iran",
+        "us iran",
+        "Donald Trump",
+        "Memorandum of Understanding",
+        "strait of hormuz"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1456,6 +1479,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "France Plans €2 Billion to Cut Fertilizer Imports Dependence - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmlVSmNJRXNNel8wTjNEMFRaUXdhNlFKR0RlMEhyazRqXzg2UFd2UG1KNUpKWi1CS2stOUcwYnA0N0NEakpnbzVuOXlpRE5CRjI4dUJ2QjQwR3RfWWhidzkyNFlobnk2eWlvYmswRF9QdDJxOEgyU2xvck8yTU5peC1vQkdEcTNzZ0JTQkRqQ3Q0TkpFQVB1UTBhTmIwX0tHTVNsWmZhSEZFeUJMN2FJ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 05:10 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783584652,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War threatened a food crisis. The next Gulf conflict could do the same. - Reuters",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1dEx6ekdtMWswNHBjUEhfbURVWTUwRnk4WS0xYVR1YVk4cEliZjl0NnpuazF2YnMyYXBKMzIweUkyV05XWjlncXFwQVFIa2h4Y1dMd1Frb0tYendTRGFVRzRXWGlidFJ2eUJWTDRSWnU4SG8?oc=5",

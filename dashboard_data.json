@@ -572,43 +572,101 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-09"
+    },
+    "https://www.reuters.com/graphics/IRAN-WAR/FERTILIZER/zjvqgwgakvx/": {
+      "summary": "Modern farming depends on cheap fertilizer. The war made that disappear, with ships trapped, fertilizer plants shut down, farmers panicking and world food production thrown into peril.",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-09T01:09:52.084583+00:00",
+  "last_digest_time": "2026-07-09T11:14:46.206824+00:00",
   "digest": {
-    "digest": "The United States military has conducted fresh strikes on Iran, with operations occurring over consecutive days. President Trump declared the interim accord with Iran to end the war as \"over,\" leading to renewed military actions. This escalation follows previous strikes and reimposition of sanctions after reported tanker attacks. The U.S. military's actions are a direct response to the termination of the ceasefire, with President Trump labeling Iranian leadership \"scum.\" Iran's leadership is reportedly divided on how to proceed, with internal factions grappling with economic pressures from sanctions and the strategic leverage of controlling the Strait of Hormuz. The ongoing conflict and associated tensions have led to a \"risk-off\" trading environment, with stock markets dropping and crude oil prices jumping. Global economic output forecasts for 2026 have also been revised downwards by the IMF, indicating broader economic repercussions. The situation remains volatile as diplomatic efforts appear to have stalled, and military engagement has resumed.",
+    "digest": "The United States and Iran have engaged in a cycle of escalating strikes, with multiple reports detailing fresh military actions by the US against Iranian targets, including coastal areas along the Strait of Hormuz. This heightened military activity has fueled fears of a renewed, broader conflict. Despite these developments, President Trump has expressed a belief that the Iran conflict will not restart. Economically, the conflict has had a mixed impact; German exports have shown resilience, rising despite concerns, while the Bank of Japan notes growing inflation pressures attributed to the war. LNG prices have seen a significant jump, with Venture Global reporting a 69% increase in its second-quarter liquefaction fees. Conversely, oil prices have experienced a decline as markets assess the impact of US strikes. The conflict's disruption to global supply chains, particularly concerning natural gas and nitrogen fertilizer, has raised alarms about food security. The war has threatened a food crisis by impacting fertilizer production and availability, leading to price spikes that disproportionately affect countries like India, Australia, and Brazil, and potentially impacting crop yields globally. The IMF has projected slower global economic output for 2026, a forecast that may be influenced by ongoing geopolitical tensions and their economic ramifications.",
     "top_themes": [
-      "US Military Strikes on Iran",
-      "Iran Ceasefire Over",
-      "Geopolitical Tensions and Economic Impact"
+      "Escalation of US-Iran Strikes",
+      "Global Economic Impact of Iran Conflict",
+      "Supply Chain Disruptions and Food Security"
     ],
     "next_events": [
       {
-        "title": "Escalation of US-Iran Military Conflict",
-        "description": "With President Trump declaring the ceasefire 'over' and the US military conducting fresh strikes, the immediate risk of further military escalation is high. Analysts should closely monitor the frequency, targets, and nature of US military actions, as well as any retaliatory responses from Iran, particularly concerning critical infrastructure or regional proxies."
+        "title": "Escalation of US-Iran Military Engagements",
+        "description": "Recent reports indicate a dangerous cycle of strikes between the U.S. and Iran, with the U.S. intensifying actions along the Strait of Hormuz. Analysts should monitor for further military exchanges, the scope of U.S. operations, and any retaliatory moves by Iran that could signal a broader conflict or a breakdown of existing cease-fire efforts."
       },
       {
-        "title": "Iranian Leadership Cohesion and War Strategy",
-        "description": "The death of Supreme Leader Ali Khamenei and the reported divisions within Iran's leadership, including the new leader Mojtaba Khamenei's absence and doubts about negotiations, create significant internal uncertainty. Watch for any clear consolidation of power, shifts in rhetoric from key figures, or a unified declaration of Iran's strategy for ending or continuing the conflict."
+        "title": "Global Food Security and Fertilizer Supply Chain Stability",
+        "description": "The previous 'Iran War' significantly disrupted global fertilizer and natural gas supplies, leading to soaring food prices and potential food crises. Watch for any renewed conflict or closure of the Strait of Hormuz, as this would likely trigger a recurrence of supply shocks, impacting crop yields and food affordability, especially in vulnerable regions like India, Australia, and parts of Africa."
       },
       {
-        "title": "Impact on Global Energy Markets and Economic Stability",
-        "description": "The ongoing conflict, reimposed sanctions, and threats to shipping routes like the Strait of Hormuz are already causing volatility, with LNG prices jumping significantly. Analysts should track global oil and gas prices, shipping insurance rates, and broader economic indicators for signs of sustained disruption or potential stabilization efforts."
+        "title": "Impact on Global Energy Markets and Inflation",
+        "description": "The conflict has historically caused spikes in oil and LNG prices, contributing to global inflation and a windfall for energy companies. Monitor oil and gas price movements, central bank responses to inflationary pressures, and the financial performance of energy sectors, as these will indicate the economic fallout and potential for slower global output as predicted by the IMF."
       },
       {
-        "title": "Prospects for US-Iran Diplomatic Engagement",
-        "description": "Despite Trump's declaration that the interim accord is 'over' and his harsh rhetoric, previous negotiations have occurred. Monitor for any subtle diplomatic overtures, back-channel communications, or shifts in official statements from either the US or Iran that could signal a renewed willingness to engage in de-escalation talks, however unlikely they may seem currently."
+        "title": "US Policy Shifts and Diplomatic Efforts Regarding Iran",
+        "description": "Despite desires to leave the conflict behind, U.S. leadership faces a muddled war with unpalatable options. Observe any changes in U.S. diplomatic overtures, statements from key political figures, and the viability of any potential deals or cease-fires, as these will shape the trajectory of the conflict and regional stability."
       },
       {
-        "title": "Regional and International Alliance Dynamics",
-        "description": "Trump's actions and rhetoric regarding Iran are impacting relationships with allies, as evidenced by the NATO summit and trade disputes. Observe how international bodies and key US allies respond to the escalating conflict, looking for increased diplomatic pressure, shifts in alliance commitments, or coordinated efforts to mediate the crisis."
+        "title": "Security of the Strait of Hormuz and Maritime Trade",
+        "description": "The Strait of Hormuz is a critical chokepoint for global energy and fertilizer shipments, and its disruption has severe economic consequences. Any incidents involving shipping, increased military presence, or threats to navigation in the Strait should be closely watched, as they could immediately impact global supply chains and commodity prices."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-09T01:10:02.983098+00:00",
+  "last_watch_time": "2026-07-09T11:14:54.598603+00:00",
   "relevant_news": [
+    {
+      "title": "U.S., Iran trade dozens more strikes in dangerous cycle - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/08/trump-declares-ceasefire-with-iran-has-ended/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 09, 2026 · 08:00 BRT",
+      "pub_date": "2026-07-09",
+      "pub_ts": 1783594803,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "As U.S.-Iran Cease-Fire Frays, Trump Faces a Muddled War and Unpalatable Options - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 08, 2026 · 16:31 BRT",
+      "pub_date": "2026-07-08",
+      "pub_ts": 1783539079,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "US military is conducting fresh strikes on Iran - Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-military-is-conducting-fresh-strikes-iran-2026-07-08/",
@@ -629,71 +687,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump orders new round of strikes after calling Iranian leaders ‘scum’ - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/07/08/trump-declares-ceasefire-with-iran-has-ended/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 08, 2026 · 20:48 BRT",
-      "pub_date": "2026-07-08",
-      "pub_ts": 1783554496,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 08, 2026 · 10:18 BRT",
-      "pub_date": "2026-07-08",
-      "pub_ts": 1783516680,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US military says it is carrying out fresh strikes on Iran, after Trump says accord is 'over' - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 08, 2026 · 01:21 BRT",
-      "pub_date": "2026-07-08",
-      "pub_ts": 1783484460,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
       "title": "US Military Launches Strikes on Iran for Second Straight Day - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-07-08/us-military-launches-strikes-on-iran-for-second-straight-day",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 08, 2026 · 17:20 BRT",
-      "pub_date": "2026-07-08",
-      "pub_ts": 1783542045,
+      "published": "Jul 09, 2026 · 00:31 BRT",
+      "pub_date": "2026-07-09",
+      "pub_ts": 1783567860,
       "summary": "",
       "tags": [
         "extracted",
@@ -705,18 +706,37 @@
       "sentiment_success": false
     },
     {
-      "title": "Trading Day: War on, risk-off: Stocks drop, crude jumps as Trump calls Iran peace deal 'over' - Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-07-08/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 08, 2026 · 18:59 BRT",
-      "pub_date": "2026-07-08",
-      "pub_ts": 1783547947,
+      "title": "US, Iran Trade Airstrikes as Fears Grow of a Return to War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/us-iran-trade-attacks-for-second-day-testing-fragile-ceasefire",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jul 09, 2026 · 04:28 BRT",
+      "pub_date": "2026-07-09",
+      "pub_ts": 1783582128,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. intensifies strikes on Iran’s coast along Strait of Hormuz - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 09, 2026 · 07:22 BRT",
+      "pub_date": "2026-07-09",
+      "pub_ts": 1783592520,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -725,14 +745,28 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-09T01:10:03.572982+00:00",
-  "last_generated_date": "2026-07-08",
-  "last_generated_time": "2026-07-08T23:02:34.022601+00:00",
+  "last_relevant_time": "2026-07-09T11:15:03.560173+00:00",
+  "last_generated_date": "2026-07-09",
+  "last_generated_time": "2026-07-09T08:07:29.787767+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Asian stocks slip and oil prices jump as Iran and US launch fresh attacks - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk82SnRZZ3I5N1RaaWlDUXhuOU5DaDdwX3RNUjFJRnVUYTNzbTMxdVFkSjk4Z2hwMUtnSzRjZ3hPckxHaUNKdGU1X2FaamZlQ0h6UEtqSlNuRTR1T2RQZXJVVE9FYXVHeXlsOGNmRy1WY0lfa0dDU3VkOXNEbWZGLWJydkdsYnk5dzhSMHd6dm43ZTN1M3lPYnNYa1dYcUFLN18tT0ZIX0dkUGhlakJyMjkyVHYzUjB6RmVSWXhkUS1XZw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 04:39 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783582763,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war windfall puts Big Oil on collision course with Trump - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVd6RVFlU1ZfQTNfYTFmQk5ITXhZS1E4anVCTTNlSEtDWkpPQ0R3bGFkdmJGbGFjUkM4S05oOVhyRTVyNjIwU2Z0SGlFa0hNYkdJU0MwMTh2VllQemU5U2s5ckVyWXlMWmxfaGhZbkN3WmVETTFfWjZUclpYRW1pdW5hX2g?oc=5",

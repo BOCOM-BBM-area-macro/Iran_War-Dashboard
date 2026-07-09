@@ -652,6 +652,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-09"
+    },
+    "https://www.cbc.ca/news/world/iran-u-s-missile-strike-gulf-9.7263833": {
+      "summary": "The United States launched new airstrikes against Iran early Thursday, and Tehran responded by targeting Bahrain, Kuwait and Qatar in crossfire that again threatened an interim deal intended to help end the war in the Persian Gulf.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
     }
   },
   "last_digest_success": true,
@@ -807,7 +817,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-09T11:15:03.560173+00:00",
   "last_generated_date": "2026-07-09",
-  "last_generated_time": "2026-07-09T12:02:17.879854+00:00",
+  "last_generated_time": "2026-07-09T13:02:15.183933+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

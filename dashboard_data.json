@@ -20,16 +20,6 @@
       "sentiment_success": false,
       "pub_date": "2026-07-08"
     },
-    "https://www.reuters.com/world/middle-east/us-military-is-conducting-fresh-strikes-iran-2026-07-08/": {
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
-      "pub_date": "2026-07-08"
-    },
     "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html": {
       "summary": "",
       "tags": [
@@ -40,7 +30,7 @@
       "sentiment_success": false,
       "pub_date": "2026-07-08"
     },
-    "https://www.reuters.com/world/middle-east/trump-says-he-doesnt-think-iran-conflict-will-start-again-2026-07-08/": {
+    "https://www.reuters.com/world/middle-east/us-military-is-conducting-fresh-strikes-iran-2026-07-08/": {
       "summary": "",
       "tags": [
         "extracted",
@@ -90,6 +80,26 @@
       "sentiment_success": false,
       "pub_date": "2026-07-08"
     },
+    "https://www.axios.com/2026/07/07/trump-nato-iran-war-grudge": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
+    "https://www.reuters.com/world/europe/trump-says-interim-accord-with-iran-end-war-is-over-2026-07-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-08"
+    },
     "https://www.reuters.com/world/trump-says-he-ordered-cutting-off-all-trade-with-spain-2026-07-08/": {
       "summary": "",
       "tags": [
@@ -110,21 +120,21 @@
       "sentiment_success": false,
       "pub_date": "2026-07-08"
     },
-    "https://www.reuters.com/world/europe/trump-says-interim-accord-with-iran-end-war-is-over-2026-07-08/": {
+    "https://www.nytimes.com/2026/07/08/insider/iran-war-satellite-image-restrictions.html": {
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-08"
     },
-    "https://www.axios.com/2026/07/07/trump-nato-iran-war-grudge": {
+    "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/": {
       "summary": "",
       "tags": [
         "extracted",
-        "axios.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -145,26 +155,6 @@
       "tags": [
         "extracted",
         "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
-      "pub_date": "2026-07-08"
-    },
-    "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/": {
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
-      "pub_date": "2026-07-08"
-    },
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html": {
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -220,16 +210,6 @@
       "sentiment_success": false,
       "pub_date": "2026-07-07"
     },
-    "https://www.wsj.com/business/energy-oil/alaska-gas-prices-iran-war-afbdaed8": {
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
-      "pub_date": "2026-07-06"
-    },
     "https://www.reuters.com/world/middle-east/us-military-launches-strikes-against-iran-central-command-says-2026-07-07/": {
       "summary": "",
       "tags": [
@@ -260,11 +240,31 @@
       "sentiment_success": false,
       "pub_date": "2026-07-05"
     },
+    "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-02"
+    },
     "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/": {
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-06"
+    },
+    "https://www.wsj.com/business/energy-oil/alaska-gas-prices-iran-war-afbdaed8": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -279,16 +279,6 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-05"
-    },
-    "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz": {
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "sentiment_success": false,
-      "pub_date": "2026-07-02"
     },
     "https://www.reuters.com/world/asia-pacific/us-iran-enter-technical-talks-secure-peace-deal-restart-shipping-2026-07-01/": {
       "summary": "",
@@ -372,37 +362,39 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-09T00:10:23.503072+00:00",
+  "last_digest_time": "2026-07-09T01:09:52.084583+00:00",
   "digest": {
-    "digest": "The United States military has conducted fresh strikes on Iran, with reports indicating these actions occurred over multiple consecutive days following President Trump's declaration that the interim accord to end the war is \"over.\" This escalation follows previous strikes and reimposition of sanctions after tanker attacks. President Trump has characterized Iranian leaders as \"scum\" and has ordered a halt to US trade with Spain, citing NATO spending and Iran. The ceasefire between the US and Iran has officially frayed, leading to renewed military actions. Internally, Iran's leadership appears divided on how to proceed, with factions differing on negotiating from a position of strength versus accepting economic solutions amidst severe sanctions. The ongoing funeral for former Supreme Leader Ali Khamenei, who was killed in February, has amplified calls for revenge and highlighted potential leadership struggles, particularly with the reported injury and limited public presence of his son, Mojtaba Khamenei. Global economic output forecasts for 2026 indicate a slowdown, and markets have reacted negatively to the renewed conflict, with stocks dropping and crude oil prices jumping, particularly impacting LNG prices. The diplomatic stance remains tense, with the US re-engaging in military action and Iran's security committee spokesperson expressing strong anti-US sentiments and demands for the US military to leave the Persian Gulf. The situation underscores a complex geopolitical environment with significant economic repercussions.",
+    "digest": "The United States military has conducted fresh strikes on Iran, with operations occurring over consecutive days. President Trump declared the interim accord with Iran to end the war as \"over,\" leading to renewed military actions. This escalation follows previous strikes and reimposition of sanctions after reported tanker attacks. The U.S. military's actions are a direct response to the termination of the ceasefire, with President Trump labeling Iranian leadership \"scum.\" Iran's leadership is reportedly divided on how to proceed, with internal factions grappling with economic pressures from sanctions and the strategic leverage of controlling the Strait of Hormuz. The ongoing conflict and associated tensions have led to a \"risk-off\" trading environment, with stock markets dropping and crude oil prices jumping. Global economic output forecasts for 2026 have also been revised downwards by the IMF, indicating broader economic repercussions. The situation remains volatile as diplomatic efforts appear to have stalled, and military engagement has resumed.",
     "top_themes": [
       "US Military Strikes on Iran",
-      "Iran-US Ceasefire Collapse",
-      "Iranian Leadership and Internal Divisions",
-      "Impact on Global Markets",
-      "Diplomatic Stalemate"
+      "Iran Ceasefire Over",
+      "Geopolitical Tensions and Economic Impact"
     ],
     "next_events": [
       {
-        "title": "Renewed US-Iran Military Confrontation",
-        "description": "Following President Trump's declaration that the ceasefire is 'over' and subsequent US military strikes, analysts should watch for further escalation of military actions from both sides. This includes potential Iranian retaliation for the killing of Ali Khamenei and continued US strikes, which could lead to a full-scale conflict."
+        "title": "Escalation of US-Iran Military Conflict",
+        "description": "With President Trump declaring the ceasefire 'over' and the US military conducting fresh strikes, the immediate risk of further military escalation is high. Analysts should closely monitor the frequency, targets, and nature of US military actions, as well as any retaliatory responses from Iran, particularly concerning critical infrastructure or regional proxies."
       },
       {
-        "title": "Iran's Internal Power Dynamics and War Strategy",
-        "description": "The death of Ali Khamenei and the ascension of an injured, less authoritative Mojtaba Khamenei have exposed deep divisions within Iran's leadership regarding the war's end. Monitor whether hardline factions pushing for revenge gain dominance over those advocating for negotiations, and how this internal struggle shapes Iran's response to US pressure and its overall war strategy."
+        "title": "Iranian Leadership Cohesion and War Strategy",
+        "description": "The death of Supreme Leader Ali Khamenei and the reported divisions within Iran's leadership, including the new leader Mojtaba Khamenei's absence and doubts about negotiations, create significant internal uncertainty. Watch for any clear consolidation of power, shifts in rhetoric from key figures, or a unified declaration of Iran's strategy for ending or continuing the conflict."
       },
       {
-        "title": "Intensified Global Economic and Energy Market Disruptions",
-        "description": "The 'Iran war' has already caused LNG prices to jump and crude prices to rise, leading to stock market drops. Watch for further volatility in global energy markets, particularly oil and gas, and broader economic slowdowns if the conflict escalates or if critical shipping lanes like the Strait of Hormuz are threatened."
+        "title": "Impact on Global Energy Markets and Economic Stability",
+        "description": "The ongoing conflict, reimposed sanctions, and threats to shipping routes like the Strait of Hormuz are already causing volatility, with LNG prices jumping significantly. Analysts should track global oil and gas prices, shipping insurance rates, and broader economic indicators for signs of sustained disruption or potential stabilization efforts."
       },
       {
-        "title": "Deterioration of Diplomatic Pathways",
-        "description": "With the US ceasefire declared over and Iranian leaders being called 'scum,' the immediate prospects for a diplomatic resolution appear bleak. Analysts should observe any subtle signals from either side that might indicate a willingness to re-engage in talks, despite the current rhetoric and military actions, or if the path to de-escalation is completely closed."
+        "title": "Prospects for US-Iran Diplomatic Engagement",
+        "description": "Despite Trump's declaration that the interim accord is 'over' and his harsh rhetoric, previous negotiations have occurred. Monitor for any subtle diplomatic overtures, back-channel communications, or shifts in official statements from either the US or Iran that could signal a renewed willingness to engage in de-escalation talks, however unlikely they may seem currently."
+      },
+      {
+        "title": "Regional and International Alliance Dynamics",
+        "description": "Trump's actions and rhetoric regarding Iran are impacting relationships with allies, as evidenced by the NATO summit and trade disputes. Observe how international bodies and key US allies respond to the escalating conflict, looking for increased diplomatic pressure, shifts in alliance commitments, or coordinated efforts to mediate the crisis."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-09T00:10:34.521994+00:00",
+  "last_watch_time": "2026-07-09T01:10:02.983098+00:00",
   "relevant_news": [
     {
       "title": "US military is conducting fresh strikes on Iran - Reuters",
@@ -462,26 +454,26 @@
       "sentiment_success": false
     },
     {
-      "title": "As Trump declares ceasefire over, Iran's leadership is divided over how it wants the war to end - CBC",
-      "url": "https://www.cbc.ca/news/world/iran-khamenei-trump-war-funeral-9.7262878",
-      "source": "CBC",
-      "domain": "cbc.ca",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=cbc.ca",
-      "published": "Jul 08, 2026 · 15:57 BRT",
+      "title": "US military says it is carrying out fresh strikes on Iran, after Trump says accord is 'over' - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 08, 2026 · 01:21 BRT",
       "pub_date": "2026-07-08",
-      "pub_ts": 1783537026,
-      "summary": "On Wednesday, U.S. President Donald Trump said the ceasefire with Iran was effectively over, and called the country's leadership \"scum.\" His comments come in the midst of Iran’s weeklong funeral for former supreme leader Ali Khamenei, who was killed by U.S.-Israeli airstrikes in February.",
+      "pub_ts": 1783484460,
+      "summary": "",
       "tags": [
         "extracted",
-        "cbc.ca"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "As\nTrump\ndeclares\nceasefire\nover,\nIran's\nleadership\nis\ndivided\nover\nhow\nit\nwants\nthe\nwar\nto\nend\n|\nCBC\nNews\nAs\nTrump\ndeclares\nceasefire\nover,\nIran's\nleadership\nis\ndivided\nover\nhow\nit\nwants\nthe\nwar\nto\nend\n|\nCBC\nNews\nLoaded\nWorld\n·\nAnalysis\nAs\nTrump\ndeclares\nceasefire\nover,\nIran's\nleadership\nis\ndivided\nover\nhow\nit\nwants\nthe\nwar\nto\nend\nOn\nWednesday,\nU.S.\nPresident\nDonald\nTrump\nsaid\nthe\nceasefire\nwith\nIran\nwas\neffectively\nover,\nand\ncalled\nthe\ncountry's\nleadership\n\"scum.\"\nHis\ncomments\ncome\nin\nthe\nmidst\nof\nIran’s\nweeklong\nfuneral\nfor\nformer\nsupreme\nleader\nAli\nKhamenei,\nwho\nwas\nkilled\nby\nU.S.-Israeli\nairstrikes\nin\nFebruary.\nIran\nin\nthe\nmiddle\nof\nweeklong\nfuneral\nfor\nslain\nsupreme\nleader\nMargaret\nEvans\n·\nCBC\nNews\n·\nPosted:\nJul\n08,\n2026\n2:57\nPM\nEDT\n|\nLast\nUpdated:\n5\nhours\nago\nPlay\nListen\nto\nthis\narticle\nEstimated\n6\nminutes\nThe\naudio\nversion\nof\nthis\narticle\nis\ngenerated\nby\nAI-based\ntechnology.\nMispronunciations\ncan\noccur.\nWe\nare\nworking\nwith\nour\npartners\nto\ncontinually\nreview\nand\nimprove\nthe\nresults.\nA\nbusy\nFerdowsi\nSquare\nin\nTehran\nfeatures\na\nnew\nbanner\nfeatures\nIran’s\nnew\nSupreme\nLeader\nMojtaba\nKahamenei\nsurrounded\nby\nordinary\nIranians.\n(Lyza\nSale/CBC)\nSocial\nSharing\nFew\nwill\nbe\nsurprised\nby\nDonald\nTrump’s\napparent\ndismissal\nof\nthe\nU.S.\nceasefire\nwith\nIran\nin\ncomments\nhe\nmade\nat\na\nNATO\nsummit\nin\nTurkey\non\nWednesday.\nNor\nwill\nthere\nbe\nmuch\nsurprise\nat\nthe\nU.S.\npresident’s\nlanguage\n—\ncalling\nIranian\nleaders\n\"scum\"\n—\nor\nthat\nboth\nsides\nare\nblaming\nthe\nother\nfor\nbreaching\nthe\ntruce.\nIndeed,\nmany\nanalysts\npredicted\nthat\nthe\nvague\ndetails\nof\nthe\nceasefire\nannounced\nin\nApril\nwould\nsoon\nsee\nit\nunravel.\nOil\nprices\njump\nand\nstocks\nmostly\nfall\nafter\nTrump\nsays\nceasefire\nwith\nIran\nis\n'over'\nU.S.\nlaunches\nfresh\nstrikes\non\nIran\nafter\nTrump\nwarned\npeace\ndeal\nis\n'over'\nThe\ntiming\nof\nTrump’s\nlatest\ncomments,\nthough,\nis\nsignificant.\nThey\ncome\nin\nthe\nmidst\nof\nIran’s\nweeklong\nfuneral\nfor\nformer\nsupr\neme\nleader\nAli\nKhamenei,\nwho\nwas\nkilled\nby\nU.S.-Israeli\nairstrikes\nin\nFebruary,\nand\njust\na\nday\nbefore\nthe\nprocession\ncarrying\nhis\ncoffin\nis\nexpected\nto\nreach\nhis\nhometown\nof\nMashhad\nfor\nburial.\nMany\nmourners\nin\nthe\ncrowds\nwere\ncarrying\nplacards\nreading\n\"Kill\nTrump\"\nand\nurging\nIranian\nleaders\nto\nseek\nrevenge,\nnot\npeace,\nafter\nKhamenei’s\ndeath.\nPeople\ngather\nat\nthe\nImam\nKhomeini\nGrand\nMosalla\nin\nTehran\nfor\na\nfarewell\nceremony\nfor\nIran's\nlate\nayatollah\nAli\nKhamenei\non\nJuly\n4,\n2026.\nA\nmulti-city\nstate\nfuneral\nis\nbeing\nheld\nover\nsix\ndays\nbefore\nhis\nbody\nis\nlaid\nto\nrest\non\nJuly\n9\nin\nhis\nhometown\nof\nMashhad,\nIran.\n(Majid\nSaeedi/Getty\nImages)\nThose\ncalls\nare\nexpected\nto\ngrow\nlouder\n—\nand\npotentially\namplify\ndivisions\nwithin\nthe\nIranian\nleadership,\nas\nit\nseeks\nto\nnavigate\na\nway\nout\nof\na\nconflict\nthat\nhas\nkilled\nmore\nthan\n3,000\nIranians\nand\ninflicted\nenormous\neconomic\ndamage,\nwhile\naddressing\nthe\nsense\nof\ndeep\ninjustice\nmany\nIranians\nfeel\nover\nwhat\nthey\nsee\nas\nan\nunprovoked\nattack\non\ntheir\ncountry.\nPhotos\nMassive\ncrowds\nmove\nthrough\nIran\nand\nIraq\nfor\nAyatollah\nAli\nKhamenei's\n6-day\nfuneral\nprocession\n\"There\nare\ndifferent\nshades\nof\nhardliners,\"\nsaid\nAli\nAnsari,\nan\nIran\nexpert\nand\nhistorian\nat\nSt.\nAndrews\nUniversity\nin\nScotland,\nin\nan\ninterview\nwith\nCBC\nNews\nearlier\nthis\nweek.\n\"Basically\nall\nthe\nnon-hardliners\nare\nout\n[of\nany\nleadership\nroles.]\"\nWho\nis\nmaking\ndecisions\nin\nIran?\nAnsari\nsays\nthe\nU.S.\nbelieves\nit's\nnegotiating\nwith\none\nof\nthe\nmost\npragmatic\nof\nthose\nat\nthe\nhelm:\nparliamentary\nspeaker\nMohammad\nBagher\nGhalibaf,\none\nof\nthe\nchief\nIranian\nnegotiators,\nalong\nwith\nForeign\nMinister\nAbbas\nAraghchi.\n\"He\ngave\na\nvery,\nvery\ngood\nspeech\nabout\nfour\nor\nfive\nweeks\nago,\nwhere\nhe\nsaid,\n'We\nwon\nthe\nbattle,\nbecause\nthe\nAmericans\ndidn’t\nplan\nvery\nwell.\nBut\nwe\ncan’\nt\nwin\nthe\nwar,\nand\nthat’s\nwhy\nwe\nneed\nto\nnegotiate.\nWe\nmust\nnegotiate\nfrom\na\nposition\nof\nstrength.'\"\nBut\nAnsari\nis\nskeptical\nof\nGhalibaf's\ninfluence.\n\"I’m\nnot\nsure\nhe’s\nin\nthe\ndriving\nseat,\nhowever.\"\nMohammad\nBagher\nGhalibaf,\ncentre,\nthe\nspeaker\nof\nthe\nIranian\nparliament,\narrives\nat\nthe\nBurgenstock\nresort\nin\nObbuergen,\nnear\nLucerne,\nSwitzerland,\nfor\nnegotiations\nover\nthe\nMiddle\nEast\nwar\non\nJune\n21,\n2026.\n(Urs\nFlueeler/Getty\nImages)\nGhalibaf\nand\nAraghchi,\nas\nwell\nas\nIranian\nPresident\nMasoud\nPezeshkian,\nhave\nbeen\nwidely\ncriticized\nby\nmany\nultra-hardliners\nfor\nengaging\nin\npeace\ntalks,\nand\ndenounced\nas\ntraitors\nat\nIranian\nrallies\nin\nrecent\nweeks.\nThe\ncontinued\nabsence\n—\nat\nleast\nin\nterms\nof\nphysical\npresence\n—\nof\nthe\nnew\nsupreme\nleader,\nKhamenei’s\nson\nMojtaba,\nincreases\nthe\nsense\nof\nobfuscation\nat\nthe\nheart\nof\nthe\nIranian\nleadership.\nReportedly\nseriously\ninjured\nin\nthe\nFeb.\n28\nattack\nthat\nkilled\nhis\nfather,\nMojtaba\nKhamenei\nhas\nthus\nfar\ncommunicated\nonly\nin\nstatements,\nincluding\none\nwh\nere\nhe\nexpressed\ndoubts\nabout\nthe\nU.S.-Iran\nnegotiations,\nwhile\nalso\nsignalling\nthey\ncould\ncontinue.\nWATCH\n|\nScenes\nfrom\nIran's\nmulti-day\nfuneral\nfor\nformer\nsupreme\nleader\nAli\nKhamenei:\nScenes\nfrom\nIran's\ndays-long\nfuneral\nfor\nassassinated\nleader\nJuly\n7\n|\nDuration\n2:07\nHundreds\nof\nthousands\nof\nmourners\npack\nthe\nstreets\nof\nTehran\nto\nsay\ntheir\ngoodbyes\nto\nAyatollah\nAli\nKhamenei,\nIran's\nlate\nsupreme\nleader\nkilled\nin\na\njoint\nattack\nbetween\nthe\nU.S.\nand\nIsrael\nback\non\nFeb.\n28.\nThe\nfour-day\nfuneral\nprocession\ntakes\nplace\nagainst\nthe\nbackdrop\nof\na\nceasefire\nwith\nthe\nU.S.\nas\nthe\ntwo\ncountries\nlook\nfor\na\npermanent\nend\nto\nthe\nwar,\nwhich\ndelayed\nthe\nceremony\nup\nuntil\nnow.\nAnsari\nsays\nMojtaba\nmight\nmetaphorically\nsit\nat\nthe\nhead\nof\nthe\ntable,\nbut\nhis\ncontinued\nabsence\nmeans\nhe\nlacks\nhis\nfather's\nauthority.\n\"So\nall\nthese\nother\nfactions\nare\nthere\nfighting\n[for\ncontrol].\"\nGauging\nAmerican\nseriousness\nAnalysts\nbelieve\nIranian\nauthorities\nare\ndivided\nbetween\nthe\neconomic\nimperatives\nof\naccepting\na\ndeal\nthat\ncould\nease\nan\neconomy\ncrippled\nby\nyears\nof\nU.S.-led\nsanctions\nand\ntrying\nto\nhold\non\nto\nthe\nleverage\nthat\ncontrolling\nthe\nStrait\nof\nHormuz\noffers.\n\"A\nsensible\nperson\nwill\nsay\nyes,\n[accept\nan\neconomic\nsolution]\nbecause\nthe\neconomic\nsituation\nis\nextremely\nbad,\"\nsaid\nAnsari.\n\"On\nthe\nother\nhand\n…\nthere\nis\na\nlegitimate\nthing\nto\nsay,\n‘Are\nthe\nAmericans\nremotely\nserious\nabout\n[an\nagreement]?’\"\nThe\nhardest\nof\nthe\nhardline\nfactions\nwill\nno\ndoubt\nuse\nTrump’s\nlatest\ncomments\nto\nargue\nthat\nnegotiations\nwith\nthe\nAmericans\nare\npointless.\nU.S.\nPresident\nDonald\nTrump,\nseen\nhere\nduring\nAmerica’s\n250th\nbirthday\ncelebrations\nearlier\nthis\nmonth,\nhas\nsaid\nthe\nceasefire\nwith\nIran\nis\nover.\n(CP)\nIn\nan\ninterview\nwith\nCBC\nNews\nin\nTehran\nlast\nmonth,\nEbrahim\nRezaei,\nspokesperson\nfor\nIran’s\nnational\nsecurity\nand\nforeign\npolicy\ncommittee,\nsaid\nhe\nbelieves\nIran\nis\nfighting\nan\nexistential\nwar\nagainst\nthe\nU.S.\n\"We\ndeem\nit\nvery\nprobable\nthat\nthe\nUnited\nStates\nwill\nattack\nus\nagain,\"\nRezaei\nsaid\nat\nthe\ntime,\nadding\nthat\nIran’s\nresponse\nto\nthe\nU.S.\nwar\nhas\nonly\nstrengthened\nits\nposition.\n\"We\nbelieve\nourselves\nto\nbe\na\nmighty\nand\npowerful\ncountry,\"\nhe\nsaid.\n\"And\nwe\nwill\nnot\nlet\nthe\nsituation\nof\nthe\nregion\nreturn\nto\nwhat\nit\nwas\nbefore\nthe\nwar,\nand\n…\nthe\nAmerican\nmilitary\nshould\nleave\nthe\nPersian\nGulf.\"\nFuneral's\nunderlying\nmessages\nThe\nIranian\nauthorities\nframed\nthe\nfuneral\nof\nAli\nKhamenei,\nwho\nruled\nIran\nwith\nan\niron\ngrip\nfor\nnearly\nfour\ndecades,\nas\na\nreferendum\nof\nsorts\non\nthe\nIslamic\nRepublic.\nThey\npredicted\nthe\nsix-day\nfarewell\nwould\ndraw\nup\nto\n20\nmillion\npeople\nto\nthe\nstreets\nin\nan\noutpouring\nof\nsupport\n—\nan\nunfeasible\ngoal,\naccording\nto\nAnsari.\n\"I\nwouldn’t\nwant\nto\ndiminish\nthe\n…\nsense\nof\nthe\ncrowds\nof\nloyalists,\nbecause\nthey’re\nclearly\nthere.\nBut\nI\ndon’t\nthink\nthis\nreflects\nany\nsort\nof\nreferendum\non\nthe\nIslamic\nRepublic.\"\nAmong\nthe\nmany\nbanners,\nposters\nand\nbillboards\nthat\nadorn\nbuildings\nin\nTehran\nis\nthe\nimage\nof\nIran’s\nSupreme\nLeader\nMojtaba\nKhamenei,\nright,\nand\nthe\nlate\nsenior\nmilitary\ncommander\nGeneral\nQassem\nSoleimani,\nwho\nwas\nassassinated\nin\na\ndrone\nstrike\nordered\nby\nDonald\nTrump\nin\nJanuary\n2020.\n(Lyza\nSale/CBC)\nAnsari\nsays\nthe\namount\nof\nplanning\nand\neffort\nauthorities\nhave\nput\ninto\nthe\nfuneral\nis\na\nmessage\naimed\nat\nreassuring\ntheir\nbase\nthat\nthe\nIslamic\nRepublic\nis\nas\nstrong\nas\nit\never\nwas.\nBut\nhe\nsays\nit\nserves\na\ndual\npurpose:\nit's\nalso\naimed\nat\nreminding\nthe\nmany\nopponents\nof\nthe\nregime\nthat\nthe\nauthoritarian\nstate\nis\nundiminished\nby\nthe\nwar.\nIran\nis\na\ncountry\nof\nmore\nthan\n90\nmillion\npeople.\nAnd\nthose\nopposed\nto\nthe\nrule\nof\nthe\nclerics\nare\nsimply\nstaying\naway\nfrom\nthe\nfuneral.\nAny\npossibility\nof\nopen\ndissent\nis\nextremely\nlimited\nin\na\npolice\nstate\nthat\nregularly\nemploys\nbrutal\nviolence\nagainst\nthose\nwho\ncriticize\nthe\ngovernment.\nOne\nTehran\nresident\nwho\nlost\nfriends\nand\nfamily\nin\nthe\nregime’s\ncrackdown\non\nanti-government\nprotesters\nin\nJanuary\ntold\nCBC\nNews\nin\na\nvoice\nmessage\nthat\nthe\ndeath\nof\nAli\nKhamenei,\na\nman\nwho\nhad\nlong\noppressed\nIranians,\nwas\na\ncomfort\nbut\nnot\na\ncure.\n(CBC\nNews\nis\nwithholding\nhis\nidentity\nfor\nhis\nown\nprotection.)\n\"The\nonly\nthing\nthat\ncan\nslightly\nease\nour\npain\nis\nthe\ncomplete\noverthrow\nof\nthe\nIslamic\nRepublic.\"\nABOUT\nTHE\nAUTHOR\nMargaret\nEvans\nSenior\nInternational\nCorrespondent\nMargaret\nEvans\nis\nthe\nsenior\ninternational\ncorrespondent\nfor\nCBC\nNews\nbased\nin\nthe\nLondon\nbureau.\nA\nveteran\nconflict\nreporter,\nEvans\nhas\ncovered\ncivil\nwars\nand\nstrife\nin\nAngola,\nChad\nand\nSudan,\nas\nwell\nas\nthe\nmyriad\nbattlefields\nof\nthe\nMiddle\nEast.\nCBC's\nJournalistic\nStandards\nand\nPractices\n·\nAbout\nCBC\nNews\nCorrections\nand\nclarifications\n·\nSubmit\na\nnews\ntip\n·\nReport\nerror\nRelated\nStories\nTrump\ncalls\noff\nlatest\nthreat\nto\nstrike\nIran,\nhints\nagain\nthat\na\n'settlement'\nis\nclose\nU.S.\nlaunches\nfresh\nstrikes\non\nIran\nafter\nTrump\nwarned\npeace\ndeal\nis\n'over'\nIran,\nU.S.\nhave\na\ndeal\nof\nsorts.\nWhat\nhappens\nnext?\nIran,\nU.S.\nreach\ndeal\nto\nend\nwar,\n'including\nin\nLebanon,'\nand\nreopen\nStrait\nof\nHormuz\nIran\nand\nIsrael\nsay\nthey\nhave\nhalted\nstrikes\non\neach\nother\nfor\nnow",
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "US Military Launches Strikes on Iran For Second Straight Day - Bloomberg.com",
+      "title": "US Military Launches Strikes on Iran for Second Straight Day - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-07-08/us-military-launches-strikes-on-iran-for-second-straight-day",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
@@ -500,14 +492,14 @@
       "sentiment_success": false
     },
     {
-      "title": "US military says it is carrying out fresh strikes on Iran, after Trump says accord is 'over' - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/",
+      "title": "Trading Day: War on, risk-off: Stocks drop, crude jumps as Trump calls Iran peace deal 'over' - Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-07-08/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 08, 2026 · 01:21 BRT",
+      "published": "Jul 08, 2026 · 18:59 BRT",
       "pub_date": "2026-07-08",
-      "pub_ts": 1783484460,
+      "pub_ts": 1783547947,
       "summary": "",
       "tags": [
         "extracted",
@@ -520,9 +512,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-09T00:10:35.072131+00:00",
+  "last_relevant_time": "2026-07-09T01:10:03.572982+00:00",
   "last_generated_date": "2026-07-08",
-  "last_generated_time": "2026-07-08T21:02:40.704838+00:00",
+  "last_generated_time": "2026-07-08T22:02:28.790474+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -543,14 +535,14 @@
           "_rank": 0
         },
         {
-          "title": "Oil Market Calm Is Shattered by Fresh Hostilities - The New York Times",
+          "title": "Oil Market Calm Shattered by Fresh Hostilities Between US and Iran - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNThDLUkwN0NDaWE1M2o2cEJnMzB0ODNRSzBTRFZ2bE1DcVZwREtNM3RIZnNPS2tEVU1NaFktaVItR1ZheGYzb0RpeEVvRHBVZFM4a2t1TVZtMG5SQ1lndFh5MUpLX05WOHJoQW91aDlVemdEY1hhcHlOeW5JNmI4SXBVTXpJSFYtc0p0emlWdUU?oc=5",
           "source": "The New York Times",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
-          "published": "Jul 08, 2026 · 13:19 BRT",
+          "published": "Jul 08, 2026 · 15:45 BRT",
           "pub_date": "2026-07-08",
-          "pub_ts": 1783527543,
+          "pub_ts": 1783536317,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -565,6 +557,20 @@
           "published": "Jul 08, 2026 · 11:27 BRT",
           "pub_date": "2026-07-08",
           "pub_ts": 1783520845,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gold drifts lower after Trump says deal with Iran is 'over' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 22:28 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783474080,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -753,20 +759,6 @@
           "_rank": 0
         },
         {
-          "title": "Saudi Oil Exports Approach Pre-War Levels as Hormuz Flows Rise - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjRRbENaLTR0MXBadnU2NGRlTEUxR2N0M0pzTkszd1Z3d09sbTdBY3AzVEJQUk1OR25Na0lVWGpnOEdUZGNnY1hQX2tWdnFSZzdnZkpWN3ZNVHZpMjctWWFsaEsyUXJZWnR3dmM5WV80Q3hIemw4dDZNSm44WHRpdkZfQlBBQjc2bmVXUHNLZzJDb1VtNC1wTF9hc1A4dWxYYTVaeS1LVlNoSHc1d3F0WWlQNA?oc=5",
-          "source": "Bloomberg.com",
-          "domain": "news.google.com",
-          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
-          "published": "Jul 02, 2026 · 15:53 BRT",
-          "pub_date": "2026-07-02",
-          "pub_ts": 1783018391,
-          "summary": "",
-          "tags": [],
-          "sentiment": "neutral",
-          "_rank": 0
-        },
-        {
           "title": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, source says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFJaLUh1S0VjTXZqZWRsa1JRVU1nektQQmFQd2IzNllGR3NEd25LT002dk5QREF2djg2VlZqNnU0MDROQ1NOSVowTlRwbDFzYnRIVzFOak9WREZiUXhldVUxNUFCUlFaR1VwZXd5WlZGdkZvaThFcWNGUHZNWmFoYmRseUI0ZVkxZ2p3UHByeWJTeTRacmtTTmVrRzkxY3hGazhMbWRVcVZYSnF1QjdQRA?oc=5",
           "source": "Reuters",
@@ -894,9 +886,9 @@
           "source": "The Washington Post",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
-          "published": "Jul 08, 2026 · 20:34 BRT",
+          "published": "Jul 08, 2026 · 21:47 BRT",
           "pub_date": "2026-07-08",
-          "pub_ts": 1783553656,
+          "pub_ts": 1783558036,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -959,6 +951,20 @@
           "_rank": 0
         },
         {
+          "title": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFSZk5WeEJaVV96QWl0TDFIZDJUNWFlNTVkNERLdkxfYlVuY2paaS1KbkFHaDB6dkpEeVQ0ZXlLLW1RTXlBTmN2XzBPaklObVJ1VzdpWkFVTDhIYWFNbWlRdDVWZDJkZF9BY0FlNmJHaDBPbmY5ZTVDMEw3M0ozbjN5N2ljem83ZVBQZ3BhUEc4VTZBYmNZVnBiTVFoWUJUdml0dEdOUVYtMG02VEJKQUhMaUZSSnJuWmc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 07, 2026 · 20:13 BRT",
+          "pub_date": "2026-07-07",
+          "pub_ts": 1783466009,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5",
           "source": "Reuters",
@@ -967,20 +973,6 @@
           "published": "Jul 07, 2026 · 18:06 BRT",
           "pub_date": "2026-07-07",
           "pub_ts": 1783458369,
-          "summary": "",
-          "tags": [],
-          "sentiment": "neutral",
-          "_rank": 0
-        },
-        {
-          "title": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFSZk5WeEJaVV96QWl0TDFIZDJUNWFlNTVkNERLdkxfYlVuY2paaS1KbkFHaDB6dkpEeVQ0ZXlLLW1RTXlBTmN2XzBPaklObVJ1VzdpWkFVTDhIYWFNbWlRdDVWZDJkZF9BY0FlNmJHaDBPbmY5ZTVDMEw3M0ozbjN5N2ljem83ZVBQZ3BhUEc4VTZBYmNZVnBiTVFoWUJUdml0dEdOUVYtMG02VEJKQUhMaUZSSnJuWmc?oc=5",
-          "source": "Reuters",
-          "domain": "news.google.com",
-          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
-          "published": "Jul 07, 2026 · 17:39 BRT",
-          "pub_date": "2026-07-07",
-          "pub_ts": 1783456785,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -1099,34 +1091,6 @@
     {
       "theme": "Aluminum",
       "articles": [
-        {
-          "title": "Gold drifts lower after Trump says deal with Iran is 'over' - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5",
-          "source": "Reuters",
-          "domain": "news.google.com",
-          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
-          "published": "Jul 07, 2026 · 22:28 BRT",
-          "pub_date": "2026-07-07",
-          "pub_ts": 1783474080,
-          "summary": "",
-          "tags": [],
-          "sentiment": "neutral",
-          "_rank": 0
-        },
-        {
-          "title": "Gold edges down as Middle East tensions propel oil prices higher, Fed minutes awaited - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3YtNTR2VmdTVnNrNVpWcmVjYWpZb1d6NTlmOEVyekFmdlpvek96eW5XbXJWMGhEWUNJNHBHOXhqWG4yRmxtTVZGdzdnYmk0V2ZhUzExaHd0Vld3MTJia2RzUkY4dmgwOEpFXzZZbEJQcFI0NURhREc0dm1lN1RralRYZ2dQdm5iUkcwblRaMjZpcmRIbnZ3S0lR?oc=5",
-          "source": "Reuters",
-          "domain": "news.google.com",
-          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
-          "published": "Jul 06, 2026 · 23:57 BRT",
-          "pub_date": "2026-07-06",
-          "pub_ts": 1783393020,
-          "summary": "",
-          "tags": [],
-          "sentiment": "neutral",
-          "_rank": 0
-        },
         {
           "title": "LME metals whipsawed by war and peace in first half of 2026 - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnpZQjdPMnRxa3Z1cERaLWo2c2t2SUFYQldzNjZNVGhkb3Blb3NWbEoySUxmQ29vbjE3REhwRzhPNDNqeHFIaHlTQVhlR0l4MVk0bE5tZmtGdlBuVVhLdXV5a1c1dUs3NmUyd3hWSUdsVmlyUXVBRFFzTm9VbFN2eDk4aHdyTXl6a1BJTXd3eU5CRVQxaUNoQkVBZHlMNlNWRnJiczR1cHFDd3dvU3ZPWXVpMUNoZl9yZkE?oc=5",

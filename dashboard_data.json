@@ -21,7 +21,7 @@
       "pub_date": "2026-07-09"
     },
     "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html": {
-      "summary": "",
+      "summary": "The president appears to be confronting the consequences of a cease-fire deal cobbled together in haste, with little movement toward resolving the key issues driving the conflict.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -51,7 +51,7 @@
       "pub_date": "2026-07-09"
     },
     "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html": {
-      "summary": "",
+      "summary": "The I.M.F. projected world output growth would fall to 3 percent for the year, a number pushed down by high commodity prices.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -181,7 +181,7 @@
       "pub_date": "2026-07-02"
     },
     "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz": {
-      "summary": "",
+      "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -271,7 +271,7 @@
       "pub_date": "2026-07-06"
     },
     "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html": {
-      "summary": "",
+      "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -311,7 +311,7 @@
       "pub_date": "2026-07-05"
     },
     "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html": {
-      "summary": "",
+      "summary": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -675,6 +675,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-09"
+    },
+    "https://www.axios.com/2026/07/09/trump-iran-strikes-photos-end-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
+    },
+    "https://www.washingtonpost.com/national-security/2026/07/02/us-warned-iran-about-israels-aims-assassinate-leaders/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-02"
     }
   },
   "last_digest_success": true,
@@ -830,7 +850,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-09T11:15:03.560173+00:00",
   "last_generated_date": "2026-07-09",
-  "last_generated_time": "2026-07-09T16:02:20.173305+00:00",
+  "last_generated_time": "2026-07-09T17:02:13.445568+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1055,6 +1075,20 @@
           "published": "Jul 08, 2026 · 10:32 BRT",
           "pub_date": "2026-07-08",
           "pub_ts": 1783517520,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says interim accord with Iran to end war is \"over\" - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTdTS2FQMm9xU19JZGVBRG9UUEtKOHF4SkVZVGlQMldHVjJCVjdSNDlyMjE2djFVeVJuU1NPZE5xWGlRdWZya0xsbkJKTG8zVFE2SmNwUlBYZFNLbVJ6ZlNsY1JTWkhiNi1lU0xpU1BNTVNiN2RQWXMwc25ub0dRQlFOZUdEa1ZkMGZESFJZcGpKc1hNSVowcy1rbFdOUy1XWVE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 08, 2026 · 08:32 BRT",
+          "pub_date": "2026-07-08",
+          "pub_ts": 1783510362,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -1457,6 +1491,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Fuel markets flash supply crunch despite calmer oil prices - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDZ1NldKak53VnZLd1p1SUtzd0htUnB0QTV6akdPUEphWFBDb09Xcm04NnVMZXp1bUtIRlgwd3J6b1VKbjZIMWZfbXNyLWlMc2ZETTktRExibFdEMWFuRjZOYUttS0FXd0k5eDdmcV9pTmVxUlJ6eUk0R2RqVXg3bEZwc3I0cVFYUEFvVHlMRmRUc3JxODk3LWRtdm4xN3AyS2xHZjRZZkdrLXR0YjRz?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 13:33 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783614824,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "EXCLUSIVE: China lifts fuel export curbs for July, sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZhYmpBVW0zQnJyY2N1c05Udmt2Vy1BUzhlaGozWlJzbm5rTWlMaFU1YVNOaUgyM282Q3k1OFFVZGYwcklsMXVEeVFPdWZSRDR6NGpkbGJVZEM2TjRIWENsZzdkYVNzSjlHUnQ2Z09CUms0LXlzZ3A3NFpzZkdSUGhBWU1fRHFhWDNZWjFxclJLTm1jN1hPN0pXWERfWjJyTnRxTmgyOWdKUQ?oc=5",

@@ -684,7 +684,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-10"
+      "pub_date": "2026-07-09"
     },
     "https://www.washingtonpost.com/national-security/2026/07/02/us-warned-iran-about-israels-aims-assassinate-leaders/": {
       "summary": "",
@@ -998,6 +998,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-10"
+    },
+    "https://www.reuters.com/world/middle-east/us-insists-iran-commit-stopping-attacks-hormuz-strait-say-us-officials-2026-07-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
+    },
+    "https://www.reuters.com/business/energy/occidentals-quarterly-realized-oil-prices-jump-amid-iran-war-disruption-2026-07-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
+    },
+    "https://www.timesofisrael.com/unclaimed-airstrikes-hit-iran-raising-possibility-of-gulf-state-involvement/": {
+      "summary": "After US completed attacks, a series of strikes targeted southern Iran; Iranian official warns UAE will 'pay the price for its cooperation with the United States'",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
     }
   },
   "last_digest_success": true,
@@ -1148,12 +1178,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-10T11:06:48.934787+00:00",
   "last_generated_date": "2026-07-10",
-  "last_generated_time": "2026-07-10T18:01:52.004651+00:00",
+  "last_generated_time": "2026-07-10T20:02:14.898857+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 10, 2026 · 18:09 BRT",
+          "pub_date": "2026-07-10",
+          "pub_ts": 1783717743,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Stocks rise, oil prices fall, while South Korean AI darling SK Hynix leaps in its Wall Street debut - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnU2LVpSQkZ4dG9sa2xlSEtGZUZZZnVibUxTZWRhQ1FsTl81ZFhrbktYQkdmdVRwbFVWZkpyTzFpMnpPVGxiX0R5dzdKYUh5VHY0c09NN3BLZGFybmw0S3o5LXZuY25FSkdELXA2NXNqQ1dnbGcydWtYc0dWQWpvSlhhZzQzZ2hOX1RlRXJBRHJjUDdrZ1ZKbmJ2Qkh0VDZ5TWljdUdMU0NnY3hRTjV2T1F5X2tfNUN6QS1oM2lMT3ZyNi12WFpr?oc=5",

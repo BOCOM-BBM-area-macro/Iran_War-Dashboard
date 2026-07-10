@@ -684,7 +684,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-09"
+      "pub_date": "2026-07-10"
     },
     "https://www.washingtonpost.com/national-security/2026/07/02/us-warned-iran-about-israels-aims-assassinate-leaders/": {
       "summary": "",
@@ -814,6 +814,26 @@
         "United States",
         "iran israel war",
         "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-10/iran-war-forces-japan-to-rethink-its-love-for-plastic-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
+    },
+    "https://www.reuters.com/video/watch/idRCV00GRR4/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

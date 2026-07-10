@@ -78,7 +78,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-07"
     },
     "https://www.axios.com/2026/07/07/trump-nato-iran-war-grudge": {
       "summary": "",
@@ -795,6 +795,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-09"
+    },
+    "https://www.reuters.com/business/finance/ecb-is-back-square-one-us-iran-war-resumes-2026-07-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902107": {
+      "summary": "“We’ve proved that we stand with the US. I’m not sure it will be of interest to the US that Israel will join on this - but, you know, we realize that we need to stretch our muscles,” a source said.",
+      "tags": [
+        "IDF",
+        "Iran",
+        "United States",
+        "iran israel war",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
     }
   },
   "last_digest_success": true,
@@ -1736,6 +1759,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "As Iran war rolls on, some executives say the 'worst is behind us' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFJOOWw1ZkV2VmM1SkoteXkwS1lnNXhnU2VFMzJMcG1SOUE0eUo4bkc1dTA1c25SYUlOWldOWkdaU2NaTk5qZmY1X1FPRlNGSkFTaFcwajRva0R0NGliUDBLSHBBaS1vZVFNWkkxaUJMWXZ2Y2MwLXFmS0V5M1pWVkFhZVlacnVrSjZlSnQyUzhJWmNocHB6VGRXX3NNSHRjUE9mRzNJX1A?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 06:02 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783587726,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump reopens the Iran war — and a political problem he can’t shake - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnVWX1ROWWN0cUo1bHQwQlVVUXRxdjFHazR6QjdNREs5YXR2WURHUEZ4WEpDdnNmRXJ4ZlhvUzFpTkxtcjdYRXc1NWY4VE8xUTBtSFVTcFEwbG1RSkpFcHRmcWZVcjZxX1RaREVCWFdJZmQ4a0FnUTJCZEpjcnRUSG9TNWd3VnpHNGFlVHg0NlV5anBQU1JVRTFOUExEVkk5QWtycVUyUU8yUQ?oc=5",

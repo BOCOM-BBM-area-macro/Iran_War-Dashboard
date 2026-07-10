@@ -138,7 +138,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-09"
     },
     "https://www.bloomberg.com/news/articles/2026-07-08/us-military-launches-strikes-on-iran-for-second-straight-day": {
       "summary": "",
@@ -684,7 +684,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-10"
+      "pub_date": "2026-07-09"
     },
     "https://www.washingtonpost.com/national-security/2026/07/02/us-warned-iran-about-israels-aims-assassinate-leaders/": {
       "summary": "",
@@ -898,6 +898,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-10"
+    },
+    "https://www.reuters.com/world/middle-east/countries-must-reject-iran-efforts-control-hormuz-un-agency-document-says-2026-07-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
     }
   },
   "last_digest_success": true,
@@ -1048,7 +1058,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-10T11:06:48.934787+00:00",
   "last_generated_date": "2026-07-10",
-  "last_generated_time": "2026-07-10T10:02:21.009982+00:00",
+  "last_generated_time": "2026-07-10T11:02:14.297179+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1857,6 +1867,20 @@
           "published": "Jul 09, 2026 · 06:02 BRT",
           "pub_date": "2026-07-09",
           "pub_ts": 1783587726,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "GM Says Iran War, High Gas Prices Aren’t Denting Sales - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGpFZnhvVWtjTV9SMFlpVnVSbm5VZlgwTExpM0FxT3RwSkdFTmM3YUhmblVvNUR1aTljdFpZMkJKMnZqakNpMzZtY012eFp0MU9vaS15Y0k2bVoxS1Zfbzk3R1ZDdVdlRVZNNDIwcUl2YnAyMXZmWVc2R1duSnFPUXJMMDliODJTS3YyeGhySEk4NzJPak4zRWRINFViUTZja2J6TUF6WDVwYmRZZ1BnMkRmSnd1SngwN2VWTHpnMVJjRUhKUzJPa3gtVWlVeE0?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 04:52 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783583579,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

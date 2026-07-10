@@ -785,6 +785,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-09"
+    },
+    "https://www.wsj.com/business/energy-oil/a-big-winner-from-the-iran-war-africas-richest-man-2ac404b6": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-09"
     }
   },
   "last_digest_success": true,
@@ -946,6 +956,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "A Big Winner From the Iran War: Africa’s Richest Man - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkNUanR1djFTNkNNRVFVTE9sODRyQjVjaVc3TElFNHdtcHJiV2xtaFFKejZKcmRBSF9IMWhWeTVSLUxxRDEwamliUjBBMzNyNWtrV3R3MTVYNURtU0VEUGFNcHduSGxoRG04eUpBSl9nak05LTF0OHl6YjFLZFFLOU41b2JBUmJtTEd1VTlOOFQtZkRJRy16NmtOZkZKeEp0?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 23:00 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783648800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDdqSXFHS2hjSTRJMGRzYnF0VWZIZlM4RVpYN0N4RGxpdEFXWTdVU2xPNW1TU2Fnajd1VjFtTFZHNHV6TXI5ZWNSTnlPS3A3Q1hPMTBrNU9CSHdNRG1XS21Ldi0xcWhTTjNGaDh1T1FRaEJSSlh6Qkc2ZmQ4U2VjSUY5RjY?oc=5",

@@ -888,6 +888,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-10"
+    },
+    "https://www.reuters.com/business/energy/tanker-traffic-slows-strait-hormuz-after-us-iran-clashes-2026-07-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
     }
   },
   "last_digest_success": true,
@@ -1038,7 +1048,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-10T11:06:48.934787+00:00",
   "last_generated_date": "2026-07-10",
-  "last_generated_time": "2026-07-10T09:02:48.240155+00:00",
+  "last_generated_time": "2026-07-10T10:02:21.009982+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

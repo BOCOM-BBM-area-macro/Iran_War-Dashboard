@@ -138,7 +138,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-09"
+      "pub_date": "2026-07-08"
     },
     "https://www.bloomberg.com/news/articles/2026-07-08/us-military-launches-strikes-on-iran-for-second-straight-day": {
       "summary": "",
@@ -908,6 +908,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-10"
+    },
+    "https://www.washingtonpost.com/business/2026/07/10/stocks-market-iran-war-ai-oil/7c5d264a-7c2d-11f1-b194-f872dd4ec5aa_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
+    },
+    "https://www.reuters.com/world/middle-east/iran-has-asked-continue-talks-us-agreed-trump-says-2026-07-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-10"
     }
   },
   "last_digest_success": true,
@@ -1058,12 +1078,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-10T11:06:48.934787+00:00",
   "last_generated_date": "2026-07-10",
-  "last_generated_time": "2026-07-10T11:02:14.297179+00:00",
+  "last_generated_time": "2026-07-10T12:02:14.507074+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 10, 2026 · 09:54 BRT",
+          "pub_date": "2026-07-10",
+          "pub_ts": 1783688050,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US-Iran escalation could threaten 2027 oil market surplus, IEA says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcS1IS0o0Q2RIbVZsMWFQc3hWY2lheW5Zb09jdVlENDBxeFVOYk0xRUozaTI4NFVUUzlGem1tLUdnVURUYXcySHVNdk5kd185ZTAzOHFkUjV2MHYxQkNOejZSbTl3VlQyb3c5NWM4ejhFZUlNN3FUYnA3SW1uWGtzaFVXTDFYY2MzRHRBZzh3N2tfeUw0ZnlELXRNX2JKb1dsalpzVkppVmZjMTVTZ2ZWcnZCRUNGMzByaFE?oc=5",
@@ -1764,6 +1798,20 @@
           "published": "Jul 09, 2026 · 13:33 BRT",
           "pub_date": "2026-07-09",
           "pub_ts": 1783614824,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "World faces growing diesel supply crunch as Russia cuts off exports - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzdvSEU5eUdqcWppS1RYU1JRdnpzZWx2ZnVIemtWY2I1YTI1amhldkJmeHlKNHV4Y1hybmN2RGxPR0dwWVJVYjFNaWJpM3ZGMGgtNXRVR2Z4bzZ5OGVPRThGanZOaUNxUG1mVDNpMUJxNS1KSXg1WElrN1dQblJTQTdXV18?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 12:30 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783611059,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

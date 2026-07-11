@@ -1,10 +1,13 @@
 {
   "news_cache": {
     "https://www.reuters.com/world/middle-east/trump-wants-leave-iran-war-behind-that-wont-happen-soon-2026-07-08/": {
-      "summary": "",
+      "summary": "His choices are limited and mostly bad, analysts say.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "ANV",
+        "EREP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -31,10 +34,13 @@
       "pub_date": "2026-07-08"
     },
     "https://www.reuters.com/world/middle-east/us-military-is-conducting-fresh-strikes-iran-2026-07-08/": {
-      "summary": "",
+      "summary": "The U.S. strikes rattled cities along Iran's southern coast ​and left some areas without power.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:LNG",
+        "RULES:IRAN",
+        "REPI:GAS",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:ENERGY-OIL-GAS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -91,10 +97,13 @@
       "pub_date": "2026-07-07"
     },
     "https://www.reuters.com/world/europe/trump-says-interim-accord-with-iran-end-war-is-over-2026-07-08/": {
-      "summary": "",
+      "summary": "U.S. President Donald Trump said on Wednesday that the memorandum of ​understanding signed with Iran to end the conflict ‌was \"over\", adding he didn't want to engage with Tehran.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "CWP",
+        "DEF",
+        "DEFBUY",
+        "DIP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -131,10 +140,13 @@
       "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/": {
-      "summary": "",
+      "summary": "The U.S. strikes rattled cities along Iran's southern coast ​and left some areas without power.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:LNG",
+        "RULES:IRAN",
+        "REPI:GAS",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:ENERGY-OIL-GAS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -191,10 +203,13 @@
       "pub_date": "2026-07-03"
     },
     "https://www.reuters.com/world/middle-east/trump-says-there-will-either-be-deal-with-iran-or-us-will-finish-job-2026-07-06/": {
-      "summary": "",
+      "summary": "President Donald Trump said on ​Monday the United States would either reach a deal ‌with Iran or \"finish the job,\" renewing his threat of military action as Tehran projects defiance following the funeral of Supreme Leader Ayatollah Ali Khamenei.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "CIV",
+        "CWP",
+        "DEF",
+        "DIP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -211,10 +226,13 @@
       "pub_date": "2026-07-07"
     },
     "https://www.reuters.com/world/middle-east/us-military-launches-strikes-against-iran-central-command-says-2026-07-07/": {
-      "summary": "",
+      "summary": "The U.S. military has launched a ​series of strikes against Iran, U.S. ‌Central Command said Tuesday, adding that the strikes were in response to what it said ​were Iranian attacks on three ​commercial vessels that were transiting the ⁠Strait of Hormuz.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RSBI:WORKER-RIGHTS",
+        "CWP",
+        "DIP",
+        "ENER",
+        "ENG"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -251,10 +269,13 @@
       "pub_date": "2026-07-02"
     },
     "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/": {
-      "summary": "",
+      "summary": "The world has absorbed with surprising ease the loss of over a billion barrels of oil supply since the Iran war began, but, with long-term peace elusive and buffer reserves now ​drained, it still faces the looming risk of future price spikes.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:OPEC",
+        "TOPIC:MARKETS-EUROPE-ECB",
+        "REPI:STORAGE",
+        "REPI:TRANSPORT-FUELS",
+        "TOPIC:MARKETS-RECOMMENDED"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -431,10 +452,13 @@
       "pub_date": "2026-07-08"
     },
     "https://www.reuters.com/world/middle-east/gulf-companies-are-set-reveal-unequal-toll-iran-war-2026-07-09/": {
-      "summary": "",
+      "summary": "Companies in the Gulf, some of the most directly affected by the Iran war, will provide one of the clearest insights so far of its regional financial impact when they begin reporting ​their second-quarter earnings this week.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "GRAPHC",
+        "MTGFX",
+        "MTPIX"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -481,10 +505,13 @@
       "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/business/aerospace-defense/airbus-trims-jet-industry-demand-forecast-after-iran-war-tariffs-2026-07-08/": {
-      "summary": "",
+      "summary": "Airbus on ​Wednesday revised down its 20-year industry-wide forecast for passenger aircraft demand by 1% after the Iran war and trade tensions slammed ‌the brakes on what had been a sharp rebound in airline activity since the COVID-19 pandemic.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "AER",
+        "AERO",
+        "AIR",
+        "AIRL",
+        "CMPNY"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -544,10 +571,13 @@
       "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/business/energy/iran-war-rolls-some-executives-say-worst-is-behind-us-2026-07-09/": {
-      "summary": "",
+      "summary": "As countries and companies globally grapple with the impact ​of the Iran war and the largest energy shock in history, some say the worst is over, while ‌others see the conflict as a window of opportunity to build on green initiatives and investment.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "RSUM",
+        "BISV",
+        "CMPNY"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -594,20 +624,26 @@
       "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/world/middle-east/iran-says-it-hits-us-military-targets-gulf-prepares-bury-slain-leader-2026-07-09/": {
-      "summary": "",
+      "summary": "Iranian armed forces launched attacks on U.S. military infrastructure in Gulf states following U.S. strikes on Iran's southern coastal and eastern provinces, further eroding a ‌three-week-old ceasefire.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:LNG",
+        "RULES:IRAN",
+        "REPI:GAS",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:ENERGY-OIL-GAS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-09"
     },
     "https://www.axios.com/2026/07/09/iran-war-hormuz-oil-natural-gas-energy-transition": {
-      "summary": "",
+      "summary": "The oil economy's surprising flexibility and countries' plans to cut reliance on the Strait of Hormuz could together limit how much the war boosts the global energy transition.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Climate and energy policy",
+        "Iran",
+        "Oil production",
+        "Renewable energy",
+        "Crude oil"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -677,10 +713,13 @@
       "pub_date": "2026-07-09"
     },
     "https://www.axios.com/2026/07/09/trump-iran-strikes-photos-end-war": {
-      "summary": "",
+      "summary": "The war has been distilled into shareable, meme-able bits of social media.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Donald Trump",
+        "Middle East",
+        "Trump administration",
+        "Middle East conflict",
+        "Iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -797,10 +836,13 @@
       "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/business/finance/ecb-is-back-square-one-us-iran-war-resumes-2026-07-10/": {
-      "summary": "",
+      "summary": "The European Central Bank is back to square one in its fight against high ​inflation in the euro zone after new hostilities ‌between the U.S. and Iran caused energy prices to rise again, ECB policymaker Yannis Stournaras said on Friday.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "TOPIC:MARKETS-EUROPE-ECB",
+        "MTPIX",
+        "BISV",
+        "BNK",
+        "BNKS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -860,10 +902,9 @@
       "pub_date": "2026-07-10"
     },
     "https://www.reuters.com/markets/commodities/energy/energy-companies-stand-gain-iran-war-drags-2026-07-10/": {
-      "summary": "",
+      "summary": "A visual take on one of the biggest stories of the week.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "WEBVIEW"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -890,10 +931,13 @@
       "pub_date": "2026-07-10"
     },
     "https://www.reuters.com/business/energy/tanker-traffic-slows-strait-hormuz-after-us-iran-clashes-2026-07-10/": {
-      "summary": "",
+      "summary": "President Donald Trump said on Friday that the United States and Iran had ​agreed to continue talks despite a recent escalation of hostilities but he flatly declared that the ceasefire reached between the two sides last month was over.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:LNG",
+        "RULES:IRAN",
+        "REPI:GAS",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:ENERGY-OIL-GAS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -970,10 +1014,13 @@
       "pub_date": "2026-07-10"
     },
     "https://www.reuters.com/business/fed-report-cites-stepped-up-inflation-2026-07-10/": {
-      "summary": "",
+      "summary": "U.S. inflation \"stepped up further this spring\" as the ​evolving impact of tariffs, a war-related rise in energy costs, and the booming artificial intelligence buildout boosted price pressures that took root last year, the Federal Reserve said on Friday ‌in a monetary policy report to Congress.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "EF:MARKETS-MACROMATTERS",
+        "RULES:MARKETS-US-FED",
+        "MTPIX",
+        "REP",
+        "ARTI"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -990,10 +1037,13 @@
       "pub_date": "2026-07-10"
     },
     "https://www.axios.com/2026/07/10/trump-iran-talks-ceasefire-over": {
-      "summary": "",
+      "summary": "A source with knowledge said another round of negotiations between the U.S. and Iran is expected next week.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Donald Trump",
+        "Diplomacy",
+        "Iran deal",
+        "Iran",
+        "Truth Social"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1010,10 +1060,13 @@
       "pub_date": "2026-07-10"
     },
     "https://www.reuters.com/business/energy/occidentals-quarterly-realized-oil-prices-jump-amid-iran-war-disruption-2026-07-10/": {
-      "summary": "",
+      "summary": "Shale producer Occidental Petroleum said in a filing on Friday its worldwide average ​realized oil prices rose 38.4% in ‌the second quarter compared with the previous three months, driven by higher benchmark crude ​rates amid the Middle East conflict.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:EXPLORATION-PRODUCTION",
+        "REPI:GAS",
+        "TOPIC:ENERGY-OIL-GAS",
+        "TOPIC:ENERGY-POWER",
+        "BLR"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1030,10 +1083,13 @@
       "pub_date": "2026-07-10"
     },
     "https://www.reuters.com/markets/europe/european-shares-snap-four-week-winning-streak-tech-selloff-us-iran-war-2026-07-10/": {
-      "summary": "",
+      "summary": "European shares ended a four-week winning streak ​on Friday, buffeted by an unwind in tech stocks and resurgent tensions in the Middle East that ‌rattled oil markets.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RATI:ADAS-AV-SAFETY",
+        "MKTREP",
+        "RCH",
+        "STX",
+        "GB"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1050,10 +1106,13 @@
       "pub_date": "2026-07-09"
     },
     "https://www.reuters.com/world/middle-east/trump-says-missiles-aimed-iran-if-tehran-targets-us-president-2026-07-11/": {
-      "summary": "",
+      "summary": "U.S. President Donald Trump said on Friday he had ordered ​the military to be prepared ‌to launch strikes against Iran if the Iranian government carried out or ​attempted an assassination of ​the president.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "BLR",
+        "GEN",
+        "NEWS1",
+        "POL"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

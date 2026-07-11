@@ -981,7 +981,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-11"
+      "pub_date": "2026-07-10"
     },
     "https://www.washingtonpost.com/world/2026/07/10/trump-says-us-iran-will-keep-talking-declares-ceasefire-over/": {
       "summary": "",
@@ -1047,7 +1047,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-10"
+      "pub_date": "2026-07-11"
     },
     "https://www.reuters.com/world/middle-east/us-insists-iran-commit-stopping-attacks-hormuz-strait-say-us-officials-2026-07-10/": {
       "summary": "",
@@ -1163,6 +1163,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-11"
+    },
+    "https://www.washingtonpost.com/world/2026/07/11/after-leaders-funeral-an-emboldened-iran-tests-trump-risking-renewed-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1323,7 +1333,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-11T11:05:46.487663+00:00",
   "last_generated_date": "2026-07-11",
-  "last_generated_time": "2026-07-11T09:02:10.153700+00:00",
+  "last_generated_time": "2026-07-11T10:02:13.355397+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

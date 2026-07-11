@@ -981,7 +981,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-11"
+      "pub_date": "2026-07-10"
     },
     "https://www.washingtonpost.com/world/2026/07/10/trump-says-us-iran-will-keep-talking-declares-ceasefire-over/": {
       "summary": "",
@@ -1113,6 +1113,16 @@
         "GEN",
         "NEWS1",
         "POL"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-11"
+    },
+    "https://www.timesofisrael.com/shin-bet-chief-said-seeking-probe-into-channel-12-but-denies-he-caved-to-pressure/": {
+      "summary": "Security agency confirms David Zini met with pro-Netanyahu Channel 14 pundit Bardugo, who lobbied for investigation of rival network; Channel 14 is itself alleged to have repeatedly broadcast classified info",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

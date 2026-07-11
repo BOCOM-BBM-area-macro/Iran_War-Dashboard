@@ -1227,6 +1227,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-11"
+    },
+    "https://www.washingtonpost.com/politics/2026/07/11/trump-iran-threats-dead-mans-switch-vance/6e2a5446-7d48-11f1-b194-f872dd4ec5aa_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-11"
     }
   },
   "last_digest_success": true,
@@ -1383,7 +1393,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-11T11:05:46.487663+00:00",
   "last_generated_date": "2026-07-11",
-  "last_generated_time": "2026-07-11T17:02:18.297707+00:00",
+  "last_generated_time": "2026-07-11T18:02:24.981105+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

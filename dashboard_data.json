@@ -239,7 +239,7 @@
       "pub_date": "2026-07-07"
     },
     "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal": {
-      "summary": "",
+      "summary": "The president met with aides for two hours at the White House about a possible cease-fire extension, according to a senior administration official. Earlier, Mr. Trump had suggested in a social media post that he was ready to make a decision.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -1393,7 +1393,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-11T11:05:46.487663+00:00",
   "last_generated_date": "2026-07-11",
-  "last_generated_time": "2026-07-11T18:02:24.981105+00:00",
+  "last_generated_time": "2026-07-11T19:02:12.483452+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2534,6 +2534,20 @@
           "published": "Jul 09, 2026 · 05:10 BRT",
           "pub_date": "2026-07-09",
           "pub_ts": 1783584652,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The Iran global inflation crisis that stubbornly refuses to happen - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFJORlMtOEd5c1EzX2Jxck9QQ01RWUdkNndVdC1FbHd3Vmo2UzliSGhuOHE1NTYxc1hsRDdlamlERldxSG96ZnJnc2gwU2lYb2NaZ0pkOFFqSVl3Ty1wSzJaN2VhelFTQmtva0tKa3RqSTJnVDFNQThqX2pScGpwUy1xZDE?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 01:00 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783569654,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -1237,6 +1237,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-11"
+    },
+    "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-strait-hormuz-closed-until-further-notice-state-media-2026-07-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-11"
     }
   },
   "last_digest_success": true,
@@ -1393,7 +1403,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-11T11:05:46.487663+00:00",
   "last_generated_date": "2026-07-11",
-  "last_generated_time": "2026-07-11T19:02:12.483452+00:00",
+  "last_generated_time": "2026-07-11T20:02:12.701631+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2526,6 +2536,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "Braving war losses and tough conditions, Thai workers stay rooted in Israeli agriculture - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1RVZ3ByNFMtSl8zOHhrVERRQnNqTEQ2NkxrZHRIMkFCdHRUOVpEeC1ZOXV3YVhmX1FsaHI3RGxMakZ1N3lLWk0zSFhnd1Zlam1lNm1LdHpsVXpxb25sZ0lYQXNrUXU2ZVl5Qi1oTlFEaUZBb295ODlOenNuTC11ekZrUUtrUG83bHhLNUdTc1I4TW1OSmtWbC1oZFkyMWt6Sk0xd0hzR3JxdXNieWU0TGxFcHpQWmktVXfSAb8BQVVfeXFMTWxvMFJRTFRZZnBkeEk5bGNHcEFNX2J6VXlhalVGMHk5bUtJV0JnYVhndnFYSFkyZUE1ZXpYMWRtZ19RLU5FaEhCSTJIV0NQcFlXaEhNeTJzRk1KcGxZRGFHYTIwZUV2QnVvV2pubndBeGxPVXJXWnZhU0JITWxWeWU1Y0ZvMU15MkJqQnNYUlBkalJVckhOR2Y3NzJlc092U0x0cDB5Q29iYTMzNWQwRnNzWmlUX0QtMUJTSVZMaTQ?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 11, 2026 · 03:43 BRT",
+          "pub_date": "2026-07-11",
+          "pub_ts": 1783752187,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "France Plans €2 Billion to Cut Fertilizer Imports Dependence - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmlVSmNJRXNNel8wTjNEMFRaUXdhNlFKR0RlMEhyazRqXzg2UFd2UG1KNUpKWi1CS2stOUcwYnA0N0NEakpnbzVuOXlpRE5CRjI4dUJ2QjQwR3RfWWhidzkyNFlobnk2eWlvYmswRF9QdDJxOEgyU2xvck8yTU5peC1vQkdEcTNzZ0JTQkRqQ3Q0TkpFQVB1UTBhTmIwX0tHTVNsWmZhSEZFeUJMN2FJ?oc=5",
           "source": "Bloomberg.com",
@@ -2590,6 +2614,20 @@
           "published": "Jul 07, 2026 · 23:26 BRT",
           "pub_date": "2026-07-07",
           "pub_ts": 1783477563,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US voters say Trump’s Iran war not worth the cost — FT poll - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU8zVXZ6UFBVUkYxUlhjYW9OODdkSkhBUW80RXF1cDdTM0JQQnNPQzZEVWFFblpmTlBrTU41Q01QVUhETExwb1dNNHpadU1zbnRVYnVjZDdKUHZXeHo0aXFYWlc1UTVZaHlvM3RtU1poajFkQjZWLWZqY0NpTThkTng4VWI?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 05, 2026 · 09:00 BRT",
+          "pub_date": "2026-07-05",
+          "pub_ts": 1783252803,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

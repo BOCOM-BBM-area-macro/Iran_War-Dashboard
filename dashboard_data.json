@@ -1157,123 +1157,62 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-11"
+    },
+    "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-11"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-10T11:06:35.202337+00:00",
+  "last_digest_time": "2026-07-11T11:05:38.022674+00:00",
   "digest": {
-    "digest": "The conflict between the U.S. and Iran has intensified, with U.S. forces conducting stepped-up attacks and Iran responding by targeting U.S. bases in Qatar, Bahrain, and Kuwait. This escalation raises the prospect of an all-out war, with the Strait of Hormuz remaining a key point of contention. Iran claims to have hit U.S. military targets in the Gulf. Reports indicate Iran may have hatched a plot to assassinate President Trump, a claim Israel has reportedly shared with the U.S. The absence of Iran's Supreme Leader, Ayatollah Ali Khamenei, has created a void within the regime, though he has reportedly been buried following his death. Israel has stated its willingness to assist the U.S. against Iran if requested, though it has no current plans to join the war directly. The ongoing conflict is impacting global economies, with energy companies standing to gain and some, like Japan, rethinking their reliance on plastics. Russian finances are facing increased strain despite short-term benefits from the war, as oil prices decline. Latin American economies have largely avoided negative consequences from the war. U.S. satellite imagery restrictions are affecting reporting on the conflict, prompting journalists to seek alternative sources. The war is empowering hard-liners within Iran, particularly amidst the latest hostilities over the Strait of Hormuz.",
+    "digest": "The United States and Iran have agreed to continue talks, despite a recent escalation of hostilities. President Trump declared that a ceasefire previously reached between the two sides is now over, while simultaneously stating that negotiations will persist. U.S. forces have conducted strikes on over 170 targets in Iran, including air defense systems and missile storage sites. In response to potential Iranian threats, President Trump has ordered the military to be prepared to launch strikes against Iran if the Iranian government attempts an assassination of the U.S. president. Unclaimed airstrikes have also targeted southern Iran, with an Iranian official warning the UAE of repercussions for its cooperation with the United States. Israel has also reportedly struck an Iranian steel facility. The ongoing conflict continues to impact global markets, with Occidental Petroleum reporting a 38.4% jump in quarterly realized oil prices due to the disruption. Inflation in the U.S. has been further exacerbated by war-related energy costs, according to a Federal Reserve report. The European Central Bank notes that rising energy prices due to renewed hostilities have set back efforts to combat inflation in the Eurozone. China has instructed its refiners to maintain high fuel output as the Iran war persists, and the conflict's impact on the global economy remains a cloud over the economic outlook, though Latin American economies have thus far avoided significant negative consequences.",
     "top_themes": [
-      "Escalation of US-Iran hostilities",
-      "Geopolitical and economic impacts of the Iran War",
-      "Israeli and Russian involvement/reactions"
+      "US-Iran Diplomacy",
+      "Economic Impact of Conflict",
+      "Military Escalation"
     ],
     "next_events": [
       {
-        "title": "Direct Military Escalation and Retaliation Cycle",
-        "description": "The U.S. and Iran are caught in a violent cycle of strikes and counter-strikes, with Iran targeting U.S. bases and the U.S. stepping up attacks. Analysts must closely monitor further military engagements, particularly around the Strait of Hormuz, and any actions that could push the conflict towards an all-out war."
+        "title": "Future of US-Iran Negotiations",
+        "description": "Despite President Trump's declaration that the ceasefire is 'OVER!', both the U.S. and Iran have agreed to continue talks, with another round expected next week. Analysts should closely monitor the progress and outcomes of these negotiations, as they are crucial for de-escalation or further conflict."
       },
       {
-        "title": "Iran's Leadership Void and Hardliner Influence",
-        "description": "The reported absence of Iran's Supreme Leader creates uncertainty at the top, while the ongoing conflict empowers hard-liners who prefer war. Watch for any developments regarding the Supreme Leader's health or succession, as well as the increasing consolidation of power by hardline factions, which will shape Iran's future actions."
+        "title": "Military Escalation and Retaliatory Actions",
+        "description": "The U.S. has ramped up strikes against Iranian targets, and Trump has threatened further action if U.S. personnel or the president are targeted. Unclaimed airstrikes have also hit southern Iran, prompting warnings to the UAE. Watch for further military engagements from any party and Iran's potential retaliatory measures, which could broaden the conflict."
       },
       {
-        "title": "Broad Economic Impact and Geopolitical Realignment",
-        "description": "The conflict is causing significant global economic shifts, benefiting energy companies and impacting various national economies from Russia to Japan and Latin America. Track oil price volatility, the financial health of Gulf companies, and how nations adapt to supply chain disruptions and potential new alliances, such as Israel's willingness to assist the U.S."
+        "title": "Strait of Hormuz Security and Global Energy Flow",
+        "description": "The U.S. is seeking a pledge from Iran to ensure the free flow of shipping through the Strait of Hormuz, a critical chokepoint for global oil supplies. Any disruption or Iranian refusal could significantly impact energy markets and prompt international intervention. Monitor the security situation and any Iranian actions regarding the Strait."
       },
       {
-        "title": "U.S. Strategic Shifts and De-escalation Pathways",
-        "description": "With the current approach leading to a violent cycle, the U.S. may seek a 'Plan C' to manage the conflict and its political ramifications. Analysts should look for any new diplomatic initiatives, changes in U.S. military posture, or attempts to de-escalate tensions, which could signal a shift from the current confrontational stance."
+        "title": "Global Economic and Inflationary Trends",
+        "description": "The ongoing conflict has already led to a significant jump in oil prices and contributed to 'stepped-up' inflation, impacting central bank policies (Fed, ECB). Analysts should track crude oil benchmarks, global inflation rates, and the responses of major central banks as energy costs continue to fluctuate due to the war."
+      },
+      {
+        "title": "Regional Involvement and Broader Conflict Risk",
+        "description": "Unclaimed airstrikes in Iran and Israel's strike on an Iranian steel facility highlight the involvement of regional actors, with Iran warning the UAE. Monitor the actions and rhetoric of Gulf states and Israel, as their direct or indirect involvement could significantly expand the geographical scope and intensity of the conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-10T11:06:44.757866+00:00",
+  "last_watch_time": "2026-07-11T11:05:45.977721+00:00",
   "relevant_news": [
     {
-      "title": "As U.S. Steps Up Attacks on Iran, Prospect of All-Out War Rises - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 09, 2026 · 18:03 BRT",
-      "pub_date": "2026-07-09",
-      "pub_ts": 1783631029,
-      "summary": "American officials said they were trying to safeguard maritime traffic in the Strait of Hormuz. Iran said it had responded by firing at U.S. bases in Qatar, Bahrain and Kuwait.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Bombing Iran, Then a Tentative Accord Didn’t Work. Does Trump Have a Plan C? - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/09/us/politics/trump-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 09, 2026 · 21:52 BRT",
-      "pub_date": "2026-07-09",
-      "pub_ts": 1783644774,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 10, 2026 · 06:00 BRT",
-      "pub_date": "2026-07-10",
-      "pub_ts": 1783674006,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran War Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 09, 2026 · 03:07 BRT",
-      "pub_date": "2026-07-09",
-      "pub_ts": 1783577262,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran says it hits U.S. military targets in Gulf, buries slain leader Khamenei - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-it-hits-us-military-targets-gulf-prepares-bury-slain-leader-2026-07-09/",
+      "title": "U.S. seeks Iranian pledge to free up Strait of Hormuz - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-iran-agree-continue-talks-ceasefire-over-2026-07-11/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 09, 2026 · 07:13 BRT",
-      "pub_date": "2026-07-09",
-      "pub_ts": 1783591980,
+      "published": "Jul 11, 2026 · 01:46 BRT",
+      "pub_date": "2026-07-11",
+      "pub_ts": 1783745160,
       "summary": "",
       "tags": [
         "extracted",
@@ -1285,18 +1224,95 @@
       "sentiment_success": false
     },
     {
-      "title": "Exclusive | Iran Hatched Fresh Plot to Kill Trump, Israel Told U.S. - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-hatched-fresh-plot-to-kill-trump-israel-told-u-s-1511d9d2",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 09, 2026 · 18:31 BRT",
-      "pub_date": "2026-07-09",
-      "pub_ts": 1783632660,
+      "title": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over - Reuters",
+      "url": "https://www.reuters.com/business/energy/tanker-traffic-slows-strait-hormuz-after-us-iran-clashes-2026-07-10/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 10, 2026 · 19:25 BRT",
+      "pub_date": "2026-07-10",
+      "pub_ts": 1783722315,
+      "summary": "President Donald Trump said on Friday that the United States and Iran had ​agreed to continue talks despite a recent escalation of hostilities but he flatly declared that the ceasefire reached between the two sides last month was over.",
+      "tags": [
+        "REPI:LNG",
+        "RULES:IRAN",
+        "REPI:GAS",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:ENERGY-OIL-GAS"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "China Tells Refiners to Keep Fuel Output High as Iran War Drags - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/china-tells-refiners-to-keep-fuel-output-high-as-iran-war-drags",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jul 11, 2026 · 06:00 BRT",
+      "pub_date": "2026-07-11",
+      "pub_ts": 1783760420,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Charting the Global Economy: Iran War Continues to Cloud Outlook - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/charting-the-global-economy-iran-war-continues-to-cloud-outlook",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jul 11, 2026 · 06:00 BRT",
+      "pub_date": "2026-07-11",
+      "pub_ts": 1783760400,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Unclaimed airstrikes hit Iran, raising possibility of Gulf state involvement - The Times of Israel",
+      "url": "https://www.timesofisrael.com/unclaimed-airstrikes-hit-iran-raising-possibility-of-gulf-state-involvement/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jul 10, 2026 · 11:40 BRT",
+      "pub_date": "2026-07-10",
+      "pub_ts": 1783694400,
+      "summary": "After US completed attacks, a series of strikes targeted southern Iran; Iranian official warns UAE will 'pay the price for its cooperation with the United States'",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target? - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 11, 2026 · 06:00 BRT",
+      "pub_date": "2026-07-11",
+      "pub_ts": 1783760417,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -1305,9 +1321,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-10T11:06:48.934787+00:00",
-  "last_generated_date": "2026-07-10",
-  "last_generated_time": "2026-07-10T23:02:24.921959+00:00",
+  "last_relevant_time": "2026-07-11T11:05:46.487663+00:00",
+  "last_generated_date": "2026-07-11",
+  "last_generated_time": "2026-07-11T08:02:15.476754+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

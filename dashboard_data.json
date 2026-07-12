@@ -1483,6 +1483,42 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-12"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902262": {
+      "summary": "The statement came as Iran resumed attacks on its Gulf neighbors and vessels transiting the Strait of Hormuz, prompting renewed US military strikes against Iranian targets.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "Middle East",
+        "drone",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902250": {
+      "summary": "Renewed Iranian attacks on its neighbors stretch around 3,000km, expanding the battlefield, pursuing its goal of spreading the conflict as wide as possible.",
+      "tags": [
+        "Iran",
+        "Jordan",
+        "United States",
+        "Qatar",
+        "UAE"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-12/hormuz-route-open-despite-iran-declaration-maritime-group-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
     }
   },
   "last_digest_success": true,
@@ -1646,7 +1682,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-12T11:06:10.658855+00:00",
   "last_generated_date": "2026-07-12",
-  "last_generated_time": "2026-07-12T11:02:11.297134+00:00",
+  "last_generated_time": "2026-07-12T12:02:07.638272+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -1416,7 +1416,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-11"
+      "pub_date": "2026-07-12"
     },
     "https://www.jpost.com/american-politics/article-902222": {
       "summary": "Congressional hopeful John Deaton warned that mixed messages from Trump and Netanyahu over the Iran war are eroding American trust in Israel and strengthening Tehran.",
@@ -1545,6 +1545,26 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.reuters.com/world/middle-east/irans-irna-says-enemy-launches-missiles-towards-qeshm-island-2026-07-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.axios.com/2026/07/12/lindsey-graham-israel-saudi-peace-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1712,7 +1732,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-12T11:06:10.658855+00:00",
   "last_generated_date": "2026-07-12",
-  "last_generated_time": "2026-07-12T14:02:08.449679+00:00",
+  "last_generated_time": "2026-07-12T15:02:14.100820+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

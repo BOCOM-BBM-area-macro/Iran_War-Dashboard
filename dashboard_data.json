@@ -11,7 +11,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-08"
+      "pub_date": "2026-07-10"
     },
     "https://www.washingtonpost.com/politics/2026/07/08/trump-reopens-iran-war-political-problem-he-cant-shake/": {
       "summary": "",
@@ -1407,52 +1407,132 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-12"
+    },
+    "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.jpost.com/american-politics/article-902222": {
+      "summary": "Congressional hopeful John Deaton warned that mixed messages from Trump and Netanyahu over the Iran war are eroding American trust in Israel and strengthening Tehran.",
+      "tags": [
+        "Israel",
+        "AIPAC",
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902188": {
+      "summary": "Ghalibaf issued this message as Iran's IRGC said that its aerospace forces carried out a heavy attack on US aircraft carrier support and refueling platforms in the port of Duqm, in Oman.",
+      "tags": [
+        "Iran",
+        "Middle East",
+        "Gulf",
+        "airstrikes",
+        "CENTCOM"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.timesofisrael.com/daily-briefing-july-12-idf-on-standby-to-rejoin-iran-fight/": {
+      "summary": "Military correspondent Emanuel Fabian on the military's limited role in keeping peace in the West Bank, an imminent drawdown from southern Lebanon, and an uptick in picking off Hamas commanders",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-11T11:05:38.022674+00:00",
+  "last_digest_time": "2026-07-12T11:05:58.163802+00:00",
   "digest": {
-    "digest": "The United States and Iran have agreed to continue talks, despite a recent escalation of hostilities. President Trump declared that a ceasefire previously reached between the two sides is now over, while simultaneously stating that negotiations will persist. U.S. forces have conducted strikes on over 170 targets in Iran, including air defense systems and missile storage sites. In response to potential Iranian threats, President Trump has ordered the military to be prepared to launch strikes against Iran if the Iranian government attempts an assassination of the U.S. president. Unclaimed airstrikes have also targeted southern Iran, with an Iranian official warning the UAE of repercussions for its cooperation with the United States. Israel has also reportedly struck an Iranian steel facility. The ongoing conflict continues to impact global markets, with Occidental Petroleum reporting a 38.4% jump in quarterly realized oil prices due to the disruption. Inflation in the U.S. has been further exacerbated by war-related energy costs, according to a Federal Reserve report. The European Central Bank notes that rising energy prices due to renewed hostilities have set back efforts to combat inflation in the Eurozone. China has instructed its refiners to maintain high fuel output as the Iran war persists, and the conflict's impact on the global economy remains a cloud over the economic outlook, though Latin American economies have thus far avoided significant negative consequences.",
+    "digest": "Recent developments indicate a significant escalation in the conflict between the United States and Iran, marked by reciprocal strikes. The US launched multiple rounds of strikes targeting Iranian military infrastructure, including missile and drone sites, naval capabilities, and communication networks, in response to Iran's actions. Iran, in turn, declared the Strait of Hormuz closed and conducted attacks on US naval support platforms in Oman, as well as experiencing drone attacks in central Iran and missile impacts in Jordan. These actions have heightened regional tensions, with reports of injuries in Qatar due to falling shrapnel from Iranian attacks. Diplomatic communication appears strained, with Iranian Parliament Speaker Ghalibaf issuing warnings about the \"era of one-sided deals\" being over and emphasizing consequences for broken promises. There are also concerns raised about the impact of the conflict on international perceptions of Israel, with suggestions that a lack of clear communication regarding objectives has eroded trust. The Israeli Defense Forces (IDF) are reportedly on standby to rejoin the fight, indicating a potential for further military involvement. The situation underscores the volatile nature of the conflict and the ongoing challenges in de-escalating the hostilities.",
     "top_themes": [
-      "US-Iran Diplomacy",
-      "Economic Impact of Conflict",
-      "Military Escalation"
+      "US-Iran military escalation",
+      "Strait of Hormuz tensions",
+      "Regional security concerns",
+      "Diplomatic communication challenges"
     ],
     "next_events": [
       {
-        "title": "Future of US-Iran Negotiations",
-        "description": "Despite President Trump's declaration that the ceasefire is 'OVER!', both the U.S. and Iran have agreed to continue talks, with another round expected next week. Analysts should closely monitor the progress and outcomes of these negotiations, as they are crucial for de-escalation or further conflict."
+        "title": "Strait of Hormuz Operational Status and Economic Impact",
+        "description": "Iran has declared the Strait of Hormuz closed and attacked vessels, while the US asserts commercial transits continue. Analysts must closely monitor the actual enforcement of this closure, any further Iranian attempts to disrupt shipping or impose tolls, and the resulting global economic ramifications, particularly for oil and LNG prices. This situation could trigger broader international responses and impact supply chains."
       },
       {
-        "title": "Military Escalation and Retaliatory Actions",
-        "description": "The U.S. has ramped up strikes against Iranian targets, and Trump has threatened further action if U.S. personnel or the president are targeted. Unclaimed airstrikes have also hit southern Iran, prompting warnings to the UAE. Watch for further military engagements from any party and Iran's potential retaliatory measures, which could broaden the conflict."
+        "title": "Escalation of US-Iran Military Engagements",
+        "description": "The US has launched significant strikes against Iranian targets, ending a ceasefire, and Iran's IRGC has directly attacked US support platforms. Watch for continued US military operations, Iran's retaliatory actions against US assets or regional allies, and any shifts in the rules of engagement. The involvement of the IDF, currently on standby, could further intensify the conflict."
       },
       {
-        "title": "Strait of Hormuz Security and Global Energy Flow",
-        "description": "The U.S. is seeking a pledge from Iran to ensure the free flow of shipping through the Strait of Hormuz, a critical chokepoint for global oil supplies. Any disruption or Iranian refusal could significantly impact energy markets and prompt international intervention. Monitor the security situation and any Iranian actions regarding the Strait."
+        "title": "Regional Spillover and Alliance Dynamics",
+        "description": "Iranian attacks have already impacted Qatar, Oman, and Jordan, indicating a widening scope of conflict. Monitor whether other regional actors are drawn into direct confrontation, the stability of US alliances in the Middle East, and any shifts in regional power balances. Waning US public support for Israel and internal political pressures could also influence alliance cohesion and regional responses."
       },
       {
-        "title": "Global Economic and Inflationary Trends",
-        "description": "The ongoing conflict has already led to a significant jump in oil prices and contributed to 'stepped-up' inflation, impacting central bank policies (Fed, ECB). Analysts should track crude oil benchmarks, global inflation rates, and the responses of major central banks as energy costs continue to fluctuate due to the war."
+        "title": "Future of US-Iran Diplomacy and De-escalation Efforts",
+        "description": "Despite the end of a ceasefire, President Trump has reportedly left the door open for negotiations. Analysts should look for any signals of diplomatic overtures, back-channel communications, or international mediation efforts aimed at de-escalating the conflict. The influence of Iranian hard-liners and evolving US public sentiment will be critical factors in any potential diplomatic breakthroughs."
       },
       {
-        "title": "Regional Involvement and Broader Conflict Risk",
-        "description": "Unclaimed airstrikes in Iran and Israel's strike on an Iranian steel facility highlight the involvement of regional actors, with Iran warning the UAE. Monitor the actions and rhetoric of Gulf states and Israel, as their direct or indirect involvement could significantly expand the geographical scope and intensity of the conflict."
+        "title": "Iran's Nuclear Program Advancement",
+        "description": "There are conflicting reports regarding Iran's nuclear enrichment capabilities and whether it poses an imminent threat. Monitor intelligence assessments and statements from international bodies regarding Iran's nuclear activities. Any perceived advancement in their nuclear program could serve as a major flashpoint, potentially justifying renewed or intensified military action from the US and its allies."
+      },
+      {
+        "title": "US Domestic Political Impact and Strategic Review",
+        "description": "The handling of the Iran war is facing increasing criticism within the US, with concerns over communication, costs, and strategic effectiveness. Watch for how public opinion evolves, the influence of congressional figures like John Deaton, and any potential shifts in the Trump administration's strategy or messaging regarding the Iran conflict, especially as it approaches future elections."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-11T11:05:45.977721+00:00",
+  "last_watch_time": "2026-07-12T11:06:10.092757+00:00",
   "relevant_news": [
     {
-      "title": "U.S. seeks Iranian pledge to free up Strait of Hormuz - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-iran-agree-continue-talks-ceasefire-over-2026-07-11/",
+      "title": "Iran War Updates: U.S. Launches Strikes After Iran Fires on Ship in Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 12, 2026 · 04:28 BRT",
+      "pub_date": "2026-07-12",
+      "pub_ts": 1783841324,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-2026-07-11/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 11, 2026 · 01:46 BRT",
+      "published": "Jul 11, 2026 · 20:21 BRT",
       "pub_date": "2026-07-11",
-      "pub_ts": 1783745160,
+      "pub_ts": 1783812060,
       "summary": "",
       "tags": [
         "extracted",
@@ -1464,91 +1544,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over - Reuters",
-      "url": "https://www.reuters.com/business/energy/tanker-traffic-slows-strait-hormuz-after-us-iran-clashes-2026-07-10/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 10, 2026 · 19:25 BRT",
-      "pub_date": "2026-07-10",
-      "pub_ts": 1783722315,
-      "summary": "President Donald Trump said on Friday that the United States and Iran had ​agreed to continue talks despite a recent escalation of hostilities but he flatly declared that the ceasefire reached between the two sides last month was over.",
-      "tags": [
-        "REPI:LNG",
-        "RULES:IRAN",
-        "REPI:GAS",
-        "RULES:IRAN-CRISIS",
-        "TOPIC:ENERGY-OIL-GAS"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "China Tells Refiners to Keep Fuel Output High as Iran War Drags - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/china-tells-refiners-to-keep-fuel-output-high-as-iran-war-drags",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 11, 2026 · 06:00 BRT",
-      "pub_date": "2026-07-11",
-      "pub_ts": 1783760420,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Charting the Global Economy: Iran War Continues to Cloud Outlook - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/charting-the-global-economy-iran-war-continues-to-cloud-outlook",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 11, 2026 · 06:00 BRT",
-      "pub_date": "2026-07-11",
-      "pub_ts": 1783760400,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Unclaimed airstrikes hit Iran, raising possibility of Gulf state involvement - The Times of Israel",
-      "url": "https://www.timesofisrael.com/unclaimed-airstrikes-hit-iran-raising-possibility-of-gulf-state-involvement/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jul 10, 2026 · 11:40 BRT",
-      "pub_date": "2026-07-10",
-      "pub_ts": 1783694400,
-      "summary": "After US completed attacks, a series of strikes targeted southern Iran; Iranian official warns UAE will 'pay the price for its cooperation with the United States'",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target? - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "title": "Hard-Liners in Iran Want to Keep Fighting America - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 11, 2026 · 06:00 BRT",
-      "pub_date": "2026-07-11",
-      "pub_ts": 1783760417,
+      "published": "Jul 12, 2026 · 06:25 BRT",
+      "pub_date": "2026-07-12",
+      "pub_ts": 1783848320,
       "summary": "",
       "tags": [
         "extracted",
@@ -1558,17 +1561,105 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "U.S launches heaviest strikes in month after Iran declares Strait of Hormuz closed - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/11/us-strikes-iran-it-declares-strait-hormuz-closed-fires-ship/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 12, 2026 · 08:00 BRT",
+      "pub_date": "2026-07-12",
+      "pub_ts": 1783854037,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran's Ghalibaf warns 'reality is knocking' after US, IRGC trade strikes in Strait of Hormuz - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-902188",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Jul 12, 2026 · 04:28 BRT",
+      "pub_date": "2026-07-12",
+      "pub_ts": 1783841314,
+      "summary": "Ghalibaf issued this message as Iran's IRGC said that its aerospace forces carried out a heavy attack on US aircraft carrier support and refueling platforms in the port of Duqm, in Oman.",
+      "tags": [
+        "Iran",
+        "Middle East",
+        "Gulf",
+        "airstrikes",
+        "CENTCOM"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "Iran's\nGhalibaf\nsays\n'reality\nis\nknocking'\nafter\nstrikes\nin\nStrait\nof\nHormuz\n|\nThe\nJerusalem\nPost\nIran's\nGhalibaf\nwarns\n'reality\nis\nknocking'\nafter\nUS,\nIRGC\ntrade\nstrikes\nin\nStrait\nof\nHormuz\nGhalibaf\nissued\nthis\nmessage\nas\nIran's\nIRGC\nsaid\nthat\nits\naerospace\nforces\ncarried\nout\na\nheavy\nattack\non\nUS\naircraft\ncarrier\nsupport\nand\nrefueling\nplatforms\nin\nthe\nport\nof\nDuqm,\nin\nOman.\nFollow\nus\non\nGoogle\nIranian\nParliament\nSpeaker\nMohammad\nBagher\nGhalibaf\nlooks\non\nas\nparliament\nmembers\nchant\nin\nsupport\nof\nthe\nIRGC\nwhile\nwearing\nmilitary\nuniforms\nin\nTehran,\nIran,\nFebruary\n1,\n2026;\nillustrative.\n(\nphoto\ncredit\n:\nHamed\nMalekpour/Islamic\nconsultative\nassembly\nnews\nagency/WANA/Handout\nvia\nREUTERS\n)\nBy\nREUTERS\nJULY\n12,\n2026\n07:48\nUpdated\n:\nJULY\n12,\n2026\n10:28\nIran's\nParliament\nSpeaker\nMohammad\nBagher\nGhalibaf\nposted\non\nTwitter/X\nSunday\nmorning,\nsaying:\n\"The\nera\nof\none-sided\ndeals\nis\nOVER.\nWe\ntold\nyou:\nkeep\nyour\nword\nor\npay\nthe\nprice.\nReality\nis\nknocking.\"\nGhalibaf\nissued\nthis\nmessage\nas\nIran's\nIslamic\nRevolutionary\nGuard\nCorps\nsaid\nthat\nits\naerospace\nforces\ncarried\nout\na\nheavy\nattack\non\nUS\naircraft\ncarrier\nsupport\nand\nrefueling\nplatforms\nin\nthe\nport\nof\nDuqm,\nin\nOman,\nin\nthe\nthird\nstage\nof\nits\nresponse\nto\nwhat\nit\ncalled\nUS\nmilitary\n'aggression.'\nThe\nIRGC\nadded\nthat\nthe\noperation\ntargeted\nlogistical\nsupport\ncenters\nfor\nUS\nnaval\nvessels\nChild\ninjured\nin\nQatar\nas\nIranian\nattacks\nrattle\nregion\nA\nseries\nof\nattacks\nand\nsecurity\nalerts\nwas\nreported\nacross\nthe\nMiddle\nEast\non\nSunday,\naccording\nto\nregional\nofficials\nand\nstate\nmedia.\n[FILE\nPHOTO]\nSmoke\nRises\nafter\nreported\nIranian\nmissile\nattacks,\nas\nseen\nfrom\nDoha,\nQatar,\nMarch\n1.\n(credit:\nMOHAMMED\nSALEM/REUTERS)\nThree\npeople,\nincluding\na\nchild,\nwere\ninjured\nby\nfalling\nshrapnel\nfollowing\nIranian\nattacks,\nQatar’s\nInterior\nMinistry\nsaid.\nShortly\nafterward,\nthe\nKhondab\nregion\nin\ncentral\nIran\ncame\nunder\nattack,\na\nlocal\nofficial\ntold\nIranian\nstate\nmedia.\nOman’s\nstate\nnews\nagency\nlater\nreported\nthat\nsites\nin\nthe\nMusandam\nGovernorate\nhad\nbeen\ntargeted\nby\ndrones.\nThe\nJordanian\nmilitary\nsaid\nthree\nmissiles\nlaunched\nfrom\nIran\nfell\ninside\nJordanian\nterritory,\naccording\nto\nthe\ncountry’s\nstate\nnews\nagency.\nNo\ncasualties\nwere\nreported.\nAmid\nthe\ndevelopments,\nIranian\nForeign\nMinister\nAbbas\nAraghchi\ndiscussed\nthe\nregional\nsituation\nwith\nPakistan’s\ndeputy\nforeign\nminister\nduring\na\nphone\ncall,\nIran’s\nTasnim\nNews\nAgency\nreported.\nSirens\nwere\nsubsequently\nactivated\nin\nBahrain,\nthe\ncountry’s\nInterior\nMinistry\nsaid.\nUS\nsays\nit\nstruck\n140\nIranian\nmilitary\ntargets\nSaturday\nUS\nforces\ncompleted\na\nthird\nround\nof\nstrikes\nthis\nweek\nagainst\nIran,\nthe\nCentral\nCommand\nsaid\nlate\non\nSaturday\nin\na\npost\non\nX.\nThey\nhit\napproximately\n140\nIranian\nmilitary\ntargets\non\nSaturday,\nthe\nCentral\nCommand\nsaid,\nand\nadded\nthat\nthe\ntargets\nincluded\nIranian\nmissile\nand\ndrone\nsites,\nnaval\ncapabilities,\nammunition\nstorage\nfacilities,\ncommunication\nnetworks,\nand\ncoastal\nsurveillance\nlocations.\nDuring\nthree\nnights\nof\nstrikes\nthis\nweek,\nUS\nforces\nhave\nstruck\nmore\nthan\n300\ntargets,\nthe\nmilitary\nadded\nin\nits\nstatement.\nThe\nCentral\nCommand\nsaid\nthe\nstrikes\non\nSaturday\nwere\nin\nresponse\nto\nthe\nattack\non\na\ncommercial\nship\nin\nthe\nStrait\nof\nHormuz.\n\"Commercial\nvessel\ntransits\nthrough\nthe\nvital\ninternational\nmaritime\ncorridor\ncontinue,\"\nit\nadded.\nUS\nstrikes\ncame\nhours\nafter\nIran\nsaid\nit\nclosed\nthe\nstrait\nafter\nfiring\na\nwarning\nshot\nthat\nstruck\na\nvessel\ntraveling\non\nan\nunapproved\nroute.\nIt\nwarned\nthat\nany\nretaliation\nover\nthe\nincident\nwould\nbe\nmet\nwith\na\n\"severe\nresponse.\"\nUS\nCentral\nCommand\nidentified\nthe\nvessel\nas\nthe\nM/V\nGFS\nGalaxy,\na\nCyprus\n-flagged\ncontainer\nship,\nsaying\nit\nsuffered\nsignificant\nengine-room\ndamage\nand\nthat\na\ncivilian\ncrew\nmember\nwas\nmissing.\nUS\nstrikes\nIran,\nTehran\nsays\nStrait\nof\nHormuz\nclosed,\nGulf\nstates\nhit\nA\nseries\nof\nattacks\nbetween\nthe\nUS\nand\nIran\nover\nthe\npast\nseveral\ndays\nled\nUS\nPresident\nDonald\nTrump\nto\ndeclare\nthe\nend\nof\na\nceasefire\nmeant\nto\nhalt\nthe\nfighting\nthat\nthe\nUS\nand\nIsrael\nbegan\non\nFebruary\n28,\nthough\nTrump\nhas\nleft\nthe\ndoor\nopen\nto\ncontinued\nnegotiations.\nIran\nsaid\nit\nclosed\nthe\nstrait\nafter\nfiring\na\nwarning\nshot\nthat\nstruck\na\nvessel\ntraveling\non\nan\nunapproved\nroute.\nIt\nwarned\nthat\nany\nretaliation\nover\nthe\nincident\nwould\nbe\nmet\nwith\na\n\"severe\nresponse.\"\nUS\nCentral\nCommand,\nhowever,\nsaid\ncommercial\nvessels\ncontinue\nto\ntransit\nthrough\nthe\nwaterway\nthat\ncarried\none-fifth\nof\nthe\nworld's\noil\nand\nLNG\nshipments\nbefore\nthe\nwar.\nSee\nmore\non\nIran\n|\nMiddle\nEast\n|\nGulf\n|\nairstrikes\n|\nCENTCOM\nFollow\nus\non\nGoogle",
+      "sentiment_success": false
+    },
+    {
+      "title": "Daily Briefing July 12 – IDF on standby to rejoin Iran fight - The Times of Israel",
+      "url": "https://www.timesofisrael.com/daily-briefing-july-12-idf-on-standby-to-rejoin-iran-fight/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Jul 12, 2026 · 06:48 BRT",
+      "pub_date": "2026-07-12",
+      "pub_ts": 1783849730,
+      "summary": "Military correspondent Emanuel Fabian on the military's limited role in keeping peace in the West Bank, an imminent drawdown from southern Lebanon, and an uptick in picking off Hamas commanders",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "Daily\nBriefing\nJuly\n12\n-\nIDF\non\nstandby\nto\nrejoin\nIran\nfight\n|\nThe\nTimes\nof\nIsrael\nSkip\nto\nmain\ncontent\nEdit\nToday,\n12:39\npm\nShare\nCopy\nlink\nSend\nby\nemail\nFacebook\nX\nWhatsapp\nTelegram\nBluesky\nReddit\nPrint\nWelcome\nto\nThe\nTimes\nof\nIsrael’s\nDaily\nBriefing,\nyour\n20-minute\naudio\nupdate\non\nwhat’s\nhappening\nin\nIsrael,\nthe\nMiddle\nEast\nand\nthe\nJewish\nworld.\nMilitary\ncorrespondent\nEmanuel\nFabian\njoins\nhost\nAmanda\nBorschel-Dan\nfor\ntoday’s\nepisode.\nWATCH\nthe\nfull\nepisode\nhere:\nThe\nUS\nmilitary\nsaid\nit\nlaunched\nanother\nround\nof\nstrikes\non\nIran\nearly\nSunday,\nthe\nthird\nin\nrecent\ndays,\nafter\nthe\nIslamic\nRevolutionary\nGuard\nCorps\nstruck\na\ncontainer\nship\ntraveling\nthrough\nthe\nStrait\nof\nHormuz\nand\ndeclared\nthe\nwaterway\nclosed\nuntil\nfurther\nnotice.\nFabian\nspeaks\nto\nwhat\nit\nmay\ntake\nfor\nthe\nIDF\nto\nrejoin\nthe\nfight.\nMore\nfrom\nThe\nDaily\nBriefing\nJuly\n9,\n2026\nDaily\nBriefing\nJuly\n9\n-\nOn\nrazor's\nedge:\nIran\nand\nUS\ncontinue\nstrikes\nJuly\n8,\n2026\nDaily\nBriefing\nJuly\n8\n-\nIs\nthe\nUS-Iran\nceasefire\nover?\nJuly\n7,\n2026\nDaily\nBriefing\nJuly\n7\n-\nWill\nthe\nChief\nRabbinate\nkeep\nits\nmonopoly\non\nkosher\ncertification?\nJuly\n6,\n2026\nDaily\nBriefing\nJuly\n6:\nHigh\nCourt\nshowdown:\nIs\nIsrael\nfacing\na\nconstitutional\ncrisis?\nJuly\n5,\n2026\nDaily\nBriefing\nJuly\n5\n-\nIDF\nchief’s\nplea\nfor\nmore\ntroops\ncollides\nwith\nHaredi\nanti-draft\npush\nUS\nDemocratic\nlawmaker\nRo\nKhanna\nsaid\nhe\nwas\ndetained\nby\nIsraeli\nsettlers\narmed\nwith\nUS-made\nrifles\nduring\na\nWest\nBank\nvisit\nlate\nlast\nweek.\nAlso\nmaking\nheadlines,\nfour\nIsraeli\nsettlers\nwere\ndetained\nfor\nallegedly\nattacking\na\nCNN\nmedia\ncrew\nnear\nthe\nWest\nBank\ntown\nof\nSinjil\non\nSaturday.\nAfter\nallegations\nof\nIDF\ninaction,\nFabian\nreviews\nthe\nmilitary’s\nrole\nin\ndefusing\nsimilar\nsituations.\nThe\nIsrael\nDefense\nForces\non\nFriday\nannounced\nthat\nthree\nHamas\ncommanders\nwere\nkilled\nin\nairstrikes\nin\nGaza,\nincluding\none\nwho\nraided\nthe\nIDF’s\nRe’im\nbase\nin\nsouthern\nIsrael\nduring\nthe\nOctober\n7,\n2023,\nonslaught\nthat\nsparked\nthe\nsubsequent\nwar\nin\nthe\nStrip.\nThis\ncomes\namid\nan\nuptick\nin\nsimilar\nannouncements\nof\ntargeted\nkillings\nof\nterrorists\nwho\nparticipated\nin\nthe\nmassacre\nor\nheld\nhostages\nin\nGaza.\nFabian\ntells\nus\nabout\nthe\napparent\ntrend.\nYesterday,\na\nUS\nmilitary\ndelegation\nmet\nwith\nLebanon’s\narmy\nin\nBeirut\nto\ndiscuss\nthe\nimplementation\nof\nIsrael’s\nwithdrawal\nfrom\na\n“pilot\nzone”\nin\nsouthern\nLebanon.\nWe\nhear\nwhere\nand\nhow\nit\nmay\ntake\nplace.\nAnd\nfinally,\nto\nend\nthe\nprogram,\nwe\nlearn\nabout\nPvt.\nYaakov\nZarihan,\nkilled\nin\naction\non\nApril\n20,\n1948,\nduring\nIsrael’s\nWar\nof\nIndependence.\nHe\nhad\nbeen\nconsidered\nmissing\nfor\n78\nyears,\nand\nlast\nweek\nit\nwas\nannounced\nthat\nhe\nwas\nidentified\nas\nburied\nin\na\nmass\ngrave\nin\na\nkibbutz\nnear\nJerusalem.\nCheck\nout\nThe\nTimes\nof\nIsrael’s\nongoing\nliveblog\nfor\nmore\nupdates.\nFor\nfurther\nreading:\nUS\nstrikes\nIran\nagain,\nafter\nIRGC\nattacks\nship\nin\nHormuz\nand\ndeclares\nstrait\nclosed\nUS\nDemocrat\nRo\nKhanna\nsays\nhe\nwas\ndetained\nby\narmed\nsettlers\nduring\nWest\nBank\nvisit\n4\nsettlers\ndetained\nfor\nalleged\nattack\non\nCNN\ncrew\nin\nWest\nBank\ntown\nof\nSinjil\nOff-duty\nIDF\nsoldier,\ntwo\nIsraeli\nwomen\nextracted\nfrom\nWest\nBank’s\nJericho\nIDF\nkills\nthree\nHamas\ncommanders,\nincluding\nOct.\n7\ninvader,\nin\nGaza\nairstrikes\nUS\nmilitary\ndelegation\nvisits\nBeirut\nto\ndiscuss\nIDF\n‘pilot\nzone’\nwithdrawal\nIDF\ntroops\nto\nwithdraw\nfrom\nLebanon\npilot\nzones\nin\ncoming\ndays,\nsays\nUS\nofficial\nIDF\nsays\nsoldier\nmissing\nsince\n1948\nwar\ndetermined\nto\nbe\nburied\nnear\nJerusalem\nSubscribe\nto\nThe\nTimes\nof\nIs\nrael\nDaily\nBriefing\non\nApple\nPodcasts\n,\nSpotify\n,\nYouTube,\nor\nwherever\nyou\nget\nyour\npodcasts.\nThis\nepisode\nwas\nproduced\nby\nAri\nSchlacht.\nCheck\nout\nyesterday’s\nepisode\nhere:\nWe\ncan't\ndo\nthis\nwork\nalone.\nThe\nwar\nwith\nIran\nhas\nbeen\ndraining\nfor\nall\nof\nus\nin\nIsrael.\nBut\nwhen\nI\nheard\nabout\na\nhigh\ncasualty\nincident\n–\nballistic\nmissile\nimpacts\nin\nArad\nand\nDimona\nthat\nleft\nnearly\n200\npeople\nwounded\n–\nI\ndrank\na\ncup\nof\ncoffee,\npacked\na\nbag,\nand\nheaded\nsouth.\nThere,\nI\nspoke\nwith\nShilgit,\nthe\nhead\nof\nan\nafter-school\nprogram\nfor\nunderprivileged\nyouth.\nStanding\noutside\nher\ndestroyed\ncenter,\nShilgit\nsaid\nit\nwas\na\nmiracle\nthat\nno\nchildren\nwere\nhurt\nand\nspoke\nabout\nthe\ncommunity\ncoming\ntogether\nin\nthe\nhours\nsince.\nAs\na\nTimes\nof\nIsrael\nreporter,\nI’m\ncommitted\nto\ntelling\nstories\nof\nresilience\nlike\nShilgit’s.\nBut\nmy\ncolleagues\nand\nI\ncan't\ndo\nthis\nalone.\nIf\nyou\nvalue\nwork\nlike\nthis,\nplease\nconsider\njoining\nour\nreader\nsupport\ngroup,\nThe\nTimes\nof\nIsrael\nCommunity.\nYour\nfinancial\nsupport\nis\nessential\nto\nkeep\nreal\nhuman\nreporting\nlike\nthis\ngoing.\n—\nStav\nLevaton,\nmilitary\nreporter\nYes,\nI'll\njoin\nYes,\nI'll\njoin\nAlready\na\nmember?\nSign\nin\nto\nstop\nseeing\nthis\nread\nmore:\nIsrael\n&\nthe\nRegion\nThe\nDaily\nBriefing\npodcasts\nTimes\nof\nIsrael\npodcasts\n2026\nUS-Israel\nwar\nwith\nIran\n2026\nIsrael-Hezbollah\nconflict\n2023-2025\nIsrael-Hamas\nwar\nIf\nyou’d\nlike\nto\ncomment,\njoin\nThe\nTimes\nof\nIsrael\nCommunity.\nJOIN\nTHE\nTOI\nCOMMUNITY\nAlready\na\nmember?\nLog\nin\nhere\nclose\npopup\nSign\nin\nor\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nPaying\nToI\nCommunity\nmembers\nare\ninvited\nto\ncomment\non\narticles\nOr\nContinue\nwith\nBy\njoining\nyou\nagree\nto\nthe\nterms\nand\nconditions\nback\nclose\npopup\nRegister\nto\ncontinue\nOr\nContinue\nwith\nback\nclose\npopup\nLog\nin\nto\ncontinue\nback\nclose\npopup\nSign\nin\nor\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nYou\nare\ncurrently\nregistered.\nPlease\njoin\nThe\nTimes\nof\nIsrael\nCommunity\nto\ncomment\nand\nenjoy\nother\nCommunity\nbenefits\nOnly\nToI\nCommunity\nmembers\ncan\ncomment\nbelow\narticles\nOr\nContinue\nwith\nclose\npopup\nCheck\nyour\nemail\nWe\nsent\nan\nemail\nto\nyou\nat\n.\nIt\nhas\na\nlink\nthat\nwill\nsign\nyou\nin.\nClick\nthe\nlink\nin\nthat\nemail\nto\ncomplete\nregistration\nso\nyou\ncan\ncomment.\nback\nclose\npopup\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nCommenting\nis\navailable\nfor\npaying\nmembers\nof\nThe\nTimes\nof\nIsrael\nCommunity\nonly.\nPlease\njoin\nour\nCommunity\nto\ncomment\nand\nenjoy\nother\nCommunity\nbenefits.\nclose\npopup\nThank\nyou!\nNow\ncheck\nyour\nemail\nYou\nare\nnow\na\nmember\nof\nThe\nTimes\nof\nIsrael\nCommunity!\nWe\nsent\nyou\nan\nemail\nwith\na\nlogin\nlink\nto\n.\nOnce\nyou're\nset\nup,\nyou\ncan\nstart\nenjoying\nCommunity\nbenefits\nand\ncommenting.\nBack\nto\ntop\nNever\nmiss\nbreaking\nnews\non\nIsrael\nGet\nnotifications\nto\nstay\nupdated\nStay\nupdated\nNo\nthanks\nYou're\nsubscribed\nclose\npopup\nRegister\nfor\nfree\nand\ncontinue\nreading\nRegistering\nallows\nyou\nto\nmanage\nyour\nnewsletters\nand\nalerts\nand\nhelps\nus\nimprove\nyour\nexperience.\nIt\ntakes\njust\na\nfew\nseconds.\nAlready\nregistered?\nEnter\nyour\nemail\nto\nsign\nin.\nOr\nContinue\nwith\nBy\nregistering\nyou\nagree\nto\nthe\nterms\nand\nconditions\n.\nOnce\nregistered,\nyou’ll\nreceive\nour\nDaily\nEdition\nemail\nfor\nfree.\nSend\nme\nThe\nTimes\nof\nIsrael\nDaily\nEdition\nback\nclose\npopup\nRegister\nto\ncontinue\nOr\nContinue\nwith\nback\nclose\npopup\nLog\nin\nto\ncontinue\nback\nclose\npopup\nSign\nin\nor\nRegister\nOr\nContinue\nwith\nback\nclose\npopup\nCheck\nyour\nemail\nWe\nsent\nan\nemail\nto\nyou\nat\n.\nIt\nhas\na\nlink\nthat\nwill\nsign\nyou\nin.\nClick\nthe\nlink\nin\nthat\nemail\nto\ncomplete\nyour\nregistration.",
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-11T11:05:46.487663+00:00",
-  "last_generated_date": "2026-07-11",
-  "last_generated_time": "2026-07-11T23:02:08.985960+00:00",
+  "last_relevant_time": "2026-07-12T11:06:10.658855+00:00",
+  "last_generated_date": "2026-07-12",
+  "last_generated_time": "2026-07-12T08:01:56.468211+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran War Updates: U.S. Launches Strikes After Iran Fires on Ship in Strait of Hormuz - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iemY2MGE4U3FRNmphX0M1LXF1cHBVaEloTWJ2REZXRTJaTjY3YnVmR0VJZGNoX2w0MnBVLTU5ZHcxYkZXNUNKdjBBQUxTQzFCRjZhT2lOVk56ZlVuUEY4by1rZHVqdXM0clBlVWVzMkM?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 12, 2026 · 04:28 BRT",
+          "pub_date": "2026-07-12",
+          "pub_ts": 1783841324,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump's Iran Blunder Shows Strategy Can Defeat Firepower - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXBuSFlVclNiVkpFOGJWZTdsMGxJNEhnaEs2dDh0QUJYUjdGMFBqbXoxMDJxX1M1YmlMaHY5UTZzU1l6VkhZajItRFlpWlRpX0wzTkN4UEJCYnZxSjZrMVN0WWYzZ2k5YVFKVXJkcU1wVURqV2ZwTW52R2YxY1VpSW9QTHNDUF96VWR1NDRLdWMzZWo0RVZHTEttbGUwc2ZOMVNYNmZDSTBKX0ZZLTVj?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 12, 2026 · 01:00 BRT",
+          "pub_date": "2026-07-12",
+          "pub_ts": 1783828800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US seeks Iranian pledge to free up Strait of Hormuz - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",

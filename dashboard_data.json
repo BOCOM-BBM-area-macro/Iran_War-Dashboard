@@ -1326,7 +1326,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-11"
+      "pub_date": "2026-07-12"
     },
     "https://www.washingtonpost.com/world/2026/07/11/iran-usa-united-arab-emirates-attack/d473165e-7d9b-11f1-b194-f872dd4ec5aa_story.html": {
       "summary": "",
@@ -1347,6 +1347,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-11"
+    },
+    "https://www.nytimes.com/2026/07/11/world/middleeast/strait-hormuz-shipping-oil-prices.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-11"
+    },
+    "https://www.timesofisrael.com/us-strikes-iran-again-after-irgc-attacks-ship-in-hormuz-and-declares-strait-closed-until-further-notice/": {
+      "summary": "Tehran attacks American base in Jordan, appears to also target Gulf states in response to US targeting coastal areas near the waterway; Iran has previous threatened to attack Israel too if US strikes persist",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/us-military-says-it-hit-around-140-iranian-military-targets-in-latest-strikes/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
     }
   },
   "last_digest_success": true,

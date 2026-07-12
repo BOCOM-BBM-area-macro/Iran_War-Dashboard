@@ -1473,6 +1473,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-12"
+    },
+    "https://www.cbc.ca/news/world/iran-u-s-conflict-strait-july12-9.7267313": {
+      "summary": "The U.S. attacked Iran early Sunday over an Iranian strike on a vessel in the Strait of Hormuz that set the container ship ablaze. Iran responded with attacks targeting several countries in the Middle East, including Bahrain, Kuwait, Qatar, Oman and Jordan.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
     }
   },
   "last_digest_success": true,
@@ -1636,7 +1646,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-12T11:06:10.658855+00:00",
   "last_generated_date": "2026-07-12",
-  "last_generated_time": "2026-07-12T10:02:07.409164+00:00",
+  "last_generated_time": "2026-07-12T11:02:11.297134+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -1176,7 +1176,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-11"
+      "pub_date": "2026-07-12"
     },
     "https://www.reuters.com/world/middle-east/irans-supreme-leader-pledges-revenge-slain-father-predecessor-2026-07-11/": {
       "summary": "",
@@ -1286,7 +1286,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-11"
+      "pub_date": "2026-07-12"
     },
     "https://www.cbc.ca/news/world/iran-strait-of-hormuz-9.7267163": {
       "summary": "Iran said it considers the Strait of Hormuz closed once again after a vessel using an \"unauthorized route\" was struck by a warning shot in the critical waterway, further jeopardizing the already tenuous ceasefire agreement with the United States.",
@@ -1323,6 +1323,26 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-11"
+    },
+    "https://www.washingtonpost.com/world/2026/07/11/iran-usa-united-arab-emirates-attack/d473165e-7d9b-11f1-b194-f872dd4ec5aa_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-12"
+    },
+    "https://www.reuters.com/world/middle-east/us-says-it-launched-strikes-against-iran-after-attack-cyprus-flagged-container-2026-07-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2618,6 +2638,20 @@
         {
           "title": "Braving war losses and tough conditions, Thai workers stay rooted in Israeli agriculture - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1RVZ3ByNFMtSl8zOHhrVERRQnNqTEQ2NkxrZHRIMkFCdHRUOVpEeC1ZOXV3YVhmX1FsaHI3RGxMakZ1N3lLWk0zSFhnd1Zlam1lNm1LdHpsVXpxb25sZ0lYQXNrUXU2ZVl5Qi1oTlFEaUZBb295ODlOenNuTC11ekZrUUtrUG83bHhLNUdTc1I4TW1OSmtWbC1oZFkyMWt6Sk0xd0hzR3JxdXNieWU0TGxFcHpQWmktVXfSAb8BQVVfeXFMTWxvMFJRTFRZZnBkeEk5bGNHcEFNX2J6VXlhalVGMHk5bUtJV0JnYVhndnFYSFkyZUE1ZXpYMWRtZ19RLU5FaEhCSTJIV0NQcFlXaEhNeTJzRk1KcGxZRGFHYTIwZUV2QnVvV2pubndBeGxPVXJXWnZhU0JITWxWeWU1Y0ZvMU15MkJqQnNYUlBkalJVckhOR2Y3NzJlc092U0x0cDB5Q29iYTMzNWQwRnNzWmlUX0QtMUJTSVZMaTQ?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 11, 2026 · 03:43 BRT",
+          "pub_date": "2026-07-11",
+          "pub_ts": 1783752187,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Braving war losses and tough conditions, Thai workers stay rooted in Israeli agriculture - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1RVZ3ByNFMtSl8zOHhrVERRQnNqTEQ2NkxrZHRIMkFCdHRUOVpEeC1ZOXV3YVhmX1FsaHI3RGxMakZ1N3lLWk0zSFhnd1Zlam1lNm1LdHpsVXpxb25sZ0lYQXNrUXU2ZVl5Qi1oTlFEaUZBb295ODlOenNuTC11ekZrUUtrUG83bHhLNUdTc1I4TW1OSmtWbC1oZFkyMWt6Sk0xd0hzR3JxdXNieWU0TGxFcHpQWmktVXc?oc=5",
           "source": "The Times of Israel",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

@@ -1568,7 +1568,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-12"
+      "pub_date": "2026-07-13"
     },
     "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html": {
       "summary": "",
@@ -1751,76 +1751,94 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-13"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-07-12T11:05:58.163802+00:00",
-  "digest": {
-    "digest": "Recent developments indicate a significant escalation in the conflict between the United States and Iran, marked by reciprocal strikes. The US launched multiple rounds of strikes targeting Iranian military infrastructure, including missile and drone sites, naval capabilities, and communication networks, in response to Iran's actions. Iran, in turn, declared the Strait of Hormuz closed and conducted attacks on US naval support platforms in Oman, as well as experiencing drone attacks in central Iran and missile impacts in Jordan. These actions have heightened regional tensions, with reports of injuries in Qatar due to falling shrapnel from Iranian attacks. Diplomatic communication appears strained, with Iranian Parliament Speaker Ghalibaf issuing warnings about the \"era of one-sided deals\" being over and emphasizing consequences for broken promises. There are also concerns raised about the impact of the conflict on international perceptions of Israel, with suggestions that a lack of clear communication regarding objectives has eroded trust. The Israeli Defense Forces (IDF) are reportedly on standby to rejoin the fight, indicating a potential for further military involvement. The situation underscores the volatile nature of the conflict and the ongoing challenges in de-escalating the hostilities.",
-    "top_themes": [
-      "US-Iran military escalation",
-      "Strait of Hormuz tensions",
-      "Regional security concerns",
-      "Diplomatic communication challenges"
-    ],
-    "next_events": [
-      {
-        "title": "Strait of Hormuz Operational Status and Economic Impact",
-        "description": "Iran has declared the Strait of Hormuz closed and attacked vessels, while the US asserts commercial transits continue. Analysts must closely monitor the actual enforcement of this closure, any further Iranian attempts to disrupt shipping or impose tolls, and the resulting global economic ramifications, particularly for oil and LNG prices. This situation could trigger broader international responses and impact supply chains."
-      },
-      {
-        "title": "Escalation of US-Iran Military Engagements",
-        "description": "The US has launched significant strikes against Iranian targets, ending a ceasefire, and Iran's IRGC has directly attacked US support platforms. Watch for continued US military operations, Iran's retaliatory actions against US assets or regional allies, and any shifts in the rules of engagement. The involvement of the IDF, currently on standby, could further intensify the conflict."
-      },
-      {
-        "title": "Regional Spillover and Alliance Dynamics",
-        "description": "Iranian attacks have already impacted Qatar, Oman, and Jordan, indicating a widening scope of conflict. Monitor whether other regional actors are drawn into direct confrontation, the stability of US alliances in the Middle East, and any shifts in regional power balances. Waning US public support for Israel and internal political pressures could also influence alliance cohesion and regional responses."
-      },
-      {
-        "title": "Future of US-Iran Diplomacy and De-escalation Efforts",
-        "description": "Despite the end of a ceasefire, President Trump has reportedly left the door open for negotiations. Analysts should look for any signals of diplomatic overtures, back-channel communications, or international mediation efforts aimed at de-escalating the conflict. The influence of Iranian hard-liners and evolving US public sentiment will be critical factors in any potential diplomatic breakthroughs."
-      },
-      {
-        "title": "Iran's Nuclear Program Advancement",
-        "description": "There are conflicting reports regarding Iran's nuclear enrichment capabilities and whether it poses an imminent threat. Monitor intelligence assessments and statements from international bodies regarding Iran's nuclear activities. Any perceived advancement in their nuclear program could serve as a major flashpoint, potentially justifying renewed or intensified military action from the US and its allies."
-      },
-      {
-        "title": "US Domestic Political Impact and Strategic Review",
-        "description": "The handling of the Iran war is facing increasing criticism within the US, with concerns over communication, costs, and strategic effectiveness. Watch for how public opinion evolves, the influence of congressional figures like John Deaton, and any potential shifts in the Trump administration's strategy or messaging regarding the Iran conflict, especially as it approaches future elections."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-07-12T11:06:10.092757+00:00",
-  "relevant_news": [
-    {
-      "title": "Iran War Updates: U.S. Launches Strikes After Iran Fires on Ship in Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 12, 2026 · 04:28 BRT",
-      "pub_date": "2026-07-12",
-      "pub_ts": 1783841324,
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902338": {
+      "summary": "\"In the end, the campaign we set out on to weaken the Iranian regime and deny it the ability to reach nuclear weapons is currently focused on an event that was not the event before the war,\" he said.",
+      "tags": [
+        "Iran",
+        "Iran nuclear",
+        "Iran nuclear bomb",
+        "Iran nuclear threat",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-13"
+    },
+    "https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html": {
       "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-07-13"
     },
+    "https://www.jpost.com/middle-east/iran-news/article-902328": {
+      "summary": "Missile attacks, maritime tensions, and the collapse of the June ceasefire are increasing pressure on Gulf governments to balance security with diplomacy.",
+      "tags": [
+        "Iran",
+        "Jordan",
+        "bahrain",
+        "Gulf",
+        "Gulf States"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-13"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-07-13T11:06:31.744062+00:00",
+  "digest": {
+    "digest": "Renewed hostilities between the United States and Iran have significantly escalated, with both sides engaging in strikes on military assets and facilities. Iran has widened its attacks on US bases in the Gulf, while the US has responded with strikes inside Iran. These actions have led to increased tensions and safety risks in the Strait of Hormuz, causing traffic to slow to multi-week lows and contributing to a surge in oil prices. The conflict has also drawn neighboring countries like Bahrain and Jordan deeper into regional fallout, with Jordan's air defenses intercepting Iranian missiles and Bahrain facing persistent threats. Experts suggest that neither side is willing to back down over the Strait of Hormuz, with Iran focused on maintaining control and the US aiming to weaken its threat capabilities. There are also indications that Iran may be advancing its nuclear enrichment program during this period, raising further concerns. Diplomatic efforts by Qatar and Oman are underway to prevent escalation, but the situation remains volatile, with the potential for events to spiral out of control. The conflict's duration is uncertain, with possibilities ranging from a prolonged period of low-intensity engagement to a significant escalation.",
+    "top_themes": [
+      "Strait of Hormuz Tensions",
+      "US-Iran Military Strikes",
+      "Regional Spillover Effects",
+      "Oil Price Volatility",
+      "Iran's Nuclear Program"
+    ],
+    "next_events": [
+      {
+        "title": "Strait of Hormuz Control and Maritime Security",
+        "description": "The ongoing confrontation over the Strait of Hormuz remains a critical flashpoint, with neither side willing to concede control. Analysts should monitor shipping traffic, any further attacks on commercial vessels, and the potential for Iran to demand transit fees, which would severely impact global energy supplies and trade. A sustained slowdown in traffic or a major incident could trigger a significant global economic crisis."
+      },
+      {
+        "title": "Direct US-Iran Military Escalation",
+        "description": "The exchange of strikes between the US and Iran, including attacks on US bases and Iranian assets, indicates a high risk of further escalation. Watch for any shift in the nature or geographic scope of targets, particularly attacks on critical infrastructure or a significant increase in casualties, which could trigger a broader, uncontrolled conflict. The current 'rules of engagement' are fragile and could break down at any moment."
+      },
+      {
+        "title": "Regional Spillover and Alliance Stability",
+        "description": "The conflict is already drawing in regional partners like Jordan and Bahrain, who are intercepting Iranian projectiles and facing sustained attacks. Observe the responses of other Gulf states, the effectiveness of their air defenses, and any signs of direct Israeli involvement, which an expert warns would significantly widen the campaign and complicate de-escalation efforts. The stability of US alliances in the region will be tested as partners face increasing pressure."
+      },
+      {
+        "title": "Iran's Nuclear Program Advancement",
+        "description": "Despite the ongoing conflict, satellite imagery suggests Iran is actively advancing its nuclear enrichment program, including the development of new facilities and continued uranium enrichment. The lack of international oversight raises serious concerns; watch for any official reports from the IAEA or intelligence agencies regarding Iran's nuclear capabilities and timelines. Progress towards military-grade nuclear weapons would fundamentally alter the regional and global security landscape."
+      },
+      {
+        "title": "Global Economic and Humanitarian Impact",
+        "description": "The conflict's ripple effects are already evident in surging oil prices, a potential food squeeze exacerbated by El Niño, and a downgraded Euro-Area economic outlook. Monitor global commodity markets, supply chain disruptions, and the humanitarian situation in affected regions, as prolonged instability could lead to severe economic downturns and crises. The interplay between the war and climate events could create unprecedented challenges."
+      },
+      {
+        "title": "Prospects for De-escalation and Diplomacy",
+        "description": "While current engagements suggest both sides are trying to avoid full-scale war, temporary ceasefires have proven fragile, and underlying disputes remain unresolved. Look for any renewed diplomatic initiatives, particularly involving mediators like Qatar and Oman, or a shift in rhetoric from either Washington or Tehran that could signal a willingness to negotiate a more lasting political settlement. Without a diplomatic breakthrough, the conflict is likely to persist for an extended period."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-07-13T11:06:45.285922+00:00",
+  "relevant_news": [
     {
-      "title": "US strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-2026-07-11/",
+      "title": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-escalates-attacks-us-bases-gulf-states-warns-more-incidents-strait-2026-07-13/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 11, 2026 · 20:21 BRT",
-      "pub_date": "2026-07-11",
-      "pub_ts": 1783812060,
+      "published": "Jul 13, 2026 · 03:47 BRT",
+      "pub_date": "2026-07-13",
+      "pub_ts": 1783925220,
       "summary": "",
       "tags": [
         "extracted",
@@ -1832,18 +1850,54 @@
       "sentiment_success": false
     },
     {
-      "title": "Hard-Liners in Iran Want to Keep Fighting America - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+      "title": "Oil Prices Surge After Iran and U.S. Trade Strikes - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 12, 2026 · 06:25 BRT",
-      "pub_date": "2026-07-12",
-      "pub_ts": 1783848320,
-      "summary": "",
+      "published": "Jul 13, 2026 · 05:52 BRT",
+      "pub_date": "2026-07-13",
+      "pub_ts": 1783932778,
+      "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Updates: U.S. Launches Strikes After Iran Fires on Ship in Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 12, 2026 · 08:57 BRT",
+      "pub_date": "2026-07-12",
+      "pub_ts": 1783857420,
+      "summary": "Iran said it was responding to the attack with strikes on U.S. assets in the Middle East. The defense ministries of the United Arab Emirates and Qatar both said they were intercepting strikes.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/hormuz-traffic-slows-multi-week-low-renewed-us-iran-strikes-raise-safety-risk-2026-07-13/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 13, 2026 · 01:52 BRT",
+      "pub_date": "2026-07-13",
+      "pub_ts": 1783918320,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -1851,14 +1905,14 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S launches heaviest strikes in month after Iran declares Strait of Hormuz closed - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/07/11/us-strikes-iran-it-declares-strait-hormuz-closed-fires-ship/",
+      "title": "Survivors of Iranian attack that killed 6 U.S. troops say generals ignored warnings - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/12/survivors-iranian-attack-that-killed-6-us-troops-say-generals-ignored-warnings/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 12, 2026 · 08:00 BRT",
+      "published": "Jul 12, 2026 · 14:00 BRT",
       "pub_date": "2026-07-12",
-      "pub_ts": 1783854037,
+      "pub_ts": 1783875600,
       "summary": "",
       "tags": [
         "extracted",
@@ -1870,51 +1924,31 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran's Ghalibaf warns 'reality is knocking' after US, IRGC trade strikes in Strait of Hormuz - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-902188",
+      "title": "IDF coordinates with US military, prepares for possible strikes as US, Iran fighting escalates - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-902283",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Jul 12, 2026 · 04:28 BRT",
+      "published": "Jul 12, 2026 · 16:13 BRT",
       "pub_date": "2026-07-12",
-      "pub_ts": 1783841314,
-      "summary": "Ghalibaf issued this message as Iran's IRGC said that its aerospace forces carried out a heavy attack on US aircraft carrier support and refueling platforms in the port of Duqm, in Oman.",
+      "pub_ts": 1783883606,
+      "summary": "The IDF ran through possible scenarios with the US military as the war with Iran escalates, remaining on high alert for the possibility of Iran striking Israel.",
       "tags": [
-        "Iran",
-        "Middle East",
-        "Gulf",
-        "airstrikes",
-        "CENTCOM"
+        "IDF",
+        "us iran",
+        "Donald Trump",
+        "US military",
+        "IRGC"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "Iran's\nGhalibaf\nsays\n'reality\nis\nknocking'\nafter\nstrikes\nin\nStrait\nof\nHormuz\n|\nThe\nJerusalem\nPost\nIran's\nGhalibaf\nwarns\n'reality\nis\nknocking'\nafter\nUS,\nIRGC\ntrade\nstrikes\nin\nStrait\nof\nHormuz\nGhalibaf\nissued\nthis\nmessage\nas\nIran's\nIRGC\nsaid\nthat\nits\naerospace\nforces\ncarried\nout\na\nheavy\nattack\non\nUS\naircraft\ncarrier\nsupport\nand\nrefueling\nplatforms\nin\nthe\nport\nof\nDuqm,\nin\nOman.\nFollow\nus\non\nGoogle\nIranian\nParliament\nSpeaker\nMohammad\nBagher\nGhalibaf\nlooks\non\nas\nparliament\nmembers\nchant\nin\nsupport\nof\nthe\nIRGC\nwhile\nwearing\nmilitary\nuniforms\nin\nTehran,\nIran,\nFebruary\n1,\n2026;\nillustrative.\n(\nphoto\ncredit\n:\nHamed\nMalekpour/Islamic\nconsultative\nassembly\nnews\nagency/WANA/Handout\nvia\nREUTERS\n)\nBy\nREUTERS\nJULY\n12,\n2026\n07:48\nUpdated\n:\nJULY\n12,\n2026\n10:28\nIran's\nParliament\nSpeaker\nMohammad\nBagher\nGhalibaf\nposted\non\nTwitter/X\nSunday\nmorning,\nsaying:\n\"The\nera\nof\none-sided\ndeals\nis\nOVER.\nWe\ntold\nyou:\nkeep\nyour\nword\nor\npay\nthe\nprice.\nReality\nis\nknocking.\"\nGhalibaf\nissued\nthis\nmessage\nas\nIran's\nIslamic\nRevolutionary\nGuard\nCorps\nsaid\nthat\nits\naerospace\nforces\ncarried\nout\na\nheavy\nattack\non\nUS\naircraft\ncarrier\nsupport\nand\nrefueling\nplatforms\nin\nthe\nport\nof\nDuqm,\nin\nOman,\nin\nthe\nthird\nstage\nof\nits\nresponse\nto\nwhat\nit\ncalled\nUS\nmilitary\n'aggression.'\nThe\nIRGC\nadded\nthat\nthe\noperation\ntargeted\nlogistical\nsupport\ncenters\nfor\nUS\nnaval\nvessels\nChild\ninjured\nin\nQatar\nas\nIranian\nattacks\nrattle\nregion\nA\nseries\nof\nattacks\nand\nsecurity\nalerts\nwas\nreported\nacross\nthe\nMiddle\nEast\non\nSunday,\naccording\nto\nregional\nofficials\nand\nstate\nmedia.\n[FILE\nPHOTO]\nSmoke\nRises\nafter\nreported\nIranian\nmissile\nattacks,\nas\nseen\nfrom\nDoha,\nQatar,\nMarch\n1.\n(credit:\nMOHAMMED\nSALEM/REUTERS)\nThree\npeople,\nincluding\na\nchild,\nwere\ninjured\nby\nfalling\nshrapnel\nfollowing\nIranian\nattacks,\nQatar’s\nInterior\nMinistry\nsaid.\nShortly\nafterward,\nthe\nKhondab\nregion\nin\ncentral\nIran\ncame\nunder\nattack,\na\nlocal\nofficial\ntold\nIranian\nstate\nmedia.\nOman’s\nstate\nnews\nagency\nlater\nreported\nthat\nsites\nin\nthe\nMusandam\nGovernorate\nhad\nbeen\ntargeted\nby\ndrones.\nThe\nJordanian\nmilitary\nsaid\nthree\nmissiles\nlaunched\nfrom\nIran\nfell\ninside\nJordanian\nterritory,\naccording\nto\nthe\ncountry’s\nstate\nnews\nagency.\nNo\ncasualties\nwere\nreported.\nAmid\nthe\ndevelopments,\nIranian\nForeign\nMinister\nAbbas\nAraghchi\ndiscussed\nthe\nregional\nsituation\nwith\nPakistan’s\ndeputy\nforeign\nminister\nduring\na\nphone\ncall,\nIran’s\nTasnim\nNews\nAgency\nreported.\nSirens\nwere\nsubsequently\nactivated\nin\nBahrain,\nthe\ncountry’s\nInterior\nMinistry\nsaid.\nUS\nsays\nit\nstruck\n140\nIranian\nmilitary\ntargets\nSaturday\nUS\nforces\ncompleted\na\nthird\nround\nof\nstrikes\nthis\nweek\nagainst\nIran,\nthe\nCentral\nCommand\nsaid\nlate\non\nSaturday\nin\na\npost\non\nX.\nThey\nhit\napproximately\n140\nIranian\nmilitary\ntargets\non\nSaturday,\nthe\nCentral\nCommand\nsaid,\nand\nadded\nthat\nthe\ntargets\nincluded\nIranian\nmissile\nand\ndrone\nsites,\nnaval\ncapabilities,\nammunition\nstorage\nfacilities,\ncommunication\nnetworks,\nand\ncoastal\nsurveillance\nlocations.\nDuring\nthree\nnights\nof\nstrikes\nthis\nweek,\nUS\nforces\nhave\nstruck\nmore\nthan\n300\ntargets,\nthe\nmilitary\nadded\nin\nits\nstatement.\nThe\nCentral\nCommand\nsaid\nthe\nstrikes\non\nSaturday\nwere\nin\nresponse\nto\nthe\nattack\non\na\ncommercial\nship\nin\nthe\nStrait\nof\nHormuz.\n\"Commercial\nvessel\ntransits\nthrough\nthe\nvital\ninternational\nmaritime\ncorridor\ncontinue,\"\nit\nadded.\nUS\nstrikes\ncame\nhours\nafter\nIran\nsaid\nit\nclosed\nthe\nstrait\nafter\nfiring\na\nwarning\nshot\nthat\nstruck\na\nvessel\ntraveling\non\nan\nunapproved\nroute.\nIt\nwarned\nthat\nany\nretaliation\nover\nthe\nincident\nwould\nbe\nmet\nwith\na\n\"severe\nresponse.\"\nUS\nCentral\nCommand\nidentified\nthe\nvessel\nas\nthe\nM/V\nGFS\nGalaxy,\na\nCyprus\n-flagged\ncontainer\nship,\nsaying\nit\nsuffered\nsignificant\nengine-room\ndamage\nand\nthat\na\ncivilian\ncrew\nmember\nwas\nmissing.\nUS\nstrikes\nIran,\nTehran\nsays\nStrait\nof\nHormuz\nclosed,\nGulf\nstates\nhit\nA\nseries\nof\nattacks\nbetween\nthe\nUS\nand\nIran\nover\nthe\npast\nseveral\ndays\nled\nUS\nPresident\nDonald\nTrump\nto\ndeclare\nthe\nend\nof\na\nceasefire\nmeant\nto\nhalt\nthe\nfighting\nthat\nthe\nUS\nand\nIsrael\nbegan\non\nFebruary\n28,\nthough\nTrump\nhas\nleft\nthe\ndoor\nopen\nto\ncontinued\nnegotiations.\nIran\nsaid\nit\nclosed\nthe\nstrait\nafter\nfiring\na\nwarning\nshot\nthat\nstruck\na\nvessel\ntraveling\non\nan\nunapproved\nroute.\nIt\nwarned\nthat\nany\nretaliation\nover\nthe\nincident\nwould\nbe\nmet\nwith\na\n\"severe\nresponse.\"\nUS\nCentral\nCommand,\nhowever,\nsaid\ncommercial\nvessels\ncontinue\nto\ntransit\nthrough\nthe\nwaterway\nthat\ncarried\none-fifth\nof\nthe\nworld's\noil\nand\nLNG\nshipments\nbefore\nthe\nwar.\nSee\nmore\non\nIran\n|\nMiddle\nEast\n|\nGulf\n|\nairstrikes\n|\nCENTCOM\nFollow\nus\non\nGoogle",
-      "sentiment_success": false
-    },
-    {
-      "title": "Daily Briefing July 12 – IDF on standby to rejoin Iran fight - The Times of Israel",
-      "url": "https://www.timesofisrael.com/daily-briefing-july-12-idf-on-standby-to-rejoin-iran-fight/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Jul 12, 2026 · 06:48 BRT",
-      "pub_date": "2026-07-12",
-      "pub_ts": 1783849730,
-      "summary": "Military correspondent Emanuel Fabian on the military's limited role in keeping peace in the West Bank, an imminent drawdown from southern Lebanon, and an uptick in picking off Hamas commanders",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "Daily\nBriefing\nJuly\n12\n-\nIDF\non\nstandby\nto\nrejoin\nIran\nfight\n|\nThe\nTimes\nof\nIsrael\nSkip\nto\nmain\ncontent\nEdit\nToday,\n12:39\npm\nShare\nCopy\nlink\nSend\nby\nemail\nFacebook\nX\nWhatsapp\nTelegram\nBluesky\nReddit\nPrint\nWelcome\nto\nThe\nTimes\nof\nIsrael’s\nDaily\nBriefing,\nyour\n20-minute\naudio\nupdate\non\nwhat’s\nhappening\nin\nIsrael,\nthe\nMiddle\nEast\nand\nthe\nJewish\nworld.\nMilitary\ncorrespondent\nEmanuel\nFabian\njoins\nhost\nAmanda\nBorschel-Dan\nfor\ntoday’s\nepisode.\nWATCH\nthe\nfull\nepisode\nhere:\nThe\nUS\nmilitary\nsaid\nit\nlaunched\nanother\nround\nof\nstrikes\non\nIran\nearly\nSunday,\nthe\nthird\nin\nrecent\ndays,\nafter\nthe\nIslamic\nRevolutionary\nGuard\nCorps\nstruck\na\ncontainer\nship\ntraveling\nthrough\nthe\nStrait\nof\nHormuz\nand\ndeclared\nthe\nwaterway\nclosed\nuntil\nfurther\nnotice.\nFabian\nspeaks\nto\nwhat\nit\nmay\ntake\nfor\nthe\nIDF\nto\nrejoin\nthe\nfight.\nMore\nfrom\nThe\nDaily\nBriefing\nJuly\n9,\n2026\nDaily\nBriefing\nJuly\n9\n-\nOn\nrazor's\nedge:\nIran\nand\nUS\ncontinue\nstrikes\nJuly\n8,\n2026\nDaily\nBriefing\nJuly\n8\n-\nIs\nthe\nUS-Iran\nceasefire\nover?\nJuly\n7,\n2026\nDaily\nBriefing\nJuly\n7\n-\nWill\nthe\nChief\nRabbinate\nkeep\nits\nmonopoly\non\nkosher\ncertification?\nJuly\n6,\n2026\nDaily\nBriefing\nJuly\n6:\nHigh\nCourt\nshowdown:\nIs\nIsrael\nfacing\na\nconstitutional\ncrisis?\nJuly\n5,\n2026\nDaily\nBriefing\nJuly\n5\n-\nIDF\nchief’s\nplea\nfor\nmore\ntroops\ncollides\nwith\nHaredi\nanti-draft\npush\nUS\nDemocratic\nlawmaker\nRo\nKhanna\nsaid\nhe\nwas\ndetained\nby\nIsraeli\nsettlers\narmed\nwith\nUS-made\nrifles\nduring\na\nWest\nBank\nvisit\nlate\nlast\nweek.\nAlso\nmaking\nheadlines,\nfour\nIsraeli\nsettlers\nwere\ndetained\nfor\nallegedly\nattacking\na\nCNN\nmedia\ncrew\nnear\nthe\nWest\nBank\ntown\nof\nSinjil\non\nSaturday.\nAfter\nallegations\nof\nIDF\ninaction,\nFabian\nreviews\nthe\nmilitary’s\nrole\nin\ndefusing\nsimilar\nsituations.\nThe\nIsrael\nDefense\nForces\non\nFriday\nannounced\nthat\nthree\nHamas\ncommanders\nwere\nkilled\nin\nairstrikes\nin\nGaza,\nincluding\none\nwho\nraided\nthe\nIDF’s\nRe’im\nbase\nin\nsouthern\nIsrael\nduring\nthe\nOctober\n7,\n2023,\nonslaught\nthat\nsparked\nthe\nsubsequent\nwar\nin\nthe\nStrip.\nThis\ncomes\namid\nan\nuptick\nin\nsimilar\nannouncements\nof\ntargeted\nkillings\nof\nterrorists\nwho\nparticipated\nin\nthe\nmassacre\nor\nheld\nhostages\nin\nGaza.\nFabian\ntells\nus\nabout\nthe\napparent\ntrend.\nYesterday,\na\nUS\nmilitary\ndelegation\nmet\nwith\nLebanon’s\narmy\nin\nBeirut\nto\ndiscuss\nthe\nimplementation\nof\nIsrael’s\nwithdrawal\nfrom\na\n“pilot\nzone”\nin\nsouthern\nLebanon.\nWe\nhear\nwhere\nand\nhow\nit\nmay\ntake\nplace.\nAnd\nfinally,\nto\nend\nthe\nprogram,\nwe\nlearn\nabout\nPvt.\nYaakov\nZarihan,\nkilled\nin\naction\non\nApril\n20,\n1948,\nduring\nIsrael’s\nWar\nof\nIndependence.\nHe\nhad\nbeen\nconsidered\nmissing\nfor\n78\nyears,\nand\nlast\nweek\nit\nwas\nannounced\nthat\nhe\nwas\nidentified\nas\nburied\nin\na\nmass\ngrave\nin\na\nkibbutz\nnear\nJerusalem.\nCheck\nout\nThe\nTimes\nof\nIsrael’s\nongoing\nliveblog\nfor\nmore\nupdates.\nFor\nfurther\nreading:\nUS\nstrikes\nIran\nagain,\nafter\nIRGC\nattacks\nship\nin\nHormuz\nand\ndeclares\nstrait\nclosed\nUS\nDemocrat\nRo\nKhanna\nsays\nhe\nwas\ndetained\nby\narmed\nsettlers\nduring\nWest\nBank\nvisit\n4\nsettlers\ndetained\nfor\nalleged\nattack\non\nCNN\ncrew\nin\nWest\nBank\ntown\nof\nSinjil\nOff-duty\nIDF\nsoldier,\ntwo\nIsraeli\nwomen\nextracted\nfrom\nWest\nBank’s\nJericho\nIDF\nkills\nthree\nHamas\ncommanders,\nincluding\nOct.\n7\ninvader,\nin\nGaza\nairstrikes\nUS\nmilitary\ndelegation\nvisits\nBeirut\nto\ndiscuss\nIDF\n‘pilot\nzone’\nwithdrawal\nIDF\ntroops\nto\nwithdraw\nfrom\nLebanon\npilot\nzones\nin\ncoming\ndays,\nsays\nUS\nofficial\nIDF\nsays\nsoldier\nmissing\nsince\n1948\nwar\ndetermined\nto\nbe\nburied\nnear\nJerusalem\nSubscribe\nto\nThe\nTimes\nof\nIs\nrael\nDaily\nBriefing\non\nApple\nPodcasts\n,\nSpotify\n,\nYouTube,\nor\nwherever\nyou\nget\nyour\npodcasts.\nThis\nepisode\nwas\nproduced\nby\nAri\nSchlacht.\nCheck\nout\nyesterday’s\nepisode\nhere:\nWe\ncan't\ndo\nthis\nwork\nalone.\nThe\nwar\nwith\nIran\nhas\nbeen\ndraining\nfor\nall\nof\nus\nin\nIsrael.\nBut\nwhen\nI\nheard\nabout\na\nhigh\ncasualty\nincident\n–\nballistic\nmissile\nimpacts\nin\nArad\nand\nDimona\nthat\nleft\nnearly\n200\npeople\nwounded\n–\nI\ndrank\na\ncup\nof\ncoffee,\npacked\na\nbag,\nand\nheaded\nsouth.\nThere,\nI\nspoke\nwith\nShilgit,\nthe\nhead\nof\nan\nafter-school\nprogram\nfor\nunderprivileged\nyouth.\nStanding\noutside\nher\ndestroyed\ncenter,\nShilgit\nsaid\nit\nwas\na\nmiracle\nthat\nno\nchildren\nwere\nhurt\nand\nspoke\nabout\nthe\ncommunity\ncoming\ntogether\nin\nthe\nhours\nsince.\nAs\na\nTimes\nof\nIsrael\nreporter,\nI’m\ncommitted\nto\ntelling\nstories\nof\nresilience\nlike\nShilgit’s.\nBut\nmy\ncolleagues\nand\nI\ncan't\ndo\nthis\nalone.\nIf\nyou\nvalue\nwork\nlike\nthis,\nplease\nconsider\njoining\nour\nreader\nsupport\ngroup,\nThe\nTimes\nof\nIsrael\nCommunity.\nYour\nfinancial\nsupport\nis\nessential\nto\nkeep\nreal\nhuman\nreporting\nlike\nthis\ngoing.\n—\nStav\nLevaton,\nmilitary\nreporter\nYes,\nI'll\njoin\nYes,\nI'll\njoin\nAlready\na\nmember?\nSign\nin\nto\nstop\nseeing\nthis\nread\nmore:\nIsrael\n&\nthe\nRegion\nThe\nDaily\nBriefing\npodcasts\nTimes\nof\nIsrael\npodcasts\n2026\nUS-Israel\nwar\nwith\nIran\n2026\nIsrael-Hezbollah\nconflict\n2023-2025\nIsrael-Hamas\nwar\nIf\nyou’d\nlike\nto\ncomment,\njoin\nThe\nTimes\nof\nIsrael\nCommunity.\nJOIN\nTHE\nTOI\nCOMMUNITY\nAlready\na\nmember?\nLog\nin\nhere\nclose\npopup\nSign\nin\nor\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nPaying\nToI\nCommunity\nmembers\nare\ninvited\nto\ncomment\non\narticles\nOr\nContinue\nwith\nBy\njoining\nyou\nagree\nto\nthe\nterms\nand\nconditions\nback\nclose\npopup\nRegister\nto\ncontinue\nOr\nContinue\nwith\nback\nclose\npopup\nLog\nin\nto\ncontinue\nback\nclose\npopup\nSign\nin\nor\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nYou\nare\ncurrently\nregistered.\nPlease\njoin\nThe\nTimes\nof\nIsrael\nCommunity\nto\ncomment\nand\nenjoy\nother\nCommunity\nbenefits\nOnly\nToI\nCommunity\nmembers\ncan\ncomment\nbelow\narticles\nOr\nContinue\nwith\nclose\npopup\nCheck\nyour\nemail\nWe\nsent\nan\nemail\nto\nyou\nat\n.\nIt\nhas\na\nlink\nthat\nwill\nsign\nyou\nin.\nClick\nthe\nlink\nin\nthat\nemail\nto\ncomplete\nregistration\nso\nyou\ncan\ncomment.\nback\nclose\npopup\nJoin\nThe\nTimes\nof\nIsrael\nCommunity\nCommenting\nis\navailable\nfor\npaying\nmembers\nof\nThe\nTimes\nof\nIsrael\nCommunity\nonly.\nPlease\njoin\nour\nCommunity\nto\ncomment\nand\nenjoy\nother\nCommunity\nbenefits.\nclose\npopup\nThank\nyou!\nNow\ncheck\nyour\nemail\nYou\nare\nnow\na\nmember\nof\nThe\nTimes\nof\nIsrael\nCommunity!\nWe\nsent\nyou\nan\nemail\nwith\na\nlogin\nlink\nto\n.\nOnce\nyou're\nset\nup,\nyou\ncan\nstart\nenjoying\nCommunity\nbenefits\nand\ncommenting.\nBack\nto\ntop\nNever\nmiss\nbreaking\nnews\non\nIsrael\nGet\nnotifications\nto\nstay\nupdated\nStay\nupdated\nNo\nthanks\nYou're\nsubscribed\nclose\npopup\nRegister\nfor\nfree\nand\ncontinue\nreading\nRegistering\nallows\nyou\nto\nmanage\nyour\nnewsletters\nand\nalerts\nand\nhelps\nus\nimprove\nyour\nexperience.\nIt\ntakes\njust\na\nfew\nseconds.\nAlready\nregistered?\nEnter\nyour\nemail\nto\nsign\nin.\nOr\nContinue\nwith\nBy\nregistering\nyou\nagree\nto\nthe\nterms\nand\nconditions\n.\nOnce\nregistered,\nyou’ll\nreceive\nour\nDaily\nEdition\nemail\nfor\nfree.\nSend\nme\nThe\nTimes\nof\nIsrael\nDaily\nEdition\nback\nclose\npopup\nRegister\nto\ncontinue\nOr\nContinue\nwith\nback\nclose\npopup\nLog\nin\nto\ncontinue\nback\nclose\npopup\nSign\nin\nor\nRegister\nOr\nContinue\nwith\nback\nclose\npopup\nCheck\nyour\nemail\nWe\nsent\nan\nemail\nto\nyou\nat\n.\nIt\nhas\na\nlink\nthat\nwill\nsign\nyou\nin.\nClick\nthe\nlink\nin\nthat\nemail\nto\ncomplete\nyour\nregistration.",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-12T11:06:10.658855+00:00",
-  "last_generated_date": "2026-07-12",
-  "last_generated_time": "2026-07-12T23:02:04.901192+00:00",
+  "last_relevant_time": "2026-07-13T11:06:49.444999+00:00",
+  "last_generated_date": "2026-07-13",
+  "last_generated_time": "2026-07-13T08:02:06.376133+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

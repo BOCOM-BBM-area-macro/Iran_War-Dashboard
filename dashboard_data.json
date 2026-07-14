@@ -2035,7 +2035,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-13"
+      "pub_date": "2026-07-14"
     },
     "https://www.bloomberg.com/news/articles/2026-07-14/india-s-youngest-airline-seeks-funds-as-iran-war-drives-up-costs": {
       "summary": "",
@@ -2105,7 +2105,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-13"
+      "pub_date": "2026-07-14"
     },
     "https://www.reuters.com/world/us-says-it-has-completed-its-latest-wave-strikes-iran-2026-07-14/": {
       "summary": "",
@@ -2252,6 +2252,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.washingtonpost.com/world/2026/07/14/yemen-houthis-saudi-arabia-iran-war-united-states/65923dae-7fa9-11f1-8a16-393bd03340b0_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2408,12 +2418,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
   "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T14:02:02.462696+00:00",
+  "last_generated_time": "2026-07-14T15:02:03.893113+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Korea’s Thirst for Canadian Crude Is Poised to Outlast Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaGZobVdHQmNYN0V5OHlLMHZxOUl0MXhiSWQwTDNmU0FBa1V4NEVhQnpVcnFRZTFEaVl1eUo0RzVoQW05VE1SbXBUT0FwMURZWVN5UG5WOFFuS1hyOE9IVmVtT3NxNm1KajJBdmdkV0NXSlY4czRyMlpqcVkyS01TZVMxSTZmMFNPRDQzRXRTOTlUTTZObklrVW90MFM4NmlZT296anlWUFU0NHVfek55U1pHdHVWaGVaTThiVW95WHhqOUtVWXJUektvdVowYkMxYms0MA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 13:50 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784047834,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The push to bypass the Strait of Hormuz - Axios",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtdU9BUFNKcmtxa2dNUW94ZUh3WXAzRl9NOVp4SkZXSEN3WmdtNFJnR3FvbmpHdW9OSFlpXzZ5dnFIMlIzbzBTMDN0UlctQk9mOFJVbjVWZ09tdkh2Zldkc3dqbEhZVG1aZHk0?oc=5",

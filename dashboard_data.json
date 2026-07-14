@@ -1416,7 +1416,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-12"
+      "pub_date": "2026-07-11"
     },
     "https://www.jpost.com/american-politics/article-902222": {
       "summary": "Congressional hopeful John Deaton warned that mixed messages from Trump and Netanyahu over the Iran war are eroding American trust in Israel and strengthening Tehran.",
@@ -2066,6 +2066,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-14"
+    },
+    "https://www.ft.com/content/44351c74-03c8-45ab-823b-5805c0daca5f?syn-25a6b1a6=1": {
+      "summary": "Roaming systems and ad tech were used to try to locate American personnel as Tehran attacked forces in the region",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/china-blunted-iran-war-oil-shock-can-it-do-same-fuels-2026-07-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
     }
   },
   "last_digest_success": true,
@@ -2233,6 +2253,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "China blunted Iran war oil shock, but can it do the same for fuels? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWG9WU1MxTkppRE0tUmN5VlJ2b1JvZEtzQ2x5SGJGN1o3QjFSUUxMdDJBcjRRSVFqb3BBRFlRU2gxNk5MZXhjTVVHUng3RDJyV0RRNlJKUWctTkc2Vm5QSGtIQmhvazV2azhadkpCNGZVMDMydXNSS1VycjI4MHNicTY0MGItbjFVUHhKdmxmbjVGcGhUYkpPWXBveFY0TWg3NXNnY3h2MGZ4SmYyLXlEaFM1WXJNa29BS1ZqZ0E2aw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 02:09 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784005740,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",

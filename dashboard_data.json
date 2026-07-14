@@ -2035,7 +2035,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.bloomberg.com/news/articles/2026-07-14/india-s-youngest-airline-seeks-funds-as-iran-war-drives-up-costs": {
       "summary": "",
@@ -2105,7 +2105,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.reuters.com/world/us-says-it-has-completed-its-latest-wave-strikes-iran-2026-07-14/": {
       "summary": "",
@@ -2162,6 +2162,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-13"
+    },
+    "https://www.reuters.com/business/energy/oil-climbs-one-month-high-us-iran-step-up-attacks-strait-hormuz-2026-07-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

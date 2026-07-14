@@ -2035,7 +2035,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.bloomberg.com/news/articles/2026-07-14/india-s-youngest-airline-seeks-funds-as-iran-war-drives-up-costs": {
       "summary": "",
@@ -2105,7 +2105,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.reuters.com/world/us-says-it-has-completed-its-latest-wave-strikes-iran-2026-07-14/": {
       "summary": "",
@@ -2242,6 +2242,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-14/why-fight-over-strait-of-hormuz-shipping-caused-iran-and-us-to-resume-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2398,12 +2408,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
   "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T13:01:58.029099+00:00",
+  "last_generated_time": "2026-07-14T14:02:02.462696+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The push to bypass the Strait of Hormuz - Axios",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtdU9BUFNKcmtxa2dNUW94ZUh3WXAzRl9NOVp4SkZXSEN3WmdtNFJnR3FvbmpHdW9OSFlpXzZ5dnFIMlIzbzBTMDN0UlctQk9mOFJVbjVWZ09tdkh2Zldkc3dqbEhZVG1aZHk0?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 08:21 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784028071,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Asian Oil Buyers Look to US Crude Again as Iran War Intensifies - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlN0Q09ZTWZSdW1WRExxVlVnZHhnMjhMMHVGdUVGbk1KbTRQMEw0RHNzZW5KNkFwMlJhallLMW1FYXRuVUEtaVZVSnJ2MU9LcVM1bnljWFdZQmxtMFNTYV9RNElmSlhGNzIweWhDOEFKMkNqbzRUS2FCTnNWTk5JM3dsYS1DUmw0bnE0Z3M0aWNRNXA1WlNVQWdaaWI1QVFueHgxNkFOb2ljTkpjcmx3YnNndDM?oc=5",

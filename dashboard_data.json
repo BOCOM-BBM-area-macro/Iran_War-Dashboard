@@ -2286,6 +2286,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-14"
+    },
+    "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
     }
   },
   "last_digest_success": true,
@@ -2438,12 +2448,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
   "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T17:02:01.376690+00:00",
+  "last_generated_time": "2026-07-14T18:02:02.369097+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Price Dips From High After Trump Changes Plans for Shipping Fees - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Yk9oM1dVZVRuWF9JdUF4cGNpODRKalBtVnJ5X3EzNUZHLXVpLXpuS2NMTExUVVVsbDEtMW1aekpVOS1YSUJuRkE2ckUxQ3Ytd3FzU3M3N0dfeVA4TWRFR3Z4bjRnVnhvZTdDdk84TmNKWmNPaTln?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 17:06 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784059588,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Korea’s Thirst for Canadian Crude Is Poised to Outlast Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaGZobVdHQmNYN0V5OHlLMHZxOUl0MXhiSWQwTDNmU0FBa1V4NEVhQnpVcnFRZTFEaVl1eUo0RzVoQW05VE1SbXBUT0FwMURZWVN5UG5WOFFuS1hyOE9IVmVtT3NxNm1KajJBdmdkV0NXSlY4czRyMlpqcVkyS01TZVMxSTZmMFNPRDQzRXRTOTlUTTZObklrVW90MFM4NmlZT296anlWUFU0NHVfek55U1pHdHVWaGVaTThiVW95WHhqOUtVWXJUektvdVowYkMxYms0MA?oc=5",

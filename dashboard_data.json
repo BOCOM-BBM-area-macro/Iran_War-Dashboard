@@ -2296,6 +2296,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-14"
+    },
+    "https://www.reuters.com/legal/government/us-senate-democrats-block-115-trillion-defense-bill-over-iran-war-objections-2026-07-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.cbc.ca/news/world/us-attacks-iran-tehran-blockade-9.7269216": {
+      "summary": "U.S. President Donald Trump stepped back on Tuesday from a proposal that the U.S. would charge a 20 per cent transit fee on shipping through the Strait of Hormuz amid the war with Iran, saying he would instead seek investment deals with ‌Gulf states.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
     }
   },
   "last_digest_success": true,
@@ -2448,7 +2468,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
   "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T18:02:02.369097+00:00",
+  "last_generated_time": "2026-07-14T19:02:00.512783+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3626,6 +3646,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Prices at Canadian pumps rising again as oil climbs to 4-week highs - CBC",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV1dIZW9vSzNpbERrak1fdm1yZGNvNXk5NWl6R01UTjhlaEpfYzQxbWlHblNwMUoyLThxdVdwSld4QVh0R2VNamZPSThheTZXNktjVWFjZ0xsWkdUNWR5eUE1ZFo3dUJ0OTJndg?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 17:10 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784059825,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "BP cuts net debt by up to 13% after Iran war drives oil price surge - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VTXZIdDI5VVJGbVl5VkdoTkhfdzJDMnBqV3BmWEtHanJaY3IyQ3BnWWJiSkU5VEQ5TnpteTNPODBVb1FyTGlHcDJCaUJvNTJvYldiZG9RYWpZV0Fpb3BVaUZsQndfcThHdVItd2t6X3A?oc=5",

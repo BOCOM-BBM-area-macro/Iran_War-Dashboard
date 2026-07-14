@@ -2005,7 +2005,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-13"
+      "pub_date": "2026-07-14"
     },
     "https://www.reuters.com/world/us/trump-sends-congress-formal-notice-that-iran-conflict-has-resumed-2026-07-13/": {
       "summary": "",
@@ -2112,6 +2112,36 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-14/asian-oil-buyers-look-to-us-crude-again-as-iran-war-intensifies": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-14/iran-war-hasn-t-stopped-founders-from-chasing-uae-saudi-qatar-money?ref=biztoc.com": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.ft.com/content/59a1a306-d7fd-4e01-88ad-bfd6da925aaa": {
+      "summary": "Higher energy prices and soaring refining margins help reduce borrowing",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3357,6 +3387,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "BP cuts net debt by up to 13% after Iran war drives oil price surge - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VTXZIdDI5VVJGbVl5VkdoTkhfdzJDMnBqV3BmWEtHanJaY3IyQ3BnWWJiSkU5VEQ5TnpteTNPODBVb1FyTGlHcDJCaUJvNTJvYldiZG9RYWpZV0Fpb3BVaUZsQndfcThHdVItd2t6X3A?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 04:23 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784013807,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Here’s how much money EV drivers are saving in your state - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWRmTVRrQXNsc0FPV01OSzBHaE1YREpiblV3VGw1eE02QnNtbVM5dkJQelVYX0Z2NkloUzJwU284bXFOTkx0dHdRVGNwQW80QXBha2JDQzNSRGJHWDNFQWpra2Jwa3l6dEpOYWNyQlJCUmlrdFhldUZtcldOdHRXZGhpNnE5QkV0MGpTVUJWelNDcENqaDB4ekJ3eVpEVHJiX2JVV0N6LU5zWElhYlhWZFNzMDZRYnBY?oc=5",

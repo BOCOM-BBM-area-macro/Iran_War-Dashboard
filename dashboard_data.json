@@ -2218,7 +2218,7 @@
       "pub_date": "2026-07-14"
     },
     "https://www.nytimes.com/2026/07/14/business/economy/inflation-data-iran-war-price-surge.html": {
-      "summary": "",
+      "summary": "The news of an improvement in consumer prices in June came as the U.S. and Iran escalated attacks, risking a return to high energy prices.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2238,7 +2238,7 @@
       "pub_date": "2026-07-14"
     },
     "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html": {
-      "summary": "",
+      "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2262,6 +2262,26 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html": {
+      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.nytimes.com/2026/07/14/world/middleeast/mahmoud-ahmadinejad-iran-israeli-asset.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2418,7 +2438,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
   "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T16:01:56.921171+00:00",
+  "last_generated_time": "2026-07-14T17:02:01.376690+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2427,6 +2447,20 @@
         {
           "title": "Korea’s Thirst for Canadian Crude Is Poised to Outlast Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaGZobVdHQmNYN0V5OHlLMHZxOUl0MXhiSWQwTDNmU0FBa1V4NEVhQnpVcnFRZTFEaVl1eUo0RzVoQW05VE1SbXBUT0FwMURZWVN5UG5WOFFuS1hyOE9IVmVtT3NxNm1KajJBdmdkV0NXSlY4czRyMlpqcVkyS01TZVMxSTZmMFNPRDQzRXRTOTlUTTZObklrVW90MFM4NmlZT296anlWUFU0NHVfek55U1pHdHVWaGVaTThiVW95WHhqOUtVWXJUektvdVowYkMxYms0MA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 13:50 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784047834,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Korea’s Thirst for Canadian Crude Is Poised to Outlast Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmtMLWR3bWN6aTBFNENXUHlfd21ZZ1YweGxYUS1oUHdWS2NUa2ZNSmlJbEQ2U0VWdUs0eENpLXlwMzdfaDRwSHFXNmZCRXZYTzJiTFFDUlJMUmtEa2FPY3pGSm9HeVEzVUptM21PRnp5WVJmWm1MUHpYdTdXbWdGS2NNR2pwemJPclhCY1hzQmRaOXdiLXl2ZWw4TUZNc3Q2T2I3OFJlYzU2VGNEeWRUdGhYQ2N4ZUJ6a056Ukg2eEs?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

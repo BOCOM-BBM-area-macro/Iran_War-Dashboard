@@ -2245,7 +2245,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-15"
     },
     "https://www.bloomberg.com/news/articles/2026-07-14/why-fight-over-strait-of-hormuz-shipping-caused-iran-and-us-to-resume-war": {
       "summary": "",
@@ -2374,6 +2374,28 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698?syn-25a6b1a6=1": {
+      "summary": "Gamble on resuming hostilities raises prospect that conflict will overshadow president’s second term",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902533": {
+      "summary": "The report noted that six teams, backed by the army and National Guard, responded to the strike, with no injuries reported and damage limited to material losses.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Middle East",
+        "airstrikes"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

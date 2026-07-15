@@ -2358,6 +2358,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-14"
+    },
+    "https://www.nytimes.com/2026/07/14/us/politics/us-war-iran-next-phase.html": {
+      "summary": "As President Trump resumes his war, the focus is now on the Strait of Hormuz. But it remains unclear how far the U.S. military will go to exert control.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
     }
   },
   "last_digest_success": true,
@@ -2510,7 +2520,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
   "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T21:02:05.392638+00:00",
+  "last_generated_time": "2026-07-14T22:01:53.069393+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

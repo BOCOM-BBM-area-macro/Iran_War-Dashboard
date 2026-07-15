@@ -2367,7 +2367,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-15"
     },
     "https://www.wsj.com/world/middle-east/iran-us-war-goals-af5d4131": {
       "summary": "",
@@ -2553,6 +2553,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-15"
+    },
+    "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
     }
   },
   "last_digest_success": true,
@@ -2707,7 +2717,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
   "last_generated_date": "2026-07-15",
-  "last_generated_time": "2026-07-15T09:02:11.293295+00:00",
+  "last_generated_time": "2026-07-15T10:02:15.855406+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4525,6 +4535,20 @@
           "published": "Jul 09, 2026 · 17:33 BRT",
           "pub_date": "2026-07-09",
           "pub_ts": 1783629223,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Copper Rallies as Risk Assets Shrug Off More US Strikes on Iran - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1JOUnpZTTBhekMyWWhuY0phRm5nNkVDbkxXYncybFVhelZrYmZIQ3BIeWtTeW9JOGtVQ0pJd3FhYVlPQVI4V2Z5bV9CenRHeXNZMnBLc01BenBBZUFVMWk0NGlCeDJ4Y2FCa1Q2amw5ZXBLWDhPeUtxYk1TTzhWUDkzNU5rM1J3Z0NvMW9EdzB6WXBmamRNdC1iZHdfbXFtTkhfNkxhQkpCNzVHTE90T29B?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 09, 2026 · 16:14 BRT",
+          "pub_date": "2026-07-09",
+          "pub_ts": 1783624490,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

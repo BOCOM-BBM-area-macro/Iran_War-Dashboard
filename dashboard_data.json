@@ -2338,14 +2338,14 @@
       "pub_date": "2026-07-14"
     },
     "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html": {
-      "summary": "",
+      "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-15"
     },
     "https://www.jpost.com/international/article-902534": {
       "summary": "A plaque says the trophy recognizes Trump’s “enthusiastic involvement in the Iran War” and his “courage to participate regardless of the final score.”",
@@ -2412,7 +2412,7 @@
       "pub_date": "2026-07-14"
     },
     "https://www.nytimes.com/2026/07/15/opinion/us-iran-forever-war-strait-of-hormuz.html": {
-      "summary": "",
+      "summary": "The vague language of the U.S.-Iran cease-fire memo laid the foundation for the war’s resumption.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2656,6 +2656,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-15"
+    },
+    "https://www.cbc.ca/news/world/iran-us-blockade-strait-hormuz-9.7270609": {
+      "summary": "The U.S. struck Iran's coastal defences and missile sites on Wednesday after reimposing a naval blockade of its ports, while Iran threatened to shut off more regional energy exports, saying it was engaged in an \"existential war\" with America.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.timesofisrael.com/boosting-cyber-skills-iran-apparently-tried-to-track-us-military-personnel-via-phones-report/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
     }
   },
   "last_digest_success": true,
@@ -2810,7 +2830,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
   "last_generated_date": "2026-07-15",
-  "last_generated_time": "2026-07-15T17:02:12.617818+00:00",
+  "last_generated_time": "2026-07-15T18:02:09.263474+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2881,6 +2901,20 @@
           "published": "Jul 15, 2026 · 06:08 BRT",
           "pub_date": "2026-07-15",
           "pub_ts": 1784106511,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US strikes Iran again as Tehran warns of 'existential war' with America - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 01:57 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784091420,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

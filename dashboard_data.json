@@ -2472,7 +2472,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.bloomberg.com/news/articles/2026-07-15/trump-pledges-to-escalate-attacks-until-iran-relents-on-hormuz": {
       "summary": "",
@@ -2502,7 +2502,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.washingtonpost.com/politics/2026/07/15/pennsylvania-republicans-won-lowering-prices-then-came-iran-war/": {
       "summary": "",
@@ -2523,49 +2523,72 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-15"
+    },
+    "https://www.wsj.com/world/middle-east/the-u-s-and-iran-face-dwindling-options-to-end-the-war-97972a6a": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.timesofisrael.com/idf-soldier-sentenced-to-5-years-for-spying-on-behalf-of-iran-during-june-2025-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-14T11:08:29.093123+00:00",
+  "last_digest_time": "2026-07-15T11:06:54.226086+00:00",
   "digest": {
-    "digest": "The conflict between the United States and Iran has intensified, with reports indicating renewed attacks by both sides and a battle for control over the Strait of Hormuz. The US military has been targeted in a phone-tracking campaign by Iran, utilizing roaming systems and ad tech to locate American personnel. In response, the US has imposed strikes and a blockade on Iranian ports, with President Trump formally notifying Congress of the conflict's resumption and ordering the reimposition of blockades. This escalation has led to expectations of a prolonged US-Iran war, as reflected in public opinion polls. The conflict's impact extends regionally, with the fragile peace in Yemen now in peril as Houthi rebels accuse Saudi Arabia of bombing following a dispute over an Iranian plane. China's oil imports have seen a significant drop, reaching a near 10-year low in June, though it has played a role in blunting the immediate oil shock from the war. Asian oil buyers are increasingly turning to US crude, while the surge in oil prices driven by the Iran war has allowed companies like BP to cut net debt. The ongoing conflict and its associated upheaval are reshaping the Middle East, though it has not deterred founders from seeking investment in the region, with some businesses, like India's youngest airline, facing increased operational costs.",
+    "digest": "The conflict between the U.S. and Iran has entered a new and dangerous phase, with a renewed focus on the Strait of Hormuz and escalating attacks from both sides. President Trump has pledged to intensify strikes until Iran relents on its actions in the vital waterway, signaling a significant shift in U.S. strategy. This escalation is already having tangible global consequences, including disruptions to oil shipments, with Japan receiving its first Mexican crude cargo since the war began, and oil prices rising by 1%. The conflict is also impacting international trade routes and flights, raising concerns about a return to high energy prices, despite recent positive inflation data. Politically, the war is eroding bipartisan support for defense measures in the U.S., as evidenced by the Senate Democrats blocking a defense bill. Iran has responded with threats to block more seaways and has conducted cyberattacks targeting U.S. military personnel. The cease-fire appears to be unraveling, with both nations trading strikes, and the situation is being described as a potential \"forever war\" with dwindling options for de-escalation. The United Arab Emirates has reportedly been rewarded with AI chips for its support in the conflict, indicating a complex web of international involvement.",
     "top_themes": [
-      "US-Iran Conflict Escalation",
-      "Geopolitical Ramifications",
-      "Economic Impacts of Conflict",
-      "Regional Instability"
+      "Escalation of U.S.-Iran Conflict",
+      "Disruption of Global Trade and Energy Markets",
+      "Political Ramifications of the War"
     ],
     "next_events": [
       {
-        "title": "Direct US-Iran Military Engagements and Strait of Hormuz Control",
-        "description": "The US has formally resumed conflict with Iran, ordering blockades on Iranian ports and engaging in new attacks over control of the Strait of Hormuz. Analysts should closely monitor naval movements, attempts to enforce or break blockades, and any direct military clashes that could signal a significant escalation of hostilities in this critical waterway."
+        "title": "Escalation in the Strait of Hormuz",
+        "description": "The Strait of Hormuz remains a critical flashpoint, with both the U.S. and Iran escalating actions and threats regarding its control. Analysts should monitor any further attempts by Iran to block vital seaways or U.S. military responses to exert control, as this directly impacts global shipping and energy markets."
       },
       {
-        "title": "Houthi Integration into Broader Iran War",
-        "description": "New fighting between Saudi Arabia and Yemen, alongside Houthi accusations and an incident involving an Iranian plane, threatens to draw the Iran-backed Houthis deeper into the conflict. Watch for increased Houthi attacks on Saudi or international targets, and any overt Iranian support that could expand the war's geographical scope and complexity."
+        "title": "Global Economic Impact and Energy Market Volatility",
+        "description": "The renewed conflict has already sparked disruptions in oil, shipping, and flights, leading to rising energy prices and inflation concerns. Watch for sustained increases in oil prices, potential supply chain disruptions, and how central banks respond to the economic fallout, as these will indicate the broader global impact."
       },
       {
-        "title": "Global Energy Market Instability and Supply Chain Resilience",
-        "description": "The Iran War has already driven oil price surges, impacted China's oil imports, and forced Asian buyers to seek alternative crude sources. Analysts must track global oil prices, the resilience of international shipping lanes, and the strategies of major economies to mitigate supply shocks and rising costs across various industries."
+        "title": "U.S. Domestic Political Response and Policy Shifts",
+        "description": "The Iran war is significantly impacting U.S. domestic politics, influencing legislative actions like the defense bill and affecting public sentiment on economic issues. Observe how the conflict shapes the upcoming political discourse, particularly regarding presidential strategies and congressional support for military actions, as this could dictate the future course of U.S. involvement."
       },
       {
-        "title": "Escalation of Cyber and Intelligence Operations",
-        "description": "Reports indicate the US military has been targeted in phone-tracking campaigns using roaming systems and ad tech, suggesting an active intelligence front in the conflict. Watch for further evidence of cyber attacks, espionage, or electronic warfare targeting military personnel, critical infrastructure, or supply chains by all parties involved."
+        "title": "Expansion of Asymmetric Warfare and Regional Proxy Actions",
+        "description": "Beyond direct military confrontation, Iran is engaging in cyberattacks and regional proxy actions, as evidenced by strikes on Kuwait and tracking of U.S. personnel. Analysts should watch for an increase in these asymmetric tactics and how regional allies respond, as they represent a significant, less visible dimension of the conflict."
+      },
+      {
+        "title": "Prospects for De-escalation and Diplomatic Engagement",
+        "description": "Despite the current escalation, reports mention 'shrinking options to end the war,' implying a search for off-ramps. Monitor any signals from either the U.S. or Iran regarding potential cease-fires, back-channel communications, or international mediation efforts, as these would be crucial indicators of a shift away from further military engagement."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-14T11:08:37.511871+00:00",
+  "last_watch_time": "2026-07-15T11:07:04.674914+00:00",
   "relevant_news": [
     {
-      "title": "New Saudi-Yemen Fighting Threatens to Pull Houthis Into Iran War - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/new-saudi-yemen-fighting-threatens-to-pull-houthis-into-iran-war-6d7aa26e",
+      "title": "The U.S. and Iran Reckon With Shrinking Options to End the War - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-us-war-goals-af5d4131",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 13, 2026 · 17:52 BRT",
-      "pub_date": "2026-07-13",
-      "pub_ts": 1783975920,
+      "published": "Jul 14, 2026 · 22:00 BRT",
+      "pub_date": "2026-07-14",
+      "pub_ts": 1784077200,
       "summary": "",
       "tags": [
         "extracted",
@@ -2577,71 +2600,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://www.reuters.com/world/us/americans-expect-prolonged-us-iran-war-ceasefire-falters-reutersipsos-poll-finds-2026-07-13/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 13, 2026 · 19:15 BRT",
-      "pub_date": "2026-07-13",
-      "pub_ts": 1783980900,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran and US stage new attacks, battle over control of Strait of Hormuz - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-it-struck-us-air-base-jordan-us-military-ends-five-hours-attacks-2026-07-14/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 13, 2026 · 21:56 BRT",
-      "pub_date": "2026-07-13",
-      "pub_ts": 1783990583,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump sends Congress formal notice that Iran conflict has resumed - Reuters",
-      "url": "https://www.reuters.com/world/us/trump-sends-congress-formal-notice-that-iran-conflict-has-resumed-2026-07-13/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 13, 2026 · 19:47 BRT",
-      "pub_date": "2026-07-13",
-      "pub_ts": 1783982820,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html",
+      "title": "Oil, Shipping, Flights: Disruptions Are Back as U.S.-Iran War Reignites - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-oil-shipping-flight-disruptions.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 13, 2026 · 22:18 BRT",
-      "pub_date": "2026-07-13",
-      "pub_ts": 1783991914,
+      "published": "Jul 15, 2026 · 06:08 BRT",
+      "pub_date": "2026-07-15",
+      "pub_ts": 1784106511,
       "summary": "",
       "tags": [
         "extracted",
@@ -2653,18 +2619,74 @@
       "sentiment_success": false
     },
     {
-      "title": "US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 13, 2026 · 23:50 BRT",
-      "pub_date": "2026-07-13",
-      "pub_ts": 1783997400,
+      "title": "The Battle for Hormuz: Trump Shifts Into Dangerous New Phase in Iran War - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/the-battle-for-hormuz-trump-shifts-into-dangerous-new-phase-in-iran-war-eb19979a",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 14, 2026 · 13:06 BRT",
+      "pub_date": "2026-07-14",
+      "pub_ts": 1784045160,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-threatens-block-more-vital-seaways-trump-orders-renewed-iran-blockade-2026-07-15/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 14, 2026 · 21:24 BRT",
+      "pub_date": "2026-07-14",
+      "pub_ts": 1784075048,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "White House Cheers Inflation Data While Iran War Sparks New Price Surge - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-data-iran-war-price-surge.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 14, 2026 · 11:31 BRT",
+      "pub_date": "2026-07-14",
+      "pub_ts": 1784039515,
+      "summary": "The news of an improvement in consumer prices in June came as the U.S. and Iran escalated attacks, risking a return to high energy prices.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Middle East Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 14, 2026 · 05:20 BRT",
+      "pub_date": "2026-07-14",
+      "pub_ts": 1784017228,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -2673,9 +2695,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
-  "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T23:02:02.084906+00:00",
+  "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
+  "last_generated_date": "2026-07-15",
+  "last_generated_time": "2026-07-15T08:02:18.361969+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -2345,7 +2345,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.jpost.com/international/article-902534": {
       "summary": "A plaque says the trophy recognizes Trump’s “enthusiastic involvement in the Iran War” and his “courage to participate regardless of the final score.”",
@@ -2676,6 +2676,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-15"
+    },
+    "https://www.nytimes.com/2026/07/15/world/iran-us-war-china-world-cup.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.washingtonpost.com/the-seven-trump/2026/07/15/tracking-trump-more-strikes-iran-war-trump-defends-ice-agents-investor-paid-trump-2-million-during-probe-more/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902646": {
+      "summary": "The US military has said its latest bombings have targeted Iranian air defense systems, coastal radar, missile and drone sites as well as small boats and other maritime assets.",
+      "tags": [
+        "Iran",
+        "Donald Trump",
+        "Memorandum of Understanding",
+        "Operation Epic Fury",
+        "Operation Economic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
     }
   },
   "last_digest_success": true,
@@ -2830,7 +2863,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
   "last_generated_date": "2026-07-15",
-  "last_generated_time": "2026-07-15T18:02:09.263474+00:00",
+  "last_generated_time": "2026-07-15T19:02:19.530696+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4709,6 +4742,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Tracking Trump: More strikes in Iran war; Trump defends ICE agents; investor paid Trump $2 million during probe; and more - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNR3Fxb011VndZYnU4ZUw3RTNBOEJqMXhfckl1SVBfdFFMNzZHMUswMk9Ha1EwME9kWE1NbTRObUtxajBZRkt3R3hYbzgxOEwxZzZVZzRyTGltOFAzQzdPdUFTdEwzZU5aMVg5cXlCZm96MDNCYWI3amNubmNQNl9JS1Q2eVBjd3JhN3pFZFQydloxTF9Fa1VHV0hvbGx4ajYzMkhtWUoxeGdadTNkUUFuak5wckhzajVBOFhaRGM2MVhSV0ltbVM0T2V5cXNqamZQN1otRU8yMVZxdjVLa3p4ZmV4TGw0N0FLNWtMT1oxZVp2M2lQSFFvQ052RGs?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 18:15 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784150124,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Copper Heads for Weekly Gain as Traders Look Past Iran Flare-Up - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1R4WEhuMlFyOUM2LWpNaHlNbmJPX1VfcV9ibjNRR3NSYmtZLVVpNHM1aUExYmVoaHJDOFd6b2dRZFBxRndibTNFTFQwWlNfRUZvVmZzejdrN0I0dU9lenJ6N1g2Nm5aemFlLXZKTkNkbXlndnhDR0RQS3hadVlDWlUxOFNUUUZ2ODNtX1hUT1BuNFdGaFh5UDZFTW9MN19mUWtCTDk1cWtQWkJHMGxwS0FLVWM?oc=5",

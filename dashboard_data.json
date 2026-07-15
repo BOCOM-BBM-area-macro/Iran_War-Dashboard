@@ -2367,7 +2367,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.wsj.com/world/middle-east/iran-us-war-goals-af5d4131": {
       "summary": "",
@@ -2485,7 +2485,7 @@
       "pub_date": "2026-07-15"
     },
     "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-oil-shipping-flight-disruptions.html": {
-      "summary": "",
+      "summary": "Higher prices for energy, food and air travel are likely to persist as the two sides escalate their clash over the Strait of Hormuz and launch airstrikes in the Middle East.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2555,7 +2555,7 @@
       "pub_date": "2026-07-15"
     },
     "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html": {
-      "summary": "",
+      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2595,7 +2595,7 @@
       "pub_date": "2026-07-15"
     },
     "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html": {
-      "summary": "",
+      "summary": "Doing business in a more dangerous and unpredictable world will cost more, pushing up the price of everything from food to electronics.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2632,6 +2632,16 @@
         "Artificial intelligence",
         "drone",
         "Microsoft"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.reuters.com/world/middle-east/us-strikes-iran-strengthen-trumps-options-new-escalation-officials-say-2026-07-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2790,7 +2800,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
   "last_generated_date": "2026-07-15",
-  "last_generated_time": "2026-07-15T15:02:06.770357+00:00",
+  "last_generated_time": "2026-07-15T16:02:03.342458+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -2613,6 +2613,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-15"
+    },
+    "https://www.washingtonpost.com/world/2026/07/15/trump-iran-signed-truce-still-cant-agree-what-its-terms-mean/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.jpost.com/international/article-902621": {
+      "summary": "In recognition of the UAE's support for US national security interests, the US has granted UAE AI companies free access to buy chips from companies such as Nvidia.",
+      "tags": [
+        "United Arab Emirates",
+        "UAE",
+        "Artificial intelligence",
+        "drone",
+        "Microsoft"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
     }
   },
   "last_digest_success": true,
@@ -2767,12 +2790,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
   "last_generated_date": "2026-07-15",
-  "last_generated_time": "2026-07-15T14:02:07.968737+00:00",
+  "last_generated_time": "2026-07-15T15:02:06.770357+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Vance, House GOP Push Ahead on Politically Risky Iran War Funds - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUxkSFVvR1ZtTmpEaEswS0hIVDJ6UXRtM1JYM0NEcVFSTGI2SUt3Q0Rnck1pSU5wcWpCV1pXZWRMbDd3WXlXUkp6RC1aS3AtSmoya2xVVEYxQkVTSjV5c2ttaDcwZHMwMF9GaXVHdGJ2Ykl2ZzRtc19Ob0tmVng3Y01lckNHN1BjV0Y5X3ZEb0NzdHZpZUJ6MlVvTU43cF9vTVNBb19RS1p5Yzc2RFRkLTgyRQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 13:31 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784133077,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMTNjLTFtUmxOX1dMTFJFM3UxYVFLWXNZMnBGOTVRMlU1WUNTd2JLdHJaMkRqdW0xNFBKT1YxOVNMZ0lzVllZQ0JWQ1QtMzlsRkZIT3dDSDBYN0VtUUFyUENMTXdNNTJFc18yMkNuSTI?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 10:02 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784120563,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Japan to receive first Mexican crude cargo since start of Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXdhXzFUZWc2UGd0d0VWU0VYXzdGb2NFUndyQWt3Nk5LUVNadUFaV0phbnJBcTR5UFVwMkFCYm1PSGVwTUNsNXR6Z2huNHh1ZE1CN05LaVN1bDhKVGdGaDJpMHBjNEhJeEhreXU4aVZEbjB6eXJyc1lJSnNsZFBveFMzdUJ4S3NGOXVmNUp2TUlLdC1PMVRwR05PUG5rNHRXanJsY0VUV05VTUxGZWJwUEtR?oc=5",

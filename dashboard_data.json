@@ -2399,7 +2399,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-15"
     },
     "https://www.nytimes.com/2026/07/14/world/middleeast/iran-cyberattack-us-military-phones-tracking.html": {
       "summary": "",
@@ -2459,6 +2459,26 @@
         "rockets",
         "espionage",
         "IDF Soldiers"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.reuters.com/business/energy/oil-rises-after-us-iran-hostilities-flare-again-with-strikes-energy-targets-2026-07-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-15/trump-pledges-to-escalate-attacks-until-iran-relents-on-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

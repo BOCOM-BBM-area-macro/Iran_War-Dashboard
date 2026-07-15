@@ -2410,6 +2410,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-14"
+    },
+    "https://www.nytimes.com/2026/07/15/opinion/us-iran-forever-war-strait-of-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.reuters.com/world/middle-east/iran-threatens-block-more-vital-seaways-trump-orders-renewed-iran-blockade-2026-07-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
     }
   },
   "last_digest_success": true,
@@ -2568,6 +2598,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 22:06 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784077560,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Price Dips From High After Trump Changes Plans for Shipping Fees - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Yk9oM1dVZVRuWF9JdUF4cGNpODRKalBtVnJ5X3EzNUZHLXVpLXpuS2NMTExUVVVsbDEtMW1aekpVOS1YSUJuRkE2ckUxQ3Ytd3FzU3M3N0dfeVA4TWRFR3Z4bjRnVnhvZTdDdk84TmNKWmNPaTln?oc=5",

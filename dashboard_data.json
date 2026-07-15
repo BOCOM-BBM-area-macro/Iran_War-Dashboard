@@ -2326,6 +2326,38 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-14"
+    },
+    "https://www.wsj.com/world/middle-east/uae-ai-chips-iran-war-26c10d77": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
+    },
+    "https://www.jpost.com/international/article-902534": {
+      "summary": "A plaque says the trophy recognizes Trump’s “enthusiastic involvement in the Iran War” and his “courage to participate regardless of the final score.”",
+      "tags": [
+        "Washington",
+        "Donald Trump",
+        "satire",
+        "iran protests"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-14"
     }
   },
   "last_digest_success": true,
@@ -2478,7 +2510,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-14T11:08:38.252704+00:00",
   "last_generated_date": "2026-07-14",
-  "last_generated_time": "2026-07-14T20:02:03.118576+00:00",
+  "last_generated_time": "2026-07-14T21:02:05.392638+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

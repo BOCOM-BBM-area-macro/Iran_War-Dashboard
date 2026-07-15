@@ -2439,7 +2439,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.bloomberg.com/news/articles/2026-07-15/ecb-will-stay-vigilant-as-iran-war-flares-up-again-nagel-says": {
       "summary": "",
@@ -2479,6 +2479,46 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-oil-shipping-flight-disruptions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-14/iran-strikes-on-kuwait-are-the-worst-since-june-airport-attack": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.washingtonpost.com/politics/2026/07/15/pennsylvania-republicans-won-lowering-prices-then-came-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.reuters.com/business/energy/japan-receive-first-mexican-crude-cargo-since-start-iran-war-2026-07-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2642,6 +2682,34 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Japan to receive first Mexican crude cargo since start of Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXdhXzFUZWc2UGd0d0VWU0VYXzdGb2NFUndyQWt3Nk5LUVNadUFaV0phbnJBcTR5UFVwMkFCYm1PSGVwTUNsNXR6Z2huNHh1ZE1CN05LaVN1bDhKVGdGaDJpMHBjNEhJeEhreXU4aVZEbjB6eXJyc1lJSnNsZFBveFMzdUJ4S3NGOXVmNUp2TUlLdC1PMVRwR05PUG5rNHRXanJsY0VUV05VTUxGZWJwUEtR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 06:52 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784109146,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil, Shipping, Flights: Disruptions Are Back as U.S.-Iran War Reignites - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSk53R2NIMlBCcy1xYjg4a2xaUlA2M3lDNGlkMG1icEhsWUtOM3N4OVNjTVl6clIxUV9wdlpDQzJNNzBzMkxKbGZpN2tTNlZqY0lYVGhKZF9YeHlPbkp1YjU5dDZqLUNBRW1pb2pCYVdOeC1zM0tJY0xUdC1oWU95Mmx4b25uYy1WcnVzSGRsUU95WTF5OThVX1FPbTlNdw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 06:08 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784106511,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
           "source": "Reuters",
@@ -2804,6 +2872,20 @@
           "published": "Jul 13, 2026 · 19:27 BRT",
           "pub_date": "2026-07-13",
           "pub_ts": 1783981620,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil traders call Trump's Hormuz bluff at their peril - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RldEFjOEYyQThpdlVPRHZfQjh6WjdkTzdHd1d0OXh4ZjF1WEd6UU1WZ3JvZDBNcG43Q1FhZG50MDR3V25hZ1ZqT1NLUHpmSUZ4NVF0ZGJPbndGR0ZoS29GdzVUY3ZDUnI0OEltaDVrZGs1LVZadGJSTnd0NkNfVk1SYmFmbFpNYWxyTnRZV0NGVjYySXBlT05YUHdKaXZ5U0RkbkR3Vlo4ODVGb3BtdmhpOXByV0w0?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 13, 2026 · 17:21 BRT",
+          "pub_date": "2026-07-13",
+          "pub_ts": 1783974060,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -3697,6 +3779,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "China refineries seek less fuel oil as they opt for cheaper crude, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkdHYmVYMWJRWkhJNGxORGhRMy12VXdubEIzWURsVklVcDkySkY0enpUWmczaV9CVzFHQmp5SGo5M0xXMGdKQm9EaHFEYWxZNlUtdHdUX29vZXRsdHBFd2hiYWF3ME5vU2RpMHZKVlFPRm11VmVWNzd1V1BlWVJEZXZlTnlSNDRQRTdHdnoyRVhDa1VKb2pFTG5MM05FNmdrVXloS3FPVkZMUnhTYzRYb21DTGRHdzByMFVBNVYzRQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 06:22 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784107329,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "China Tells Refiners to Keep Fuel Output High as Iran War Drags - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnJqYVZRdWl1YVRwOWRNQzJRUnZTZHIxdnpLc3dFWkZ4WE9LX2xjeUJkeW5weFcwOGJTblBvc3dROWxWSThLdmdXb292VDFnWE8yUy1NYm1RaWRyVE5wSkZqMUJqQWVEXzR5alpmNEx5bkxLQ2RzclM1T2hiaUVCQ0Ixa0YyMXUwMU9jUmVvVUIwLTUzYl9Ha0ZSWUtQUkl6bGo0M1JMREZfTHItRGtpT09vcFM?oc=5",
           "source": "Bloomberg.com",
@@ -3841,6 +3937,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Pennsylvania Republicans won on lowering prices. Then came the Iran war. - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEhBTHN4N3czUDV2OTFtVWZhbUFPckd4VVpNNkxIYjY1NGlEZkgzYS0xbTcxc3FuTndKM0ZmeXhLN2lhM080VC1oY3VneDIzbWpBNXp5WjFhclo3WS05M3l5RUI1TDk1VnR0NUg2eDFZa2JTSU5JZThXRTV6U056R0FLb0doeU1lTmVvaV9QeTVEcGY1VzNBdG9UMmVWSjRsYzhKUmpWanpoX1ZCbVpycmZOOU12dw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 06:02 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784106132,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Prices at Canadian pumps rising again as oil climbs to 4-week highs - CBC",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV1dIZW9vSzNpbERrak1fdm1yZGNvNXk5NWl6R01UTjhlaEpfYzQxbWlHblNwMUoyLThxdVdwSld4QVh0R2VNamZPSThheTZXNktjVWFjZ0xsWkdUNWR5eUE1ZFo3dUJ0OTJndg?oc=5",

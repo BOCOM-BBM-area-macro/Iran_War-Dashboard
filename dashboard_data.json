@@ -2367,7 +2367,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.wsj.com/world/middle-east/iran-us-war-goals-af5d4131": {
       "summary": "",
@@ -2709,6 +2709,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-15"
+    },
+    "https://www.nytimes.com/2026/07/15/us/politics/jd-vance-rogan-interview.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
     }
   },
   "last_digest_success": true,
@@ -2863,7 +2883,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
   "last_generated_date": "2026-07-15",
-  "last_generated_time": "2026-07-15T19:02:19.530696+00:00",
+  "last_generated_time": "2026-07-15T20:02:16.293697+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -2512,7 +2512,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-16"
     },
     "https://www.reuters.com/business/energy/japan-receive-first-mexican-crude-cargo-since-start-iran-war-2026-07-15/": {
       "summary": "",
@@ -2552,7 +2552,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html": {
       "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
@@ -2695,7 +2695,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-16"
     },
     "https://www.jpost.com/middle-east/iran-news/article-902646": {
       "summary": "The US military has said its latest bombings have targeted Iranian air defense systems, coastal radar, missile and drone sites as well as small boats and other maritime assets.",
@@ -2789,6 +2789,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-15"
+    },
+    "https://www.washingtonpost.com/world/2026/07/15/iran-us-hormuz-strait-war-july-16-2026/d29665c2-80c8-11f1-8a16-393bd03340b0_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
     }
   },
   "last_digest_success": true,
@@ -3140,6 +3150,20 @@
           "published": "Jul 14, 2026 · 08:21 BRT",
           "pub_date": "2026-07-14",
           "pub_ts": 1784028071,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Inflation Slowed During Pause in War With Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NQlJhLTYyMV9RVmdRbDhvQS1LSHNtcklaR3dVYU5qM3lEcGl3TVhFQUhKbWV6ZGVxeEZQSHFTUjBleEUzVjY2aWFnMl9jSmliY3pHbUdHVmxQZUxIS3F4RS10RHJISm9TV0FEeGNBX0hWelpYc3FRVFJn?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 07:56 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784026577,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -4691,6 +4715,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Wheat Holds Near Two-Month High After Black Sea Attacks - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEQ3QmJYWmtTenhnOG9ySmJIelJnSVRjeVZOOVdrWXJ1bk1VNEd5SmJBOHBGYkpEWVlUbVBWbmNLOTlQNG0zX1pMZkliZ1RlclJhM29JbmZFNk8zenBrRlZpZldkZ0l5NFR3X2Y4dWJUSHJGZHV5T09xaFVPd1BoU2tlWk1xaHEwRjZBeXBndmZIc3NXUUE4WlNKWEllU3hQSjFVUnRqY3lPZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 00:13 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784171580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "House Republicans release $95 billion spending bill with no offsets, which could endanger support - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3N3aW05V0xUREhhX0hNZk1MZFNoMGlySjdDM25sMldadE1abXVKeDdVUlJ6WFlPVlZ3Uy0xVW5XQ1lRX0VmNWVMc01NZzkzY0xfMHhZM3JEWVBtazdJNG1PcEhUWXpkWWZod3I4dlNJa3Nia0ZYa1hnci0ycWlmeDQ4R0EwNlhibGw5OWw5eWNCQkhvVy1YRjRoZlpTTk1haUhvLVVWaTVoVG5tRjJGbk5FUVI0MEE?oc=5",

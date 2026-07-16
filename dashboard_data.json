@@ -2422,7 +2422,7 @@
       "pub_date": "2026-07-15"
     },
     "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz": {
-      "summary": "",
+      "summary": "The U.S. military said that it had hit dozens of Iranian targets in its latest salvo. Iran’s army said that it had fired more drones at American military sites in the region, as the two sides tussle over the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2897,6 +2897,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-16"
+    },
+    "https://www.reuters.com/world/iran-warns-strait-hormuz-is-red-line-will-resist-until-end-2026-07-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
     }
   },
   "last_digest_success": true,
@@ -3332,6 +3352,20 @@
           "published": "Jul 14, 2026 · 07:56 BRT",
           "pub_date": "2026-07-14",
           "pub_ts": 1784026577,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Spot Mideast crude prices strengthen after Iran attacks UAE tankers - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmN4Q2hMdDhRQ3ZIb0J5cGF2Rm5sd2tMUlppLUVtV2xmOU5zRXp5NVhkU0k5V0ZBSElqUl9LZVo0THZqRTYtaVFIM0ZiUTRUR3ZQb3VsekR4OHJESlNIWWU2SFQ4QnpRUmpVZldJUDhLdFk1Q2xkZHZUa2I3empXWktsc050ZjJHSFh4RVhGVHAzUEdOM0J5SDJHYlVKcC11bFUzellTOXFPejF5WlJVNElJdW9scVN2aEl3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 05:50 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784019009,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -4337,6 +4371,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Diesel Hits $5 a Gallon Again, Up 33% Since Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbWRNS2lLRERGUlhNS3MtdVJKd1lhYkV6RTMtVzFHS29aN2ZrQ3FQcklTbjRHS1U1ZktVOHcwTVRSaWxNU3ZqUGV0WXV6V3VJZUNtY1FhNFRaZzE2RlpaVUJ4cXhCSTZyc2dwdDRXUk1XN3FIYThJRnZXcUFkYXc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 05:36 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784190966,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "China refineries seek less fuel oil as they opt for cheaper crude, sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkdHYmVYMWJRWkhJNGxORGhRMy12VXdubEIzWURsVklVcDkySkY0enpUWmczaV9CVzFHQmp5SGo5M0xXMGdKQm9EaHFEYWxZNlUtdHdUX29vZXRsdHBFd2hiYWF3ME5vU2RpMHZKVlFPRm11VmVWNzd1V1BlWVJEZXZlTnlSNDRQRTdHdnoyRVhDa1VKb2pFTG5MM05FNmdrVXloS3FPVkZMUnhTYzRYb21DTGRHdzByMFVBNVYzRQ?oc=5",
           "source": "Reuters",
@@ -4867,6 +4915,20 @@
         {
           "title": "India Raises Export Levies on Diesel and Jet Fuel as Global Supply Crunch Deepens - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHBZRXEzVVR5aFRtcC1QemlrVlE2WFhpQkxXLWNwcUFxdkpMSlFXRzVGY2NuRnZHNWluSU14ZVZISDFZS2xHelItN1JlaWhKTi16anhhREU1R2EtWTZGTlNfYV9DdE1pUEl5U2VQdks3bktnQ241RTVhQTdGYkRhVWwzUDlublBzdjA4VnNNT1U5RTJBRFUtRmFMRHhHcjhmemc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 22:15 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784164500,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "India Raises Export Levies on Diesel and Jet Fuel as Global Supply Crunch Deepens - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkNsRWE3TkE2ZjY5NFhDaFpKTTdzWGlfQnQzdnNzX05XVmVENTVhZ09NTDcwZXpGek5sOXFfaENVYjRCbk9zcFhrM081LVV5Z0dHSG1RSkJEcHNRVDhQeS1fd3I4a0Yzc2s2V2VKNHpEWVBXUDV4a1lfV3R3bkhIdEYxb3ZpQ3k3Y3B2a3o0N0htaGY4SHBCN1VzTUlXOC01ZGZPcFUzVjUyUU9UaUZCRFRCMHctX1VkdjFReXdB?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

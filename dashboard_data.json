@@ -2345,7 +2345,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-15"
     },
     "https://www.jpost.com/international/article-902534": {
       "summary": "A plaque says the trophy recognizes Trump’s “enthusiastic involvement in the Iran War” and his “courage to participate regardless of the final score.”",
@@ -2565,7 +2565,7 @@
       "pub_date": "2026-07-15"
     },
     "https://www.nytimes.com/2026/07/15/us/politics/house-republicans-budget.html": {
-      "summary": "",
+      "summary": "The plan faces a rocky path amid Republican divisions and would pave the way for votes months before the midterm elections to fund a war that polls show is deeply unpopular.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2711,7 +2711,7 @@
       "pub_date": "2026-07-15"
     },
     "https://www.nytimes.com/2026/07/15/us/politics/jd-vance-rogan-interview.html": {
-      "summary": "",
+      "summary": "In his first on-air conversation with the popular podcaster since 2024, the vice president cautiously defended the Iran war while also hinting at skepticism about it.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2725,6 +2725,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-15/iran-war-drives-new-investment-in-us-lng-s-p-global-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2883,7 +2893,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-15T11:07:05.811818+00:00",
   "last_generated_date": "2026-07-15",
-  "last_generated_time": "2026-07-15T20:02:16.293697+00:00",
+  "last_generated_time": "2026-07-15T21:02:05.036532+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4201,6 +4211,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran War Drives New Investment in US LNG, S&P Global Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNhbVluS3dyeXZiTFFQYkxHcFdMWVJubi1rWTFObEtBZkZUNlZZTW9JMkJva2JMTlRzRFd1VGExal9fZy0zaHpDdDd1ZDl2SGxxamdJdnRJNExxMFFBMUcybURLZWNGUTJ1cmNxRWYyd2QxNnNYemxyZ183TVdKQXFGaW9zRXRlTU5xbU1OaFNDbU8yaGM0QU5HaENwdWVab0JPa1dLd25HU0E?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 20:18 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784157494,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Pennsylvania Republicans won on lowering prices. Then came the Iran war. - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEhBTHN4N3czUDV2OTFtVWZhbUFPckd4VVpNNkxIYjY1NGlEZkgzYS0xbTcxc3FuTndKM0ZmeXhLN2lhM080VC1oY3VneDIzbWpBNXp5WjFhclo3WS05M3l5RUI1TDk1VnR0NUg2eDFZa2JTSU5JZThXRTV6U056R0FLb0doeU1lTmVvaV9QeTVEcGY1VzNBdG9UMmVWSjRsYzhKUmpWanpoX1ZCbVpycmZOOU12dw?oc=5",

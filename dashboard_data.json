@@ -1710,7 +1710,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-13"
+      "pub_date": "2026-07-14"
     },
     "https://www.bloomberg.com/news/videos/2026-07-13/insight-with-haslinda-amin-7-13-2026-video": {
       "summary": "",
@@ -2348,7 +2348,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.jpost.com/international/article-902534": {
       "summary": "A plaque says the trophy recognizes Trump’s “enthusiastic involvement in the Iran War” and his “courage to participate regardless of the final score.”",
@@ -2922,7 +2922,7 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html": {
-      "summary": "",
+      "summary": "U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity are pushing up prices again.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3012,7 +3012,7 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/2026/07/16/business/maker-of-drone-boats-used-in-iran-war-to-open-new-texas-shipyard.html": {
-      "summary": "",
+      "summary": "Saronic Technologies will make naval and commercial vessels at the facility. The company’s naval drone helped rescue the crew of a downed Apache helicopter last month.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3046,6 +3046,36 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.wsj.com/world/middle-east/saudi-arabia-riyadh-iran-war-99434d4b": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.nytimes.com/2026/07/16/us/politics/hegseth-iran-war-briefings.html": {
+      "summary": "Defense Secretary Pete Hegseth has spoken about a range of issues in recent days — from testosterone to leak investigations — but he has said little about the war.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-16/oil-traders-crowd-around-cheap-taco-hedge-as-iran-war-escalates": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3212,7 +3242,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-16T11:08:23.207363+00:00",
   "last_generated_date": "2026-07-16",
-  "last_generated_time": "2026-07-16T17:02:11.925799+00:00",
+  "last_generated_time": "2026-07-16T18:02:00.118401+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

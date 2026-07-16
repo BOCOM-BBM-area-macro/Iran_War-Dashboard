@@ -2348,7 +2348,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-15"
     },
     "https://www.jpost.com/international/article-902534": {
       "summary": "A plaque says the trophy recognizes Trump’s “enthusiastic involvement in the Iran War” and his “courage to participate regardless of the final score.”",
@@ -2370,7 +2370,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-15"
     },
     "https://www.wsj.com/world/middle-east/iran-us-war-goals-af5d4131": {
       "summary": "",
@@ -2658,7 +2658,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-16"
+      "pub_date": "2026-07-15"
     },
     "https://www.cbc.ca/news/world/iran-us-blockade-strait-hormuz-9.7270609": {
       "summary": "The U.S. struck Iran's coastal defences and missile sites on Wednesday after reimposing a naval blockade of its ports, while Iran threatened to shut off more regional energy exports, saying it was engaged in an \"existential war\" with America.",
@@ -2912,7 +2912,7 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html": {
-      "summary": "",
+      "summary": "The U.S. military has appeared to widen its targets in Iran, while Iran has fired at bases belonging to American allies in the Middle East.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3072,6 +3072,36 @@
       "pub_date": "2026-07-16"
     },
     "https://www.bloomberg.com/news/articles/2026-07-16/oil-traders-crowd-around-cheap-taco-hedge-as-iran-war-escalates": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-16/how-the-iran-war-is-rewiring-the-oil-market": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.reuters.com/world/middle-east/trump-threatens-new-iran-escalation-risks-repeating-old-mistakes-2026-07-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-16/have-we-reached-peak-hormuz-video": {
       "summary": "",
       "tags": [
         "extracted",
@@ -3242,12 +3272,54 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-16T11:08:23.207363+00:00",
   "last_generated_date": "2026-07-16",
-  "last_generated_time": "2026-07-16T18:02:00.118401+00:00",
+  "last_generated_time": "2026-07-16T19:01:59.751453+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Watch How The Iran War Is Rewiring the Oil Market - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzVxSmsyVXBoSEoyX0RlRHZkbzgxTjBJSlBvZWtzUVBOOXFXM29td3owNzVqR1o0M0JvOXFtTWxjbjY2TFZJQWFqZHNWTGVxMk9vdmhXSl9vS0M0VXRSUnNrd1pwdElZQVcwbkJrVkp5NVVfUjhEQkNHdzZHdUloQ3Y3YTRjMWhkQ2c?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 18:35 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784237748,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Why the Strait of Hormuz Is Losing Importance - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3V3QXVnRTEydWpjWlZnYWItUTY4WTBhci1abEVZQ2tFTl9zdGx5MEtRNDVTR1VOVjZxNmRMQzFnOXJyR2trVG9jb2E4eVdGVl9RbHNvaWpuU1FyMTlsSng0a2xZNGV5dzZEYmpycTd1S0FINkZmUTk4QzBsTkpOWWdneU9zd04wci15bEV2YlZ3b21EQ0tuNkZn?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 18:12 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784236379,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Strait of Hormuz Tanker Traffic Erodes Further as Oil Prices Rise - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZk9iNXJ3ZzktdVpINVZWV3FVeVZtUVlkWGl6VW9oMm0xdlVlOGpQZmVTWmtQT0dwcnZPNzZpYXlCVnRtbUNSdHRMZk5EczM1OHRfYVRWQnl3VGI2TkMxaGhtWGxMa0xJV2tMSlVaOXRmcEhTYkNuOTk5WEE3d1ZVZQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 18:09 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784236199,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Traders Crowd Around Cheap TACO Hedge as Iran War Escalates - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDhXcHpRdnZrWTgzTjdFY1Z0NzlEa2VVREpZTXlISTdyOS1rTHB2VWtNLVJIaExHY2IzNGVsMDZRT0ZVR3ZYc3ZaVVBxeVBscUdjQzRJMHllWkgzSVJqU3MxZ1VJcG9OUllNRk9wODA1b0pHWkhsR3FCdWgwaGhqbHdTeHROOXp5NVdXUmM1dEluSTQ1Q0d0VzF5aVIzSzd3TWhRUTl1MlhXRVpadXlzZmhyVjE?oc=5",
@@ -3391,6 +3463,20 @@
         {
           "title": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMTNjLTFtUmxOX1dMTFJFM3UxYVFLWXNZMnBGOTVRMlU1WUNTd2JLdHJaMkRqdW0xNFBKT1YxOVNMZ0lzVllZQ0JWQ1QtMzlsRkZIT3dDSDBYN0VtUUFyUENMTXdNNTJFc18yMkNuSTI?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 10:02 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784120563,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0JoVjlvMHpwak9Dd3dzRlpyWnV6R1Jlb2VrcHVJY295X0xoX2o2QWViYlh0V1dzalFpX28yNmx0dTRWZDdYUkl5T052RGxPT1FXSzhqUUVTSGhPbnVuMXV5T3JUSjNGbUs2cGFrZlpPNUFKdHVJM1B5Vm5ycGpoNm9XMnQ?oc=5",
           "source": "Financial Times",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

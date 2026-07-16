@@ -2851,6 +2851,52 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-16"
+    },
+    "https://www.wsj.com/business/energy-oil/totalenergies-lowers-estimated-production-hit-from-iran-war-cf8c66b2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.reuters.com/world/middle-east/most-gulf-markets-subdued-amid-renewed-us-strikes-iran-2026-07-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902647": {
+      "summary": "Meanwhile, US President Trump stated that Iran badly wants to settle with the United States, adding that Washington would decide whether or not to take such a step.",
+      "tags": [
+        "Iran",
+        "Donald Trump",
+        "kuwait",
+        "drone",
+        "missiles"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-902659": {
+      "summary": "The continued clashes between the US and Iran have led to fewer vessels traveling through the Strait of Hormuz, even as the US lifted its naval blockade on Iranian ports.",
+      "tags": [
+        "Iran",
+        "strike",
+        "us iran",
+        "Revolutionary Guards Corp",
+        "Memorandum of Understanding"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
     }
   },
   "last_digest_success": true,
@@ -3012,6 +3058,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "TotalEnergies Lowers Estimated Production Hit From Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQURJeEpVT2h1b3R5S09ZVHpDQlRkRjRmZFFIUktjLXRHR3g5MnUxTzVna0RSX3lRb0IxM0NQdzJiM3dmbi1KbExWeUxBLS1peWJLa29Pby1IRDZKa2xNejlMRjFVbEo1NVljOWoyUk11aFhFS2YzN20zV2U1T3Y5TzFOejlSY0wyZjVGLWd4SUtDZG9FSTFkVlpGT2h5ZkxWQm1kdnptU3QwTzBF?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 04:26 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784186760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "TotalEnergies Flags Strong Oil Trading as Iran War Roils Market - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTJkZkRkakxMcFBzdGtIOVhYS1V5a0J1dzRCUGFzTXdqb19xQl9xZ2ltSUxob3o4LXpYS2UybWhLOF8wVkFucnk4QkpBNG5TZVhSNjNRLWdaRTBnU1UyTDJKUkF4MHl4a3NjbnJVUjFUd0R1QVUwUm94MGlmeUVjMkNSU2psRVNTUlVjM2NPbFkxY1ZTT3FCS0txSDZ0d2MxVGR2bkxBQWgtTE5MT2NNYmZJOVU3WU1idkZ4TjVFUVUwRjRiU0V5NVAxcWxiMjd4?oc=5",
           "source": "Bloomberg.com",
@@ -3160,6 +3220,20 @@
           "published": "Jul 14, 2026 · 22:06 BRT",
           "pub_date": "2026-07-14",
           "pub_ts": 1784077560,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The U.S. and Iran Reckon With Shrinking Options to End the War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tUUtWS1ZEbG81SFoyY2kzTlZaTHlMMXc0QkZCY1JVcndCYlBlMnByNVExS1dWLVdaQmFtVW9Ea01LX19TTnFSVEFTZGNDU3hOWkNaeHBZbUJzTks2TXdtNldVLV9kTFlGaERPWFg2SUVSQQ?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 22:00 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784077200,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -4422,6 +4496,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "TotalEnergies expects higher second-quarter profit on war-related price rally - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakY3NWpCdEExOENEX0FuREZfZUpNbVpYSFBrZDZ1OUdFSDlhZW03bDUxTHBSSkhMdksxdzdON184VWdVYmtBc081YmtDSFp3bk5GMXVlOS1uVi1mSUxQNjg3b0VsSzFjQ3dmUnhWcmFwd1dsempERFNhbTBfc251VE53azFIQzFhVjhzOC1lbzhldFFfN3ZxMDZURjJpZDFHaExDX2dyWVAtX1NRV1Y3Q0tLX3J1XzFLMGotT3Uwdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 03:21 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784182860,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran War Drives New Investment in US LNG, S&P Global Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNhbVluS3dyeXZiTFFQYkxHcFdMWVJubi1rWTFObEtBZkZUNlZZTW9JMkJva2JMTlRzRFd1VGExal9fZy0zaHpDdDd1ZDl2SGxxamdJdnRJNExxMFFBMUcybURLZWNGUTJ1cmNxRWYyd2QxNnNYemxyZ183TVdKQXFGaW9zRXRlTU5xbU1OaFNDbU8yaGM0QU5HaENwdWVab0JPa1dLd25HU0E?oc=5",
           "source": "Bloomberg.com",
@@ -4762,6 +4850,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Iran war leaves crisis-weary European airlines ready for a shakeout - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTZDTDdFekRhZC15N3daNVV3MDJrUXRBN2RsLWdrY0UzdWl3RVEwX0ZKd0ZmeUhWcklqcDl4c1pfMVlZUzdiQnV6dnhqbW5xVHVDd0p2NWNmZGVzMXp1cVFmRXN3czB5bkVFUEdSYkM5bjNRNkE1czBFaTBUUEN0Z1dweHlwQWpNUHhDa2YtVlBCU3NUb2FfSVJ4QUltNWFuQXoyNDNxMVUzRjJ1dU9NZ1RrWkVUSkZ0aTdPWmV0Nk92UQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 03:04 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784181840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India Raises Export Levies on Diesel and Jet Fuel as Global Supply Crunch Deepens - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHBZRXEzVVR5aFRtcC1QemlrVlE2WFhpQkxXLWNwcUFxdkpMSlFXRzVGY2NuRnZHNWluSU14ZVZISDFZS2xHelItN1JlaWhKTi16anhhREU1R2EtWTZGTlNfYV9DdE1pUEl5U2VQdks3bktnQ241RTVhQTdGYkRhVWwzUDlublBzdjA4VnNNT1U5RTJBRFUtRmFMRHhHcjhmemc?oc=5",

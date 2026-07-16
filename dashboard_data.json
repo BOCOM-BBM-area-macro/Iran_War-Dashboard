@@ -2799,6 +2799,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-16"
+    },
+    "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.ft.com/content/80245363-32d8-4fe6-805f-c4e3dec6279c?syn-25a6b1a6=1": {
+      "summary": "Mark Esper tells FT more bombing will not change Tehran’s behaviour, as president vows to step up attacks",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-15"
     }
   },
   "last_digest_success": true,
@@ -2968,6 +2988,20 @@
           "published": "Jul 15, 2026 · 21:46 BRT",
           "pub_date": "2026-07-15",
           "pub_ts": 1784162804,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US will not win Iran war from the air, Donald Trump’s ex-defence chief warns - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2pJUnQ1WHFGQlJ2WEs5STJlS1BHdWZWQVZncXZLV3UzMTktckd0V1lfU2lBOFdpWEEyVzdPaGRWM21QMV84UmxLOVFCOG1OSVNGeXNaYjNWNkI3eDJFS0h5NHlpa0xuN1BUUFhhLWFwMnQ1dEJmV3h4cUNqbUg1Ui04LVk?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 21:46 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784162779,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

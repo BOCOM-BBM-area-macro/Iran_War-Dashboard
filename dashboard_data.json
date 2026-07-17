@@ -3159,7 +3159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-16"
+      "pub_date": "2026-07-17"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -3330,6 +3330,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-17"
+    },
+    "https://www.washingtonpost.com/world/2026/07/17/us-hits-bridges-energy-targets-iran-says-strikes-widen/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
     }
   },
   "last_digest_success": true,
@@ -3485,12 +3495,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-17T11:07:05.552327+00:00",
   "last_generated_date": "2026-07-17",
-  "last_generated_time": "2026-07-17T12:02:04.598196+00:00",
+  "last_generated_time": "2026-07-17T13:02:13.519906+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | The Iran war is a gift to China - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0pORVYzcFhiRFdwSWstV04ycGtsNzhnSE5tRnNxR19HNEtuX1BxbEZhYWZBeVE2Um1DRWxyRkhNQXoxTm5oTFE4T1V1emVjLUVTWmdIcGJORm5pcEpEei1QbDVCaTN1QTNTcU5jRXB4QnVsS3BWUW9aVWVKQm5CUmRaMDJEakFQTWNOc3g2Um5UWkZGaGlBNlZrZDE?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 11:57 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784300243,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil rises on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5",

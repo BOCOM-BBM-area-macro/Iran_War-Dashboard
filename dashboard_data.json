@@ -2658,7 +2658,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-16"
+      "pub_date": "2026-07-15"
     },
     "https://www.cbc.ca/news/world/iran-us-blockade-strait-hormuz-9.7270609": {
       "summary": "The U.S. struck Iran's coastal defences and missile sites on Wednesday after reimposing a naval blockade of its ports, while Iran threatened to shut off more regional energy exports, saying it was engaged in an \"existential war\" with America.",
@@ -3226,6 +3226,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.reuters.com/business/retail-consumer/burberry-sales-boosted-by-us-while-iran-war-hits-european-spending-2026-07-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-17/how-the-iran-war-is-driving-demand-for-clean-energy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5770,6 +5790,20 @@
           "published": "Jul 15, 2026 · 18:15 BRT",
           "pub_date": "2026-07-15",
           "pub_ts": 1784150124,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Base Metals Decline as US, Iran Flare-Up Clouds Demand Outlook - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lwR09CSGI0VWRPbGFvdk9fcG9SN0RXVE5oTUZ3Y0N1dGlOT25TbzkzYkFfMnRSMTZ2VkFvZnJNbEdZNGV3d3BlazJYRnN6Ukl6VkExM1dYRGZCQVNOY0t2azdnZEwwSmpMSmdzeUNQNGxuSnM0aXFZYWxPRkM3OC1BZ1pncHNaYlJrVzM0c19zMmx6SzB2VExybll6SG95WjR3WDRoMWRNQU9hRGhsOUFR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 13, 2026 · 14:25 BRT",
+          "pub_date": "2026-07-13",
+          "pub_ts": 1783963557,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

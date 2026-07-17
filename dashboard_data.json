@@ -3310,6 +3310,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-17"
+    },
+    "https://www.ft.com/content/119c8222-89ce-4c45-ad77-9bb4aab06bdd?syn-25a6b1a6=1": {
+      "summary": "American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
     }
   },
   "last_digest_success": true,
@@ -3465,7 +3475,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-17T11:07:05.552327+00:00",
   "last_generated_date": "2026-07-17",
-  "last_generated_time": "2026-07-17T09:01:58.176066+00:00",
+  "last_generated_time": "2026-07-17T10:02:17.817172+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3480,6 +3490,20 @@
           "published": "Jul 17, 2026 · 07:38 BRT",
           "pub_date": "2026-07-17",
           "pub_ts": 1784284680,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVQyMmFIM0hOUXlUZjI0ZE1HNGRxWVVXS08yYmpuQkM5MXZ3YkMtLUhNWnZaejFRa3E2N0ltUzJuN1dtaWlRZDJpdFRBclIwRHlrNjRLbE9EYzlCQnNWZENmRk5XWmVFN3o0ZDBXaGh5R09rN2lWTHBBcFBFUzlWTzRaY3UySkZqR0g5VzNVUGY3MUZwc3k3R09ielFjZ21hVHV2bHRuUHl6V3YzcHdBZnFLdjhkY0M2Mmc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 03:31 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784269860,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

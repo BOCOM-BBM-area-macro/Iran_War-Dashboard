@@ -3159,7 +3159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-16"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -3276,6 +3276,36 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.washingtonpost.com/opinions/2026/07/17/how-iran-war-handed-china-strategic-windfall/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.reuters.com/business/energy/oil-rises-intensifying-us-iran-hostilities-threat-red-sea-closure-2026-07-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-17/fears-mount-of-us-and-iran-escalation-after-sixth-day-of-clashes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3435,12 +3465,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-17T11:07:05.552327+00:00",
   "last_generated_date": "2026-07-17",
-  "last_generated_time": "2026-07-17T08:02:12.010270+00:00",
+  "last_generated_time": "2026-07-17T09:01:58.176066+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil rises on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 07:38 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784284680,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Explainer: China's oil imports have plunged during the Iran war. How much will they recover? - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTI1OFgyZ3BIUU40N1NsczgyREZuR211NVlMQXAtdTVmOWduRF9YOEJPVHd1QkJsV0xhek9aenVtY2gyMWNPc2JyMzBvRnZIUC1mY0QzSFdqbkQyWThzTnJ6VDRVcUdHTWJfXzE5ZER3WHpTay12RlJQOTlpdUpXRmh2Q3ZVSDRzTEl3UE80WG0xSVc3eTN2LTNlbmxBbGpuQ1RVWkE5Q1JDNEMwdlhzUHdvWFJnc3JxX3RYd2l0QWYzWF9V?oc=5",

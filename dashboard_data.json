@@ -2804,7 +2804,7 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html": {
-      "summary": "",
+      "summary": "President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2972,7 +2972,7 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz": {
-      "summary": "",
+      "summary": "President Trump announced a 20 percent fee on cargo shipped through the Strait of Hormuz. Iran said it had attacked two tankers transiting the waterway as the battle to control it intensified.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3159,7 +3159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-16"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -3372,7 +3372,7 @@
       "pub_date": "2026-07-17"
     },
     "https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html": {
-      "summary": "",
+      "summary": "First step: Agree on a goal.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3382,6 +3382,16 @@
       "pub_date": "2026-07-17"
     },
     "https://www.nytimes.com/2026/07/17/world/middleeast/war-between-us-and-iran-expands-with-strikes-across-the-region.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html": {
       "summary": "",
       "tags": [
         "extracted",
@@ -3545,7 +3555,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-17T11:07:05.552327+00:00",
   "last_generated_date": "2026-07-17",
-  "last_generated_time": "2026-07-17T18:02:13.659258+00:00",
+  "last_generated_time": "2026-07-17T19:01:58.388114+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

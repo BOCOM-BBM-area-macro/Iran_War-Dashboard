@@ -2348,7 +2348,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-14"
     },
     "https://www.jpost.com/international/article-902534": {
       "summary": "A plaque says the trophy recognizes Trump’s “enthusiastic involvement in the Iran War” and his “courage to participate regardless of the final score.”",
@@ -3112,7 +3112,7 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html": {
-      "summary": "",
+      "summary": "A House panel approved the measure. But Republicans are divided over its size, cost and policy provisions, and many are concerned about the timing before the midterm elections.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3136,6 +3136,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html?rref=us": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3302,7 +3312,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-16T11:08:23.207363+00:00",
   "last_generated_date": "2026-07-16",
-  "last_generated_time": "2026-07-16T21:02:01.595110+00:00",
+  "last_generated_time": "2026-07-16T22:02:02.028533+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5601,6 +5611,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Alcoa Cuts Production Guidance, Says Alumina Prices Stable Despite Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanJoY3JocHlPVkZRUHlmNUd4SkFpZ08zUVRpUUkzaWhTcGdtZmQ1RmhHa3ZlLXp3VU5QY0wzMUE0d09sT2xNbm92STF1TUZEU0VVNERqVVNOdmdmSXZEaVRoS0xpck94a25fdS1vemdESUdOeTE3UTBxUHgzNHpBTFVuT1BaanMyWkNDekdjSTFWWTNTV1FIVXZ0Tm5Lc1B5UEkxQVJiS2stYmhaRC03SUhoUXdMTWlJaWpn?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 16, 2026 · 20:07 BRT",
+          "pub_date": "2026-07-16",
+          "pub_ts": 1784243220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Bank of Canada’s Message: Firms Are Adapting to Life in a Trade War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaDJwV1JJWlJHNTFXcE9SaEFSQjhULXB3ekRSX20wS25yMTItLUp6b3AxWUduNnpzUEZJVUFyT2lkcEVtNXRQQWNsWjkyM0dqbDduLWRhaUxDNktQQjRVbVplZ0tEeEI5OVJ5S3NqTzVhQTg4aXFsRjIxd0l5eXh5SEJpejZERTYzOWFUYVc3THJGSElCVzY5aG5rX0FtQkpYQjBZRlRXWFlGaU1Ec2VuZk1HbS14Mm5WYWppUnZManpWVVBBOTJJWDFDSS03OEdOb1p5ZWxQTGZ5Uk5aNlc2RmE1MzRpNm4tRENR?oc=5",

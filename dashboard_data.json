@@ -2025,7 +2025,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html": {
       "summary": "",
@@ -3159,7 +3159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-16"
+      "pub_date": "2026-07-17"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -3172,6 +3172,56 @@
       "pub_date": "2026-07-16"
     },
     "https://www.reuters.com/world/india/gold-track-biggest-weekly-loss-six-iran-war-fans-inflation-worries-2026-07-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.ft.com/content/22fdb2d5-b454-4a65-9aa9-e56371533ccf": {
+      "summary": "Its rulers believe that further escalation will force the US to offer the security and economic relief it craves",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-6th-consecutive-night-2026-07-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
+    },
+    "https://www.reuters.com/world/middle-east/iran-launches-fresh-attacks-after-sixth-day-us-strikes-2026-07-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.reuters.com/business/energy/chinas-oil-imports-have-plunged-during-iran-war-how-much-will-they-recover-2026-07-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.reuters.com/world/middle-east/irans-irgc-say-they-targeted-us-command-centre-syria-state-media-reports-2026-07-17/": {
       "summary": "",
       "tags": [
         "extracted",
@@ -3348,6 +3398,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Explainer: China's oil imports have plunged during the Iran war. How much will they recover? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTI1OFgyZ3BIUU40N1NsczgyREZuR211NVlMQXAtdTVmOWduRF9YOEJPVHd1QkJsV0xhek9aenVtY2gyMWNPc2JyMzBvRnZIUC1mY0QzSFdqbkQyWThzTnJ6VDRVcUdHTWJfXzE5ZER3WHpTay12RlJQOTlpdUpXRmh2Q3ZVSDRzTEl3UE80WG0xSVc3eTN2LTNlbmxBbGpuQ1RVWkE5Q1JDNEMwdlhzUHdvWFJnc3JxX3RYd2l0QWYzWF9V?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 02:40 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784266800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gold on track for biggest weekly loss in six as Iran war fans inflation worries - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
@@ -4954,6 +5018,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "How the Iran War Is Driving Demand for Clean Energy - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFduT1Axd250Unc4TTcyZ2VrUE40LVlTeEllTk0wb0VpWExmbXZ3aU5CczBlcjhnR3VpX3hhVm1RellRa0dQdHBMazZZUkZlUXJucWo2NlUwQWlQTXRfVkFhZWxROEtpeDMwY3BfRE5OU2VwUl9jYmY2emt2aXd2d0pUS0lkdldUNjBQUlFTX1ZjaktSdDZyYWZURXQ5RGZieG5iVQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 01:02 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784260971,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "TotalEnergies Flags Strong Oil Trading as Iran War Roils Market - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkdGQmlyUlA1a2J6OFRxd3VJWXhyS0xVaGV3VmM3cTZJN20xT21zYmRqM0lRamFobnpNUThBYVRDdHVwUHVWY1Rrb3JNNmQ4TF9ucHh0TmNKRVNFX2tCdjRXSFVnVGhsWHpvT1ZHOGZmMkhWVWg5RE02UVBLRnRCMHNCU3ZabmNDRURNNFowb3VoNmRRNDZYcnhDYzhMY0FIU0drdFRnaFFIMVIwWWN0cFhGSmM?oc=5",

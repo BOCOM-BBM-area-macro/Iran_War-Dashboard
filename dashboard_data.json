@@ -2442,7 +2442,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-16"
     },
     "https://www.bloomberg.com/news/articles/2026-07-15/ecb-will-stay-vigilant-as-iran-war-flares-up-again-nagel-says": {
       "summary": "",
@@ -3159,7 +3159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-16"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -3340,6 +3340,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-17"
+    },
+    "https://www.axios.com/2026/07/17/trump-iran-israel-refueling-planes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
     }
   },
   "last_digest_success": true,
@@ -3495,12 +3505,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-17T11:07:05.552327+00:00",
   "last_generated_date": "2026-07-17",
-  "last_generated_time": "2026-07-17T13:02:13.519906+00:00",
+  "last_generated_time": "2026-07-17T14:01:55.368472+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US Power Market Protected From Iran Oil Shock, LS Power Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEw2OGdrR2hmaURIbmRBNW1ZeENEbFJQZ2VUWXlKRDRfN0hIbndBM0xHVUFYLXY0cjdXWm93OEJBNWd2YTc0RDNlNGZiVFVha01Ec3pmdlZwMjRkUWlBTmdpblZhMlp3emxSUEtkR1NuVm1hVGdUTEFiTUpvUUFKREZOTGJIZjE2dEhnekplNjJXdkdiWUpDX1Q1QTQyVk96dHNSQXc0dFQtWm1CanFZ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 12:32 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784302352,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Opinion | The Iran war is a gift to China - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0pORVYzcFhiRFdwSWstV04ycGtsNzhnSE5tRnNxR19HNEtuX1BxbEZhYWZBeVE2Um1DRWxyRkhNQXoxTm5oTFE4T1V1emVjLUVTWmdIcGJORm5pcEpEei1QbDVCaTN1QTNTcU5jRXB4QnVsS3BWUW9aVWVKQm5CUmRaMDJEakFQTWNOc3g2Um5UWkZGaGlBNlZrZDE?oc=5",

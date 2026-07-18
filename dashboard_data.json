@@ -2025,7 +2025,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html": {
       "summary": "",
@@ -3159,7 +3159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-16"
+      "pub_date": "2026-07-17"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -3472,7 +3472,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-18"
     },
     "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html": {
       "summary": "",
@@ -3595,6 +3595,26 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
+    },
+    "https://www.washingtonpost.com/world/2026/07/18/iran-us-strikes-widen-fighting-hits-critical-infrastructure/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
+    },
+    "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3752,7 +3772,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-18T11:06:11.551551+00:00",
   "last_generated_date": "2026-07-18",
-  "last_generated_time": "2026-07-18T15:02:05.758978+00:00",
+  "last_generated_time": "2026-07-18T16:01:57.228430+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

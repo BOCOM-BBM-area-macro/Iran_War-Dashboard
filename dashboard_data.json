@@ -2658,7 +2658,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-15"
+      "pub_date": "2026-07-17"
     },
     "https://www.cbc.ca/news/world/iran-us-blockade-strait-hormuz-9.7270609": {
       "summary": "The U.S. struck Iran's coastal defences and missile sites on Wednesday after reimposing a naval blockade of its ports, while Iran threatened to shut off more regional energy exports, saying it was engaged in an \"existential war\" with America.",
@@ -2688,7 +2688,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-16"
+      "pub_date": "2026-07-15"
     },
     "https://www.washingtonpost.com/the-seven-trump/2026/07/15/tracking-trump-more-strikes-iran-war-trump-defends-ice-agents-investor-paid-trump-2-million-during-probe-more/": {
       "summary": "",
@@ -3152,7 +3152,7 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz": {
-      "summary": "",
+      "summary": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3272,7 +3272,7 @@
       "pub_date": "2026-07-17"
     },
     "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html": {
-      "summary": "",
+      "summary": "The Persian Gulf city attracted migrant workers with the promise of opportunity. Many now say the war has brought job losses and salary cuts.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3392,7 +3392,7 @@
       "pub_date": "2026-07-17"
     },
     "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html": {
-      "summary": "",
+      "summary": "Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3402,7 +3402,7 @@
       "pub_date": "2026-07-17"
     },
     "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html": {
-      "summary": "",
+      "summary": "Also, U.S. start-up activity is booming. Here’s the latest at the end of Friday.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3430,6 +3430,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-17"
+    },
+    "https://www.nytimes.com/video/world/middleeast/100000011037160/iran-war-us-strikes-bridges-hormuz.html": {
+      "summary": "Video on social media shows bridges reduced to rubble in southern Iran after the sixth consecutive night of strikes between U.S. and Iranian forces.",
+      "tags": [
+        "US and Israeli Attack on Iran",
+        "Accidents and Safety",
+        "US Military",
+        "Social Media",
+        "Video Recordings"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
+    },
+    "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz": {
+      "summary": "As the U.S. resumed intensive bombing, President Trump resumed his bellicose rhetoric from the war’s early days. He threatened to take out Iranian bridges and power plants, which could be considered a war crime.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-16"
     }
   },
   "last_digest_success": true,
@@ -3585,7 +3608,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-17T11:07:05.552327+00:00",
   "last_generated_date": "2026-07-17",
-  "last_generated_time": "2026-07-17T22:01:57.658216+00:00",
+  "last_generated_time": "2026-07-17T23:01:53.980765+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3656,6 +3679,20 @@
           "published": "Jul 17, 2026 · 02:40 BRT",
           "pub_date": "2026-07-17",
           "pub_ts": 1784266800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 00:50 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784260200,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

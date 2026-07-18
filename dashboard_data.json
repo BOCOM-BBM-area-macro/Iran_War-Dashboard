@@ -3519,49 +3519,68 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-17T11:06:55.871889+00:00",
+  "last_digest_time": "2026-07-18T11:06:03.712347+00:00",
   "digest": {
-    "digest": "Recent developments indicate a significant escalation in military engagements between the United States and Iran, with consecutive nights of US strikes targeting Iran, followed by retaliatory attacks from Iran. These actions, particularly concerning the Strait of Hormuz, have led to increased tensions. The US has conducted strikes aimed at disrupting Iranian supply routes, including targeting bridges. Iran's IRGC has reported targeting a US command center in Syria. Domestically, the US House of Representatives is experiencing divisions over a significant funding plan for the Iran war, with Republican factions debating its cost and policy implications. The conflict is also having notable economic repercussions globally, affecting sales in Europe, influencing inflation concerns that impact gold prices, and leading to layoffs in economic hubs like Dubai, while also impacting production guidance for companies such as Alcoa. There are also indications of potential shifts in US policy, with reports suggesting a leaning towards expanding military operations in Iran and a risk of repeating past strategic errors. The ongoing conflict is also a factor in international political considerations, with potential impacts on leadership aspirations in the UK.",
+    "digest": "The United States has conducted strikes against Iran for seven consecutive nights, targeting surveillance sites, military logistics, underground weapons storage, and naval capabilities. These attacks have resulted in significant damage to Iranian infrastructure, including bridges, railways, and water plants, as evidenced by videos and reports from Iranian state media. In response, Iran has renewed attacks on Gulf states and retaliatory strikes have been reported across the region. Tensions have also escalated concerning shipping in the Strait of Hormuz. The U.S. is reportedly sending additional refueling planes to Israel amid the ongoing escalation. While the conflict intensifies, some sectors, like Boeing's jet demand forecast, appear unaffected, and discussions continue regarding U.S. military funding demands amidst internal political dynamics. The ongoing exchange marks a widening of the conflict across the region, with Iranian citizens experiencing increased uncertainty and anxiety.",
     "top_themes": [
-      "Escalating US-Iran Military Actions",
-      "US Congressional Funding Debates",
-      "Economic Impacts of the Conflict"
+      "Escalating US-Iran Conflict",
+      "Infrastructure Damage in Iran",
+      "Regional Retaliation"
     ],
     "next_events": [
       {
-        "title": "Direct Military Escalation and Retaliation Cycles",
-        "description": "The US has conducted multiple strikes, targeting Iranian infrastructure and command centers, while Iran has retaliated, including targeting US assets in Syria. Analysts should monitor the frequency, intensity, and geographical spread of these attacks, as well as any shifts in targeting strategies by both sides, to gauge the immediate trajectory towards a wider conflict."
+        "title": "Trajectory of US-Iran Strikes and Targeting",
+        "description": "Analysts should monitor the intensity and duration of the ongoing US and Iranian strikes, which have now reached seven consecutive nights. Key indicators include whether the US expands its targets beyond military and critical infrastructure (bridges, railways, water plants), and if Iran escalates its retaliatory attacks on Gulf states or international shipping."
       },
       {
-        "title": "Iran's Strategic Objectives and US Diplomatic Posture",
-        "description": "Iran's leadership believes further escalation will compel the US to offer security guarantees and economic relief. Watch for any signals from Iran regarding specific demands or conditions for de-escalation, and how the the US administration might respond to these overtures or increase pressure."
+        "title": "Stability of Strait of Hormuz Shipping",
+        "description": "Given reports of shipping coming under further attack and escalating tensions over the Strait of Hormuz, analysts must watch for disruptions to global oil and trade routes. Any significant interdiction or attack on commercial vessels in this critical chokepoint could trigger a severe international economic and military response."
       },
       {
-        "title": "US Congressional Support and War Funding",
-        "description": "Deepening rifts within the US House of Representatives over budget plans to fund the Iran war indicate significant domestic political challenges. Analysts should track the progress of war funding bills, the level of bipartisan support or opposition, and how these internal divisions might impact the sustainability and scope of US military operations."
+        "title": "Regional Spillover and Israeli Engagement",
+        "description": "The renewal of Iranian attacks on Gulf states and the deployment of US refueling planes to Israel signal a high risk of regional expansion. Analysts should observe whether other regional actors are drawn into direct conflict and the extent of Israel's potential involvement in the escalating hostilities."
       },
       {
-        "title": "Broader Economic and Regional Fallout",
-        "description": "The conflict is already impacting global markets, contributing to inflation worries, affecting specific industries like luxury retail, and potentially leading to job losses in regional hubs like Dubai. Monitor key economic indicators, commodity prices (especially oil), and the stability of neighboring economies like Saudi Arabia, which are undergoing significant transformations."
+        "title": "Iranian Domestic Stability and Public Reaction",
+        "description": "With sustained US strikes damaging critical infrastructure and causing anxiety among the populace, analysts should monitor internal dissent and the Iranian regime's response. Increased public unrest or a shift in leadership's rhetoric could influence the conflict's trajectory or the regime's willingness to de-escalate."
       },
       {
-        "title": "Shifting Dynamics of the Strait of Hormuz",
-        "description": "While tensions have escalated over the Strait of Hormuz, some analyses suggest its importance might be diminishing. Analysts should observe any changes in shipping patterns, the development of alternative energy routes, and the strategic focus of both Iran and the US regarding this critical chokepoint, as its role could evolve."
+        "title": "US Military Posture and Political Will",
+        "description": "The sustained nature of US strikes raises questions about the long-term sustainability of operations and potential political constraints, including military funding demands. Analysts should watch for any shifts in US military deployment, resource allocation, or political rhetoric that could signal a change in strategy or a push for de-escalation."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-17T11:07:04.832151+00:00",
+  "last_watch_time": "2026-07-18T11:06:10.936302+00:00",
   "relevant_news": [
     {
-      "title": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+      "title": "The U.S. and Iran Creep Toward a Wider War With Escalating Attacks - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/the-u-s-and-iran-creep-toward-a-wider-war-with-escalating-attacks-7323c060",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 18, 2026 · 01:44 BRT",
+      "pub_date": "2026-07-18",
+      "pub_ts": 1784349840,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 17, 2026 · 06:54 BRT",
+      "published": "Jul 17, 2026 · 21:47 BRT",
       "pub_date": "2026-07-17",
-      "pub_ts": 1784282040,
+      "pub_ts": 1784335666,
       "summary": "",
       "tags": [
         "extracted",
@@ -3573,14 +3592,14 @@
       "sentiment_success": false
     },
     {
-      "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-6th-consecutive-night-2026-07-17/",
+      "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-7th-consecutive-night-2026-07-18/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 16, 2026 · 23:30 BRT",
-      "pub_date": "2026-07-16",
-      "pub_ts": 1784255400,
+      "published": "Jul 17, 2026 · 23:40 BRT",
+      "pub_date": "2026-07-17",
+      "pub_ts": 1784342400,
       "summary": "",
       "tags": [
         "extracted",
@@ -3592,7 +3611,43 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran launches fresh attacks after sixth day of US strikes - Reuters",
+      "title": "War Between U.S. and Iran Expands, With Strikes Across the Region - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 17, 2026 · 18:49 BRT",
+      "pub_date": "2026-07-17",
+      "pub_ts": 1784324989,
+      "summary": "Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 17, 2026 · 06:54 BRT",
+      "pub_date": "2026-07-17",
+      "pub_ts": 1784282040,
+      "summary": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-launches-fresh-attacks-after-sixth-day-us-strikes-2026-07-17/",
       "source": "Reuters",
       "domain": "reuters.com",
@@ -3609,69 +3664,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "Iran's IRGC say they targeted US command centre in Syria, state media reports - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-irgc-say-they-targeted-us-command-centre-syria-state-media-reports-2026-07-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 17, 2026 · 01:49 BRT",
-      "pub_date": "2026-07-17",
-      "pub_ts": 1784263740,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "In Iran war, Trump Risks Another American ‘Forever War’ - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 16, 2026 · 10:20 BRT",
-      "pub_date": "2026-07-16",
-      "pub_ts": 1784208024,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 16, 2026 · 20:01 BRT",
-      "pub_date": "2026-07-16",
-      "pub_ts": 1784242860,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-17T11:07:05.552327+00:00",
-  "last_generated_date": "2026-07-17",
-  "last_generated_time": "2026-07-17T23:01:53.980765+00:00",
+  "last_relevant_time": "2026-07-18T11:06:11.551551+00:00",
+  "last_generated_date": "2026-07-18",
+  "last_generated_time": "2026-07-18T08:02:08.577557+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

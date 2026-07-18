@@ -3619,6 +3619,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-18"
+    },
+    "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/gcc-chief-calls-iranian-attacks-on-bahrain-kuwait-and-jordan-war-crimes/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-18/us-military-says-two-service-members-killed-in-action-in-jordan": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
     }
   },
   "last_digest_success": true,
@@ -3772,7 +3802,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-18T11:06:11.551551+00:00",
   "last_generated_date": "2026-07-18",
-  "last_generated_time": "2026-07-18T16:01:57.228430+00:00",
+  "last_generated_time": "2026-07-18T17:02:09.516337+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

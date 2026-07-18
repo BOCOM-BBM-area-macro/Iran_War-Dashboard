@@ -2658,7 +2658,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-15"
     },
     "https://www.cbc.ca/news/world/iran-us-blockade-strait-hormuz-9.7270609": {
       "summary": "The U.S. struck Iran's coastal defences and missile sites on Wednesday after reimposing a naval blockade of its ports, while Iran threatened to shut off more regional energy exports, saying it was engaged in an \"existential war\" with America.",
@@ -3453,6 +3453,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-16"
+    },
+    "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
     }
   },
   "last_digest_success": true,
@@ -3614,6 +3624,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMzBFRnhWbGIwdEpFcVJVd251LTBDMXRMS01VRmNFNUVaZlo0ZzlDWjhsOUlqVVdHYk95V2JJVFlvNWxCck0tWWRyMkhLNkZ0anVzM0dnM1BsUzZMYzNROWQ3SVRWNGNxOUU4VFdwV1JQaDJpWVE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 23:01 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784340107,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US Power Market Protected From Iran Oil Shock, LS Power Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEw2OGdrR2hmaURIbmRBNW1ZeENEbFJQZ2VUWXlKRDRfN0hIbndBM0xHVUFYLXY0cjdXWm93OEJBNWd2YTc0RDNlNGZiVFVha01Ec3pmdlZwMjRkUWlBTmdpblZhMlp3emxSUEtkR1NuVm1hVGdUTEFiTUpvUUFKREZOTGJIZjE2dEhnekplNjJXdkdiWUpDX1Q1QTQyVk96dHNSQXc0dFQtWm1CanFZ?oc=5",
@@ -6140,6 +6164,20 @@
           "published": "Jul 15, 2026 · 18:15 BRT",
           "pub_date": "2026-07-15",
           "pub_ts": 1784150124,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDlQazkyU2hkS0w1ZjFCTHpKS2ZUajBLUEtLME54eGdnNExXM2JIWncxSHVkNUVQbmEtZ2EtM0RrVjlqYmVmTXN3NW40LUw3eGJoWTEwaThqNzlzMG1UWmViemxpcVJ3SXpBVWppaHNkcF9xQkVHWnl1Y29jdlcwRjhqbEtjVnJRWXNJenBsQnlZWFU?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 15, 2026 · 13:17 BRT",
+          "pub_date": "2026-07-15",
+          "pub_ts": 1784132255,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

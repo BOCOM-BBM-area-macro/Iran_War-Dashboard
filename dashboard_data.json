@@ -2658,7 +2658,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-15"
     },
     "https://www.cbc.ca/news/world/iran-us-blockade-strait-hormuz-9.7270609": {
       "summary": "The U.S. struck Iran's coastal defences and missile sites on Wednesday after reimposing a naval blockade of its ports, while Iran threatened to shut off more regional energy exports, saying it was engaged in an \"existential war\" with America.",
@@ -3159,7 +3159,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-16"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -3455,14 +3455,14 @@
       "pub_date": "2026-07-16"
     },
     "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz": {
-      "summary": "",
+      "summary": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-18"
     },
     "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-7th-consecutive-night-2026-07-18/": {
       "summary": "",
@@ -3545,6 +3545,16 @@
         "bahrain",
         "kuwait",
         "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
+    },
+    "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317": {
+      "summary": "Iran launched more attacks on Washington's Gulf allies on Saturday after a seventh straight night of U.S. strikes targeting Iranian military sites including logistics facilities, escalating the war one week after a ceasefire fell apart.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3702,7 +3712,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-18T11:06:11.551551+00:00",
   "last_generated_date": "2026-07-18",
-  "last_generated_time": "2026-07-18T12:02:06.363162+00:00",
+  "last_generated_time": "2026-07-18T13:01:55.227759+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

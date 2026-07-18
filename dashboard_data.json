@@ -3621,7 +3621,7 @@
       "pub_date": "2026-07-18"
     },
     "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html": {
-      "summary": "",
+      "summary": "President Trump has vowed to avenge the deaths of any U.S. military personnel, and retaliatory strikes are almost certain.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3645,6 +3645,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
+    },
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html": {
+      "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3802,7 +3812,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-18T11:06:11.551551+00:00",
   "last_generated_date": "2026-07-18",
-  "last_generated_time": "2026-07-18T17:02:09.516337+00:00",
+  "last_generated_time": "2026-07-18T18:01:49.501876+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

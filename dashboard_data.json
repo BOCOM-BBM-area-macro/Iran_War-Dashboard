@@ -3699,7 +3699,7 @@
       "pub_date": "2026-07-18"
     },
     "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz": {
-      "summary": "",
+      "summary": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3719,7 +3719,7 @@
       "pub_date": "2026-07-19"
     },
     "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html": {
-      "summary": "",
+      "summary": "A London-based research group has invoked a now-defunct European pact on coal and steel to suggest forming a coalition of countries that would share control of the Strait of Hormuz.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3769,7 +3769,7 @@
       "pub_date": "2026-07-19"
     },
     "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html": {
-      "summary": "",
+      "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3786,6 +3786,16 @@
         "Syria",
         "Tehran",
         "Iran US Conflict"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
+    },
+    "https://www.axios.com/2026/07/19/gas-prices-iran-war-trump-election": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3941,7 +3951,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-19T11:05:38.376716+00:00",
   "last_generated_date": "2026-07-19",
-  "last_generated_time": "2026-07-19T14:01:53.809129+00:00",
+  "last_generated_time": "2026-07-19T15:01:51.932603+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

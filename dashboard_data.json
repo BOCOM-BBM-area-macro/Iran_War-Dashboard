@@ -3465,7 +3465,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-18"
     },
     "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-7th-consecutive-night-2026-07-18/": {
       "summary": "",
@@ -3694,6 +3694,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-18"
+    },
+    "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
+    },
+    "https://www.washingtonpost.com/politics/2026/07/19/what-voters-are-making-iran-war-dragging/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
     }
   },
   "last_digest_success": true,

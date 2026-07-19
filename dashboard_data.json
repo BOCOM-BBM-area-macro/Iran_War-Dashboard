@@ -2025,7 +2025,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html": {
       "summary": "",
@@ -3659,6 +3659,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-18"
+    },
+    "https://www.wsj.com/world/middle-east/iran-rushed-out-6-billion-of-oil-during-brief-truce-with-u-s-5a3d0818": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-18"
     }
   },
   "last_digest_success": true,
@@ -3812,12 +3822,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-18T11:06:11.551551+00:00",
   "last_generated_date": "2026-07-18",
-  "last_generated_time": "2026-07-18T21:01:58.099548+00:00",
+  "last_generated_time": "2026-07-18T22:01:43.053884+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S. - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUFyRm95ekJ4VEpzZzBaNUlLV3FEcHFuUWpaX1poT21ibWJSOFNHbmlCdUZyOWp2TmJfY2xEXzFxTW9JeGh6WVFSRE1DT3ZNLWVYZ2wxZ1h4MkdxQ2pqUkwxSWdrSU9BaUVkUzRaU3dyVHVOeElZZThwUFQ3TUJOVTU2clBNckxPQk5TWGlFczFnTWhNSkpMNEFQT2lHQjFSUjAyRk05TVdoalk?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 18, 2026 · 18:00 BRT",
+          "pub_date": "2026-07-18",
+          "pub_ts": 1784408400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. Emergency Oil Reserve Hits Lowest Levels Since 1983: Why It Matters - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzBBUjAxcWhndzJKdFdST0N0M195QXh3WWp2UDBYOWJMdXVONkNrbDJ6aHY4d3BtQWp3dG8wb3cxdUtvem9GdjZGNVVxOFhKamthR2hROVlkX2xNbVdyZ1dXSmIySEdPVVZ0SndMQWw5TnVZZXZQQVdoQU5BbWlnQzJVN3NjR0I2bjU2NmdvbDBkamZXVk1RQVpYcVpNVmRDODY0TnQtbklfUEtvSWIwUk5qaUN2MF9TbWxN?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 18, 2026 · 13:00 BRT",
+          "pub_date": "2026-07-18",
+          "pub_ts": 1784390400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMzBFRnhWbGIwdEpFcVJVd251LTBDMXRMS01VRmNFNUVaZlo0ZzlDWjhsOUlqVVdHYk95V2JJVFlvNWxCck0tWWRyMkhLNkZ0anVzM0dnM1BsUzZMYzNROWQ3SVRWNGNxOUU4VFdwV1JQaDJpWVE?oc=5",

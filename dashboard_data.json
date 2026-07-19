@@ -3842,6 +3842,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-19"
+    },
+    "https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea?syn-25a6b1a6=1": {
+      "summary": "A service member died in a ‘controlled detonation’ of a drone after two troops were killed in Jordan with another missing",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
     }
   },
   "last_digest_success": true,
@@ -3993,7 +4003,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-19T11:05:38.376716+00:00",
   "last_generated_date": "2026-07-19",
-  "last_generated_time": "2026-07-19T18:01:45.531954+00:00",
+  "last_generated_time": "2026-07-19T19:01:54.714712+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

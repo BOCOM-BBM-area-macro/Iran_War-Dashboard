@@ -3465,7 +3465,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-18"
+      "pub_date": "2026-07-17"
     },
     "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-7th-consecutive-night-2026-07-18/": {
       "summary": "",
@@ -3475,7 +3475,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-17"
+      "pub_date": "2026-07-18"
     },
     "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html": {
       "summary": "",
@@ -3717,40 +3717,112 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-18T11:06:03.712347+00:00",
+  "last_digest_time": "2026-07-19T11:05:32.210420+00:00",
   "digest": {
-    "digest": "The United States has conducted strikes against Iran for seven consecutive nights, targeting surveillance sites, military logistics, underground weapons storage, and naval capabilities. These attacks have resulted in significant damage to Iranian infrastructure, including bridges, railways, and water plants, as evidenced by videos and reports from Iranian state media. In response, Iran has renewed attacks on Gulf states and retaliatory strikes have been reported across the region. Tensions have also escalated concerning shipping in the Strait of Hormuz. The U.S. is reportedly sending additional refueling planes to Israel amid the ongoing escalation. While the conflict intensifies, some sectors, like Boeing's jet demand forecast, appear unaffected, and discussions continue regarding U.S. military funding demands amidst internal political dynamics. The ongoing exchange marks a widening of the conflict across the region, with Iranian citizens experiencing increased uncertainty and anxiety.",
+    "digest": "The United States has conducted retaliatory strikes against Iran following an attack on a military base in Jordan that resulted in the deaths of two American service members and left one missing. This incident marks a significant escalation in the ongoing conflict, bringing the total American military fatalities to sixteen since the U.S. and Israel initiated attacks on Iran in February. Jordan has become a focal point, with four Iranian attacks targeting U.S. troops in the country within a five-day period. The U.S. military has reported completing its latest strikes, marking the seventh consecutive night of attacks. In response to the breaches, Iran's Supreme Leader has stated that President Trump's signature is 'worthless.' During a brief truce with the U.S., Iran managed to export $6 billion worth of oil. The escalating attacks suggest a creeping movement towards a wider war between the U.S. and Iran, with President Trump vowing retribution for the fallen service members.",
     "top_themes": [
-      "Escalating US-Iran Conflict",
-      "Infrastructure Damage in Iran",
-      "Regional Retaliation"
+      "US Military Casualties",
+      "US Retaliatory Strikes",
+      "Escalation of Conflict"
     ],
     "next_events": [
       {
-        "title": "Trajectory of US-Iran Strikes and Targeting",
-        "description": "Analysts should monitor the intensity and duration of the ongoing US and Iranian strikes, which have now reached seven consecutive nights. Key indicators include whether the US expands its targets beyond military and critical infrastructure (bridges, railways, water plants), and if Iran escalates its retaliatory attacks on Gulf states or international shipping."
+        "title": "Potential for Further U.S. Retaliatory Strikes",
+        "description": "Following the deaths of U.S. service members in Jordan and President Trump's vow to avenge them, analysts should watch for additional U.S. military responses. The U.S. has already conducted strikes for seven consecutive nights, indicating a sustained campaign that could intensify or broaden in scope."
       },
       {
-        "title": "Stability of Strait of Hormuz Shipping",
-        "description": "Given reports of shipping coming under further attack and escalating tensions over the Strait of Hormuz, analysts must watch for disruptions to global oil and trade routes. Any significant interdiction or attack on commercial vessels in this critical chokepoint could trigger a severe international economic and military response."
+        "title": "Iran's Counter-Retaliation and Escalation Risk",
+        "description": "After the U.S. launched retaliatory strikes, Iran's next move is critical. Analysts should monitor for any direct or proxy responses from Iran, as this could trigger a dangerous cycle of escalation and push the conflict closer to a wider regional war."
       },
       {
-        "title": "Regional Spillover and Israeli Engagement",
-        "description": "The renewal of Iranian attacks on Gulf states and the deployment of US refueling planes to Israel signal a high risk of regional expansion. Analysts should observe whether other regional actors are drawn into direct conflict and the extent of Israel's potential involvement in the escalating hostilities."
+        "title": "Intensification of Conflict in Jordan",
+        "description": "With Jordan becoming a new focus for attacks on U.S. troops, its stability and potential for direct involvement are key concerns. Analysts should observe whether attacks in Jordan continue or escalate, potentially drawing the country further into the U.S.-Iran conflict and destabilizing the broader region."
       },
       {
-        "title": "Iranian Domestic Stability and Public Reaction",
-        "description": "With sustained US strikes damaging critical infrastructure and causing anxiety among the populace, analysts should monitor internal dissent and the Iranian regime's response. Increased public unrest or a shift in leadership's rhetoric could influence the conflict's trajectory or the regime's willingness to de-escalate."
-      },
-      {
-        "title": "US Military Posture and Political Will",
-        "description": "The sustained nature of US strikes raises questions about the long-term sustainability of operations and potential political constraints, including military funding demands. Analysts should watch for any shifts in US military deployment, resource allocation, or political rhetoric that could signal a change in strategy or a push for de-escalation."
+        "title": "Deterioration of U.S.-Iran Diplomatic Prospects",
+        "description": "The recent escalation, coupled with Iran's Supreme Leader's comments on U.S. trustworthiness and the end of a brief truce, suggests a significant setback for any potential diplomatic engagement. Analysts should watch for any signs of renewed communication or further hardening of positions, indicating the long-term trajectory of U.S.-Iran relations."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-18T11:06:10.936302+00:00",
+  "last_watch_time": "2026-07-19T11:05:37.781705+00:00",
   "relevant_news": [
+    {
+      "title": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 19, 2026 · 05:30 BRT",
+      "pub_date": "2026-07-19",
+      "pub_ts": 1784449843,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/18/iran-us-strikes-widen-fighting-hits-critical-infrastructure/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 19, 2026 · 02:57 BRT",
+      "pub_date": "2026-07-19",
+      "pub_ts": 1784440620,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Video: Two U.S. Service Members Killed In Iranian Strike, U.S. Military Says - The New York Times",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000011039720/us-troops-killed-iran-war-jordan.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 18, 2026 · 19:28 BRT",
+      "pub_date": "2026-07-18",
+      "pub_ts": 1784413722,
+      "summary": "Iran struck a military base in Jordan on Friday, killing two U.S. service members, according to the U.S. military. Sixteen military personnel have died in the war since the U.S. and Israel launched attacks on Iran in February.",
+      "tags": [
+        "US and Israeli Attack on Iran",
+        "Iran-Israel War",
+        "US Military",
+        "Jordan"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16 - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 18, 2026 · 16:19 BRT",
+      "pub_date": "2026-07-18",
+      "pub_ts": 1784402371,
+      "summary": "President Trump has vowed to avenge the deaths of any U.S. military personnel, and retaliatory strikes are almost certain.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
     {
       "title": "The U.S. and Iran Creep Toward a Wider War With Escalating Attacks - WSJ",
       "url": "https://www.wsj.com/world/middle-east/the-u-s-and-iran-creep-toward-a-wider-war-with-escalating-attacks-7323c060",
@@ -3771,88 +3843,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 17, 2026 · 21:47 BRT",
-      "pub_date": "2026-07-17",
-      "pub_ts": 1784335666,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
       "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-7th-consecutive-night-2026-07-18/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 17, 2026 · 23:40 BRT",
-      "pub_date": "2026-07-17",
-      "pub_ts": 1784342400,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "War Between U.S. and Iran Expands, With Strikes Across the Region - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 17, 2026 · 18:49 BRT",
-      "pub_date": "2026-07-17",
-      "pub_ts": 1784324989,
-      "summary": "Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 17, 2026 · 06:54 BRT",
-      "pub_date": "2026-07-17",
-      "pub_ts": 1784282040,
-      "summary": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-launches-fresh-attacks-after-sixth-day-us-strikes-2026-07-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 17, 2026 · 00:50 BRT",
-      "pub_date": "2026-07-17",
-      "pub_ts": 1784260200,
+      "published": "Jul 18, 2026 · 01:59 BRT",
+      "pub_date": "2026-07-18",
+      "pub_ts": 1784350764,
       "summary": "",
       "tags": [
         "extracted",
@@ -3865,9 +3863,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-18T11:06:11.551551+00:00",
-  "last_generated_date": "2026-07-18",
-  "last_generated_time": "2026-07-18T23:01:50.467988+00:00",
+  "last_relevant_time": "2026-07-19T11:05:38.376716+00:00",
+  "last_generated_date": "2026-07-19",
+  "last_generated_time": "2026-07-19T08:01:40.866710+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5689,6 +5687,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Voters are struggling to keep up with Iran war’s twists and turns - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWNMM2s4UThYVHcwM1ZuLWFVTWdDSnh5c3NMU09uR1JYOHhkUl9GYTFmVHVaLUxxR2hDd2hqRFlxYVlQZ0ZYejlOWkEyWjNvWGY5a3l5TnU4ZGxXakpaaVJBd3pwOVFDQTFZenF5RS1mZVRDWUlubDNfd1lsMVlrY3dlOTJjTFFXaVcyMFdtMVhkQ2VMNUJN?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 19, 2026 · 07:32 BRT",
+          "pub_date": "2026-07-19",
+          "pub_ts": 1784457128,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How the Iran War Is Driving Demand for Clean Energy - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFduT1Axd250Unc4TTcyZ2VrUE40LVlTeEllTk0wb0VpWExmbXZ3aU5CczBlcjhnR3VpX3hhVm1RellRa0dQdHBMazZZUkZlUXJucWo2NlUwQWlQTXRfVkFhZWxROEtpeDMwY3BfRE5OU2VwUl9jYmY2emt2aXd2d0pUS0lkdldUNjBQUlFTX1ZjaktSdDZyYWZURXQ5RGZieG5iVQ?oc=5",

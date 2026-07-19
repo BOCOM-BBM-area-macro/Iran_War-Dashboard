@@ -1935,10 +1935,13 @@
       "pub_date": "2026-07-13"
     },
     "https://www.wsj.com/world/middle-east/new-saudi-yemen-fighting-threatens-to-pull-houthis-into-iran-war-6d7aa26e": {
-      "summary": "",
+      "summary": "The militant group attacked southern Saudi Arabia after blaming the country for an airstrike on the San’a airport.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Airports",
+        "Air Transport",
+        "Transportation/Logistics",
+        "Asia",
+        "Emerging Market Countries"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2025,7 +2028,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-14"
+      "pub_date": "2026-07-13"
     },
     "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html": {
       "summary": "",

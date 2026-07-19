@@ -2654,10 +2654,13 @@
       "pub_date": "2026-07-15"
     },
     "https://www.wsj.com/world/middle-east/trump-leans-toward-expanding-u-s-military-operations-in-iran-6c230462": {
-      "summary": "",
+      "summary": "While preferring diplomacy, the president was briefed this week on options, including the use of ground troops and bombing the nuclear-linked Pickaxe Mountain site.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Energy",
+        "Asia",
+        "Dragonfly - Middle East",
+        "Dragonfly - North America",
+        "Dragonfly - World"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3538,7 +3541,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-18"
+      "pub_date": "2026-07-19"
     },
     "https://www.jpost.com/middle-east/iran-news/article-902870": {
       "summary": "Sirens, missile interceptions, and reported damage followed as Iran claimed attacks on US bases in Kuwait, Jordan, and Bahrain.",
@@ -3683,7 +3686,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-18"
+      "pub_date": "2026-07-19"
     },
     "https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/": {
       "summary": "",
@@ -3706,6 +3709,26 @@
       "pub_date": "2026-07-19"
     },
     "https://www.washingtonpost.com/politics/2026/07/19/what-voters-are-making-iran-war-dragging/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
+    },
+    "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
+    },
+    "https://www.washingtonpost.com/national/2026/07/18/iran-war-us-deaths/73a9b7a6-82f0-11f1-8a16-393bd03340b0_story.html": {
       "summary": "",
       "tags": [
         "extracted",
@@ -3865,7 +3888,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-19T11:05:38.376716+00:00",
   "last_generated_date": "2026-07-19",
-  "last_generated_time": "2026-07-19T08:01:40.866710+00:00",
+  "last_generated_time": "2026-07-19T09:01:53.771452+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

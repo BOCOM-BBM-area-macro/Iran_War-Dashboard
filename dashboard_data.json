@@ -3757,6 +3757,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-19"
+    },
+    "https://www.cbc.ca/news/world/u-s-airstrikes-iran-retaliation-9.7275686": {
+      "summary": "The U.S. said it had completed an eighth straight night of attacks on Iran after earlier announcing that two U.S. military personnel were killed in Jordan, while U.S. allies in the ‌region reported more Iranian attacks on Sunday.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
+    },
+    "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-19"
     }
   },
   "last_digest_success": true,
@@ -3908,7 +3928,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-19T11:05:38.376716+00:00",
   "last_generated_date": "2026-07-19",
-  "last_generated_time": "2026-07-19T11:01:45.960657+00:00",
+  "last_generated_time": "2026-07-19T13:01:50.373687+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3937,6 +3957,20 @@
           "published": "Jul 18, 2026 · 13:00 BRT",
           "pub_date": "2026-07-18",
           "pub_ts": 1784390400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil’s Battered Shock Absorbers Risk Price Spike as War Returns - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFFhZDNKeHlHQlRjZHRnUC1zOFJDNHI5YXU4eVlEZmZIUVAzeW0tSU9sU3k4a1V1c3gwUmxiZ3lIVjFEYURMN3R2NjU4S0Vsdmk5SzB2X3k2akJGMEQtWGNiUFlOVTdsQ3BxY2lMOGt0b1RyVTlqZm1rc0p1Mlh4SVNzdE1TTWVxOTllWHJOM0xxMjh1aFF0cUlXNUgwVFhTRENKa25meC1OQnNVSS1lRUM2SQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 18, 2026 · 09:30 BRT",
+          "pub_date": "2026-07-18",
+          "pub_ts": 1784377800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -5558,6 +5592,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Gas Prices Will Stay Higher for Longer, Even if Oil Falls - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUs5Q0FnUTJILUN3S0ZocVg4dlVkWXAteE1JU1JPTlh2ZG93b2VqVHVwUEVPNHl5Rnc5Q3NYM0txU0x5MDAwdGlwU0pia0dqUXJWbVhiRFprZ2U2QlMyT1haazk4NEdicmpEX1pEb0ZwZE9uRE9tRGVvYmREVUtCVUdadkJUcDlES2VRUUt6YUxjeld5aC1TSmRfNVIyMi0tNXRYR25sZi0?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 06:30 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784280600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Diesel Hits $5 a Gallon Again, Up 33% Since Iran War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbWRNS2lLRERGUlhNS3MtdVJKd1lhYkV6RTMtVzFHS29aN2ZrQ3FQcklTbjRHS1U1ZktVOHcwTVRSaWxNU3ZqUGV0WXV6V3VJZUNtY1FhNFRaZzE2RlpaVUJ4cXhCSTZyc2dwdDRXUk1XN3FIYThJRnZXcUFkYXc?oc=5",
           "source": "The New York Times",
@@ -5730,6 +5778,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Gas prices are rising again — and so is GOP grief in the midterms - Axios",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92SU5TNGVEWWs0MldvcEc5SlFfSDVfazFBT2tRVTJxTmdjcGhGV2YwdzFjQXFOYm51VDlMRExhZG1HVU5maDJVeWxjRjZ4dnJoRU80Y0REMFJRQm1uZmJSZnV3UHRBdl9FLWMwN0NWckktZVlCZXc?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 19, 2026 · 08:46 BRT",
+          "pub_date": "2026-07-19",
+          "pub_ts": 1784461573,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Voters are struggling to keep up with Iran war’s twists and turns - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWNMM2s4UThYVHcwM1ZuLWFVTWdDSnh5c3NMU09uR1JYOHhkUl9GYTFmVHVaLUxxR2hDd2hqRFlxYVlQZ0ZYejlOWkEyWjNvWGY5a3l5TnU4ZGxXakpaaVJBd3pwOVFDQTFZenF5RS1mZVRDWUlubDNfd1lsMVlrY3dlOTJjTFFXaVcyMFdtMVhkQ2VMNUJN?oc=5",

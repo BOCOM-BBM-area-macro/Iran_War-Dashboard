@@ -4167,6 +4167,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.washingtonpost.com/national-security/2026/07/20/17-us-service-members-have-been-killed-during-iran-war-heres-where/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -4321,12 +4351,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
   "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T16:02:04.388139+00:00",
+  "last_generated_time": "2026-07-20T17:01:57.342108+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran War Mediators Push for Traction on New Ceasefire - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm5aQXdjUnhWY0dqVlktZlgzamtLaFAtRHhMcC1MV0gyQ2ZzY1JlWjFDblpPbEFWWk82cTljYVZSbml3UTNPYUpRRDBJdHFWaGtjOXFYdWhTTi1TT19nWjc5MG90Y2phb2pnaTFDYW4xVkxJSXdMTHFSV25lSTJhMjc4QW5QcUpEd3ZnZzRTWkdsLUVnMGdtc3dLX3M5OUVyQU5lRA?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 14:30 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784568600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Another U.S. Service Member Is Killed as Iran War Expands - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmViUUFFckx5RUFieFpDdVFUb2hrazdyVkJuRUFfcXpEQV9xbURPal9ucHY2a2pjV0p5d3lEMFZGR01VekxzanpkZUZoQ0Z2WHdzZF8tbEZqeThTUDU3c3pVd2tRMG5tX1c3T1dyRDlOSkZjRnl4eGtFeHFKNTlRbA?oc=5",

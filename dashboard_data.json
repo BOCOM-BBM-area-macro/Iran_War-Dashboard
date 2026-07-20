@@ -3811,7 +3811,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-19"
+      "pub_date": "2026-07-20"
     },
     "https://www.washingtonpost.com/national-security/2026/07/19/us-teeters-return-all-out-war-with-iran-after-more-troops-killed/": {
       "summary": "",
@@ -3881,7 +3881,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-19"
+      "pub_date": "2026-07-20"
     },
     "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html": {
       "summary": "",
@@ -4094,6 +4094,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.timesofisrael.com/iran-says-its-in-full-scale-war-with-us-as-mediators-proffer-10-day-truce/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -4248,7 +4258,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
   "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T11:01:53.472461+00:00",
+  "last_generated_time": "2026-07-20T12:02:20.497397+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7046,6 +7056,20 @@
           "published": "Jul 15, 2026 · 13:17 BRT",
           "pub_date": "2026-07-15",
           "pub_ts": 1784132255,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.A.E. Rewarded With Coveted AI Chips for Supporting U.S. War in Iran - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vMmhlQVRPQ1ROQmh3ejlOam1KUmJ0NzZvVmZTdEVnYTdwZlNWVHotdWE1b0JKeFBuX1NYVjlxV29QRXA4YmU4UWE1VUpBTmJaakhXS2hDVjIzNkFjMF9rX3U5Y1RlNWQ3SXpxTndPOU54QzFMMkZn?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 14, 2026 · 20:00 BRT",
+          "pub_date": "2026-07-14",
+          "pub_ts": 1784070000,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

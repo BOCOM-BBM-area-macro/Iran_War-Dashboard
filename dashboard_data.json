@@ -3942,6 +3942,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.axios.com/2026/07/20/gas-4-dollars-per-gallon-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-20/us-bombs-iran-for-ninth-day-as-standoff-over-hormuz-deepens": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -5985,6 +6015,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Gas again tops $4 per gallon as Iran fighting persists - Axios",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yMUJURmpDU2FEelc0cUpRX2V0aEY1cHF4WEswTEhOT1daSHY2T3hBRng5RU1Bcmo1WEhaSk1RM0h1OTdNYTZjUHd2dE44STlYOTlpejF0NFFISzBBaTBDRVRCbUNNWThDX1JiWXZ6NlA5RnJX?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 06:36 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784540199,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBbXJxbTRYN1hiX2FDeEpUb1UzdXB2c0dzRkgzcTlNSzVGbG1wdlV4VGRleWdxcUFIaE90NWxYZVRmQmhTRFFDX2IzUlZGOG53TDQ3SmhwYVdFbG1aeDZ1VEtCbUUtMGMtYWptUVpRNVQybWdyMzlTWTNtemlzZw?oc=5",

@@ -3924,7 +3924,7 @@
       "pub_date": "2026-07-20"
     },
     "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html": {
-      "summary": "",
+      "summary": "Iranian foreign ministry officials and Secretary of State Marco Rubio signaled openness to resume negotiations but declined to provide any new details.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4104,6 +4104,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.reuters.com/world/middle-east/yemens-houthis-declare-naval-blockade-against-saudi-arabia-statement-2026-07-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1": {
+      "summary": "America cannot achieve its aims by negotiation. So regime change is back on the agenda",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.jpost.com/opinion/article-902686": {
+      "summary": "Fluctuations in the price of oil between periods of negotiation have also declined, and bouts of violence have leveled. The routinization of war is working in favor of the Trump administration.",
+      "tags": [
+        "Iran",
+        "Stock market",
+        "United States",
+        "economy",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -4258,12 +4291,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
   "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T12:02:20.497397+00:00",
+  "last_generated_time": "2026-07-20T13:01:55.579483+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Another U.S. Service Member Is Killed as Iran War Expands - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmViUUFFckx5RUFieFpDdVFUb2hrazdyVkJuRUFfcXpEQV9xbURPal9ucHY2a2pjV0p5d3lEMFZGR01VekxzanpkZUZoQ0Z2WHdzZF8tbEZqeThTUDU3c3pVd2tRMG5tX1c3T1dyRDlOSkZjRnl4eGtFeHFKNTlRbA?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 10:58 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784555880,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices ease after Iran says US contacts continue through mediators - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaml6UHZHNC1OaUd1dFE4Tm5yck5nRERpV1ozeFd0bm43S1F1dGVTcEV5bXo3LTFYZ3ZrcTZEUHp3OUlkU2ZlNWZFaGIwVzM0QlNjQ0dJWjhnWjg4bnNkcVduSGR4RUNSMjlrNWdiU2xvMFhhUkotSDRqeXlzTWE5MzdZV3plRGZrZFg5clVwZncwUHBLM2MtNEpoazdZUE41VmVN0gGoAUFVX3lxTE1MMVZiX1FWeFN1S1c2X2V3dkhOSEVzUEJZMGpnWG9DNHhKSnpWWWRWM0x4Q3B5bmY1QURFUjdmUEtxdHM3TE1ORnV5RTdQTTIwdmg5NTJJZEdNUXBaQ2FEVndxczJEcmJNS1lCRi0tNjBlb3Q1YmtENTVxR3BwNjRiQm96cWt3cGpoT2FTMTRucllKeEZ0Yzl0Ml90ZmNCeG13eE9fUEdqbA?oc=5",

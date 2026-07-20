@@ -4022,6 +4022,58 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.wsj.com/world/middle-east/iran-war-mediators-push-for-traction-on-a-new-ceasefire-6174506c": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-903074": {
+      "summary": "A 10-day ceasefire could potentially help revive the interim deal reached last month.",
+      "tags": [
+        "Iran",
+        "us iran",
+        "Memorandum of Understanding",
+        "Operation Project Freedom"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.washingtonpost.com/world/2026/07/20/iran-retaliates-against-us-strikes-gas-returns-4-gallon/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-20/us-average-gasoline-prices-rise-above-4-a-gallon-again": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.cbc.ca/news/world/us-bombing-iran-expands-9.7276152": {
+      "summary": "The United States conducted a new round of airstrikes early Monday targeting Iran after announcing the death of another service member. Iran responded by launching an attack targeting Bahrain, the home of the U.S. Navy's 5th Fleet, as well as Kuwait.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -4176,7 +4228,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
   "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T09:01:50.498397+00:00",
+  "last_generated_time": "2026-07-20T10:02:19.817826+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5881,6 +5933,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US Average Gasoline Prices Rise Above $4 a Gallon Again - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFJHaHhjVk9nWEJfX2xQVS1kWXpoR3pzVWFkZ0hzVnBwaHFWSnZxY1RXbUQzcGJEdTFoS29UeS1tNmJPZnZ0dm9IRDhkUUdFSURMSFB5dFZYdFBTM01Ja1h2bFladVVjTGpCU212eXVuQ0QyVkpSd05mWnAzaWQxMTFLWHhQcFRjT0dRQ1ZNZ05HMHZFbi1IbWxEbTlqS1d2TlRDLVhCdjU?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 04:58 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784534326,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Forget crude. War pushes refiners to the brink - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTdqTE9KRlVTVDlGTWlvRzd6Tml3aXU3ZVdMejV3Z1dsLVNfcVFKMWh5MTJ0THhSdXV3TjIybjVXT3hHYXQ1M29Yc2xFMVg0SnNmOEluU2FrdUNlTG56dTE1ZEVfZnI5NHdvbWQtSzZOZGNRbUtja1NBX1paSmh2Qmk1TGJCOVVjOVc4YVBfdlpIRHM5MWlzaG1rbjZ4dmpkNlNkRkpFeFdXcjQ?oc=5",

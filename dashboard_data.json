@@ -3944,7 +3944,7 @@
       "pub_date": "2026-07-20"
     },
     "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html": {
-      "summary": "",
+      "summary": "Central Command is not required to release information about injured troops, especially when they quickly return to duty, a military official said.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4137,6 +4137,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.ft.com/content/522fc69e-77df-40fd-8ab4-6726b866d289?syn-25a6b1a6=1": {
+      "summary": "Resurgent costs drive frustration with President Donald Trump ahead of midterm elections",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -4291,7 +4301,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
   "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T13:01:55.579483+00:00",
+  "last_generated_time": "2026-07-20T14:02:02.045276+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6239,6 +6249,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "US petrol prices climb back above $4 as Iran war intensifies - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVZQb0s3WTJsU1c1WTYwdXJRYUpycTRzSmdiUU9sa2lWUXZPWldBYktyak1VSDlwT0U0dVQ0Ylg5SjFCdGh6S3RUVVNqalJUZ19pQXhIVXFsMUY5R3RzRE5pWXIxbW1ndDI4YS1HWFJtcElLdnVEWEZQNzJlbUZpOHk0bEY?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 12:22 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784560930,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gas again tops $4 per gallon as Iran fighting persists - Axios",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yMUJURmpDU2FEelc0cUpRX2V0aEY1cHF4WEswTEhOT1daSHY2T3hBRng5RU1Bcmo1WEhaSk1RM0h1OTdNYTZjUHd2dE44STlYOTlpejF0NFFISzBBaTBDRVRCbUNNWThDX1JiWXZ6NlA5RnJX?oc=5",

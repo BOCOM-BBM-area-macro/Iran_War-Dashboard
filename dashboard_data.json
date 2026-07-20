@@ -4149,10 +4149,20 @@
       "pub_date": "2026-07-20"
     },
     "https://www.nytimes.com/2026/07/20/opinion/iran-war-us-deaths.html": {
-      "summary": "",
+      "summary": "Readers react to the intensifying conflict. Also: Free speech and Israeli writers; treasuring immigrants.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.reuters.com/world/middle-east/after-deadly-weekend-us-troops-trump-vows-revenge-against-iran-2026-07-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4311,7 +4321,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
   "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T15:02:03.928909+00:00",
+  "last_generated_time": "2026-07-20T16:02:04.388139+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

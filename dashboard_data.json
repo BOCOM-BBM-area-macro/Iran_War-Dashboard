@@ -3891,7 +3891,27 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-19"
+      "pub_date": "2026-07-20"
+    },
+    "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1": {
+      "summary": "US blockades ports and targets infrastructure as Donald Trump tries to force Tehran’s hand over Strait of Hormuz",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -4049,6 +4069,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 19, 2026 · 22:49 BRT",
+          "pub_date": "2026-07-19",
+          "pub_ts": 1784512140,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S. - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUFyRm95ekJ4VEpzZzBaNUlLV3FEcHFuUWpaX1poT21ibWJSOFNHbmlCdUZyOWp2TmJfY2xEXzFxTW9JeGh6WVFSRE1DT3ZNLWVYZ2wxZ1h4MkdxQ2pqUkwxSWdrSU9BaUVkUzRaU3dyVHVOeElZZThwUFQ3TUJOVTU2clBNckxPQk5TWGlFczFnTWhNSkpMNEFQT2lHQjFSUjAyRk05TVdoalk?oc=5",

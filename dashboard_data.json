@@ -4279,7 +4279,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-20"
+      "pub_date": "2026-07-21"
     },
     "https://www.reuters.com/business/energy/oil-prices-dip-mediation-efforts-offset-us-iran-strikes-2026-07-21/": {
       "summary": "",
@@ -4460,6 +4460,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.nytimes.com/2026/07/21/us/iran-war-funding.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
     }
   },
   "last_digest_success": true,
@@ -4618,12 +4628,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-21T11:11:22.839606+00:00",
   "last_generated_date": "2026-07-21",
-  "last_generated_time": "2026-07-21T14:02:26.704129+00:00",
+  "last_generated_time": "2026-07-21T15:02:11.423508+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aMHkxYm1aOXRZWU5VQzlRLWpqSHI1NnJYdl9pMkd4Zml5dXRhZ2xmU1MxbFRGNkZZYkpJdHBkWTlRM1JnWEZHTlFqTGdvbkNRMm9vZ3BSMlc2Y1I1STljd3NqRExKZUU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 14:48 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784656090,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Saudi crude tankers turn back as Houthis open new front in US-Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",

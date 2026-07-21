@@ -4169,7 +4169,7 @@
       "pub_date": "2026-07-20"
     },
     "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz": {
-      "summary": "",
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4189,7 +4189,7 @@
       "pub_date": "2026-07-20"
     },
     "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html": {
-      "summary": "",
+      "summary": "Republicans now face a worst-case political scenario of being asked to fund an unpopular war over which they have exercised little oversight.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4243,6 +4243,16 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
+    },
+    "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4401,7 +4411,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
   "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T22:02:18.023874+00:00",
+  "last_generated_time": "2026-07-20T23:01:57.614393+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

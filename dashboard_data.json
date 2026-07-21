@@ -4342,7 +4342,7 @@
       "pub_date": "2026-07-20"
     },
     "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html": {
-      "summary": "",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4510,6 +4510,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-21/hegseth-says-iran-war-has-cost-37-5-billion": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
     }
   },
   "last_digest_success": true,
@@ -4668,7 +4688,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-21T11:11:22.839606+00:00",
   "last_generated_date": "2026-07-21",
-  "last_generated_time": "2026-07-21T18:01:50.245115+00:00",
+  "last_generated_time": "2026-07-21T19:01:57.125472+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

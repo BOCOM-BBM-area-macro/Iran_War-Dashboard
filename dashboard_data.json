@@ -4053,7 +4053,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-20"
+      "pub_date": "2026-07-21"
     },
     "https://www.bloomberg.com/news/articles/2026-07-20/us-average-gasoline-prices-rise-above-4-a-gallon-again": {
       "summary": "",
@@ -4280,6 +4280,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-dip-mediation-efforts-offset-us-iran-strikes-2026-07-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -4440,6 +4450,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices dip as mediation efforts offset US-Iran strikes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 22:04 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784595840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Mediators Push for Traction on New Ceasefire - WSJ",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm5aQXdjUnhWY0dqVlktZlgzamtLaFAtRHhMcC1MV0gyQ2ZzY1JlWjFDblpPbEFWWk82cTljYVZSbml3UTNPYUpRRDBJdHFWaGtjOXFYdWhTTi1TT19nWjc5MG90Y2phb2pnaTFDYW4xVkxJSXdMTHFSV25lSTJhMjc4QW5QcUpEd3ZnZzRTWkdsLUVnMGdtc3dLX3M5OUVyQU5lRA?oc=5",

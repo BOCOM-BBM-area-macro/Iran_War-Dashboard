@@ -4176,7 +4176,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-20"
     },
     "https://www.washingtonpost.com/national-security/2026/07/20/17-us-service-members-have-been-killed-during-iran-war-heres-where/": {
       "summary": "",
@@ -4430,6 +4430,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
+    },
+    "https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
     }
   },
   "last_digest_success": true,
@@ -4588,7 +4608,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-21T11:11:22.839606+00:00",
   "last_generated_date": "2026-07-21",
-  "last_generated_time": "2026-07-21T12:01:55.034690+00:00",
+  "last_generated_time": "2026-07-21T13:02:11.633642+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4659,6 +4679,20 @@
           "published": "Jul 20, 2026 · 22:04 BRT",
           "pub_date": "2026-07-20",
           "pub_ts": 1784595840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How Houthis’ Red Sea Threat Risks Bigger Oil Shock - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0Q0STg2bEtVUUVGT2llY0hjb0J5Mmw5N1I5d2RXUE9vcUNGZVBlYmN0M19GZVNhUVVKSXVJbkFOU1UyVGRwWFdnN0dVbUtSamI3NXZsWXpZaXpIWlV3UEtoUFF1OTZRajN2YlIwYW5TM25BY3MybkJyQUM5UlFsS3dneFZxUGlDSURkWmZiYmVBQ0ZGMlFIbTZ4ekFvMnd3WGc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 17:46 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784580373,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

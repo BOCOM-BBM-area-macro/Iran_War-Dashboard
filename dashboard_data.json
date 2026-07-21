@@ -4236,7 +4236,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-20"
+      "pub_date": "2026-07-21"
     },
     "https://www.ft.com/content/2e137205-df69-47a2-9674-2f4a9deec0d9?syn-25a6b1a6=1": {
       "summary": "The Pentagon says most soldiers suffered ‘minor concussions’ and have returned to duty",
@@ -4420,6 +4420,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-21/iran-war-and-water-why-desalination-plants-are-vulnerability-for-gulf-states": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
     }
   },
   "last_digest_success": true,
@@ -4578,12 +4588,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-21T11:11:22.839606+00:00",
   "last_generated_date": "2026-07-21",
-  "last_generated_time": "2026-07-21T11:02:10.973032+00:00",
+  "last_generated_time": "2026-07-21T12:01:55.034690+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Saudi crude tankers turn back as Houthis open new front in US-Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 11:36 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784644582,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmhjS2xqREc3LTIwaGh3VnI2UXhFaHVtS1BzZVkyWFdPT2p2dUNfR1Q1eE15NTZJSE12THRBTHktcmJOZ2trQ3JwN2dsem1pdWp4bUktX2RJSGE4WWxVSU9YVVBNSTljTEZFeUgxU1NSRzJjdVhQVG1LajgzeVI4OXp3?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 11:01 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784642470,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war 'stagflation' premium quietly mounts - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTMyMnZRRjJYS0V2dU93T3pzeU9idk9xYzBLNjJ0WVRqTWQyUWZLQ3dkeEFjc21ZUXdYVThWZUlaSXZtblN3S1NHOWxfcWV1YWZjbzlzdWE4ZkRnYlZhWDZOLUdUZ1ZmX3B4M3dJcS1YN1JWVnpoTGJlR3dtQnJWOGVHR1l1bEk0S1J2OXJmQTNrSEJWS1ZwNUxoN19xSTVZczRSMHdQeXFaTUFBakxYbF9B?oc=5",

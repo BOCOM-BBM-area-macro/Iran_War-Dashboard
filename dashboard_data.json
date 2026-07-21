@@ -3901,7 +3901,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-20"
+      "pub_date": "2026-07-21"
     },
     "https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1": {
       "summary": "US blockades ports and targets infrastructure as Donald Trump tries to force Tehran’s hand over Strait of Hormuz",
@@ -4176,7 +4176,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-20"
+      "pub_date": "2026-07-21"
     },
     "https://www.washingtonpost.com/national-security/2026/07/20/17-us-service-members-have-been-killed-during-iran-war-heres-where/": {
       "summary": "",
@@ -4360,52 +4360,76 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.washingtonpost.com/national-security/2026/07/21/pentagon-sinking-billions-into-iran-is-quickly-running-short-cash/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
+    },
+    "https://www.nytimes.com/2026/07/21/podcasts/the-daily/iran-war-us-soldiers.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-20T11:06:21.228855+00:00",
+  "last_digest_time": "2026-07-21T11:11:12.581391+00:00",
   "digest": {
-    "digest": "The conflict between the U.S. and Iran has intensified, marked by retaliatory strikes following the deaths of two American soldiers in Jordan. This incident brings the total U.S. military death toll in the war to 16, with a further service member fatality reported due to a drone incident. U.S. forces have conducted multiple consecutive nights of attacks on Iran, while regional allies report increased Iranian aggression. Jordan has become a significant flashpoint due to its increased cooperation with U.S. operations against Iran, as other regional bases have become restricted. The ongoing fighting is impacting the U.S. economy, with average gas prices returning to $4 per gallon and concerns rising for Gulf shipping and water supplies. Despite the escalation, both Tehran and Washington have signaled a potential openness to talks, presenting a complex diplomatic landscape amidst heightened military activity. The persistence of the conflict is also straining oil refiners, though crude oil prices have not seen extreme volatility.",
+    "digest": "The Iran War has seen a significant escalation with reports indicating nearly 100 U.S. troops injured in the past two weeks, primarily from concussions, with most returning to duty. However, the conflict has also resulted in U.S. service member fatalities, with at least 18 killed to date, including recent deaths in Iraq and Jordan. U.S. military strikes against Iran have occurred for ten successive nights, though intelligence suggests these actions are unlikely to deter Iran. The Pentagon is facing financial strain, with billions invested in the war and concerns about dwindling cash reserves. Diplomatic efforts are underway, with mediators pushing for a new ceasefire, while regional actors like the Houthis in Yemen are increasingly involved, threatening new fronts through naval blockades in the Red Sea and announcing a Saudi naval blockade. The potential for wider regional conflict and spillover effects is a growing concern, with Southeast Asia issuing warnings. Meanwhile, within the U.S., there are questions regarding the transparency of casualty reporting and political dynamics, as Congress is being asked to fund the war with limited oversight.",
     "top_themes": [
-      "Escalation of US-Iran Conflict",
-      "Rising US Troop Casualties",
-      "Impact on Oil Prices and Shipping"
+      "Escalation of Iran War and US Casualties",
+      "Financial Strain on US Military Operations",
+      "Diplomatic Efforts and Regional Spillover Concerns"
     ],
     "next_events": [
       {
-        "title": "Escalation of U.S. Retaliatory Strikes",
-        "description": "The U.S. has launched multiple retaliatory strikes following troop deaths in Jordan, with President Trump vowing further action. Analysts should monitor the intensity, targets, and duration of these strikes, as well as any potential Iranian counter-responses, which could push the conflict towards an all-out war."
+        "title": "US Military Casualty Transparency and Domestic Political Impact",
+        "description": "The Pentagon has been accused of withholding information on US military injuries and deaths, raising questions about transparency. Analysts should monitor official casualty reports, independent investigations, and the public and political reaction to these figures, as they can significantly influence domestic support for the conflict and congressional funding decisions."
       },
       {
-        "title": "New Regional Flashpoints Emerge",
-        "description": "Jordan has become a critical new flashpoint due to its increased cooperation with the U.S. Watch for signs of the conflict spreading to other countries in the region, especially those hosting U.S. forces or those with strategic importance, as allies restrict U.S. base usage."
+        "title": "Trajectory Towards Full-Scale US-Iran War",
+        "description": "Multiple reports indicate the US is 'teetering on all-out war' and that the conflict is expanding, with continuous US strikes. Watch for further direct military engagements between US and Iranian forces or proxies, significant increases in the scale or targets of strikes, and shifts in rhetoric from both Washington and Tehran that signal a move beyond proxy conflicts."
       },
       {
-        "title": "Volatility in Global Energy Prices",
-        "description": "Gas prices have already topped $4 per gallon in the U.S., and concerns are rising for refiners and Gulf shipping. Analysts should closely monitor crude oil prices, refining capacity, and the security of shipping lanes, particularly in the Strait of Hormuz, as sustained conflict could lead to significant economic disruption."
+        "title": "Expansion of Regional Fronts and New Actors",
+        "description": "The involvement of Houthis in the Red Sea and threats of blockades signal a potential expansion of the conflict beyond current hotspots like Iraq and Jordan. Monitor Houthi actions, potential responses from Saudi Arabia and other regional powers, and any new actors or geographic areas becoming directly involved, particularly in critical shipping lanes."
       },
       {
-        "title": "Prospects for De-escalation and Diplomatic Engagement",
-        "description": "Despite escalating military actions, both the U.S. and Iran have signaled openness to talks, indicating a potential 'wake up moment.' Watch for any concrete diplomatic initiatives, back-channel communications, or third-party mediation attempts that could lead to a ceasefire or a reduction in hostilities."
+        "title": "US Congressional Support and War Funding Challenges",
+        "description": "The Pentagon is reportedly running short on cash, and Congress, particularly Republicans, faces pressure regarding funding an unpopular war with little oversight. Observe congressional debates, appropriations bills, and public opinion polls, as a lack of funding or political will could constrain US military operations or force a strategic re-evaluation."
       },
       {
-        "title": "Rising U.S. Casualty Count and Domestic Political Impact",
-        "description": "The death toll for U.S. troops is rising, with the Pentagon previously withholding injury numbers. Analysts should track further U.S. casualties and the resulting domestic political pressure, as public sentiment and congressional reactions could significantly influence the U.S. administration's strategy and willingness to escalate or de-escalate."
+        "title": "Prospects for De-escalation and Ceasefire Efforts",
+        "description": "Mediators are actively pushing for a new ceasefire amidst escalating tensions, indicating a desire for diplomatic solutions. Analysts should track any official or unofficial diplomatic channels, new proposals for de-escalation, and the willingness of both the US and Iran to engage in talks, as these could offer pathways to reduce hostilities."
+      },
+      {
+        "title": "Iranian Retaliation and Strategic Adjustments",
+        "description": "Intelligence reports suggest US strikes are unlikely to move Iran, implying a continued cycle of action and reaction. Monitor the nature and targets of Iranian-backed proxy attacks, direct Iranian military responses, and any shifts in Iran's strategic objectives or methods of engagement, particularly concerning its nuclear program or regional influence."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-20T11:06:28.143182+00:00",
+  "last_watch_time": "2026-07-21T11:11:22.145384+00:00",
   "relevant_news": [
     {
-      "title": "U.S. teeters on all-out war with Iran after more troops are killed - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/19/us-teeters-return-all-out-war-with-iran-after-more-troops-killed/",
+      "title": "A Red Sea blockade threatens a new front in U.S.-Iran war - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 20, 2026 · 07:58 BRT",
-      "pub_date": "2026-07-20",
-      "pub_ts": 1784545123,
+      "published": "Jul 21, 2026 · 07:14 BRT",
+      "pub_date": "2026-07-21",
+      "pub_ts": 1784628851,
       "summary": "",
       "tags": [
         "extracted",
@@ -4417,34 +4441,15 @@
       "sentiment_success": false
     },
     {
-      "title": "Jordan Becomes New Flashpoint in U.S.-Iran War as Troop Deaths Rise - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/jordan-becomes-new-flashpoint-in-u-s-iran-war-as-troop-deaths-rise-9858b7d1",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 19, 2026 · 22:00 BRT",
-      "pub_date": "2026-07-19",
-      "pub_ts": 1784509200,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "title": "Another U.S. Service Member Is Killed as Iran War Expands - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 20, 2026 · 07:19 BRT",
-      "pub_date": "2026-07-20",
-      "pub_ts": 1784542789,
-      "summary": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
+      "published": "Jul 21, 2026 · 07:06 BRT",
+      "pub_date": "2026-07-21",
+      "pub_ts": 1784628360,
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4454,14 +4459,52 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran and US widen attacks, raising fears for Gulf shipping and water supplies - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-launches-iran-strikes-ninth-day-another-american-confirmed-killed-2026-07-20/",
+      "title": "Nearly 100 U.S. troops injured in last two weeks of Iran war, Pentagon says - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/20/iran-retaliates-against-us-strikes-gas-returns-4-gallon/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 21, 2026 · 01:31 BRT",
+      "pub_date": "2026-07-21",
+      "pub_ts": 1784608260,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "The Pentagon, sinking billions into Iran war, is quickly running short on cash - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/21/pentagon-sinking-billions-into-iran-is-quickly-running-short-cash/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 21, 2026 · 07:17 BRT",
+      "pub_date": "2026-07-21",
+      "pub_ts": 1784629073,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-completes-its-latest-strikes-iran-marking-10th-successive-night-2026-07-21/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 19, 2026 · 22:49 BRT",
-      "pub_date": "2026-07-19",
-      "pub_ts": 1784512140,
+      "published": "Jul 20, 2026 · 23:26 BRT",
+      "pub_date": "2026-07-20",
+      "pub_ts": 1784600760,
       "summary": "",
       "tags": [
         "extracted",
@@ -4473,14 +4516,14 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. and Iran Signal Openness to Talks, Even as War Escalates - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html",
+      "title": "As the Iran War Escalates, Is the U.S. Hiding Its Toll? - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/21/podcasts/the-daily/iran-war-us-soldiers.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 20, 2026 · 03:02 BRT",
-      "pub_date": "2026-07-20",
-      "pub_ts": 1784527366,
+      "published": "Jul 21, 2026 · 07:00 BRT",
+      "pub_date": "2026-07-21",
+      "pub_ts": 1784628019,
       "summary": "",
       "tags": [
         "extracted",
@@ -4490,36 +4533,31 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "US Bombs Iran for Ninth Day as Standoff Over Hormuz Deepens - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/us-bombs-iran-for-ninth-day-as-standoff-over-hormuz-deepens",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 20, 2026 · 05:38 BRT",
-      "pub_date": "2026-07-20",
-      "pub_ts": 1784536691,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-20T11:06:28.951363+00:00",
-  "last_generated_date": "2026-07-20",
-  "last_generated_time": "2026-07-20T23:01:57.614393+00:00",
+  "last_relevant_time": "2026-07-21T11:11:22.839606+00:00",
+  "last_generated_date": "2026-07-21",
+  "last_generated_time": "2026-07-21T08:01:50.680355+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "A Red Sea blockade threatens a new front in U.S.-Iran war - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtLcUJfSEVjZ1I4WTU2cnNYenZrVVlBUEFHLXJSVTJZUjg5UzBuT094dVlYV1A1bjlVQXZDek91ZzlkelRvLWhOd1MwX3kwR3ZCOS1XbWF2M2xITHRtV0w2bVVnMmkyWkpQd2ZxWFJIcGVoN3dtNU9ndi1VOEo0Z2s5cE5BOW9KRktySHBvN0xGUlg4d2JGWlpJWmNVQQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 07:14 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784628851,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices dip as mediation efforts offset US-Iran strikes - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU?oc=5",

@@ -4176,7 +4176,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-20"
     },
     "https://www.washingtonpost.com/national-security/2026/07/20/17-us-service-members-have-been-killed-during-iran-war-heres-where/": {
       "summary": "",
@@ -4390,6 +4390,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.wsj.com/politics/hegseth-heads-to-capitol-hill-as-iran-war-drums-beat-louder-40c166b3": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
     }
   },
   "last_digest_success": true,
@@ -4548,7 +4558,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-21T11:11:22.839606+00:00",
   "last_generated_date": "2026-07-21",
-  "last_generated_time": "2026-07-21T09:01:53.569162+00:00",
+  "last_generated_time": "2026-07-21T10:02:07.613468+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7468,6 +7478,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Gold rises as diplomatic efforts offer hope of de-escalation in Middle East - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 01:08 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784606880,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Alcoa Cuts Production Guidance, Says Alumina Prices Stable Despite Iran War - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanJoY3JocHlPVkZRUHlmNUd4SkFpZ08zUVRpUUkzaWhTcGdtZmQ1RmhHa3ZlLXp3VU5QY0wzMUE0d09sT2xNbm92STF1TUZEU0VVNERqVVNOdmdmSXZEaVRoS0xpck94a25fdS1vemdESUdOeTE3UTBxUHgzNHpBTFVuT1BaanMyWkNDekdjSTFWWTNTV1FIVXZ0Tm5Lc1B5UEkxQVJiS2stYmhaRC03SUhoUXdMTWlJaWpn?oc=5",

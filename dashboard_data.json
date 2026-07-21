@@ -4320,6 +4320,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-20"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-21/southeast-asia-warns-of-spillover-from-us-war-with-iran-as-rubio-arrives": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
+    },
+    "https://www.cbc.ca/radio/asithappens/iran-us-asylum-lawsuit-9.7277110": {
+      "summary": "Even as the U.S. waged war with Iran and encouraged its citizens to take to the streets, the Trump administration was working with the Iranian regime to fast-track the deportations of dissidents, according to a new lawsuit.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-20"
     }
   },
   "last_digest_success": true,
@@ -6507,6 +6527,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Iran War Forces Cash-Strapped Asian Nations to Buy Expensive LNG - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGsxQ2VTa0hmS2pDS0FOaFpzUkgtNm9YM0VKMkdYQnhENWF0bkxEY2ZReXRfT2RQalE3LW9fMFJjbkFMdmQxR2VieE9vcTU1aDdIUHRIdkdlNzZXV1hMMHR3UnZMclNzUWpiUDVydEl1V2hySVdCTE9zV1VtMTh0UGc4ZWZlVThMMjMySjhLc044V2Q0S2JDTTB4TXJrM3hzRVcxV01TTl85V2l2RFVqSjlpdkIzUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 03:31 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784615460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Nearly 100 U.S. troops injured in last two weeks of Iran war, Pentagon says - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFJMZEJZcVVXSEt3ZE1Dek9HTFpvNkZEZWdESTg1ZW8tWjFuZFZUeUlQTjFoOWlUamVMcTNNc3JpZVhxa0x1dFctOVVEc2FEWmJiT2gtS09DMDZkSkZPTUF4cHNUTzZab2dTSi1kc2VSVXhPSkxGRDAwQ1VkU3RCU1NHYXY4TkpQakVEOXFvaTFPVWtLX3pWNmhhLVo1OGRkR2JwdU1iVQ?oc=5",
           "source": "The Washington Post",
@@ -7337,6 +7371,25 @@
           "published": "Jul 05, 2026 · 09:00 BRT",
           "pub_date": "2026-07-05",
           "pub_ts": 1783252803,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        }
+      ]
+    },
+    {
+      "theme": "Naphta/Petrochemical",
+      "articles": [
+        {
+          "title": "Hormuz vessel crossings extend slide on fresh US-Iran attacks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEtLXy1sb3RPLTgzWnBsRWhIU2JKV0tEQ3cyMmoxakRWRlpZNk9xUnVsWWxfMklsYzZrelRyd29WTVd5M041dUsyTElCWDd2cmtQWkdVbHhLRk5BcjZEWWRXcWx5bG85LVlBaE90bEVBZldzSERpX0QwdEs3eGlJNFVrTkxWVXZiSWRKNVdxTi1weVJnMUdRUG1tSkk1Y0NYVjVLVnVpd2QtVmRweGlBdmRR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 20, 2026 · 23:13 BRT",
+          "pub_date": "2026-07-20",
+          "pub_ts": 1784599980,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

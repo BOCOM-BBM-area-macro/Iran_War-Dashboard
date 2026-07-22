@@ -4589,7 +4589,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html": {
       "summary": "",
@@ -4600,6 +4600,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.reuters.com/world/middle-east/rubio-says-us-still-willing-negotiate-over-iran-crisis-2026-07-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
     }
   },
   "last_digest_success": true,
@@ -4764,6 +4784,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckU4SlN2MDhWdE1zZFZOMDdfd2pBOFl6WTM3MFp0azhlVGlHZ3Z2OTQ0UUJ1cV9weEdIUVpCWjVldGdjaURtbmVDUnVDQ0xZaXRXZWQxVFdFekJ6MEhIcjNkR3JrNG9CTGxnSGZWcFMxb1pGcmFVU05HMUFzRzZ0elhOcU9taWV5aWc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 22, 2026 · 02:02 BRT",
+          "pub_date": "2026-07-22",
+          "pub_ts": 1784696536,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil extends gains on fresh Mideast supply risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 21:26 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784679960,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war - CBC",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92OFhOY3FwWnVHd2NVbXQwUlE3QWlvMjJrNEE2R3QwMEJrWWxtN21ORWd0NnU0OHhfQWJVMmlvLVk5cC1JQ25lNWJsWDI4bTNFTjcwMDNWbDdKMkVRSFhtYlUtMDk5dFBYSGw0?oc=5",
@@ -5067,6 +5115,20 @@
           "published": "Jul 17, 2026 · 18:49 BRT",
           "pub_date": "2026-07-17",
           "pub_ts": 1784324989,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEx3dDRJajZOY0pLYXhWNnJfS0N5VS1laTVab2NhLUxERzZETDZ5OFlJOXh2UkoxZXo2ZVVJVmZVdllTa0RMSy1mRDJyVENPUnc5M3M3cWU5endCT3BFNXVnOHJ6NnNZTFRkQlpTWmJaN0xaMVJlRVZhWENPQlZlTGNSVmEtTTUwcHlueVlNekFJR05KZm9nZTV3YU1GVlgzU05UeU54V2YtNXVBR3pCSkNLQjdEQQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 16:41 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784317311,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

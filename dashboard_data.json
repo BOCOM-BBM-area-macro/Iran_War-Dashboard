@@ -4256,7 +4256,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-20"
     },
     "https://www.jpost.com/opinion/article-902932": {
       "summary": "If America wants a faster, more decisive path to victory, it must stop focusing only on what Iran can lose and target what the regime fears most.",
@@ -4589,7 +4589,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-21"
     },
     "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html": {
       "summary": "",
@@ -4718,6 +4718,26 @@
       "pub_date": "2026-07-21"
     },
     "https://www.bloomberg.com/news/articles/2026-07-22/ghana-keeps-rates-at-14-as-us-iran-war-drives-inflation-risk": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.washingtonpost.com/video/politics/you-sir-are-the-failure-hegseth-pressed-by-democratic-senator-on-iran-war-plan/2026/07/22/2e4ad33a-6df8-401f-b3b3-bd81ca000a2d_video.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-07-22/iran-us-peace-talks-face-multiple-barriers-with-houthis-israel-trump-threats": {
       "summary": "",
       "tags": [
         "extracted",
@@ -4879,7 +4899,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
   "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T13:01:55.002598+00:00",
+  "last_generated_time": "2026-07-22T14:01:56.506468+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4908,6 +4928,20 @@
           "published": "Jul 22, 2026 · 02:02 BRT",
           "pub_date": "2026-07-22",
           "pub_ts": 1784696536,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "More Red Sea shipments disrupted, Rubio says Iran not serious about talks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 22, 2026 · 00:21 BRT",
+          "pub_date": "2026-07-22",
+          "pub_ts": 1784690460,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

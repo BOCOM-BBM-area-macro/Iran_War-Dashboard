@@ -4489,7 +4489,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.wsj.com/politics/national-security/hegseth-estimates-cost-at-iran-war-at-37-5-billion-36e68f3d": {
       "summary": "",
@@ -4602,7 +4602,7 @@
       "pub_date": "2026-07-21"
     },
     "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html": {
-      "summary": "",
+      "summary": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4742,6 +4742,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.reuters.com/world/middle-east/iran-war-drains-us-blood-treasure-2026-07-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.cbc.ca/news/world/us-iran-jordan-attack-9.7279102": {
+      "summary": "Iran launched a missile attack on a Jordanian city on Israel's doorstep on Wednesday, and alerts were issued in Bahrain and Saudi Arabia as a nearly two-week upsurge in fighting continued.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4899,7 +4919,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
   "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T14:01:56.506468+00:00",
+  "last_generated_time": "2026-07-22T15:01:49.679356+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

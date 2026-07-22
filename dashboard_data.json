@@ -4256,7 +4256,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-20"
     },
     "https://www.jpost.com/opinion/article-902932": {
       "summary": "If America wants a faster, more decisive path to victory, it must stop focusing only on what Iran can lose and target what the regime fears most.",
@@ -4779,6 +4779,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-22"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/reports-mossad-chief-held-talks-in-washington-on-iran-war-targets/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.nytimes.com/2026/07/22/us/politics/house-passes-defense-bill-amid-iran-war-divide.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
     }
   },
   "last_digest_success": true,
@@ -4932,7 +4962,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
   "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T17:02:17.644582+00:00",
+  "last_generated_time": "2026-07-22T18:01:48.089180+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7253,6 +7283,20 @@
           "published": "Jul 20, 2026 · 04:57 BRT",
           "pub_date": "2026-07-20",
           "pub_ts": 1784534255,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iranian strikes hit Kurdistan Region: Gas prices double and US oil firm exits - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5keHNrcjV6d0dUYkpsZmNoSFBRbzBENzBxNUxKekpWbGo2dTFvYVVhZzRsNTQ5UVlyTnptYXpWdEFZT3hkRGM0akdQb2xqUk5tN3IzVFMxdF9UY0hHLW5EUllzLWFJdmZQRnc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 19, 2026 · 11:08 BRT",
+          "pub_date": "2026-07-19",
+          "pub_ts": 1784470122,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

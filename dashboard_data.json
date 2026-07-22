@@ -4589,7 +4589,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html": {
       "summary": "",
@@ -4692,6 +4692,16 @@
         "us iran",
         "Donald Trump",
         "US military"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-22/philip-morris-trims-profit-forecast-on-currencies-rising-costs": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4849,7 +4859,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
   "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T09:01:44.702679+00:00",
+  "last_generated_time": "2026-07-22T10:02:07.176973+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

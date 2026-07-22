@@ -4540,6 +4540,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-says-it-has-ended-its-latest-strikes-iran-2026-07-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
+    },
+    "https://www.cbc.ca/news/world/iran-tankers-war-us-9.7278658": {
+      "summary": "Two oil tankers carrying Saudi crude to Asia reversed course in the Red Sea on Tuesday after threats from Yemen's Iran-aligned Houthis, as a widening Middle East conflict disrupted shipping through two of the world's most critical energy chokepoints.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
+    },
+    "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-21"
     }
   },
   "last_digest_success": true,
@@ -4698,12 +4728,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-21T11:11:22.839606+00:00",
   "last_generated_date": "2026-07-21",
-  "last_generated_time": "2026-07-21T22:01:53.676316+00:00",
+  "last_generated_time": "2026-07-21T23:01:52.182783+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war - CBC",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92OFhOY3FwWnVHd2NVbXQwUlE3QWlvMjJrNEE2R3QwMEJrWWxtN21ORWd0NnU0OHhfQWJVMmlvLVk5cC1JQ25lNWJsWDI4bTNFTjcwMDNWbDdKMkVRSFhtYlUtMDk5dFBYSGw0?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 20:32 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784676723,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aMHkxYm1aOXRZWU5VQzlRLWpqSHI1NnJYdl9pMkd4Zml5dXRhZ2xmU1MxbFRGNkZZYkpJdHBkWTlRM1JnWEZHTlFqTGdvbkNRMm9vZ3BSMlc2Y1I1STljd3NqRExKZUU?oc=5",

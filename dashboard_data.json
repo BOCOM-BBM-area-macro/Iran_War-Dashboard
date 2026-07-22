@@ -3165,7 +3165,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-16"
+      "pub_date": "2026-07-17"
     },
     "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512": {
       "summary": "",
@@ -4652,10 +4652,13 @@
       "pub_date": "2026-07-21"
     },
     "https://www.bloomberg.com/news/articles/2026-07-22/us-widens-strikes-on-iran-as-trump-downplays-prospects-of-talks": {
-      "summary": "",
+      "summary": "The US widened the scope of its airstrikes on Iran overnight, as President Donald Trump and officials in Tehran signaled a renewal of peace talks is unlikely in the near-term.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Donald John Trump",
+        "Tehran",
+        "Media",
+        "Military"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4666,6 +4669,29 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.washingtonpost.com/business/2026/07/22/iran-us-hormuz-strait-war-july-22-2026/a91fcdfe-85a6-11f1-9cec-0fb26676f07e_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.jpost.com/international/article-903298": {
+      "summary": "The four US soldiers killed in Iran will be returned to Dover Air Force Base in Delaware for a ceremony attended by leaders, including US President Donald Trump, on Wednesday.",
+      "tags": [
+        "Iran",
+        "Israel Iran War",
+        "us iran",
+        "Donald Trump",
+        "US military"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4823,7 +4849,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
   "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T08:02:01.910409+00:00",
+  "last_generated_time": "2026-07-22T09:01:44.702679+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7023,6 +7049,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "European gas prices approach Iran war highs as traders fret over winter supplies - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3Jtd01xTW1rWjdnNFRsYmF5OVlkT2NDZEFfelVQdENMbDdRTEhtdlotMWtWUTI2SnpxeUVvTm13OVlJY2ZCZ0taTWdoaTRBc1VGQzNvWnBUQUtIYjU3bHdybG5fSXNLNm1Jd2tCUmFMTlQ0Slpxa1pjOHpPN3J6bmhZS3E?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 22, 2026 · 08:41 BRT",
+          "pub_date": "2026-07-22",
+          "pub_ts": 1784720500,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Funds’ Bullish Wagers on European Gas Jump the Most Since War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFgyME1DcHdfRHAzdmp0eUxYa1pHNTBRWDItN01meFkxVEhLOS0wY21LT2ZDRUxhd0YtaFpGU25JMm82c3p3OW9VNEc1TThxY2tzeXI3MmU3c2tRQUtjdC1QSzROMnF0dDRGOWlqTE8za3pWbmVGNUNrZlgzbUxleTFpb0RMaDZycUplcmhKWjZfLVhuaWdLVzJFN0xhY1JrNDBybUNIQi1Dekl4OU1CNw?oc=5",

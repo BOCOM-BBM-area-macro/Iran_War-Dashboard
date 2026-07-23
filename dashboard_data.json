@@ -4838,7 +4838,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-23"
+      "pub_date": "2026-07-22"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html": {
       "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
@@ -5245,6 +5245,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.reuters.com/legal/government/us-house-votes-curb-trumps-iran-war-powers-senate-backs-president-2026-07-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.reuters.com/world/us-senate-blocks-resolution-curbing-trumps-iran-war-powers-2026-07-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5400,7 +5430,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T13:02:09.718133+00:00",
+  "last_generated_time": "2026-07-23T14:02:02.318504+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -4831,7 +4831,7 @@
       "pub_date": "2026-07-22"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html": {
-      "summary": "",
+      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4841,7 +4841,7 @@
       "pub_date": "2026-07-22"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html": {
-      "summary": "",
+      "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4925,6 +4925,27 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-22/us-iran-suggest-peace-talks-aren-t-imminent-as-attacks-widen": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.nytimes.com/video/us/100000011042608/how-the-pentagon-withholds-iran-war-details.html": {
+      "summary": "Our Pentagon correspondent Helene Cooper explains how a lack of transparency reflects a tension between the Pentagon’s claims of operational security and the American public’s right to know what the military is doing in Iran.",
+      "tags": [
+        "US Military",
+        "Pentagon",
+        "Iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5082,12 +5103,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
   "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T21:02:05.823099+00:00",
+  "last_generated_time": "2026-07-22T22:01:58.550944+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Middle East war deepens 2026 oil deficit outlook, but 2027 glut still looms - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbXFHT0d2ZkNCTzFkQXh0d0VnamRaZTdINFZ1NTgydFBCdGZwclZ2ejlEMTBuSGpYM2Z5QzlzSlhEZEVZOC1sdTJ2UnZMZC1qYVlqTm1XNHNaZUlLQmZTUEdfM1plQjJDTlRCaVZwRy15YzVudUg0LWExTXAxekI5SjdLcWsxQ0t3RVM4djVScDRqaUpvVXhLcFlfMmZoZlhNVEE5S3JrRmppY1NVemNjTVZGeDMzTmZZN2FjV3lQUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 22, 2026 · 13:46 BRT",
+          "pub_date": "2026-07-22",
+          "pub_ts": 1784738806,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Global Oil Price Jumps as War Threats Intensify - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsU21OTy10NFdpd2RodTgyVkkzTXdNNk9qemFFVFpyNTNhd1MtdnpubE9yZHRIR3gwZzEzRkF4RW5TU0t2enMzNWhjTU1FOGdwdWJ4MGg3cGcyMzJtR0JxdnlSYURrYWtBcWJLb3RreERyc2o0cExr?oc=5",

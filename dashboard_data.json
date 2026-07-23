@@ -3478,7 +3478,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-18"
+      "pub_date": "2026-07-17"
     },
     "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html": {
       "summary": "",
@@ -4938,7 +4938,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-23"
     },
     "https://www.nytimes.com/video/us/100000011042608/how-the-pentagon-withholds-iran-war-details.html": {
       "summary": "Our Pentagon correspondent Helene Cooper explains how a lack of transparency reflects a tension between the Pentagon’s claims of operational security and the American public’s right to know what the military is doing in Iran.",
@@ -4980,6 +4980,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-saudi-tankers-red-sea-threatening-new-chokepoint-iran-2026-07-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-17"
     }
   },
   "last_digest_success": true,

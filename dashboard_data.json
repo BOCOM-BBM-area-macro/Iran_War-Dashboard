@@ -4821,7 +4821,7 @@
       "pub_date": "2026-07-22"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/trump-dignified-transfer-soldiers-iran-war.html": {
-      "summary": "",
+      "summary": "President Trump attended a dignified transfer for the soldiers as Americans were growing increasingly critical of the war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4905,6 +4905,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.bloomberg.com/opinion/newsletters/2026-07-22/iran-war-another-day-another-strait-in-the-middle-east-to-worry-about": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-22"
+    },
+    "https://www.nytimes.com/video/us/politics/100000011046811/trump-iran-war-fallen-soldiers.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5062,7 +5082,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
   "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T20:02:01.490088+00:00",
+  "last_generated_time": "2026-07-22T21:02:05.823099+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

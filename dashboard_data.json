@@ -4838,7 +4838,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-23"
+      "pub_date": "2026-07-22"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html": {
       "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
@@ -5155,6 +5155,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-07-23/us-oil-exports-set-for-a-comeback-as-renewed-iran-conflict-spurs-buyers": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5310,12 +5320,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T10:02:17.126226+00:00",
+  "last_generated_time": "2026-07-23T11:02:09.137765+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US Oil Exports Set for Comeback as Renewed Iran War Spurs Buyers to Return - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmJrLUpucGhkcmEybzFnbFpzVmxoakM5UUtEZjJQS01uS0JxcDAycGdCQkdfcllBdFNWLXlCVlpqblZhandWcktabEduTzQ5MUtMZkVMN25sa05iOU9ldnM4ODg3bmNKeVBwUGxlSWxUX1NiUXRnYTJBQjFPblFpZUhmenJidGt5SmZBZHNZQmhQdmlkdE5NSjhaYTFrVmsycVdTMDZ6OFlnNXVoV2FiXzczS1VZNnZuaXpuT0ZWRExRSGs?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 10:00 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784811647,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Cutting off Red Sea oil route may be one crisis too many - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDNZVWRlWjdzWnJpZVllWC1GWWNFSlFhNnB2LTJHWUsxaHlJS3dQYXNrSkhFcG5IbS1DeTkwaWxETVRUQnpxSDhDbTNQMUFHUW9FUUwwZUVmcllHbzBsVkM5WWZJclVyb2pkVlRORFJWVERkRjg3eXdSdi13cVV1SDU1RnRmaDBPQUZvb2IwT1ViNG5ZLTFtY0prQ0dGOVNwVks5Q3g2TS1pTnJ1TUkzVzhBcjNtR0NkTkdwZG1pQTNxWkE?oc=5",
@@ -7673,6 +7697,20 @@
           "published": "Jul 23, 2026 · 08:00 BRT",
           "pub_date": "2026-07-23",
           "pub_ts": 1784804406,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "QatarEnergy extends LNG force majeure and charters out tankers into October, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2hUaXBTWlk4S2oxMzJDOHFJb2E5WlBTdGtiRWZhTEs5MkxXaXRwNzJ1X0dFTVh5bzRHWGpNLTVNRVVmS3hzcjVDZWdvZVNueHhLdWV3ZzQ0UjltaFl3eERwTXVZek1RSzBIeUhXSVpmOTJnOUYtYllyVzdXdHlna2E5YzlqWDZhTGVfQThJbmEyaXN1MzNtYTJ0ZTZUYnRKM3dFSUpyeUlBUjNUaHNpS0VncVZQc0JlT1VQMWJnREoxN1gxY3Y5d0Nmbw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 07:59 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784804393,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

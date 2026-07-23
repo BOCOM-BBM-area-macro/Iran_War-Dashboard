@@ -4979,7 +4979,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-23"
+      "pub_date": "2026-07-22"
     },
     "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-saudi-tankers-red-sea-threatening-new-chokepoint-iran-2026-07-23/": {
       "summary": "",
@@ -4992,7 +4992,7 @@
       "pub_date": "2026-07-23"
     },
     "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz": {
-      "summary": "",
+      "summary": "Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5318,6 +5318,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.reuters.com/world/us/counting-costs-iran-war-2026-07-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5473,7 +5483,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T16:02:01.616389+00:00",
+  "last_generated_time": "2026-07-23T17:01:58.658727+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

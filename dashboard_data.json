@@ -4838,7 +4838,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-23"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html": {
       "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
@@ -5133,6 +5133,28 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-23/ecb-keeps-rate-steady-to-gauge-iran-war-s-impact-on-inflation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-903386": {
+      "summary": "Using B-1 bombers, which can carry two dozen 2,000-lb. bombs or dozens of cruise missiles, signaled a significant escalation and expansion of the US military campaign, per Axios.",
+      "tags": [
+        "Iran",
+        "United States",
+        "United Kingdom",
+        "CENTCOM"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5288,7 +5310,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T09:01:58.183516+00:00",
+  "last_generated_time": "2026-07-23T10:02:17.126226+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7665,6 +7687,20 @@
           "published": "Jul 23, 2026 · 04:05 BRT",
           "pub_date": "2026-07-23",
           "pub_ts": 1784790346,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "TotalEnergies posts strongest profit in nearly three years as Iran conflict lifts oil prices - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUER3VHByUm5HZ2kwZ2szVWZ3cURpT0w4MkQ0VkRlUGpCLWI2b2ZLdThEV3ZmdXFRd2lhM3hBcnl5ZHAwOERRb0d0SXBZaHpsM3duMjlncFZHcktoc2U3S3dtUGtNLTV5VE1FaTFmWXp2VVc3QmZGRmMtaVh5MENmMU1kc2IzMlc1dVlXV1dyQWFWNW5aYmszalVURjdDOTI1UV8yamdPRFYyNHhQSTJWbkJkVXlLdXhoTElpZW1nWQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 03:22 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784787720,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

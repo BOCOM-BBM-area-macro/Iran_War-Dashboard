@@ -4979,7 +4979,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-23"
+      "pub_date": "2026-07-22"
     },
     "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-saudi-tankers-red-sea-threatening-new-chokepoint-iran-2026-07-23/": {
       "summary": "",
@@ -5328,6 +5328,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-23/pakistan-gambles-on-trump-and-the-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.washingtonpost.com/the-seven-trump/2026/07/23/tracking-trump-house-votes-stop-iran-war-trump-demands-saudi-arabia-normalize-israel-relations-oil-prices-leap-more/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-the-houthis-complicate-a-possibly-escalating-iran-war/DD92E796-E79B-4606-9A6D-EA47361BD3B3": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5483,7 +5513,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T18:02:37.725651+00:00",
+  "last_generated_time": "2026-07-23T19:01:56.854819+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7916,6 +7946,20 @@
           "published": "Jul 23, 2026 · 03:22 BRT",
           "pub_date": "2026-07-23",
           "pub_ts": 1784787720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Watch Iran War Spikes Gas Prices, New Deal Boosts US Shipbuilding | Bloomberg Businessweek Daily 7/23/2026 - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUN2ZDlMY0ctTXBEd3JQYWIwSjBYRnprM2ZPekpncEw2dXFOTzhlQTh5TlBsQkx2RWlDRW81MHZNekZSNTlUU0JWU0FJSk5vQ1ZPNFJQZ2R6UUE2S3lKMlRmQVNXcUF0emprMk9rbGJUUGNRcHhiS29RM3lkbmFqZHRDVGNUeW8xT0JVejRYRWVrV0dCbjc3UA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 22, 2026 · 21:00 BRT",
+          "pub_date": "2026-07-22",
+          "pub_ts": 1784764800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

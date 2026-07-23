@@ -5083,56 +5083,76 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-07-22T11:08:28.789796+00:00",
-  "digest": {
-    "digest": "The ongoing Iran War has incurred significant financial costs for the United States, with estimates placing the total expenditure at $37.5 billion. The Pentagon is requesting an additional $70 billion in emergency military spending to cover conflict expenses and replenish depleted weapons stocks. Recent reports indicate that the U.S. military's strikes on Iran have concluded after an 11-day period of successive attacks. The conflict has resulted in casualties, with at least 17 service members identified as killed, and the risk to troops appears to be shifting to those operating further from Iran's borders. The Houthis in Yemen have declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the wider regional conflict. This development poses a challenge to an already stretched U.S. military. Neighboring countries are expressing a desire for a resolution to the war. President Trump's recent threats signal a willingness to escalate the conflict with Iran.",
-    "top_themes": [
-      "Military Spending and Costs",
-      "Casualties and Troop Deployment",
-      "Regional Escalation and Threats"
-    ],
-    "next_events": [
-      {
-        "title": "Congressional Decision on Emergency War Funding",
-        "description": "The Pentagon is requesting an additional $70 billion for the Iran War, having already spent $37.5 billion. Analysts should monitor congressional debates and the outcome of this funding request, as it will dictate the scale and sustainability of future US military operations and resource allocation."
-      },
-      {
-        "title": "US Military Posture and Escalation Dynamics",
-        "description": "After 11 consecutive nights of strikes, US military actions have reportedly ended, yet President Trump has signaled a willingness to escalate. Watch for any renewed US military operations, changes in troop deployments, or diplomatic overtures that could indicate a shift towards further escalation or a de-escalation of direct conflict."
-      },
-      {
-        "title": "Expansion of Conflict to New Regional Fronts",
-        "description": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war. Analysts should closely monitor Houthi activities in the Red Sea, their interactions with US and allied forces, and any direct involvement in the broader US-Iran conflict, which could significantly widen the war's scope."
-      },
-      {
-        "title": "US Casualties and Public/Political Response",
-        "description": "The war continues to incur US military casualties, with risks shifting to troops far from Iran's borders. Monitor the reporting of any further service member deaths and the subsequent public and political reactions, as sustained casualties could erode domestic support for the conflict and influence policy decisions."
-      },
-      {
-        "title": "Regional Diplomatic Efforts for De-escalation",
-        "description": "Iran's neighbors are expressing a strong desire for a deal to end the war, highlighting the significant regional instability. Watch for any diplomatic initiatives, mediation efforts by regional or international actors, or shifts in alliances that could aim to de-escalate tensions and bring about a resolution to the conflict."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-07-22T11:08:36.181078+00:00",
-  "relevant_news": [
-    {
-      "title": "The Pentagon, sinking billions into Iran war, is quickly running short on cash - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/21/pentagon-sinking-billions-into-iran-is-quickly-running-short-cash/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 22, 2026 · 00:08 BRT",
-      "pub_date": "2026-07-22",
-      "pub_ts": 1784689716,
+    },
+    "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.washingtonpost.com/world/2026/07/23/least-one-saudi-oil-tanker-is-attacked-red-sea-war-risks-widen/": {
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-07-23T11:10:36.255645+00:00",
+  "digest": {
+    "digest": "The United States has surged forces and medics to the Middle East, deploying B-1 bombers and completing multiple nights of strikes on Iran, as President Trump weighs options to expand the conflict. The House of Representatives passed a $1.15 trillion defense bill, including billions for the Iran war, despite Democratic opposition. Concurrently, the Houthis have opened a new front by targeting ships in the Red Sea, including Saudi tankers, threatening key maritime chokepoints and widening the conflict's scope. These actions have intensified attacks on Iran and increased risks for troops operating further from its borders. Peace talks between the US and Iran do not appear imminent, with both sides suggesting a lack of immediate progress. The conflict is also having a tangible economic impact, with disruptions affecting the UAE economy and airlines like EasyJet reporting increased costs. The US military's ability to secure the Strait of Hormuz from Iranian attacks remains a concern, as renewed air campaigns have not fully reassured shipowners. Military sites in Jordan have become targets, indicating a broadening risk profile.",
+    "top_themes": [
+      "US Military Operations and Funding",
+      "Regional Escalation and New Fronts",
+      "Economic Impact of the Conflict"
+    ],
+    "next_events": [
+      {
+        "title": "Escalation of US Military Operations and Responses",
+        "description": "The U.S. has surged forces, deployed B-1 bombers, and conducted strikes, while also experiencing damage to its sites and targeting of its presence in Jordan. Watch for further U.S. military actions, including potential retaliatory strikes or increased defensive measures, and any shifts in troop deployment or operational tempo in the region."
+      },
+      {
+        "title": "Congressional Approval of War Funding and Policy",
+        "description": "The House has repeatedly passed significant defense bills and budgets for the Iran war, despite internal opposition and growing public criticism. Monitor the Senate's stance on these budgets and any legislative efforts to either expand or constrain military operations, as this will dictate the financial and political sustainability of the conflict."
+      },
+      {
+        "title": "Intensification of Maritime Attacks and Chokepoint Threats",
+        "description": "Houthi forces have opened new fronts by targeting ships in the Red Sea and Saudi tankers, raising concerns about the safety of critical shipping lanes like the Strait of Hormuz. Observe the frequency and severity of attacks on commercial shipping, the international response to secure these waterways, and any impact on global trade and energy supplies."
+      },
+      {
+        "title": "Broader Economic Repercussions of the War",
+        "description": "The Iran war is already estimated to cost billions, draining U.S. resources and impacting regional economies and international businesses. Track indicators such as oil prices, regional economic stability, and the financial performance of companies exposed to the Middle East, as these will reflect the escalating economic burden and potential for wider disruption."
+      },
+      {
+        "title": "Prospects for Diplomacy and De-escalation",
+        "description": "Despite the widening conflict, both the U.S. and Iran currently suggest peace talks are not imminent. Any signals or overtures towards diplomatic engagement, either direct or indirect, would be a critical development. Watch for shifts in rhetoric from either side or the involvement of international mediators that could pave the way for de-escalation."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-07-23T11:10:44.819965+00:00",
+  "relevant_news": [
+    {
+      "title": "U.S. Surges Forces Toward Middle East, Giving Trump Options to Expand Iran War - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/u-s-surges-forces-toward-middle-east-giving-trump-options-to-expand-iran-war-e5d627b1",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 22, 2026 · 19:42 BRT",
+      "pub_date": "2026-07-22",
+      "pub_ts": 1784760120,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5140,32 +5160,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Pentagon Identifies Soldier Killed and Another ‘Believed’ Killed in Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 21, 2026 · 23:50 BRT",
-      "pub_date": "2026-07-21",
-      "pub_ts": 1784688622,
-      "summary": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US military says its latest strikes on Iran have ended, marking 11th successive night of attacks - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-has-ended-its-latest-strikes-iran-2026-07-22/",
+      "title": "US military completes 12th straight night of strikes on Iran - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-completes-12th-straight-night-strikes-iran-2026-07-23/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 21, 2026 · 21:57 BRT",
-      "pub_date": "2026-07-21",
-      "pub_ts": 1784681820,
+      "published": "Jul 23, 2026 · 00:27 BRT",
+      "pub_date": "2026-07-23",
+      "pub_ts": 1784777220,
       "summary": "",
       "tags": [
         "extracted",
@@ -5177,40 +5179,22 @@
       "sentiment_success": false
     },
     {
-      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 21, 2026 · 21:00 BRT",
-      "pub_date": "2026-07-21",
-      "pub_ts": 1784678414,
+      "title": "Houthis Open New Front in Iran War by Targeting Ships in Red Sea - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/houthis-open-new-front-in-iran-war-by-targeting-ships-in-red-sea",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jul 23, 2026 · 04:27 BRT",
+      "pub_date": "2026-07-23",
+      "pub_ts": 1784791647,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 21, 2026 · 15:16 BRT",
-      "pub_date": "2026-07-21",
-      "pub_ts": 1784657805,
-      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
       "sentiment_success": false
     },
     {
@@ -5219,9 +5203,9 @@
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 22, 2026 · 02:36 BRT",
+      "published": "Jul 22, 2026 · 21:08 BRT",
       "pub_date": "2026-07-22",
-      "pub_ts": 1784698560,
+      "pub_ts": 1784765312,
       "summary": "",
       "tags": [
         "extracted",
@@ -5231,17 +5215,69 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 22, 2026 · 22:37 BRT",
+      "pub_date": "2026-07-22",
+      "pub_ts": 1784770659,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Military Presence in Jordan Makes It Iranian Target - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 23, 2026 · 04:24 BRT",
+      "pub_date": "2026-07-23",
+      "pub_ts": 1784791469,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-22T11:08:36.833231+00:00",
-  "last_generated_date": "2026-07-22",
-  "last_generated_time": "2026-07-22T23:01:56.018024+00:00",
+  "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
+  "last_generated_date": "2026-07-23",
+  "last_generated_time": "2026-07-23T08:01:54.589875+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Cutting off Red Sea oil route may be one crisis too many - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDNZVWRlWjdzWnJpZVllWC1GWWNFSlFhNnB2LTJHWUsxaHlJS3dQYXNrSkhFcG5IbS1DeTkwaWxETVRUQnpxSDhDbTNQMUFHUW9FUUwwZUVmcllHbzBsVkM5WWZJclVyb2pkVlRORFJWVERkRjg3eXdSdi13cVV1SDU1RnRmaDBPQUZvb2IwT1ViNG5ZLTFtY0prQ0dGOVNwVks5Q3g2TS1pTnJ1TUkzVzhBcjNtR0NkTkdwZG1pQTNxWkE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 03:00 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784786400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",

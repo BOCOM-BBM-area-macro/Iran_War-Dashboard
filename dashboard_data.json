@@ -4898,7 +4898,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-23"
     },
     "https://www.reuters.com/world/middle-east/iran-strikes-cia-facilities-prompt-questions-about-possible-russian-role-2026-07-22/": {
       "summary": "",
@@ -4970,6 +4970,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-22"
+    },
+    "https://www.axios.com/2026/07/23/b-1-bomber-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5166,6 +5176,20 @@
           "published": "Jul 22, 2026 · 07:14 BRT",
           "pub_date": "2026-07-22",
           "pub_ts": 1784715249,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Mideast war escalation threatens recovery in global oil refining - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFpwamRuSUpMbzN4amZ0STVYNUtMWHBwdmQ3ZUN2MEZiZzh2R056S3dGN3JVanctSTJnYm5VeTdwbXJZd29jQndFZVh5LTBSZlZsT0xyUWxrN0JzMU4tUGtCbDlRbmVyR3RVclM4WjJITWF5dm5oR0djcWlwT29hNExiZjE5SGVRM0QzWGRIX21nYWlNLVREQmFuUU5CanNNbEFKUUhFdjRqZ3FuSHVSY2NHYw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 22, 2026 · 03:48 BRT",
+          "pub_date": "2026-07-22",
+          "pub_ts": 1784702880,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

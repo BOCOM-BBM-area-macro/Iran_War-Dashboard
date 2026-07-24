@@ -5611,6 +5611,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-24"
+    },
+    "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.reuters.com/world/middle-east/yemen-teeters-towards-renewed-war-shadow-iran-conflict-2026-07-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
     }
   },
   "last_digest_success": true,
@@ -5766,7 +5786,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-24T11:09:45.036825+00:00",
   "last_generated_date": "2026-07-24",
-  "last_generated_time": "2026-07-24T15:02:04.984514+00:00",
+  "last_generated_time": "2026-07-24T16:02:07.883669+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

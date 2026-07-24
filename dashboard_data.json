@@ -5448,75 +5448,67 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-24"
+    },
+    "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-23T11:10:36.255645+00:00",
+  "last_digest_time": "2026-07-24T11:09:36.503671+00:00",
   "digest": {
-    "digest": "The United States has surged forces and medics to the Middle East, deploying B-1 bombers and completing multiple nights of strikes on Iran, as President Trump weighs options to expand the conflict. The House of Representatives passed a $1.15 trillion defense bill, including billions for the Iran war, despite Democratic opposition. Concurrently, the Houthis have opened a new front by targeting ships in the Red Sea, including Saudi tankers, threatening key maritime chokepoints and widening the conflict's scope. These actions have intensified attacks on Iran and increased risks for troops operating further from its borders. Peace talks between the US and Iran do not appear imminent, with both sides suggesting a lack of immediate progress. The conflict is also having a tangible economic impact, with disruptions affecting the UAE economy and airlines like EasyJet reporting increased costs. The US military's ability to secure the Strait of Hormuz from Iranian attacks remains a concern, as renewed air campaigns have not fully reassured shipowners. Military sites in Jordan have become targets, indicating a broadening risk profile.",
+    "digest": "Recent developments indicate a significant escalation in military actions concerning Iran, with the U.S. deploying B-1 bombers and conducting consecutive nights of strikes. President Trump has expressed increasing impatience with the ongoing conflict and has vowed to punish Iran and the Houthis for attacks in the Red Sea, even threatening to intensify attacks. The Houthis have been identified as opening a new front in the broader U.S.-Iran conflict. Diplomatic efforts appear stalled, as Iran has rejected a U.S. cease-fire proposal delivered via Iraq. Domestically, the U.S. House of Representatives has taken steps to rebuke the President's war authority, voting twice to limit his ability to engage in military action against Iran without congressional authorization, though the Senate has not advanced similar measures. Conflicting information has emerged regarding U.S. troop casualties, with discrepancies noted on Pentagon websites. The economic implications are also being felt, with reports of increased prices for consumer goods like Diet Coke in India due to the war, and concerns that the Iran war and tariffs threaten the U.S. economy. Pakistan is reportedly making strategic calculations based on the evolving situation with Trump and the Iran war.",
     "top_themes": [
-      "US Military Operations and Funding",
-      "Regional Escalation and New Fronts",
-      "Economic Impact of the Conflict"
+      "US Military Action Against Iran",
+      "Congressional Oversight of War Powers",
+      "Iran's Rejection of Ceasefire",
+      "Escalation of Regional Conflict"
     ],
     "next_events": [
       {
-        "title": "Escalation of US Military Operations and Responses",
-        "description": "The U.S. has surged forces, deployed B-1 bombers, and conducted strikes, while also experiencing damage to its sites and targeting of its presence in Jordan. Watch for further U.S. military actions, including potential retaliatory strikes or increased defensive measures, and any shifts in troop deployment or operational tempo in the region."
+        "title": "Potential for US Military Escalation Against Iran",
+        "description": "Reports indicate President Trump is considering a 'massive attack' on Iran, alongside ongoing US strikes and B-1 bomber deployments. Analysts should closely monitor any significant increase in the scale, frequency, or targets of US military actions, as this would signal a major escalation of the conflict."
       },
       {
-        "title": "Congressional Approval of War Funding and Policy",
-        "description": "The House has repeatedly passed significant defense bills and budgets for the Iran war, despite internal opposition and growing public criticism. Monitor the Senate's stance on these budgets and any legislative efforts to either expand or constrain military operations, as this will dictate the financial and political sustainability of the conflict."
+        "title": "Houthi Actions and Red Sea Shipping Security",
+        "description": "The Houthis have opened a new front in the conflict, intensifying attacks on shipping routes in the Red Sea, prompting US vows to punish them. Watch for continued Houthi aggression, the effectiveness of US and allied naval responses, and any broader impact on global trade and energy prices."
       },
       {
-        "title": "Intensification of Maritime Attacks and Chokepoint Threats",
-        "description": "Houthi forces have opened new fronts by targeting ships in the Red Sea and Saudi tankers, raising concerns about the safety of critical shipping lanes like the Strait of Hormuz. Observe the frequency and severity of attacks on commercial shipping, the international response to secure these waterways, and any impact on global trade and energy supplies."
+        "title": "Congressional Influence on Executive War Powers",
+        "description": "The House has repeatedly attempted to limit Trump's war powers, though the Senate has largely supported the president. Future legislative efforts and votes will indicate the level of political consensus or division regarding the conflict's authorization and scope, potentially influencing the administration's strategy."
       },
       {
-        "title": "Broader Economic Repercussions of the War",
-        "description": "The Iran war is already estimated to cost billions, draining U.S. resources and impacting regional economies and international businesses. Track indicators such as oil prices, regional economic stability, and the financial performance of companies exposed to the Middle East, as these will reflect the escalating economic burden and potential for wider disruption."
+        "title": "Prospects for De-escalation and Diplomatic Breakthroughs",
+        "description": "Iran has rejected US cease-fire offers, indicating a lack of immediate willingness to de-escalate the conflict. Analysts should watch for any shifts in Iran's diplomatic posture, new mediation efforts by regional or international actors, and potential conditions under which a cease-fire might be reconsidered."
       },
       {
-        "title": "Prospects for Diplomacy and De-escalation",
-        "description": "Despite the widening conflict, both the U.S. and Iran currently suggest peace talks are not imminent. Any signals or overtures towards diplomatic engagement, either direct or indirect, would be a critical development. Watch for shifts in rhetoric from either side or the involvement of international mediators that could pave the way for de-escalation."
+        "title": "Broader Economic Repercussions of the Conflict",
+        "description": "The Iran war, coupled with existing tariffs, is threatening the US economy and already impacting global markets. Monitor key economic indicators, oil prices, and supply chain disruptions for signs of broader economic instability or inflationary pressures stemming from the conflict's continuation and potential escalation."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-23T11:10:44.819965+00:00",
+  "last_watch_time": "2026-07-24T11:09:44.418649+00:00",
   "relevant_news": [
     {
-      "title": "U.S. Surges Forces Toward Middle East, Giving Trump Options to Expand Iran War - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/u-s-surges-forces-toward-middle-east-giving-trump-options-to-expand-iran-war-e5d627b1",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 22, 2026 · 19:42 BRT",
-      "pub_date": "2026-07-22",
-      "pub_ts": 1784760120,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US military completes 12th straight night of strikes on Iran - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-military-completes-12th-straight-night-strikes-iran-2026-07-23/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 23, 2026 · 00:27 BRT",
+      "title": "Exclusive: Trump \"close\" to decision on \"massive attack\" on Iran - Axios",
+      "url": "https://www.axios.com/2026/07/23/trump-axios-iran-interview",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jul 23, 2026 · 12:59 BRT",
       "pub_date": "2026-07-23",
-      "pub_ts": 1784777220,
+      "pub_ts": 1784822379,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "axios.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5524,18 +5516,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Houthis Open New Front in Iran War by Targeting Ships in Red Sea - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/houthis-open-new-front-in-iran-war-by-targeting-ships-in-red-sea",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 23, 2026 · 04:27 BRT",
+      "title": "U.S. deploys B-1 bomber as attacks on Iran intensify - Axios",
+      "url": "https://www.axios.com/2026/07/23/b-1-bomber-iran-war",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Jul 23, 2026 · 00:09 BRT",
       "pub_date": "2026-07-23",
-      "pub_ts": 1784791647,
+      "pub_ts": 1784776159,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "axios.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5543,14 +5535,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Latest combat deaths show risk has shifted to troops far from Iran’s borders - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
+      "title": "US strikes Iran and Bahrain warns of incoming fire as clashes over shipping routes escalate - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/07/24/iran-us-hormuz-strait-war-24-july-2026/31009518-871a-11f1-9cec-0fb26676f07e_story.html",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 22, 2026 · 21:08 BRT",
-      "pub_date": "2026-07-22",
-      "pub_ts": 1784765312,
+      "published": "Jul 24, 2026 · 04:14 BRT",
+      "pub_date": "2026-07-24",
+      "pub_ts": 1784877240,
       "summary": "",
       "tags": [
         "extracted",
@@ -5562,18 +5554,18 @@
       "sentiment_success": false
     },
     {
-      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 22, 2026 · 22:37 BRT",
-      "pub_date": "2026-07-22",
-      "pub_ts": 1784770659,
+      "title": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-13th-consecutive-night-strikes-iran-2026-07-24/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 23, 2026 · 22:56 BRT",
+      "pub_date": "2026-07-23",
+      "pub_ts": 1784858160,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5581,18 +5573,36 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. Military Presence in Jordan Makes It Iranian Target - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
+      "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 23, 2026 · 04:24 BRT",
+      "published": "Jul 23, 2026 · 15:17 BRT",
       "pub_date": "2026-07-23",
-      "pub_ts": 1784791469,
-      "summary": "",
+      "pub_ts": 1784830674,
+      "summary": "For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US House votes to curb Trump's Iran war powers but Senate backs president - Reuters",
+      "url": "https://www.reuters.com/legal/government/us-house-votes-curb-trumps-iran-war-powers-senate-backs-president-2026-07-23/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 23, 2026 · 15:02 BRT",
+      "pub_date": "2026-07-23",
+      "pub_ts": 1784829736,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5601,14 +5611,28 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
-  "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T23:01:58.588062+00:00",
+  "last_relevant_time": "2026-07-24T11:09:45.036825+00:00",
+  "last_generated_date": "2026-07-24",
+  "last_generated_time": "2026-07-24T08:01:56.175661+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran Rejected a U.S. Cease-Fire Offer Delivered by Iraq, Officials Say - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kY210ZGhPNy1NLS1haEJOQ2M1WkpiTzJkWnNkN2J3SVVmaUF2ZVhqVUZteHRpSWg4ZW1tc3BfLU5HVFFPd2NFVU1hTzR1RVNncGVOd2hvR1VieDl1ZDVoZVIyOG9zWHlNVU1PMlVRX0J0RW5nQTJVbEozVkk?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 24, 2026 · 06:06 BRT",
+          "pub_date": "2026-07-24",
+          "pub_ts": 1784883960,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",

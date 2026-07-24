@@ -5531,6 +5531,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-24"
+    },
+    "https://www.reuters.com/world/china/pakistan-iran-explore-path-towards-new-talks-with-us-china-initiated-push-2026-07-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.reuters.com/business/energy/top-us-oilfield-services-firm-slb-beats-quarterly-profit-estimates-2026-07-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
     }
   },
   "last_digest_success": true,
@@ -5686,7 +5716,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-24T11:09:45.036825+00:00",
   "last_generated_date": "2026-07-24",
-  "last_generated_time": "2026-07-24T12:01:50.237525+00:00",
+  "last_generated_time": "2026-07-24T13:02:15.310787+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6065,6 +6095,20 @@
           "published": "Jul 21, 2026 · 07:14 BRT",
           "pub_date": "2026-07-21",
           "pub_ts": 1784628851,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran-Backed Houthis Expand Conflict With Red Sea Blockade - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0pMS296bWU1WFFKSHYwbkdRN1RFVTZHQ1h4Znp3djJ6eHBRdTNFOHVIZ011OUdNZWdjeDhPZWluZENhZmZTR1JsSmhiWC12MjRqejdUcG1rM0FWVnlOd3J4NkJlNjVIdDVDRGEtY283aDQ3UGhQTU1CSVhZcDBkQw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 21, 2026 · 06:42 BRT",
+          "pub_date": "2026-07-21",
+          "pub_ts": 1784626946,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

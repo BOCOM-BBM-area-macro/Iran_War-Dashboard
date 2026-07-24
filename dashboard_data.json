@@ -5358,6 +5358,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5513,12 +5523,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T20:01:58.709774+00:00",
+  "last_generated_time": "2026-07-23T21:01:52.035773+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeldzekMzeVNRZHVDX3hfOFRQanpfY2tqWlZHQ0xSX3RpTTVyQ1had1Izd3FWbExJa0ttTlFRYmVMMnJBSHg3NGgzUEw0YnllMGswN053YzJacXdEMEVsTVhkUnh2SkZGT2NDSnVrUWs1MkNJNXhaTXFpSXJjbTRmQ3VUNmV2bGc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 17:07 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784837274,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UUE0wR1BEcG1XNGx4RXB6RXFjU2Zzb3QxeFFjSDBHcmY0cEwtTlVkZmJVRWNIS0QzM3d4aU9hVDRZdl9MZDJUbEliVVhBaVpzNUx1M0V0SlFhb1VmYm1rOVRoaUxVenY1TUVGT3RPSHZhdnJhbGJ3?oc=5",
@@ -8628,6 +8652,20 @@
           "published": "Jul 17, 2026 · 16:12 BRT",
           "pub_date": "2026-07-17",
           "pub_ts": 1784315572,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SbURhY01MQnVscmx2OWlvQWRhcy1VT05DNUlCcDlwc0ttSE1fRDdMclRzWjEzMjZCcTNabUNENk45cFB5UWtyWEtEY3ktc1g1LUpBQWJjRzJJaXZYbkpYbFZRZWJXQ0RfMjNTSVFDXzlMRjV5R3c?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 17, 2026 · 05:22 BRT",
+          "pub_date": "2026-07-17",
+          "pub_ts": 1784276554,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

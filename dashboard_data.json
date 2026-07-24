@@ -5508,6 +5508,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-21"
+    },
+    "https://www.jpost.com/middle-east/article-903561": {
+      "summary": "“The central danger is miscalculation. The conflict could become region-wide with very little warning,” founder of Q Advisory John Keith King said.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "Trump Administration",
+        "Gulf States",
+        "The Media Line"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.cbc.ca/news/world/us-iran-war-iraq-base-9.7282046": {
+      "summary": "Drones carrying explosives targeted a city in northern Iraq where U.S. forces are station, hours after the American military said it finished its 13th consecutive night of strikes against Iran.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
     }
   },
   "last_digest_success": true,
@@ -5663,7 +5686,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-24T11:09:45.036825+00:00",
   "last_generated_date": "2026-07-24",
-  "last_generated_time": "2026-07-24T11:02:15.977579+00:00",
+  "last_generated_time": "2026-07-24T12:01:50.237525+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5692,6 +5715,20 @@
           "published": "Jul 24, 2026 · 06:05 BRT",
           "pub_date": "2026-07-24",
           "pub_ts": 1784883922,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Prices Waver as Gulf Ship Traffic Falls to Lowest Level in Months - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQktRd1BiNVJEUjJaWEtyT2xjSnJldWIxRE1rUndBLXBlSURDc0twLVBrUUdWYnY3d29Gb0VTUVR3VC10WG1yTEhyVkQyMkNMck1VWk9wd0NvMTUxV3g3M1dpZ0dTTVNGMnNXSkgyNFJSbENQdG9FZ0lRai1jTzFDTV9oSGo5Q3NXYWc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 24, 2026 · 01:31 BRT",
+          "pub_date": "2026-07-24",
+          "pub_ts": 1784867491,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

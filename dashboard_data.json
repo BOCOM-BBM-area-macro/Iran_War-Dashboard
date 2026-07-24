@@ -4509,7 +4509,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
       "summary": "",
@@ -5440,7 +5440,7 @@
       "pub_date": "2026-07-24"
     },
     "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html": {
-      "summary": "",
+      "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5583,7 +5583,7 @@
       "pub_date": "2026-07-24"
     },
     "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz": {
-      "summary": "",
+      "summary": "Two oil tankers made U-turns a day after the Iranian-backed militant group in Yemen threatened traffic in another vital shipping route. President Trump said he expected to keep firing on Iran after trading attacks for 11 straight nights.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5613,7 +5613,7 @@
       "pub_date": "2026-07-24"
     },
     "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html": {
-      "summary": "",
+      "summary": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has now lasted nearly five months, with no end in sight.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5643,7 +5643,7 @@
       "pub_date": "2026-07-24"
     },
     "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html": {
-      "summary": "",
+      "summary": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5806,7 +5806,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-24T11:09:45.036825+00:00",
   "last_generated_date": "2026-07-24",
-  "last_generated_time": "2026-07-24T17:02:02.249057+00:00",
+  "last_generated_time": "2026-07-24T18:01:51.191671+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5863,6 +5863,20 @@
           "published": "Jul 24, 2026 · 01:00 BRT",
           "pub_date": "2026-07-24",
           "pub_ts": 1784865600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil falls on report China pushing for end US-Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 22:36 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784856960,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

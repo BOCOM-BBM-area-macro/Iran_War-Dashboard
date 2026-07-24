@@ -5387,7 +5387,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-23"
+      "pub_date": "2026-07-24"
     },
     "https://www.reuters.com/world/middle-east/us-military-says-it-completed-13th-consecutive-night-strikes-iran-2026-07-24/": {
       "summary": "",
@@ -5561,6 +5561,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-24"
+    },
+    "https://www.reuters.com/world/china/trump-warns-china-russia-against-involvement-iran-war-2026-07-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-07-24/global-debt-markets-shudder-at-iran-war-s-triple-whammy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5716,7 +5746,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-24T11:09:45.036825+00:00",
   "last_generated_date": "2026-07-24",
-  "last_generated_time": "2026-07-24T13:02:15.310787+00:00",
+  "last_generated_time": "2026-07-24T14:02:25.297671+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5815,6 +5845,20 @@
           "published": "Jul 23, 2026 · 10:00 BRT",
           "pub_date": "2026-07-23",
           "pub_ts": 1784811647,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Updates: Houthi Threat Adds to Fears of Wider War and Economic Upheaval - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUhVOVVGNVMxOHlHY3dwMDU5bEFEeUg4QUpIcWQ1QVpTTmg5VVRTZHYtZTNQQ1ZKLXZKUnR3UVBMRUluSWxpOWZvLXlpbFc4VzN5eEJmYkJTbGxvbzhRbi1HZ0hUTGZ5SU5nanJXMmpzTGZxNmhNU1AtUHJNbnZmYg?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 05:51 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784796685,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -9205,6 +9249,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Trump warns China, Russia against involvement in Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFNIbkVHRDFha2pQZ0ZQeGpKUnNPRnJyTGZYVmdRMlpuOW1hXy1kT2UtenhSSVNnd01lLWJXNFZVWVdrWVAtSlFtQmItekowMnFEUUhwbWNzUmh3NE9kMGE4LURxTGtUaF95dlp3T25yQm9FUlY0UUlUczNfNE9vUmIzUm5OUE1Fd2VWSVNud0V1ZVRtZFZxbm12SVBDSDJpMzZn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 24, 2026 · 13:10 BRT",
+          "pub_date": "2026-07-24",
+          "pub_ts": 1784909421,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Hormuz vessel crossings extend slide on fresh US-Iran attacks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEtLXy1sb3RPLTgzWnBsRWhIU2JKV0tEQ3cyMmoxakRWRlpZNk9xUnVsWWxfMklsYzZrelRyd29WTVd5M041dUsyTElCWDd2cmtQWkdVbHhLRk5BcjZEWWRXcWx5bG85LVlBaE90bEVBZldzSERpX0QwdEs3eGlJNFVrTkxWVXZiSWRKNVdxTi1weVJnMUdRUG1tSkk1Y0NYVjVLVnVpd2QtVmRweGlBdmRR?oc=5",

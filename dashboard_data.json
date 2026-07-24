@@ -4828,7 +4828,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-23"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html": {
       "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
@@ -4838,7 +4838,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-23"
     },
     "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html": {
       "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
@@ -5368,6 +5368,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-23"
+    },
+    "https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,
@@ -5523,7 +5533,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T21:01:52.035773+00:00",
+  "last_generated_time": "2026-07-23T22:01:51.075060+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

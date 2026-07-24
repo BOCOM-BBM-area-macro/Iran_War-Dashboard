@@ -5360,7 +5360,7 @@
       "pub_date": "2026-07-23"
     },
     "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html": {
-      "summary": "",
+      "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5374,6 +5374,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
+    },
+    "https://www.wsj.com/politics/policy/trump-is-losing-patience-over-an-iran-war-with-no-clear-end-in-sight-c411d3cd": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5533,7 +5543,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-23T11:10:45.535994+00:00",
   "last_generated_date": "2026-07-23",
-  "last_generated_time": "2026-07-23T22:01:51.075060+00:00",
+  "last_generated_time": "2026-07-23T23:01:58.588062+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

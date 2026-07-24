@@ -5438,6 +5438,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-24"
+    },
+    "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
     }
   },
   "last_digest_success": true,
@@ -8003,6 +8013,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Why the gas price surge may be just the start - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1l4Wk1Pb3Z6eHhVWUZFc2d2Tmt2ZWRCelJIdWhBZWttWUNRUmZvNDAteVNpUzNmMXNrYkRqRzB1Ui1lRk4wUHBMODl0d2tyQU9XZmVQbndyeFF5MmJOaFNxS2ZjWFpWN1Jjd1gtblM0MDFyRndOUEVYTEhDa3NIYkhhRzRFMElDTkZDZ21ITGtaU1V4NC16bFpBcXotenRxdzhEVks1MzcyMnRvRFJ1eGdfRQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 24, 2026 · 06:23 BRT",
+          "pub_date": "2026-07-24",
+          "pub_ts": 1784885030,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war reignites debate over US energy-permitting reform - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaG5qOGVFa29WTHFjNno1MUxmNXZfVzBOQVVfN0EzaTVWWFBqOE5xTkl3QzZ5NGYxTUR1N2toVW1fZ2FnRVhlTVVLcy1vbXFkbnNYbFhjUmdRUlRkek9NMl9uOVhQVHZxSDBVSjRvQ1BzbXdFMmNiNEFYVUdGdGlvQVZ1Z0o?oc=5",

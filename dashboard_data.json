@@ -5580,7 +5580,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-24"
+      "pub_date": "2026-07-25"
     },
     "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz": {
       "summary": "Two oil tankers made U-turns a day after the Iranian-backed militant group in Yemen threatened traffic in another vital shipping route. President Trump said he expected to keep firing on Iran after trading attacks for 11 straight nights.",
@@ -5720,7 +5720,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-24"
+      "pub_date": "2026-07-25"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-escalation-cycle-8d90061e": {
       "summary": "",
@@ -5737,6 +5737,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-25"
+    },
+    "https://www.wsj.com/world/middle-east/iran-kheibar-shekan-missile-5776a6e4": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

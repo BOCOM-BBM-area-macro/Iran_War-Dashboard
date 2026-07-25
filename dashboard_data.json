@@ -5543,7 +5543,7 @@
       "pub_date": "2026-07-24"
     },
     "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html": {
-      "summary": "",
+      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5653,7 +5653,7 @@
       "pub_date": "2026-07-24"
     },
     "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html": {
-      "summary": "",
+      "summary": "President Trump has said he would expand the war if the Iran-backed Houthi militants launched additional attacks.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5697,6 +5697,36 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html": {
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil": {
+      "summary": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel.  Across the region, Iran and the United States continued to trade attacks.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-24"
+    },
+    "https://www.wsj.com/world/middle-east/iran-war-us-escalation-cycle-8d90061e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5856,7 +5886,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-24T11:09:45.036825+00:00",
   "last_generated_date": "2026-07-24",
-  "last_generated_time": "2026-07-24T22:01:56.774149+00:00",
+  "last_generated_time": "2026-07-24T23:01:53.840910+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

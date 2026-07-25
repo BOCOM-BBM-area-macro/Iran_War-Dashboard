@@ -3874,10 +3874,13 @@
       "pub_date": "2026-07-19"
     },
     "https://www.reuters.com/world/middle-east/us-launches-iran-strikes-ninth-day-another-american-confirmed-killed-2026-07-20/": {
-      "summary": "",
+      "summary": "After the Houthis announced their blockade, the Saudi-led coalition in Yemen said in a statement that it would respond to ​them with force.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "MTVID",
+        "MTPIX",
+        "CWP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4249,10 +4252,13 @@
       "pub_date": "2026-07-21"
     },
     "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops": {
-      "summary": "",
+      "summary": "Ten straight nights of U.S. bombing have failed to break Iran's grip on the Strait of Hormuz.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Diplomacy",
+        "Qatar",
+        "Mideast peace",
+        "Iran",
+        "White House"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4502,10 +4508,13 @@
       "pub_date": "2026-07-21"
     },
     "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-375-billion-so-far-pentagon-says-2026-07-21/": {
-      "summary": "",
+      "summary": "Defense Secretary Pete Hegseth faced skeptical lawmakers for the first time since heavy ‌bombings resumed to seek urgent funding for the unpopular conflict.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "COM",
+        "CRU",
+        "CWP",
+        "DEF",
+        "DIP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4748,10 +4757,13 @@
       "pub_date": "2026-07-22"
     },
     "https://www.reuters.com/world/middle-east/iran-war-drains-us-blood-treasure-2026-07-22/": {
-      "summary": "",
+      "summary": "The war between the U.S. and Iran shows few signs of providing a diplomatic off-ramp, with U.S. Secretary of State Marco Rubio declaring on Wednesday that Tehran \"is not serious about talks to end their war\" even as the conflict threatens to spread to two of the world's most vital energy chokepoints. Houthi warnings against Saudi shipping sent tankers carrying millions of barrels of crude into costly detours around the Red Sea this week, while Iran's parallel pressure ​on the Strait of Hormuz has pushed oil prices to near six-week highs and gasoline back above $4 a gallon in the U.S. — all as American strikes on Iran continued for an 11th straight ‌night and Tehran targeted U.S.-linked targets in Jordan and Bahrain.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "NEWSLETTER:GULF-CURRENT",
+        "REPI:GRID-INFRASTRUCTURE",
+        "TOPIC:ENERGY-TRANSITION",
+        "GRAPHC",
+        "MTGFX"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4972,10 +4984,13 @@
       "pub_date": "2026-07-22"
     },
     "https://www.axios.com/2026/07/23/b-1-bomber-iran-war": {
-      "summary": "",
+      "summary": "It marked a significant escalation of the U.S. military campaign.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Military",
+        "Iran",
+        "Aircraft",
+        "Air Force",
+        "Airstrikes"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5167,10 +5182,12 @@
       "pub_date": "2026-07-23"
     },
     "https://www.axios.com/2026/07/23/iran-war-powers-vote-house-republicans-trump": {
-      "summary": "",
+      "summary": "The 214-208 vote to direct Trump to end hostilities is largely symbolic.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Defense spending",
+        "Iran",
+        "House of Representatives",
+        "House Republicans"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5277,10 +5294,13 @@
       "pub_date": "2026-07-23"
     },
     "https://www.axios.com/2026/07/23/trump-axios-iran-interview": {
-      "summary": "",
+      "summary": "The president hasn't given himself a deadline on restarting attacks on Iran.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Donald Trump",
+        "Middle East conflict",
+        "Iran",
+        "Airstrikes",
+        "White House"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5563,10 +5583,13 @@
       "pub_date": "2026-07-24"
     },
     "https://www.reuters.com/world/china/trump-warns-china-russia-against-involvement-iran-war-2026-07-24/": {
-      "summary": "",
+      "summary": "U.S. President Donald Trump said on Friday that he trusted China and Russia not ​to help Iran in the conflict with the U.S., but warned that if ‌they did get involved \"it would be very bad for them.\"",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:PETROCHEMICALS",
+        "COM",
+        "CRU",
+        "CWP",
+        "DIP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5623,10 +5646,13 @@
       "pub_date": "2026-07-24"
     },
     "https://www.reuters.com/world/middle-east/yemen-teeters-towards-renewed-war-shadow-iran-conflict-2026-07-24/": {
-      "summary": "",
+      "summary": "Tensions are ​deepening in Yemen two weeks after the collapse of an interim truce meant to end the Iran war.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:GRID-INFRASTRUCTURE",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:MARKETS-RECOMMENDED",
+        "TOPIC:ENERGY-TRANSITION"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5683,10 +5709,9 @@
       "pub_date": "2026-07-25"
     },
     "https://www.reuters.com/pictures/faces-fallen-us-service-members-killed-iran-war-2026-07-24/": {
-      "summary": "",
+      "summary": "The eighteen U.S. service members who have been killed during the war with Iran.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "HERO:COLLAGE"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5917,7 +5942,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-25T11:09:44.826535+00:00",
   "last_generated_date": "2026-07-25",
-  "last_generated_time": "2026-07-25T08:01:58.377176+00:00",
+  "last_generated_time": "2026-07-25T09:02:28.285617+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

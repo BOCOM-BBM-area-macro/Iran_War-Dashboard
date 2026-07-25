@@ -4518,7 +4518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
       "summary": "",
@@ -5745,7 +5745,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-25"
+      "pub_date": "2026-07-24"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-escalation-cycle-8d90061e": {
       "summary": "",
@@ -5788,6 +5788,16 @@
       "pub_date": "2026-07-25"
     },
     "https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-25"
+    },
+    "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html": {
       "summary": "",
       "tags": [
         "extracted",
@@ -5952,7 +5962,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-25T11:09:44.826535+00:00",
   "last_generated_date": "2026-07-25",
-  "last_generated_time": "2026-07-25T10:01:52.102105+00:00",
+  "last_generated_time": "2026-07-25T11:01:59.211402+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

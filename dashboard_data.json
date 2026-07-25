@@ -5745,7 +5745,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-24"
+      "pub_date": "2026-07-25"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-escalation-cycle-8d90061e": {
       "summary": "",
@@ -5782,6 +5782,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-25"
+    },
+    "https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5942,12 +5952,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-25T11:09:44.826535+00:00",
   "last_generated_date": "2026-07-25",
-  "last_generated_time": "2026-07-25T09:02:28.285617+00:00",
+  "last_generated_time": "2026-07-25T10:01:52.102105+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war, tariffs raise new risks for a resilient U.S. economy - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZERrdThNdjQxcE5icld5alRtRm1mbjNYSXpYR0dEWkRreTJkc2MyMTRiZk9TSlpkejBINVdPN1NfVU43MktNLWRlOS1ubTBTdzBIUlppTDFmejVuT1hKb0Z1dDVGcDlGV0R3VGQzS3FXR0ZRS2xGanktLXQ1UFVsX18tSnMzeWdCRGdTNTJJTlNmek5WUHBPd0djRDhJR1V5bHZOR09SRy0?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 25, 2026 · 08:32 BRT",
+          "pub_date": "2026-07-25",
+          "pub_ts": 1784979130,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekVNZHhVQkF4WWRNNm84S0JDZWJ1U3ZJRl85dFBtdV9DNlFSZGhtTGxIZll4aWRMZDVGd3JFX0hfWFR2SEwxUlVLOXR6NlNrQ3RPOUpBbm1qZERuVG1VM0FyY0NKNFZvZGtwV3VjU3BBSE5IeDV6dEpYYnYybnM3Zg?oc=5",

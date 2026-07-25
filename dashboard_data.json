@@ -5818,7 +5818,7 @@
       "pub_date": "2026-07-25"
     },
     "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html": {
-      "summary": "",
+      "summary": "Nearly all of the agreement’s 14 points have been violated.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5838,10 +5838,13 @@
       "pub_date": "2026-07-25"
     },
     "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes": {
-      "summary": "",
+      "summary": "The no-strike decision broke a 13-day streak.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Donald Trump",
+        "Trump vs media",
+        "Foreign policy",
+        "White House",
+        "Dealmaking"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5912,6 +5915,39 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-25"
+    },
+    "https://www.reuters.com/world/uk/britain-would-be-target-if-it-supports-us-war-irans-revolutionary-guards-say-2026-07-25/": {
+      "summary": "A spokesperson for Iran's ​Revolutionary Guards said ‌on Saturday that Britain would become ​a \"definite and ​legitimate target\" if it ⁠supported the ​U.S. in any ​war with Tehran, according to Iranian state ​broadcaster IRIB.",
+      "tags": [
+        "REPI:GOVERNANCE",
+        "COEN",
+        "COM",
+        "CRU",
+        "CWP"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-25"
+    },
+    "https://www.washingtonpost.com/politics/2026/07/25/katy-perry-appalled-that-white-house-used-her-song-video-about-bombing-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-25"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-25/us-pauses-nightly-strikes-on-iran-as-houthis-clash-with-saudis": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -6072,7 +6108,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-25T11:09:44.826535+00:00",
   "last_generated_date": "2026-07-25",
-  "last_generated_time": "2026-07-25T17:01:55.478044+00:00",
+  "last_generated_time": "2026-07-25T18:02:08.644524+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

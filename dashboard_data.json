@@ -5971,7 +5971,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-25"
+      "pub_date": "2026-07-26"
     },
     "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1": {
       "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
@@ -6137,13 +6137,23 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-25"
     },
     "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1": {
       "summary": "Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war",
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
+    },
+    "https://www.wsj.com/articles/unreleased-documentary-offers-a-look-at-lindsey-grahams-iran-campaign-1c43a479": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -6305,7 +6315,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-26T11:11:22.966142+00:00",
   "last_generated_date": "2026-07-26",
-  "last_generated_time": "2026-07-26T10:01:55.528980+00:00",
+  "last_generated_time": "2026-07-26T11:02:01.598853+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

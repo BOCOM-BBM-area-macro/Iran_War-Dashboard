@@ -5745,7 +5745,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-25"
+      "pub_date": "2026-07-24"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-escalation-cycle-8d90061e": {
       "summary": "",
@@ -6054,7 +6054,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-25"
     },
     "https://www.timesofisrael.com/liveblog_entry/iran-army-says-war-to-expand-further-if-us-attacks-restart/": {
       "summary": "",
@@ -6085,133 +6085,76 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-26"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-07-25T11:09:36.524013+00:00",
-  "digest": {
-    "digest": "The United States and Iran are engaged in a cycle of military escalation, with both sides exchanging strikes. President Trump is reportedly weighing a wider offensive and has met with top advisers to discuss potential major escalations, though he has characterized any U.S.-Israeli involvement as a short \"excursion.\" Discussions regarding the conflict have occurred in the White House, preceding a meeting with Israeli Prime Minister Netanyahu. Iran has rejected a U.S. cease-fire offer delivered via Iraq, indicating a diplomatic stalemate. The conflict is also creating new risks for the U.S. economy, with soaring oil and gas prices exacerbated by new global tariffs. The war has also opened new fronts, with Houthi militants launching attacks, prompting retaliation from Bahrain and Kuwaiti warplanes against Iran. The ongoing conflict has resulted in U.S. service member fatalities, and its duration, now nearing five months with no clear end in sight, is causing frustration. The potential for a prolonged conflict and its impact on U.S. forces and upcoming elections are significant considerations.",
-    "top_themes": [
-      "US-Iran Military Escalation",
-      "Economic Impact of Conflict",
-      "Diplomatic Efforts and Stalemates"
-    ],
-    "next_events": [
-      {
-        "title": "US Policy Direction and De-escalation Efforts",
-        "description": "President Trump is reportedly losing patience with the ongoing conflict and weighing options ranging from intensified strikes to diplomacy. Analysts should monitor White House discussions, statements, and any potential shifts in strategy, especially regarding future cease-fire proposals or diplomatic overtures, following Iran's rejection of a previous offer."
-      },
-      {
-        "title": "Escalation of the Yemen Front",
-        "description": "The Houthi militants have opened a new front in the conflict, with President Trump threatening to expand the war if additional attacks are launched. Watch for further Houthi actions and the U.S. response, as this could significantly strain U.S. forces and broaden the geographical scope of the conflict."
-      },
-      {
-        "title": "Economic Impact and Global Market Volatility",
-        "description": "Renewed fighting with Iran has already sent oil and gas prices soaring, compounded by new global tariffs imposed by President Trump. Analysts should closely monitor energy markets, inflation indicators, and the broader U.S. and global economic resilience as these factors could further destabilize the economy."
-      },
-      {
-        "title": "Regional Allies' Involvement and Iran's Military Capabilities",
-        "description": "Recent reports indicate Bahrain and Kuwait have engaged Iran, signaling potential for wider regional military involvement. Simultaneously, Iran's advanced missile capabilities are becoming more dangerous, raising concerns about the type and scale of future Iranian retaliatory strikes and the overall cycle of military escalation."
-      },
-      {
-        "title": "US-Israel Coordination and Strategic Alignment",
-        "description": "A planned meeting between President Trump and Prime Minister Benjamin Netanyahu of Israel is imminent, following ongoing discussions within the U.S. cabinet. This meeting could be crucial in shaping the next phase of the conflict, potentially leading to intensified joint strategies or coordinated actions against Iran."
-      },
-      {
-        "title": "Influence of Russia and China on Iran",
-        "description": "President Trump has stated he trusts Russia and China's leaders not to enable Iran. Analysts should observe any diplomatic or material support (or lack thereof) from these major powers, as their stance could significantly impact Iran's ability to sustain the conflict or engage in de-escalation."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-07-25T11:09:44.341237+00:00",
-  "relevant_news": [
-    {
-      "title": "The U.S. and Iran Are Stuck in a Cycle of Military Escalation - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-war-us-escalation-cycle-8d90061e",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 24, 2026 · 23:14 BRT",
-      "pub_date": "2026-07-24",
-      "pub_ts": 1784945640,
+    },
+    "https://www.wsj.com/politics/national-security/lindsey-graham-iran-war-netanyahu-call-598b1e85": {
       "summary": "",
       "tags": [
         "extracted",
         "wsj.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
     },
-    {
-      "title": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 24, 2026 · 20:30 BRT",
-      "pub_date": "2026-07-24",
-      "pub_ts": 1784935846,
-      "summary": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel.  Across the region, Iran and the United States continued to trade attacks.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 24, 2026 · 18:26 BRT",
-      "pub_date": "2026-07-24",
-      "pub_ts": 1784928384,
-      "summary": "President Trump has said he would expand the war if the Iran-backed Houthi militants launched additional attacks.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 24, 2026 · 18:41 BRT",
-      "pub_date": "2026-07-24",
-      "pub_ts": 1784929272,
-      "summary": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has now lasted nearly five months, with no end in sight.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US, Iran Exchange Strikes as Trump Mulls Wider Offensive - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/trump-weighs-wider-iranian-attacks-with-new-truce-still-elusive",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 25, 2026 · 01:42 BRT",
-      "pub_date": "2026-07-25",
-      "pub_ts": 1784954520,
+    "https://www.washingtonpost.com/opinions/2026/07/26/trumps-iran-attack-latest-chapter-congresss-loss-war-power/": {
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-07-26T11:11:14.562675+00:00",
+  "digest": {
+    "digest": "The United States has paused nightly strikes against Iran for two consecutive days, breaking a 13-day streak of offensive actions. This pause follows a period of increased US-Iran strikes that have now abated, marking a significant crossroads in the conflict. The war has demonstrably expanded beyond direct US-Iran engagements, with the Houthis claiming attacks on Saudi oil refineries and the conflict spreading to the Red Sea and Caspian Sea regions, while the Gulf remains quiet. Iran's Revolutionary Guards have issued a direct threat, stating Britain would become a legitimate target if it supports the US in any war with Tehran. President Trump appears to be holding off on major war escalation against Iran, with advisers raising concerns and the President reportedly ordering the military not to conduct strikes on a recent Friday. Discussions within the White House have also centered on the depletion of US interceptor missiles, particularly following the deaths of three US soldiers in Jordan. Simultaneously, President Trump is reportedly swinging back toward diplomacy in the escalating war with Iran, indicating a potential shift in strategy. The Iranian army has also stated that the war will expand further if US attacks restart, underscoring the volatile diplomatic stance of the involved parties.",
+    "top_themes": [
+      "US-Iran Conflict Dynamics",
+      "Regional Spillover",
+      "US Policy Shifts"
+    ],
+    "next_events": [
+      {
+        "title": "Sustainability of US De-escalation",
+        "description": "Recent reports indicate repeated pauses in US strikes against Iran and a reluctance by the Trump administration to escalate. Analysts should monitor whether this de-escalation trend holds, indicating a shift towards diplomatic solutions, or if it's a temporary lull before renewed military action."
+      },
+      {
+        "title": "Regional Conflict Expansion and Proxy Actions",
+        "description": "Despite US pauses, the conflict has shown signs of spreading to areas like the Red Sea and Caspian, with Houthi attacks on Saudi oil. Watch for continued or new proxy engagements and attacks in the broader Middle East, as these could trigger a wider regional conflict even without direct US-Iran confrontation."
+      },
+      {
+        "title": "Iran's Retaliatory Actions and Red Lines",
+        "description": "Iran has explicitly stated that war will 'expand further' if US attacks restart and has threatened allies like Britain. Analysts should closely observe any Iranian military responses or threats following perceived provocations or renewed US military activity, as these will indicate their escalation thresholds and potential targets."
+      },
+      {
+        "title": "US Military Resource Constraints",
+        "description": "Discussions within the White House have highlighted concerns over the depletion of US interceptor missiles, particularly after recent incidents. This resource constraint could influence future US military strategy and willingness to engage, so monitor any public or leaked information regarding US military readiness and resupply efforts."
+      },
+      {
+        "title": "Internal US Political Pressure on Iran Policy",
+        "description": "The influence of figures like Senator Graham pushing for war and concerns among Trump's advisors about escalation are evident. Watch for shifts in internal US political consensus, Congressional actions regarding war powers, and the impact of these dynamics on the administration's Iran policy."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-07-26T11:11:21.960283+00:00",
+  "relevant_news": [
+    {
+      "title": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 25, 2026 · 22:26 BRT",
+      "pub_date": "2026-07-25",
+      "pub_ts": 1785029219,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -6219,14 +6162,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Faces of the fallen: U.S. service members killed in the Iran war - Reuters",
-      "url": "https://www.reuters.com/pictures/faces-fallen-us-service-members-killed-iran-war-2026-07-24/",
+      "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-war-spreads-red-sea-caspian-gulf-quiet-us-forgoes-strikes-2026-07-25/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 24, 2026 · 18:00 BRT",
-      "pub_date": "2026-07-24",
-      "pub_ts": 1784926800,
+      "published": "Jul 25, 2026 · 20:18 BRT",
+      "pub_date": "2026-07-25",
+      "pub_ts": 1785021480,
       "summary": "",
       "tags": [
         "extracted",
@@ -6236,12 +6179,90 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "U.S.-Iran War Pauses for 2nd Straight Day - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 26, 2026 · 06:53 BRT",
+      "pub_date": "2026-07-26",
+      "pub_ts": 1785059585,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Jul 26, 2026 · 00:14 BRT",
+      "pub_date": "2026-07-26",
+      "pub_ts": 1785035659,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say - Reuters",
+      "url": "https://www.reuters.com/world/uk/britain-would-be-target-if-it-supports-us-war-irans-revolutionary-guards-say-2026-07-25/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 25, 2026 · 17:21 BRT",
+      "pub_date": "2026-07-25",
+      "pub_ts": 1785010889,
+      "summary": "A spokesperson for Iran's ​Revolutionary Guards said ‌on Saturday that Britain would become ​a \"definite and ​legitimate target\" if it ⁠supported the ​U.S. in any ​war with Tehran, according to Iranian state ​broadcaster IRIB.",
+      "tags": [
+        "REPI:GOVERNANCE",
+        "COEN",
+        "COM",
+        "CRU",
+        "CWP"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Military Families Express Outrage After Pentagon Lowers Number of U.S. Troop Deaths in Iran War - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 25, 2026 · 15:34 BRT",
+      "pub_date": "2026-07-25",
+      "pub_ts": 1785004476,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-25T11:09:44.826535+00:00",
-  "last_generated_date": "2026-07-25",
-  "last_generated_time": "2026-07-25T23:01:58.509279+00:00",
+  "last_relevant_time": "2026-07-26T11:11:22.966142+00:00",
+  "last_generated_date": "2026-07-26",
+  "last_generated_time": "2026-07-26T08:02:12.894958+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -6181,6 +6181,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-26"
+    },
+    "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
+    },
+    "https://www.washingtonpost.com/national-security/2026/07/26/trump-giving-us-iran-talks-some-space-amid-pause-attacks-aide-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
+    },
+    "https://www.jpost.com/opinion/article-903293": {
+      "summary": "From Tehran’s perspective, political constraints on US President Donald Trump and the United States ultimately work in Iran’s favor, reinforcing its belief that it can outlast Washington’s resolve.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
     }
   },
   "last_digest_success": true,
@@ -6338,7 +6371,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-26T11:11:22.966142+00:00",
   "last_generated_date": "2026-07-26",
-  "last_generated_time": "2026-07-26T14:02:10.047433+00:00",
+  "last_generated_time": "2026-07-26T15:01:58.714196+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -4518,7 +4518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
       "summary": "",
@@ -6105,6 +6105,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-26"
+    },
+    "https://www.timesofisrael.com/iran-threatens-to-expand-war-if-us-resumes-strikes-which-it-says-israel-is-pushing-for/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
+    },
+    "https://www.jpost.com/middle-east/article-903663": {
+      "summary": "The sales generated more than 60% of the oil revenue forecast in Iran's annual budget, Iranian Oil Minister Paknejad said.",
+      "tags": [
+        "Iran",
+        "China",
+        "sanctions",
+        "oil",
+        "sanctions against iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
     }
   },
   "last_digest_success": true,
@@ -6262,12 +6285,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-26T11:11:22.966142+00:00",
   "last_generated_date": "2026-07-26",
-  "last_generated_time": "2026-07-26T08:02:12.894958+00:00",
+  "last_generated_time": "2026-07-26T09:02:00.236220+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 25, 2026 · 20:18 BRT",
+          "pub_date": "2026-07-25",
+          "pub_ts": 1785021480,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpNZ2psN29sT085Yy0tT0xweWpLcTBRbUxaVlRGS1hJVFRHc3R0QjdlSWEybjlnNmtKYXM4WjQxaG9neGFqZkNrUEthVHJsQ2VEM0VEX2hJc2tIcHNZT0tEV3JQRUtrbk9YT0dGOGo0T0VVbUVkOVZaS29hWHRBcUw0QkJ4VjlSc2h6czhXWGRkT2xiMkJJUlBkcENSX0VjQndrSjJlT25vS2FFSVA4WE5B?oc=5",

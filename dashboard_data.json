@@ -6077,7 +6077,7 @@
       "pub_date": "2026-07-26"
     },
     "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html": {
-      "summary": "",
+      "summary": "President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6247,6 +6247,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-26"
+    },
+    "https://www.axios.com/2026/07/26/democrats-america-first-trump-2028": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
     }
   },
   "last_digest_success": true,
@@ -6404,7 +6414,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-26T11:11:22.966142+00:00",
   "last_generated_date": "2026-07-26",
-  "last_generated_time": "2026-07-26T19:01:58.401404+00:00",
+  "last_generated_time": "2026-07-26T20:03:11.097973+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

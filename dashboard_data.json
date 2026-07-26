@@ -4518,7 +4518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
       "summary": "",
@@ -5815,7 +5815,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-25"
+      "pub_date": "2026-07-26"
     },
     "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html": {
       "summary": "Nearly all of the agreement’s 14 points have been violated.",
@@ -6015,6 +6015,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-25"
+    },
+    "https://www.washingtonpost.com/world/2026/07/25/whales-environment-wildlife-africa-iran-war/83d1f78e-8899-11f1-9cec-0fb26676f07e_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
+    },
+    "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-23"
     }
   },
   "last_digest_success": true,

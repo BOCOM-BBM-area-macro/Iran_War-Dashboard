@@ -5971,7 +5971,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-25"
     },
     "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1": {
       "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
@@ -6400,6 +6400,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-27/pakistan-holds-key-interest-rate-as-iran-war-clouds-outlook": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
     }
   },
   "last_digest_success": true,
@@ -6554,7 +6564,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-27T11:07:56.251003+00:00",
   "last_generated_date": "2026-07-27",
-  "last_generated_time": "2026-07-27T08:02:01.413224+00:00",
+  "last_generated_time": "2026-07-27T09:01:59.033241+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

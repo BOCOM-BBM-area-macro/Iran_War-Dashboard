@@ -4598,7 +4598,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-21"
     },
     "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html": {
       "summary": "",
@@ -5971,7 +5971,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-25"
+      "pub_date": "2026-07-26"
     },
     "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1": {
       "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
@@ -6054,7 +6054,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-25"
+      "pub_date": "2026-07-26"
     },
     "https://www.timesofisrael.com/liveblog_entry/iran-army-says-war-to-expand-further-if-us-attacks-restart/": {
       "summary": "",
@@ -6256,7 +6256,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-27"
     },
     "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html": {
       "summary": "",
@@ -6377,71 +6377,94 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-27"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-07-26T11:11:14.562675+00:00",
-  "digest": {
-    "digest": "The United States has paused nightly strikes against Iran for two consecutive days, breaking a 13-day streak of offensive actions. This pause follows a period of increased US-Iran strikes that have now abated, marking a significant crossroads in the conflict. The war has demonstrably expanded beyond direct US-Iran engagements, with the Houthis claiming attacks on Saudi oil refineries and the conflict spreading to the Red Sea and Caspian Sea regions, while the Gulf remains quiet. Iran's Revolutionary Guards have issued a direct threat, stating Britain would become a legitimate target if it supports the US in any war with Tehran. President Trump appears to be holding off on major war escalation against Iran, with advisers raising concerns and the President reportedly ordering the military not to conduct strikes on a recent Friday. Discussions within the White House have also centered on the depletion of US interceptor missiles, particularly following the deaths of three US soldiers in Jordan. Simultaneously, President Trump is reportedly swinging back toward diplomacy in the escalating war with Iran, indicating a potential shift in strategy. The Iranian army has also stated that the war will expand further if US attacks restart, underscoring the volatile diplomatic stance of the involved parties.",
-    "top_themes": [
-      "US-Iran Conflict Dynamics",
-      "Regional Spillover",
-      "US Policy Shifts"
-    ],
-    "next_events": [
-      {
-        "title": "Sustainability of US De-escalation",
-        "description": "Recent reports indicate repeated pauses in US strikes against Iran and a reluctance by the Trump administration to escalate. Analysts should monitor whether this de-escalation trend holds, indicating a shift towards diplomatic solutions, or if it's a temporary lull before renewed military action."
-      },
-      {
-        "title": "Regional Conflict Expansion and Proxy Actions",
-        "description": "Despite US pauses, the conflict has shown signs of spreading to areas like the Red Sea and Caspian, with Houthi attacks on Saudi oil. Watch for continued or new proxy engagements and attacks in the broader Middle East, as these could trigger a wider regional conflict even without direct US-Iran confrontation."
-      },
-      {
-        "title": "Iran's Retaliatory Actions and Red Lines",
-        "description": "Iran has explicitly stated that war will 'expand further' if US attacks restart and has threatened allies like Britain. Analysts should closely observe any Iranian military responses or threats following perceived provocations or renewed US military activity, as these will indicate their escalation thresholds and potential targets."
-      },
-      {
-        "title": "US Military Resource Constraints",
-        "description": "Discussions within the White House have highlighted concerns over the depletion of US interceptor missiles, particularly after recent incidents. This resource constraint could influence future US military strategy and willingness to engage, so monitor any public or leaked information regarding US military readiness and resupply efforts."
-      },
-      {
-        "title": "Internal US Political Pressure on Iran Policy",
-        "description": "The influence of figures like Senator Graham pushing for war and concerns among Trump's advisors about escalation are evident. Watch for shifts in internal US political consensus, Congressional actions regarding war powers, and the impact of these dynamics on the administration's Iran policy."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-07-26T11:11:21.960283+00:00",
-  "relevant_news": [
-    {
-      "title": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 25, 2026 · 22:26 BRT",
-      "pub_date": "2026-07-25",
-      "pub_ts": 1785029219,
+    },
+    "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html": {
       "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-903777": {
+      "summary": "Former senior defense official Avner Vilan said on Monday that Washington and Tehran remain caught between an agreement and full-scale war, while renewed fighting could intensify criticism of Israel.",
+      "tags": [
+        "Iran US Conflict",
+        "israel defense news",
+        "Israel Iran War",
+        "us iran",
+        "us israel iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-07-27T11:07:47.782951+00:00",
+  "digest": {
+    "digest": "Hostilities between the United States and Iran have paused for at least two consecutive days, leading to a drop in oil prices and a gain in Gulf stocks as markets anticipate de-escalation. This pause in fighting was reportedly influenced by US concerns over dwindling air defense munitions stockpiles. Iran has stated it will halt strikes as long as the US bombing pause holds, and Iran asserts continued control over the Strait of Hormuz. Diplomatic efforts are ongoing, with Oman reportedly holding talks related to the Strait of Hormuz. While the immediate conflict has abated, some experts warn that the situation remains a fragile status quo between potential agreement and full-scale war, with neither side fully satisfied. There are also concerns that renewed strikes could be blamed on Israel if they fail, potentially impacting its international standing and driving up fuel prices. The US administration's room for maneuver in reaching an agreement is seen as narrowed, with expectations for Iranian concessions that may not materialize. The overall situation suggests a complex geopolitical dynamic where immediate military actions are being weighed against strategic outcomes and resource limitations.",
+    "top_themes": [
+      "De-escalation of US-Iran hostilities",
+      "US concerns over munitions stockpiles",
+      "Market reactions to conflict pause",
+      "Strait of Hormuz control and diplomacy"
+    ],
+    "next_events": [
+      {
+        "title": "Durability of the US-Iran De-escalation",
+        "description": "The current pause in strikes is a critical development, but its longevity is uncertain. Analysts should closely monitor any rhetoric or actions from either the US or Iran that could signal a breakdown of this temporary de-escalation, as a return to hostilities remains a significant risk."
+      },
+      {
+        "title": "US Air Defense Munitions Stockpile Replenishment",
+        "description": "Reports indicate that dwindling stockpiles of air defense interceptor missiles influenced the US decision to hold off on major escalation. Watch for any official statements or procurement efforts regarding the replenishment of these munitions, as their availability could impact future US military posture and options in the region."
+      },
+      {
+        "title": "Outcome of Netanyahu-Trump Meeting",
+        "description": "The upcoming meeting between Israeli Prime Minister Netanyahu and US President Trump is a key event. Analysts should observe if Netanyahu attempts to persuade Trump to renew strikes against Iran and how Trump responds, as this interaction could significantly influence the fragile status quo and potentially reignite conflict."
+      },
+      {
+        "title": "Progress in Diplomatic Engagements and Concessions",
+        "description": "With Oman reportedly holding talks, watch for any signs of progress in diplomatic efforts to formalize the pause or achieve a broader agreement. Iran's stated unwillingness to make significant concessions, as highlighted by experts, will be a crucial factor determining the viability of any diplomatic resolution."
+      },
+      {
+        "title": "Global Energy Market Reactions",
+        "description": "Oil prices dropped during the pause in fighting, but renewed conflict would likely cause them to soar. Monitor global energy markets for price fluctuations and supply chain adjustments, as they will serve as a direct indicator of the perceived stability or instability of the US-Iran situation and its broader economic impact."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-07-27T11:07:55.642033+00:00",
+  "relevant_news": [
+    {
+      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 26, 2026 · 10:57 BRT",
+      "pub_date": "2026-07-26",
+      "pub_ts": 1785074220,
+      "summary": "Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-war-spreads-red-sea-caspian-gulf-quiet-us-forgoes-strikes-2026-07-25/",
+      "title": "Iran says it still controls strait, not seeking talks, after Trump halts bombing - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-it-still-controls-strait-not-seeking-talks-after-trump-halts-bombing-2026-07-27/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 25, 2026 · 20:18 BRT",
-      "pub_date": "2026-07-25",
-      "pub_ts": 1785021480,
+      "published": "Jul 27, 2026 · 07:10 BRT",
+      "pub_date": "2026-07-27",
+      "pub_ts": 1785147022,
       "summary": "",
       "tags": [
         "extracted",
@@ -6453,77 +6476,74 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S.-Iran War Pauses for 2nd Straight Day - The New York Times",
+      "title": "Oil Prices Drop After U.S. and Iran Pause Fighting for a Second Day - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 27, 2026 · 06:01 BRT",
+      "pub_date": "2026-07-27",
+      "pub_ts": 1785142860,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 26, 2026 · 13:17 BRT",
+      "pub_date": "2026-07-26",
+      "pub_ts": 1785082620,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes - The New York Times",
       "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 26, 2026 · 06:53 BRT",
+      "published": "Jul 26, 2026 · 09:49 BRT",
       "pub_date": "2026-07-26",
-      "pub_ts": 1785059585,
-      "summary": "",
+      "pub_ts": 1785070155,
+      "summary": "President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 26, 2026 · 00:14 BRT",
-      "pub_date": "2026-07-26",
-      "pub_ts": 1785035659,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say - Reuters",
-      "url": "https://www.reuters.com/world/uk/britain-would-be-target-if-it-supports-us-war-irans-revolutionary-guards-say-2026-07-25/",
+      "title": "Iran says it will halt strikes as long as US bombing pause holds - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 25, 2026 · 17:21 BRT",
-      "pub_date": "2026-07-25",
-      "pub_ts": 1785010889,
-      "summary": "A spokesperson for Iran's ​Revolutionary Guards said ‌on Saturday that Britain would become ​a \"definite and ​legitimate target\" if it ⁠supported the ​U.S. in any ​war with Tehran, according to Iranian state ​broadcaster IRIB.",
-      "tags": [
-        "REPI:GOVERNANCE",
-        "COEN",
-        "COM",
-        "CRU",
-        "CWP"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Military Families Express Outrage After Pentagon Lowers Number of U.S. Troop Deaths in Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 25, 2026 · 15:34 BRT",
-      "pub_date": "2026-07-25",
-      "pub_ts": 1785004476,
+      "published": "Jul 26, 2026 · 11:47 BRT",
+      "pub_date": "2026-07-26",
+      "pub_ts": 1785077220,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -6532,9 +6552,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-26T11:11:22.966142+00:00",
-  "last_generated_date": "2026-07-26",
-  "last_generated_time": "2026-07-26T23:02:00.385849+00:00",
+  "last_relevant_time": "2026-07-27T11:07:56.251003+00:00",
+  "last_generated_date": "2026-07-27",
+  "last_generated_time": "2026-07-27T08:02:01.413224+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6591,6 +6611,20 @@
           "published": "Jul 26, 2026 · 19:11 BRT",
           "pub_date": "2026-07-26",
           "pub_ts": 1785103860,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPems4eWFxMUp2N21pajlRbUEtUHBBbVBKU0pUcTNfWW1abGRHTnJVbU95aVhITERhdVM0aE93dHM2UXZjLTk2Ri1iZG9EZ0tVVDZ6UktwZXo0YVF4VmdsbGx0QWhXQ2FZUHQ3THVha2cyekpXZllTa2lTMTY1dHhuQjVERQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 26, 2026 · 06:01 BRT",
+          "pub_date": "2026-07-26",
+          "pub_ts": 1785056511,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

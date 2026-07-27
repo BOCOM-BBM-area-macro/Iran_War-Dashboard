@@ -32,7 +32,7 @@ Downloading dateparser-1.4.1-py3-none-any.whl (300 kB)
 Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
 Downloading pytz-2026.3.post1-py2.py3-none-any.whl (508 kB)
 Downloading regex-2026.7.19-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (793 kB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 793.5/793.5 kB 101.0 MB/s  0:00:00
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 793.5/793.5 kB 48.8 MB/s  0:00:00
 Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
 Downloading soupsieve-2.9.1-py3-none-any.whl (37 kB)
 Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
@@ -40,7 +40,7 @@ Downloading tzlocal-5.4.4-py3-none-any.whl (18 kB)
 Building wheels for collected packages: sgmllib3k
   Building wheel for sgmllib3k (pyproject.toml): started
   Building wheel for sgmllib3k (pyproject.toml): finished with status 'done'
-  Created wheel for sgmllib3k: filename=sgmllib3k-1.0.0-py3-none-any.whl size=6089 sha256=c33d2862a33bf4809b856a09672dddce1f3742e3dba9fe6b752df0717742c712
+  Created wheel for sgmllib3k: filename=sgmllib3k-1.0.0-py3-none-any.whl size=6089 sha256=064f4bca2d168b7f00827e790878b59e5f7d27db6ff6b14bbaf12dcf8db6fba3
   Stored in directory: /home/runner/.cache/pip/wheels/f0/69/93/a47e9d621be168e9e33c7ce60524393c0b92ae83cf6c6e89c5
 Successfully built sgmllib3k
 Installing collected packages: sgmllib3k, pytz, tzlocal, typing-extensions, soupsieve, six, regex, feedparser, python-dateutil, beautifulsoup4, dateparser

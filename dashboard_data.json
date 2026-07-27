@@ -5971,7 +5971,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-25"
     },
     "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1": {
       "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
@@ -6313,6 +6313,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.reuters.com/world/china/global-markets-view-europe-2026-07-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -9151,6 +9171,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Iran War Forces Energy Buyers to ‘Unshackle’ From Global Markets - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFpNQ3NXSTFuaXdaMThKYS1NdDFrQkE2YVQyUTVvdkstSnZodHV2V2lqd1lFVklUSVJFd3M3czRMU3d5bFA2QWZxOHhQTjVCLTdZbUR2bmZmVUJad1V3cWpzWUV5dVlNdEp3S1pwVWNvVHlRel9ZRXBEeFNGeE02QzZ4eUE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 27, 2026 · 01:01 BRT",
+          "pub_date": "2026-07-27",
+          "pub_ts": 1785124870,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Why the gas price surge may be just the start - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1l4Wk1Pb3Z6eHhVWUZFc2d2Tmt2ZWRCelJIdWhBZWttWUNRUmZvNDAteVNpUzNmMXNrYkRqRzB1Ui1lRk4wUHBMODl0d2tyQU9XZmVQbndyeFF5MmJOaFNxS2ZjWFpWN1Jjd1gtblM0MDFyRndOUEVYTEhDa3NIYkhhRzRFMElDTkZDZ21ITGtaU1V4NC16bFpBcXotenRxdzhEVks1MzcyMnRvRFJ1eGdfRQ?oc=5",
           "source": "The Washington Post",
@@ -9902,6 +9936,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Wheat Extends July Rally as War Risks Stoke Fears Over Supply - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTE1nZFd6OHZYcW1xQ0hzWndjZzBHOUNCbjdKY2wyNW9oaHpualBJSFlsSS1ZdHV1VU4wdElmMVJIWVNfTjVISUQ4eGdOSkFWMTdYNExGZnNZbk5JdzVGdVJaVjVma2hnU0xXOGRfMGowa25vRlh6b3BMbnhkYVp2dVZUWXBwM1ozeVpub1NzT0YzMTZIZUhoWWNPMUpiRGFQS3pVVi1NMTRRTDZBSTlJdDNR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 24, 2026 · 08:11 BRT",
+          "pub_date": "2026-07-24",
+          "pub_ts": 1784891498,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Crop Prices Hit Three-Year High as Heat, War Stoke Supply Fears - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOW1RZl9VZXhaektVWllabG4xbWpHaTFGMk9KQWdIUFJzS2EzaERVd3BUNEdDZjZ2dDVaYXVMaUc2dVJ5ajFuMTJxbG12UTUyNkh3RWt6MGw3bk85cjJrY2I0Q2RPUHhuZUhqUzhKcE5SbjNpOEhKT255djlNaWxuZUU5RE9EWk4tT1NuOVkzT0VkVVgxMlN2NEc1d0dmNms2THZHbnhsQ0JVREZwRlp2d1dHd0VYeC1CdUd5VnhYTDhwZVk?oc=5",

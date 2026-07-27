@@ -6266,7 +6266,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-27"
     },
     "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html": {
       "summary": "",
@@ -6337,6 +6337,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-27"
+    },
+    "https://www.reuters.com/world/middle-east/gulf-stocks-gain-iran-war-de-escalation-hopes-outweigh-attacks-saudi-oil-sites-2026-07-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-26/us-pauses-iran-strikes-for-second-night-as-red-sea-tensions-rise": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-26"
     }
   },
   "last_digest_success": true,
@@ -10272,6 +10292,20 @@
           "published": "Jul 24, 2026 · 13:10 BRT",
           "pub_date": "2026-07-24",
           "pub_ts": 1784909421,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Aramco offers more crude oil cargoes from Mediterranean amid Red Sea threats, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnlLeFN2aDhyckNyeC1lNm5Hcm9hczVyS1FQdEZDSzh4a2VVRTliYzFOY05oaGFRZjBudEREdHRaTkdrV3JyRzFnWTVPMUhIclBKTzlMYktfdmFVcGlBZC1tWDluWkhvelFOYlpzZmN6bzFkVGJsUmFjTXVFTmtsS0ZzSnhSbjIwMnFDaVlWV1JwNUlXbjlidU9LZW1NV1dvSEphek1mT2h5Zm1jV2FzckxDQjlGTkRmeUhLWnZlejh1U1FyaExZaXBaMA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 23, 2026 · 11:59 BRT",
+          "pub_date": "2026-07-23",
+          "pub_ts": 1784818794,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

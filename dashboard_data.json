@@ -6276,7 +6276,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-27"
     },
     "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1": {
       "summary": "Brent opens lower after two weeks of escalating violence pushed crude to more than $100 a barrel",
@@ -6453,6 +6453,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-27"
+    },
+    "https://www.reuters.com/business/retail-consumer/lvmh-sales-rise-us-luxury-demand-offsets-hit-iran-war-2026-07-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-903821": {
+      "summary": "Trump's comments come as Prime Minister Benjamin Netanyahu heads to Washington for a meeting with the president, the Prime Minister's Office confirmed earlier on Monday.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "Tehran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.cbc.ca/news/world/us-iran-war-saudi-facilities-9.7285560": {
+      "summary": "Saudi Arabia, Jordan and Iraq reported drone attacks on Monday, two days after the United States abruptly suspended a ‌two-week campaign of airstrikes against Iran, as Tehran appeared to put U.S. President Donald Trump's latest strategic U-turn to the test.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
     }
   },
   "last_digest_success": true,
@@ -6607,7 +6640,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-27T11:07:56.251003+00:00",
   "last_generated_date": "2026-07-27",
-  "last_generated_time": "2026-07-27T13:01:49.166050+00:00",
+  "last_generated_time": "2026-07-27T14:02:02.385300+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

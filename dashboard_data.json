@@ -4518,7 +4518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
       "summary": "",
@@ -6578,6 +6578,16 @@
       "pub_date": "2026-07-27"
     },
     "https://www.nytimes.com/2026/07/27/us/politics/trump-backs-new-talks-with-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html": {
       "summary": "",
       "tags": [
         "extracted",

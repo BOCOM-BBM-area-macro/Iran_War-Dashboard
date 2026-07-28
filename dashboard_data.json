@@ -5477,7 +5477,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-23"
+      "pub_date": "2026-07-25"
     },
     "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html": {
       "summary": "",
@@ -6822,6 +6822,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-28"
+    },
+    "https://www.nytimes.com/video/business/energy-environment/100000011050115/red-sea-blockade-oil-route.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
     }
   },
   "last_digest_success": true,
@@ -6976,12 +6986,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-28T11:08:10.846634+00:00",
   "last_generated_date": "2026-07-28",
-  "last_generated_time": "2026-07-28T14:02:03.742188+00:00",
+  "last_generated_time": "2026-07-28T15:02:02.472011+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Video: The Iran War Just Put Another Key Oil Route at Risk - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFkzRkdmTnNZaV85aVY2TnpwaHJKa18tbmRBUVBSM1d2ZjhFd3A3Z292bFZhVnNpdjdpQmF1ck92bFhuVGxkal9sb19RNlJsQ3BSYl90Y1IzZW5fUlV3ZmNkYTI3SzRIOVJPTzF0Mk1pZmpEM2dyZzFMbmNHQjlveHN5aXFtb3RIV3pCaE4tQVBhQWhHY2pxUzJUMkhpWU11UWlXOTJHem8?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 28, 2026 · 14:13 BRT",
+          "pub_date": "2026-07-28",
+          "pub_ts": 1785258814,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Big Oil Is Raking In Billions From the Iran War. Can It Avoid Trump’s Fury? - WSJ",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNDBxSHhtTjdUMzR0emlWbllpc24xMlVJNW9WWVZqVHkxemFGSjVsU19oZW94X0Y4aGd5RnNDM3UyVHI0ZUpiSXJZQzdsWXFOVkJOTl9yUmVsX0JJUzJPbzhiRkxTMWhSOFI0cTJ5T3RvUExjMmVrelpmTkFxbEhJbXU4V3dGWVgxM0dZbEZFOGd1UEJKR1FTX0pYNFhxaUpPSkdPZGtzNEI4Z0RpaUI0SEFYQVFuak5MQkNRai1n?oc=5",

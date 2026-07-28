@@ -6595,7 +6595,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-27"
+      "pub_date": "2026-07-28"
     },
     "https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html": {
       "summary": "",
@@ -6719,54 +6719,83 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-28/german-economy-likely-to-grow-despite-iran-war-bundesbank-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-28/trump-talks-up-iran-diplomacy-as-negotiations-focus-on-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.reuters.com/investigations/regime-change-inside-reza-pahlavis-faltering-bid-lead-iran-2026-07-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-27T11:07:47.782951+00:00",
+  "last_digest_time": "2026-07-28T11:07:58.617475+00:00",
   "digest": {
-    "digest": "Hostilities between the United States and Iran have paused for at least two consecutive days, leading to a drop in oil prices and a gain in Gulf stocks as markets anticipate de-escalation. This pause in fighting was reportedly influenced by US concerns over dwindling air defense munitions stockpiles. Iran has stated it will halt strikes as long as the US bombing pause holds, and Iran asserts continued control over the Strait of Hormuz. Diplomatic efforts are ongoing, with Oman reportedly holding talks related to the Strait of Hormuz. While the immediate conflict has abated, some experts warn that the situation remains a fragile status quo between potential agreement and full-scale war, with neither side fully satisfied. There are also concerns that renewed strikes could be blamed on Israel if they fail, potentially impacting its international standing and driving up fuel prices. The US administration's room for maneuver in reaching an agreement is seen as narrowed, with expectations for Iranian concessions that may not materialize. The overall situation suggests a complex geopolitical dynamic where immediate military actions are being weighed against strategic outcomes and resource limitations.",
+    "digest": "The Iran War has entered its sixth month, marked by a period of heightened uncertainty and evolving diplomatic engagements. Recent reports indicate ongoing 'good talks' between the U.S. and Iran, though the specific objectives remain unclear. Simultaneously, Iran has demonstrated an adaptation in its missile warfare capabilities, launching precision strikes across the Gulf and Jordan. The conflict's economic repercussions are becoming more apparent, with rising oil prices and impacts on global supply chains, including the cost of street food in Asia and tourism in Southeast Asia. Shipping activity in the Bab el-Mandeb strait has seen an increase amid hopes for a resolution. Despite these challenges, the German economy is projected to grow, and discussions are focusing on the Strait of Hormuz. The UAE has pursued a strategy of rebuilding economic and diplomatic ties while strengthening defense links. A significant development involves Ukraine striking an Iranian supply line to Russia in the Caspian Sea, indicating a convergence of conflicts. Public opinion in the U.S. shows divided support for the war, with a majority unsure of the administration's goals. Iran, meanwhile, appears in no rush to return to negotiations, and there are internal efforts regarding potential regime change. A temporary pause in fighting between the U.S. and Iran has led to a dip in oil prices, highlighting the sensitivity of energy markets to the conflict's status.",
     "top_themes": [
-      "De-escalation of US-Iran hostilities",
-      "US concerns over munitions stockpiles",
-      "Market reactions to conflict pause",
-      "Strait of Hormuz control and diplomacy"
+      "Diplomatic Negotiations and Uncertainty",
+      "Economic Impacts of the Conflict",
+      "Military Actions and Regional Instability"
     ],
     "next_events": [
       {
-        "title": "Durability of the US-Iran De-escalation",
-        "description": "The current pause in strikes is a critical development, but its longevity is uncertain. Analysts should closely monitor any rhetoric or actions from either the US or Iran that could signal a breakdown of this temporary de-escalation, as a return to hostilities remains a significant risk."
+        "title": "Future of US-Iran Diplomacy and Sanctions",
+        "description": "Analysts should closely monitor the progress or breakdown of ongoing talks, particularly those involving Oman and the Strait of Hormuz. The interplay between the effectiveness of US sanctions and the potential for military action, especially given Trump's threats, will dictate the immediate trajectory of the conflict."
       },
       {
-        "title": "US Air Defense Munitions Stockpile Replenishment",
-        "description": "Reports indicate that dwindling stockpiles of air defense interceptor missiles influenced the US decision to hold off on major escalation. Watch for any official statements or procurement efforts regarding the replenishment of these munitions, as their availability could impact future US military posture and options in the region."
+        "title": "Escalation of Regional Proxy Conflicts and Iran's Military Responses",
+        "description": "Watch for any increase in precision strikes by Iran or its proxies across the Gulf and Jordan, as well as drone activity. The impact of the Ukraine war on Iranian supply lines and the ongoing Houthi-Saudi conflict are critical indicators of broader regional instability and Iran's evolving military strategy."
       },
       {
-        "title": "Outcome of Netanyahu-Trump Meeting",
-        "description": "The upcoming meeting between Israeli Prime Minister Netanyahu and US President Trump is a key event. Analysts should observe if Netanyahu attempts to persuade Trump to renew strikes against Iran and how Trump responds, as this interaction could significantly influence the fragile status quo and potentially reignite conflict."
+        "title": "Global Economic Impact and Stability of Key Shipping Lanes",
+        "description": "Observe fluctuations in oil prices, which have shown sensitivity to pauses in fighting, and the security of critical chokepoints like Bab el-Mandeb and the Strait of Hormuz. Changes in shipping volumes and global trade routes will reflect the war's broader economic ripple effects on international markets and tourism."
       },
       {
-        "title": "Progress in Diplomatic Engagements and Concessions",
-        "description": "With Oman reportedly holding talks, watch for any signs of progress in diplomatic efforts to formalize the pause or achieve a broader agreement. Iran's stated unwillingness to make significant concessions, as highlighted by experts, will be a crucial factor determining the viability of any diplomatic resolution."
+        "title": "Evolution of Regional Alliances and Diplomatic Strategies",
+        "description": "Pay close attention to how regional powers, such as the UAE, balance economic and diplomatic ties with Iran against deepening defense links with the US and Israel. Upcoming high-level meetings and diplomatic maneuvers could signal new strategic alignments or increased pressure on Iran."
       },
       {
-        "title": "Global Energy Market Reactions",
-        "description": "Oil prices dropped during the pause in fighting, but renewed conflict would likely cause them to soar. Monitor global energy markets for price fluctuations and supply chain adjustments, as they will serve as a direct indicator of the perceived stability or instability of the US-Iran situation and its broader economic impact."
+        "title": "Internal Political Dynamics within Iran",
+        "description": "While less prominent in recent reports, any developments regarding internal opposition movements or challenges to the current Iranian regime, such as Reza Pahlavi's efforts, could significantly influence Iran's foreign policy decisions and willingness to engage in international talks."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-27T11:07:55.642033+00:00",
+  "last_watch_time": "2026-07-28T11:08:06.976082+00:00",
   "relevant_news": [
     {
-      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+      "title": "Iran War Enters 6th Month and a Period of Greater Uncertainty - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 26, 2026 · 10:57 BRT",
-      "pub_date": "2026-07-26",
-      "pub_ts": 1785074220,
-      "summary": "Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.",
+      "published": "Jul 27, 2026 · 16:53 BRT",
+      "pub_date": "2026-07-27",
+      "pub_ts": 1785181981,
+      "summary": "Here is a rundown of the major events of the war, as both sides consider their next moves.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6776,14 +6805,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran says it still controls strait, not seeking talks, after Trump halts bombing - Reuters",
+      "title": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours - Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-says-it-still-controls-strait-not-seeking-talks-after-trump-halts-bombing-2026-07-27/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 27, 2026 · 07:10 BRT",
+      "published": "Jul 27, 2026 · 18:32 BRT",
       "pub_date": "2026-07-27",
-      "pub_ts": 1785147022,
+      "pub_ts": 1785187970,
       "summary": "",
       "tags": [
         "extracted",
@@ -6795,74 +6824,75 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil Prices Drop After U.S. and Iran Pause Fighting for a Second Day - The New York Times",
+      "title": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages - Reuters",
+      "url": "https://www.reuters.com/world/us/trump-host-netanyahu-zelenskiy-ukraine-iran-wars-reach-critical-stages-2026-07-28/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Jul 28, 2026 · 04:08 BRT",
+      "pub_date": "2026-07-28",
+      "pub_ts": 1785222491,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Two Wars Converge in the Caspian Sea as Ukraine Hits Iranian Supply Line to Russia - WSJ",
+      "url": "https://www.wsj.com/world/two-wars-converge-in-the-caspian-sea-as-ukraine-hits-iranian-supply-line-to-russia-e036fb27",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 27, 2026 · 14:45 BRT",
+      "pub_date": "2026-07-27",
+      "pub_ts": 1785174300,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 27, 2026 · 17:57 BRT",
+      "pub_date": "2026-07-27",
+      "pub_ts": 1785185827,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil Prices Sink After U.S. and Iran Pause Fighting a Second Day - The New York Times",
       "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 27, 2026 · 06:01 BRT",
+      "published": "Jul 27, 2026 · 17:28 BRT",
       "pub_date": "2026-07-27",
-      "pub_ts": 1785142860,
+      "pub_ts": 1785184080,
       "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 26, 2026 · 13:17 BRT",
-      "pub_date": "2026-07-26",
-      "pub_ts": 1785082620,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 26, 2026 · 09:49 BRT",
-      "pub_date": "2026-07-26",
-      "pub_ts": 1785070155,
-      "summary": "President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran says it will halt strikes as long as US bombing pause holds - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Jul 26, 2026 · 11:47 BRT",
-      "pub_date": "2026-07-26",
-      "pub_ts": 1785077220,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -6871,9 +6901,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-27T11:07:56.251003+00:00",
-  "last_generated_date": "2026-07-27",
-  "last_generated_time": "2026-07-27T23:01:56.015873+00:00",
+  "last_relevant_time": "2026-07-28T11:08:10.846634+00:00",
+  "last_generated_date": "2026-07-28",
+  "last_generated_time": "2026-07-28T08:02:04.602152+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

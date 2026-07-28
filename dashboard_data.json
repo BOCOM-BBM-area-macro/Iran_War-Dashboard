@@ -5470,14 +5470,14 @@
       "pub_date": "2026-07-24"
     },
     "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump": {
-      "summary": "",
+      "summary": "The prime minister of Iraq, who recently visited the White House, carried the proposal to Tehran. The U.S. military said it conducted a 13th consecutive night of strikes on Iran in the early hours of Friday local time.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-24"
+      "pub_date": "2026-07-23"
     },
     "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html": {
       "summary": "",
@@ -6180,7 +6180,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-27"
+      "pub_date": "2026-07-26"
     },
     "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran": {
       "summary": "",
@@ -6588,7 +6588,7 @@
       "pub_date": "2026-07-27"
     },
     "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html": {
-      "summary": "",
+      "summary": "Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6598,7 +6598,7 @@
       "pub_date": "2026-07-28"
     },
     "https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html": {
-      "summary": "",
+      "summary": "Some staple dishes in Asia are no longer as affordable to purchase or prepare. Customers and food sellers alike are feeling the pinch.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6608,7 +6608,7 @@
       "pub_date": "2026-07-28"
     },
     "https://www.nytimes.com/2026/07/28/world/asia/iran-war-southeast-asia-tourism.html": {
-      "summary": "",
+      "summary": "Soaring airfares and disruptions to Middle Eastern travel hubs are keeping many travelers away from destinations in Cambodia, Thailand and Indonesia.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6781,7 +6781,7 @@
       "pub_date": "2026-07-28"
     },
     "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html": {
-      "summary": "",
+      "summary": "The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6805,6 +6805,19 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.jpost.com/international/article-903925": {
+      "summary": "This comes amid reports of heightened tensions between Netanyahu and Trump over the Iran war.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "Ukraine",
+        "Iran nuclear"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -6963,7 +6976,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-28T11:08:10.846634+00:00",
   "last_generated_date": "2026-07-28",
-  "last_generated_time": "2026-07-28T13:02:10.712437+00:00",
+  "last_generated_time": "2026-07-28T14:02:03.742188+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7006,6 +7019,20 @@
           "published": "Jul 27, 2026 · 19:01 BRT",
           "pub_date": "2026-07-27",
           "pub_ts": 1785189660,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTcyMDhXSXVNVFp4QlpqSGdQc3ZqaFN0c1hYSml1ZWhZS1FXbVN1Ql8zYUllVkpETjdMbXNRWUV3eHVqZWFnYnlBY1pvTzQ0WGNESmRyOGhCaFU4dEZwQXptVEV6Q19xb2FBVGxuLWFmUUZ0c0hjRFAzZXJMN2RYd0diYnJQM1M0Ylp6NWp1M0NBMFlFWi1scUNFRGtJblVFUEJzWF9iRTY3QXY4OFZuWmM4Rk01NFF6REllM0NpSEVXVmd3OFc5bnc0ZFM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 27, 2026 · 18:32 BRT",
+          "pub_date": "2026-07-27",
+          "pub_ts": 1785187970,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -9522,6 +9549,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "U.S. officials believe sanctions could hurt Iran more than bombs - Axios",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKWnotVXlUcGZSMVN3RUNfWFhlY1d2dFFQWU4talV0ZVdZc2Y2djk4bDFnd01tVTZ6VUlUSVFESWs0WjFEamFVdy02d01aMnhtYmVvWTlaZ0xsLTRZSzNWdVVET2VlUGdIdWExZ3paelQyVTlvQXdKZzFuQ1oxdjA?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 28, 2026 · 12:17 BRT",
+          "pub_date": "2026-07-28",
+          "pub_ts": 1785251869,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Days disrupted: Across the world, Iran war's effects trickle into everyday life one human at a time - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzA1QlEtOGtSRGhrNUR3ZGwxekNGNlp4RjlmYmlCdHhDT1Q1dXBEYlBQZmNCRWdocEdmQlpvQjd0RXNfTVRXdS1IQXQzUWhVT18wbFVfOFlmUzJRYjFCcWdVT3JtSC1FUEZmb3dCVnNaY25wRzU4dF9NZnBVTTllTVdSNWc0cHNWclV3RFdSdzY1M0VrMUk1eGdzbTZOaFJGV2tWcjUwMVl1YkNIWGpXcmk3OWR0WllMbDE3M21ORGtsbU11bjVIUWRSZC0zaFgwektRd25BUQ?oc=5",

@@ -4518,7 +4518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-22"
     },
     "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
       "summary": "",
@@ -6639,6 +6639,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-27"
+    },
+    "https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1": {
+      "summary": "It has quietly rebuilt economic and diplomatic ties while also deepening defence links to Israel and the US",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.reuters.com/world/us/trump-host-netanyahu-zelenskiy-ukraine-iran-wars-reach-critical-stages-2026-07-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
     }
   },
   "last_digest_success": true,
@@ -6800,6 +6820,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Oil prices extend decline as US and Iran pause attacks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 27, 2026 · 22:02 BRT",
+          "pub_date": "2026-07-27",
+          "pub_ts": 1785200520,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Saudi Arabia Blames Iran-Backed Militias for Attack on Oil Facilities - WSJ",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkNYSC04dTFHUnFwS1YzR3dTbFdVVHlMekF1Qi05RnhGTUFoVzE1QXF4MlN0ODR2LU5lc2RIUlB3Q0Jnemp3ZmhIX1M2MjhoVUcwTHhCNXQ5RmQ3NjJ2bzZET01BM3hnbWJxN0N0dnh5TDlOdFlrb05JTVVhLTlXRklyT2pXaU1XSVZrcVRtMHdRc0VDX2JBN0N1R1ZaY2YtSVRGNEpabnJEal9oSEExODJKdlVZRFk?oc=5",
           "source": "WSJ",
@@ -6808,6 +6842,20 @@
           "published": "Jul 27, 2026 · 19:01 BRT",
           "pub_date": "2026-07-27",
           "pub_ts": 1785189660,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Macquarie Sees Oil Glut Risk on US-Iran Deal Before Midterms - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFBtWGdDR2gzR3J0YkdZU2RwZzR3b2JQbUI5SGplNUpQOWEyUHZjMkZ0bDl2RnB3aGhCeWlzWGxJRkRuMk1mSV95MjAxSjVUa3lHZl9MeXJTbmxBVkJfS3FjUmxMNlkxcXJFVkRDNjFDTFdITno3Y2dXcU9IM3RKeDFaVGhkOTBxUEpBYkdZNjJpVHdGWkFDblI4Tm9xQkowa0NGdDlFVkpNZ0N4VWFidTVYX2M?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 27, 2026 · 15:32 BRT",
+          "pub_date": "2026-07-27",
+          "pub_ts": 1785177143,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

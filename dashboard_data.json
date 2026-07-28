@@ -4518,7 +4518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-22"
+      "pub_date": "2026-07-21"
     },
     "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b": {
       "summary": "",
@@ -6592,6 +6592,49 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.nytimes.com/2026/07/28/world/asia/iran-war-southeast-asia-tourism.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-903854": {
+      "summary": "Netanyahu and Trump are also at odds over other issues, including the recent US-Saudi nuclear deal, the pending sale of F-35 fighter jets to Turkey, and the extent of operations in Gaza and Lebanon.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Lebanon",
+        "Turkey",
+        "Saudi Arabia"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.reuters.com/world/middle-east/houthis-pushing-model-irans-hormuz-control-red-sea-yemeni-fm-says-2026-07-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

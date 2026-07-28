@@ -6789,6 +6789,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-28"
+    },
+    "https://www.wsj.com/business/energy-oil/big-oil-is-raking-in-billions-from-the-iran-war-can-it-avoid-trumps-fury-903c4bf5": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.washingtonpost.com/politics/2026/07/28/netanyahu-heads-washington-differences-with-trump-over-iran-grow/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
     }
   },
   "last_digest_success": true,
@@ -6943,12 +6963,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-28T11:08:10.846634+00:00",
   "last_generated_date": "2026-07-28",
-  "last_generated_time": "2026-07-28T12:02:01.622285+00:00",
+  "last_generated_time": "2026-07-28T13:02:10.712437+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Big Oil Is Raking In Billions From the Iran War. Can It Avoid Trump’s Fury? - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNDBxSHhtTjdUMzR0emlWbllpc24xMlVJNW9WWVZqVHkxemFGSjVsU19oZW94X0Y4aGd5RnNDM3UyVHI0ZUpiSXJZQzdsWXFOVkJOTl9yUmVsX0JJUzJPbzhiRkxTMWhSOFI0cTJ5T3RvUExjMmVrelpmTkFxbEhJbXU4V3dGWVgxM0dZbEZFOGd1UEJKR1FTX0pYNFhxaUpPSkdPZGtzNEI4Z0RpaUI0SEFYQVFuak5MQkNRai1n?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 28, 2026 · 12:11 BRT",
+          "pub_date": "2026-07-28",
+          "pub_ts": 1785251460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices extend decline as US and Iran pause attacks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",

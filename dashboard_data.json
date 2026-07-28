@@ -5971,7 +5971,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-25"
     },
     "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1": {
       "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
@@ -6276,7 +6276,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-27"
+      "pub_date": "2026-07-26"
     },
     "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1": {
       "summary": "Brent opens lower after two weeks of escalating violence pushed crude to more than $100 a barrel",
@@ -6536,6 +6536,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-27"
+    },
+    "https://www.wsj.com/world/middle-east/saudi-arabia-blames-iran-backed-militias-for-attack-on-oil-facilities-eb6cf40c": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-27/latest-oil-market-news-and-analysis-for-july-28": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
     }
   },
   "last_digest_success": true,
@@ -6690,12 +6710,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-27T11:07:56.251003+00:00",
   "last_generated_date": "2026-07-27",
-  "last_generated_time": "2026-07-27T20:02:01.686829+00:00",
+  "last_generated_time": "2026-07-27T21:02:07.543104+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Saudi Arabia Blames Iran-Backed Militias for Attack on Oil Facilities - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkNYSC04dTFHUnFwS1YzR3dTbFdVVHlMekF1Qi05RnhGTUFoVzE1QXF4MlN0ODR2LU5lc2RIUlB3Q0Jnemp3ZmhIX1M2MjhoVUcwTHhCNXQ5RmQ3NjJ2bzZET01BM3hnbWJxN0N0dnh5TDlOdFlrb05JTVVhLTlXRklyT2pXaU1XSVZrcVRtMHdRc0VDX2JBN0N1R1ZaY2YtSVRGNEpabnJEal9oSEExODJKdlVZRFk?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 27, 2026 · 19:01 BRT",
+          "pub_date": "2026-07-27",
+          "pub_ts": 1785189660,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Indian rupee, bonds set for relief as Iran-US war truce eases oil fears; Fed in focus - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREo0N0gwZF9WbndhVmxycGFteHdsa2ZEQ1BCUV85TVdKLTRfdlBYb0tlQnY4SzNCdHh2dEloR2k4QWFuYlNYazRucHZGa1dxOHNNdGYzcmo1M1BEUExzZGlBMm45WUJHTU1RYUxOZ3RvT2w2MU1yTUpWQUthRzdOLUJ0bHVBeHJLSmNYcVZkS3F6eVplb0NSelcxek54UXkxaHd4QXVzRWIyRVBVczEzbUhETHZzOTIyZWtHdEt3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 26, 2026 · 22:33 BRT",
+          "pub_date": "2026-07-26",
+          "pub_ts": 1785115980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Crude oil futures are pricing market adaptability, not hopeful Iran peace - Reuters",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGE1c0g5ZHQxVW9KaV81YjdLV3FXRFo2dnp4S1FaeWZjbTdHbjhMOXVxRDdNVmRIenhzTWdYeU5WQWVqOWVURmxGTXJEVm5mVkN3MkdzSERyM2tHUkt5QWhkNWxkY2tzSXc3OGVtUmVzYXlPSE1vQ29Sak5vN1dDQnJicUZSZlVVSlN5ZkZhUXAxbHhDeWwtQmJxanEwam1FRlVLY2d6OFd6ejVuQUVDaWw5cEJkbHo4cDJ2TG04LU1kSm1aVVNMZE02ZmxwMGZENjZvaEZpUG4?oc=5",

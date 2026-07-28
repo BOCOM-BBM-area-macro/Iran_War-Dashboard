@@ -5971,7 +5971,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-25"
+      "pub_date": "2026-07-26"
     },
     "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1": {
       "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
@@ -6276,7 +6276,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-27"
     },
     "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1": {
       "summary": "Brent opens lower after two weeks of escalating violence pushed crude to more than $100 a barrel",
@@ -6556,6 +6556,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-27"
+    },
+    "https://www.axios.com/2026/07/27/iran-war-trump-sanctions-blockade-economy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.wsj.com/world/two-wars-converge-in-the-caspian-sea-as-ukraine-hits-iranian-supply-line-to-russia-e036fb27": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
+    },
+    "https://www.nytimes.com/2026/07/27/us/politics/trump-backs-new-talks-with-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-27"
     }
   },
   "last_digest_success": true,
@@ -6710,7 +6740,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-27T11:07:56.251003+00:00",
   "last_generated_date": "2026-07-27",
-  "last_generated_time": "2026-07-27T21:02:07.543104+00:00",
+  "last_generated_time": "2026-07-27T22:02:08.151662+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

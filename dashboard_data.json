@@ -6874,7 +6874,7 @@
       "pub_date": "2026-07-28"
     },
     "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html": {
-      "summary": "",
+      "summary": "A flurry of diplomacy has eased tensions, officials said, after an incident risked triggering a wider war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6888,6 +6888,56 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-says-it-intercepted-iranian-ballistic-missiles-launched-towards-us-2026-07-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.wsj.com/world/middle-east/netanyahu-finds-diminished-welcome-from-trump-as-iran-war-drags-on-8144d154": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.axios.com/2026/07/28/save-act-iran-war-farm-aid-republicans-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-says-us-saudi-forces-struck-sites-iran-backed-groups-iraq-2026-07-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977?syn-25a6b1a6=1": {
+      "summary": "Incident ends a days-long pause in direct air strikes",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7046,7 +7096,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-28T11:08:10.846634+00:00",
   "last_generated_date": "2026-07-28",
-  "last_generated_time": "2026-07-28T21:01:45.367956+00:00",
+  "last_generated_time": "2026-07-28T22:01:53.818585+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

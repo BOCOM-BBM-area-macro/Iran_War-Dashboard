@@ -5613,7 +5613,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-21"
+      "pub_date": "2026-07-27"
     },
     "https://www.bloomberg.com/news/articles/2026-07-24/trump-seethes-as-iran-war-spirals-anew-with-no-end-in-sight": {
       "summary": "",
@@ -7031,6 +7031,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.nytimes.com/interactive/2026/07/29/world/middleeast/iran-war-cease-fire-trump-timeline.html": {
+      "summary": "War. Cease-fire. Somewhere in between. The United States and Iran can’t stop cycling between conflict and negotiation.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.reuters.com/world/middle-east/who-are-iraqs-iranian-backed-armed-groups-2026-07-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11215,6 +11235,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Coca-Cola, battling high aluminium costs, loses market share in India - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGhuMHdtQTFhaE1JcFVCS1R4MkNiZDhjRGFJcFRYbU5GX0dhWXRVOEpRLTZrckF2MGlnNVpkcGRZd0NWdWlER2NKM2JwbldaOG1PZGlaTXplNHZqOGhmR2EzanNRd05Rc05LOEFMbzF5OU96cDVxekZVMG1xaGZ3c25sR0U2SFJMTnRNdmc3dS12VTdoT1JLajhUUFdZXzNIYm4yNnpvVVRIMWVVN3ZSSE5n?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 28, 2026 · 11:41 BRT",
+          "pub_date": "2026-07-28",
+          "pub_ts": 1785249703,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "War? What war? Aluminium's Gulf disruption premium vanishes - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0MtUDBrdE9ObWZrOXozRlo0YzhoVl9fTEJpaDQxcFZoYmpHOUktOVZDeE9lU19Wb3hubk1EZHRLdGpnOEVma1hLT0wyWEU5eTJnaVAyaGZ4TktYZ0ZXV3FPQXZ4cUJXbkFMdXhWdkVGRmF2U2xjcFlxU1A0UXF0YXByQUNfaTg1dzNkREE3empGc0VjMklUbWM3cGZMYnM1blZEczFqZDBzeFl2NWp2dWpOWjRSaDQ1UWppOGFqYTg1WHc?oc=5",

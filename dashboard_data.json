@@ -7095,6 +7095,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-29"
+    },
+    "https://www.wsj.com/world/middle-east/iran-gambles-on-escalation-with-surprise-attack-on-u-s-forces-72cfd422": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-29/trump-tells-fox-news-us-will-be-hitting-iran-hard-as-war-resumes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
     }
   },
   "last_digest_success": true,
@@ -7253,7 +7273,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-29T11:11:12.913818+00:00",
   "last_generated_date": "2026-07-29",
-  "last_generated_time": "2026-07-29T09:01:58.560592+00:00",
+  "last_generated_time": "2026-07-29T10:01:57.265296+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -10167,6 +10187,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran War Adds at Least $1 Billion to Cash-Strapped South Asia’s LNG Bill - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUHZiLXJ4NnZKeDFzQnRVOU0tTlRnbjFQSllwMF90X01CY1kxdjFobmoweDBTcVlJeFdZZDVfb3hLYkVuTllEaEFUYnVsRzl5d0swbTlUU1A5YmpYejdlNmxWNHRwbDZNeFRpbXFhZlBQUmNmYjJ1aGNDbjBKVF96eGlGbWJzTm9aRVZBUW9iRjJjSmdKaHUxWEgzODZkUHNaWUcwbURoRl9PRHpYdlYxSXpGbk5qajRPMjJxT0xWSGQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 29, 2026 · 08:15 BRT",
+          "pub_date": "2026-07-29",
+          "pub_ts": 1785323701,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Forces Energy Buyers to ‘Unshackle’ From Global Markets - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFpNQ3NXSTFuaXdaMThKYS1NdDFrQkE2YVQyUTVvdkstSnZodHV2V2lqd1lFVklUSVJFd3M3czRMU3d5bFA2QWZxOHhQTjVCLTdZbUR2bmZmVUJad1V3cWpzWUV5dVlNdEp3S1pwVWNvVHlRel9ZRXBEeFNGeE02QzZ4eUE?oc=5",

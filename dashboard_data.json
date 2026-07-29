@@ -6276,7 +6276,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-27"
+      "pub_date": "2026-07-26"
     },
     "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1": {
       "summary": "Brent opens lower after two weeks of escalating violence pushed crude to more than $100 a barrel",
@@ -6955,6 +6955,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-29"
+    },
+    "https://www.reuters.com/world/china/iran-get-chinese-shoulder-launched-missile-systems-weeks-sources-say-2026-07-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.reuters.com/world/asia-pacific/us-saudis-attack-iran-backed-groups-iraq-threatening-intensify-conflict-2026-07-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.axios.com/2026/07/28/iran-missile-attack-us-base-jordan": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
     }
   },
   "last_digest_success": true,

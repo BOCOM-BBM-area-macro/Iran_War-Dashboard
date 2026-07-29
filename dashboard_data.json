@@ -7155,6 +7155,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-29"
+    },
+    "https://www.washingtonpost.com/nation/2026/07/29/iran-war-participation-trophy-mocking-trump-arrives-new-york/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-07-29/us-iran-war-russia-ukraine-fighting-keep-oil-traders-on-edge": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.axios.com/2026/07/29/inside-trump-netanyahu-meeting-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
     }
   },
   "last_digest_success": true,
@@ -7313,12 +7343,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-29T11:11:12.913818+00:00",
   "last_generated_date": "2026-07-29",
-  "last_generated_time": "2026-07-29T14:02:05.498985+00:00",
+  "last_generated_time": "2026-07-29T15:01:54.183772+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The World Doesn’t Need More Oil Disruptions - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkxZYlE3X3d3eGVQdWxHVWlTMERIVHIxTWZYUnJzekJ4TXBfQmNNMGxmbXY1aGlBNjRrcWdfNGRtRHJ5RHNOTHJVYVM0RWRzNXhQWFE1MjZfZzRqWDRGc2w5emV3Y0U0UUlnSDN0dkJRTlVYT25SU0gtd3FwbVR5QjB3TUxSRkw0anBTUW9IWXcwZWMwazJkbFRDR3ZBLVlWRHlwd2R6X3FlU21FY0I3WXhEV0k?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 29, 2026 · 14:46 BRT",
+          "pub_date": "2026-07-29",
+          "pub_ts": 1785347211,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil rises as US-Iran tension escalates after Iraq strikes, missile attack - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",

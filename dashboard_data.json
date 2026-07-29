@@ -5477,7 +5477,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-24"
+      "pub_date": "2026-07-27"
     },
     "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html": {
       "summary": "",
@@ -7135,6 +7135,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-29"
+    },
+    "https://www.wsj.com/business/earnings/procter-gamble-profit-falls-gives-soft-fiscal-year-outlook-b62e8cfa": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
     }
   },
   "last_digest_success": true,
@@ -7293,7 +7303,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-29T11:11:12.913818+00:00",
   "last_generated_date": "2026-07-29",
-  "last_generated_time": "2026-07-29T12:02:12.055678+00:00",
+  "last_generated_time": "2026-07-29T13:02:09.875954+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -10216,6 +10226,20 @@
           "published": "Jul 29, 2026 · 08:15 BRT",
           "pub_date": "2026-07-29",
           "pub_ts": 1785323701,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Fossil Fuel Executives Cash In - nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVmZtc3hVY1UtXy15Mi1WUzhkN0pLNkl0Y2VhM0pjWHpUVEFDazB5NFg2cmJDOGNkaENjUnUwaXNfZVJhZWN4M012TUV5V1lrTDE2aFp3Z1lFZ04tZ29SVlVwVVhFa0ZjU29EcTdsOTBJV2NCdGd3Q2UwejAtRlgzWTJfUXJrN1owQWc?oc=5",
+          "source": "nytimes.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 28, 2026 · 16:30 BRT",
+          "pub_date": "2026-07-28",
+          "pub_ts": 1785267048,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

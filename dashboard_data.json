@@ -6180,7 +6180,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-26"
+      "pub_date": "2026-07-27"
     },
     "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran": {
       "summary": "",
@@ -6808,7 +6808,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-28"
+      "pub_date": "2026-07-29"
     },
     "https://www.jpost.com/international/article-903925": {
       "summary": "This comes amid reports of heightened tensions between Netanyahu and Trump over the Iran war.",
@@ -6871,7 +6871,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-28"
+      "pub_date": "2026-07-29"
     },
     "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html": {
       "summary": "A flurry of diplomacy has eased tensions, officials said, after an incident risked triggering a wider war.",
@@ -6904,10 +6904,13 @@
       "pub_date": "2026-07-28"
     },
     "https://www.wsj.com/world/middle-east/netanyahu-finds-diminished-welcome-from-trump-as-iran-war-drags-on-8144d154": {
-      "summary": "",
+      "summary": "Before the two leaders met, the Trump administration pressed the Israeli prime minister to show he was serious about advancing peace talks in Lebanon and Gaza.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Asia",
+        "Dragonfly - Middle East",
+        "Dragonfly - North America",
+        "Dragonfly - World",
+        "Developing Economies"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -6942,6 +6945,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-28"
+    },
+    "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
     }
   },
   "last_digest_success": true,

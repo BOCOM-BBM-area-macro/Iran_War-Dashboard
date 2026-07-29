@@ -6047,7 +6047,7 @@
       "pub_date": "2026-07-26"
     },
     "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil": {
-      "summary": "",
+      "summary": "The Trump administration pulled back from major escalation, in part because of concerns over the supply of munitions, said people familiar with the matter.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6872,6 +6872,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-28"
+    },
+    "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
+    },
+    "https://www.wsj.com/world/middle-east/iran-launches-surprise-missile-attack-on-u-s-forces-70955a30": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-28"
     }
   },
   "last_digest_success": true,
@@ -7026,7 +7046,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-28T11:08:10.846634+00:00",
   "last_generated_date": "2026-07-28",
-  "last_generated_time": "2026-07-28T20:01:58.647399+00:00",
+  "last_generated_time": "2026-07-28T21:01:45.367956+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

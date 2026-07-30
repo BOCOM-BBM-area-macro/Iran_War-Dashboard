@@ -7400,7 +7400,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-30"
+      "pub_date": "2026-07-29"
     },
     "https://www.reuters.com/world/middle-east/us-military-says-it-hit-dozens-irans-irgc-targets-2026-07-30/": {
       "summary": "",
@@ -7500,6 +7500,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-07-30/big-oil-is-making-big-money-during-iran-war-market-turmoil": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7661,12 +7671,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-30T11:10:42.151871+00:00",
   "last_generated_date": "2026-07-30",
-  "last_generated_time": "2026-07-30T09:02:00.524093+00:00",
+  "last_generated_time": "2026-07-30T10:02:07.730266+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Big Oil Is Making Big Money During Iran War Market Turmoil - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHVtZmRqR3NEeTRCd1otREt4LUJpSUthOTBJUmxJZjVXQW1lWWVta3pVZ0NBd0NWZ3V6TWRmUHB4RzNTR1lpbXpJLWlrMlF6WWRFX19uektFem85S3lhaEs3UVQ4b3hJeWZFdUFmSGpudk84TDZhaEp0TDU2TTVaRDEza0kxN1VfS3RfbTI2VFVLNVB4X1ktQ2pnaWkzMXZhU190dFVOc3RxZ1ZwRmNQUFB3?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 09:11 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785413460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war shows China role in setting the price of oil - Axios",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zTVAwRmJBMDg1eVJjLVVROXV1TDZFTWFvWng5OTVLSF9mRjNsZU55QnJqUjNQZzhnYXBXQUwwa0g1QmEzbV9icEVRMzVYQ285NEZtcmZfQmc2SDR5WWFZTmpTd21adm5HUlhZ?oc=5",
@@ -7676,6 +7700,20 @@
           "published": "Jul 30, 2026 · 06:19 BRT",
           "pub_date": "2026-07-30",
           "pub_ts": 1785403180,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil edges down in choppy trading amid Oman-Iran talks, US-Iran tensions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 29, 2026 · 21:35 BRT",
+          "pub_date": "2026-07-29",
+          "pub_ts": 1785371700,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -10687,6 +10725,34 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Drone strike near Suez Canal in Egypt raises new security threat in widening war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 09:19 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785413950,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "As prices rise at the pump, so do oil company’s profits - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObG13VVlYdkNsOE5RUDdfNEhrazQxdmNCYVBISlo2WGJrTkdxZnNCd1NYMVBOZHk2REhySk1LVUkySHg4c3ViOFJRRXdSNXl2RGk0djhjN2liYXpSamNWSU0ycmRsNTZOV2htNEJUZnBUVkdMTG02RjN6RGIwcVN6dE9RVGxvS3laZG1PSG84OWg?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 09:11 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785413496,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaU5PeWZ4OXFUWDgxdmJGM1NoWEJCdjBXQnRVQkxwT1dpWmtwd09UMjFKXzNIWjVjRVo0dWc4NXk4eTVXOEhNOHpqUjc3eVAzSnZyWWtxZEUwOU1lX0xVd0hTQ0tlanBKbUV5allqYlB2TmdjY212Tk9wbko0SmdycTFuZ0ZUYVlOd2N2d1I2SzFDdzRVRFl3MjZpcE5rRFd1T0tEWmpxQ0ttX3pETEt3NFBScjRrSlB1?oc=5",

@@ -7254,7 +7254,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-29"
+      "pub_date": "2026-07-30"
     },
     "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html": {
       "summary": "",
@@ -7594,6 +7594,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-30/trump-faces-escalation-conundrum-as-iran-war-flares-once-again": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-30/why-trump-s-iran-threats-raise-war-crime-concerns-again": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.washingtonpost.com/politics/2026/07/30/vote-limit-trumps-iran-war-powers-fails-senate/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
     }
   },
   "last_digest_success": true,
@@ -7751,7 +7781,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-30T11:10:42.151871+00:00",
   "last_generated_date": "2026-07-30",
-  "last_generated_time": "2026-07-30T14:02:17.027715+00:00",
+  "last_generated_time": "2026-07-30T15:02:00.029763+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7766,6 +7796,20 @@
           "published": "Jul 30, 2026 · 09:11 BRT",
           "pub_date": "2026-07-30",
           "pub_ts": 1785413460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi Arabia Economy Shrinks Most Since 2020 as War Roils Oil Exports - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUFfUVpiNk5YcWlRZHNhbGtQMGJVVjh3ZXFXZlp3R29iMVZNQ1RSNUx2VGI1RFBheXlJcFNQYmY4c25pSm9kQldieDVzMklLb3pzNm1UMGVheWNJM3R2N256QjVPd0hWRzRxTnpyOXFqMTdSOGFYSkJCTUxUbk14cEVNQUhJZGJwXy1ESzN2NFlaXzM5bUVxbVc3UkxaS0lHWTN4Uk1HSTZPcHRwRTY5WFZwWQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 06:36 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785404201,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

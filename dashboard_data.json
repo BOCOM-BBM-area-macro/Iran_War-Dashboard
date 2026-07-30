@@ -7325,6 +7325,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-29"
+    },
+    "https://www.wsj.com/world/middle-east/see-the-new-fronts-of-the-iran-war-erupting-across-the-middle-east-dda24313": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.jpost.com/israel-news/article-904064": {
+      "summary": "Netanyahu denied pressuring Trump to enter or escalate the Iran war, saying the US president is the \"senior partner\" as the two leaders discussed the Hormuz blockade and further military action.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "United States",
+        "Washington",
+        "iran israel"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-30/us-launches-fresh-strikes-against-iran-as-war-escalates-again": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-29"
     }
   },
   "last_digest_success": true,
@@ -7483,7 +7516,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-29T11:11:12.913818+00:00",
   "last_generated_date": "2026-07-29",
-  "last_generated_time": "2026-07-29T22:01:53.725274+00:00",
+  "last_generated_time": "2026-07-29T23:02:17.193828+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

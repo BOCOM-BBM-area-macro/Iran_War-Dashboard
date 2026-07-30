@@ -7544,6 +7544,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-30"
+    },
+    "https://www.washingtonpost.com/world/2026/07/30/ships-stranded-strait-hormuz-by-iran-war-could-result-invasive-species-explosion-scientists-warn/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.washingtonpost.com/politics/2026/07/30/trump-iran-blanche-disapproval/2e0556e8-8c13-11f1-8912-d71e69d679d7_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.reuters.com/world/china/can-china-restrain-iran-gulf-states-test-beijings-influence-2026-07-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
     }
   },
   "last_digest_success": true,
@@ -7701,7 +7731,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-30T11:10:42.151871+00:00",
   "last_generated_date": "2026-07-30",
-  "last_generated_time": "2026-07-30T11:02:02.343551+00:00",
+  "last_generated_time": "2026-07-30T12:02:04.043195+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7730,6 +7760,20 @@
           "published": "Jul 30, 2026 · 06:19 BRT",
           "pub_date": "2026-07-30",
           "pub_ts": 1785403180,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Mideast oil faces bleak new order as Iran’s grip on Hormuz tightens - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdks1c003LWVheEJ4Tzd5LWdTekZPUEtmallwYloxMWJCQTJvY1ZUQVpPNk0yT3FiQXloSVFGb19WZDBaZ3ZSdzBCU3hDTVZpRzcwLVdsbFpYVmhFVTQ3TUVOSUV4XzdEbG91QnJIZnRlZkNXdGJ5cFVEZmVCdWZwbHM1dmlDaXY5bjNrZDh0d1puOFAwdmxTdVE3aWNtQUI1V2VpYlM2TWdjd215N1BWTnFxQXFFMi1XTDRKU3BPeFduTlRjSm1xdllXZnVfOHpDckE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 03:01 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785391260,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -10755,6 +10799,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "2/3 of US adults say Iran war hasn’t been worthwhile; 28% back Trump’s handling of it - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkd4UVhuWUhscXU0RnR6YnlIRVNaSXpUVGJZT3Jldk12LTFJWExuR2h6NDVLeU0waFE0NVU0cXZGRmhNZXd0cXMtMVNNdC05bEJWdWd3M0ExT2d6S2hqWUMxTE9tOXREYXVWUUhpWXY4c3JiLTVxazhtS1NZb3BNb0FUTFNUbE51SE40eENQVFh2eVpWT0dhS1Rwai0zZFVGREU5TkMtbjhObWVSejRlY1RB0gG3AUFVX3lxTE1kd3JMMHRlOGN1RzhMZTRYWFo4NmVaTTJfc19EY191dXdkNHdKTFZzNXlCemlkX0FwdXQtTkdYbEppWk5sTlZWaFk5YzNCcEd4V0FBUzVSRzNyU3RZa1oyNUJ2QjFrekdUaURaUVpJek01R2ZYUzNMSVFWTWVuOXhTYllEaW10SVlGZ3dqbUU2Mm5jSXFaWGlNcThxeHhMcDF5RUVwQWNOQlVHVU9JdjRXSHhfYVRBUQ?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 11:41 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785422498,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Drone strike near Suez Canal in Egypt raises new security threat in widening war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",

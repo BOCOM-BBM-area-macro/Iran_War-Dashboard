@@ -7294,7 +7294,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-29"
+      "pub_date": "2026-07-30"
     },
     "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html": {
       "summary": "",
@@ -7357,7 +7357,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-29"
+      "pub_date": "2026-07-30"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-07-30/live-updates-904066": {
       "summary": "Explosions heard in southern Iran • Iran set to receive hundreds of Chinese shoulder-fired missiles • IDF bulldozer struck by Hezbollah drone • Netanyahu says Trump meeting was successful",
@@ -7401,6 +7401,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-29"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-says-it-hit-dozens-irans-irgc-targets-2026-07-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.jpost.com/middle-east/article-904077": {
+      "summary": "The recent joint US-Saudi attacks marked the first time Riyadh has publicly joined strikes alongside Washington.",
+      "tags": [
+        "Iran",
+        "Iraq",
+        "Saudi Arabia",
+        "Yemen",
+        "Houthi"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.reuters.com/business/energy/italys-edison-trims-2026-guidance-again-over-iran-war-weak-hydro-power-2026-07-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/mideast-oil-faces-bleak-new-order-irans-grip-hormuz-tightens-bousso-2026-07-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
     }
   },
   "last_digest_success": true,
@@ -10571,6 +10614,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Two Tankers Hit in Apparent Drone Strike in Egypt - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWZPZVNPQmYyeXlyZ2VmeUxVMHBVM2N3RGFkUlFmOG1IXzYwaUZ6YkVGdHlnVlJ5eHVsbVBXYTNqS2doclktVGhWT1pET0VUYkt0VXE2UWRyVUY2RXFTOHl6TzdOY3prYlNGRzF5REFSZk5Na05lYXFHZWFnckxMcHZuMDY0UXYx?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 29, 2026 · 18:16 BRT",
+          "pub_date": "2026-07-29",
+          "pub_ts": 1785359775,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",

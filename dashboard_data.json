@@ -7454,6 +7454,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-30"
+    },
+    "https://www.axios.com/2026/07/30/china-oil-price-iran-power": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
+    },
+    "https://www.washingtonpost.com/world/2026/07/30/iran-war-us-hormuz-strait-july-30-2026/cb1d87be-8bd4-11f1-8912-d71e69d679d7_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-30"
     }
   },
   "last_digest_success": true,
@@ -7618,6 +7638,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war shows China role in setting the price of oil - Axios",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zTVAwRmJBMDg1eVJjLVVROXV1TDZFTWFvWng5OTVLSF9mRjNsZU55QnJqUjNQZzhnYXBXQUwwa0g1QmEzbV9icEVRMzVYQ285NEZtcmZfQmc2SDR5WWFZTmpTd21adm5HUlhZ?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 06:19 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785403180,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies - reuters.com",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0lZMmMtdTM4VmpUSmtNU004NzRoZWJjNWZFT1o1Z3d0dzQtNXk3OU9BdUt4QXFSZFNIdnhyX2tLMUpVbVZPSUtyZjU1bmNZYlVEd1NiQWh3cmtiRlpOLWVDTFF0NGRTVzlIa29laklPNWk5dmNsRkhHUG1RQ2hzWTh2Sm5MS004NWh3RE1fSHl6SWQ1enNKR3NxTm5fcTJObENkRV93VHo5Mk5iQ2tXdTIzOTE1d1l3UVc1OFZHaUJuUl9LOVE?oc=5",

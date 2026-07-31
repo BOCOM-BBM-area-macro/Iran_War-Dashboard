@@ -7863,6 +7863,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-31"
+    },
+    "https://www.reuters.com/business/worst-is-over-bookings-are-improving-amadeus-ceo-says-about-iran-war-hit-2026-07-31/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
     }
   },
   "last_digest_success": true,
@@ -8012,12 +8022,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-07-31T11:12:16.264363+00:00",
   "last_generated_date": "2026-07-31",
-  "last_generated_time": "2026-07-31T09:01:58.445843+00:00",
+  "last_generated_time": "2026-07-31T10:01:57.539190+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US Doesn’t Plan to Tap Oil Stockpiles Again as Iran War Escalates - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTdWYmlkcnp4NTkxZFVGLXRkR2ppTUVldUgwcTdTLTlSNlZvNm54MG1YQzQwRkFuZC1za2xGTUZmN1hCQlFUR2VOLVAzZF9GaUhsTEJvdTdiQXJYRDV2N2F4MmNMVU5aZHY1VlBMQ1M3RzdXSmNSVFZnbGFYX1gyUXROUm5pTS1vcy1WNkQ0QVUxUVJtR3QzdDBWc1EwTVBzdUtpZmxyZHUzNFBMWTg1RzVYc203Mms5OW8tWWJweHdiSE1qc1NUU1ZmZ0k2MFk?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 31, 2026 · 08:18 BRT",
+          "pub_date": "2026-07-31",
+          "pub_ts": 1785496732,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Drives Oil Profits to Highest Levels in Years - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXNrallRU3h1ejh5WTdLWHJzbGUwZDJ6Nk5hNi04RXdHeUZId0JNQ3ZFSTM0NzR0QlpmY0dVTncySDl0UFpYeXJ4YTRkSFM1ZGVjNmxnTVRaa0F1elRnNjAtay02Rm5SVUZKdVh0NDJjc0hWMVd6TjZjMFI3V1ozMk9BeDc1Q2xzUzFKSU9aXzFNWHludU1Gay1ZenRaa2hJ?oc=5",

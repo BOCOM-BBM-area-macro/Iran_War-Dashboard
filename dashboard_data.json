@@ -7390,7 +7390,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-30"
+      "pub_date": "2026-07-31"
     },
     "https://www.reuters.com/world/middle-east/us-carries-out-fresh-iran-strikes-centcom-says-2026-07-30/": {
       "summary": "",
@@ -7446,10 +7446,13 @@
       "pub_date": "2026-07-30"
     },
     "https://www.wsj.com/economy/french-economy-rebounded-in-second-quarter-despite-war-uncertainty-f2221427": {
-      "summary": "",
+      "summary": "Economies across the eurozone have proved more resilient than feared in the face of continued supply-chain disruptions and higher energy prices.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "newsplus",
+        "Asia",
+        "Dragonfly - Middle East",
+        "Dragonfly - North America",
+        "Dragonfly - World"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -7656,7 +7659,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-30"
+      "pub_date": "2026-07-31"
     },
     "https://www.washingtonpost.com/opinions/2026/07/30/donald-trump-should-take-iran-war-advice-those-who-have-delivered/": {
       "summary": "",
@@ -7729,6 +7732,16 @@
       "pub_date": "2026-07-30"
     },
     "https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-31/pentagon-seeks-18-2-billion-in-iran-war-funds-for-interceptors": {
       "summary": "",
       "tags": [
         "extracted",

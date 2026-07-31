@@ -7770,6 +7770,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-31"
+    },
+    "https://www.nytimes.com/2026/07/31/business/europe-natural-gas-prices.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-31/peter-frankopan-on-trump-s-iran-war-of-choice-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.nytimes.com/2026/07/31/world/middleeast/iran-says-it-targeted-us-military-in-kuwait-with-drones.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.washingtonpost.com/world/2026/07/31/trumps-infrastructure-strikes-leave-irans-economy-battered/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
     }
   },
   "last_digest_success": true,
@@ -11051,6 +11091,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Europe Is Caught Between Low Gas Reserves and Rising Prices From Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaVZFWjNnam9yMEgzeEJvRnIzUHdsWHotUUxnbl80MExIWkxWaU03SExpZmxhbGRzNGNnb1d6cW80X1g0ZjdwMVJCbFNIV1BuVFV6MmRKa0hHemQxbzlLUWlWTmEtSDVlb3RwQnhYRjRnWUtfeEw4RFhUU0FFS1k?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 31, 2026 · 06:02 BRT",
+          "pub_date": "2026-07-31",
+          "pub_ts": 1785488555,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S. Economic Growth Slowed to 1.5% in Second Quarter - WSJ",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2ZueXl0QmVQQUswUUNFcGdRdnFuZVBKanVfdWhMM21idG51VDdPSDhHR3dqeUlSOUdWeHJvbEJFbWpKVFZmR2lNM2xSQlRWcnJNWTlLUWh4MjNON1ZLOEhMQ1V2U05BdVV4WEtjUmpUc1NrN29EWnRMSVk1SWhYc1Flc1lCeEI4TFVuUktHeDA2dw?oc=5",

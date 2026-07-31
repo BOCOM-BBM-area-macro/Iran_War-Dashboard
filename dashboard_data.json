@@ -7810,92 +7810,81 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-07-31"
+    },
+    "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904225": {
+      "summary": "Unlike some past presidents, Trump has largely stayed away from the mountaintop presidential redoubt in western Maryland, preferring to spend time at his golf resorts when not at the White House.",
+      "tags": [
+        "Iran",
+        "United States",
+        "camp david",
+        "Donald Trump",
+        "Karoline Leavitt"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.washingtonpost.com/world/interactive/2026/07/31/how-us-war-with-iran-is-widening-inequality-africa/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-30T11:10:31.229011+00:00",
+  "last_digest_time": "2026-07-31T11:12:05.553851+00:00",
   "digest": {
-    "digest": "The conflict involving Iran has significantly widened, with new fronts emerging across the Middle East and Egypt experiencing its first drone attack. The United States has conducted multiple strikes against Iran, targeting dozens of IRGC targets, with some engagements lasting up to two hours. These actions have been met with threats from the U.S. president to strike Iran 'hard' following missile attacks on U.S. assets. Saudi Arabia has also entered the conflict with strikes in Iraq, further broadening the war's scope. The economic repercussions are becoming increasingly apparent, with the Eurozone economy advancing despite uncertainty, U.S. stocks sliding, and prolonged conflict potentially keeping spot LNG prices high. China's role in setting oil prices is also highlighted amidst these developments. Pentagon contracts have been awarded to firms amid perceived strains from the ongoing war.",
+    "digest": "The conflict involving Iran has expanded geographically, with new strikes impacting Iraq, Jordan, and Egypt, drawing more nations into the war. The U.S. has conducted strikes against Iraqi militias, risking further entanglement. Politically, the U.S. Senate has seen votes on limiting war powers, though a measure to end the war failed. Iran has targeted U.S. military assets in Kuwait with drones. Economically, the war is driving oil profits to multi-year highs and has led to increased gas prices, impacting European gas reserves and causing concerns for Republicans ahead of mid-term elections. The Pentagon is seeking significant funds for interceptors related to the war. Shipping in the Red Sea is a growing concern, prompting Saudi Arabia to form a military alliance with over a dozen countries to protect maritime traffic. Bookings have been affected, leading to trimmed revenue guidance for some companies, and the war's impact is widening inequality in Africa. The U.S. war with Iran is creating significant economic and geopolitical challenges.",
     "top_themes": [
-      "Escalation of Iran War",
-      "Widening Geographic Scope of Conflict",
-      "Economic Impacts of Iran War",
-      "US Military Actions Against Iran",
-      "International Involvement in Iran War"
+      "Escalation of Conflict",
+      "Economic Impact",
+      "Political Ramifications"
     ],
     "next_events": [
       {
-        "title": "Escalation of Regional Fronts",
-        "description": "Monitor for further geographic expansion of the conflict, particularly into new countries or regions beyond the immediate conflict zones. The involvement of nations like Egypt and Saudi Arabia, as well as new drone attacks, indicates a broadening regional destabilization that could draw in more actors and intensify the war."
+        "title": "Widening Regional Conflict and New Actors",
+        "description": "The conflict is increasingly drawing in more Middle Eastern nations, with new strikes reported in Iraq, Jordan, and Egypt, and Iran targeting US assets in Kuwait. Analysts should closely monitor for further geographic expansion of military engagements and the direct involvement of additional regional powers, particularly in the Red Sea where a new Saudi-led alliance has formed to protect shipping."
       },
       {
-        "title": "US Military Escalation and Retaliation",
-        "description": "Observe the frequency, scale, and targets of US military strikes against Iran or its proxies, especially following threats to hit Iran 'hard' and reports of a 'two-week plan to escalate strikes.' Any significant increase in US military action could provoke a more direct and forceful Iranian response, escalating the conflict further."
+        "title": "Escalating Global Economic Instability",
+        "description": "The war is significantly impacting global energy markets, driving oil profits, straining European gas reserves, and causing economic disruptions like increased shipping costs and widening inequality in Africa. Watch for sustained high energy prices, further supply chain disruptions, and the broader economic health of nations, as these factors could influence international responses and domestic political stability."
       },
       {
-        "title": "Iranian Counter-Escalation and Proxy Actions",
-        "description": "Assess Iran's strategic responses to US strikes, including potential direct military actions or increased support for regional proxies. Given Iran is described as a 'more determined adversary,' watch for asymmetric warfare tactics or attacks on US assets and allies in the region."
+        "title": "US Domestic Political and Policy Shifts",
+        "description": "The war's duration and economic fallout, particularly rising gas prices, are creating significant political pressure on the US administration ahead of midterm elections. Analysts should observe how public opinion and congressional actions, including ongoing debates over presidential war powers, might influence the US's strategic approach, military commitments, and potential for de-escalation or further engagement."
       },
       {
-        "title": "Global Economic and Energy Market Instability",
-        "description": "The conflict's widening scope poses significant risks to global oil and LNG supplies, potentially leading to sustained high prices and disruptions. Analysts should also monitor broader financial market reactions, including stock market volatility and the impact on global trade, as prolonged uncertainty could hinder economic growth and necessitate defense spending increases."
-      },
-      {
-        "title": "International Involvement and Alliances",
-        "description": "Watch for shifts in international alliances and the roles of major global powers like China, particularly concerning energy interests and diplomatic efforts. The entry of new regional actors like Saudi Arabia and Egypt signals a complex web of alliances and potential for broader international engagement or mediation."
+        "title": "Critical Maritime Choke Point Security",
+        "description": "With Saudi Arabia forming a military alliance to protect Red Sea shipping, the security of vital global trade routes is a major concern. Monitor the effectiveness of this new coalition, any further attacks on commercial vessels, and potential disruptions to shipping flows, as these could trigger significant economic consequences and broader international intervention."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-30T11:10:41.607779+00:00",
+  "last_watch_time": "2026-07-31T11:12:15.686052+00:00",
   "relevant_news": [
     {
-      "title": "See the New Fronts of the Iran War Erupting Across the Middle East - wsj.com",
-      "url": "https://www.wsj.com/world/middle-east/see-the-new-fronts-of-the-iran-war-erupting-across-the-middle-east-dda24313",
-      "source": "wsj.com",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 29, 2026 · 22:19 BRT",
-      "pub_date": "2026-07-29",
-      "pub_ts": 1785374340,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Egypt Suffers First Drone Attack, Widening the Iran War - wsj.com",
-      "url": "https://www.wsj.com/world/middle-east/egypt-suffers-first-drone-attack-widening-the-iran-war-5ce2b49e",
-      "source": "wsj.com",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 30, 2026 · 07:41 BRT",
-      "pub_date": "2026-07-30",
-      "pub_ts": 1785408060,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. Strikes Iran Again, as Trump Encounters a More Determined Adversary in Widened War - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
+      "title": "Iran War Is Entangling a Growing List of Mideast Nations - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 29, 2026 · 19:40 BRT",
-      "pub_date": "2026-07-29",
-      "pub_ts": 1785364828,
+      "published": "Jul 30, 2026 · 19:25 BRT",
+      "pub_date": "2026-07-30",
+      "pub_ts": 1785450337,
       "summary": "",
       "tags": [
         "extracted",
@@ -7912,28 +7901,27 @@
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 29, 2026 · 18:26 BRT",
-      "pub_date": "2026-07-29",
-      "pub_ts": 1785360417,
-      "summary": "",
+      "published": "Jul 30, 2026 · 13:05 BRT",
+      "pub_date": "2026-07-30",
+      "pub_ts": 1785427500,
+      "summary": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War. - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
+      "title": "Iran Says It Targeted U.S. Military in Kuwait With Drones - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-says-it-targeted-us-military-in-kuwait-with-drones.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 29, 2026 · 13:01 BRT",
-      "pub_date": "2026-07-29",
-      "pub_ts": 1785340865,
+      "published": "Jul 31, 2026 · 06:38 BRT",
+      "pub_date": "2026-07-31",
+      "pub_ts": 1785490731,
       "summary": "",
       "tags": [
         "extracted",
@@ -7945,14 +7933,51 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. hits dozens more targets in Iran as violence widens - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/29/us-strikes-iran-response-surprise-ballistic-missile-launch/",
+      "title": "Pentagon Seeks $18.2 Billion in Iran War Funds for Interceptors - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/pentagon-seeks-18-2-billion-in-iran-war-funds-for-interceptors",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Jul 31, 2026 · 01:00 BRT",
+      "pub_date": "2026-07-31",
+      "pub_ts": 1785470400,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Saudis Form Military Alliance to Protect Red Sea Shipping - The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Jul 30, 2026 · 06:45 BRT",
+      "pub_date": "2026-07-30",
+      "pub_ts": 1785404721,
+      "summary": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "How the U.S. war with Iran is widening inequality in Africa - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/interactive/2026/07/31/how-us-war-with-iran-is-widening-inequality-africa/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 30, 2026 · 07:27 BRT",
-      "pub_date": "2026-07-30",
-      "pub_ts": 1785407231,
+      "published": "Jul 31, 2026 · 07:17 BRT",
+      "pub_date": "2026-07-31",
+      "pub_ts": 1785493040,
       "summary": "",
       "tags": [
         "extracted",
@@ -7965,14 +7990,28 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-30T11:10:42.151871+00:00",
-  "last_generated_date": "2026-07-30",
-  "last_generated_time": "2026-07-30T23:01:56.858575+00:00",
+  "last_relevant_time": "2026-07-31T11:12:16.264363+00:00",
+  "last_generated_date": "2026-07-31",
+  "last_generated_time": "2026-07-31T08:01:58.143481+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran War Drives Oil Profits to Highest Levels in Years - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXNrallRU3h1ejh5WTdLWHJzbGUwZDJ6Nk5hNi04RXdHeUZId0JNQ3ZFSTM0NzR0QlpmY0dVTncySDl0UFpYeXJ4YTRkSFM1ZGVjNmxnTVRaa0F1elRnNjAtay02Rm5SVUZKdVh0NDJjc0hWMVd6TjZjMFI3V1ozMk9BeDc1Q2xzUzFKSU9aXzFNWHludU1Gay1ZenRaa2hJ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 31, 2026 · 07:34 BRT",
+          "pub_date": "2026-07-31",
+          "pub_ts": 1785494043,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil falls more than $1 on greater flows despite US-Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWtnbUQ2S2JIalNxeXVETFdYcU95VDBtOHpPdlAxWDkzd1B0VVBPNnNpMW8xTGVRbkJ1NTFqbmJ0Ui1ucUUtSVhZeXZwRTQ4eE5FTWRkdzBlZEVJUzZHR0tKdnZTeXFoQlFPSHpGX0pqaEVVU3RhWFJqR2xNZnVJeDdOaG9ONUEtaThtRXhXakladzRkT2JvR1hxSEREVmxkRGRjQWw5ZTNoeTQ?oc=5",
@@ -8150,6 +8189,20 @@
           "published": "Jul 29, 2026 · 14:03 BRT",
           "pub_date": "2026-07-29",
           "pub_ts": 1785344596,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War. - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2NUMU5GZnRvRjhmWEdBMnNEM0g5TTJhdEYwLTFlMDUtOW50WDNxdVpVV2loOG81enNLdnBkTnhNeGVTbG1mNG8tQm9OZnA4OTJXdVhmTGVZZXREcHVVNm5ZSlFMeE9CWUpJWWQ2SnpIWmxQdHZucVZ6d3RaWHcxY2EtZU9pTEVt?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 29, 2026 · 13:01 BRT",
+          "pub_date": "2026-07-29",
+          "pub_ts": 1785340865,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -10807,6 +10860,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Trump convenes cabinet meeting at Camp David on Iran war, as Republicans threatened by gas prices - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fODc0aEQ5OG1qQVpPcHBWeEg1TnFZdHdVVGlCdF9YZTB3M0c4MzhFQkRtN3RfMXo1LTlwdE1GMnhGSHVWSmtuWHo0Tk1fdVVqdDNheWh6ODFDbnpYUDVKbThPcWtIQXRhT2c?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 31, 2026 · 07:22 BRT",
+          "pub_date": "2026-07-31",
+          "pub_ts": 1785493379,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "U.S. officials believe sanctions could hurt Iran more than bombs - Axios",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKWnotVXlUcGZSMVN3RUNfWFhlY1d2dFFQWU4talV0ZVdZc2Y2djk4bDFnd01tVTZ6VUlUSVFESWs0WjFEamFVdy02d01aMnhtYmVvWTlaZ0xsLTRZSzNWdVVET2VlUGdIdWExZ3paelQyVTlvQXdKZzFuQ1oxdjA?oc=5",
           "source": "Axios",
@@ -11114,6 +11181,20 @@
           "published": "Jul 30, 2026 · 15:05 BRT",
           "pub_date": "2026-07-30",
           "pub_ts": 1785434700,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "2/3 of US adults say Iran war hasn’t been worthwhile; 28% back Trump’s handling of it - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHdyTDB0ZThjdUc4TGU0WFhaODZlWk0yX3NfRGNfdXV3ZDR3SkxWczV5QnppZF9BcHV0LU5HWGxKaVpObE5WVmhZOWMzQnBHeFdBQVM1UkczclN0WWtaMjVCdkIxa3pHVGlEWlFaSXpNNUdmWFMzTElRVk1lbjl4U2JZRGltdElZRmd3am1FNjJuY0lxWlhpTXE4cXh4THAxeUVFcEFjTkJVR1VPSXY0V0h4X2FUQVHSAbcBQVVfeXFMTWR3ckwwdGU4Y3VHOExlNFhYWjg2ZVpNMl9zX0RjX3V1d2Q0d0pMVnM1eUJ6aWRfQXB1dC1OR1hsSmlaTmxOVlZoWTljM0JwR3hXQUFTNVJHM3JTdFlrWjI1QnZCMWt6R1RpRFpRWkl6TTVHZlhTM0xJUVZNZW45eFNiWURpbXRJWUZnd2ptRTYybmNJcVpYaU1xOHF4eExwMXlFRXBBY05CVUdVT0l2NFdIeF9hVEFR?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 30, 2026 · 11:41 BRT",
+          "pub_date": "2026-07-30",
+          "pub_ts": 1785422505,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

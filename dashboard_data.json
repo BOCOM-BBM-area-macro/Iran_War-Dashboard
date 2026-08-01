@@ -7699,7 +7699,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-31"
+      "pub_date": "2026-07-30"
     },
     "https://www.bloomberg.com/news/videos/2026-07-30/us-iran-war-flares-as-fighting-spreads-across-mideast-video": {
       "summary": "",
@@ -8066,45 +8066,72 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-07-31T11:12:05.553851+00:00",
+  "last_digest_time": "2026-08-01T11:08:10.950703+00:00",
   "digest": {
-    "digest": "The conflict involving Iran has expanded geographically, with new strikes impacting Iraq, Jordan, and Egypt, drawing more nations into the war. The U.S. has conducted strikes against Iraqi militias, risking further entanglement. Politically, the U.S. Senate has seen votes on limiting war powers, though a measure to end the war failed. Iran has targeted U.S. military assets in Kuwait with drones. Economically, the war is driving oil profits to multi-year highs and has led to increased gas prices, impacting European gas reserves and causing concerns for Republicans ahead of mid-term elections. The Pentagon is seeking significant funds for interceptors related to the war. Shipping in the Red Sea is a growing concern, prompting Saudi Arabia to form a military alliance with over a dozen countries to protect maritime traffic. Bookings have been affected, leading to trimmed revenue guidance for some companies, and the war's impact is widening inequality in Africa. The U.S. war with Iran is creating significant economic and geopolitical challenges.",
+    "digest": "The ongoing Iran War continues to exert significant economic pressure globally, with companies across various sectors, including beer, paint, and fries, reporting price increases. Major oil corporations like Exxon and Chevron have warned of sustained high fuel prices directly linked to the conflict, which has also driven oil profits to multi-year highs. The war's economic fallout is also widening inequality in Africa and contributing to low gas reserves and rising prices in Europe. In response to escalating tensions and potential threats, the Pentagon is seeking substantial funding for interceptors. Recent military actions include reports of a U.S. strike on a residential area, resulting in civilian casualties, and the development of more dangerous missile technology by Iran. Diplomatic and political spheres show continued support for the current administration's stance amidst rising war anxiety, though concerns are being raised by allies regarding the U.S. strategic position. The potential for escalation is highlighted by incidents such as Ukraine's strike on an Iranian ship, indicating how separate conflicts could intertwine and expand.",
     "top_themes": [
-      "Escalation of Conflict",
-      "Economic Impact",
-      "Political Ramifications"
+      "Economic Impact of Iran War",
+      "US Military Actions and Funding",
+      "Geopolitical Ramifications"
     ],
     "next_events": [
       {
-        "title": "Widening Regional Conflict and New Actors",
-        "description": "The conflict is increasingly drawing in more Middle Eastern nations, with new strikes reported in Iraq, Jordan, and Egypt, and Iran targeting US assets in Kuwait. Analysts should closely monitor for further geographic expansion of military engagements and the direct involvement of additional regional powers, particularly in the Red Sea where a new Saudi-led alliance has formed to protect shipping."
+        "title": "Continued US Military Strikes and Iranian Retaliation",
+        "description": "The US has ordered fresh attacks and is considering strikes on Iranian energy targets, indicating a potential escalation. Analysts should monitor the frequency, targets, and intensity of US military actions, as well as Iran's immediate and strategic responses, particularly regarding its missile capabilities and potential for civilian casualties."
       },
       {
-        "title": "Escalating Global Economic Instability",
-        "description": "The war is significantly impacting global energy markets, driving oil profits, straining European gas reserves, and causing economic disruptions like increased shipping costs and widening inequality in Africa. Watch for sustained high energy prices, further supply chain disruptions, and the broader economic health of nations, as these factors could influence international responses and domestic political stability."
+        "title": "Worsening Global Inflation and Energy Crisis",
+        "description": "The war is already driving up prices for various goods, fuel, and oil, benefiting major oil companies but straining consumers and economies worldwide. Watch for further increases in commodity prices, the impact on global inflation rates, and how European energy reserves and prices are affected, potentially leading to broader economic downturns."
       },
       {
-        "title": "US Domestic Political and Policy Shifts",
-        "description": "The war's duration and economic fallout, particularly rising gas prices, are creating significant political pressure on the US administration ahead of midterm elections. Analysts should observe how public opinion and congressional actions, including ongoing debates over presidential war powers, might influence the US's strategic approach, military commitments, and potential for de-escalation or further engagement."
+        "title": "Spillover and Interconnection with Other Wars",
+        "description": "The strike on an Iranian ship by Ukraine highlights how the Iran war could merge with or exacerbate other ongoing global conflicts. Analysts should monitor any further instances of proxy engagements or direct involvement of third-party actors, which could lead to a wider, more complex international conflict landscape."
       },
       {
-        "title": "Critical Maritime Choke Point Security",
-        "description": "With Saudi Arabia forming a military alliance to protect Red Sea shipping, the security of vital global trade routes is a major concern. Monitor the effectiveness of this new coalition, any further attacks on commercial vessels, and potential disruptions to shipping flows, as these could trigger significant economic consequences and broader international intervention."
+        "title": "US Domestic Political and Financial Commitment",
+        "description": "Despite rising war anxiety, GOP lawmakers continue to support the administration, while the Pentagon seeks significant war funds. Watch for shifts in domestic political support for the war, public debate over its escalating costs, and the approval of additional military funding, which will indicate the US's long-term commitment and strategy."
+      },
+      {
+        "title": "Iran's Advancing Missile Threat",
+        "description": "Reports indicate Iran's workhorse missile is becoming more dangerous for US troops. Analysts should closely track any new developments in Iran's missile technology, deployment, and use, as these advancements could significantly alter the tactical landscape and pose increased risks to US forces and regional allies."
+      },
+      {
+        "title": "Strategic Outcome and US Influence in the Region",
+        "description": "Allies fear the US appears headed for a strategic defeat in Iran, raising questions about its long-term influence. Monitor diplomatic efforts, regional power shifts, and the effectiveness of US strategy to gauge the ultimate geopolitical outcome and its implications for stability in the Middle East."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-07-31T11:12:15.686052+00:00",
+  "last_watch_time": "2026-08-01T11:08:21.114074+00:00",
   "relevant_news": [
     {
-      "title": "Iran War Is Entangling a Growing List of Mideast Nations - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+      "title": "Trump Orders Fresh Attack Against Iran as War Enters Sixth Month - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/trump-sours-on-diplomacy-vows-to-hit-iran-hard-2c7af868",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 31, 2026 · 19:19 BRT",
+      "pub_date": "2026-07-31",
+      "pub_ts": 1785536340,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 30, 2026 · 19:25 BRT",
-      "pub_date": "2026-07-30",
-      "pub_ts": 1785450337,
+      "published": "Aug 01, 2026 · 06:01 BRT",
+      "pub_date": "2026-08-01",
+      "pub_ts": 1785574912,
       "summary": "",
       "tags": [
         "extracted",
@@ -8116,32 +8143,52 @@
       "sentiment_success": false
     },
     {
-      "title": "New Strikes Engulf More Countries in the Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
+      "title": "Iran’s Workhorse Missile Is Becoming More Dangerous for U.S. Troops - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/irans-workhorse-missile-is-becoming-more-dangerous-for-u-s-troops-341a77ee",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Jul 31, 2026 · 22:28 BRT",
+      "pub_date": "2026-07-31",
+      "pub_ts": 1785547680,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Visuals Suggest U.S. Dropped 2,000-Pound Bomb on Home in Iran, Killing 3 - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 30, 2026 · 13:05 BRT",
-      "pub_date": "2026-07-30",
-      "pub_ts": 1785427500,
-      "summary": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
+      "published": "Aug 01, 2026 · 00:40 BRT",
+      "pub_date": "2026-08-01",
+      "pub_ts": 1785555613,
+      "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iran Says It Targeted U.S. Military in Kuwait With Drones - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-says-it-targeted-us-military-in-kuwait-with-drones.html",
+      "title": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 31, 2026 · 06:38 BRT",
+      "published": "Jul 31, 2026 · 13:57 BRT",
       "pub_date": "2026-07-31",
-      "pub_ts": 1785490731,
+      "pub_ts": 1785517025,
       "summary": "",
       "tags": [
         "extracted",
@@ -8158,9 +8205,9 @@
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 31, 2026 · 01:00 BRT",
+      "published": "Jul 31, 2026 · 13:48 BRT",
       "pub_date": "2026-07-31",
-      "pub_ts": 1785470400,
+      "pub_ts": 1785516518,
       "summary": "",
       "tags": [
         "extracted",
@@ -8170,49 +8217,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "Saudis Form Military Alliance to Protect Red Sea Shipping - The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 30, 2026 · 06:45 BRT",
-      "pub_date": "2026-07-30",
-      "pub_ts": 1785404721,
-      "summary": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "How the U.S. war with Iran is widening inequality in Africa - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/interactive/2026/07/31/how-us-war-with-iran-is-widening-inequality-africa/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Jul 31, 2026 · 07:17 BRT",
-      "pub_date": "2026-07-31",
-      "pub_ts": 1785493040,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-07-31T11:12:16.264363+00:00",
-  "last_generated_date": "2026-07-31",
-  "last_generated_time": "2026-07-31T23:02:13.338639+00:00",
+  "last_relevant_time": "2026-08-01T11:08:21.524731+00:00",
+  "last_generated_date": "2026-08-01",
+  "last_generated_time": "2026-08-01T08:01:59.299034+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

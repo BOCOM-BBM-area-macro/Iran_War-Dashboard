@@ -7264,7 +7264,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-30"
+      "pub_date": "2026-07-29"
     },
     "https://www.reuters.com/business/energy/canadian-oil-heads-japan-first-time-over-year-iran-war-tightens-middle-east-2026-07-29/": {
       "summary": "",
@@ -7999,6 +7999,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.wsj.com/business/iran-war-pushes-companies-to-raise-prices-on-beer-paint-fries-and-more-e55d31b2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-07-31"
+    },
+    "https://www.wsj.com/world/middle-east/irans-workhorse-missile-is-becoming-more-dangerous-for-u-s-troops-341a77ee": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -12775,6 +12795,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Iran War Pushes Companies to Raise Prices on Beer, Paint, Fries and More - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVRyMkJDNVdxV2FCeFhDcXV2TDVXa0VhU1BaNEdQSFhlZUxkMFN2a25qME12UnVSNGtpelg4RUlNcjFRek9ZZ1VPS0F6YjA0S0dWRjFGdjhVTlNXaEc4dWVab1BFYlVQT1RYYjBCeWR0OVMzZ2paVmFpN21DbmNneThVeFZkNlJjTG0wcDNnbmsyRU5pcHc4TU05bFpVVWsxVTdFaG5HN21reE40?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 31, 2026 · 23:00 BRT",
+          "pub_date": "2026-07-31",
+          "pub_ts": 1785549600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Two tankers carrying Saudi oil for India exit Red Sea by going 'dark' - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1c5eUo4aHBKOEVJOU1KYTE0ZzhwdHBtUzNlbDJaaFhiTDJjY0xiSWN3Vm8yY2VzX2ZjUEFkR1k5ZkxKWVR5REZVUmZWUkZ0dEVBRDd3eDlIVDRLM0NBQjJES3JuTzRqYVFCMDFmZllzcDc3bFdBU3FNYVB3Wkd0c2k4WlplZEtxNV9zcF9QM3h0ZzdRNFFpWVZBWTF3Q1FKaHNXY2JyVEphSUFC?oc=5",

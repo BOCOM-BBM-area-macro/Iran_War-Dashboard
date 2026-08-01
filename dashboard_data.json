@@ -7699,7 +7699,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-30"
+      "pub_date": "2026-07-31"
     },
     "https://www.bloomberg.com/news/videos/2026-07-30/us-iran-war-flares-as-fighting-spreads-across-mideast-video": {
       "summary": "",
@@ -8035,7 +8035,7 @@
       "pub_date": "2026-08-01"
     },
     "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html": {
-      "summary": "",
+      "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8112,6 +8112,29 @@
         "Iran",
         "Lebanon",
         "Syria"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-01"
+    },
+    "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904270": {
+      "summary": "Mohammad Marandi warned on Saturday that critical infrastructure across the Gulf and in Israel could be destroyed, as US officials reportedly raised concerns over missile-defense resources.",
+      "tags": [
+        "Iran",
+        "Iran US Conflict",
+        "iran war scenario",
+        "Israel Iran War",
+        "us israel iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8275,7 +8298,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-01T11:08:21.524731+00:00",
   "last_generated_date": "2026-08-01",
-  "last_generated_time": "2026-08-01T14:01:58.332526+00:00",
+  "last_generated_time": "2026-08-01T15:02:01.360474+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

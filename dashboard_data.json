@@ -7885,7 +7885,7 @@
       "pub_date": "2026-08-01"
     },
     "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump": {
-      "summary": "",
+      "summary": "President Trump had vowed a response after Iran targeted U.S. forces in Jordan. There were also attacks in Iraq, while an American tanker was among two ships that caught fire in Egypt.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8161,7 +8161,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-02"
+      "pub_date": "2026-08-01"
     },
     "https://www.reuters.com/world/asia-pacific/iran-threatens-strike-other-nations-energy-fields-if-us-launches-fresh-attacks-2026-08-01/": {
       "summary": "",
@@ -8370,6 +8370,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-02"
+    },
+    "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
     }
   },
   "last_digest_success": true,
@@ -8518,12 +8528,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-02T11:07:28.841471+00:00",
   "last_generated_date": "2026-08-02",
-  "last_generated_time": "2026-08-02T19:01:53.618353+00:00",
+  "last_generated_time": "2026-08-02T20:01:45.843792+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZxblAwb3V2Z2N2SF85bjh6RDhPbW0xQllmVjJSbW1hRC1SbU9zVmdNRWktVEstY0thQ2RBdzBtS1U0aUNweExSYng1a1B4d2hsRFZaZ01SMmg5SUZVUW0wbmZtNFBsemtieUlVQXZJdjdac3RqY2tISFFaaUV1ajRn?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 02, 2026 · 19:31 BRT",
+          "pub_date": "2026-08-02",
+          "pub_ts": 1785709911,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Strikes against Saudi Arabia by Yemen’s Houthis widen dangers in Iran war - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZNR0NxMlRvamQxeTFqSmRFdm94SGU5RF9fUGZwTUd0TVdZd3ZfUkFTdGxfc0czWWdrc2FYdVk2WWNHYVB3WjhwdVBabGYwNXpBaE1JcUZybVVIYkZjdjVoUWZBdDdRTWIxR0lTQWVIcWlQeWpUb2NXcWVUaS05R01sX0hPUzJIbW1HbXZQakJheDg0d0tYNlVjTzJTcUg1MjQ1VVdaTGxFT1NtWnpaUlBXajBidWRSUHc?oc=5",

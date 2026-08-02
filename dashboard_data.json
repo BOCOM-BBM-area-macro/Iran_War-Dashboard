@@ -7699,7 +7699,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-31"
+      "pub_date": "2026-07-30"
     },
     "https://www.bloomberg.com/news/videos/2026-07-30/us-iran-war-flares-as-fighting-spreads-across-mideast-video": {
       "summary": "",
@@ -7729,7 +7729,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-30"
+      "pub_date": "2026-08-01"
     },
     "https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31": {
       "summary": "",
@@ -8168,6 +8168,28 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904286": {
+      "summary": "\"The USA is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II,\" Trump claimed.",
+      "tags": [
+        "Iran",
+        "United States",
+        "us iran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-01"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-says-he-and-israel-have-called-off-iran-attack-after-receiving-assurance-that-deal-is-imminent/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -8206,7 +8206,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-02"
+      "pub_date": "2026-08-01"
     },
     "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html": {
       "summary": "",
@@ -8220,6 +8220,26 @@
     },
     "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1": {
       "summary": "Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
+    },
+    "https://www.nytimes.com/2026/08/02/opinion/iran-revolution-father-murder-boroujerdi-grimm.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
+    },
+    "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4": {
+      "summary": "US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack",
       "tags": [
         "extracted",
         "ft.com"

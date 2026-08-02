@@ -8092,7 +8092,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-02"
+      "pub_date": "2026-08-01"
     },
     "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html": {
       "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
@@ -8161,7 +8161,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-01"
+      "pub_date": "2026-08-02"
     },
     "https://www.reuters.com/world/asia-pacific/iran-threatens-strike-other-nations-energy-fields-if-us-launches-fresh-attacks-2026-08-01/": {
       "summary": "",
@@ -8209,7 +8209,7 @@
       "pub_date": "2026-08-01"
     },
     "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html": {
-      "summary": "",
+      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8229,7 +8229,7 @@
       "pub_date": "2026-08-02"
     },
     "https://www.nytimes.com/2026/08/02/opinion/iran-revolution-father-murder-boroujerdi-grimm.html": {
-      "summary": "",
+      "summary": "After a lifetime of observing Iran’s revolutionary generation, I know that expecting meekness or diplomatic finesse from them is a dangerous illusion.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8279,7 +8279,7 @@
       "pub_date": "2026-08-02"
     },
     "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html": {
-      "summary": "",
+      "summary": "Whatever is happening in Iran, it isn’t working.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8346,6 +8346,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
+    },
+    "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1": {
+      "summary": "Negotiations on agreement seen as critical to preventing the US-Iran war from escalating said to be in ‘final stages’",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
+    },
+    "https://www.wsj.com/opinion/trumps-latest-iran-deal-7c90e6cc": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8498,7 +8518,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-02T11:07:28.841471+00:00",
   "last_generated_date": "2026-08-02",
-  "last_generated_time": "2026-08-02T17:02:03.923045+00:00",
+  "last_generated_time": "2026-08-02T18:01:44.526838+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

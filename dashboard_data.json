@@ -8267,64 +8267,121 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-02"
+    },
+    "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1": {
+      "summary": "US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-01T11:08:10.950703+00:00",
+  "last_digest_time": "2026-08-02T11:07:21.530421+00:00",
   "digest": {
-    "digest": "The ongoing Iran War continues to exert significant economic pressure globally, with companies across various sectors, including beer, paint, and fries, reporting price increases. Major oil corporations like Exxon and Chevron have warned of sustained high fuel prices directly linked to the conflict, which has also driven oil profits to multi-year highs. The war's economic fallout is also widening inequality in Africa and contributing to low gas reserves and rising prices in Europe. In response to escalating tensions and potential threats, the Pentagon is seeking substantial funding for interceptors. Recent military actions include reports of a U.S. strike on a residential area, resulting in civilian casualties, and the development of more dangerous missile technology by Iran. Diplomatic and political spheres show continued support for the current administration's stance amidst rising war anxiety, though concerns are being raised by allies regarding the U.S. strategic position. The potential for escalation is highlighted by incidents such as Ukraine's strike on an Iranian ship, indicating how separate conflicts could intertwine and expand.",
+    "digest": "Recent events indicate a significant de-escalation in direct military confrontation between the United States and Iran, with President Trump stating he canceled planned strikes on Iran. This decision was reportedly influenced by requests from Middle Eastern allies and a belief that a deal was imminent. Iran, however, has been actively expanding its military actions across the Middle East through proxies, raising the stakes and devising plans to increase costs for the U.S. should hostilities resume. Concurrently, strikes by Yemen's Houthis against Saudi Arabia have widened the dangers in the broader regional conflict. A U.S. general has warned of insufficient forces to protect Israel, highlighting ongoing strategic concerns. There are also reports of Iran plotting a wider war with the assistance of its proxies, suggesting a complex and multi-faceted regional dynamic. The effectiveness of U.S. policy in Iran is being questioned by allies, who fear a strategic defeat. President Trump has also made claims regarding the impact of the Iran conflict on oil prices and munitions stockpiles, some of which have been fact-checked as misleading.",
     "top_themes": [
-      "Economic Impact of Iran War",
-      "US Military Actions and Funding",
-      "Geopolitical Ramifications"
+      "US-Iran Tensions",
+      "De-escalation Efforts",
+      "Regional Instability"
     ],
     "next_events": [
       {
-        "title": "Continued US Military Strikes and Iranian Retaliation",
-        "description": "The US has ordered fresh attacks and is considering strikes on Iranian energy targets, indicating a potential escalation. Analysts should monitor the frequency, targets, and intensity of US military actions, as well as Iran's immediate and strategic responses, particularly regarding its missile capabilities and potential for civilian casualties."
+        "title": "Progress on US-Iran Deal Outlines",
+        "description": "Multiple reports indicate President Trump canceled strikes in anticipation of a deal or progress on its outlines. Analysts should monitor any official statements, back-channel communications, or specific proposals that emerge, as the success or failure of these negotiations will dictate the immediate future of US-Iran tensions."
       },
       {
-        "title": "Worsening Global Inflation and Energy Crisis",
-        "description": "The war is already driving up prices for various goods, fuel, and oil, benefiting major oil companies but straining consumers and economies worldwide. Watch for further increases in commodity prices, the impact on global inflation rates, and how European energy reserves and prices are affected, potentially leading to broader economic downturns."
+        "title": "Iran's Proxy Network and Regional Escalation",
+        "description": "Iran has been actively expanding its influence and raising stakes through proxies, such as the Houthi strikes against Saudi Arabia. Watch for continued or intensified actions by Iranian-backed groups across the Middle East, as these could trigger further regional instability and potentially draw in more international actors."
       },
       {
-        "title": "Spillover and Interconnection with Other Wars",
-        "description": "The strike on an Iranian ship by Ukraine highlights how the Iran war could merge with or exacerbate other ongoing global conflicts. Analysts should monitor any further instances of proxy engagements or direct involvement of third-party actors, which could lead to a wider, more complex international conflict landscape."
+        "title": "US Military Capacity to Protect Allies",
+        "description": "A US general has reportedly warned the Pentagon about insufficient forces to protect Israel, highlighting potential vulnerabilities. Monitor any adjustments in US force posture, defense aid to allies, or public statements regarding military readiness in the region, as this directly impacts deterrence and response capabilities."
       },
       {
-        "title": "US Domestic Political and Financial Commitment",
-        "description": "Despite rising war anxiety, GOP lawmakers continue to support the administration, while the Pentagon seeks significant war funds. Watch for shifts in domestic political support for the war, public debate over its escalating costs, and the approval of additional military funding, which will indicate the US's long-term commitment and strategy."
-      },
-      {
-        "title": "Iran's Advancing Missile Threat",
-        "description": "Reports indicate Iran's workhorse missile is becoming more dangerous for US troops. Analysts should closely track any new developments in Iran's missile technology, deployment, and use, as these advancements could significantly alter the tactical landscape and pose increased risks to US forces and regional allies."
-      },
-      {
-        "title": "Strategic Outcome and US Influence in the Region",
-        "description": "Allies fear the US appears headed for a strategic defeat in Iran, raising questions about its long-term influence. Monitor diplomatic efforts, regional power shifts, and the effectiveness of US strategy to gauge the ultimate geopolitical outcome and its implications for stability in the Middle East."
+        "title": "Regional Allies' Influence on US Iran Policy",
+        "description": "Saudi Arabia and other Middle East allies have expressed concerns and requested the cancellation of US strikes, demonstrating their significant influence. Observe how these allies continue to shape US strategic decisions regarding Iran, particularly concerning military action or diplomatic engagement, as their input can be a critical determinant of policy."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-01T11:08:21.114074+00:00",
+  "last_watch_time": "2026-08-02T11:07:28.389338+00:00",
   "relevant_news": [
     {
-      "title": "Trump Orders Fresh Attack Against Iran as War Enters Sixth Month - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/trump-sours-on-diplomacy-vows-to-hit-iran-hard-2c7af868",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 31, 2026 · 19:19 BRT",
-      "pub_date": "2026-07-31",
-      "pub_ts": 1785536340,
+      "title": "Iran sets the pace in war with Trump - Financial Times",
+      "url": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Aug 02, 2026 · 02:38 BRT",
+      "pub_date": "2026-08-02",
+      "pub_ts": 1785649098,
+      "summary": "Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Strikes against Saudi Arabia by Yemen’s Houthis widen dangers in Iran war - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/02/strikes-against-saudi-arabia-by-yemens-houthis-widen-dangers-iran-war/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 02, 2026 · 06:25 BRT",
+      "pub_date": "2026-08-02",
+      "pub_ts": 1785662745,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 02, 2026 · 06:56 BRT",
+      "pub_date": "2026-08-02",
+      "pub_ts": 1785664563,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Plotted Wider War With Help of Its Proxies - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 01, 2026 · 13:42 BRT",
+      "pub_date": "2026-08-01",
+      "pub_ts": 1785602555,
+      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
       "sentiment_success": false
     },
     {
@@ -8333,9 +8390,9 @@
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 01, 2026 · 06:01 BRT",
+      "published": "Aug 01, 2026 · 11:46 BRT",
       "pub_date": "2026-08-01",
-      "pub_ts": 1785574912,
+      "pub_ts": 1785595580,
       "summary": "",
       "tags": [
         "extracted",
@@ -8347,91 +8404,47 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran’s Workhorse Missile Is Becoming More Dangerous for U.S. Troops - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/irans-workhorse-missile-is-becoming-more-dangerous-for-u-s-troops-341a77ee",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Jul 31, 2026 · 22:28 BRT",
-      "pub_date": "2026-07-31",
-      "pub_ts": 1785547680,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Visuals Suggest U.S. Dropped 2,000-Pound Bomb on Home in Iran, Killing 3 - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html",
+      "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 01, 2026 · 00:40 BRT",
+      "published": "Aug 01, 2026 · 06:02 BRT",
       "pub_date": "2026-08-01",
-      "pub_ts": 1785555613,
-      "summary": "",
+      "pub_ts": 1785574937,
+      "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral - The New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Jul 31, 2026 · 13:57 BRT",
-      "pub_date": "2026-07-31",
-      "pub_ts": 1785517025,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Pentagon Seeks $18.2 Billion in Iran War Funds for Interceptors - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/pentagon-seeks-18-2-billion-in-iran-war-funds-for-interceptors",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Jul 31, 2026 · 13:48 BRT",
-      "pub_date": "2026-07-31",
-      "pub_ts": 1785516518,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-01T11:08:21.524731+00:00",
-  "last_generated_date": "2026-08-01",
-  "last_generated_time": "2026-08-01T23:02:04.223763+00:00",
+  "last_relevant_time": "2026-08-02T11:07:28.841471+00:00",
+  "last_generated_date": "2026-08-02",
+  "last_generated_time": "2026-08-02T08:02:08.035606+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Strikes against Saudi Arabia by Yemen’s Houthis widen dangers in Iran war - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZNR0NxMlRvamQxeTFqSmRFdm94SGU5RF9fUGZwTUd0TVdZd3ZfUkFTdGxfc0czWWdrc2FYdVk2WWNHYVB3WjhwdVBabGYwNXpBaE1JcUZybVVIYkZjdjVoUWZBdDdRTWIxR0lTQWVIcWlQeWpUb2NXcWVUaS05R01sX0hPUzJIbW1HbXZQakJheDg0d0tYNlVjTzJTcUg1MjQ1VVdaTGxFT1NtWnpaUlBXajBidWRSUHc?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 02, 2026 · 06:25 BRT",
+          "pub_date": "2026-08-02",
+          "pub_ts": 1785662745,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "As Cease-Fire Teetered, Iran Plotted a Wider War With Aid of Its Proxies - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMDJlZkVkZ1NFVWZZOTV4b2U5bC0yVi1PUnJqNkpkNnBQZDh2TWJIS2U4dHRJYU9ib2o2a0dGMjgwM0JucDJiaUhmcm9YWmM5alB3Smw4NUNBbFVUNTQ2T3NvdC1sMmRGcGk5YUIyNGM1WXdhYjA2a0ZzTGZOdTl5Q0ZSRQ?oc=5",

@@ -8207,6 +8207,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-02"
+    },
+    "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
     }
   },
   "last_digest_success": true,
@@ -8773,6 +8783,20 @@
           "published": "Jul 27, 2026 · 19:01 BRT",
           "pub_date": "2026-07-27",
           "pub_ts": 1785189660,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says U.S. having 'good talks' with Iran, but more strikes possible if negotiations fail - CBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTNzlRMWtFVUNTZ08zVDJTNWxJa2R1czBQR3RuX3VXSFpiUGdpQzM4NWdHSUhLV0YtUU56cnd6ekF2UjZzLWpNZWFoVHB6clN5MGFnTF9LQ2QwcE5FQXlTQmZkcHJzQWI2SWN3ekM4N0NUWjFrRG9v?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Jul 27, 2026 · 18:48 BRT",
+          "pub_date": "2026-07-27",
+          "pub_ts": 1785188911,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

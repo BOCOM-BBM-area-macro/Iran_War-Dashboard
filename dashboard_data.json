@@ -8206,7 +8206,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-01"
+      "pub_date": "2026-08-02"
     },
     "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html": {
       "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
@@ -8423,6 +8423,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-02"
+    },
+    "https://www.reuters.com/world/india/index-snub-test-indian-bonds-rupee-rbi-policy-us-iran-war-focus-2026-08-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
     }
   },
   "last_digest_success": true,
@@ -8571,7 +8581,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-02T11:07:28.841471+00:00",
   "last_generated_date": "2026-08-02",
-  "last_generated_time": "2026-08-02T22:02:02.899815+00:00",
+  "last_generated_time": "2026-08-02T23:01:53.869488+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

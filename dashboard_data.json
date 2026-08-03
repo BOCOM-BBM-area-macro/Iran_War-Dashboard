@@ -8380,6 +8380,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-02"
+    },
+    "https://www.nytimes.com/live/2026/08/02/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
+    },
+    "https://www.wsj.com/world/middle-east/trump-pivots-back-to-diplomacy-as-iran-victory-eludes-him-a925ee98": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
+    },
+    "https://www.reuters.com/world/asia-pacific/trump-says-iran-talks-take-place-monday-sets-no-deadline-deal-2026-08-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904381": {
+      "summary": "The US halted an attack on Iran \"that would have been the biggest attack since World War II, which would have been disastrous for them,\" Trump explained.",
+      "tags": [
+        "Iran",
+        "United States",
+        "iran and us",
+        "Iran nuclear",
+        "Iran Nuclear Deal"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
     }
   },
   "last_digest_success": true,
@@ -8528,12 +8571,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-02T11:07:28.841471+00:00",
   "last_generated_date": "2026-08-02",
-  "last_generated_time": "2026-08-02T20:01:45.843792+00:00",
+  "last_generated_time": "2026-08-02T21:01:45.486854+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Progress Toward Deal Led Trump to Call Off Strikes, He Says - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56VERmdjVVZEJzaHhVbVlXY2RmbmZGUkU2a3o3QUxOaFl0ZFVZNkwtNkRYZV9UZ1ZYanZXcHFDZmVIc09NaWJSMktBRVJrZlVNRWhKZ25FYjhYbmZ2dzRMSjlEQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 02, 2026 · 20:30 BRT",
+          "pub_date": "2026-08-02",
+          "pub_ts": 1785713413,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZxblAwb3V2Z2N2SF85bjh6RDhPbW0xQllmVjJSbW1hRC1SbU9zVmdNRWktVEstY0thQ2RBdzBtS1U0aUNweExSYng1a1B4d2hsRFZaZ01SMmg5SUZVUW0wbmZtNFBsemtieUlVQXZJdjdac3RqY2tISFFaaUV1ajRn?oc=5",

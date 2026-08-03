@@ -8092,7 +8092,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-02"
+      "pub_date": "2026-08-01"
     },
     "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html": {
       "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
@@ -8486,6 +8486,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-02"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/iran-war-ushers-oil-refining-golden-era-it-wont-last-2026-08-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
     }
   },
   "last_digest_success": true,
@@ -8640,6 +8650,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war ushers in oil refining golden era. It won’t last - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmQzdlBDbmtIRE9EaFVuRHRPd0pzYUtkY0VyT1FPYmVlaGsxUXJnSWt1emxRQ3p2ZFY5aXVPSGpNQVZaM0hkMThIREtfRU1YcTdQSXFrYU1FNlAyeWYxVGZoeHFWMG5kcm9rUUxzd2Z0OUY0REtwWUFyNGlTczgybWxmRng3azZackV2U2NianBjeVdDbGxXLUhLdkxhMTVvR0VsQzVPb2xxcW9zTDFLMHF3bFFpaE1JckJ3NVh3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 03, 2026 · 03:01 BRT",
+          "pub_date": "2026-08-03",
+          "pub_ts": 1785736860,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Progress Toward Deal Led Trump to Call Off Strikes, He Says - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56VERmdjVVZEJzaHhVbVlXY2RmbmZGUkU2a3o3QUxOaFl0ZFVZNkwtNkRYZV9UZ1ZYanZXcHFDZmVIc09NaWJSMktBRVJrZlVNRWhKZ25FYjhYbmZ2dzRMSjlEQQ?oc=5",

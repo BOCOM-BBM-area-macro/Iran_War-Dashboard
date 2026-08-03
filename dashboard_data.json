@@ -8379,7 +8379,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-03"
+      "pub_date": "2026-08-02"
     },
     "https://www.nytimes.com/live/2026/08/02/us/trump-news": {
       "summary": "",
@@ -8641,6 +8641,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-03"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-03/iran-war-made-belgium-wholly-dependent-on-russia-for-lng-in-july": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
+    },
+    "https://www.axios.com/local/chicago/2026/08/03/chicago-gas-costs-rise-with-tension-in-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
     }
   },
   "last_digest_success": true,
@@ -8792,7 +8812,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-03T11:08:50.221808+00:00",
   "last_generated_date": "2026-08-03",
-  "last_generated_time": "2026-08-03T10:02:13.559306+00:00",
+  "last_generated_time": "2026-08-03T11:01:59.631106+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12196,6 +12216,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran War Made Belgium Wholly Dependent on Russia for LNG in July - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1RhLXdTMHhVRW1NWHBBV3hocl9ZWlFMZ2FVRWhnLUI4ZC1GNC16aWkyUW1sRWlLa25ySTBwMWxBbjlqTkE5UDNESjZ3bFFmeWFZWkxuYkRMS2tZVFk0bzFXM3VycnRMYkUwUl9tckJ3SVo2QTNvWWZXUlItTjdCeEZPVDZQSlRTdHdfbEhBbFl3amxmT041NmF2OWVOYnZ2ZnFTV2x0REtjZV9kR2NBdDg0NE9Edw?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 03, 2026 · 09:50 BRT",
+          "pub_date": "2026-08-03",
+          "pub_ts": 1785761430,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Big oil companies reap billions off the Iran War - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUV8wUnFrWmh2M0FMVkUxQV9MNHRsT2dJR3dPWDl3MVppa0tDblVtVWZfdHhzUGc0V3VpdTBWNG1aQXhtNWxqY2FBcTNkWG9xMlRSNTJmd0tvSjR6WklNZ2RsN0dkNExHd0hTSmpHMUhjZGpSVHA1N3pvSFJEeG5GNDhtM1JqWDB1THYxSTBvYzlfamEzZC1PMkZoVDE5aDNBTW9uSEVGbnhMMmZN?oc=5",

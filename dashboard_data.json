@@ -8536,66 +8536,91 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-02"
+    },
+    "https://www.reuters.com/world/middle-east/how-iran-is-widening-its-pressure-campaign-force-us-concessions-2026-08-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/03/why-iran-surprise-missile-attack-should-not-have-been-surprise/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904429": {
+      "summary": "Military officials described the crowdsourcing-style email as unusual, while a second source said CENTCOM was reviewing its approach and considering a wide range of alternatives.",
+      "tags": [
+        "Iran",
+        "us iran",
+        "Donald Trump",
+        "US military",
+        "Trump Administration"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
+    },
+    "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-02T11:07:21.530421+00:00",
+  "last_digest_time": "2026-08-03T11:08:39.807310+00:00",
   "digest": {
-    "digest": "Recent events indicate a significant de-escalation in direct military confrontation between the United States and Iran, with President Trump stating he canceled planned strikes on Iran. This decision was reportedly influenced by requests from Middle Eastern allies and a belief that a deal was imminent. Iran, however, has been actively expanding its military actions across the Middle East through proxies, raising the stakes and devising plans to increase costs for the U.S. should hostilities resume. Concurrently, strikes by Yemen's Houthis against Saudi Arabia have widened the dangers in the broader regional conflict. A U.S. general has warned of insufficient forces to protect Israel, highlighting ongoing strategic concerns. There are also reports of Iran plotting a wider war with the assistance of its proxies, suggesting a complex and multi-faceted regional dynamic. The effectiveness of U.S. policy in Iran is being questioned by allies, who fear a strategic defeat. President Trump has also made claims regarding the impact of the Iran conflict on oil prices and munitions stockpiles, some of which have been fact-checked as misleading.",
+    "digest": "Recent developments indicate a significant shift in the Iran war, with President Trump announcing the cancellation of planned strikes against Iran, citing progress towards a deal. This decision followed a period of heightened tensions and threats of escalation. Iran, however, has stated that no current talks are underway with the U.S., creating a dynamic of \"whiplash\" regarding diplomatic progress. CENTCOM has reportedly solicited \"creative and unconventional\" strategies to pressure Iran, exploring options ranging from expanded air campaigns to potential ground operations, though concerns exist regarding dwindling supplies and civilian casualties. Regional leaders, including Saudi Arabia's Crown Prince, have urged de-escalation. The conflict has also seen the Houthis in Yemen open a new front. Economically, oil prices have plummeted following the news of potential talks, and the European Central Bank has noted a significant impact on Eurozone consumption due to the Iran war, while also suggesting a temporary \"golden era\" for oil refining that is not expected to last.",
     "top_themes": [
-      "US-Iran Tensions",
-      "De-escalation Efforts",
-      "Regional Instability"
+      "Diplomatic Developments and Negotiations",
+      "Military Strategy and Escalation Concerns",
+      "Economic Impact of the Conflict"
     ],
     "next_events": [
       {
-        "title": "Progress on US-Iran Deal Outlines",
-        "description": "Multiple reports indicate President Trump canceled strikes in anticipation of a deal or progress on its outlines. Analysts should monitor any official statements, back-channel communications, or specific proposals that emerge, as the success or failure of these negotiations will dictate the immediate future of US-Iran tensions."
+        "title": "Status of US-Iran Negotiations",
+        "description": "Despite President Trump's claims of impending talks and progress towards a deal, Iran has publicly rejected the notion of current negotiations. Analysts should closely monitor any official confirmation of direct diplomatic engagement, the stated objectives of both parties, and the initial outcomes, as the presence or absence of talks will dictate the immediate trajectory of the conflict."
       },
       {
-        "title": "Iran's Proxy Network and Regional Escalation",
-        "description": "Iran has been actively expanding its influence and raising stakes through proxies, such as the Houthi strikes against Saudi Arabia. Watch for continued or intensified actions by Iranian-backed groups across the Middle East, as these could trigger further regional instability and potentially draw in more international actors."
+        "title": "Evolution of US Military Strategy and Actions",
+        "description": "CENTCOM is actively seeking 'creative and unconventional' ways to pressure Iran, indicating a potential shift in military approach beyond current limited strikes. Watch for any announcements or indications of a revised US strategy, including the scale of potential air campaigns, consideration of ground operations for deeply buried nuclear sites, or alternative punitive measures, and their implications for escalation."
       },
       {
-        "title": "US Military Capacity to Protect Allies",
-        "description": "A US general has reportedly warned the Pentagon about insufficient forces to protect Israel, highlighting potential vulnerabilities. Monitor any adjustments in US force posture, defense aid to allies, or public statements regarding military readiness in the region, as this directly impacts deterrence and response capabilities."
+        "title": "Iran's Pressure Campaign and Regional Proxy Activity",
+        "description": "Iran is reportedly widening its pressure campaign to force US concessions, with groups like Yemen's Houthis opening new fronts. Analysts should observe any further actions by Iran or its proxies, particularly in critical maritime areas or against US interests, as these could signal a hardening of Iran's stance or a deliberate escalation to gain leverage."
       },
       {
-        "title": "Regional Allies' Influence on US Iran Policy",
-        "description": "Saudi Arabia and other Middle East allies have expressed concerns and requested the cancellation of US strikes, demonstrating their significant influence. Observe how these allies continue to shape US strategic decisions regarding Iran, particularly concerning military action or diplomatic engagement, as their input can be a critical determinant of policy."
+        "title": "Global Oil Market Volatility",
+        "description": "Oil prices have demonstrated significant sensitivity to developments in the Iran conflict, plummeting on news of de-escalation or potential talks. Monitor how global oil and energy markets react to concrete progress or setbacks in negotiations, or any renewed military actions, as this will serve as a key indicator of perceived risk and economic stability."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-02T11:07:28.389338+00:00",
+  "last_watch_time": "2026-08-03T11:08:49.593838+00:00",
   "relevant_news": [
     {
-      "title": "Iran sets the pace in war with Trump - Financial Times",
-      "url": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Aug 02, 2026 · 02:38 BRT",
-      "pub_date": "2026-08-02",
-      "pub_ts": 1785649098,
-      "summary": "Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Strikes against Saudi Arabia by Yemen’s Houthis widen dangers in Iran war - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/08/02/strikes-against-saudi-arabia-by-yemens-houthis-widen-dangers-iran-war/",
+      "title": "Iran rejects Trump’s claim that talks will restart, adding to weekend of whiplash - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/02/trump-cancels-iran-attack-citing-progress-deal-tehran-israel-alert/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 02, 2026 · 06:25 BRT",
-      "pub_date": "2026-08-02",
-      "pub_ts": 1785662745,
+      "published": "Aug 03, 2026 · 07:10 BRT",
+      "pub_date": "2026-08-03",
+      "pub_ts": 1785751827,
       "summary": "",
       "tags": [
         "extracted",
@@ -8607,14 +8632,52 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 02, 2026 · 06:56 BRT",
+      "title": "Iran says no current talks with U.S. - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-no-current-talks-with-us-2026-08-03/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 03, 2026 · 04:29 BRT",
+      "pub_date": "2026-08-03",
+      "pub_ts": 1785742195,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump says Iran talks to take place on Monday, sets no deadline for deal - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-talks-take-place-monday-sets-no-deadline-deal-2026-08-02/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 02, 2026 · 20:23 BRT",
       "pub_date": "2026-08-02",
-      "pub_ts": 1785664563,
+      "pub_ts": 1785712980,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 03, 2026 · 05:50 BRT",
+      "pub_date": "2026-08-03",
+      "pub_ts": 1785747011,
       "summary": "",
       "tags": [
         "extracted",
@@ -8626,36 +8689,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran Plotted Wider War With Help of Its Proxies - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 01, 2026 · 13:42 BRT",
-      "pub_date": "2026-08-01",
-      "pub_ts": 1785602555,
-      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 01, 2026 · 11:46 BRT",
-      "pub_date": "2026-08-01",
-      "pub_ts": 1785595580,
+      "title": "After months on the Iran war’s sidelines, Yemen’s Houthis open a dangerous new front - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/02/strikes-against-saudi-arabia-by-yemens-houthis-widen-dangers-iran-war/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 02, 2026 · 13:00 BRT",
+      "pub_date": "2026-08-02",
+      "pub_ts": 1785686400,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -8663,28 +8708,29 @@
       "sentiment_success": false
     },
     {
-      "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 01, 2026 · 06:02 BRT",
-      "pub_date": "2026-08-01",
-      "pub_ts": 1785574937,
-      "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
+      "title": "Watch Iran War: Trump Says New Talks to Begin | Daybreak Europe 8/3/2026 - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/daybreak-europe-8-03-2026-video",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 02, 2026 · 21:00 BRT",
+      "pub_date": "2026-08-02",
+      "pub_ts": 1785715200,
+      "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-02T11:07:28.841471+00:00",
-  "last_generated_date": "2026-08-02",
-  "last_generated_time": "2026-08-02T23:01:53.869488+00:00",
+  "last_relevant_time": "2026-08-03T11:08:50.221808+00:00",
+  "last_generated_date": "2026-08-03",
+  "last_generated_time": "2026-08-03T08:02:06.956523+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

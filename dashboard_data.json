@@ -8206,7 +8206,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-02"
+      "pub_date": "2026-08-03"
     },
     "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html": {
       "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
@@ -8463,6 +8463,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-03"
+    },
+    "https://www.reuters.com/world/middle-east/iran-executes-two-people-accused-working-israel-2026-08-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-08-03/live-updates-904386": {
+      "summary": "Israel reportedly intended to join now-canceled US attack on Iran • IDF confirms explosive that wounded Lebanese soldiers was from Hezbollah • Renewed US-Iran talks to start on Monday, Trump says",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Iran",
+        "iran israel",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-02"
     }
   },
   "last_digest_success": true,
@@ -8640,6 +8663,20 @@
           "published": "Aug 02, 2026 · 19:31 BRT",
           "pub_date": "2026-08-02",
           "pub_ts": 1785709911,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil slides after Trump says talks with Iran will resume - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQejVYV1RBOVd3bTdBMXpUNDc5VlhwOFNQam83b0NiYThFRXd3eXBLcko3dXY3c29EM2t6Rkx2SkJxMzQ0Wmxpd3FJLWgtLTJQREpSdkR2ZUhSSFVqQ0ozV1dHbS1GSFl2UVNxMURxMXFlZXVROFVsUEtPdWQyUzhGbTFvVGg?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 02, 2026 · 16:00 BRT",
+          "pub_date": "2026-08-02",
+          "pub_ts": 1785697224,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

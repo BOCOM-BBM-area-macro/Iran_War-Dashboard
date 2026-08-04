@@ -8042,7 +8042,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-03"
+      "pub_date": "2026-08-04"
     },
     "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html": {
       "summary": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
@@ -8757,6 +8757,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-03"
+    },
+    "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-04"
     }
   },
   "last_digest_success": true,

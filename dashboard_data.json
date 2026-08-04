@@ -8372,7 +8372,7 @@
       "pub_date": "2026-08-02"
     },
     "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html": {
-      "summary": "",
+      "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8541,10 +8541,13 @@
       "pub_date": "2026-08-02"
     },
     "https://www.reuters.com/world/middle-east/how-iran-is-widening-its-pressure-campaign-force-us-concessions-2026-08-03/": {
-      "summary": "",
+      "summary": "Iran is betting it can outlast Washington by turning the Middle East's trade routes, shipping lanes and energy infrastructure into pressure points that steadily raise the cost of confrontation, according to Gulf officials and analysts.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:MARKETS-RECOMMENDED",
+        "ANV",
+        "MTVID"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8724,6 +8727,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-03"
+    },
+    "https://www.washingtonpost.com/national-security/2026/08/03/trump-claims-active-ceasefire-talks-iran-denies-direct-negotiations/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
+    },
+    "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html": {
+      "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
     }
   },
   "last_digest_success": true,
@@ -8875,7 +8898,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-03T11:08:50.221808+00:00",
   "last_generated_date": "2026-08-03",
-  "last_generated_time": "2026-08-03T21:01:58.808962+00:00",
+  "last_generated_time": "2026-08-03T22:01:45.008893+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

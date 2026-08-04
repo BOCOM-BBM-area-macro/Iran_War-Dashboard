@@ -8787,6 +8787,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-04"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904512": {
+      "summary": "Avner Vilan said Tehran believes its control of the Strait of Hormuz and ability to survive heavy damage would allow it to keep pressuring the region even after US strikes.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Persian Gulf",
+        "Tehran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-04"
+    },
+    "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-jumps-33-on-higher-oil-prices-amid-iran-war-3ae028ce": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-04/aramco-profit-jumps-33-as-us-war-with-iran-boosts-oil-prices": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-04"
     }
   },
   "last_digest_success": true,
@@ -8944,6 +8977,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Saudi Aramco Profit Jumps 33% on Higher Oil Prices Amid Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2x4a0RLYlJZX09jaHpuU0lVRGw0MmIxVG5uS2NyNlV4X09MSjByV3FzSDRTem5oek9sM09hN1g2ZzNZTXFfN3BUanJYYUtScHFBYl84RllwclQtN1VyZkQwZWZXRFVpT3Voc0wtZ1FiWll6Vl95LTdBWjJoSy10LXRFdXVYclViWHFsLU4zNTF2bTVRT0xsNGt6bUxXMEtFSDlOQnNYSENTRlJVbE1sWUJB?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 04, 2026 · 03:24 BRT",
+          "pub_date": "2026-08-04",
+          "pub_ts": 1785824640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",

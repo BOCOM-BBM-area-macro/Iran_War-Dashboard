@@ -8042,7 +8042,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-04"
+      "pub_date": "2026-08-03"
     },
     "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html": {
       "summary": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
@@ -8820,6 +8820,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-not-seeking-a-wider-war-its-president-claims/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-04"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/asia-crude-fuel-imports-recover-still-shy-pre-iran-war-levels-2026-08-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904495": {
+      "summary": "The United Kingdom Maritime and Trade Operations (UKMTO) center said in a post on X/Twitter that a cargo vessel had been hit by an unknown projectile off the coast of Oman.",
+      "tags": [
+        "Iran",
+        "Iraq",
+        "kuwait",
+        "IRGC",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-04"
     }
   },
   "last_digest_success": true,
@@ -9000,6 +9033,20 @@
           "published": "Aug 03, 2026 · 22:02 BRT",
           "pub_date": "2026-08-03",
           "pub_ts": 1785805320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Asia crude and fuel imports recover, still shy of pre-Iran war levels - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGVwVDlqUHgzUTZBLWFQWGVUNWZWS0hmM3hiRElSNFNDcVhtc2pPMUI4X1lzY2pBNlFBRTdKd0s3MDlaY0NhWVV0N0lsU2RGTzI0cGJ3eFo4SFR2dEV0VFY1a2lzZW4yenVWYUFpMmNJU1pxQi15N19DZ2VfLVlTVmJuR2lZd1MyVzJHVkJXaWMyeTNRSHhPQzZybDQydmdjNnExMnRXTmNaMW1TUl9rb1BzOWI3VVR2d0QxZHdBT2NrU2hJellTTDl3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 03, 2026 · 21:44 BRT",
+          "pub_date": "2026-08-03",
+          "pub_ts": 1785804280,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

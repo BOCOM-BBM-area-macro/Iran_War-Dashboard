@@ -8092,7 +8092,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-02"
+      "pub_date": "2026-08-01"
     },
     "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html": {
       "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
@@ -8747,6 +8747,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-03"
+    },
+    "https://www.reuters.com/business/energy/oil-ticks-up-after-selloff-talks-end-us-iran-war-remain-uncertain-2026-08-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-03"
     }
   },
   "last_digest_success": true,
@@ -8904,6 +8914,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 03, 2026 · 22:02 BRT",
+          "pub_date": "2026-08-03",
+          "pub_ts": 1785805320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Diamondback Energy Lifts Production Guidance, Reports Surging Profit on High Oil Prices - WSJ",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2R2ZUdVQ3dNR0dLd29tRWhQaVdCNlE2UUU5aG9aQlFwXzFrbThwVy1oc2l5bmg4djJGMzdrRVJvbEZVWkhwZjkyYlJ1NWJnVEcwZlQ5MVh4Y21JbUZ2SUhILWhkYmhaQVVXMGFqOEFDMjh5MDBmUE10V0FEek5MSE5mVHR5ZXJINk5hbEJqLUh0Q0QzTGVPU1lDMFlVemJpLVhhSld2b0RoeEwtc3JnMnNiSVBuUzlBTUV5LUVjbVB1RHNDX185NFJLZUhnMC1r?oc=5",

@@ -8465,7 +8465,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-03"
+      "pub_date": "2026-08-05"
     },
     "https://www.reuters.com/world/middle-east/iran-executes-two-people-accused-working-israel-2026-08-03/": {
       "summary": "",
@@ -8756,7 +8756,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-03"
+      "pub_date": "2026-08-04"
     },
     "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html": {
       "summary": "",
@@ -9199,6 +9199,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-05"
+    },
+    "https://www.washingtonpost.com/national/2026/08/05/mideast-news-roundup-iran-aug-5-2026/47891fc0-90da-11f1-9fdc-0a725c989a7b_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/05/matt-davies-cartoon-iran-war-gas-prices/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
     }
   },
   "last_digest_success": true,
@@ -9355,12 +9375,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-05T11:09:17.735172+00:00",
   "last_generated_date": "2026-08-05",
-  "last_generated_time": "2026-08-05T11:01:58.572076+00:00",
+  "last_generated_time": "2026-08-05T12:02:32.326104+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 02:11 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785906660,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S. Stocks Near a Record High Amid Lull in Iran War - nytimes.com",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTGFyNmhQUktla1pyTHRPNkZIWmR3NGdDOWtkYnp5RzY0bkgyY2I2Skl1RjE4TUVUckpPeEMyNGFxZ1c5Tzlqc3ZhdEVkWGNOdGxtX1BuZnpJLTVQSmwtcDRHcWFsWWMwbnJUeHNlaVNZV1NjUU1fc2tFQ2s?oc=5",
@@ -12969,6 +13003,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Opinion | Cartoon by Matt Davies - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUxBaWltejVFNG5ncDJ0dkxOY2ZsTy11MTJhUGlPYjJMS2h6NmtNZlFIUHhsNjFFOTZnRFpCdjQwUDJFY3RUX19LR3hia2JuMjl6cG5TMEJRQzlaMzVON0dIUTdTU2hoRzNrR0VjTmtTLWRVanNMZkxGVDNxRTdYbWFxamlldGxwS0txQTNKbGlMdWVfMEE?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 11:18 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785939491,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "BP's quarterly profit doubles to over $5 billion after Iran war oil surge - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU9hYzNQV1Ezbmd5OXB4Z1d4QTR0QU80Z0MteS03b002RE5yd2hPb2l5Z0NqLWJ4Y21PSTN0Z29UNVBBVEVyRDRGc0VNUnoySWNlcWU4cUlVXy1iNWd0MVA3V3pXLXN1ZHlyQWcyNzRfcmNxYnJKWFBQTWZ1anZtajRzcFRSd3BIQWJhOVlfQXZUaVU2Y1RlTUhqcHBQZ1ItTjhJeEg0NA?oc=5",

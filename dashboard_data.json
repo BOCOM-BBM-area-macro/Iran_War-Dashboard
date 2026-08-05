@@ -9335,6 +9335,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-05"
+    },
+    "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/05/trump-wrong-blame-oil-companies-high-gas-prices-amid-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
     }
   },
   "last_digest_success": true,
@@ -9491,12 +9511,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-05T11:09:17.735172+00:00",
   "last_generated_date": "2026-08-05",
-  "last_generated_time": "2026-08-05T19:01:55.198636+00:00",
+  "last_generated_time": "2026-08-05T20:01:53.466431+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | Gas prices rose because of Trump’s Iran war, not oil company greed - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMEo3OWpNTVkwN3JkNi1xNlVtaGQzcTJWczFFc1g3TDRKRmRQdTJ1UHVQNV9oU2xlazY0WjVzRWVzVjhiVmpWM3JFSHlhZWhDNkhZS3E4UXlTMjJ4ckZzTnRfa0s4R3ZPNjlpYU5PMWFtUExLc09kdktxRC1xRm1MY1dQLUNMVU40RXg5Q1hoY2FlQmlWNGxaNmtSaEkwN0pqc1A0eTV4VHVUMmlxN2xGU0lRaw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 19:36 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785969397,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gulf oil exports steady in July, still 40% below pre-war mark - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1c5cDdsaENzVWRTM3JoaUFicGFuczBDdm5GY2tkLWJhN0pSVk81MTlYMm1CQlNmQ1c5ZHZJUUFnLUhFd29CZmRjaEhkR0k3aEZRQW1JR3BKbVZiLVQ5UFJrSFZCTEFIMHpSakZ3TW5IZDctci1sT1piR2VzcGhNU21fN3FDd3ZLaEJ3dFBXdjY2Wjd4aEtwblhlTHJETENxWG5lRDNlWEpCM2ZS?oc=5",
@@ -9506,6 +9540,20 @@
           "published": "Aug 05, 2026 · 15:25 BRT",
           "pub_date": "2026-08-05",
           "pub_ts": 1785954322,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUlkQ0h6SC1RMzl4aW92c2FhZTJualhoVTFaZmJyaUt2cmRxeWlIZGNBeXF5S0pzc2xpVF9wM0doSnRwVmtmTDVyN1hZZjFXd0xhTjJKSVhkRlFvODZ2VEZwNldTUGJUcEhMM1F1a1V5WDBsXzVYdmJBbDFvSlJoOF9FWmkzYnBzTnc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 14:27 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785950873,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

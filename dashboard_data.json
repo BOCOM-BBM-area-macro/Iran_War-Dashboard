@@ -9149,48 +9149,53 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-05"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-05/iran-war-exposes-us-military-aluminum-risk-shown-in-pentagon-war-game": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-04T11:07:33.084252+00:00",
+  "last_digest_time": "2026-08-05T11:09:08.870136+00:00",
   "digest": {
-    "digest": "Recent reports indicate that the United States has utilized a significant portion of its long-range precision missiles during the Iran war, raising concerns about current munitions stockpiles, with some claims attributing these concerns to prior administration policies. Diplomatic efforts to de-escalate the conflict remain uncertain, as Iran has repeatedly denied ongoing direct negotiations with the US, despite claims from the US side of active ceasefire talks. Tensions persist in the Strait of Hormuz, with a vessel being struck by an unknown projectile off the coast of Oman, and Iran asserting its control and ability to pressure the region. Concurrently, oil prices have seen gains, with crude and fuel imports recovering but still below pre-war levels, while Saudi Aramco reported substantial profit increases attributed to higher oil prices driven by the conflict. An emerging deal could potentially allow for renewed shipping activity but may grant Iran increased strategic leverage in the Strait of Hormuz.",
+    "digest": "Recent reports indicate a significant depletion of US long-range precision missiles and THAAD interceptors, with sources suggesting 'virtually all' of the former and 80% of the latter have been utilized in the Iran war. Concurrently, diplomatic efforts are underway, with the US reporting 'very good discussions' and 'all-day negotiations' with Iran, aiming for a Hormuz deal announcement. However, Iran has denied ongoing negotiations or planned talks, creating a divergence in stated diplomatic stances. Qatar has reported progress in mediation efforts to end the conflict. The ongoing war is impacting the Eurozone's economic outlook and threatening the Trump administration's domestic agenda by driving up costs and decreasing public support. Investors are awaiting clarity on US-Iran talks, leading to mixed reactions in major Gulf bourses. The strategic importance of the Strait of Hormuz to Iran remains a central element of the conflict.",
     "top_themes": [
-      "US Munitions Stockpile Concerns",
-      "Iran-US Diplomatic Stalemate",
-      "Strait of Hormuz Security",
-      "Oil Market Volatility",
-      "Saudi Aramco Profitability"
+      "US Missile Depletion",
+      "Hormuz Strait Negotiations",
+      "Iran-US Diplomatic Engagements",
+      "Economic Impact of Conflict"
     ],
     "next_events": [
       {
-        "title": "US-Iran Negotiation Outlook",
-        "description": "Despite conflicting reports and denials, the possibility of US-Iran talks or ceasefire negotiations remains a key area of uncertainty. Analysts should monitor any official statements, third-party mediation efforts, or shifts in rhetoric from either side that could signal a breakthrough or a complete breakdown in diplomatic efforts."
+        "title": "US Military Readiness and Missile Stockpiles",
+        "description": "Multiple reports indicate the US has used a significant portion of its long-range precision missiles and THAAD interceptors in the Iran war. Analysts should monitor any official statements or intelligence leaks regarding current inventory levels and production capabilities, as this directly impacts the US's ability to sustain prolonged conflict or deter future aggression."
       },
       {
-        "title": "Strait of Hormuz Security and Shipping Disruptions",
-        "description": "The Strait of Hormuz continues to be a critical flashpoint, with recent vessel strikes and Iran's asserted strategic leverage over the waterway. Watch for further incidents targeting commercial shipping, changes in naval deployments, or any emerging agreements that could alter transit rights and global energy flows."
+        "title": "Progress on US-Iran Negotiations and Hormuz Deal",
+        "description": "Despite conflicting reports on the existence and nature of talks, there's a strong focus on a potential 'Hormuz deal' and ongoing US-Iran discussions. Watch for official announcements from either side, particularly regarding the Strait of Hormuz, as any agreement or breakdown in discussions will dictate the immediate trajectory of US-Iran relations and regional stability."
       },
       {
-        "title": "US Military Munitions Stockpile Status",
-        "description": "Reports indicate the US has utilized 'virtually all' of its long-range precision missiles during the Iran war, raising concerns about sustained operational capacity. Analysts must assess official statements on munitions levels, procurement efforts, and any visible changes in US military posture that suggest resource constraints or strategic limitations."
+        "title": "Economic Fallout and Global Market Volatility",
+        "description": "The conflict is already impacting global economic outlooks, driving up costs, and threatening domestic agendas in the US and Eurozone. Analysts should observe energy prices, supply chain stability (e.g., aluminum), and investor sentiment in major Gulf bourses for signs of economic strain or recovery, which could influence policy decisions."
       },
       {
-        "title": "Iranian Retaliatory Actions and US Force Protection",
-        "description": "Iran has claimed significant US casualties and reportedly struck a US air base in Kuwait, indicating ongoing direct conflict. Monitor for new reports of Iranian attacks against US personnel or facilities in the Middle East, US responses to such actions, and any changes in force protection measures as indicators of escalation."
+        "title": "Iran's Posture on Strait of Hormuz Control",
+        "description": "Iran is reportedly staking everything on controlling the Strait of Hormuz, a critical global chokepoint. Monitor any Iranian military movements, rhetoric, or actions in and around the Strait, as these will indicate their resolve and potential for escalation or de-escalation in the region."
       },
       {
-        "title": "Regional Conflict Expansion and Proxy Activity",
-        "description": "The conflict has broader regional implications, including IDF actions against Hezbollah and Iran's consideration of striking Ukraine. Watch for increased activity by Iran-backed proxies, cross-border incidents involving other regional actors, or any expansion of Iranian threats to new theaters beyond direct US-Iran engagements."
-      },
-      {
-        "title": "Global Energy Market Volatility",
-        "description": "The Iran War has significantly impacted global oil prices, driving them up and affecting crude and fuel imports. Analysts should track continued volatility in oil prices, changes in production levels from major producers like Saudi Aramco, and any disruptions to supply chains as key indicators of the war's economic fallout."
+        "title": "Effectiveness of International Mediation Efforts",
+        "description": "Qatar and other mediators are reportedly making progress in efforts to end the US-Iran war. Watch for specific proposals, joint statements, or breakthroughs facilitated by third-party nations, as successful mediation could provide a diplomatic off-ramp and reduce immediate tensions."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-04T11:07:45.930907+00:00",
+  "last_watch_time": "2026-08-05T11:09:16.992101+00:00",
   "relevant_news": [
     {
       "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
@@ -9198,9 +9203,9 @@
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 04, 2026 · 07:34 BRT",
+      "published": "Aug 04, 2026 · 07:08 BRT",
       "pub_date": "2026-08-04",
-      "pub_ts": 1785839651,
+      "pub_ts": 1785838080,
       "summary": "",
       "tags": [
         "extracted",
@@ -9212,18 +9217,18 @@
       "sentiment_success": false
     },
     {
-      "title": "The Iran War’s Forgotten Captives: Sailors Trapped in the Persian Gulf - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 04, 2026 · 01:01 BRT",
-      "pub_date": "2026-08-04",
-      "pub_ts": 1785816069,
+      "title": "Report: US used up 80% of its THAAD missile interceptors in Iran war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/report-us-used-up-80-of-its-thaad-missile-interceptors-in-iran-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Aug 05, 2026 · 01:28 BRT",
+      "pub_date": "2026-08-05",
+      "pub_ts": 1785904120,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -9231,35 +9236,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iranian official claims nearly 500 US soldiers killed in Middle East strikes - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-904511",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 04, 2026 · 05:25 BRT",
-      "pub_date": "2026-08-04",
-      "pub_ts": 1785831945,
-      "summary": "Rezaei's statement comes amid months of US airstrikes intended to reduce Iran’s ability to threaten commercial shipping through the Strait of Hormuz and compel Tehran to return to negotiations.",
-      "tags": [
-        "Iran",
-        "Tehran",
-        "Iran US Conflict",
-        "Donald Trump",
-        "US military"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Oil gains over 2% as talks to end US-Iran war remain uncertain - Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-ticks-up-after-selloff-talks-end-us-iran-war-remain-uncertain-2026-08-04/",
+      "title": "US has used 'virtually all' long-range precision missiles in Iran war - Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW329905082026RP1/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 03, 2026 · 22:02 BRT",
-      "pub_date": "2026-08-03",
-      "pub_ts": 1785805320,
+      "published": "Aug 05, 2026 · 03:00 BRT",
+      "pub_date": "2026-08-05",
+      "pub_ts": 1785909600,
       "summary": "",
       "tags": [
         "extracted",
@@ -9271,50 +9255,67 @@
       "sentiment_success": false
     },
     {
-      "title": "An Emerging Deal Could Cement Iran’s Control of Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 03, 2026 · 22:19 BRT",
-      "pub_date": "2026-08-03",
-      "pub_ts": 1785806368,
-      "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.",
+      "title": "Trump Says Iran Talks Going Well as Hopes Rise for Hormuz Deal - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/qatar-signals-progress-toward-short-term-deal-between-us-iran",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 05, 2026 · 01:19 BRT",
+      "pub_date": "2026-08-05",
+      "pub_ts": 1785903540,
+      "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-08-04/live-updates-904500",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 04, 2026 · 07:00 BRT",
+      "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/status-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 04, 2026 · 00:41 BRT",
       "pub_date": "2026-08-04",
-      "pub_ts": 1785837605,
-      "summary": "Iran will not allow US to open new route through Strait of Hormuz • Qatar, Egypt, Turkey condemn Israeli military action in Gaza • Vessel struck in Strait of Hormuz",
+      "pub_ts": 1785814860,
+      "summary": "",
       "tags": [
-        "Benjamin Netanyahu",
-        "Gaza",
-        "Hamas",
-        "Hezbollah",
-        "Iran"
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "Live\nUpdates:\nLatest\nfrom\nIsrael,\nIran,\nand\nMiddle\nEast\n|\nThe\nJerusalem\nPost\nLive\nUpdates:\nIran\nForeign\nMinistry\ndenies\nongoing\nUS\nnegotiations\nas\nIran\nstrikes\nUS\nair\nbase\nin\nKuwait\nIran\nwill\nnot\nallow\nUS\nto\nopen\nnew\nroute\nthrough\nStrait\nof\nHormuz\n•\nQatar,\nEgypt,\nTurkey\ncondemn\nIsraeli\nmilitary\naction\nin\nGaza\n•\nVessel\nstruck\nin\nStrait\nof\nHormuz\nFollow\nus\non\nGoogle\nUS\nPresident\nDonald\nTrump\nanswers\nquestions\nfrom\nthe\nmedia\nafter\nsigning\nan\nexecutive\norder\nestablishing\nthe\nPresident's\nMilitary\nSpouse\nCommission\nto\nbe\nchaired\nby\nJennifer\nRauchet,\nwife\nof\nDefense\nSecretary\nPete\nHegseth,\nin\nthe\nOval\nOffice\nat\nthe\nWhite\nHouse\nin\nWashington,\nUS,\nAugust\n3,\n2026.\n(\nphoto\ncredit\n:\nREUTERS/Evelyn\nHockstein/File\nPhoto\n)\nAugust\n4,\n11:41\nAM\nIDF\nto\ndemolish\nhome\nof\nterrorist\nwho\ncarried\nout\nWest\nBank\nshooting\nattack\nBy\nJERUSALEM\nPOST\nSTAFF\nAugust\n4,\n10:51\nAM\nIran\nsees\nstrategic\nadvantage,\nTrump\nseeks\nto\navoid\nmore\nwar,\nformer\nIsraeli\nsecurity\nofficial\nsays\nTehran\nbelieves\nUS\nPresident\nDonald\nTrump\nis\nreluctant\nto\nbecome\ninvolved\nin\nanother\nmajor\nwar.\nBy\n103FM\nAn\nanti-Israel\nbillboard\nis\nseen\nnext\nto\nthe\nIranian\nflag\nduring\na\ncelebration\nfollowing\nthe\nIRGC\nattack\non\nIsrael,\nin\nTehran,\nIran,\nApril\n15,\n2024.\n(\nphoto\ncredit\n:\nMajid\nAsgaripour/WANA/via\nReuters\n)\nGo\nto\nthe\nfull\narticle\n>\n>\nAugust\n4,\n10:49\nAM\nAdviser\nto\nMojtaba\nKhamenei\nclaims\nhundreds\nof\nUS\nsoldiers\nkilled,\nwounded\nin\nIranian\nstrikes\nRepeated\nUS\nescalations\nhave\nbeen\nmet\nby\nincreasing\nIranian\nresponses\nagainst\nUS\nforces.\nBy\nMAYA\nZANGER-NADIS\nUS\nforces\noperating\nin\nthe\nStrait\nof\nHormuz,\nJuly\n17,\n2026.\n(\nphoto\ncredit\n:\nScreenshot/X/@PeteHegseth\n)\nGo\nto\nthe\nfull\narticle\n>\n>\nAugust\n4,\n10:48\nAM\nIDF\ndestroys\nIran-backed\nHezbollah\ntunnel\nsystems,\nsays\nmore\nremain\nin\nsouthern\nLebanon\nNorthern\nCommand\nofficers\nstressed\nthat\nthe\nIDF\nhas\nstrengthened\nits\noperational\ngrip\non\nHezbollah.\nBy\nAMIR\nBOHBOT\nHezbollah\ntunnel\nnetwork.\n(\nphoto\ncredit\n:\nIDF\nSPOKESPERSON\nUNIT\n)\nGo\nto\nthe\nfull\narticle\n>\n>\nAugust\n4,\n10:47\nAM\nIran\nconsidered\nattacking\nUkraine\nover\nship\nstrike\nin\nCaspian\nSea,\nadviser\nto\nKhamenei\nclaims\nMoshen\nRezaei\nsaid\nthe\nstrikes\nhad\nbeen\nplanned\nas\na\nresponse\nto\na\nUkrainian\nattack.\nBy\nJONAH\nDAVIDOV\nIran's\nmilitary\nadvisor\nto\nSupreme\nLeader\nMojtaba\nKhamenei\nin\nan\ninterview\nwith\nIran's\nstate-run\nPressTV.\n(\nphoto\ncredit\n:\nScreenshot/X/PressTV\n)\nGo\nto\nthe\nfull\narticle\n>\n>\nAugust\n4,\n9:12\nAM\nIran\nnot\nseeking\na\nwider\nwar,\npresident\nsays\nBy\nREUTERS\nAugust\n4,\n5:40\nAM\nShipping\ntraffic\nat\nkey\nGulf\nwaterways\nlittle\nchanged\non\nuncertain\npeace\ntalks\nTraffic\nremained\nlargely\nslow\nat\nHormuz,\nwith\nsix\nvessels,\nthree\ntankers\nand\nthree\nbulk\ncarriers,\ntransiting\nthe\nstrait\non\nMonday,\ndown\nfrom\nseven\non\nthe\nprevious\nday,\naccording\nto\nKpler\ndata.\nBy\nREUTERS\nA\nvessel\nat\nthe\nStrait\nof\nHormuz,\nas\nseen\nfrom\nMusandam,\nOman,\nJuly\n23,\n2026.\n(\nphoto\ncredit\n:\nREUTERS/STRINGER\n)\nGo\nto\nthe\nfull\narticle\n>\n>\nAugust\n4,\n5:07\nAM\nIranian\nForeign\nMinister\nto\nvisit\nPakistan,\nmediators\n'cautiously\noptimistic'\n-\nreport\nBy\nJERUSALEM\nPOST\nSTAFF\nAugust\n4,\n4:47\nAM\nIran\nattacks\nUS\nbase\nin\nKuwait,\nvessel\nhit\nby\nprojectile\nnear\nStrait\nof\nHormuz\nThe\nUnited\nKingdom\nMaritime\nand\nTrade\nOperations\n(UKMTO)\ncenter\nsaid\nin\na\npost\non\nX/Twitter\nthat\na\ncargo\nvessel\nhad\nbeen\nhit\nby\nan\nunknown\nprojectile\noff\nthe\ncoast\nof\nOman.\nBy\nESTHER\nDAVIS\n,\nAMICHAI\nSTEIN\nSmoke\nbillows\nnear\nthe\noil\nfacility\nin\nMangaf,\nKuwait,\nJuly\n18,\n2026,\nin\nthis\nscreen\ngrab\nobtained\nfrom\na\nsocial\nmedia\nvideo.\n(\nphoto\ncredit\n:\nSocial\nMedia/via\nREUTERS\n)\nGo\nto\nthe\nfull\narticle\n>\n>\nAugust\n4,\n4:47\nAM\nIDF\non\nhigh\nalert\nfor\npossibility\nof\nescalation\nwith\nIran\namid\nTrump's\nescalating\nthreats\nThis\ncomes\namid\nTrump’s\nescalating\nthreats\ntoward\nTehran,\nas\nhe\nclaimed\nthat\n\"this\nis\ntheir\nlast\nopportunity\nto\nsign\nan\nagreement.\"\nBy\nAMIR\nBOHBOT\nMilitary\nequipment\ntargeted\nat\nan\nunknown\nlocation,\nduring\nwhat\nUS\nCENTCOM\nsays\nare\nstrikes\non\nIran,\nin\nthis\nvideo\nscreengrab\nreleased\nJuly\n20.\n(\nphoto\ncredit\n:\nCENTCOM/Handout\nvia\nREUTERS\n)\nGo\nto\nthe\nfull\narticle\n>\n>\nLoad\nMore\nOperation\nRoaring\nLion:\nWhat\nyou\nneed\nto\nknow\nIsrael\nand\nthe\nUS\nlaunched\nOperations\nRoaring\nLion\nand\nEpic\nFury\non\nFebruary\n28,\nwith\nthe\nstated\naim\nof\ncreating\nconditions\nfor\nregime\nchange\nAyatollah\nAli\nKhamenei\nwas\nkilled\nby\nan\nIsraeli\nstrike\non\na\nTehran\nbunker.\nIran’s\ndefense\nminister\nand\nseveral\nIRGC\ngenerals\nwere\nalso\nkilled\nin\nthe\nlargest-ever\naerial\nattack\nby\nthe\nIAF\nIran\nretaliated\nby\nfiring\nacross\nthe\nMiddle\nEast\nat\nGulf\nnations\nand\nUS\nmilitary\nbases\nin\nthe\nregion\nThirty-nine\nIDF\nsoldiers\nand\n23\ncivilians\nhave\nbeen\nkilled,\nand\nat\nleast\n7,693\nmore\ninjured\nin\nballistic\nmissile\nattacks\nacross\nIsrael\nsince\nFebruary\n28\n•\n18\nUS\nsoldiers\nkilled,\nCENTCOM\nsays\nA\nceasefire\ndeal\nwas\nannounced\non\nApril\n7\nand\nwent\ninto\neffect\non\nApril\n8\nSee\nmore\non\nBenjamin\nNetanyahu\n|\nGaza\n|\nHamas\n|\nHezbollah\n|\nIran\n|\nLebanon\n|\nHamas\nIran\n|\nMiddle\nEast\n|\nDonald\nTrump\n|\nIslamic\nRevolutionary\nGuard\nCorps\n|\nMemorandum\nof\nUnderstanding\n|\ndrone\n|\nIRGC\n|\nstrait\nof\nhormuz\n|\nLive\nUpdates\n|\nOperation\nEpic\nFury\n|\nOperation\nRoaring\nLion\nFollow\nus\non\nGoogle",
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Major Gulf bourses mixed as investors await clarity on US-Iran talks - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/major-gulf-bourses-mixed-investors-await-clarity-us-iran-talks-2026-08-05/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 05, 2026 · 05:32 BRT",
+      "pub_date": "2026-08-05",
+      "pub_ts": 1785918757,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-04T11:07:46.647801+00:00",
-  "last_generated_date": "2026-08-04",
-  "last_generated_time": "2026-08-04T23:01:52.280542+00:00",
+  "last_relevant_time": "2026-08-05T11:09:17.735172+00:00",
+  "last_generated_date": "2026-08-05",
+  "last_generated_time": "2026-08-05T08:02:06.742355+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -14073,6 +14074,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "World faces fresh food price surge, FAO warns - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHJ6aHpOeXBGeVhjdjBkcVVfdF9wSHYzRlpkWDh3eEZENXJPdlU5amwtN2k1OE80VXA2TlBPWGh3VzVnWG5vLTVjanROSjI1Q3hJS2lEQUR5WEFlSy0yM05XZFRLWDJTUkJzbkZnVFdRTHgxbVhMZVQ4VWZ1empGcUY3cDRyS21GUWU2ZkFkaTZRajVkUm9xdGExQWZXeVU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 07:22 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785925326,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "ADM raises annual profit forecast as soybean processing outlook improves - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWNNclJBRG1LdXhBRUxqeFRkeXhZc1YtRjVTai1wV2VpTlI2R3dOVXhPeUlKX2l4MWpfcmtSTnJDNmYzcldGXzJ4c1c2RnljR2EtejgzUDhmbUkyTHpMMk4wa0tOS0lRS3QyRW1YZzkyR2lFMktadkhtUU54THdQWjlqSzdpVl9tVmtscVNpNFB2X28xcnBSUUUtaXpkZ3NuV3hiSG9BcS0xNWJlZ2x3NEFhd2FQVzFVbUpOdi1IN0x3RVlMNUk4bS1R?oc=5",
           "source": "Reuters",
@@ -14502,6 +14517,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Pentagon War Game Exposed a Critical US Aluminum Risk Months Before Iran Attacks - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalJkYUNJOG51QWpDVzJCSFJndFZYV053ZmVxVHczenBndS1XQUNEMFg5RVVvZDE4R3pYb0lFRWk4UWkwbjJmdGpTX2ozTzJEZ1R5Z2cxWk1zV21mNTNrM0ZXZWg0X1N0dDZBQW8tZG44dFBNeUNtalYzS2ZxeVNBd1NTal9ZSGZneHJaek4tS0xjSk4ybHM2UUwyTzUweU9iUjJkWDFJd0FlWTJIUXRITzJYcmxoTmZqZnpyXw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 07:00 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785924021,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gold extends gains on lower oil and softer dollar - Reuters",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5",

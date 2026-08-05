@@ -9262,6 +9262,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-05"
+    },
+    "https://www.reuters.com/world/middle-east/iran-oman-reach-understanding-coordinates-route-through-hormuz-iran-ministry-2026-08-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
+    },
+    "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
+    },
+    "https://www.jpost.com/opinion/article-904622": {
+      "summary": "This was another case of what has come to be known as TACO, Trump Chickens Out Again. This is not the first – and likely not the last – time he warns of strikes only to back down at the last minute.",
+      "tags": [
+        "Iran",
+        "Persian Gulf",
+        "Middle East",
+        "Donald Trump",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-05"
     }
   },
   "last_digest_success": true,
@@ -9418,7 +9451,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-05T11:09:17.735172+00:00",
   "last_generated_date": "2026-08-05",
-  "last_generated_time": "2026-08-05T14:02:03.274461+00:00",
+  "last_generated_time": "2026-08-05T15:02:03.415817+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

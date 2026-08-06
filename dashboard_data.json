@@ -9078,7 +9078,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-04"
+      "pub_date": "2026-08-06"
     },
     "https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1": {
       "summary": "The US president faces few good options to exit a war he once said would end swiftly with the Islamic republic’s surrender",
@@ -9417,7 +9417,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-05"
+      "pub_date": "2026-08-06"
     },
     "https://www.bloomberg.com/news/newsletters/2026-08-06/budget-airline-wizz-air-reports-loss-as-iran-war-pushes-jet-fuel-costs-higher": {
       "summary": "",
@@ -9468,53 +9468,62 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-06"
+    },
+    "https://www.reuters.com/world/middle-east/iran-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll-2026-08-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-05T11:09:08.870136+00:00",
+  "last_digest_time": "2026-08-06T11:10:05.740126+00:00",
   "digest": {
-    "digest": "Recent reports indicate a significant depletion of US long-range precision missiles and THAAD interceptors, with sources suggesting 'virtually all' of the former and 80% of the latter have been utilized in the Iran war. Concurrently, diplomatic efforts are underway, with the US reporting 'very good discussions' and 'all-day negotiations' with Iran, aiming for a Hormuz deal announcement. However, Iran has denied ongoing negotiations or planned talks, creating a divergence in stated diplomatic stances. Qatar has reported progress in mediation efforts to end the conflict. The ongoing war is impacting the Eurozone's economic outlook and threatening the Trump administration's domestic agenda by driving up costs and decreasing public support. Investors are awaiting clarity on US-Iran talks, leading to mixed reactions in major Gulf bourses. The strategic importance of the Strait of Hormuz to Iran remains a central element of the conflict.",
+    "digest": "The ongoing Iran war continues to be a focal point, with reports indicating Iran's strategic focus on controlling the Strait of Hormuz, potentially through a proposed deal that would grant Iran control over inbound traffic. Domestically, the war has exposed divisions within the US, with reports of President Trump clashing with advisors over munition shortages and expressing exasperation with the conflict. Public opinion suggests Americans are bracing for further regional instability. Diplomatic efforts are ongoing, with President Trump reiterating positive portrayals of Iran talks and stating that the US held an 'all-day negotiation' with Iran. However, Iran has also issued threats to strike Gulf states if the US launches new strikes. The economic repercussions of the conflict are significant, with rising gas prices attributed to the war and US refining margins boosted by the conflict, leading to strong quarterly estimates for companies like Phillips 66. The war's volatility is also impacting international business, with Wizz Air warning of continued challenges. Furthermore, the conflict has highlighted new geopolitical dynamics, such as China's emergence of a new oil weapon. Europe's own stability is being tested by the confluence of the Iran and Ukraine wars, alongside other global challenges.",
     "top_themes": [
-      "US Missile Depletion",
-      "Hormuz Strait Negotiations",
-      "Iran-US Diplomatic Engagements",
-      "Economic Impact of Conflict"
+      "Iran's Strait of Hormuz Strategy",
+      "US Domestic Political Divisions on Iran War",
+      "Economic Impacts of the Iran War"
     ],
     "next_events": [
       {
-        "title": "US Military Readiness and Missile Stockpiles",
-        "description": "Multiple reports indicate the US has used a significant portion of its long-range precision missiles and THAAD interceptors in the Iran war. Analysts should monitor any official statements or intelligence leaks regarding current inventory levels and production capabilities, as this directly impacts the US's ability to sustain prolonged conflict or deter future aggression."
+        "title": "Strait of Hormuz Control and Shipping Security",
+        "description": "Iran is reportedly staking everything on controlling the Strait of Hormuz, with proposed deals potentially giving them control over inbound traffic. Analysts should closely monitor any negotiations, military posturing, or incidents in this critical chokepoint, as disruptions would severely impact global oil supplies and maritime trade."
       },
       {
-        "title": "Progress on US-Iran Negotiations and Hormuz Deal",
-        "description": "Despite conflicting reports on the existence and nature of talks, there's a strong focus on a potential 'Hormuz deal' and ongoing US-Iran discussions. Watch for official announcements from either side, particularly regarding the Strait of Hormuz, as any agreement or breakdown in discussions will dictate the immediate trajectory of US-Iran relations and regional stability."
+        "title": "US-Iran Diplomatic Engagements and Escalation Risks",
+        "description": "Despite ongoing 'war' rhetoric and threats to Gulf states, reports indicate active US-Iran negotiations. Watch for the outcomes of these diplomatic efforts, any new threats or military actions from either side, and how internal US political dynamics regarding the conflict evolve, as these will dictate the immediate future of the confrontation."
       },
       {
-        "title": "Economic Fallout and Global Market Volatility",
-        "description": "The conflict is already impacting global economic outlooks, driving up costs, and threatening domestic agendas in the US and Eurozone. Analysts should observe energy prices, supply chain stability (e.g., aluminum), and investor sentiment in major Gulf bourses for signs of economic strain or recovery, which could influence policy decisions."
+        "title": "Global Economic and Energy Market Impacts",
+        "description": "The 'Iran War' is already impacting global gas prices, boosting US refining margins, and causing volatility for industries like air travel. Monitor fluctuations in energy prices, the stability of global supply chains, and the broader economic ripple effects, especially considering China's potential new 'oil weapon' and the implications for shipping regulations like the Jones Act."
       },
       {
-        "title": "Iran's Posture on Strait of Hormuz Control",
-        "description": "Iran is reportedly staking everything on controlling the Strait of Hormuz, a critical global chokepoint. Monitor any Iranian military movements, rhetoric, or actions in and around the Strait, as these will indicate their resolve and potential for escalation or de-escalation in the region."
+        "title": "Regional Proxy Actions and Spillover Conflict",
+        "description": "Iran has threatened to hit Gulf states if the US launches new strikes, and Houthi forces have claimed attacks on Saudi oil tankers. Analysts should watch for any increased activity by Iranian-backed groups or direct retaliatory actions against neighboring countries, which could quickly broaden the conflict beyond direct US-Iran confrontation."
       },
       {
-        "title": "Effectiveness of International Mediation Efforts",
-        "description": "Qatar and other mediators are reportedly making progress in efforts to end the US-Iran war. Watch for specific proposals, joint statements, or breakthroughs facilitated by third-party nations, as successful mediation could provide a diplomatic off-ramp and reduce immediate tensions."
+        "title": "US Domestic Political Dynamics and Military Readiness",
+        "description": "Reports highlight internal US administration clashes over munition depletion and a splintering among Trump's supporters regarding the Iran war. Observe internal US debates on military resource allocation, the state of readiness, and shifts in public support for the conflict, as these factors could significantly influence future US policy and engagement levels."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-05T11:09:16.992101+00:00",
+  "last_watch_time": "2026-08-06T11:10:16.396615+00:00",
   "relevant_news": [
     {
-      "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
-      "url": "https://www.reuters.com/world/us-has-used-virtually-all-its-long-range-precision-missiles-during-iran-war-2026-08-04/",
+      "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll-2026-08-06/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 04, 2026 · 07:08 BRT",
-      "pub_date": "2026-08-04",
-      "pub_ts": 1785838080,
+      "published": "Aug 06, 2026 · 07:08 BRT",
+      "pub_date": "2026-08-06",
+      "pub_ts": 1786010889,
       "summary": "",
       "tags": [
         "extracted",
@@ -9526,33 +9535,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Report: US used up 80% of its THAAD missile interceptors in Iran war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/report-us-used-up-80-of-its-thaad-missile-interceptors-in-iran-war/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Aug 05, 2026 · 01:28 BRT",
-      "pub_date": "2026-08-05",
-      "pub_ts": 1785904120,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US has used 'virtually all' long-range precision missiles in Iran war - Reuters",
-      "url": "https://www.reuters.com/video/watch/idRW329905082026RP1/",
+      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 05, 2026 · 03:00 BRT",
+      "published": "Aug 05, 2026 · 16:07 BRT",
       "pub_date": "2026-08-05",
-      "pub_ts": 1785909600,
+      "pub_ts": 1785956820,
       "summary": "",
       "tags": [
         "extracted",
@@ -9564,14 +9554,52 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump Says Iran Talks Going Well as Hopes Rise for Hormuz Deal - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/qatar-signals-progress-toward-short-term-deal-between-us-iran",
+      "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
+      "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 05, 2026 · 14:27 BRT",
+      "pub_date": "2026-08-05",
+      "pub_ts": 1785950873,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-having-very-good-discussions-trump-says-2026-08-05/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 05, 2026 · 02:11 BRT",
+      "pub_date": "2026-08-05",
+      "pub_ts": 1785906660,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "The Iran War Revealed China Has a New Oil Weapon - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/the-iran-war-revealed-china-has-a-new-oil-weapon",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 05, 2026 · 01:19 BRT",
-      "pub_date": "2026-08-05",
-      "pub_ts": 1785903540,
+      "published": "Aug 06, 2026 · 01:01 BRT",
+      "pub_date": "2026-08-06",
+      "pub_ts": 1785988860,
       "summary": "",
       "tags": [
         "extracted",
@@ -9583,33 +9611,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/status-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04/",
+      "title": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+      "url": "https://www.reuters.com/business/energy/phillips-66-beats-quarterly-profit-estimates-strong-refining-margins-2026-08-05/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 04, 2026 · 00:41 BRT",
-      "pub_date": "2026-08-04",
-      "pub_ts": 1785814860,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Major Gulf bourses mixed as investors await clarity on US-Iran talks - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/major-gulf-bourses-mixed-investors-await-clarity-us-iran-talks-2026-08-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 05, 2026 · 05:32 BRT",
+      "published": "Aug 05, 2026 · 15:38 BRT",
       "pub_date": "2026-08-05",
-      "pub_ts": 1785918757,
+      "pub_ts": 1785955127,
       "summary": "",
       "tags": [
         "extracted",
@@ -9622,9 +9631,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-05T11:09:17.735172+00:00",
-  "last_generated_date": "2026-08-05",
-  "last_generated_time": "2026-08-05T23:02:07.856574+00:00",
+  "last_relevant_time": "2026-08-06T11:10:17.312124+00:00",
+  "last_generated_date": "2026-08-06",
+  "last_generated_time": "2026-08-06T08:01:59.981894+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

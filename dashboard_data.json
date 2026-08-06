@@ -6798,7 +6798,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-28"
+      "pub_date": "2026-07-31"
     },
     "https://www.washingtonpost.com/politics/2026/07/28/netanyahu-heads-washington-differences-with-trump-over-iran-grow/": {
       "summary": "",
@@ -9384,7 +9384,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-05"
+      "pub_date": "2026-08-06"
     },
     "https://www.bloomberg.com/news/articles/2026-08-06/the-iran-war-revealed-china-has-a-new-oil-weapon": {
       "summary": "",
@@ -9470,6 +9470,16 @@
       "pub_date": "2026-08-06"
     },
     "https://www.reuters.com/world/middle-east/iran-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll-2026-08-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.reuters.com/business/energy/iran-warns-gulf-states-tell-trump-desist-or-we-hit-you-hard-2026-08-06/": {
       "summary": "",
       "tags": [
         "extracted",
@@ -9633,7 +9643,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-06T11:10:17.312124+00:00",
   "last_generated_date": "2026-08-06",
-  "last_generated_time": "2026-08-06T09:01:50.472500+00:00",
+  "last_generated_time": "2026-08-06T10:01:50.395928+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -14330,6 +14340,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Italy removes Israeli companies, including Rafael, from Rome airport's counter-drone project - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vclJYcU1hZDZJWUhxbXdMZHRBeG9IR2NLamJpUDVNaGxzT1JjMEtNTDlORTZ5U1NzUTF2M2dJRVFCbjVrREpWUzhEWHRSZHlLcjhiUUNrc2UtUERGX3ZKNXNtbw?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 06, 2026 · 06:17 BRT",
+          "pub_date": "2026-08-06",
+          "pub_ts": 1786007859,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Wizz Air warns high fuel costs may wipe out profits - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdXFacF9uNXc5a1M1dndNdV9kLVJMVjBnZ0lFNHl0dWh3TXNnYkx5S2lYbWxLQW52R25rdGhXUkdJTEp4bGRGczAtdXlDSDVzOWI3bkhnQmdnWWktcVlVX1NqZlluVTJLMDl4OVFtWk01SXluVXRIOFh2UXV2WkVqWEZma2Q?oc=5",

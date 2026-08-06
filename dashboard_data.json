@@ -5477,7 +5477,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-27"
+      "pub_date": "2026-08-04"
     },
     "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html": {
       "summary": "",
@@ -5745,7 +5745,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-27"
+      "pub_date": "2026-08-04"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-escalation-cycle-8d90061e": {
       "summary": "",
@@ -6034,7 +6034,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-27"
+      "pub_date": "2026-08-04"
     },
     "https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1": {
       "summary": "Beijing’s Belt and Road Initiative takes advantage of rise in appetite for renewables as Middle East conflict drags on",
@@ -7699,7 +7699,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-30"
+      "pub_date": "2026-08-04"
     },
     "https://www.bloomberg.com/news/videos/2026-07-30/us-iran-war-flares-as-fighting-spreads-across-mideast-video": {
       "summary": "",
@@ -9498,6 +9498,115 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-06"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-he-thinks-war-with-iran-will-end-pretty-soon-2026-08-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.reuters.com/world/middle-east/trumps-iran-dilemma-hes-stuck-war-with-no-exit-sight-2026-08-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.reuters.com/business/energy/us-is-set-import-most-middle-east-crude-since-iran-war-began-2026-08-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.reuters.com/world/middle-east/proposed-hormuz-passage-deal-not-feasible-shipping-industry-sources-say-2026-08-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.reuters.com/world/middle-east/iranian-parliamentary-committee-reviews-draft-bill-bar-us-israeli-ships-hormuz-2026-08-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-06/iran-seeks-bar-on-us-ships-in-hormuz-as-deal-with-oman-advances": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-06/petrobras-profit-tops-estimates-on-iran-war-driven-oil-rally": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904830": {
+      "summary": "On Wednesday, the White House refuted reports that Trump and US Defense Secretary Pete Hegseth had argued about a lack of munitions in the wake of the war with Iran.",
+      "tags": [
+        "Iran",
+        "iran us news",
+        "Middle East",
+        "Donald Trump",
+        "Memorandum of Understanding"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904796": {
+      "summary": "Speaking to 103FM on Thursday, Maj.-Gen. (res.) Eitan Ben Eliyahu said the Strait of Hormuz talks remained incomplete and warned that regional demands could stretch US air defenses thin.",
+      "tags": [
+        "Iran",
+        "iran and us",
+        "Iran US Conflict",
+        "israel iran",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904800": {
+      "summary": "Insecurity caused by the Houthis in the Red Sea, followed by disruptions caused by the Iran war in the Strait of Hormuz, has had a direct impact on Europe.",
+      "tags": [
+        "European Union",
+        "Iran",
+        "Gulf Cooperation Council",
+        "Gulf",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
     }
   },
   "last_digest_success": true,
@@ -9653,12 +9762,54 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-06T11:10:17.312124+00:00",
   "last_generated_date": "2026-08-06",
-  "last_generated_time": "2026-08-06T12:02:05.318078+00:00",
+  "last_generated_time": "2026-08-06T20:15:37.447564+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US is set to import most Middle East crude since Iran war began - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHVYaG56WVdrSW5UZkJwY1g4V01nUDRIbzY3dWt2UDBkWGhwcnhkZ0d5aU5QeTlNYnlfS05femN1aVZraXhjallpRGJEWjhoNi1fUERZbjVmQUhGSUVldzJobkJxOERWY2VSUlJfTHc2Z3BhdWlNX1hueVpzRXhqNWp1UHl6Q3dBa2xnNW1ubTBSNzA3bjMtSEwteGxvYVJhUzVOby1IU29WY3o2dzdiU1Rn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 06, 2026 · 13:41 BRT",
+          "pub_date": "2026-08-06",
+          "pub_ts": 1786034506,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0dwSU95VFRkYTBfdlZyQVRjek1GbUp0d285UjJ5SUFlV2RvNm00S0dWZ0JBbXFUbGx5OG5pV2drM0l6UGVCTFdNeGxIRU00REVTYkZZa2VZVjlEZzhtcmdBejgtclFqd3VrOUVWSVNQUi14a2s1VEI1TTgxa0U1RmdscUFlVGJqTW9yNFVhQlZDZ1RYMG4wazBwSjlZVG1SMEhpbDNqQm4xNDNVeHN6NQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 06, 2026 · 09:31 BRT",
+          "pub_date": "2026-08-06",
+          "pub_ts": 1786019506,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil traders double down on Iran deal bet as odds worsen - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTlrUTg0TjljZzBlaVJyRkJnS21MLU9TblltYU1oUm1NLVRqX1NnVEZvM2ZCTlMwXzBtUWk5cE1pSE5ZTnFYeGVtZjNZcnBlaU1iRHdfYlVzN3pyd0VYM3ZXRTJzcHhUYlNMT1ZmRU15eHhqZi1FNkpKa04waEk2YXA2X2QtUVBKcmZtMjRkWDd6anFaQzBJeXlhUXZmZTZxYUxYcU4wUjFNUnliUDk4YWVRb2FCZTFmV1FHQnFWck8wd0k?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 06, 2026 · 03:00 BRT",
+          "pub_date": "2026-08-06",
+          "pub_ts": 1785996000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Revealed China Has a New Oil Weapon - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdmVDU2lMaWdGalozZU1nZmJndE9jXzg4TkpZcUpqZXNhcFYxZEhlS1kwRzZic09ZUHE1aThfTE1JUFVkRTltaDRNaGIyQ2RPYThoWHowX1ZvYkx6dmJkTkV3TEh6WEx4NTZFOEpUSV9YWU5WWHJlSV9TR2F4TndKUVVET2RwNEpKdE1URDZQMkhDNTktc2pIeEFDVE10NURp?oc=5",
@@ -14351,6 +14502,20 @@
       "theme": "Jet Fuel",
       "articles": [
         {
+          "title": "Apollo agrees to buy EasyJet for $7.7 billion - Axios",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcmVCdzg3bkxvVUpVN0FmNWZLX2NRNFM3YXpQaHZnZHV4eVF0WFI5T0ZON3g3Njd3NDFCaENQRXFkR0FKcWZ5RFBpbEtwVHdRWVg5WkJDWGRkaWJUUURrLWU5MW9vbWdFTXdSTEdOT1gwZw?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 06, 2026 · 15:05 BRT",
+          "pub_date": "2026-08-06",
+          "pub_ts": 1786039513,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Italy removes Israeli companies, including Rafael, from Rome airport's counter-drone project - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vclJYcU1hZDZJWUhxbXdMZHRBeG9IR2NLamJpUDVNaGxzT1JjMEtNTDlORTZ5U1NzUTF2M2dJRVFCbjVrREpWUzhEWHRSZHlLcjhiUUNrc2UtUERGX3ZKNXNtbw?oc=5",
           "source": "The Jerusalem Post",
@@ -15054,6 +15219,20 @@
         {
           "title": "Pentagon War Game Exposed a Critical US Aluminum Risk Months Before Iran Attacks - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalJkYUNJOG51QWpDVzJCSFJndFZYV053ZmVxVHczenBndS1XQUNEMFg5RVVvZDE4R3pYb0lFRWk4UWkwbjJmdGpTX2ozTzJEZ1R5Z2cxWk1zV21mNTNrM0ZXZWg0X1N0dDZBQW8tZG44dFBNeUNtalYzS2ZxeVNBd1NTal9ZSGZneHJaek4tS0xjSk4ybHM2UUwyTzUweU9iUjJkWDFJd0FlWTJIUXRITzJYcmxoTmZqZnpyXw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 07:00 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785924021,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Pentagon War Game Exposed a Critical US Aluminum Risk Months Before Iran Attacks - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0IwOW5Ia3E5UXp1MUNyZ0lRZC1hUmhwZFlPRV9LY2VZZnhsbU9NeXMyTURjTldXNm56V1ZqWGdxSldOUEp1ODNIXzluRVRCV1dWT1VkYWZJRHJrSXA0MWlrMXF5ZmtSTkYyYU1jbEVWWjhwbE1qTGVBdFRna3REUFNBeEpIaGhPaVlmdTNuYXByRUJXd0RRSGFIZlZxNVhqZGtEYlF4MXRsWHJPZW1MT2pVOUJScWdUVVQtazFVWHNLbzhWbUFHQzMzQXV3WEVXeno4dkQzN0pydEE?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

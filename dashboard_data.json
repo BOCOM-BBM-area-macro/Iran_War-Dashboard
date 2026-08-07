@@ -9727,6 +9727,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-07"
+    },
+    "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-07"
     }
   },
   "last_digest_success": true,
@@ -9882,7 +9892,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-07T11:10:38.611566+00:00",
   "last_generated_date": "2026-08-07",
-  "last_generated_time": "2026-08-07T10:02:04.846010+00:00",
+  "last_generated_time": "2026-08-07T11:01:58.703357+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

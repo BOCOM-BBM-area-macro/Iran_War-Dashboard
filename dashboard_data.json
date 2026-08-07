@@ -7892,7 +7892,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-07-29"
+      "pub_date": "2026-08-04"
     },
     "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html": {
       "summary": "",
@@ -9607,6 +9607,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-06"
+    },
+    "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
     }
   },
   "last_digest_success": true,
@@ -9762,12 +9772,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-06T11:10:17.312124+00:00",
   "last_generated_date": "2026-08-06",
-  "last_generated_time": "2026-08-06T20:15:37.447564+00:00",
+  "last_generated_time": "2026-08-06T21:02:05.687556+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Petrobras Profit Tops Estimates on Iran War-Driven Oil Rally - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0ZPbkNkcmhpV1JVdkVKTmt1cDhmVkxRM0lGZEVmdnMydUg4aHZaRUhsczQ4OXIyQl96ZUJxNXF6MHBCdjdYMHg5SzhvMDRxUXhYT1ptTXZETklUekcxV0paWDRWLXpTTC1OU0owUzF6eU5yNVdta1RoZUV5bnAwRS1WQnNpTWZ1MXVKaWZxOVdnQ252OXJ0WGFfcTVZeDZIQWRyVkVlejVTUnExNTRHbg?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 06, 2026 · 19:44 BRT",
+          "pub_date": "2026-08-06",
+          "pub_ts": 1786056287,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US is set to import most Middle East crude since Iran war began - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHVYaG56WVdrSW5UZkJwY1g4V01nUDRIbzY3dWt2UDBkWGhwcnhkZ0d5aU5QeTlNYnlfS05femN1aVZraXhjallpRGJEWjhoNi1fUERZbjVmQUhGSUVldzJobkJxOERWY2VSUlJfTHc2Z3BhdWlNX1hueVpzRXhqNWp1UHl6Q3dBa2xnNW1ubTBSNzA3bjMtSEwteGxvYVJhUzVOby1IU29WY3o2dzdiU1Rn?oc=5",

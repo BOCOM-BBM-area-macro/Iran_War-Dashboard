@@ -9636,7 +9636,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-06"
+      "pub_date": "2026-08-07"
     },
     "https://www.reuters.com/world/uk/prices-uk-housing-market-flat-july-iran-war-weighs-2026-08-07/": {
       "summary": "",
@@ -9663,6 +9663,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-07"
+    },
+    "https://www.nytimes.com/2026/08/07/magazine/iran-ukraine-war-energy-attack.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

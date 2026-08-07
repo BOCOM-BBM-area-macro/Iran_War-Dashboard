@@ -9737,6 +9737,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-07"
+    },
+    "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-07"
     }
   },
   "last_digest_success": true,
@@ -9892,7 +9902,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-07T11:10:38.611566+00:00",
   "last_generated_date": "2026-08-07",
-  "last_generated_time": "2026-08-07T13:01:53.393677+00:00",
+  "last_generated_time": "2026-08-07T14:01:57.184687+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

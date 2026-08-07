@@ -9677,147 +9677,177 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-07"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-08-06T11:10:05.740126+00:00",
-  "digest": {
-    "digest": "The ongoing Iran war continues to be a focal point, with reports indicating Iran's strategic focus on controlling the Strait of Hormuz, potentially through a proposed deal that would grant Iran control over inbound traffic. Domestically, the war has exposed divisions within the US, with reports of President Trump clashing with advisors over munition shortages and expressing exasperation with the conflict. Public opinion suggests Americans are bracing for further regional instability. Diplomatic efforts are ongoing, with President Trump reiterating positive portrayals of Iran talks and stating that the US held an 'all-day negotiation' with Iran. However, Iran has also issued threats to strike Gulf states if the US launches new strikes. The economic repercussions of the conflict are significant, with rising gas prices attributed to the war and US refining margins boosted by the conflict, leading to strong quarterly estimates for companies like Phillips 66. The war's volatility is also impacting international business, with Wizz Air warning of continued challenges. Furthermore, the conflict has highlighted new geopolitical dynamics, such as China's emergence of a new oil weapon. Europe's own stability is being tested by the confluence of the Iran and Ukraine wars, alongside other global challenges.",
-    "top_themes": [
-      "Iran's Strait of Hormuz Strategy",
-      "US Domestic Political Divisions on Iran War",
-      "Economic Impacts of the Iran War"
-    ],
-    "next_events": [
-      {
-        "title": "Strait of Hormuz Control and Shipping Security",
-        "description": "Iran is reportedly staking everything on controlling the Strait of Hormuz, with proposed deals potentially giving them control over inbound traffic. Analysts should closely monitor any negotiations, military posturing, or incidents in this critical chokepoint, as disruptions would severely impact global oil supplies and maritime trade."
-      },
-      {
-        "title": "US-Iran Diplomatic Engagements and Escalation Risks",
-        "description": "Despite ongoing 'war' rhetoric and threats to Gulf states, reports indicate active US-Iran negotiations. Watch for the outcomes of these diplomatic efforts, any new threats or military actions from either side, and how internal US political dynamics regarding the conflict evolve, as these will dictate the immediate future of the confrontation."
-      },
-      {
-        "title": "Global Economic and Energy Market Impacts",
-        "description": "The 'Iran War' is already impacting global gas prices, boosting US refining margins, and causing volatility for industries like air travel. Monitor fluctuations in energy prices, the stability of global supply chains, and the broader economic ripple effects, especially considering China's potential new 'oil weapon' and the implications for shipping regulations like the Jones Act."
-      },
-      {
-        "title": "Regional Proxy Actions and Spillover Conflict",
-        "description": "Iran has threatened to hit Gulf states if the US launches new strikes, and Houthi forces have claimed attacks on Saudi oil tankers. Analysts should watch for any increased activity by Iranian-backed groups or direct retaliatory actions against neighboring countries, which could quickly broaden the conflict beyond direct US-Iran confrontation."
-      },
-      {
-        "title": "US Domestic Political Dynamics and Military Readiness",
-        "description": "Reports highlight internal US administration clashes over munition depletion and a splintering among Trump's supporters regarding the Iran war. Observe internal US debates on military resource allocation, the state of readiness, and shifts in public support for the conflict, as these factors could significantly influence future US policy and engagement levels."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-08-06T11:10:16.396615+00:00",
-  "relevant_news": [
-    {
-      "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll-2026-08-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 06, 2026 · 07:08 BRT",
-      "pub_date": "2026-08-06",
-      "pub_ts": 1786010889,
+    },
+    "https://www.washingtonpost.com/world/2026/08/07/cost-iran-war-is-mounting-heres-latest-tally/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-07"
+    },
+    "https://www.reuters.com/world/middle-east/saudi-arabia-expects-imminent-attacks-north-south-senior-official-says-2026-08-06/": {
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-08-06"
     },
-    {
-      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 05, 2026 · 16:07 BRT",
-      "pub_date": "2026-08-05",
-      "pub_ts": 1785956820,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
-      "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 05, 2026 · 14:27 BRT",
-      "pub_date": "2026-08-05",
-      "pub_ts": 1785950873,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-iran-having-very-good-discussions-trump-says-2026-08-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 05, 2026 · 02:11 BRT",
-      "pub_date": "2026-08-05",
-      "pub_ts": 1785906660,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "The Iran War Revealed China Has a New Oil Weapon - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/the-iran-war-revealed-china-has-a-new-oil-weapon",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 06, 2026 · 01:01 BRT",
-      "pub_date": "2026-08-06",
-      "pub_ts": 1785988860,
+    "https://www.bloomberg.com/news/articles/2026-08-07/trump-says-hormuz-talks-moving-along-even-as-iran-mulls-us-ban": {
       "summary": "",
       "tags": [
         "extracted",
         "bloomberg.com"
       ],
       "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-07"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-08-07T11:10:28.191340+00:00",
+  "digest": {
+    "digest": "The ongoing Iran war continues to exert significant economic pressure, with mounting costs and a notable impact on global energy markets. Prices for crude oil have surged, affecting housing markets in countries like the UK and boosting profits for companies such as Petrobras. Australia and New Zealand are experiencing substantial tolls due to soaring oil prices. The United States is importing increased amounts of Middle East crude, reflecting the disruption to energy supplies. Diplomatic tensions remain high, with Iran issuing warnings to Gulf states to urge the US to desist from actions that could lead to severe retaliation. Simultaneously, discussions regarding the Strait of Hormuz are progressing, with Iran seeking to bar US ships and advancing a deal with Oman. President Trump has expressed a belief that the conflict will conclude soon, despite reports of internal disagreements regarding munition depletion and concerns over the war's trajectory and lack of a clear exit strategy. Public sentiment in the US indicates an expectation of continued Middle East instability.",
+    "top_themes": [
+      "Economic Impact of Iran War",
+      "US-Iran Diplomatic Tensions",
+      "Energy Security Concerns"
+    ],
+    "next_events": [
+      {
+        "title": "Escalation of Regional Attacks and Proxy Warfare",
+        "description": "Saudi Arabia anticipates a two-pronged attack from Iran's allies, and Iran has directly warned Gulf states of retaliation if they don't pressure the US. Analysts should monitor any new attacks on Saudi or other Gulf state infrastructure or assets, as well as any overt actions by Iranian-backed groups, which could significantly broaden the conflict."
+      },
+      {
+        "title": "Strait of Hormuz Navigation and Iranian Actions",
+        "description": "Iran is reportedly seeking to ban US ships from the Strait of Hormuz while simultaneously engaging in talks with Oman regarding the waterway. Watch for any concrete steps by Iran to impede international shipping or US naval presence, as well as the outcome of diplomatic efforts, which could lead to direct confrontation or a de-escalation of maritime tensions."
+      },
+      {
+        "title": "Global Energy Market Volatility and Supply Chain Resilience",
+        "description": "The war continues to impact global oil prices, with the US importing more Middle East crude and countries like Australia and New Zealand facing heavy tolls. Monitor crude oil price fluctuations, changes in global energy supply routes, and any discussions or policies aimed at enhancing energy security, as these will indicate the war's broader economic ripple effects."
+      },
+      {
+        "title": "US Strategic Posture and Military Resource Management",
+        "description": "Reports indicate internal US debates over missile depletion and President Trump's frustration with the war's lack of a clear exit. Analysts should observe any changes in US military deployments, defense spending, or public statements regarding the conflict's duration and objectives, which could signal a shift in strategy or resource allocation."
+      },
+      {
+        "title": "Broader Economic Repercussions Beyond Energy",
+        "description": "Beyond oil, the Iran war is already affecting sectors like the UK housing market and taking a toll on economies like Australia and New Zealand. Watch for further indicators of economic slowdowns, inflation, or disruptions in global trade and investment flows, as these will reveal the wider, non-energy-specific economic costs of the prolonged conflict."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-08-07T11:10:37.987168+00:00",
+  "relevant_news": [
+    {
+      "title": "The cost of the Iran war is mounting. Here’s the latest tally. - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/07/cost-iran-war-is-mounting-heres-latest-tally/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 07, 2026 · 07:49 BRT",
+      "pub_date": "2026-08-07",
+      "pub_ts": 1786099793,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
-      "url": "https://www.reuters.com/business/energy/phillips-66-beats-quarterly-profit-estimates-strong-refining-margins-2026-08-05/",
+      "title": "Everybody wants energy security post the Iran war, but how? - Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/everybody-wants-energy-security-post-iran-war-how-2026-08-07/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 05, 2026 · 15:38 BRT",
-      "pub_date": "2026-08-05",
-      "pub_ts": 1785955127,
+      "published": "Aug 07, 2026 · 03:29 BRT",
+      "pub_date": "2026-08-07",
+      "pub_ts": 1786084188,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US is set to import most Middle East crude since Iran war began - Reuters",
+      "url": "https://www.reuters.com/business/energy/us-is-set-import-most-middle-east-crude-since-iran-war-began-2026-08-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 06, 2026 · 13:41 BRT",
+      "pub_date": "2026-08-06",
+      "pub_ts": 1786034506,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Saudi expects imminent two-pronged attack from Iran's allies, official says - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/saudi-arabia-expects-imminent-attacks-north-south-senior-official-says-2026-08-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 06, 2026 · 18:43 BRT",
+      "pub_date": "2026-08-06",
+      "pub_ts": 1786052580,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll-2026-08-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 06, 2026 · 07:56 BRT",
+      "pub_date": "2026-08-06",
+      "pub_ts": 1786013767,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard - Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-warns-gulf-states-tell-trump-desist-or-we-hit-you-hard-2026-08-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 06, 2026 · 09:31 BRT",
+      "pub_date": "2026-08-06",
+      "pub_ts": 1786019506,
       "summary": "",
       "tags": [
         "extracted",
@@ -9830,9 +9860,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-06T11:10:17.312124+00:00",
-  "last_generated_date": "2026-08-06",
-  "last_generated_time": "2026-08-06T23:02:01.563448+00:00",
+  "last_relevant_time": "2026-08-07T11:10:38.611566+00:00",
+  "last_generated_date": "2026-08-07",
+  "last_generated_time": "2026-08-07T08:02:14.387544+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

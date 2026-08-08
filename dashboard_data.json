@@ -9883,6 +9883,31 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-08"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-904899": {
+      "summary": "Only 67 of at least 444 executions documented in Iran this year were announced by authorities, as rights advocates warn of a broader crackdown.",
+      "tags": [
+        "Human rights",
+        "Iran",
+        "Execution",
+        "The Media Line"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-08"
+    },
+    "https://www.jpost.com/international/article-904896": {
+      "summary": "The incident may appear to mark a new convergence between two geographically separate wars. In reality, Iran’s involvement in Russia’s military campaign began years before the Caspian strike.",
+      "tags": [
+        "Iran",
+        "Russia",
+        "Ukraine",
+        "The Media Line",
+        "Ukraine-Russia War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-08"
     }
   },
   "last_digest_success": true,
@@ -10040,12 +10065,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-08T11:08:28.164012+00:00",
   "last_generated_date": "2026-08-08",
-  "last_generated_time": "2026-08-08T11:02:07.951770+00:00",
+  "last_generated_time": "2026-08-08T12:02:04.739809+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 08, 2026 · 10:08 BRT",
+          "pub_date": "2026-08-08",
+          "pub_ts": 1786194526,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5",

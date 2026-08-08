@@ -9830,52 +9830,81 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-08"
+    },
+    "https://www.reuters.com/world/middle-east/irans-revolutionary-guard-says-re-opening-strait-hormuz-does-not-depend-talks-2026-08-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-08"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-07T11:10:28.191340+00:00",
+  "last_digest_time": "2026-08-08T11:08:19.829786+00:00",
   "digest": {
-    "digest": "The ongoing Iran war continues to exert significant economic pressure, with mounting costs and a notable impact on global energy markets. Prices for crude oil have surged, affecting housing markets in countries like the UK and boosting profits for companies such as Petrobras. Australia and New Zealand are experiencing substantial tolls due to soaring oil prices. The United States is importing increased amounts of Middle East crude, reflecting the disruption to energy supplies. Diplomatic tensions remain high, with Iran issuing warnings to Gulf states to urge the US to desist from actions that could lead to severe retaliation. Simultaneously, discussions regarding the Strait of Hormuz are progressing, with Iran seeking to bar US ships and advancing a deal with Oman. President Trump has expressed a belief that the conflict will conclude soon, despite reports of internal disagreements regarding munition depletion and concerns over the war's trajectory and lack of a clear exit strategy. Public sentiment in the US indicates an expectation of continued Middle East instability.",
+    "digest": "Recent reports indicate a potential search for an 'off-ramp' from the ongoing Iran war, with a top US general reportedly seeking diplomatic or military solutions to avoid further escalation. The financial and human costs of the conflict are noted as mounting. Simultaneously, there are indications of Iran perceiving an opportunity to expel the US from the Gulf region. Diplomatic efforts may be underway, with expectations of a deal concerning the Strait of Hormuz, and Sunni powers are reportedly uniting in a defense pact. In parallel, US sanctions have been imposed on a Dubai crypto exchange for allegedly aiding Iran's Revolutionary Guard Corps (IRGC), following previous reporting on this matter. The effectiveness of technological advancements in warfare is being questioned in the context of the protracted conflict, with some suggesting that promises made regarding the war's trajectory have not materialized for Iran.",
     "top_themes": [
-      "Economic Impact of Iran War",
-      "US-Iran Diplomatic Tensions",
-      "Energy Security Concerns"
+      "Iran War Escalation",
+      "US Military Strategy",
+      "Strait of Hormuz Security"
     ],
     "next_events": [
       {
-        "title": "Escalation of Regional Attacks and Proxy Warfare",
-        "description": "Saudi Arabia anticipates a two-pronged attack from Iran's allies, and Iran has directly warned Gulf states of retaliation if they don't pressure the US. Analysts should monitor any new attacks on Saudi or other Gulf state infrastructure or assets, as well as any overt actions by Iranian-backed groups, which could significantly broaden the conflict."
+        "title": "US De-escalation Strategy and Military Options",
+        "description": "Multiple reports indicate top US generals are seeking an 'off-ramp' to avoid further escalation, acknowledging that current military options may not achieve stated objectives. Analysts should monitor any diplomatic overtures, changes in military posture, or public statements from US officials that signal a shift towards de-escalation or a revised strategy for the conflict."
       },
       {
-        "title": "Strait of Hormuz Navigation and Iranian Actions",
-        "description": "Iran is reportedly seeking to ban US ships from the Strait of Hormuz while simultaneously engaging in talks with Oman regarding the waterway. Watch for any concrete steps by Iran to impede international shipping or US naval presence, as well as the outcome of diplomatic efforts, which could lead to direct confrontation or a de-escalation of maritime tensions."
+        "title": "Strait of Hormuz Control and Negotiations",
+        "description": "The US expects a deal soon regarding the Strait of Hormuz, while Iran's Revolutionary Guard asserts its control does not depend on talks. This critical chokepoint remains a flashpoint for regional tensions. Watch for any progress or breakdown in negotiations, Iranian actions in the Strait, or international responses that could impact global energy markets and regional stability."
       },
       {
-        "title": "Global Energy Market Volatility and Supply Chain Resilience",
-        "description": "The war continues to impact global oil prices, with the US importing more Middle East crude and countries like Australia and New Zealand facing heavy tolls. Monitor crude oil price fluctuations, changes in global energy supply routes, and any discussions or policies aimed at enhancing energy security, as these will indicate the war's broader economic ripple effects."
+        "title": "Formation of Regional Alliances Against Iran",
+        "description": "Reports indicate Sunni powers are uniting in a defense pact, signaling a hardening of regional opposition to Iran. Analysts should observe the specifics of this pact, its operationalization, and any joint military exercises or diplomatic initiatives that could further isolate Iran or lead to new regional confrontations."
       },
       {
-        "title": "US Strategic Posture and Military Resource Management",
-        "description": "Reports indicate internal US debates over missile depletion and President Trump's frustration with the war's lack of a clear exit. Analysts should observe any changes in US military deployments, defense spending, or public statements regarding the conflict's duration and objectives, which could signal a shift in strategy or resource allocation."
+        "title": "US Economic Pressure and Sanctions Enforcement",
+        "description": "The US continues to apply economic pressure, sanctioning entities like a Dubai crypto exchange for aiding Iran's IRGC, with the mounting cost of the war also highlighted. Monitor for new sanctions, enforcement actions against illicit financial networks, and their impact on Iran's economy and its ability to fund its military and proxies."
       },
       {
-        "title": "Broader Economic Repercussions Beyond Energy",
-        "description": "Beyond oil, the Iran war is already affecting sectors like the UK housing market and taking a toll on economies like Australia and New Zealand. Watch for further indicators of economic slowdowns, inflation, or disruptions in global trade and investment flows, as these will reveal the wider, non-energy-specific economic costs of the prolonged conflict."
+        "title": "Iran's Strategic Objective to Expel US from the Gulf",
+        "description": "Iran reportedly sees an opening to push the US out of the Gulf region, indicating a clear strategic objective that could shape future actions. Analysts should watch for any Iranian military maneuvers, proxy actions, or diplomatic efforts aimed at undermining the US presence and influence in the Persian Gulf, potentially leading to increased regional tensions."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-07T11:10:37.987168+00:00",
+  "last_watch_time": "2026-08-08T11:08:27.733687+00:00",
   "relevant_news": [
+    {
+      "title": "U.S. Stocks Slide After Fed Pause, Escalation in Iran War - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-after-fed-pause-escalation-in-iran-war-083d45b1",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Aug 08, 2026 · 03:31 BRT",
+      "pub_date": "2026-08-08",
+      "pub_ts": 1786170692,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "The cost of the Iran war is mounting. Here’s the latest tally. - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2026/08/07/cost-iran-war-is-mounting-heres-latest-tally/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 07, 2026 · 07:49 BRT",
+      "published": "Aug 07, 2026 · 14:39 BRT",
       "pub_date": "2026-08-07",
-      "pub_ts": 1786099793,
+      "pub_ts": 1786124399,
       "summary": "",
       "tags": [
         "extracted",
@@ -9887,18 +9916,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Everybody wants energy security post the Iran war, but how? - Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/everybody-wants-energy-security-post-iran-war-how-2026-08-07/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 07, 2026 · 03:29 BRT",
+      "title": "Iran Sees an Opening to Kick the U.S. Out of the Gulf - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-sees-an-opening-to-kick-the-u-s-out-of-the-gulf-b9f9cc53",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Aug 07, 2026 · 21:00 BRT",
       "pub_date": "2026-08-07",
-      "pub_ts": 1786084188,
+      "pub_ts": 1786147200,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -9906,18 +9935,39 @@
       "sentiment_success": false
     },
     {
-      "title": "US is set to import most Middle East crude since Iran war began - Reuters",
-      "url": "https://www.reuters.com/business/energy/us-is-set-import-most-middle-east-crude-since-iran-war-began-2026-08-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 06, 2026 · 13:41 BRT",
-      "pub_date": "2026-08-06",
-      "pub_ts": 1786034506,
+      "title": "US Gen. Dan Caine looking for 'off-ramp' to avoid further escalation in Iran war - report - The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-904885",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Aug 08, 2026 · 03:55 BRT",
+      "pub_date": "2026-08-08",
+      "pub_ts": 1786172114,
+      "summary": "According to the report, Caine recently made clear to other US officials that available military options may not be enough to achieve US President Donald Trump’s stated war objectives.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "US military",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Top US general reportedly looking for ‘off-ramp’ from Iran war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/top-us-general-reportedly-looking-for-off-ramp-from-iran-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Aug 07, 2026 · 20:17 BRT",
+      "pub_date": "2026-08-07",
+      "pub_ts": 1786144674,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -9925,52 +9975,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Saudi expects imminent two-pronged attack from Iran's allies, official says - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/saudi-arabia-expects-imminent-attacks-north-south-senior-official-says-2026-08-06/",
+      "title": "Iran's Revolutionary Guard says re-opening Strait of Hormuz does not depend on talks with Oman - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/irans-revolutionary-guard-says-re-opening-strait-hormuz-does-not-depend-talks-2026-08-08/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 06, 2026 · 18:43 BRT",
-      "pub_date": "2026-08-06",
-      "pub_ts": 1786052580,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll-2026-08-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 06, 2026 · 07:56 BRT",
-      "pub_date": "2026-08-06",
-      "pub_ts": 1786013767,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard - Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-warns-gulf-states-tell-trump-desist-or-we-hit-you-hard-2026-08-06/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 06, 2026 · 09:31 BRT",
-      "pub_date": "2026-08-06",
-      "pub_ts": 1786019506,
+      "published": "Aug 08, 2026 · 07:41 BRT",
+      "pub_date": "2026-08-08",
+      "pub_ts": 1786185686,
       "summary": "",
       "tags": [
         "extracted",
@@ -9983,9 +9995,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-07T11:10:38.611566+00:00",
-  "last_generated_date": "2026-08-07",
-  "last_generated_time": "2026-08-07T23:01:41.111287+00:00",
+  "last_relevant_time": "2026-08-08T11:08:28.164012+00:00",
+  "last_generated_date": "2026-08-08",
+  "last_generated_time": "2026-08-08T08:01:49.531168+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

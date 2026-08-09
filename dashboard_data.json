@@ -10102,7 +10102,7 @@
       "pub_date": "2026-08-09"
     },
     "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html": {
-      "summary": "",
+      "summary": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10268,6 +10268,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-09"
+    },
+    "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
     }
   },
   "last_digest_success": true,
@@ -10422,12 +10432,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-09T11:09:11.803884+00:00",
   "last_generated_date": "2026-08-09",
-  "last_generated_time": "2026-08-09T19:02:19.657503+00:00",
+  "last_generated_time": "2026-08-09T20:02:00.344043+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War - nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kaTlzT0xuU3NDWGYwbjJOY3lfV3d2NXpJTWE1emo5VlpodXJkcTVRbmlKZ1dmVUdvcWJoSElKY2ZpbkxiTmlJcUhPSDJTeU1KT3prT3o3TFlfZklabE94TXBsYXV1dzUxYnRwWU9QYXdqeGxJRFIw?oc=5",
+          "source": "nytimes.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 09, 2026 · 19:19 BRT",
+          "pub_date": "2026-08-09",
+          "pub_ts": 1786313958,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",

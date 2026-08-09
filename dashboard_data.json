@@ -10036,7 +10036,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-08"
+      "pub_date": "2026-08-09"
     },
     "https://www.jpost.com/israel-news/defense-news/article-904924": {
       "summary": "It was the most complex, dangerous, and historic day since the establishment of the Israeli Air Force's air traffic control. Hundreds of aircraft of every possible type were returning simultaneously.",
@@ -10151,6 +10151,49 @@
         "us iran",
         "Oman",
         "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
+    },
+    "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
+    },
+    "https://www.reuters.com/world/asia-pacific/iran-says-oman-deal-is-final-stages-us-must-act-open-hormuz-2026-08-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
+    },
+    "https://www.wsj.com/finance/iranian-demands-disrupt-trumps-plan-to-end-the-war-4ca53b85": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
+    },
+    "https://www.jpost.com/international/article-904979": {
+      "summary": "Sources told the NYT that the shortage could last beyond the Trump administration’s tenure in office, leaving future presidencies vulnerable to Russian and Chinese attacks.",
+      "tags": [
+        "Iran",
+        "Russia",
+        "China",
+        "Donald Trump",
+        "patriot missile"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10309,7 +10352,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-09T11:09:11.803884+00:00",
   "last_generated_date": "2026-08-09",
-  "last_generated_time": "2026-08-09T12:01:46.186935+00:00",
+  "last_generated_time": "2026-08-09T13:02:00.993266+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

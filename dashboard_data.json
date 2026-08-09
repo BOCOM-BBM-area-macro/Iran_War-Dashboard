@@ -10060,6 +10060,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-09"
+    },
+    "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1": {
+      "summary": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
+    },
+    "https://www.timesofisrael.com/pentagon-said-to-ask-us-arms-firms-to-speed-up-output-as-iran-war-exhausts-supply/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
     }
   },
   "last_digest_success": true,

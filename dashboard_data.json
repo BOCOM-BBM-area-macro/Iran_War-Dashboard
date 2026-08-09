@@ -9973,7 +9973,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-08"
+      "pub_date": "2026-08-09"
     },
     "https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2": {
       "summary": "",
@@ -10198,6 +10198,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-09"
+    },
+    "https://www.axios.com/2026/08/09/trump-iran-interview": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
     }
   },
   "last_digest_success": true,
@@ -10352,7 +10362,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-09T11:09:11.803884+00:00",
   "last_generated_date": "2026-08-09",
-  "last_generated_time": "2026-08-09T13:02:00.993266+00:00",
+  "last_generated_time": "2026-08-09T14:02:02.565217+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

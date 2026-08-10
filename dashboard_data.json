@@ -10207,7 +10207,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-10"
+      "pub_date": "2026-08-09"
     },
     "https://www.reuters.com/world/middle-east/trump-says-us-is-low-keying-it-with-iran-stresses-economic-pain-according-axios-2026-08-09/": {
       "summary": "",
@@ -10270,14 +10270,14 @@
       "pub_date": "2026-08-09"
     },
     "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html": {
-      "summary": "",
+      "summary": "Hopes were dashed over the weekend for a breakthrough on shipping traffic through the critical waterway in the Persian Gulf.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-09"
+      "pub_date": "2026-08-10"
     },
     "https://www.reuters.com/world/middle-east/iran-ties-hormuz-reopening-us-concessions-several-demands-2026-08-09/": {
       "summary": "",
@@ -10379,7 +10379,7 @@
       "pub_date": "2026-08-10"
     },
     "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html": {
-      "summary": "",
+      "summary": "While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and livelihoods.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10499,6 +10499,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-10/trump-lashes-out-after-iranian-demands-with-deal-hopes-dimming": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10663,7 +10673,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-10T11:11:15.489719+00:00",
   "last_generated_date": "2026-08-10",
-  "last_generated_time": "2026-08-10T15:01:56.182973+00:00",
+  "last_generated_time": "2026-08-10T16:02:04.123615+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -10720,6 +10730,20 @@
           "published": "Aug 09, 2026 · 00:11 BRT",
           "pub_date": "2026-08-09",
           "pub_ts": 1786245060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China’s monthly inflation cools as impact from Iran war eases - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmJPV0ZScF9VRGtZNHBZX213bEh6aW5hM21oRzdXTHQyMmhCZDd3SS1tbmNCMWRzUXlHMktVWFBNX1BCM2RLZ2MtNl8tYS1OVGx4dzROTXk3cTIzSmlacXJ5NXFkTU5vbV9YeTZxVFJMVGpRWFZ5UU0td012MVRoQW5la3I?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 09, 2026 · 00:06 BRT",
+          "pub_date": "2026-08-09",
+          "pub_ts": 1786244808,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

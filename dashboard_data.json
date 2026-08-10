@@ -10277,7 +10277,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-09"
+      "pub_date": "2026-08-10"
     },
     "https://www.reuters.com/world/middle-east/iran-ties-hormuz-reopening-us-concessions-several-demands-2026-08-09/": {
       "summary": "",
@@ -10397,43 +10397,83 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-10"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/10/trumps-iran-policy-is-war-with-itself/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-10"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-08-10/the-us-running-out-of-ammo-in-iran-is-a-global-disaster": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-10"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-09T11:09:01.804584+00:00",
+  "last_digest_time": "2026-08-10T11:11:05.785312+00:00",
   "digest": {
-    "digest": "Recent reports indicate significant diplomatic activity surrounding the Strait of Hormuz, with Iran stating a deal with Oman is close but contingent on meeting its conditions, including US withdrawal and a correction of US behavior. These demands have dampened hopes for reopening the waterway. Concurrently, the United States is experiencing a depletion of weapons stocks due to ongoing conflict, prompting the Pentagon to urge defense firms to increase production and speed up output. This situation is being closely observed by Russia and China. While a top US general is reportedly advocating for an 'off-ramp' and exploring alternatives to military escalation, emphasizing that available military options may not suffice for stated war objectives, Iran's Revolutionary Guard suggests the reopening of the Strait of Hormuz is not solely dependent on talks with Oman. Economic impacts are also noted, with China's monthly inflation cooling as the Iran war's impact eases, and investors returning to European stocks amid strong earnings that have lifted war-related gloom.",
+    "digest": "The United States is reportedly adopting a strategy of \"low-keying it\" with Iran, prioritizing economic pressure over direct military engagement, with President Trump indicating a willingness to conclude the conflict without a nuclear deal if Iran reopens the Strait of Hormuz. Iran, however, is tying the reopening of the Strait to U.S. concessions on several demands and a return to the June Memorandum of Understanding. Recent events indicate that southern Iran has been impacted by U.S. bombing, while the Pentagon is pressing defense firms to build weapons due to depleting stocks. Internally, Iran faces growing protests and economic turmoil, coinciding with a shake-up in its security team, including the appointment of Mohsen Rezaei as secretary of Iran's top security body, even as an Omani deal is described as \"very close.\" The U.S. envoy suggests Iran fears economic sanctions more than military strikes. Global military readiness is also a concern, with reports highlighting a U.S. ammunition crunch as a potential global disaster. Diplomatic stances suggest a potential shift in U.S. objectives, focusing on economic leverage and potentially dropping the nuclear issue in exchange for Hormuz's reopening, while Iran remains firm on its demands and internal stability is tested.",
     "top_themes": [
-      "Strait of Hormuz Negotiations",
-      "US Military Stockpiles",
-      "Iran's Diplomatic Demands"
+      "US-Iran Diplomacy and Negotiations",
+      "Strait of Hormuz Tensions",
+      "Iran's Internal Situation and Security Apparatus",
+      "Global Military Readiness and Economic Impacts"
     ],
     "next_events": [
       {
-        "title": "Strait of Hormuz Negotiations and Iranian Conditions",
-        "description": "Track the progress of negotiations between Iran and Oman regarding the Strait of Hormuz, noting Iran's fluctuating stance on whether a deal is 'close' and its specific demands, including US withdrawal and 'correcting its behavior.' The Revolutionary Guard's assertion that reopening doesn't depend on Oman talks adds complexity, suggesting internal divisions or alternative strategies that could impact global energy markets and regional stability."
+        "title": "US-Iran Diplomatic Breakthroughs on Hormuz",
+        "description": "The US is reportedly willing to drop the nuclear issue if Iran opens the Strait of Hormuz, while Iran ties reopening to US concessions. Analysts should watch for any signs of a diplomatic breakthrough or specific concessions from either side that could lead to a resolution of the Hormuz stalemate."
       },
       {
-        "title": "US Defense Industrial Capacity and Weapon Stock Replenishment",
-        "description": "Monitor the efforts of the Pentagon to press defense firms to accelerate weapon production and replenish depleted US stocks, as highlighted by multiple reports. The speed and success of this industrial ramp-up will indicate the sustainability of current US military commitments and its long-term capacity to project power in the region."
+        "title": "Iran's Internal Stability and Leadership Shifts",
+        "description": "Iran faces growing protests and economic turmoil, alongside recent appointments like Mohsen Rezaei to a top security body. Monitor the intensity of internal dissent and any further leadership changes, as these factors could influence Iran's negotiating posture and overall stability."
       },
       {
-        "title": "Prospects for US-Iran Diplomatic Engagement",
-        "description": "Observe any developments in potential diplomatic pathways between the US and Iran, especially in light of Iran's condition that talks won't happen while an interim deal is breached and a top US general seeking 'off-ramps' to military escalation. The willingness of both sides to engage in meaningful dialogue and address underlying grievances will be crucial for de-escalation."
+        "title": "Global Oil Market Volatility and Hormuz Status",
+        "description": "Oil prices have climbed due to the stalemate in the Strait of Hormuz, a critical chokepoint for global energy supplies. Analysts should track any developments regarding the strait's status, as its continued closure or reopening will directly impact global oil prices and economic stability."
       },
       {
-        "title": "Regional Incidents and Escalation Risks",
-        "description": "Watch for any new alleged attacks, maritime incidents (like the one condemned by the UAE), or increased proxy activities in the broader Middle East. Such events, coupled with internal calls for action like those in Lebanon, could quickly escalate tensions, disrupt shipping, and potentially draw in regional and international actors, leading to broader conflict."
+        "title": "US Military Industrial Capacity and Stock Replenishment",
+        "description": "The Pentagon is pressing defense firms to build weapons as the Iran war depletes US stocks, highlighting a global ammo crunch. Watch for reports on the pace of weapons production and replenishment efforts, as this indicates the US's capacity for sustained conflict and its strategic readiness."
       },
       {
-        "title": "Global Economic Repercussions of the Conflict",
-        "description": "Pay close attention to global economic indicators, such as oil prices, inflation rates (e.g., China's CPI), and investor sentiment in markets like Europe, which are explicitly linked to the 'Iran war.' Continued economic strain and uncertainty could pressure international actors to seek resolution or further complicate geopolitical responses."
+        "title": "Regional Proxy Actions and Escalation Risks",
+        "description": "Alleged Iranian attacks in Hormuz and calls for an intifada against Hezbollah signal potential for broader regional conflict. Monitor for any further proxy actions or direct confrontations that could escalate tensions and draw in other regional or international actors."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-09T11:09:11.423831+00:00",
+  "last_watch_time": "2026-08-10T11:11:14.874745+00:00",
   "relevant_news": [
+    {
+      "title": "Oil Prices Climb on Stalemate in Strait of Hormuz - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 10, 2026 · 07:15 BRT",
+      "pub_date": "2026-08-10",
+      "pub_ts": 1786356959,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post",
       "url": "https://www.washingtonpost.com/technology/2026/08/08/pentagon-presses-defense-firms-build-weapons-iran-war-depletes-stocks/",
@@ -10454,14 +10494,14 @@
       "sentiment_success": false
     },
     {
-      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note. - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
+      "title": "Southern Iran Bears Brunt of U.S. Bombing - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 08, 2026 · 16:56 BRT",
-      "pub_date": "2026-08-08",
-      "pub_ts": 1786218998,
+      "published": "Aug 10, 2026 · 06:02 BRT",
+      "pub_date": "2026-08-10",
+      "pub_ts": 1786352548,
       "summary": "",
       "tags": [
         "extracted",
@@ -10473,74 +10513,60 @@
       "sentiment_success": false
     },
     {
-      "title": "Top US general said urging Iran war ‘off-ramp’ as Tehran and Oman near Hormuz deal - The Times of Israel",
-      "url": "https://www.timesofisrael.com/top-us-general-said-urging-iran-war-off-ramp-as-tehran-and-oman-near-hormuz-deal/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Aug 08, 2026 · 12:30 BRT",
-      "pub_date": "2026-08-08",
-      "pub_ts": 1786203000,
-      "summary": "",
+      "title": "Iran faces growing protests, economic turmoil as wider war fears deepen - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-905049",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Aug 10, 2026 · 04:55 BRT",
+      "pub_date": "2026-08-10",
+      "pub_ts": 1786348534,
+      "summary": "January protests showed \"how millions of people, if equipped with a clear program and objective, as well as revolutionary and progressive leadership, could overthrow the regime.\"",
       "tags": [
-        "extracted",
-        "timesofisrael.com"
+        "Iran",
+        "protests",
+        "Donald Trump",
+        "iran protests",
+        "revolution"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Tehran issues drastic new demands for deal to reopen Hormuz, says US must ‘correct its behavior’ - The Times of Israel",
-      "url": "https://www.timesofisrael.com/tehran-issues-drastic-new-demands-for-deal-to-reopen-hormuz-says-us-must-correct-its-behavior/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Aug 08, 2026 · 17:40 BRT",
-      "pub_date": "2026-08-08",
-      "pub_ts": 1786221600,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "China’s monthly inflation cools as impact from Iran war eases - Financial Times",
-      "url": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Aug 09, 2026 · 00:06 BRT",
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-08-09/live-updates-904928",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Aug 09, 2026 · 22:38 BRT",
       "pub_date": "2026-08-09",
-      "pub_ts": 1786244808,
-      "summary": "July CPI rises at slowest pace since January while factory-gate price growth decelerates",
+      "pub_ts": 1786325896,
+      "summary": "UAE condemns alleged Iranian attack on vessel in Hormuz • Lebanese calls for intifada against Hezbollah • Potential infiltration feared with discovery of cut fence",
       "tags": [
-        "extracted",
-        "ft.com"
+        "Benjamin Netanyahu",
+        "IDF",
+        "Iran",
+        "Saudi Arabia",
+        "Yemen"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 08, 2026 · 11:55 BRT",
-      "pub_date": "2026-08-08",
-      "pub_ts": 1786200950,
+      "title": "The US Ammo Crunch Is a Global Disaster - Bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-10/the-us-running-out-of-ammo-in-iran-is-a-global-disaster",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 10, 2026 · 06:00 BRT",
+      "pub_date": "2026-08-10",
+      "pub_ts": 1786352416,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -10549,9 +10575,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-09T11:09:11.803884+00:00",
-  "last_generated_date": "2026-08-09",
-  "last_generated_time": "2026-08-09T23:01:53.601995+00:00",
+  "last_relevant_time": "2026-08-10T11:11:15.489719+00:00",
+  "last_generated_date": "2026-08-10",
+  "last_generated_time": "2026-08-10T08:01:55.664328+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

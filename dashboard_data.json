@@ -10278,6 +10278,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-09"
+    },
+    "https://www.reuters.com/world/middle-east/iran-ties-hormuz-reopening-us-concessions-several-demands-2026-08-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
+    },
+    "https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1": {
+      "summary": "Mohsen Rezaei appointed head of Supreme National Security Council after Mohammad Bagher Zolghadr steps down",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-09"
     }
   },
   "last_digest_success": true,
@@ -10432,7 +10452,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-09T11:09:11.803884+00:00",
   "last_generated_date": "2026-08-09",
-  "last_generated_time": "2026-08-09T20:02:00.344043+00:00",
+  "last_generated_time": "2026-08-09T21:01:52.736129+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -10447,6 +10467,20 @@
           "published": "Aug 09, 2026 · 19:19 BRT",
           "pub_date": "2026-08-09",
           "pub_ts": 1786313958,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China’s Inflation Cools as Iran War Oil Shock Starts to Ease - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnJxMUlZWURHYVNhSTJOUHphX3AtSWFMTTdKd1h2MVoxQTlfemw1SHAzbm9NNmVnUTZhTzlGYTFWbURMODhWcXVDRlhNU3p2M0Zfb3FId2ppTjJTNWJEU1NSS0VqWlU3QmRkbnZiNWdBdGRqczFvaVMySmgwNmJld0hKY0pkbXlOc1lsV1F1M2NfeDFFcFJxdGRGQkNsTUN4eWFCalJJSlU0S1pweC03eGVaLTY?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 09, 2026 · 00:11 BRT",
+          "pub_date": "2026-08-09",
+          "pub_ts": 1786245060,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

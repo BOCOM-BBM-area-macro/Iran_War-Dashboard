@@ -10846,6 +10846,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-11"
+    },
+    "https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1": {
+      "summary": "Falling water levels caused by weather phenomenon could limit transit slots through crucial maritime passageway",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.reuters.com/world/europe/zelenskiy-ukraine-has-given-us-negotiators-proposals-ending-war-with-russia-2026-08-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
     }
   },
   "last_digest_success": true,
@@ -11004,12 +11024,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-11T11:08:22.851031+00:00",
   "last_generated_date": "2026-08-11",
-  "last_generated_time": "2026-08-11T19:01:48.404790+00:00",
+  "last_generated_time": "2026-08-11T20:01:48.009393+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "New attacks on shipping as Iran war talks hit fresh impasse - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 19:52 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786488763,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027 - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVJkVEhFbHJsSjlHdUk3cWlubWh4ckh2MlF1SWVrUTVpYXgtT0NJeWk5cERkT21VWDFneUhWQWdQSmlibkNLWTkybi11RkJEWmNmMFUwamthR1NGbk5lQ2l2cEl5WlBhVXc1US1rblU5WTlpUmJDTHAzZWJlZ1ZhRTJsU2ZDaFVHaHYtTF84TEVlNnA2azNlMS1CaE1SdWZKM2VWT2VTZDhTYWZzTkF5Rw?oc=5",

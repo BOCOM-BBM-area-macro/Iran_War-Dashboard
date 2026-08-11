@@ -10786,6 +10786,56 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-11"
+    },
+    "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html": {
+      "summary": "The Iranian strikes that killed three U.S. soldiers in Jordan show how quickly Iran’s war-fighting skills have evolved, as the Pentagon runs low on interceptors.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-11/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.reuters.com/world/middle-east/pakistan-says-us-iran-close-some-sort-deal-despite-attacks-shipping-2026-08-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-iran-options-are-let-tehran-fail-economically-or-hit-them-really-hard-2026-08-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.ft.com/content/42194267-cda2-4dcc-9487-02c5f239e034?syn-25a6b1a6=1": {
+      "summary": "Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
     }
   },
   "last_digest_success": true,
@@ -10944,12 +10994,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-11T11:08:22.851031+00:00",
   "last_generated_date": "2026-08-11",
-  "last_generated_time": "2026-08-11T13:01:52.305291+00:00",
+  "last_generated_time": "2026-08-11T15:01:41.588020+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027 - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVJkVEhFbHJsSjlHdUk3cWlubWh4ckh2MlF1SWVrUTVpYXgtT0NJeWk5cERkT21VWDFneUhWQWdQSmlibkNLWTkybi11RkJEWmNmMFUwamthR1NGbk5lQ2l2cEl5WlBhVXc1US1rblU5WTlpUmJDTHAzZWJlZ1ZhRTJsU2ZDaFVHaHYtTF84TEVlNnA2azNlMS1CaE1SdWZKM2VWT2VTZDhTYWZzTkF5Rw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 14:08 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786468103,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Russia Budget Gap Spikes Despite Oil Windfall Driven by Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTRuOHFUaFBZYkVJNTk5dzFsQ2kyVlhONE05MVM0dTVwd0l6bG5va2ZaMHY4TGhhLUpIZzBvaFlobkVmV0ZrZUpubjg0aDVBNUU1MHU4MWhUWXM5Q0pOY0FrY1B6WUcweEtaamR4elA3Y0g2bk5NNGxaNUtKdmN0RDhOSHlxbHE4SVRMX1gtUGJTdUpJX3R6U2pLNVdKci1hd3EyNEozMF9pYU1zUUszZjVDbEJFdw?oc=5",
@@ -11365,6 +11429,20 @@
           "published": "Aug 04, 2026 · 17:05 BRT",
           "pub_date": "2026-08-04",
           "pub_ts": 1785873939,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 04, 2026 · 16:29 BRT",
+          "pub_date": "2026-08-04",
+          "pub_ts": 1785871792,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -15034,6 +15112,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Heatwaves push European gas prices close to Iran war highs - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkVySmlBNE1RUVc3cl9tRUNCOGpPbzVGR3hNdWY1eEc3X0hsaFVpRmZqSGFycDFWV1ZtQURRR0lfRDQwWTNLRVVEeS03Vm0tX3RvRy1mbElOcmJZeFpUaDBTcm1BQUlIYTQ0Y29VMzZQWGlTbjdtRWNHc2ZmOUd4cDliaV8?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 13:53 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786467206,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Donald Trump reportedly willing to walk away from Iran war without nuclear deal - jpost.com",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUd2ZVSzhLT01KMUc3Y2FsR1dBZkhnQU9RZ3ptS1BIZks4bHQ2OXotNUxaSlI0c1VNcEU5eF84LXc2emxYQmN5a3dfTGNURVBYVmxGal9MTExscmMyMXFkWEtKRFpwMXV6UXc?oc=5",

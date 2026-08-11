@@ -10277,7 +10277,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-09"
+      "pub_date": "2026-08-10"
     },
     "https://www.reuters.com/world/middle-east/iran-ties-hormuz-reopening-us-concessions-several-demands-2026-08-09/": {
       "summary": "",
@@ -10673,6 +10673,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-11"
+    },
+    "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-11/insight-with-haslinda-amin-08-11-2026-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-10"
     }
   },
   "last_digest_success": true,
@@ -10831,12 +10851,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-11T11:08:22.851031+00:00",
   "last_generated_date": "2026-08-11",
-  "last_generated_time": "2026-08-11T08:01:35.747275+00:00",
+  "last_generated_time": "2026-08-11T09:01:39.593011+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3NHamJ4eFBXT1cwMEYzU01tNG9ZbmdiOXhjWmtEUGlMQVJiQUR5QVJYZnpwQUw1UDd5VXExWlBkNXIxOU1PZlRVYldtMkMxdEhaS2gyVm5ydTkzUGFseDhHcHpSVlZRUndyd29nblFTREdrN3pSTGNOSFctejg3TQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 08:37 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786448229,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why the Real Oil Squeeze Is Happening in Refineries - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnVWWWNCQTNPQ3hmd3VDcDQ4Umw1MzNHdFUzWkJHcEZwWW1PSG5xN2ZJdDhzQTI5dnM2VkNEelVYM1VWSElHeDA0N1dFZEVUeXBTMVg0RktYejNtUGgtMnU3SUxoc29pR05UVEhEemN6Ty1hUjItSEprUUJmNGVmYjhNNHRDYVktLVBKVWlJQldnQlg0ajVZMlZpYzUzRHNJTHc?oc=5",

@@ -10703,6 +10703,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-11"
+    },
+    "https://www.wsj.com/world/middle-east/u-s-fires-on-ship-breaking-its-blockade-of-iran-d8b99456": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
     }
   },
   "last_digest_success": true,
@@ -10861,7 +10871,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-11T11:08:22.851031+00:00",
   "last_generated_date": "2026-08-11",
-  "last_generated_time": "2026-08-11T10:01:35.120612+00:00",
+  "last_generated_time": "2026-08-11T11:01:45.028851+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -16679,6 +16689,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Singapore shrugs off Iran war as AI boom buoys growth - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFBlZXMwUzY1dWx1UWZkTnJxY1RuNm1VZDVxX1ZBVlhTQTFpcXR1VlRnbklxelVjazhlRXZlVTc4aWd0QkdmMnJVRk84YnVad2tMVzgzNEJyNXkxRmo2NDh5NjY5Q2ktbzVuWi1YUzQ1SWpodFF0Z2lVcldsLXctYTJCa1Y?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 02:09 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786424985,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China's exports slow slightly in July despite robust demand for high-tech products - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2NQLXJpMmlmVXlkVFRxS0VfYWNmc1ZoSmJRdXV4ajRTWVljSjJwY0d3VEdhdTZHRy1fSlB0dzZFN1dtUTBrMzk0MGRweW9LMk9GaGJYc0MxMmw0UXJpT0pWRVhnNEU1YXFTLWF4MWpXUWJIWWR3RHBxcUt4LTNlaGZEWFF2NEdsUWFHTGV1WHZHTGJaV2Y5TWl3YzJTbjlLeWtYVEt3eGtySVNfTFV3UU12Y2kzdHR2cFNsdTZTbGNxSHVwYVJmWVVGVlloeXp1?oc=5",

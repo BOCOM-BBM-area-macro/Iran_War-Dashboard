@@ -10778,7 +10778,7 @@
       "pub_date": "2026-08-11"
     },
     "https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html": {
-      "summary": "",
+      "summary": "With gas prices high, people in developing countries are racing to buy battery-powered bikes. The Iran war has made Trump “salesman of the year,” one executive in Pakistan said.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10829,6 +10829,16 @@
     },
     "https://www.ft.com/content/42194267-cda2-4dcc-9487-02c5f239e034?syn-25a6b1a6=1": {
       "summary": "Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4": {
+      "summary": "Veterans and voters have punished past administrations for costly wars, but these days many Americans don’t seem to care",
       "tags": [
         "extracted",
         "ft.com"
@@ -10994,7 +11004,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-11T11:08:22.851031+00:00",
   "last_generated_date": "2026-08-11",
-  "last_generated_time": "2026-08-11T15:01:41.588020+00:00",
+  "last_generated_time": "2026-08-11T16:01:43.343550+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -14743,6 +14753,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "A Side Effect of the Iran War: Electric Motorcycles Are Soaring - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWm16LUdHVU5IMjRLM2RaQzItQ0JYVlR3M2Z1eGVjeml3SUdhbm9lUjFVWEhmNWE2SDRhMGsyRktQQzdweG43cHhqbmwxN0R3enpJUkw2cF8tMkNlWGF4Q1IyLUYyMjg5aW13SHU3Znp3SFpGQ0hoMFU1UXl5REtaNDZWMA?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 11:43 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786459432,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "War Is Helping Chinese EVs Upend the Global Car Market - WSJ",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0VYNHI0R1N6RUhRWGFRMlNDNGlickNVblpPX2hFbmdpd0dacEhrQ3hvYUJqYUt3OVhyUlEzT0VKRHF2S1dGUFc3N1hGZ1l5UHJoLUFKRnNMM3d3MUpWMURfRkNsMjNXQVQxUjdxRFR0NDE3TXEwWDFHZHlaTVJZNEtOQTBfeVhYYnJmaXVZUnRVbklDbzN5V1MxZDRPNzQ?oc=5",

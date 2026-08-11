@@ -10419,7 +10419,7 @@
       "pub_date": "2026-08-10"
     },
     "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html": {
-      "summary": "",
+      "summary": "A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discussions to fully reopen the waterway.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10549,6 +10549,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-10"
+    },
+    "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10713,7 +10723,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-10T11:11:15.489719+00:00",
   "last_generated_date": "2026-08-10",
-  "last_generated_time": "2026-08-10T21:01:56.656250+00:00",
+  "last_generated_time": "2026-08-10T22:01:42.715641+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

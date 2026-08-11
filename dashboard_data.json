@@ -9636,7 +9636,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-07"
+      "pub_date": "2026-08-08"
     },
     "https://www.reuters.com/world/uk/prices-uk-housing-market-flat-july-iran-war-weighs-2026-08-07/": {
       "summary": "",
@@ -10613,6 +10613,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-10"
+    },
+    "https://www.ft.com/content/7c738ae1-39e5-4094-b224-605dcddaa4e0?syn-25a6b1a6=1": {
+      "summary": "Oil trading hub raises its GDP outlook and says energy market disruption has been less severe than expected",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/10/michael-ramirez-cartoon-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
     }
   },
   "last_digest_success": true,

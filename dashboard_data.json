@@ -10692,7 +10692,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-10"
+      "pub_date": "2026-08-11"
     },
     "https://www.bloomberg.com/news/articles/2026-08-11/pakistan-said-us-iran-are-close-to-some-arrangement-on-peace": {
       "summary": "",
@@ -10742,6 +10742,46 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.washingtonpost.com/national-security/2026/08/10/trump-flew-secrecy-amid-iran-threat-air-force-one-became-decoy/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.wsj.com/business/energy-oil/why-the-real-oil-squeeze-is-happening-in-refineries-cff62ff6": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-11/russia-budget-gap-spikes-despite-oil-windfall-driven-by-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-11"
+    },
+    "https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10904,12 +10944,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-11T11:08:22.851031+00:00",
   "last_generated_date": "2026-08-11",
-  "last_generated_time": "2026-08-11T12:01:55.029974+00:00",
+  "last_generated_time": "2026-08-11T13:01:52.305291+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Russia Budget Gap Spikes Despite Oil Windfall Driven by Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTRuOHFUaFBZYkVJNTk5dzFsQ2kyVlhONE05MVM0dTVwd0l6bG5va2ZaMHY4TGhhLUpIZzBvaFlobkVmV0ZrZUpubjg0aDVBNUU1MHU4MWhUWXM5Q0pOY0FrY1B6WUcweEtaamR4elA3Y0g2bk5NNGxaNUtKdmN0RDhOSHlxbHE4SVRMX1gtUGJTdUpJX3R6U2pLNVdKci1hd3EyNEozMF9pYU1zUUszZjVDbEJFdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 12:06 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786460811,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3NHamJ4eFBXT1cwMEYzU01tNG9ZbmdiOXhjWmtEUGlMQVJiQUR5QVJYZnpwQUw1UDd5VXExWlBkNXIxOU1PZlRVYldtMkMxdEhaS2gyVm5ydTkzUGFseDhHcHpSVlZRUndyd29nblFTREdrN3pSTGNOSFctejg3TQ?oc=5",
@@ -11255,6 +11309,20 @@
           "published": "Aug 05, 2026 · 14:27 BRT",
           "pub_date": "2026-08-05",
           "pub_ts": 1785950873,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US has used 'virtually all' long-range precision missiles in Iran war - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpM3c5VW1kUHROekdzMFlnTTk1bEZVUGxRS0dtaTJ5NDZacjExSEJrNzJIQmkwTU55NkFHbVRBcVozbF8xUXVtUGpKSVk5c0V3RWE4T3ZfWlRQb3pTRm04V0k0a1Jpams?oc=5",
+          "source": "reuters.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 02:53 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785909199,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -10926,56 +10926,76 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-12"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-12/iran-s-military-pivots-to-offensive-mode-for-next-round-of-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-12"
+    },
+    "https://www.reuters.com/business/travel-company-tui-misses-profit-expectations-third-quarter-2026-08-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-12"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-11T11:08:13.300609+00:00",
+  "last_digest_time": "2026-08-12T11:08:18.242788+00:00",
   "digest": {
-    "digest": "Recent developments indicate a hardening of Iran's stance, with its supreme ruler signaling a firm line, potentially in response to US policy shifts. The US administration is reportedly struggling to disengage from the Middle East, despite a stated desire to move on, facing persistent challenges in Iran and Gaza. There are reports of a willingness within the US administration to potentially withdraw from the Iran conflict without a nuclear deal. Diplomatic tensions are evident, with the UAE condemning an alleged Iranian attack on a vessel in the Strait of Hormuz, a waterway where Gulf states acknowledge Iran's de facto control. Regional instability is further highlighted by calls for an intifada against Hezbollah and concerns over potential border infiltrations. Economically, the impact of the Iran situation on global markets appears to be less severe than initially feared, with some economies like Singapore showing resilience due to factors such as an AI boom, while others, like IHG's room revenue, experience a slowdown that is partially offset by growth in other regions. Chinese electric vehicle market share is reportedly benefiting from the broader global car market dynamics influenced by these geopolitical events.",
+    "digest": "Iran's military has reportedly shifted to an 'offensive' mode, adapting its attack capabilities as U.S. war munitions, specifically interceptors, dwindle, as evidenced by recent strikes. Diplomatic efforts appear to be hitting an impasse, with both the U.S. and Iran hardening their positions, though Pakistan suggests a deal may be close. The conflict is contributing to significant global economic disruptions, including record-high Panama Canal fees due to choked shipping and further dents to travel bookings. Oil supply disruptions are projected to last through 2027, with the International Energy Agency anticipating a wider oil supply deficit despite a hit to demand. Russia's budget gap has spiked, even with an oil windfall attributed to the Iran war. Demand for naval vessels from the Middle East has increased following the conflict. There are reports of internal squabbling among Iranian factions regarding war aims, occurring during a period of absence for Khamenei. The U.S. has engaged in actions such as firing on a ship breaking a blockade of Iran, while former President Trump has claimed control of Hormuz. The conflict raises questions about how future U.S. military engagements will be shaped.",
     "top_themes": [
-      "Iran's Regional Influence",
-      "US Policy Towards Iran",
-      "Global Economic Impact of Iran Tensions"
+      "Iran's military strategy evolution",
+      "Global economic impacts of Iran conflict",
+      "US-Iran diplomatic and military posturing"
     ],
     "next_events": [
       {
-        "title": "US Strategic Shift on Iran and Nuclear Deal",
-        "description": "Analysts should monitor President Trump's evolving and potentially erratic approach to the Iran conflict, including his stated desire to disengage from the Middle East and his willingness to abandon a nuclear deal. This will dictate the diplomatic and military posture of the US and significantly influence regional stability."
+        "title": "Iran's Evolving Offensive Capabilities",
+        "description": "Iran's military is reportedly shifting to an 'offensive' posture, coupled with its demonstrated ability to adapt attacks against dwindling U.S. munitions. Analysts should monitor for new types of Iranian strikes, their targets, and the effectiveness of their adapted tactics, particularly against U.S. and allied assets."
       },
       {
-        "title": "Iran's Hardline Stance Under New Leadership",
-        "description": "Signals from Iran's leadership indicate a hardening stance towards the US and regional adversaries. Analysts should watch for concrete actions, rhetoric, and internal power shifts that reflect this hardline approach, as it will shape Iran's engagement in proxy conflicts and its response to international pressure."
+        "title": "Escalation in Maritime Conflicts and Global Shipping",
+        "description": "New attacks on shipping, U.S. actions against blockade-breaking vessels, and rising Panama Canal fees due to the conflict indicate heightened risks in critical maritime passageways. Watch for increased naval confrontations, further disruptions to global shipping routes, and their impact on trade and insurance costs."
       },
       {
-        "title": "Iran's Asserted Control Over Strait of Hormuz",
-        "description": "With Gulf states reportedly accepting Iran's increased control over the Strait of Hormuz, this critical chokepoint remains a flashpoint. Analysts must monitor any alleged attacks on vessels, naval maneuvers, and international responses to ensure the security of global energy supplies and prevent further escalation."
+        "title": "Long-Term Global Oil Market Volatility",
+        "description": "The U.S. projects Iran war-related oil supply disruptions lasting through 2027, contributing to a wider global supply deficit and impacting national budgets. Analysts should track crude oil prices, the stability of major oil-producing regions, and the long-term strategies of energy consumers and producers to mitigate these sustained impacts."
       },
       {
-        "title": "Intensification of Regional Proxy Conflicts",
-        "description": "The region is witnessing heightened tensions, including alleged Iranian attacks, calls for intifada against Hezbollah, and potential border infiltrations. Analysts should closely track these incidents across Israel, Lebanon, and the Gulf, as they indicate a potential for broader regional conflict and destabilization."
+        "title": "Internal Iranian Political Dynamics and War Aims",
+        "description": "Reports of squabbling among Iranian factions over war aims, especially with Supreme Leader Khamenei reportedly absent, suggest potential shifts in Iran's strategic direction. Monitor for any signs of leadership changes, internal power struggles, or public statements that could indicate a re-evaluation or hardening of Iran's war objectives."
       },
       {
-        "title": "Global Economic Impact of Iran War",
-        "description": "While some regions like Singapore show resilience, the Iran war is already impacting global sectors, such as the hospitality industry. Analysts should assess the broader economic consequences, including oil market stability, trade routes, and investment flows, to understand the conflict's ripple effects on the global economy."
+        "title": "US Strategic Posture and Diplomatic Engagement",
+        "description": "Despite hardening stances from both the US and Iran, there are mentions of potential deals and a re-evaluation of US fighting strategies. Watch for any shifts in US military deployments, new diplomatic overtures or back-channel negotiations, and how these might influence the broader conflict trajectory and regional alliances."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-11T11:08:22.418313+00:00",
+  "last_watch_time": "2026-08-12T11:08:26.873520+00:00",
   "relevant_news": [
     {
-      "title": "Opinion | Why Trump’s erratic approach to the Iran war is guaranteed to fail - The Washington Post",
-      "url": "https://www.washingtonpost.com/opinions/2026/08/10/trumps-iran-policy-is-war-with-itself/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 10, 2026 · 14:00 BRT",
-      "pub_date": "2026-08-10",
-      "pub_ts": 1786381200,
+      "title": "Iran’s Military Pivots to ‘Offensive’ Mode for Next Round of War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/iran-s-military-pivots-to-offensive-mode-for-next-round-of-war",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 12, 2026 · 06:47 BRT",
+      "pub_date": "2026-08-12",
+      "pub_ts": 1786528066,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -10983,56 +11003,36 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran’s Mysterious Ruler Signals a Hard Line on Trump With New Leadership - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/irans-mysterious-ruler-signals-a-hard-line-on-trump-with-new-leadership-4ae054ea",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 10, 2026 · 23:00 BRT",
-      "pub_date": "2026-08-10",
-      "pub_ts": 1786413600,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him. - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
+      "title": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 10, 2026 · 18:22 BRT",
-      "pub_date": "2026-08-10",
-      "pub_ts": 1786396959,
-      "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
+      "published": "Aug 11, 2026 · 13:56 BRT",
+      "pub_date": "2026-08-11",
+      "pub_ts": 1786467418,
+      "summary": "The Iranian strikes that killed three U.S. soldiers in Jordan show how quickly Iran’s war-fighting skills have evolved, as the Pentagon runs low on interceptors.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
       "sentiment_success": false
     },
     {
-      "title": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 10, 2026 · 21:00 BRT",
-      "pub_date": "2026-08-10",
-      "pub_ts": 1786406400,
+      "title": "New attacks on shipping as Iran war talks hit fresh impasse - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/pakistan-says-us-iran-close-some-sort-deal-despite-attacks-shipping-2026-08-11/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 11, 2026 · 12:18 BRT",
+      "pub_date": "2026-08-11",
+      "pub_ts": 1786461480,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11040,51 +11040,67 @@
       "sentiment_success": false
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-08-09/live-updates-904928",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 10, 2026 · 21:00 BRT",
-      "pub_date": "2026-08-10",
-      "pub_ts": 1786406405,
-      "summary": "UAE condemns alleged Iranian attack on vessel in Hormuz • Lebanese calls for intifada against Hezbollah • Potential infiltration feared with discovery of cut fence",
+      "title": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027 - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 11, 2026 · 14:08 BRT",
+      "pub_date": "2026-08-11",
+      "pub_ts": 1786468103,
+      "summary": "",
       "tags": [
-        "Benjamin Netanyahu",
-        "IDF",
-        "Iran",
-        "Saudi Arabia",
-        "Yemen"
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Donald Trump reportedly willing to walk away from Iran war without nuclear deal - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-904972",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 10, 2026 · 06:27 BRT",
-      "pub_date": "2026-08-10",
-      "pub_ts": 1786354032,
-      "summary": "According to the officials, Trump privately floated the idea to his senior aides.",
+      "title": "Trump Claims Hormuz Control as US, Iran Harden Their Positions - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/trump-claims-hormuz-control-as-us-iran-harden-their-positions",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 12, 2026 · 06:21 BRT",
+      "pub_date": "2026-08-12",
+      "pub_ts": 1786526511,
+      "summary": "",
       "tags": [
-        "Iran",
-        "Donald Trump",
-        "Nuclear Deal",
-        "strait of hormuz"
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "IEA Sees Wider Oil Supply Deficit Despite Hit to Demand From War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/iea-sees-wider-oil-supply-deficit-despite-hit-to-demand-from-war",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 12, 2026 · 05:00 BRT",
+      "pub_date": "2026-08-12",
+      "pub_ts": 1786521602,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-11T11:08:22.851031+00:00",
-  "last_generated_date": "2026-08-11",
-  "last_generated_time": "2026-08-11T23:01:48.953449+00:00",
+  "last_relevant_time": "2026-08-12T11:08:27.354312+00:00",
+  "last_generated_date": "2026-08-12",
+  "last_generated_time": "2026-08-12T08:01:39.736180+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -16341,6 +16357,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "TUI avoids another profit warning as Iran war further dents travel bookings - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXFRbkJoZFM5cC1hRjk2TmVxNk1EeHowRHJraXdlZUNqcmZfRHdpdTFyWE9rWkhQWlJnVlJfMVM4XzZTY1RtYm9BS2xPcUZRU1V4YzZPRWdhUGtUQlZRcjVzQmdQVEliUFB5bmNOYm1KVWVsS3ZWZi12c2tYYXFqM2g4WTFGTi1fbVZseWYxenR6RHdDWTNha052OGRWX0E2cS1mMFhvUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 12, 2026 · 02:04 BRT",
+          "pub_date": "2026-08-12",
+          "pub_ts": 1786511040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Air Canada reinstates annual forecast, signals fuel price volatility remains a risk - Reuters",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2luYkU4ZEFpMEJIREFqb3RSaV9xWExzMTFZa2pDVERyRDlLSzVrc1RBWVlLblBhQkRfWUMxUUk4bnpGZkF5NGt5V2RNZ0hMWFp3akVUNXFyRnQyc1gwUUZ2eTV3WlFLeFNOZ08zTTJoRHlzSHE0Mmk3QkRsei11TmhyYVRQSl9nMlB1QmNna2MzcUxSZDdn?oc=5",

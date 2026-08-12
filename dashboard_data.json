@@ -10672,7 +10672,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-10"
+      "pub_date": "2026-08-11"
     },
     "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html": {
       "summary": "",
@@ -11001,6 +11001,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-12"
+    },
+    "https://www.reuters.com/world/asia-pacific/iran-says-no-progress-reviving-interim-peace-deal-with-us-2026-08-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-12"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-905317": {
+      "summary": "Regarding the broader consensus points, from Right to Left, top Israeli defense officials believe the country must maintain some kind of security zone in Gaza, Lebanon, and Syria for years to come.",
+      "tags": [
+        "IDF",
+        "hezbollah iran",
+        "israel defense news",
+        "Gaza Strip",
+        "Israel-Hamas War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-12"
     }
   },
   "last_digest_success": true,
@@ -11155,7 +11178,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-12T11:08:27.354312+00:00",
   "last_generated_date": "2026-08-12",
-  "last_generated_time": "2026-08-12T11:01:58.230402+00:00",
+  "last_generated_time": "2026-08-12T12:02:06.538804+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -16720,6 +16743,20 @@
           "published": "Aug 06, 2026 · 07:17 BRT",
           "pub_date": "2026-08-06",
           "pub_ts": 1786011423,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Surge in Black Sea attacks adds to strain on global commodity flows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXc2emFoSHcyanliMTRrTHZhd2hNRHNGUFl2OEhkOHhXcmw3RFNSQXBkSlJfVW81bXJsRVhBdnMyU09lNWRyRTBIN2NoN2xZLThvWUpINjBaNFZFRHFMQUl3WmMtZUlSNFVOVXotOF9YTXp3VnVQVDhTdXlwVlFRYXh5NFkzU3UxV0YtZFd2blJ6bi04QVZCUDU3ZnkwR2xtTVE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 05, 2026 · 12:28 BRT",
+          "pub_date": "2026-08-05",
+          "pub_ts": 1785943739,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -10825,7 +10825,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-11"
+      "pub_date": "2026-08-12"
     },
     "https://www.ft.com/content/42194267-cda2-4dcc-9487-02c5f239e034?syn-25a6b1a6=1": {
       "summary": "Wednesday’s solar eclipse is also expected to fuel demand for gas-fired power generation",
@@ -11250,6 +11250,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-13"
+    },
+    "https://www.reuters.com/video/watch/idRW519913082026RP1/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-13"
     }
   },
   "last_digest_success": true,
@@ -11404,12 +11414,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-13T11:09:48.990242+00:00",
   "last_generated_date": "2026-08-13",
-  "last_generated_time": "2026-08-13T15:01:51.163150+00:00",
+  "last_generated_time": "2026-08-13T16:01:43.293875+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "How far can global oil supplies stretch if the Iran war won't end? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZQnZqZGNQUXRxVkNpWEEtR0V4Nm1ObEE4ZkxYb1NwcTJBWFJZaFdjSVZncXYxQm5wT0ZabTl3bDdSM1AxeHJTUzJZQ1VIcG9PUWVxa1huWUliWkRnblVIbWtHQUpnLWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 13, 2026 · 14:14 BRT",
+          "pub_date": "2026-08-13",
+          "pub_ts": 1786641265,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",

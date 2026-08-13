@@ -10532,7 +10532,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-10"
+      "pub_date": "2026-08-12"
     },
     "https://www.cbc.ca/news/world/trump-demands-compensation-iran-9.7302186": {
       "summary": "U.S. President Donald Trump on Monday demanded Iran pay compensation for the people he said it had killed in wars, attacks and protests, in a move that will likely complicate ‌efforts to reopen the Strait of Hormuz.",
@@ -11094,6 +11094,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-13"
+    },
+    "https://www.ft.com/content/f2f6766a-c249-4557-866e-d9bb23429047": {
+      "summary": "Businesses introduce instalment plans and food delivery services cut portion sizes as US-Israeli war worsens economic crisis",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-13"
+    },
+    "https://www.reuters.com/world/middle-east/major-gulf-bourse-see-cautious-gains-tensions-weigh-sentiment-2026-08-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-12"
     }
   },
   "last_digest_success": true,

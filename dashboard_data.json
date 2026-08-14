@@ -11413,6 +11413,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-14"
+    },
+    "https://www.reuters.com/world/middle-east/lebanons-creative-talent-suffers-iran-war-squeezes-gulf-economies-2026-08-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-14"
+    },
+    "https://www.jpost.com/israel-election-2026/article-905533": {
+      "summary": "He voted against the January 2025 hostage deal, his own voters demanded he resign, and Ben-Gvir walked out. Smotrich stayed silent for five months. In an interview with the Post, he explained why.",
+      "tags": [
+        "Arye Deri",
+        "Benjamin Netanyahu",
+        "Finance Ministry",
+        "Gaza",
+        "Hamas"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-14"
     }
   },
   "last_digest_success": true,
@@ -11572,7 +11595,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-14T11:08:38.584377+00:00",
   "last_generated_date": "2026-08-14",
-  "last_generated_time": "2026-08-14T08:01:46.642831+00:00",
+  "last_generated_time": "2026-08-14T09:01:58.579081+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -17754,6 +17777,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "The financial week in five charts: Bank boom, aluminium squeeze and smart freight - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVktiejFRemlnYnpBVWZSWHFnSGU3OFpOMkVuakY0V0lZa0hMalIzQmgzY3pKV1RVNWZlR2EwMGFZTHAwSExva2hZTERVSUJFU0psX2gxbDNsN0tZSktSeE5BdWZwUVpaUGxPWkE3VkFKdXRMRE9jeFoxZjBuTlpBTHRrc1pISEszSFY2YXF5VVdoc1hXSHY4R0tJamVRYWhGZERwQzlkWVNtbC0tM0xNNW1Pek82eXFkcVlzM1JrTENBUGNSSmgzbi1VOTROczEwSTVj?oc=5",
+          "source": "reuters.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 14, 2026 · 07:45 BRT",
+          "pub_date": "2026-08-14",
+          "pub_ts": 1786704308,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war a boon for China's e-trucks, fuelling export surge - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVEwN3ZXeTQ5RmxKUlJScTRsa1FpNGJCaGVfR1dkMDJMVkZnenFHUDcxVjdmbVk2ajJaaWxlTDZ3SkVZd1hLdG9yenk0X0hyb01wMXpxQ1JEbklIR3d1cVdtbVdETXNhRy1NQUhJSVpYa05vOEc4emFqc1R0eUNOWDhCYmlxaThjTm5TaDV2RmZaeWk4VlBINmM0UWVlaV9MSTRZc0xkQTZ4QQ?oc=5",

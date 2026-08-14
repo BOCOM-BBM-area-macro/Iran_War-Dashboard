@@ -11403,56 +11403,70 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-13"
+    },
+    "https://www.reuters.com/world/middle-east/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-hormuz-2026-08-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-14"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-13T11:09:40.189032+00:00",
+  "last_digest_time": "2026-08-14T11:08:28.081320+00:00",
   "digest": {
-    "digest": "The ongoing Iran conflict continues to exert pressure on global oil supplies, with reports indicating a worsening crunch. Despite the economic strain, some economies, like the UK's, have shown resilience, posting 0.4% growth in the early months of the war. India's central bank has also noted a receding shock from the conflict. Diplomatically, there has been no progress on reviving an interim peace deal between Iran and the US, with talks remaining stalled. Iran's military posture has shifted, with officials adopting a more 'offensive' mode and expressing a perception of US military weakness. This robust stance is occurring as US-Iran talks are frozen. Saudi Arabia is focusing on defensive alliances to prevent further escalation into wider conflict. The increased demand for defensive capabilities in the Middle East is also noted, with TKMS seeing a rise in orders following the Iran war.",
+    "digest": "The United States is experiencing significant depletion of its Reaper drone arsenal, with reports indicating approximately 25% to 45 drones lost during the Iran war, raising concerns about future hostilities. In response to ongoing conflict, the U.S. is deploying an additional aircraft carrier to the Middle East and vowing to maintain naval blockades indefinitely, alongside escalating economic pressure through measures described as unprecedented. Two more ships were attacked in the Strait of Hormuz, where both Iran and the U.S. are making competing claims over control. Iran is reportedly rapidly rebuilding its ballistic missile arsenal, surprising Israeli defense officials. The U.S. is also planning to roll out an 'economic isolation' plan for Iran next week. Despite these actions, analysis suggests both the U.S. and Iran are in a protracted conflict with no clear resolution in sight, and concerns have been raised regarding conditions on Navy carriers operating in the region. Meanwhile, the Iran war is creating export opportunities for Chinese e-trucks, indicating a broader economic impact.",
     "top_themes": [
-      "Iran Conflict Escalation",
-      "Economic Impact of Iran War",
-      "Diplomatic Stalemate"
+      "US Military Arsenal Depletion",
+      "Economic Pressure on Iran",
+      "Geopolitical Strait of Hormuz Control"
     ],
     "next_events": [
       {
-        "title": "Stalled US-Iran Peace Talks",
-        "description": "Iran reports no progress on reviving an interim peace deal with the US, and takes a more robust military stance with talks frozen. Analysts should monitor any back-channel communications or renewed diplomatic overtures, as continued deadlock increases the risk of military escalation."
+        "title": "US Drone Replenishment and Military Readiness",
+        "description": "The significant loss of Reaper drones (estimated 25-45%) raises concerns about the U.S. military's operational capacity and supply chain for future conflicts. Analysts should monitor procurement efforts, production rates, and the deployment of alternative surveillance or strike assets to assess the impact on U.S. force projection in the region."
       },
       {
-        "title": "Iran's Offensive Military Shift",
-        "description": "Iran's military is pivoting to an 'offensive' mode for the 'next round of war' and adopting a more robust stance. This signals a potential shift from defensive to proactive engagement, and analysts must watch for any changes in military deployments, exercises, or rhetoric that indicate an imminent offensive action."
+        "title": "Implementation of New US Economic Pressure and 'Isolation' Plan",
+        "description": "The U.S. has vowed to apply 'measures never seen' and roll out an 'economic isolation' plan, alongside an indefinite naval blockade on Iran. Analysts should closely watch the specifics of these new sanctions, their enforcement mechanisms, and Iran's economic response to gauge the potential for further escalation or internal instability."
       },
       {
-        "title": "Iran's Assessment of US Military Capability",
-        "description": "A top IRGC adviser claims the US military is 'weaker than what we perceived' following recent engagements. This perception could embolden Iran to take more aggressive actions or miscalculate responses, making it crucial to observe Iranian strategic communications and military decision-making for signs of increased assertiveness."
+        "title": "Stability and Control of the Strait of Hormuz",
+        "description": "With competing claims over the Strait of Hormuz and recent attacks on ships, this critical waterway remains a major flashpoint. Analysts must monitor naval deployments, any further incidents, and the effectiveness of the U.S. naval blockade to assess the risk of disruption to global oil supplies and potential military confrontation."
       },
       {
-        "title": "Escalating Oil Market Disruptions",
-        "description": "The conflict continues to worsen the oil supply crunch globally. Analysts should track oil prices, production levels, and any disruptions to shipping lanes or energy infrastructure, as sustained or intensified conflict could lead to significant economic instability and further global inflation."
+        "title": "Iran's Ballistic Missile Program Resurgence",
+        "description": "Iran is reportedly rapidly rebuilding its ballistic missile arsenal, a development that has stunned Israeli intelligence. This significantly alters the regional power balance and poses an increased threat to U.S. allies; analysts should track intelligence reports on the scale and sophistication of this rebuilding effort."
       },
       {
-        "title": "Middle East Defensive Alliances and Arms Race",
-        "description": "Saudi Arabia is actively pursuing defensive alliances to deter a slide into war, while demand for military equipment in the Middle East is increasing. Watch for new security pacts, joint military exercises, and arms acquisitions in the region, as these indicate a heightened state of preparedness and potential for broader regional conflict."
+        "title": "Global Oil Market Resilience Amid Prolonged Conflict",
+        "description": "The ongoing conflict raises critical questions about the resilience of global oil stocks to withstand a prolonged U.S.-Iran war. Analysts should monitor oil prices, strategic reserves, and production capacities of other major oil producers to assess potential supply shocks and their broader economic implications."
+      },
+      {
+        "title": "Prospects for De-escalation and Diplomatic Breakthroughs",
+        "description": "With both sides seemingly trapped in a conflict neither knows how to win and skepticism about viable deals, the diplomatic landscape remains challenging. Analysts should watch for any subtle shifts in rhetoric, back-channel communications, or changes in core assumptions that could signal a potential path towards de-escalation or future negotiations."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-13T11:09:48.604076+00:00",
+  "last_watch_time": "2026-08-14T11:08:38.207670+00:00",
   "relevant_news": [
     {
-      "title": "India’s RBI Turns Upbeat as Worst of Iran War Shock Recedes - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/india-s-rbi-turns-upbeat-as-worst-of-iran-war-shock-recedes",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 13, 2026 · 01:32 BRT",
+      "title": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal - washingtonpost.com",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/",
+      "source": "washingtonpost.com",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 13, 2026 · 19:39 BRT",
       "pub_date": "2026-08-13",
-      "pub_ts": 1786595520,
+      "pub_ts": 1786660783,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11460,18 +11474,18 @@
       "sentiment_success": false
     },
     {
-      "title": "The Oil Supply Crunch is Worsening as Iran Conflict Drags On - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-12/worsening-oil-supply-crunch-following-iran-war-escalation",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 13, 2026 · 01:01 BRT",
+      "title": "Exclusive | U.S. Sending Fresh Aircraft Carrier to Middle East Amid Iran War Strain - wsj.com",
+      "url": "https://www.wsj.com/politics/national-security/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-d0d6e98d",
+      "source": "wsj.com",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Aug 13, 2026 · 17:01 BRT",
       "pub_date": "2026-08-13",
-      "pub_ts": 1786593710,
+      "pub_ts": 1786651260,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11479,18 +11493,18 @@
       "sentiment_success": false
     },
     {
-      "title": "UK Economy Weathers Early Months of Iran War With 0.4% Growth - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/uk-economy-weathers-early-months-of-iran-war-with-0-4-growth?srnd=homepage-americas",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 13, 2026 · 03:05 BRT",
+      "title": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/us-eyes-indefinite-iran-naval-blockade-oil-supply-shortfall-deepens-2026-08-13/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 13, 2026 · 18:53 BRT",
       "pub_date": "2026-08-13",
-      "pub_ts": 1786601100,
+      "pub_ts": 1786657980,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11498,18 +11512,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran’s Military Pivots to ‘Offensive’ Mode for Next Round of War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/iran-s-military-pivots-to-offensive-mode-for-next-round-of-war",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 12, 2026 · 06:47 BRT",
-      "pub_date": "2026-08-12",
-      "pub_ts": 1786528066,
+      "title": "Iran, US make competing claims over control of Strait of Hormuz - reuters.com",
+      "url": "https://www.reuters.com/world/iran-says-strait-hormuz-is-under-its-control-fars-news-reports-2026-08-13/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 13, 2026 · 14:51 BRT",
+      "pub_date": "2026-08-13",
+      "pub_ts": 1786643492,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11517,18 +11531,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran Takes More Robust Military Stance With US Talks Frozen - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 12, 2026 · 14:23 BRT",
-      "pub_date": "2026-08-12",
-      "pub_ts": 1786555410,
+      "title": "Are global oil stocks big enough to weather another six months of US-Iran war? - reuters.com",
+      "url": "https://www.reuters.com/business/energy/are-global-oil-stocks-big-enough-weather-another-six-months-us-iran-war-2026-08-13/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 13, 2026 · 18:21 BRT",
+      "pub_date": "2026-08-13",
+      "pub_ts": 1786656076,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11536,28 +11550,29 @@
       "sentiment_success": false
     },
     {
-      "title": "Top adviser to Iran's IRGC says U.S. military is 'weaker than what we perceived' in rare interview - CBC",
-      "url": "https://www.cbc.ca/news/world/iranian-official-interview-pbs-9.7304517",
-      "source": "CBC",
-      "domain": "cbc.ca",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=cbc.ca",
-      "published": "Aug 12, 2026 · 13:35 BRT",
-      "pub_date": "2026-08-12",
-      "pub_ts": 1786552508,
-      "summary": "A top adviser to Iran's IRGC says Iranian officials have seen \"how the American military is weaker than what we perceived\" since the U.S. and Israel first launched their attack in February of this year, as talks to end the fighting remain stalled.",
+      "title": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz - reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-hormuz-2026-08-14/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 14, 2026 · 07:57 BRT",
+      "pub_date": "2026-08-14",
+      "pub_ts": 1786705043,
+      "summary": "",
       "tags": [
         "extracted",
-        "cbc.ca"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-13T11:09:48.990242+00:00",
-  "last_generated_date": "2026-08-13",
-  "last_generated_time": "2026-08-13T23:02:03.715241+00:00",
+  "last_relevant_time": "2026-08-14T11:08:38.584377+00:00",
+  "last_generated_date": "2026-08-14",
+  "last_generated_time": "2026-08-14T08:01:46.642831+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

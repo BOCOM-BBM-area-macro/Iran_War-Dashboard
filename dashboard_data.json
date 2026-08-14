@@ -11372,7 +11372,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-13"
+      "pub_date": "2026-08-14"
     },
     "https://www.nytimes.com/live/2026/08/13/us/trump-news": {
       "summary": "",
@@ -11383,6 +11383,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-14"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-14/us-iran-war-why-neither-side-knows-how-to-win": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-14"
+    },
+    "https://www.reuters.com/business/energy/oil-steadies-after-us-threatens-blockade-iran-indefinitely-2026-08-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-13"
     }
   },
   "last_digest_success": true,
@@ -15468,6 +15488,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "China's export of electric trucks across Asia spikes, as Iran war fuels higher oil costs - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWXFXbXJnWURaU0h2WHhkS0QzdlRHNzRZRGs0M0kzYmhKU3RZQjUwTmVuOXFMd21RZGZKVHdMeHA0S0hZRGFUQ0dGel9zdGlOME1MRnhjT3c3VE42bjlCVk1maHllajVyaVE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 14, 2026 · 02:35 BRT",
+          "pub_date": "2026-08-14",
+          "pub_ts": 1786685728,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "A Side Effect of the Iran War: Electric Motorcycles Are Soaring - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWm16LUdHVU5IMjRLM2RaQzItQ0JYVlR3M2Z1eGVjeml3SUdhbm9lUjFVWEhmNWE2SDRhMGsyRktQQzdweG43cHhqbmwxN0R3enpJUkw2cF8tMkNlWGF4Q1IyLUYyMjg5aW13SHU3Znp3SFpGQ0hoMFU1UXl5REtaNDZWMA?oc=5",

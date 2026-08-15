@@ -11579,6 +11579,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-15"
+    },
+    "https://www.ft.com/content/4bd6537f-db17-4013-be3f-c70a1299183c?syn-25a6b1a6=1": {
+      "summary": "Reports of poor conditions aboard the USS Abraham Lincoln coincide with depleting stocks of both weapons and voter support",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-15"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-905579": {
+      "summary": "Iran's Mohammad Bagherzadeh noted that the pilots have not been permitted to speak to their families or Iranian officials while in Qatari captivity, according to Iran International.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "Qatar",
+        "Red Cross",
+        "fighter jets"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-15"
     }
   },
   "last_digest_success": true,
@@ -11734,7 +11757,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-15T11:10:30.663135+00:00",
   "last_generated_date": "2026-08-15",
-  "last_generated_time": "2026-08-15T09:01:40.735856+00:00",
+  "last_generated_time": "2026-08-15T10:01:44.315644+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

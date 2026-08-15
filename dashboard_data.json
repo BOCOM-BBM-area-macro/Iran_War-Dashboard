@@ -11559,75 +11559,72 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-15"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-08-14T11:08:28.081320+00:00",
-  "digest": {
-    "digest": "The United States is experiencing significant depletion of its Reaper drone arsenal, with reports indicating approximately 25% to 45 drones lost during the Iran war, raising concerns about future hostilities. In response to ongoing conflict, the U.S. is deploying an additional aircraft carrier to the Middle East and vowing to maintain naval blockades indefinitely, alongside escalating economic pressure through measures described as unprecedented. Two more ships were attacked in the Strait of Hormuz, where both Iran and the U.S. are making competing claims over control. Iran is reportedly rapidly rebuilding its ballistic missile arsenal, surprising Israeli defense officials. The U.S. is also planning to roll out an 'economic isolation' plan for Iran next week. Despite these actions, analysis suggests both the U.S. and Iran are in a protracted conflict with no clear resolution in sight, and concerns have been raised regarding conditions on Navy carriers operating in the region. Meanwhile, the Iran war is creating export opportunities for Chinese e-trucks, indicating a broader economic impact.",
-    "top_themes": [
-      "US Military Arsenal Depletion",
-      "Economic Pressure on Iran",
-      "Geopolitical Strait of Hormuz Control"
-    ],
-    "next_events": [
-      {
-        "title": "US Drone Replenishment and Military Readiness",
-        "description": "The significant loss of Reaper drones (estimated 25-45%) raises concerns about the U.S. military's operational capacity and supply chain for future conflicts. Analysts should monitor procurement efforts, production rates, and the deployment of alternative surveillance or strike assets to assess the impact on U.S. force projection in the region."
-      },
-      {
-        "title": "Implementation of New US Economic Pressure and 'Isolation' Plan",
-        "description": "The U.S. has vowed to apply 'measures never seen' and roll out an 'economic isolation' plan, alongside an indefinite naval blockade on Iran. Analysts should closely watch the specifics of these new sanctions, their enforcement mechanisms, and Iran's economic response to gauge the potential for further escalation or internal instability."
-      },
-      {
-        "title": "Stability and Control of the Strait of Hormuz",
-        "description": "With competing claims over the Strait of Hormuz and recent attacks on ships, this critical waterway remains a major flashpoint. Analysts must monitor naval deployments, any further incidents, and the effectiveness of the U.S. naval blockade to assess the risk of disruption to global oil supplies and potential military confrontation."
-      },
-      {
-        "title": "Iran's Ballistic Missile Program Resurgence",
-        "description": "Iran is reportedly rapidly rebuilding its ballistic missile arsenal, a development that has stunned Israeli intelligence. This significantly alters the regional power balance and poses an increased threat to U.S. allies; analysts should track intelligence reports on the scale and sophistication of this rebuilding effort."
-      },
-      {
-        "title": "Global Oil Market Resilience Amid Prolonged Conflict",
-        "description": "The ongoing conflict raises critical questions about the resilience of global oil stocks to withstand a prolonged U.S.-Iran war. Analysts should monitor oil prices, strategic reserves, and production capacities of other major oil producers to assess potential supply shocks and their broader economic implications."
-      },
-      {
-        "title": "Prospects for De-escalation and Diplomatic Breakthroughs",
-        "description": "With both sides seemingly trapped in a conflict neither knows how to win and skepticism about viable deals, the diplomatic landscape remains challenging. Analysts should watch for any subtle shifts in rhetoric, back-channel communications, or changes in core assumptions that could signal a potential path towards de-escalation or future negotiations."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-08-14T11:08:38.207670+00:00",
-  "relevant_news": [
-    {
-      "title": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal - washingtonpost.com",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/",
-      "source": "washingtonpost.com",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 13, 2026 · 19:39 BRT",
-      "pub_date": "2026-08-13",
-      "pub_ts": 1786660783,
+    },
+    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-15"
+    },
+    "https://www.washingtonpost.com/world/2026/08/15/frustration-with-trump-grows-among-us-persian-gulf-allies-officials-say/": {
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
+      "sentiment_success": false,
+      "pub_date": "2026-08-15"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-08-15T11:10:22.053815+00:00",
+  "digest": {
+    "digest": "Recent developments indicate a significant escalation in economic pressure tactics against Iran, with the US threatening further measures and Iran remaining defiant, particularly concerning traffic in the Strait of Hormuz. This strategic waterway is experiencing reduced traffic as a direct consequence of these tensions. Diplomatic efforts to resolve the conflict are reportedly stalled, prompting the expansion of talks to include European players, though Iranian demands are seen as a significant obstacle to current US plans. The US administration is advising Americans to anticipate higher gasoline prices due to the ongoing situation. Concerns have been raised regarding the conditions on a Navy carrier, linked to earlier attacks on a US base early in the war. The US is also considering declaring the Strait of Hormuz as US territory. Meanwhile, US allies in the Persian Gulf are reportedly growing frustrated with the current US approach. The conflict's economic impact extends beyond the immediate parties, affecting tourism in regions like Turkey and Cyprus, which are experiencing price slashes due to reduced bookings. The broader strategic landscape sees the US focus on Iran while China expands its influence in Asia. The narrative surrounding the conflict suggests a stalemate where the outcome hinges on which party yields first under sustained economic pressure, with some opinions suggesting a fundamental difficulty in reaching a favorable agreement with Iran.",
+    "top_themes": [
+      "Economic Pressure on Iran",
+      "Strait of Hormuz Tensions",
+      "Diplomatic Stalemate"
+    ],
+    "next_events": [
+      {
+        "title": "Escalation of Economic Pressure and Iranian Response",
+        "description": "The US continues to apply 'hard' economic pressure, including potential new declarations regarding the Strait of Hormuz. Analysts should monitor the effectiveness of these sanctions, Iran's retaliatory measures (e.g., in Hormuz), and the global economic impact, particularly on oil prices and shipping."
+      },
+      {
+        "title": "Prospects for Diplomatic Engagement",
+        "description": "With US-Iran talks stalled, attention shifts to European diplomatic efforts and any potential shifts in Iranian demands. Watch for signs of renewed dialogue, the emergence of new mediators, or any conditions that could either facilitate or further hinder a peaceful resolution."
+      },
+      {
+        "title": "Stability of the Strait of Hormuz",
+        "description": "Iranian defiance regarding the Strait of Hormuz and US threats of declaring it 'US territory' create a volatile situation. Analysts should closely watch shipping traffic, any naval incidents, and rhetoric from both sides that could signal an escalation or de-escalation of tensions in this critical waterway."
+      },
+      {
+        "title": "US Military Readiness and Regional Posture",
+        "description": "Concerns over conditions on US Navy carriers and past attacks on US bases highlight potential vulnerabilities and the strain of prolonged deployments. Monitor reports on military asset readiness, troop morale, and any changes in US force posture in the Persian Gulf region, as these could influence strategic decisions."
+      },
+      {
+        "title": "Shifting Regional Alliances and Stability",
+        "description": "Growing frustration among US Persian Gulf allies could impact regional cooperation and the effectiveness of US policy. Analysts should observe how these alliances evolve, the economic fallout in neighboring countries, and any shifts in regional power dynamics that could further destabilize the area."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-08-15T11:10:30.194389+00:00",
+  "relevant_news": [
     {
-      "title": "Exclusive | U.S. Sending Fresh Aircraft Carrier to Middle East Amid Iran War Strain - wsj.com",
-      "url": "https://www.wsj.com/politics/national-security/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-d0d6e98d",
-      "source": "wsj.com",
+      "title": "Iranian Demands Disrupt Trump’s Plan to End the War - WSJ",
+      "url": "https://www.wsj.com/finance/iranian-demands-disrupt-trumps-plan-to-end-the-war-4ca53b85",
+      "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 13, 2026 · 17:01 BRT",
-      "pub_date": "2026-08-13",
-      "pub_ts": 1786651260,
+      "published": "Aug 15, 2026 · 05:36 BRT",
+      "pub_date": "2026-08-15",
+      "pub_ts": 1786782988,
       "summary": "",
       "tags": [
         "extracted",
@@ -11639,75 +11636,94 @@
       "sentiment_success": false
     },
     {
-      "title": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/us-eyes-indefinite-iran-naval-blockade-oil-supply-shortfall-deepens-2026-08-13/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 13, 2026 · 18:53 BRT",
-      "pub_date": "2026-08-13",
-      "pub_ts": 1786657980,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran, US make competing claims over control of Strait of Hormuz - reuters.com",
-      "url": "https://www.reuters.com/world/iran-says-strait-hormuz-is-under-its-control-fars-news-reports-2026-08-13/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 13, 2026 · 14:51 BRT",
-      "pub_date": "2026-08-13",
-      "pub_ts": 1786643492,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Are global oil stocks big enough to weather another six months of US-Iran war? - reuters.com",
-      "url": "https://www.reuters.com/business/energy/are-global-oil-stocks-big-enough-weather-another-six-months-us-iran-war-2026-08-13/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 13, 2026 · 18:21 BRT",
-      "pub_date": "2026-08-13",
-      "pub_ts": 1786656076,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-hormuz-2026-08-14/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 14, 2026 · 07:57 BRT",
+      "title": "The Iran War Is Now About Who Blinks First Under Economic Pressure - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Aug 14, 2026 · 22:00 BRT",
       "pub_date": "2026-08-14",
-      "pub_ts": 1786705043,
+      "pub_ts": 1786755600,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters",
+      "url": "https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 14, 2026 · 17:35 BRT",
+      "pub_date": "2026-08-14",
+      "pub_ts": 1786739700,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump says he’ll hit Iran hard economically, will soon declare Hormuz ‘US territory’ - The Times of Israel",
+      "url": "https://www.timesofisrael.com/trump-says-hell-hit-iran-hard-economically-will-soon-declare-hormuz-us-territory/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Aug 15, 2026 · 02:41 BRT",
+      "pub_date": "2026-08-15",
+      "pub_ts": 1786772469,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 15, 2026 · 06:01 BRT",
+      "pub_date": "2026-08-15",
+      "pub_ts": 1786784460,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Frustration with Trump grows among U.S.’s Persian Gulf allies, officials say - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/frustration-with-trump-grows-among-us-persian-gulf-allies-officials-say/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 15, 2026 · 07:11 BRT",
+      "pub_date": "2026-08-15",
+      "pub_ts": 1786788686,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11716,9 +11732,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-14T11:08:38.584377+00:00",
-  "last_generated_date": "2026-08-14",
-  "last_generated_time": "2026-08-14T23:01:32.927337+00:00",
+  "last_relevant_time": "2026-08-15T11:10:30.663135+00:00",
+  "last_generated_date": "2026-08-15",
+  "last_generated_time": "2026-08-15T08:01:49.127969+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

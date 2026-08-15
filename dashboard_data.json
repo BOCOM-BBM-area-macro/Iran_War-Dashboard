@@ -11499,6 +11499,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-14"
+    },
+    "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-14"
     }
   },
   "last_digest_success": true,
@@ -11658,12 +11668,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-14T11:08:38.584377+00:00",
   "last_generated_date": "2026-08-14",
-  "last_generated_time": "2026-08-14T22:01:32.927543+00:00",
+  "last_generated_time": "2026-08-14T23:01:32.927337+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The Iran War Is Now About Who Blinks First Under Economic Pressure - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwMF9jbDlPSktPRW1TTjhQTHBUR01HQy1abjFjUGtWYzh6emxmaW5WdkQ2VUhTSnFERmJ2UVdwQWJPMGxudloxRzJSd2NwMzEzMlB0Rm5ESms5ZXBRZEkxQTUzZl9lbjBxY1JkbnJTeWpwbDJvZXZwcTJjTWdQQQ?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 14, 2026 · 22:00 BRT",
+          "pub_date": "2026-08-14",
+          "pub_ts": 1786755600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
@@ -15617,6 +15641,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Trump suggests in speech that 'pretty soon I'll be declaring' Hormuz strait a U.S. territory - CBC",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHl1Z2s5T2Ztc3hLY1N5WEpuRHBXUTViUnRiUDdCRUpUbG13NEY1dE1vTlNsMUpXalZYU0lRREkzY0N2dExRUEFDMVd4YXBRR1RkOXhpY2lBWmRwM2hTTUtYVHJ3T20zeWhETFRsbVU5akpRMVNHLUFZTFVWb3FUM2VSTQ?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 14, 2026 · 18:30 BRT",
+          "pub_date": "2026-08-14",
+          "pub_ts": 1786743000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China's export of electric trucks across Asia spikes, as Iran war fuels higher oil costs - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWXFXbXJnWURaU0h2WHhkS0QzdlRHNzRZRGs0M0kzYmhKU3RZQjUwTmVuOXFMd21RZGZKVHdMeHA0S0hZRGFUQ0dGel9zdGlOME1MRnhjT3c3VE42bjlCVk1maHllajVyaVE?oc=5",

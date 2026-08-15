@@ -11632,6 +11632,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-15"
+    },
+    "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-15"
     }
   },
   "last_digest_success": true,
@@ -11787,7 +11797,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-15T11:10:30.663135+00:00",
   "last_generated_date": "2026-08-15",
-  "last_generated_time": "2026-08-15T11:01:45.615069+00:00",
+  "last_generated_time": "2026-08-15T12:01:47.500186+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -11299,7 +11299,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-13"
+      "pub_date": "2026-08-15"
     },
     "https://www.reuters.com/world/middle-east/uae-says-iran-attacked-two-adnoc-vessels-strait-hormuz-no-injuries-2026-08-13/": {
       "summary": "",
@@ -11808,6 +11808,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-16"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-offers-30000-bounty-for-killing-or-capturing-of-us-soldiers/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-16"
     }
   },
   "last_digest_success": true,
@@ -11964,12 +11974,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-16T11:09:51.986237+00:00",
   "last_generated_date": "2026-08-16",
-  "last_generated_time": "2026-08-16T10:01:51.904421+00:00",
+  "last_generated_time": "2026-08-16T11:01:43.744650+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 16, 2026 · 08:34 BRT",
+          "pub_date": "2026-08-16",
+          "pub_ts": 1786880097,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Is Now About Who Blinks First Under Economic Pressure - WSJ",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwMF9jbDlPSktPRW1TTjhQTHBUR01HQy1abjFjUGtWYzh6emxmaW5WdkQ2VUhTSnFERmJ2UVdwQWJPMGxudloxRzJSd2NwMzEzMlB0Rm5ESms5ZXBRZEkxQTUzZl9lbjBxY1JkbnJTeWpwbDJvZXZwcTJjTWdQQQ?oc=5",
@@ -12195,6 +12219,20 @@
           "_rank": 0
         },
         {
+          "title": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 20:17 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786490271,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "New attacks on shipping as Iran war talks hit fresh impasse - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
           "source": "Reuters",
@@ -12245,6 +12283,20 @@
           "published": "Aug 11, 2026 · 08:37 BRT",
           "pub_date": "2026-08-11",
           "pub_ts": 1786448229,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Why Restoring Normal Traffic to the Strait of Hormuz Is Proving So Difficult - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX09IOFNfMHBEYjAtWWdZYVgya3hGQmRnZUliQ0ozSVA5RTVnOVYyeEd6US02SU1JMXBHWUxSUzNuem9NbFBYNzduSk5ETzliSjBLaTR1Snl1QkZmdVdHRG5mRGotNXhPQXVMWDVwSDlZMlBIUm83bWZuWmJlSE1SMEhjb01YMFRLVmNvbDU3WFR5ejE1b2pZMHpnU1NEUG13Y3dUTktTc0ZTNjRsVWJ1REl2NGhlWURuNEd4WDJVemhRdU9N?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 11, 2026 · 08:09 BRT",
+          "pub_date": "2026-08-11",
+          "pub_ts": 1786446553,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

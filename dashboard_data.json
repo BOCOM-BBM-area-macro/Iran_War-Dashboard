@@ -11871,6 +11871,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-16"
+    },
+    "https://www.reuters.com/business/media-telecom/iranian-parliament-votes-further-criminalise-interviews-with-hostile-media-2026-08-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-16"
     }
   },
   "last_digest_success": true,
@@ -12027,12 +12037,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-16T11:09:51.986237+00:00",
   "last_generated_date": "2026-08-16",
-  "last_generated_time": "2026-08-16T14:01:44.715320+00:00",
+  "last_generated_time": "2026-08-16T15:01:48.369209+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Covert Mideast Oil Flows Are Keeping Global Prices in Check - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNei0tNHpURXVhbzZOY05jX3VabGZPR1o1d0NnMEo3bW9mOFNxWF96VFZhWmVDU3ZnTjFYY3RrSkVWU2F4ZURKZ01fdEtMQlZ6QjVTYk43Qzh6d0EtX3N6cXhzNkJTZ29VcWpsMVB6NTdFNlR3MzJVS3p2bVYwLU9pcUtjOFBvWGhoQmF0djAxWHBtYTZ3NW9PM0E5dFpsRE1SeGJ2cE5jSlBta3JVQ2JB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 16, 2026 · 11:04 BRT",
+          "pub_date": "2026-08-16",
+          "pub_ts": 1786889097,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",

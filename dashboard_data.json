@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-17"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -121,7 +121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-17"
+      "pub_date": "2026-08-16"
     },
     "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html": {
       "summary": "",
@@ -422,6 +422,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-17"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-says-he-s-in-no-hurry-to-end-war-with-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/17/michael-ramirez-cartoon-iran-war-nuclear-weapons/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier-gap": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-15"
     }
   },
   "last_digest_success": true,
@@ -578,7 +618,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-17T16:10:15.427307+00:00",
   "last_generated_date": "2026-08-17",
-  "last_generated_time": "2026-08-17T18:01:45.855802+00:00",
+  "last_generated_time": "2026-08-17T19:02:12.776464+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -817,6 +857,20 @@
           "published": "Aug 13, 2026 · 18:19 BRT",
           "pub_date": "2026-08-13",
           "pub_ts": 1786655959,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How far can global oil supplies stretch if the Iran war won't end? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZQnZqZGNQUXRxVkNpWEEtR0V4Nm1ObEE4ZkxYb1NwcTJBWFJZaFdjSVZncXYxQm5wT0ZabTl3bDdSM1AxeHJTUzJZQ1VIcG9PUWVxa1huWUliWkRnblVIbWtHQUpnLWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 13, 2026 · 14:14 BRT",
+          "pub_date": "2026-08-13",
+          "pub_ts": 1786641265,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

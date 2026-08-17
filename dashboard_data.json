@@ -11641,7 +11641,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-15"
+      "pub_date": "2026-08-16"
     },
     "https://www.timesofisrael.com/us-pulls-last-aircraft-carrier-in-pacific-as-trump-focuses-on-iran-western-hemisphere/": {
       "summary": "",
@@ -11891,6 +11891,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-16"
+    },
+    "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-16"
+    },
+    "https://www.reuters.com/world/middle-east/shipping-via-hormuz-strait-slows-after-tanker-attacks-data-shows-2026-08-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-16"
+    },
+    "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-16"
+    },
+    "https://www.cbc.ca/news/world/trump-joint-military-exercises-south-korea-9.7309317": {
+      "summary": "U.S. President Donald Trump ordered the Pentagon on Sunday to scale back planned joint military exercises with South Korea, saying it declined to help denuclearize Iran and citing his good relationship with North Korea's Kim Jong-un.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-16"
     }
   },
   "last_digest_success": true,
@@ -12053,6 +12093,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Asian shares mark time as Gulf war keeps oil prices up - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 16, 2026 · 22:17 BRT",
+          "pub_date": "2026-08-16",
+          "pub_ts": 1786929420,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Covert Mideast Oil Flows Are Keeping Global Prices in Check - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNei0tNHpURXVhbzZOY05jX3VabGZPR1o1d0NnMEo3bW9mOFNxWF96VFZhWmVDU3ZnTjFYY3RrSkVWU2F4ZURKZ01fdEtMQlZ6QjVTYk43Qzh6d0EtX3N6cXhzNkJTZ29VcWpsMVB6NTdFNlR3MzJVS3p2bVYwLU9pcUtjOFBvWGhoQmF0djAxWHBtYTZ3NW9PM0E5dFpsRE1SeGJ2cE5jSlBta3JVQ2JB?oc=5",

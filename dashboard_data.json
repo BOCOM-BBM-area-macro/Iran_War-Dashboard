@@ -12092,6 +12092,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-17"
+    },
+    "https://www.wsj.com/politics/pentagon-rotates-aircraft-carriers-showing-toll-of-the-iran-war-4fe8a57e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.reuters.com/business/energy/chinas-july-oil-throughput-posts-first-month-on-month-rise-since-iran-war-2026-08-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-17/lebanon-flare-up-and-gaza-strikes-dent-mideast-peace-prospects": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
@@ -12247,12 +12277,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-17T11:08:38.075185+00:00",
   "last_generated_date": "2026-08-17",
-  "last_generated_time": "2026-08-17T08:01:40.509035+00:00",
+  "last_generated_time": "2026-08-17T09:01:47.403234+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "China's July oil throughput posts first month-on-month rise since Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEF0djNfWVZQOXRXeThtZWlIcDRkQWpJWTNQWUs1dXQ2OWN0UUZURENHVG5iYXlCMWZFem9aVzQ4TVdab2JzaHVSN2E3aW83OXdEVTlyVnRWYjFCdnNHMXZScGFZUlU1MnZqYjBwVnRucUVhV1lEVTVLMjlGdzdNUmZTMnBiNmlnZzN1Z0xoRXFfUC1SWW5qb2l5Um9iVVdjTkdJTmVmeGF5WFNaRk8wTzlvWnMwcWlxZnlqZWg2cXJZcXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 17, 2026 · 08:54 BRT",
+          "pub_date": "2026-08-17",
+          "pub_ts": 1786967675,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Asian shares mark time as Gulf war keeps oil prices up - Reuters",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",

@@ -12082,52 +12082,81 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-17"
+    },
+    "https://www.reuters.com/business/energy/us-railroad-union-pacific-turned-charges-meant-cover-fuel-cost-spike-iran-war-2026-08-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-16T11:09:44.377695+00:00",
+  "last_digest_time": "2026-08-17T11:08:27.212972+00:00",
   "digest": {
-    "digest": "Recent reports indicate a shift in U.S. strategy for the Iran conflict, focusing on economic measures and recalling past approaches. The U.S. aircraft carrier USS Abraham Lincoln's deployment is highlighted as operationally intense and consequential, though reports of poor living conditions and depleting weapon stocks aboard the vessel coincide with growing disquiet and declining voter support. Tensions persist regarding Iranian military personnel, with Iran claiming Qatar captured three pilots, a claim Qatar disputes, stating search teams found remains of one pilot. Qatar denies holding Iranian military pilots captive. Diplomatic friction is evident as U.S. Persian Gulf allies express frustration with the Trump administration. The potential for repeated cycles of fighting between the U.S. and Iran remains a concern, underscoring the volatile nature of the conflict. The Israeli economy has shown signs of recovery following a contraction attributed to the Iran war.",
+    "digest": "Recent reports indicate Iran is preparing for a prolonged and potentially wider conflict, with plans to escalate the war and a strategy that may involve adopting tactics similar to China's energy playbook. This suggests a shift towards a more costly engagement for the United States. Concurrently, the U.S. appears to be employing economic strategies reminiscent of past approaches, as the war increasingly becomes an economic battle. Diplomatic efforts to end the conflict have stalled, with deadlines missed for a broad agreement. In a significant diplomatic shift, President Trump has instructed the Pentagon to substantially reduce joint military exercises with South Korea, citing a lack of support from the ally regarding the Iran war. This decision has led to speculation among Asian allies about the U.S.'s commitment to their defense. Reports also suggest a secret backchannel existed between Trump and Iran's Revolutionary Guard. Meanwhile, oil prices remain mixed, with limited potential for near-term gains, although some analyses suggest potential for price increases. The war's economic impact is also evident in corporate actions, with one U.S. railroad company reportedly turning fuel cost spikes into profit. The conflict is also forcing difficult choices for families in regions like Cambodia, impacting their ability to afford basic necessities like education.",
     "top_themes": [
-      "Iran-US Relations",
-      "Regional Diplomacy",
-      "Military Deployments"
+      "Iran's Escalation Strategy",
+      "US Diplomatic Maneuvers",
+      "Economic Ramifications of the War"
     ],
     "next_events": [
       {
-        "title": "Resolution of Iranian Pilot Captivity Claims",
-        "description": "Multiple reports conflict on whether Qatar is holding Iranian pilots, with Iran claiming captivity and Qatar denying it, then stating remains of one were found. Analysts should monitor for further statements from Iran, Qatar, or Kuwait, and any evidence supporting either claim, as this could escalate diplomatic tensions or reveal new details about regional involvement in the conflict."
+        "title": "Iran's Escalation Strategy and Hard-liner Preparedness",
+        "description": "Reports indicate Iran's hard-liners are preparing for a longer, costlier war and have a 'secret plan to escalate,' potentially widening the conflict. Analysts should closely monitor any overt or covert actions by Iran, its proxies, or the Revolutionary Guard that suggest an expansion of hostilities, especially given the recent failure of broad peace talks."
       },
       {
-        "title": "U.S. Military Morale and Operational Sustainability",
-        "description": "Reports of poor living conditions on the USS Abraham Lincoln and depleting stocks raise concerns about the long-term sustainability of U.S. military deployments in the region. Watch for official responses to these reports, changes in deployment strategies, and shifts in public or voter support for the ongoing military presence."
+        "title": "Effectiveness of US Economic Warfare and Global Repercussions",
+        "description": "With the failure to reach a broad deal, the US is intensifying its economic battle against Iran with a new strategy. Watch for the tangible impact of these sanctions on Iran's economy, its ability to fund military operations, and how global energy markets and other nations (like China) adapt their strategies in response to the prolonged economic pressure."
       },
       {
-        "title": "Impact and Evolution of U.S. Economic Warfare",
-        "description": "The conflict is increasingly framed as an 'economic battle' by the U.S. Analysts should observe the effectiveness of U.S. sanctions and economic strategies on Iran's economy and its ability to fund military operations, as well as any potential counter-measures or shifts in Iran's economic resilience."
+        "title": "Strain on US Alliances and Regional Military Readiness",
+        "description": "President Trump's decision to reduce joint military exercises with South Korea, citing frustration over lack of support on the Iran war, signals potential strain on US alliances. Analysts should observe how this impacts US military readiness in the Indo-Pacific, the perceptions of key Asian allies, and any broader implications for US foreign policy priorities."
       },
       {
-        "title": "Shifting U.S. Alliances in the Persian Gulf",
-        "description": "Growing frustration among U.S. Persian Gulf allies with the Trump administration could lead to significant shifts in regional dynamics. Monitor for any public statements, policy changes, or reduced cooperation from these allies, which could impact the U.S.'s strategic position and influence in the region."
+        "title": "Iran's Internal Stability Amidst External Pressure",
+        "description": "Iran is reportedly bracing for conflict both internationally and domestically, suggesting potential internal vulnerabilities. It is crucial to monitor any signs of increased internal dissent, economic hardship leading to unrest, or shifts in political power dynamics within Iran that could either strengthen hard-liners or create opportunities for internal challenges to the regime."
       },
       {
-        "title": "Revelations from Secret U.S.-Iran Backchannels",
-        "description": "The existence of a secret backchannel between the Trump administration and Iran's Revolutionary Guard suggests potential for covert negotiations or intelligence exchanges. Watch for any leaks, official confirmations, or policy shifts that might emerge from these communications, which could significantly alter the conflict's trajectory."
+        "title": "Prospects for US-Iran Diplomacy and Covert Engagements",
+        "description": "Despite the US and Iran blowing through a deadline for a broad deal, reports of a secret backchannel between Trump and Iran's Revolutionary Guard suggest ongoing, albeit clandestine, communication. Analysts should watch for any indications of renewed diplomatic efforts, either overt or covert, and whether these channels could lead to de-escalation or a new framework for negotiations."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-16T11:09:51.496602+00:00",
+  "last_watch_time": "2026-08-17T11:08:37.696907+00:00",
   "relevant_news": [
     {
-      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "title": "Iran’s Secret Plan to Escalate the War - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Aug 16, 2026 · 22:44 BRT",
+      "pub_date": "2026-08-16",
+      "pub_ts": 1786931060,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Is Bracing for Conflict Abroad and at Home - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 16, 2026 · 06:31 BRT",
-      "pub_date": "2026-08-16",
-      "pub_ts": 1786872670,
+      "published": "Aug 17, 2026 · 05:29 BRT",
+      "pub_date": "2026-08-17",
+      "pub_ts": 1786955394,
       "summary": "",
       "tags": [
         "extracted",
@@ -12139,18 +12168,56 @@
       "sentiment_success": false
     },
     {
-      "title": "Israel Economy Rebounds After Contraction Sparked By Iran War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/israel-economy-rebounds-after-contraction-sparked-by-iran-war",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 16, 2026 · 07:08 BRT",
+      "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 17, 2026 · 01:01 BRT",
+      "pub_date": "2026-08-17",
+      "pub_ts": 1786939279,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War - WSJ",
+      "url": "https://www.wsj.com/business/hospitality/behind-peace-talks-iran-hard-liners-prepare-for-a-longer-costlier-u-s-war-a42357cb",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Aug 17, 2026 · 06:52 BRT",
+      "pub_date": "2026-08-17",
+      "pub_ts": 1786960320,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 16, 2026 · 14:39 BRT",
       "pub_date": "2026-08-16",
-      "pub_ts": 1786874930,
+      "pub_ts": 1786901979,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -12158,87 +12225,29 @@
       "sentiment_success": false
     },
     {
-      "title": "US aircraft carrier furore is emblem of growing disquiet over Iran war - Financial Times",
-      "url": "https://www.ft.com/content/4bd6537f-db17-4013-be3f-c70a1299183c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Aug 15, 2026 · 09:00 BRT",
-      "pub_date": "2026-08-15",
-      "pub_ts": 1786795205,
-      "summary": "Reports of poor conditions aboard the USS Abraham Lincoln coincide with depleting stocks of both weapons and voter support",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Watch US-Iran War Risks Repeated Cycles of Fighting - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-15/us-iran-war-risks-repeated-cycles-of-fighting-video",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 15, 2026 · 10:41 BRT",
-      "pub_date": "2026-08-15",
-      "pub_ts": 1786801303,
+      "title": "Report: Iran has spent 60-day MOU window getting ready to ‘widen the war’ - The Times of Israel",
+      "url": "https://www.timesofisrael.com/report-iran-has-spent-60-day-mou-window-getting-ready-to-widen-the-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Aug 17, 2026 · 04:35 BRT",
+      "pub_date": "2026-08-17",
+      "pub_ts": 1786952147,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Frustration with Trump grows among U.S.’s Persian Gulf allies, officials say - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/frustration-with-trump-grows-among-us-persian-gulf-allies-officials-say/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 15, 2026 · 14:00 BRT",
-      "pub_date": "2026-08-15",
-      "pub_ts": 1786813201,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Qatar denies holding Iranian military pilots captive, says search teams found remains of one - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-905579",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 16, 2026 · 01:13 BRT",
-      "pub_date": "2026-08-16",
-      "pub_ts": 1786853590,
-      "summary": "Iran's Mohammad Bagherzadeh noted that the pilots have not been permitted to speak to their families or Iranian officials while in Qatari captivity, according to Iran International.",
-      "tags": [
-        "Iran",
-        "Tehran",
-        "Qatar",
-        "Red Cross",
-        "fighter jets"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-16T11:09:51.986237+00:00",
-  "last_generated_date": "2026-08-16",
-  "last_generated_time": "2026-08-16T22:01:43.949512+00:00",
+  "last_relevant_time": "2026-08-17T11:08:38.075185+00:00",
+  "last_generated_date": "2026-08-17",
+  "last_generated_time": "2026-08-17T08:01:40.509035+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12267,6 +12276,20 @@
           "published": "Aug 16, 2026 · 21:31 BRT",
           "pub_date": "2026-08-16",
           "pub_ts": 1786926660,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 16, 2026 · 20:54 BRT",
+          "pub_date": "2026-08-16",
+          "pub_ts": 1786924491,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

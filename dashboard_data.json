@@ -10798,10 +10798,13 @@
       "pub_date": "2026-08-11"
     },
     "https://www.bloomberg.com/news/articles/2026-08-11/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027": {
-      "summary": "",
+      "summary": "The US now expects oil supply disruptions stemming from the US-Iran war to reach about 600,000 barrels per day through the end of next year as the conflict continues to crimp shipments via the critical Strait of Hormuz.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Generic 1st 'CL' Future",
+        "War",
+        "Iran",
+        "Generic 1st 'XB' Future",
+        "Israel"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11385,10 +11388,13 @@
       "pub_date": "2026-08-14"
     },
     "https://www.bloomberg.com/news/articles/2026-08-14/us-iran-war-why-neither-side-knows-how-to-win": {
-      "summary": "",
+      "summary": "A bitter rivalry lasting almost five decades has locked the two opponents into a protracted war. History tells us this doesn’t end well.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Military",
+        "Tehran",
+        "Iraq",
+        "Donald John Trump"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11745,10 +11751,13 @@
       "pub_date": "2026-08-16"
     },
     "https://www.bloomberg.com/news/articles/2026-08-16/israel-economy-rebounds-after-contraction-sparked-by-iran-war": {
-      "summary": "",
+      "summary": "Israel’s economy rebounded in the second quarter, recovering from a contraction sparked by the military campaign against Iran.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Israel",
+        "Iran",
+        "War",
+        "GDP",
+        "Military"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11943,14 +11952,17 @@
       "pub_date": "2026-08-16"
     },
     "https://www.bloomberg.com/news/articles/2026-08-16/trump-says-he-s-curtailing-military-drills-with-south-korea": {
-      "summary": "",
+      "summary": "President Donald Trump told the Pentagon to “substantially reduce” joint military exercises with South Korea and indicated his decision to do so was driven by frustration the longtime US ally hadn’t provided more support for his war with Iran.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Donald John Trump",
+        "South Korea",
+        "Military",
+        "Iran",
+        "North Korea"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-17"
     },
     "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html": {
       "summary": "",
@@ -11993,6 +12005,39 @@
         "Hezbollah",
         "iran israel war",
         "Gaza Strip"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-16"
+    },
+    "https://www.timesofisrael.com/report-iran-has-spent-60-day-mou-window-getting-ready-to-widen-the-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.jpost.com/middle-east/article-905732": {
+      "summary": "Criticizing Hegseth and US President Donald Trump for dismissing the reports, the senators argued that the situation on Lincoln was \"preventable\" and similar to issues USS Gerald R. Ford faced.",
+      "tags": [
+        "Iran US Conflict",
+        "Middle East",
+        "Donald Trump",
+        "US Senate",
+        "Pete Hegseth"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-tells-pentagon-to-scale-back-joint-exercises-with-south-korea-citing-anger-over-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -18624,6 +18669,20 @@
           "published": "Aug 14, 2026 · 07:45 BRT",
           "pub_date": "2026-08-14",
           "pub_ts": 1786704308,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US lost 45 Reaper drones during Iran war, equaling 25% of stockpile - jpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hTHRFMWlmNndXR0F2Nm13V2NnNnNjcW9WOXQtbG5ob1RYUWRnbkh0YmZJYkhiU05sNFRqMm9uM3lPYmRWc2NIejJLTVhDS2E2Y3ZaTWFsUFNreGg5OEdF?oc=5",
+          "source": "jpost.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 14, 2026 · 00:55 BRT",
+          "pub_date": "2026-08-14",
+          "pub_ts": 1786679752,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

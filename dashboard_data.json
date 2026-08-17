@@ -121,7 +121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-17"
     },
     "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html": {
       "summary": "",
@@ -402,6 +402,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-17"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-17/iran-feels-it-has-new-leverage-in-mideast-amid-war-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
@@ -558,7 +578,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-17T16:10:15.427307+00:00",
   "last_generated_date": "2026-08-17",
-  "last_generated_time": "2026-08-17T15:01:56.888467+00:00",
+  "last_generated_time": "2026-08-17T16:01:53.688381+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -392,6 +392,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-12"
+    },
+    "https://www.wsj.com/world/middle-east/trump-oman-bomb-threats-hormuz-0941134f": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
@@ -548,7 +558,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-17T16:10:15.427307+00:00",
   "last_generated_date": "2026-08-17",
-  "last_generated_time": "2026-08-17T14:01:59.714771+00:00",
+  "last_generated_time": "2026-08-17T15:01:56.888467+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

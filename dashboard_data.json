@@ -11641,7 +11641,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-15"
     },
     "https://www.timesofisrael.com/us-pulls-last-aircraft-carrier-in-pacific-as-trump-focuses-on-iran-western-hemisphere/": {
       "summary": "",
@@ -11967,6 +11967,19 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-905734": {
+      "summary": "According to the WSJ, Arab intelligence officials picked up evidence of Iranian leaders planning potential attacks on enemy territory, broadening the scope of the war and raising the cost for the US.",
+      "tags": [
+        "Iran",
+        "Iraq",
+        "Lebanon",
+        "United States",
+        "Yemen"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

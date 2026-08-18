@@ -121,7 +121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-17"
     },
     "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html": {
       "summary": "",
@@ -462,6 +462,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-15"
+    },
+    "https://www.jpost.com/american-politics/article-905825": {
+      "summary": "After returning to the White House last year with just under half the country approving of his presidency, Trump's popularity this year took a hit after he ordered strikes on Iran.",
+      "tags": [
+        "White House",
+        "iran and us",
+        "Donald Trump",
+        "strait of hormuz",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
@@ -618,7 +641,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-17T16:10:15.427307+00:00",
   "last_generated_date": "2026-08-17",
-  "last_generated_time": "2026-08-17T20:02:01.359951+00:00",
+  "last_generated_time": "2026-08-17T21:02:07.655215+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -661,6 +684,20 @@
           "published": "Aug 17, 2026 · 08:54 BRT",
           "pub_date": "2026-08-17",
           "pub_ts": 1786967675,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Breakingviews - Oil shock’s bigger problem is at the refinery - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalNoWGYyMFp3SUxCOWk4S1hxalFDd25kMEVUQjJvWC1IaDNDbF9NMnZDTzRSTEpRRmJiTW4xV1ozRTBBTGZJZ21JbFVIQTR6bVpQTDdOaTlSVXZZWnZmVzA1SG9BcnhDTXpKMUQtTy02aHFDaDF1ajZBdWJUd1ZDbU01SEd6VGZQbTJhbjduLThJZ0lobWRMV0VPQm9OSWM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 17, 2026 · 07:48 BRT",
+          "pub_date": "2026-08-17",
+          "pub_ts": 1786963724,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

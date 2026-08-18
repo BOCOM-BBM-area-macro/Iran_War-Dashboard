@@ -517,6 +517,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-17"
+    },
+    "https://www.nytimes.com/2026/08/17/us/politics/us-airman-trump-impeach-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.reuters.com/world/africa/dollar-feeble-rate-hike-bets-dwindle-iran-war-worries-grow-2026-08-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.reuters.com/world/asia-pacific/erdogan-urges-trump-pursue-talks-with-iran-offers-support-2026-08-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
@@ -679,6 +709,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 17, 2026 · 22:13 BRT",
+          "pub_date": "2026-08-17",
+          "pub_ts": 1787015580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran threatens new offensive while US rules out extending ceasefire deal - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",

@@ -703,6 +703,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-18"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/the-pulse-8-18-2026-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-905892": {
+      "summary": "A senior Iranian official told Reuters on Monday that Iran would shift to a “fully offensive” posture after Washington ruled out extending a temporary ceasefire agreement.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "iran protests",
+        "strait of hormuz",
+        "Iranian protests"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
     }
   },
   "last_digest_success": true,
@@ -862,7 +885,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-18T11:11:26.400233+00:00",
   "last_generated_date": "2026-08-18",
-  "last_generated_time": "2026-08-18T09:02:11.795484+00:00",
+  "last_generated_time": "2026-08-18T10:01:52.648931+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

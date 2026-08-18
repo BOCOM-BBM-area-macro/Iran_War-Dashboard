@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-17"
+      "pub_date": "2026-08-18"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -516,7 +516,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-17"
+      "pub_date": "2026-08-18"
     },
     "https://www.nytimes.com/2026/08/17/us/politics/us-airman-trump-impeach-iran.html": {
       "summary": "",
@@ -632,7 +632,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-17"
+      "pub_date": "2026-08-18"
     },
     "https://www.reuters.com/world/middle-east/most-gulf-markets-muted-iran-tensions-keep-investors-wary-2026-08-18/": {
       "summary": "",
@@ -736,6 +736,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-18"
+    },
+    "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
+    },
+    "https://www.reuters.com/world/us/trump-approval-falls-33-lowest-his-presidency-reutersipsos-poll-finds-2026-08-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
@@ -895,12 +915,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-18T11:11:26.400233+00:00",
   "last_generated_date": "2026-08-18",
-  "last_generated_time": "2026-08-18T11:02:08.931226+00:00",
+  "last_generated_time": "2026-08-18T12:02:10.285891+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFVQVVF0Tmk0UFNhel9LcUtRQ0txMnJtUDF6UXlmWmhTbno5VzdUd0xrVkNCVVJ5a2xDSWhZTVVnNThxZ3BLZHhfMnQyWXM3bHNOWWozNEJULWFMMERhMk9FWmt4Z0oySTB2MzZSVWZ3TURBLUtyeXFlbzQxSDlkNzRB?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 18, 2026 · 11:03 BRT",
+          "pub_date": "2026-08-18",
+          "pub_ts": 1787061813,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - reuters.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
@@ -938,6 +972,20 @@
           "published": "Aug 18, 2026 · 01:31 BRT",
           "pub_date": "2026-08-18",
           "pub_ts": 1787027460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 17, 2026 · 22:51 BRT",
+          "pub_date": "2026-08-17",
+          "pub_ts": 1787017860,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

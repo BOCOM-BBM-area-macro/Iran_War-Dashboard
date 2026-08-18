@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-17"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -547,6 +547,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-17"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-08-18/why-iran-s-new-leaders-need-to-continue-the-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
+    },
+    "https://www.reuters.com/business/energy/chinas-fuel-exports-edge-back-towards-levels-before-iran-war-beijing-eases-curbs-2026-08-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
+    },
+    "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
     }
   },
   "last_digest_success": true,
@@ -709,6 +739,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "China's fuel exports edge back towards levels before Iran war as Beijing eases curbs - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb0FpZnZidUhVbFFYOXB1VkhzYWY5aU1kWE1IXzBfd0FtcEkzTUg2Zm1Xc3FLMUFWc2htT1RPa3RaN3VoWmxMYW9YdEVBUFRZalBwcGxRVVFQVDZKbk5pbTl5OVA0SXJGVnlUeFU4T05IWWNTTWVQeXlmeVNULTgzSEVEUzd0eFJPYzJ6R1JrTUhkWlNVVFdSSjFTWFdGWFItUFJVU0c5Tmc4ZXAzcENrcHBFaC1Wb0Nsc21QdXFvb2ZNbktSOUFFaTYxUDM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 18, 2026 · 01:31 BRT",
+          "pub_date": "2026-08-18",
+          "pub_ts": 1787027460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Bond yields jump, oil extends gains as US-Iran ceasefire expires - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 17, 2026 · 22:16 BRT",
+          "pub_date": "2026-08-17",
+          "pub_ts": 1787015760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",

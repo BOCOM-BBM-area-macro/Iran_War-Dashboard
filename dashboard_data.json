@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-17"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -121,7 +121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-17"
+      "pub_date": "2026-08-16"
     },
     "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html": {
       "summary": "",
@@ -274,10 +274,13 @@
       "pub_date": "2026-08-15"
     },
     "https://www.bloomberg.com/news/articles/2026-08-11/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027": {
-      "summary": "",
+      "summary": "The US now expects oil supply disruptions stemming from the US-Iran war to reach about 600,000 barrels per day through the end of next year as the conflict continues to crimp shipments via the critical Strait of Hormuz.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Generic 1st 'CL' Future",
+        "War",
+        "Iran",
+        "Generic 1st 'XB' Future",
+        "Israel"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -314,10 +317,13 @@
       "pub_date": "2026-08-13"
     },
     "https://www.bloomberg.com/news/articles/2026-08-14/us-iran-war-why-neither-side-knows-how-to-win": {
-      "summary": "",
+      "summary": "A bitter rivalry lasting almost five decades has locked the two opponents into a protracted war. History tells us this doesn’t end well.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Iran",
+        "Military",
+        "Tehran",
+        "Iraq",
+        "Donald John Trump"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -384,10 +390,13 @@
       "pub_date": "2026-08-17"
     },
     "https://www.bloomberg.com/news/articles/2026-08-12/iran-s-military-pivots-to-offensive-mode-for-next-round-of-war": {
-      "summary": "",
+      "summary": "Iran is reorganizing its military to be more agile and aggressive abroad in light of its war with the US and Israel, a sign that it’s positioning for a protracted confrontation even if the current conflict ends.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Military",
+        "Iran",
+        "War",
+        "Israel",
+        "Politics"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -424,10 +433,13 @@
       "pub_date": "2026-08-17"
     },
     "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-says-he-s-in-no-hurry-to-end-war-with-iran": {
-      "summary": "",
+      "summary": "Get caught up.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Donald John Trump",
+        "War",
+        "Iran",
+        "Artificial Intelligence",
+        "IPOs"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -481,6 +493,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-17"
+    },
+    "https://www.timesofisrael.com/battered-by-war-irans-rulers-wary-of-renewed-unrest-if-us-tightens-pressure/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -641,7 +663,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-17T16:10:15.427307+00:00",
   "last_generated_date": "2026-08-17",
-  "last_generated_time": "2026-08-17T21:02:07.655215+00:00",
+  "last_generated_time": "2026-08-17T22:01:50.905358+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -656,6 +678,20 @@
           "published": "Aug 17, 2026 · 19:43 BRT",
           "pub_date": "2026-08-17",
           "pub_ts": 1787006591,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Gains as the US Signals No Rush to End Conflict With Iran - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnNXUTlFdGp6Z0phbmJiNkRyVXZ2LWJVLW9TWEMzSVozT2RBNFUxVmIzbVpBaGQ4WnRlQkhZTjl6OVQxRE83bXIxYkd6aWh4NE9ZOTN0YmxnZzQ3SXd1Z3l1eWlHbjVJeUI4NXB3U2xIOEhuQUU0QlBxWk1zWEpuYjFzTFBGbktmeDZ2TVN6T1Yxbl9mTmI1STVGN3dtQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 17, 2026 · 19:01 BRT",
+          "pub_date": "2026-08-17",
+          "pub_ts": 1787004091,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

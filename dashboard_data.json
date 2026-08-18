@@ -600,6 +600,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-18"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/china-eases-iran-war-aluminium-shock-cost-2026-08-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
     }
   },
   "last_digest_success": true,
@@ -1440,6 +1450,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "China eases Iran war aluminium shock, but at a cost - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHJibjY1QldaZEVHTDd4ZGFRY2lwbVpVeWg1ak1HaWhjZVc1b2ZGaUU1NElzMXYzbXhrRkZiOTQwV2Y4d1hldC1fMXVtanZqeUotMWRkTV9laXBxNEZKdDVkaXJOTW84a01vQ1pEZjctNGM5QWVrcjZzMDZvRHpYdGdqTU1HX016Q25BaWN1eUxiRWZwVWJEeHl1bG9BMUdDX2F5MEFuWDNDZ3ZzcWVV?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 18, 2026 · 03:00 BRT",
+          "pub_date": "2026-08-18",
+          "pub_ts": 1787032800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Aluminium on thin ice as LME stocks hit 36-year low - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGhKelhTel9FQmgtYno3bkdnX3dQSmFZUlBHVTBveFBQRkNYdWYydXpNcUUyaWZaV0dkTlJ3SWs0c1FGSXlyeVVwYURiS1dRY3luWjlyTnZlLTR3SjlEdEdBa1N3R3BsMlV4ekFseHhwMUFYQU9KUGRCajRJdlBKVmNlcklXUHRMLTlIaE5KSHpOV0VISklCVXdaU1YzZ3hHQmduX0RVU0Y2ZTYwNFRfcko1ZXk?oc=5",

@@ -806,6 +806,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-18"
+    },
+    "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
     }
   },
   "last_digest_success": true,
@@ -965,7 +975,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-18T11:11:26.400233+00:00",
   "last_generated_date": "2026-08-18",
-  "last_generated_time": "2026-08-18T15:02:07.791985+00:00",
+  "last_generated_time": "2026-08-18T16:01:50.786122+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

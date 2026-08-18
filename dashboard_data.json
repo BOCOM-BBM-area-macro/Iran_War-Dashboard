@@ -726,6 +726,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-18"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-no-talks-are-taking-place-with-iran-none-are-scheduled-2026-08-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
     }
   },
   "last_digest_success": true,
@@ -885,12 +895,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-18T11:11:26.400233+00:00",
   "last_generated_date": "2026-08-18",
-  "last_generated_time": "2026-08-18T10:01:52.648931+00:00",
+  "last_generated_time": "2026-08-18T11:02:08.931226+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+          "source": "reuters.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 18, 2026 · 09:51 BRT",
+          "pub_date": "2026-08-18",
+          "pub_ts": 1787057476,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",

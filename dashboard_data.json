@@ -755,7 +755,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-17"
+      "pub_date": "2026-08-18"
     },
     "https://www.washingtonpost.com/national-security/2026/08/18/pentagon-evaluating-smaller-us-military-presence-persian-gulf-after-iran-war/": {
       "summary": "",
@@ -1112,6 +1112,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.axios.com/2026/08/19/hormuz-iran-oil-gulf-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    },
+    "https://www.timesofisrael.com/trump-shifts-approach-to-waiting-iran-out-as-tehran-intensifies-threats-on-gulf-europe/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1269,7 +1289,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T16:02:01.211816+00:00",
+  "last_generated_time": "2026-08-19T17:02:05.543252+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

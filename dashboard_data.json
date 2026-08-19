@@ -989,151 +989,141 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-18"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-08-18T11:10:52.051544+00:00",
-  "digest": {
-    "digest": "The current period is marked by a significant escalation in tensions between the U.S. and Iran, with both sides indicating a refusal to extend the existing ceasefire deal. Iran has threatened a new offensive and stated its intention to keep the Hormuz Strait shut until U.S. interim deal conditions are met, while the U.S. has ruled out an extension. This diplomatic stalemate follows the expiration of a broad deal deadline between the two nations. Reports suggest Iran's rulers are wary of further economic pain and unrest if U.S. pressure intensifies, despite claims from Iranian officials that they pushed the U.S. into negotiations after the war began. Concurrently, China's fuel exports are returning to pre-war levels as curbs ease, though the impact on its aluminum market persists. U.S. political discourse reveals plans for war powers pushes amid threats of bombing, and internal dissent regarding the conflict is evident. Hard-liners in Iran are reportedly preparing for a prolonged and costlier U.S. war, indicating a potential for continued conflict despite ongoing, albeit stalled, peace talks.",
-    "top_themes": [
-      "Escalation and Ceasefire Dynamics",
-      "US-Iran Diplomatic Stalemate",
-      "International Economic Impacts"
-    ],
-    "next_events": [
-      {
-        "title": "Future of Iran-US Deal and Ceasefire Adherence",
-        "description": "The expiration of truces and Iran's threats of escalation if the US does not honor deals within weeks are critical. Analysts should monitor any new negotiation attempts, the conditions set by both sides, and whether existing agreements are upheld or completely abandoned, as this will dictate the immediate future of the conflict."
-      },
-      {
-        "title": "Iran's Potential for Military Escalation",
-        "description": "With reports of Iran's 'secret plan to escalate' and threats of a 'new offensive' if US conditions aren't met, the risk of renewed military action is high. Watch for any troop movements, missile tests, or rhetoric indicating an imminent offensive, particularly if diplomatic efforts fail or existing truces are not extended."
-      },
-      {
-        "title": "Strait of Hormuz Closure and Global Energy Impact",
-        "description": "Iran's declaration that the Hormuz Strait will remain shut until US conditions are met poses a significant threat to global oil supplies and maritime trade. Analysts should closely monitor any naval activity in the region, international reactions, and the potential for military confrontation if Iran attempts to enforce a prolonged closure."
-      },
-      {
-        "title": "US Administration's Stance and Congressional Oversight",
-        "description": "President Trump's continued rejection of truces and threats of bombing, alongside Democratic efforts to push for war powers, indicate a volatile US policy landscape. Watch for any shifts in the administration's rhetoric, potential executive actions, and the outcome of congressional debates regarding military authorization, as these will shape the US's future involvement."
-      },
-      {
-        "title": "Iran's Economic Stability and Domestic Unrest",
-        "description": "The Iranian leadership is reportedly wary of more economic pain and unrest if US pressure tightens. Monitor economic indicators within Iran, public protests, and the government's response to internal dissent, as severe economic hardship could either force concessions or provoke further aggressive actions to divert attention."
-      },
-      {
-        "title": "China and Russia's Continued Support for Iran",
-        "description": "China and Russia are noted for keeping Iran armed and dangerous, with China's fuel and aluminum exports easing the war's impact. Observe any new military aid, economic agreements, or diplomatic backing from these powers, as their support can significantly bolster Iran's resilience against US pressure and prolong the conflict."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-08-18T11:11:25.794570+00:00",
-  "relevant_news": [
-    {
-      "title": "Iran’s Secret Plan to Escalate the War - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 17, 2026 · 22:18 BRT",
-      "pub_date": "2026-08-17",
-      "pub_ts": 1787015938,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     },
-    {
-      "title": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on - washingtonpost.com",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/",
-      "source": "washingtonpost.com",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 18, 2026 · 01:20 BRT",
-      "pub_date": "2026-08-18",
-      "pub_ts": 1787026835,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Opinion | How China and Russia keep Iran armed and dangerous - washingtonpost.com",
-      "url": "https://www.washingtonpost.com/opinions/2026/08/18/china-russia-are-fueling-irans-war-machine/",
-      "source": "washingtonpost.com",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 18, 2026 · 07:05 BRT",
-      "pub_date": "2026-08-18",
-      "pub_ts": 1787047513,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 17, 2026 · 11:04 BRT",
-      "pub_date": "2026-08-17",
-      "pub_ts": 1786975469,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran threatens new offensive while US rules out extending ceasefire deal - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 17, 2026 · 10:45 BRT",
-      "pub_date": "2026-08-17",
-      "pub_ts": 1786974300,
+    "https://www.reuters.com/world/middle-east/uaes-financial-embargo-iran-after-missile-threat-puts-rivalry-back-spotlight-2026-08-19/": {
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
       ],
       "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-08-19T11:11:42.652058+00:00",
+  "digest": {
+    "digest": "Reports indicate Iran is considering military targets in Europe as potential targets for retaliation should the United States escalate the conflict. This consideration arises as some within Tehran perceive renewed conflict as inevitable. Concurrently, the Pentagon is reportedly evaluating a reduced U.S. military presence in the Gulf region post-conflict. The U.S. administration continues to employ economic pressure tactics against Iran, with President Trump stating no talks are currently underway or scheduled. Tensions are further amplified by Iran's increasing attacks on ships in the Strait of Hormuz, challenging U.S. military restraint. Some reports suggest the U.S. is also considering a significant troop withdrawal from the Gulf following damage sustained during the conflict. Diplomatic stances reveal friction, with the U.S. reportedly pressuring allies like South Korea over investment and Iran-related issues, and threatening partners. The conflict's duration, nearing six months, is impacting regional and global markets, with Gulf oil giants seeking to expand overseas stockpiles due to threatened supply routes, while optimism in Europe's markets has returned to pre-conflict levels. The UAE has also imposed a financial embargo on Iran following missile threats, highlighting ongoing regional rivalries.",
+    "top_themes": [
+      "Iran's potential retaliation beyond the Middle East",
+      "US military strategy adjustments in the Gulf",
+      "Economic pressures and diplomatic tensions"
+    ],
+    "next_events": [
+      {
+        "title": "Iran's Potential Expansion of Targets to Europe",
+        "description": "Reports indicate Iran is considering military targets in Europe if the US escalates conflict. Analysts should monitor any rhetoric or intelligence suggesting a shift in Iran's targeting strategy, as this would significantly broaden the conflict's geographical scope and involve new international actors."
+      },
+      {
+        "title": "US Military Posture and Troop Pullback from the Gulf",
+        "description": "The Pentagon is reportedly weighing a smaller US military presence in the Gulf once the Iran conflict ends, or even considering a major troop pullback. Watch for any official announcements or movements of US forces, as this would signal a significant shift in regional power dynamics and potentially alter deterrence."
+      },
+      {
+        "title": "Effectiveness of US Economic Pressure on Iran",
+        "description": "The Trump administration continues to rely on economic pressure against Iran, with no talks currently scheduled. Observe the impact of these sanctions on Iran's economy, its willingness to negotiate, and any potential for further escalation or de-escalation based on the perceived success or failure of this strategy."
+      },
+      {
+        "title": "Security of Shipping in the Strait of Hormuz",
+        "description": "Iran's attacks on ships in the Strait of Hormuz are mounting, testing US military restraint and threatening global oil supply routes. Monitor incidents in the Strait and international responses, as continued disruptions could lead to direct military confrontation and significant economic repercussions."
+      },
+      {
+        "title": "Evolution of US-Ally Relations Regarding Iran",
+        "description": "The US has been pressuring allies like South Korea and European nations regarding Iran, with Trump criticizing their stance. Watch for any shifts in these alliances, new demands from the US, or how allies respond to pressure, as this could impact a unified international front against Iran or lead to further fragmentation."
+      },
+      {
+        "title": "Regional Oil Stockpiling and Supply Chain Resilience",
+        "description": "Gulf oil giants are expanding overseas stockpiles in Japan and South Korea due to the ongoing conflict threatening supply routes. Track the scale of these stockpiling efforts and any related infrastructure developments, as they indicate regional concerns about prolonged conflict and potential disruptions to global energy markets."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-08-19T11:11:50.017930+00:00",
+  "relevant_news": [
+    {
+      "title": "Iran eyes military targets in Europe if Donald Trump escalates war, insiders say - Financial Times",
+      "url": "https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Aug 19, 2026 · 01:00 BRT",
+      "pub_date": "2026-08-19",
+      "pub_ts": 1787112032,
+      "summary": "Proposals to retaliate against US assets beyond the Middle East come as many in Tehran see renewed conflict as inevitable",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran war, said to be over \"very soon,\" nears 6 months - Axios",
+      "url": "https://www.axios.com/2026/08/19/iran-war-trump-oman-aircraft-carriers",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Aug 19, 2026 · 06:31 BRT",
+      "pub_date": "2026-08-19",
+      "pub_ts": 1787131874,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War - WSJ",
-      "url": "https://www.wsj.com/business/hospitality/behind-peace-talks-iran-hard-liners-prepare-for-a-longer-costlier-u-s-war-a42357cb",
+      "title": "Opinion | Two countries are keeping Iran armed and dangerous - The Washington Post",
+      "url": "https://www.washingtonpost.com/opinions/2026/08/18/china-russia-are-fueling-irans-war-machine/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 18, 2026 · 14:00 BRT",
+      "pub_date": "2026-08-18",
+      "pub_ts": 1787072401,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran reportedly threatens to expand retaliatory attacks to Europe if US restarts war - timesofisrael.com",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iran-reportedly-threatens-to-expand-retaliatory-attacks-to-europe-if-us-restarts-war/",
+      "source": "timesofisrael.com",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Aug 19, 2026 · 04:20 BRT",
+      "pub_date": "2026-08-19",
+      "pub_ts": 1787124058,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 17, 2026 · 06:52 BRT",
-      "pub_date": "2026-08-17",
-      "pub_ts": 1786960320,
+      "published": "Aug 18, 2026 · 18:01 BRT",
+      "pub_date": "2026-08-18",
+      "pub_ts": 1787086860,
       "summary": "",
       "tags": [
         "extracted",
@@ -1143,12 +1133,30 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "FirstFT: Iran weighs Europe strikes if US restarts war - Financial Times",
+      "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Aug 18, 2026 · 18:48 BRT",
+      "pub_date": "2026-08-18",
+      "pub_ts": 1787089696,
+      "summary": "Also in this newsletter: Ukraine wartime election and Europeans’ savings buffers",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-18T11:11:26.400233+00:00",
-  "last_generated_date": "2026-08-18",
-  "last_generated_time": "2026-08-18T23:01:47.270080+00:00",
+  "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
+  "last_generated_date": "2026-08-19",
+  "last_generated_time": "2026-08-19T08:02:07.354471+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

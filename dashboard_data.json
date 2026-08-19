@@ -1009,6 +1009,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    },
+    "https://www.jpost.com/international/article-905945": {
+      "summary": "CENTCOM chief Adm. Brad Cooper has been involved in the discussions, one source said, adding that he supports discussing the relocation of Gulf troops westward.",
+      "tags": [
+        "Israel Iran War",
+        "Middle East",
+        "Donald Trump",
+        "US military",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/the-pulse-8-19-2026-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
     }
   },
   "last_digest_success": true,
@@ -1166,7 +1199,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T09:02:02.397138+00:00",
+  "last_generated_time": "2026-08-19T10:02:03.128665+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1896,6 +1929,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Analysis | The divide between Trump and Vance on Iran - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdElPTjJkOFNKemN2QVVuS1B1SzlIRlFWWm9mVDJtNzZsTDhQSnRMQkhuQWVFcHJJX0VqRllTcTFtOGl5eWdmY3dqZXgya0FCOERsYkdIdURVN2gtMmtFcTU3NlBadXBmSlJKS21aUVhkSlg0NUNkZUVRTTFmRWdnQVFNcGFYUjZlNEI0?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 18, 2026 · 13:32 BRT",
+          "pub_date": "2026-08-18",
+          "pub_ts": 1787070724,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump’s approval rating sinks to presidency low of 33% as Iran war drags on - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlpwLVBka1c5eTlkSWdBTE45VzZKQnI0QUI3MHdXSnBqR2hBSzVsVmlzbW9JVGtKOVNGcGNxbGJqWTB4RFFqU0VzZWJWcXhRUWltNVJXN1I0SDhiNHdVUHNpMXZSc3NRejFZeEpTdVFxMDhqbGEya2J3NExIZUd2a3FPWXFxUm92TDg2TmtIaGE5elNVOHZHMmdPa1ozTVpIdC0yNVNRTnlzRk1D0gGsAUFVX3lxTE1KWnAtUGRrVzl5OWRJZ0FMTjlXNkpCcjRBQjcwd1dKcGpHaEFLNWxWaXNtb0lUa0o5U0ZwY3FsYmpZMHhEUWpTRXNlYlZxeFFRaW01Ulc3UjRIOGI0d1VQc2kxdlJzc1F6MVl4SlN1UXEwOGpsYTJrYnc0TEhlR3ZrcU9ZcXFSb3ZMODZOa0hoYTl6U1U4dkcyZ09rWjNNWkh0LTI1U1FOeXNGTUM?oc=5",

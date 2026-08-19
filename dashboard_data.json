@@ -652,7 +652,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-18"
+      "pub_date": "2026-08-19"
     },
     "https://www.reuters.com/world/middle-east/hormuz-strait-remain-shut-until-us-meets-interim-deal-conditions-iran-says-2026-08-18/": {
       "summary": "",
@@ -988,7 +988,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-18"
+      "pub_date": "2026-08-19"
     },
     "https://www.reuters.com/world/middle-east/uaes-financial-embargo-iran-after-missile-threat-puts-rivalry-back-spotlight-2026-08-19/": {
       "summary": "",
@@ -1041,7 +1041,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-18"
+      "pub_date": "2026-08-19"
     },
     "https://www.bloomberg.com/news/articles/2026-08-19/uae-cuts-economic-ties-with-iran-after-missiles-target-territory": {
       "summary": "",
@@ -1128,6 +1128,16 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/fuelmakers-run-us-plants-at-fastest-pace-since-iran-war-erupted": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1289,7 +1299,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T18:01:58.279453+00:00",
+  "last_generated_time": "2026-08-19T19:02:12.425266+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1299,6 +1309,20 @@
           "title": "Fuelmakers Run US Plants at Fastest Pace Since Iran War Erupted - bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNlcwcDBhYkdhd09JTUJNajlVOHZBejczQ19DWHdSSzNJMUc2Q2dORjRHUGRXelFJUXhRYnpOUmFzb2JkYjF2cVhoLTdwTVVFeDdQY3Z4OXhCNEk1VmZIU29UVGplLXRfcVRVSk54VlRiVUh1RV8tTjJncC1tMVB2ZjVhZlFBdTFtRHpoLUoxVGpfUGhFcjlVQUtoMTZYWDljd1pEZzlVdld6N2JXckpGczZaZ1dwTGpIb0w2eVQtQ2JabEZQVS13?oc=5",
           "source": "bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 14:24 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787160258,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Fuelmakers Run US Plants at Fastest Pace Since Iran War Erupted - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkdEYU44XzQwa1FBbVp2TlNjY1BySUNYV2RxOVFHeFhWeHRvSkE0REc4anhRbkZ4dmVIejNhSkdVT21PZW9DRWl4UGw2M3VYTmxEcF9jRjk0a0NuOENqNkhNMHhLSWJPTnloRFpRMWxVbzQ2d3JIbXBpSFJXU2V2cHBIYklsLVF3VzNjOEF0M3EtZEcyX3FuQ3g2RF9oQ3hVVWlIRGZ1S1V6d01oVmJEUW42Y2s?oc=5",
+          "source": "Bloomberg",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
           "published": "Aug 19, 2026 · 14:24 BRT",

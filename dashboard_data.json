@@ -1082,6 +1082,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1239,7 +1249,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T13:02:00.911076+00:00",
+  "last_generated_time": "2026-08-19T14:02:01.645157+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1324,6 +1334,20 @@
           "published": "Aug 18, 2026 · 09:27 BRT",
           "pub_date": "2026-08-18",
           "pub_ts": 1787056041,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWW02TjlHQUZwRXJZd29PczBMRFpLUkhMbk9oVWNnSXg2X0NLOVhxUF9YQTJvRENzcGo4WnBsbnFEZGNlZ1dHcm1KWnhqSjllU2RjTXBOd3VvQUpoN0dDeTYtSXYyNFhWWXdXLTR3M0c0Y0ZvSkFSSlhLT29iZk5DQ1BuVno4eERCSnVmQVluRElScUpxV2R5V2FKYVVBUVRIQnBxZkFSZnp2RUN2eU5OTnZ3aXZEU3ZQZTNqZ29qNlJ0b0l5ajdZYWNtaw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 18, 2026 · 04:59 BRT",
+          "pub_date": "2026-08-18",
+          "pub_ts": 1787039978,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -2151,6 +2175,25 @@
           "published": "Aug 11, 2026 · 17:31 BRT",
           "pub_date": "2026-08-11",
           "pub_ts": 1786480279,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        }
+      ]
+    },
+    {
+      "theme": "Fertilizers/food",
+      "articles": [
+        {
+          "title": "Grain prices surge as Ukraine war chokes off Black Sea ports - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 13:55 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787158503,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

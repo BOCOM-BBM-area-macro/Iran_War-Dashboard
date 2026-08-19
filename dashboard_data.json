@@ -21,7 +21,7 @@
       "pub_date": "2026-08-17"
     },
     "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html": {
-      "summary": "",
+      "summary": "Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -1042,6 +1042,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-18"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/uae-cuts-economic-ties-with-iran-after-missiles-target-territory": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1199,7 +1209,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T11:02:01.292087+00:00",
+  "last_generated_time": "2026-08-19T12:01:58.758848+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

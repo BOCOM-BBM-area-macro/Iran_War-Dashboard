@@ -738,7 +738,7 @@
       "pub_date": "2026-08-18"
     },
     "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html": {
-      "summary": "",
+      "summary": "Saudi Arabia and the United Arab Emirates are seeking larger oil reserves in Japan and South Korea as regional conflict threatens supply routes.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -862,6 +862,16 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
+    },
+    "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1": {
+      "summary": "Defence ministry says weapons were targeting maritime traffic but fell into the sea",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1025,7 +1035,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-18T11:11:26.400233+00:00",
   "last_generated_date": "2026-08-18",
-  "last_generated_time": "2026-08-18T20:01:59.309374+00:00",
+  "last_generated_time": "2026-08-18T21:02:02.095638+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

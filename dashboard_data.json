@@ -1092,6 +1092,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/fuelmakers-run-us-plants-at-fastest-pace-since-iran-war-erupted?sref=eo0IIyEe": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1249,12 +1259,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T14:02:01.645157+00:00",
+  "last_generated_time": "2026-08-19T15:02:01.906432+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Fuelmakers Run US Plants at Fastest Pace Since Iran War Erupted - bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNlcwcDBhYkdhd09JTUJNajlVOHZBejczQ19DWHdSSzNJMUc2Q2dORjRHUGRXelFJUXhRYnpOUmFzb2JkYjF2cVhoLTdwTVVFeDdQY3Z4OXhCNEk1VmZIU29UVGplLXRfcVRVSk54VlRiVUh1RV8tTjJncC1tMVB2ZjVhZlFBdTFtRHpoLUoxVGpfUGhFcjlVQUtoMTZYWDljd1pEZzlVdld6N2JXckpGczZaZ1dwTGpIb0w2eVQtQ2JabEZQVS13?oc=5",
+          "source": "bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 14:24 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787160258,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdVo2bm54a2c0RjBwaThneGgtSnYwS0RSQVlhT2xhVW95VjBfRHRvQUNqZmVoSDhWWlAwb1FURVJMNUJXc2VUUVBHeVA5Ti1tRDhZOXVSeGkxMzN4bllFVlpDVmdzUXhYMDNNWUpsU2xRV0tNZ2Z4T3NZWG5ZUQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 11:36 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787150178,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How the Iran War Made Africa’s Richest Man Even Richer - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUFZa2ZkR1Naa1FIYkl6ZE9ZQTlYTTVob2ZIeGxxNlZMa1RIN1ZXSzA5NjEwUGFuTFgtMjE2RktRa2lpd0JndExteHI4OW8xcHdYQWxqTlNLRTBkTnZVX2I5ZkFIbTBic2lzV2d2Y1M4VC05UFZOVmtSel9KdzRRb1RhN2tGYUNkQk9FdndoYw?oc=5",
@@ -2198,12 +2236,40 @@
           "tags": [],
           "sentiment": "neutral",
           "_rank": 0
+        },
+        {
+          "title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 13, 2026 · 13:58 BRT",
+          "pub_date": "2026-08-13",
+          "pub_ts": 1786640280,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
         }
       ]
     },
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Plumbing supplier Geberit offsets raw materials spike from Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWRwWDNELXFnZTZxRmVBQWhKRG5BMXhkNUxsRUx2MDZRZ00wdlRuZFU2NGI4ZThidEZla0k3Z3NuRXdEYjdiUk5BeGVDOWphcC05aUw5WldITF9EbkUycFphOFJic3FZM2dsWEtnOW1IR0dTcE81T0FhNXdoaVRuSF9DODBCZUlGVFRBb1JZYlpUX2tYNG12MWxneW9kT3lUZV9CWFNhV0c?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 02:46 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787118360,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China eases Iran war aluminium shock, but at a cost - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHJibjY1QldaZEVHTDd4ZGFRY2lwbVpVeWg1ak1HaWhjZVc1b2ZGaUU1NElzMXYzbXhrRkZiOTQwV2Y4d1hldC1fMXVtanZqeUotMWRkTV9laXBxNEZKdDVkaXJOTW84a01vQ1pEZjctNGM5QWVrcjZzMDZvRHpYdGdqTU1HX016Q25BaWN1eUxiRWZwVWJEeHl1bG9BMUdDX2F5MEFuWDNDZ3ZzcWVV?oc=5",

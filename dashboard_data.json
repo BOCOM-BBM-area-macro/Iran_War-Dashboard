@@ -1102,6 +1102,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.ft.com/content/d7c1c90d-8b85-4044-a6b0-2a085f96714e": {
+      "summary": "Eye-watering levels of defence funding and better production targets do not solve the problem",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1259,7 +1269,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T15:02:01.906432+00:00",
+  "last_generated_time": "2026-08-19T16:02:01.211816+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -632,7 +632,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-18"
+      "pub_date": "2026-08-19"
     },
     "https://www.reuters.com/world/middle-east/most-gulf-markets-muted-iran-tensions-keep-investors-wary-2026-08-18/": {
       "summary": "",
@@ -949,6 +949,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    },
+    "https://www.axios.com/2026/08/19/iran-war-trump-oman-aircraft-carriers": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
+    },
+    "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1": {
+      "summary": "Also in this newsletter: Ukraine wartime election and Europeans’ savings buffers",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-18"
     }
   },
   "last_digest_success": true,
@@ -1114,6 +1154,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "How the Iran War Made Africa’s Richest Man Even Richer - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUFZa2ZkR1Naa1FIYkl6ZE9ZQTlYTTVob2ZIeGxxNlZMa1RIN1ZXSzA5NjEwUGFuTFgtMjE2RktRa2lpd0JndExteHI4OW8xcHdYQWxqTlNLRTBkTnZVX2I5ZkFIbTBic2lzV2d2Y1M4VC05UFZOVmtSel9KdzRRb1RhN2tGYUNkQk9FdndoYw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 06:00 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787130049,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "With Limited Options, Trump Tries Economic Pressure on Iran — Again - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0lsRmdybEZNWEdfamRid0Vid1BxZXNjb0VpSzN5Z011cnFIV2Q0LUpmMVE0TUtSbmdrdC1LSlNWSmFHWThNVXZCajRFOEk1bWM2X2pNZmktTTBFb2taNUphT2FtaXU5S01DZTRzXzRTZkE1ZnBYbm5ueWJ2Q0pGUFlBWnBsWl8xdWJmeXJROERZX3hVcXc?oc=5",

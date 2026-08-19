@@ -929,6 +929,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-reportedly-threatens-to-expand-retaliatory-attacks-to-europe-if-us-restarts-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1094,6 +1114,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "With Limited Options, Trump Tries Economic Pressure on Iran — Again - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0lsRmdybEZNWEdfamRid0Vid1BxZXNjb0VpSzN5Z011cnFIV2Q0LUpmMVE0TUtSbmdrdC1LSlNWSmFHWThNVXZCajRFOEk1bWM2X2pNZmktTTBFb2taNUphT2FtaXU5S01DZTRzXzRTZkE1ZnBYbm5ueWJ2Q0pGUFlBWnBsWl8xdWJmeXJROERZX3hVcXc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 05:00 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787126456,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",

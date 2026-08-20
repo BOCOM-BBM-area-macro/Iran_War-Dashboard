@@ -1121,7 +1121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-19"
     },
     "https://www.timesofisrael.com/trump-shifts-approach-to-waiting-iran-out-as-tehran-intensifies-threats-on-gulf-europe/": {
       "summary": "",
@@ -1211,7 +1211,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-19"
     },
     "https://www.bloomberg.com/opinion/articles/2026-08-20/choking-iran-s-economy-is-the-least-bad-way-to-end-the-war": {
       "summary": "",
@@ -1272,6 +1272,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
     }
   },
   "last_digest_success": true,

@@ -1211,7 +1211,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-19"
+      "pub_date": "2026-08-20"
     },
     "https://www.bloomberg.com/opinion/articles/2026-08-20/choking-iran-s-economy-is-the-least-bad-way-to-end-the-war": {
       "summary": "",
@@ -1252,6 +1252,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-20"
+    },
+    "https://www.reuters.com/world/middle-east/most-gulf-markets-rise-oil-gains-amid-iran-war-jitters-2026-08-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
+    },
+    "https://www.reuters.com/world/middle-east/hormuz-shipping-unchanged-amid-us-iran-stalemate-data-shows-2026-08-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1415,6 +1435,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Most Gulf markets rise as oil gains amid Iran war jitters - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVFhLTlzYWc5UjBsRVV1eVZUQVZsWTVFN3otWEtxYkJGamswekJvNXp3ZmQ0VEVSTjdJNjhTT0VKQ1ozbThDQlduakMtNHBUeW1sdUJuWUtiNGRhSzdHMWdOZFVaTmplYmR3eF9JUXdoUFYwSmR4UUVPNndRXzlmTU1jeHZxczVWZzhhYW55ZlRUUjEtTDVTS3gxSFVjUl85V01lTFI2dmVJdDNJ?oc=5",
+          "source": "reuters.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 20, 2026 · 05:40 BRT",
+          "pub_date": "2026-08-20",
+          "pub_ts": 1787215210,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran war energy crisis is just getting started - reuters.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",

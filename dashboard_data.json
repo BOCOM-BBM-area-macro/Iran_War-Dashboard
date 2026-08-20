@@ -931,7 +931,7 @@
       "pub_date": "2026-08-19"
     },
     "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html": {
-      "summary": "",
+      "summary": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -1121,7 +1121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-19"
+      "pub_date": "2026-08-20"
     },
     "https://www.timesofisrael.com/trump-shifts-approach-to-waiting-iran-out-as-tehran-intensifies-threats-on-gulf-europe/": {
       "summary": "",
@@ -1382,6 +1382,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-20"
+    },
+    "https://www.washingtonpost.com/world/2026/08/20/frustrated-by-stalled-iran-war-trump-threatens-oman-other-gulf-allies/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
     }
   },
   "last_digest_success": true,
@@ -1536,7 +1546,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-20T11:12:10.975422+00:00",
   "last_generated_date": "2026-08-20",
-  "last_generated_time": "2026-08-20T16:02:08.962542+00:00",
+  "last_generated_time": "2026-08-20T17:01:56.372779+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -1162,6 +1162,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-19"
+    },
+    "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-19"
     }
   },
   "last_digest_success": true,
@@ -1319,7 +1329,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-19T11:11:50.563237+00:00",
   "last_generated_date": "2026-08-19",
-  "last_generated_time": "2026-08-19T21:02:11.911554+00:00",
+  "last_generated_time": "2026-08-19T22:01:58.847292+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

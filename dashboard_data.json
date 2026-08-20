@@ -1121,7 +1121,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-19"
     },
     "https://www.timesofisrael.com/trump-shifts-approach-to-waiting-iran-out-as-tehran-intensifies-threats-on-gulf-europe/": {
       "summary": "",
@@ -1392,6 +1392,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-20"
+    },
+    "https://www.cbc.ca/news/world/iran-rejects-trump-economic-threat-9.7313735": {
+      "summary": "Iranian Foreign Minister Abbas Araghchi says U.S. President Donald Trump's threat to launch campaign of \"economic warfare\" against Iran \"will only bring further defeat.\"",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
+    },
+    "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
     }
   },
   "last_digest_success": true,
@@ -1546,7 +1566,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-20T11:12:10.975422+00:00",
   "last_generated_date": "2026-08-20",
-  "last_generated_time": "2026-08-20T17:01:56.372779+00:00",
+  "last_generated_time": "2026-08-20T18:02:01.354146+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2458,6 +2478,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "European Gas Jumps to Five-Month High as Iran Peace Hopes Fade - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNm1HSUM3czFBOG5RT19nSkhiUy1NUGZyRG85WU5neWZBdF9uQk9lTjhiY0M1alJhbVh1eWx0NWI3cTc2VVRMbTdubEE0M1NwdkdsTzVXY1E3bVB6aGhsWlREZkFsYUt3SDFMMGZoVFBSSVVQeE9jQ0F6alhsOXZueGZiNlZtdi1rbjZCZFpxODYwVFI0eE9MRXUzRXUwTjVhRUpKMlUxbEU1VUFYYTZ2N3JwQ3JFQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 20, 2026 · 04:04 BRT",
+          "pub_date": "2026-08-20",
+          "pub_ts": 1787209467,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Analysis | The divide between Trump and Vance on Iran - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdElPTjJkOFNKemN2QVVuS1B1SzlIRlFWWm9mVDJtNzZsTDhQSnRMQkhuQWVFcHJJX0VqRllTcTFtOGl5eWdmY3dqZXgya0FCOERsYkdIdURVN2gtMmtFcTU3NlBadXBmSlJKS21aUVhkSlg0NUNkZUVRTTFmRWdnQVFNcGFYUjZlNEI0?oc=5",

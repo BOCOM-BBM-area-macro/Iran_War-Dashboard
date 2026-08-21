@@ -1659,6 +1659,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-21"
+    },
+    "https://www.washingtonpost.com/national-security/2026/08/21/more-than-750-us-service-members-wounded-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
     }
   },
   "last_digest_success": true,
@@ -1816,12 +1826,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-21T11:11:39.611254+00:00",
   "last_generated_date": "2026-08-21",
-  "last_generated_time": "2026-08-21T14:02:09.752314+00:00",
+  "last_generated_time": "2026-08-21T15:02:10.751047+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHJjSlpTT1poSjFTMDJHcXN1VUxBeUU3bm81VWxWSVFYeEFtN2lzbFhMWEhfZERUeUYtb29TRWpuTlk1WG4tMk9VT0I0NWltR0tQeGlMaFhWQjEzbjNvTEJkT3FGRjVlMXFHUVllRzd4c0lMZnV6akl2cmpfa0s0cTRCVHFvV2xxZVFaRQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 21, 2026 · 10:44 BRT",
+          "pub_date": "2026-08-21",
+          "pub_ts": 1787319882,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why oil markets are ignoring Trump's \"truths\" - Axios",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkJuaEJhT252YTBDcDRnSkk5cVV3TlpHakpBdHhBdndteWJSX1dicUZwcFNaRFpNcVlLWGg3NWJ0T2NtbDZXZzFMd3lFbGVPMl9tRG5odXVDVnNncmZQRl9LMmRFeGdIV2UydnczTW5oN3l0OU54enJtdkhqZHB2ag?oc=5",

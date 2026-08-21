@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-18"
+      "pub_date": "2026-08-16"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -41,7 +41,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-17"
+      "pub_date": "2026-08-21"
     },
     "https://www.reuters.com/world/middle-east/iran-says-it-will-escalate-if-us-does-not-honour-deal-within-weeks-2026-08-17/": {
       "summary": "",
@@ -1631,7 +1631,7 @@
       "pub_date": "2026-08-21"
     },
     "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html": {
-      "summary": "",
+      "summary": "Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -1859,7 +1859,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-21T11:11:39.611254+00:00",
   "last_generated_date": "2026-08-21",
-  "last_generated_time": "2026-08-21T17:01:57.517257+00:00",
+  "last_generated_time": "2026-08-21T18:01:57.363389+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1902,6 +1902,20 @@
           "published": "Aug 21, 2026 · 06:02 BRT",
           "pub_date": "2026-08-21",
           "pub_ts": 1787302966,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 21, 2026 · 05:45 BRT",
+          "pub_date": "2026-08-21",
+          "pub_ts": 1787301959,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

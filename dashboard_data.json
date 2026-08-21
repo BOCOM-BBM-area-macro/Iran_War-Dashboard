@@ -1171,7 +1171,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-19"
+      "pub_date": "2026-08-21"
     },
     "https://www.reuters.com/business/energy/oil-prices-steady-investors-assess-us-iran-war-outlook-2026-08-20/": {
       "summary": "",
@@ -1494,6 +1494,29 @@
         "us iran",
         "Donald Trump",
         "Deportation"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906189": {
+      "summary": "According to the officials, US President Donald Trump’s decision to impose another harsh package of economic sanctions is intended to “buy time” until after the US midterm elections.",
+      "tags": [
+        "IDF",
+        "Iran",
+        "iran sanctions",
+        "Israel Iran War",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-08-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

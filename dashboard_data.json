@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-18"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -41,7 +41,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-21"
+      "pub_date": "2026-08-17"
     },
     "https://www.reuters.com/world/middle-east/iran-says-it-will-escalate-if-us-does-not-honour-deal-within-weeks-2026-08-17/": {
       "summary": "",
@@ -1444,7 +1444,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-21"
+      "pub_date": "2026-08-20"
     },
     "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/": {
       "summary": "",
@@ -1679,6 +1679,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-21"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/iran-s-president-says-better-to-end-war-today-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906221": {
+      "summary": "A total of 18 US soldiers have been killed and 756 wounded in the US-Iran war, a number that has risen despite recent ceasefire efforts.",
+      "tags": [
+        "Iran",
+        "Persian Gulf",
+        "Middle East",
+        "US military",
+        "Pentagon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
     }
   },
   "last_digest_success": true,
@@ -1836,7 +1859,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-21T11:11:39.611254+00:00",
   "last_generated_date": "2026-08-21",
-  "last_generated_time": "2026-08-21T16:01:58.407581+00:00",
+  "last_generated_time": "2026-08-21T17:01:57.517257+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

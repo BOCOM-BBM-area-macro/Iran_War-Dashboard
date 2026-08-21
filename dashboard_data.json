@@ -1184,7 +1184,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-19"
+      "pub_date": "2026-08-20"
     },
     "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html": {
       "summary": "The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran.",
@@ -1444,7 +1444,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-21"
     },
     "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/": {
       "summary": "",
@@ -1583,6 +1583,26 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iranian-president-its-time-to-end-war-with-us-as-tehran-is-in-a-position-of-power/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/21/trump-south-korea-iran-us-navy-moves-show-frivolous-approach/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1744,7 +1764,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-21T11:11:39.611254+00:00",
   "last_generated_date": "2026-08-21",
-  "last_generated_time": "2026-08-21T08:02:11.454668+00:00",
+  "last_generated_time": "2026-08-21T09:02:00.757702+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

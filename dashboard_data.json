@@ -31,10 +31,13 @@
       "pub_date": "2026-08-17"
     },
     "https://www.wsj.com/business/hospitality/behind-peace-talks-iran-hard-liners-prepare-for-a-longer-costlier-u-s-war-a42357cb": {
-      "summary": "",
+      "summary": "Plus, we examine why Big Tech’s AI spending is $3 trillion higher than it seems, and how Burger King overtook Wendy’s.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Lodgings/Restaurants/Bars",
+        "Restaurants/Caterers",
+        "Limited-Service Restaurants",
+        "Internet Search Engines",
+        "Online Service Providers"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -1461,7 +1464,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-21"
     },
     "https://www.jpost.com/international/article-906182": {
       "summary": "\"The US has massive amounts of 'munitions'\" Trump wrote in a post on Truth Social on August 6, adding that claims of any munitions shortage were fabricated.",
@@ -1517,6 +1520,39 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.reuters.com/world/middle-east/iran-says-tehran-must-overcome-unjust-sanctions-us-ramps-up-economic-pressure-2026-08-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-08-21/live-updates-906178": {
+      "summary": "Bessent: US will US will 'squash' Iranian economy, collapse 'murderous regime' • US planning to block Abbas from addressing UNGA in September",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "Mahmoud Abbas",
+        "Erdogan Turkey",
+        "hezbollah iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

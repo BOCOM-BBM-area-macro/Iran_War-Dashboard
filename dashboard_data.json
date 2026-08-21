@@ -1181,7 +1181,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-19"
+      "pub_date": "2026-08-20"
     },
     "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html": {
       "summary": "The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran.",
@@ -1211,7 +1211,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-19"
     },
     "https://www.bloomberg.com/opinion/articles/2026-08-20/choking-iran-s-economy-is-the-least-bad-way-to-end-the-war": {
       "summary": "",
@@ -1391,7 +1391,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-21"
     },
     "https://www.cbc.ca/news/world/iran-rejects-trump-economic-threat-9.7313735": {
       "summary": "Iranian Foreign Minister Abbas Araghchi says U.S. President Donald Trump's threat to launch campaign of \"economic warfare\" against Iran \"will only bring further defeat.\"",
@@ -1452,6 +1452,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-20"
+    },
+    "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
+    },
+    "https://www.jpost.com/international/article-906182": {
+      "summary": "\"The US has massive amounts of 'munitions'\" Trump wrote in a post on Truth Social on August 6, adding that claims of any munitions shortage were fabricated.",
+      "tags": [
+        "iran and us",
+        "Iran US Conflict",
+        "us iran",
+        "Donald Trump",
+        "US military"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
     }
   },
   "last_digest_success": true,

@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-18"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -1442,6 +1442,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-20"
+    },
+    "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
     }
   },
   "last_digest_success": true,
@@ -1611,6 +1621,20 @@
           "published": "Aug 20, 2026 · 22:50 BRT",
           "pub_date": "2026-08-20",
           "pub_ts": 1787277000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 20, 2026 · 12:54 BRT",
+          "pub_date": "2026-08-20",
+          "pub_ts": 1787241262,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

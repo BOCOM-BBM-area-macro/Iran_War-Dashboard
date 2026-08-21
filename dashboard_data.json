@@ -1432,6 +1432,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-20"
+    },
+    "https://www.reuters.com/business/energy/oil-set-second-weekly-rise-unsettled-us-iran-war-crimps-supply-2026-08-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-20"
     }
   },
   "last_digest_success": true,
@@ -1586,12 +1596,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-20T11:12:10.975422+00:00",
   "last_generated_date": "2026-08-20",
-  "last_generated_time": "2026-08-20T22:02:00.116236+00:00",
+  "last_generated_time": "2026-08-20T23:01:51.612979+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 20, 2026 · 22:50 BRT",
+          "pub_date": "2026-08-20",
+          "pub_ts": 1787277000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Jump After Trump’s Latest Iran Threat - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UOTFWNENXOFZ6V1FXYXhZWWFDcUlRYU1aTnFlcXlXN21mRll2QjFtWWRrZnRJZXFtYlJIcXFITGhqSWRSVDNTUi1EVnJUbS1pRENEVGVTNkNzSkEwLTdmTGV4NnUwdUpyMWRvaElCSXhjdlNiZ0E?oc=5",

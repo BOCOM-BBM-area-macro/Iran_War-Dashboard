@@ -1556,7 +1556,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-21"
+      "pub_date": "2026-08-22"
     },
     "https://www.axios.com/2026/08/21/oil-markets-ignore-trump-truth-social-iran": {
       "summary": "",
@@ -1765,58 +1765,67 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-22"
+    },
+    "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-22"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-21T11:11:29.979727+00:00",
+  "last_digest_time": "2026-08-22T11:09:35.461482+00:00",
   "digest": {
-    "digest": "The United States is intensifying its economic pressure on Iran, threatening the 'toughest ever' sanctions and 'economic warfare' aimed at isolating the nation. Iran has vowed a 'devastating' response and is urging its citizens to plan to overcome these 'unjust sanctions.' Oil markets are showing signs of reacting to the increased US pressure, with oil prices set for a weekly gain. There are concerns about a potential spike in 'dark' oil tankers in the Gulf, raising the risk of spills. Security officials suggest that a short-term expansion of the Iran war is unlikely, with US actions potentially timed to influence upcoming midterm elections. Claims of a US munitions shortage amid the conflict have been denied by the Pentagon. The US is also seeking cooperation from China regarding sanctions. One report suggests that Iran may be misjudging the US willingness for a prolonged conflict. Additionally, allegations have surfaced that ICE accelerated Iranian deportations during the period of heightened US-Iran tensions.",
+    "digest": "Recent reports indicate a significant toll on U.S. service members in the Iran war, with over 750 wounded and 18 killed, despite ongoing ceasefire efforts. Iranian political figures, including President Pezeshkian, are publicly advocating for an end to the conflict, framing it as a desire to conclude from a 'position of strength' and claiming victory. This reflects internal debate within Iran regarding the sustainability of economic pressures. The United States maintains a hostile rhetorical stance ahead of new sanctions, with officials vowing to 'squash' the Iranian economy and collapse its leadership. Diplomatic maneuvers are also evident, with the U.S. reportedly planning to block Palestinian representation at the UNGA. Economically, the conflict's impact is being felt beyond the immediate belligerents, with Qatar cutting state spending due to the war's effect on the Strait of Hormuz trade route. China, however, appears positioned to weather U.S. economic threats related to Iran, leveraging its own oil reserves and potential to disrupt U.S. critical mineral supplies. Iran has granted passage to Iraqi oil tankers through the Strait of Hormuz, indicating a partial easing of transit restrictions.",
     "top_themes": [
-      "US Economic Sanctions on Iran",
-      "Iran's Response to Sanctions",
-      "Oil Market Volatility",
-      "Potential for Escalation",
-      "US Political Motivations"
+      "US Casualties",
+      "Iranian Political Stance",
+      "Economic Impacts",
+      "International Relations"
     ],
     "next_events": [
       {
-        "title": "Impact and Efficacy of US Sanctions on Iran's Economy",
-        "description": "The US is imposing its 'toughest ever' economic sanctions on Iran, urging cooperation from countries like China and focusing on Iran's trading partners. Analysts should monitor how effectively these sanctions cripple Iran's economy, how Iran attempts to circumvent them, and the responses from key trading partners, particularly Gulf countries and China."
+        "title": "Iran's Internal Political Debate on War Resolution",
+        "description": "Iranian leaders are publicly debating ending the war, but from a 'position of strength' despite economic pressure. Analysts should watch for signs of internal consensus or division within the regime, which could signal a shift in their negotiation strategy or willingness to escalate."
       },
       {
-        "title": "Iran's Retaliatory Actions and Strategic Responses",
-        "description": "Iran has vowed a 'devastating response' and stated it must plan to overcome 'unjust sanctions.' Watch for specific actions Iran might take, which could range from diplomatic maneuvers and seeking new economic alliances to potential military or cyber retaliations, especially if its economic lifeline is severely threatened."
+        "title": "Effectiveness of US Economic Sanctions and Iran's Resilience",
+        "description": "The US continues to threaten severe economic measures against Iran, including an 'economic D-Day.' Monitor the practical impact of new sanctions on Iran's economy, its strategies to mitigate these effects (potentially with Chinese support), and the resulting stability of the Iranian regime."
       },
       {
-        "title": "Post-US Midterm Election Policy Shifts Towards Iran",
-        "description": "Security officials suggest the current US strategy is to 'buy time' until after the US midterm elections, with the possibility of an 'October surprise' from Iran. Analysts should closely observe any significant shifts in US policy or rhetoric towards Iran following the midterms, as the political calculus influencing current decisions may change."
+        "title": "Strait of Hormuz Security and Global Oil Supply",
+        "description": "The Strait of Hormuz remains a critical choke point, with Iran recently granting passage to Iraqi oil tankers. Watch for any disruptions to shipping, changes in Iran's control or influence over the strait, and the subsequent implications for global oil prices and energy market stability."
       },
       {
-        "title": "Global Oil Market Dynamics and 'Dark' Tanker Activity",
-        "description": "Despite US pressure, oil markets are gaining, and an 'Iran war energy crisis' is anticipated, alongside a spike in 'dark' oil tankers. Monitor global oil prices, the volume and routes of undeclared oil shipments, and the potential for catastrophic spills, as these indicate both Iran's resilience and increased regional risks."
+        "title": "US Domestic Political Impact of Rising Casualties",
+        "description": "With over 750 US service members wounded and 18 killed, the human cost of the conflict is becoming more apparent. Analysts should observe how these casualty figures influence US public opinion, congressional pressure, and potentially alter the administration's strategic approach to the war."
       },
       {
-        "title": "Regional Escalation and Miscalculation Risks",
-        "description": "While immediate war expansion is deemed unlikely in the short-term, the rhetoric suggests a potential for a 'long war' and a misjudgment of US willingness. Watch for any incidents in the Gulf, proxy actions, or heightened military posturing that could inadvertently lead to escalation, despite current assessments of short-term stability."
+        "title": "US Diplomatic Posture and Regional Alliance Dynamics",
+        "description": "The US is reportedly lashing out at allies and planning to block Palestinian representation at the UNGA, indicating broader diplomatic tensions. Monitor how these actions affect US alliances in the Middle East, the effectiveness of its diplomatic pressure, and potential shifts in regional power balances."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-21T11:11:38.373463+00:00",
+  "last_watch_time": "2026-08-22T11:09:44.007854+00:00",
   "relevant_news": [
     {
-      "title": "Iran vows 'devastating' response as US threatens toughest ever economic hit - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 20, 2026 · 20:59 BRT",
-      "pub_date": "2026-08-20",
-      "pub_ts": 1787270340,
+      "title": "Iran’s Top Politicians Urge an End to the War - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Aug 22, 2026 · 06:15 BRT",
+      "pub_date": "2026-08-22",
+      "pub_ts": 1787390100,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -1824,18 +1833,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Six months of war - Reuters",
-      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-08-21/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 21, 2026 · 04:53 BRT",
+      "title": "More than 750 U.S. service members wounded in Iran war - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/21/more-than-750-us-service-members-wounded-iran-war/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 21, 2026 · 21:12 BRT",
       "pub_date": "2026-08-21",
-      "pub_ts": 1787298803,
+      "pub_ts": 1787357549,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -1843,33 +1852,32 @@
       "sentiment_success": false
     },
     {
-      "title": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-treasury-secretary-bessent-hold-press-conference-iran-on-monday-2026-08-20/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 20, 2026 · 20:14 BRT",
-      "pub_date": "2026-08-20",
-      "pub_ts": 1787267672,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-tehran-must-overcome-unjust-sanctions-us-ramps-up-economic-pressure-2026-08-21/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 21, 2026 · 05:24 BRT",
+      "title": "Iran’s president calls to end war with US from ‘position of strength’ - Financial Times",
+      "url": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Aug 21, 2026 · 15:51 BRT",
       "pub_date": "2026-08-21",
-      "pub_ts": 1787300681,
+      "pub_ts": 1787338295,
+      "summary": "Masoud Pezeshkian’s comments reflect debate within regime over how much economic pressure the Islamic republic can endure",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-keep-up-hostile-rhetoric-ahead-new-sanctions-2026-08-22/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 21, 2026 · 22:05 BRT",
+      "pub_date": "2026-08-21",
+      "pub_ts": 1787360700,
       "summary": "",
       "tags": [
         "extracted",
@@ -1881,18 +1889,18 @@
       "sentiment_success": false
     },
     {
-      "title": "The Iran war energy crisis is just getting started - Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/iran-war-energy-crisis-is-just-getting-started-2026-08-20/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 20, 2026 · 03:00 BRT",
-      "pub_date": "2026-08-20",
-      "pub_ts": 1787205600,
+      "title": "Trump increasingly lashing out at allies as victory in Iran war proves elusive - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/20/frustrated-by-stalled-iran-war-trump-threatens-oman-other-gulf-allies/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 21, 2026 · 00:24 BRT",
+      "pub_date": "2026-08-21",
+      "pub_ts": 1787282673,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -1900,18 +1908,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-      "url": "https://www.reuters.com/business/energy/trump-threatens-isolate-iran-who-are-its-trading-partners-2026-08-20/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 20, 2026 · 12:54 BRT",
-      "pub_date": "2026-08-20",
-      "pub_ts": 1787241262,
+      "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 21, 2026 · 11:41 BRT",
+      "pub_date": "2026-08-21",
+      "pub_ts": 1787323300,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -1920,9 +1928,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-21T11:11:39.611254+00:00",
-  "last_generated_date": "2026-08-21",
-  "last_generated_time": "2026-08-21T23:01:55.538453+00:00",
+  "last_relevant_time": "2026-08-22T11:09:44.425814+00:00",
+  "last_generated_date": "2026-08-22",
+  "last_generated_time": "2026-08-22T08:01:50.427590+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

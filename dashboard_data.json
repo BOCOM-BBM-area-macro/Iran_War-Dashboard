@@ -778,7 +778,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-18"
+      "pub_date": "2026-08-19"
     },
     "https://www.timesofisrael.com/liveblog_entry/us-reportedly-weighs-troop-pullback-from-gulf-following-damage-in-iran-war/": {
       "summary": "",
@@ -1444,7 +1444,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-21"
     },
     "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/": {
       "summary": "",
@@ -1702,6 +1702,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-21"
+    },
+    "https://www.reuters.com/world/middle-east/us-iran-keep-up-hostile-rhetoric-ahead-new-sanctions-2026-08-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
     }
   },
   "last_digest_success": true,
@@ -1859,7 +1869,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-21T11:11:39.611254+00:00",
   "last_generated_date": "2026-08-21",
-  "last_generated_time": "2026-08-21T22:01:49.690441+00:00",
+  "last_generated_time": "2026-08-21T23:01:55.538453+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2864,6 +2874,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "How High Are Gas Prices Where You Live? - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFFyMEw4dDc1S2JPR0dWakJ3ZHVweTNnX29SUl9KbUEtTnI1ZjVyME96MFRxdkZEY3pNNl85SDkyVklUdm5nTTBKTUdodmdKaDhXNENnX2V2MUlDZ3Jpcks3RTVRTWV6cHo3SjZfU1hKU0szdzhFRXZ2a0R5LUlCaHBUR0RyNl9tRzcwUlk1WWlwYzZKMXFVanA0aENpNFd1a3cw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 21, 2026 · 04:33 BRT",
+          "pub_date": "2026-08-21",
+          "pub_ts": 1787297580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "E.V. Sales Are Rising After the Gulf Oil Shock. Here’s Where. - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnJFXzJNaEVualpuUkZSdXhMWjRrSmVydzNSTDM1STl3VEVfMno3cDE3OHVoZnVtWEtqSmpSaUstV0xZMW1OMzNCbzlRcnU0bHMtczRmQWZwQnlMZnZfamdndmxESnJpZWM0QzF1aXdZZ0NaWEluaWtrUVVic2JULXgyY2hON1JxLUhn?oc=5",

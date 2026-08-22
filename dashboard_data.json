@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-18"
+      "pub_date": "2026-08-16"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -1785,6 +1785,18 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-22"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906254": {
+      "summary": "The chief of staff of Iran's armed forces, MG Ali Abdollahi, warned its response would be \"crushing, punishing and devastating,\" while Trump warns countries against providing Iran a lifeline.",
+      "tags": [
+        "Iran",
+        "United States",
+        "strait of hormuz",
+        "US-Iran deal"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-22"
     }
   },
   "last_digest_success": true,
@@ -1940,7 +1952,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-22T11:09:44.425814+00:00",
   "last_generated_date": "2026-08-22",
-  "last_generated_time": "2026-08-22T11:01:51.564094+00:00",
+  "last_generated_time": "2026-08-22T12:02:07.306509+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2982,6 +2994,20 @@
           "published": "Aug 21, 2026 · 04:33 BRT",
           "pub_date": "2026-08-21",
           "pub_ts": 1787297580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 07:10 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787134205,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

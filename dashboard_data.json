@@ -778,7 +778,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-19"
+      "pub_date": "2026-08-18"
     },
     "https://www.timesofisrael.com/liveblog_entry/us-reportedly-weighs-troop-pullback-from-gulf-following-damage-in-iran-war/": {
       "summary": "",
@@ -1444,7 +1444,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-21"
+      "pub_date": "2026-08-20"
     },
     "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/": {
       "summary": "",
@@ -1712,6 +1712,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-21"
+    },
+    "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-21"
     }
   },
   "last_digest_success": true,
@@ -1875,6 +1885,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "See How China Weathered the Iran Oil Shock - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 21, 2026 · 23:00 BRT",
+          "pub_date": "2026-08-21",
+          "pub_ts": 1787364000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHJjSlpTT1poSjFTMDJHcXN1VUxBeUU3bm81VWxWSVFYeEFtN2lzbFhMWEhfZERUeUYtb29TRWpuTlk1WG4tMk9VT0I0NWltR0tQeGlMaFhWQjEzbjNvTEJkT3FGRjVlMXFHUVllRzd4c0lMZnV6akl2cmpfa0s0cTRCVHFvV2xxZVFaRQ?oc=5",

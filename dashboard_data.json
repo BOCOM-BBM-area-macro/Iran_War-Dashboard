@@ -1556,7 +1556,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-22"
+      "pub_date": "2026-08-21"
     },
     "https://www.axios.com/2026/08/21/oil-markets-ignore-trump-truth-social-iran": {
       "summary": "",
@@ -1734,7 +1734,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-21"
+      "pub_date": "2026-08-22"
     },
     "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1": {
       "summary": "Wealthy Gulf nation has been hard hit by US-Iran conflict over Strait of Hormuz",
@@ -1751,6 +1751,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-22"
+    },
+    "https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2931,6 +2941,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZfOUdEQkQ5dzdFU0VtOHNtSFNVcXlLWHdiSWpRQXprbS1WVldJalFEUWVuZ0pJakZ6ZGcwTDdwUVFWZVgyMUxvWjBvWlpVbGN4Qk1pM3pZckJNNXNtejFCU09zNGRtR3NsSTVtMTllZTJCZDlLdlI3TVY2b2g0bm1SZFA?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 22, 2026 · 01:03 BRT",
+          "pub_date": "2026-08-22",
+          "pub_ts": 1787371424,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How High Are Gas Prices Where You Live? - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFFyMEw4dDc1S2JPR0dWakJ3ZHVweTNnX29SUl9KbUEtTnI1ZjVyME96MFRxdkZEY3pNNl85SDkyVklUdm5nTTBKTUdodmdKaDhXNENnX2V2MUlDZ3Jpcks3RTVRTWV6cHo3SjZfU1hKU0szdzhFRXZ2a0R5LUlCaHBUR0RyNl9tRzcwUlk1WWlwYzZKMXFVanA0aENpNFd1a3cw?oc=5",

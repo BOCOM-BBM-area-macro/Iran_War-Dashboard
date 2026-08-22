@@ -1556,7 +1556,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-22"
+      "pub_date": "2026-08-21"
     },
     "https://www.axios.com/2026/08/21/oil-markets-ignore-trump-truth-social-iran": {
       "summary": "",
@@ -1711,7 +1711,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-21"
+      "pub_date": "2026-08-22"
     },
     "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8": {
       "summary": "",
@@ -1731,6 +1731,16 @@
         "Mahmoud Abbas",
         "Erdogan Turkey",
         "hezbollah iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-22"
+    },
+    "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1": {
+      "summary": "Wealthy Gulf nation has been hard hit by US-Iran conflict over Strait of Hormuz",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

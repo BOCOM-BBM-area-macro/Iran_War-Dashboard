@@ -8,7 +8,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-16"
+      "pub_date": "2026-08-18"
     },
     "https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/": {
       "summary": "",
@@ -1566,7 +1566,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-21"
+      "pub_date": "2026-08-22"
     },
     "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html": {
       "summary": "",
@@ -1797,6 +1797,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-22"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906266": {
+      "summary": "In the video, the Chief of Staff of the Iranian Armed Forces, Ali Abdollahi, said that Iran's production has increased significantly in the past year.",
+      "tags": [
+        "Iran",
+        "iran missiles",
+        "ballistic missile",
+        "drone",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-22"
+    },
+    "https://www.timesofisrael.com/iran-lashes-out-as-us-prepares-toughest-sanctions-in-history/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-22"
     }
   },
   "last_digest_success": true,
@@ -1952,7 +1975,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-22T11:09:44.425814+00:00",
   "last_generated_date": "2026-08-22",
-  "last_generated_time": "2026-08-22T16:01:51.470667+00:00",
+  "last_generated_time": "2026-08-22T18:01:44.161624+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

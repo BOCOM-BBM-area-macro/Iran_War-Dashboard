@@ -1454,7 +1454,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-21"
     },
     "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html": {
       "summary": "",
@@ -2021,6 +2021,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-23"
+    },
+    "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804": {
+      "summary": "Countries that calculate appeasement of the regime to be a safer choice should reconsider",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
+    },
+    "https://www.reuters.com/business/energy/iran-says-it-discovered-over-75-trillion-cubic-feet-gas-2026-08-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
     }
   },
   "last_digest_success": true,
@@ -2180,7 +2200,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-23T11:09:07.901258+00:00",
   "last_generated_date": "2026-08-23",
-  "last_generated_time": "2026-08-23T19:01:49.195043+00:00",
+  "last_generated_time": "2026-08-23T20:01:36.054778+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3372,6 +3392,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran says it discovered over 7.5 trillion cubic feet of gas - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 23, 2026 · 12:24 BRT",
+          "pub_date": "2026-08-23",
+          "pub_ts": 1787498642,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Qatar cuts state spending at home and abroad as war shrinks economy - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDBJSG9ORXVzZ01PZWg1Rnd4Zmd2cnBCaHZoc2dHT0xGSWZVZ3ZhWHJXWlBhREthZmVhR2xrN1hRMC10T2JyTEprWXFfSTRJamJpUnZ6OVZ3SWVkTnRyYzhqSEh3dzZ3Qk84Nl84cWVNY0I3TmJyWUVRRUUta3dJOW04dGE?oc=5",

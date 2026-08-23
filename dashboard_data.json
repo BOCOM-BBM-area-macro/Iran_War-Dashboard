@@ -1721,7 +1721,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-22"
+      "pub_date": "2026-08-23"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-08-22/live-updates-906234": {
       "summary": "Trump: US had total control over the \"entire region having to do with the Strait of Hormuz,\" and US military option still on the table • US planning to block Abbas from addressing UNGA in September",
@@ -1985,6 +1985,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-23"
+    },
+    "https://www.reuters.com/world/asia-pacific/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-2026-08-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
     }
   },
   "last_digest_success": true,
@@ -2144,7 +2154,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-23T11:09:07.901258+00:00",
   "last_generated_date": "2026-08-23",
-  "last_generated_time": "2026-08-23T15:01:56.862576+00:00",
+  "last_generated_time": "2026-08-23T16:01:36.933036+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

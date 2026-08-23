@@ -1932,6 +1932,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/iran-announces-gas-discovery-after-war-worsens-energy-squeeze": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906334": {
+      "summary": "Experts say the Trump administration can also try these options: Sanctions on Chinese 'Teapot' refineries, targeting entities and individuals helping Iran evade sanctions, and a land blockade.",
+      "tags": [
+        "Iran",
+        "United States",
+        "sanctions",
+        "sanctions against iran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/china-actively-committed-to-iran-talks-with-tensions-rising": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iranian-president-defends-mou-with-trump-as-best-way-out-of-war-economic-morass/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
     }
   },
   "last_digest_success": true,
@@ -2091,7 +2134,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-23T11:09:07.901258+00:00",
   "last_generated_date": "2026-08-23",
-  "last_generated_time": "2026-08-23T10:01:37.003420+00:00",
+  "last_generated_time": "2026-08-23T11:01:43.142887+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3503,6 +3546,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "The farm belt's next energy pain point is about to arrive - Axios",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xRTlOTENjTnM0dDc0YVV5cHRxbUVDODFnamx1ZHhKR2VlQk05VXFic3F1Uld5Rm5WVnVyRGtBSGp0S3pRV2pWbjI1UEc2SndtYVpoLXJ2aEYyWkV1V056RDQweTJqMElzQi1mNDJyWVI2T2c?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 21, 2026 · 03:53 BRT",
+          "pub_date": "2026-08-21",
+          "pub_ts": 1787295197,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Grain prices surge as Ukraine war chokes off Black Sea ports - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5",

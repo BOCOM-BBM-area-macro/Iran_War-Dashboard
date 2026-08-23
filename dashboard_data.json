@@ -1454,7 +1454,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-21"
     },
     "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html": {
       "summary": "",
@@ -1909,6 +1909,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-23"
+    },
+    "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
+    },
+    "https://www.jpost.com/middle-east/article-906314": {
+      "summary": "The war-torn nation began its revival effort soon after the ousting of former president Bashar al-Assad, with recent developments including the return of Syrian Airlines to Europe.",
+      "tags": [
+        "Bashar Assad",
+        "Iran",
+        "Syria",
+        "Damascus",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
     }
   },
   "last_digest_success": true,
@@ -2068,7 +2091,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-23T11:09:07.901258+00:00",
   "last_generated_date": "2026-08-23",
-  "last_generated_time": "2026-08-23T09:01:34.929659+00:00",
+  "last_generated_time": "2026-08-23T10:01:37.003420+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

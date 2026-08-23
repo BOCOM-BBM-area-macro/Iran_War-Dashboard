@@ -1454,7 +1454,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-20"
+      "pub_date": "2026-08-21"
     },
     "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html": {
       "summary": "",
@@ -1975,6 +1975,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-23"
+    },
+    "https://www.reuters.com/business/energy/sinopecs-half-year-profit-grew-193-year-despite-iran-war-falling-demand-2026-08-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
     }
   },
   "last_digest_success": true,
@@ -2134,7 +2144,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-23T11:09:07.901258+00:00",
   "last_generated_date": "2026-08-23",
-  "last_generated_time": "2026-08-23T12:01:47.102355+00:00",
+  "last_generated_time": "2026-08-23T13:01:39.435823+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

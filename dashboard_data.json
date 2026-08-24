@@ -1764,7 +1764,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-22"
     },
     "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/": {
       "summary": "",
@@ -2210,43 +2210,170 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-23"
+    },
+    "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-24/us-set-to-unveil-fresh-iran-sanctions-as-rial-hits-record-low": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-23T11:08:58.242407+00:00",
+  "last_digest_time": "2026-08-24T11:09:55.140821+00:00",
   "digest": {
-    "digest": "Recent developments indicate a multi-faceted approach to the conflict involving Iran. Politically, there are internal calls within Iran for an end to the war, suggesting potential domestic pressure on the regime. Diplomatically, Pakistan's army chief is scheduled to visit Tehran, signaling ongoing regional engagement. Iran has also granted permission for Iraqi oil tankers to transit the Strait of Hormuz, a move that could impact regional energy flows. Economically, Iran claims to have sold seventy million barrels of oil in the past two months, with daily sales reportedly matching production levels, and is allegedly selling oil to American ships. This economic activity occurs amidst discussions of bankrupting the Iranian regime as an alternative to military action, with the stated objective of undermining its financing of terror and internal repression. Concurrently, the vulnerability of the U.S. military presence in the Gulf has been exposed by Iranian attacks, raising questions about the strategic value of rebuilding vast Gulf bases.",
+    "digest": "The United States is intensifying its economic pressure on Iran, with Treasury Secretary Scott Bessent indicating an 'endgame' to sever economic lifelines and warning countries against maintaining ties with Tehran. This strategy is characterized as an 'economic D-Day' for Iran, aiming to isolate it economically. In response to these escalating tensions, the US has cancelled joint marine drills with South Korea, citing force constraints related to the Iran war. Concurrently, oil prices have seen a decline as the US prepares to unveil new sanctions, impacting global energy markets. Despite the external pressures, Iran has announced a new natural gas discovery, though production is reportedly hampered by the ongoing war and US sanctions. Bangladesh is seeking additional LNG cargoes as the situation continues to affect energy supplies. China has stated its commitment to engaging in talks with Iran amidst rising tensions. Pakistan is set to mediate discussions in Iran concerning the US economic measures. The Iranian government perceives internal gatherings of young people as threats to its authority, indicating domestic challenges alongside international pressures.",
     "top_themes": [
-      "Economic Warfare",
-      "Regional Diplomacy",
-      "Military Vulnerabilities"
+      "US Economic Sanctions on Iran",
+      "Iran's Energy Sector",
+      "International Diplomacy and Iran",
+      "Military Readiness and Iran Tensions"
     ],
     "next_events": [
       {
-        "title": "Iran's Sanctions Evasion and Economic Stability",
-        "description": "Iran's claims of significant oil sales, even to 'American ships,' directly challenge the US strategy of economic pressure aimed at bankrupting the regime. Analysts should monitor the veracity of these claims, the effectiveness of international sanctions, and the broader impact on Iran's economy and the regime's stability. This will indicate the success or failure of non-military pressure tactics."
+        "title": "Intensified US Economic 'Endgame' Against Iran",
+        "description": "The US is signaling an 'economic D-Day' to sever Iran's remaining economic lifelines, with new sanctions expected. Analysts should watch for the specific details of these new sanctions, their immediate impact on Iran's economy and currency, and how other nations with ties to Tehran react to the increased pressure."
       },
       {
-        "title": "US Military Adaptation and Regional Footprint",
-        "description": "The US is developing low-cost interceptors and re-evaluating its vulnerable Gulf bases in response to Iranian threats. Watch for concrete steps in deploying new defense technologies, changes in US military presence, and investments in hardening existing infrastructure. This will signal the US's long-term strategy for deterring and defending against Iranian aggression."
+        "title": "Iran's Economic Resilience and Retaliatory Measures",
+        "description": "Facing severe economic pressure and sanctions, Iran has announced new gas discoveries and warned Gulf states against joining the US 'economic war.' Monitor how Iran leverages its energy resources, implements any retaliatory economic actions, and how regional states respond to these warnings, which could indicate shifts in regional alliances."
       },
       {
-        "title": "Internal Iranian Political Shifts",
-        "description": "Reports of top Iranian politicians urging an end to the war suggest potential internal divisions or a desire for de-escalation within the regime. Analysts should closely observe public statements from Iranian officials, any shifts in rhetoric, and signs of internal political maneuvering. This could indicate a change in Iran's foreign policy stance or a weakening of hardline factions."
+        "title": "International Diplomatic Interventions and Mediation",
+        "description": "China is 'actively committed' to talks, and Pakistan is mediating on the US 'economic D-Day' with Iran. Observe the progress and outcomes of these diplomatic efforts, as well as any new multilateral initiatives, to gauge the potential for de-escalation or a negotiated resolution to the escalating tensions."
       },
       {
-        "title": "Regional Alliances and Diplomatic Engagements",
-        "description": "The upcoming visit of Pakistan's army chief to Tehran highlights ongoing regional diplomatic efforts and potential shifts in alliances. Monitor the outcomes of this and similar high-level meetings for potential new security agreements, economic partnerships, or coordinated regional strategies. These interactions could reshape the regional power balance and influence future conflict dynamics."
+        "title": "Shifts in US Military Posture and Regional Readiness",
+        "description": "The US has canceled joint marine drills with South Korea, citing 'Iran war-related force constraints,' indicating a reallocation of military resources. Track any further redeployments or cancellations of US military exercises globally, as these actions will signal the US's strategic focus and readiness for potential contingencies in the Middle East."
       },
       {
-        "title": "Strait of Hormuz Control and Global Oil Markets",
-        "description": "Iran's permission for Iraqi oil tankers to pass through Hormuz underscores its critical control over this vital chokepoint, which impacts global oil supply. Analysts should watch for any changes in Iran's policy regarding maritime passage, potential disruptions, or increased militarization of the Strait. This directly affects global oil prices and could be a flashpoint for escalation."
+        "title": "Internal Stability and Potential Dissent in Iran",
+        "description": "Reports highlight the Iranian government's concern over youth gatherings as 'threats to its authority' amidst economic hardship. Watch for any signs of increased internal unrest, protests, or government crackdowns, as domestic instability could significantly influence the regime's decision-making and its approach to the ongoing conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-23T11:09:07.506970+00:00",
+  "last_watch_time": "2026-08-24T11:10:24.611840+00:00",
   "relevant_news": [
+    {
+      "title": "Scott Bessent: an economic D-Day is coming for Iran - Financial Times",
+      "url": "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Aug 23, 2026 · 18:30 BRT",
+      "pub_date": "2026-08-23",
+      "pub_ts": 1787520601,
+      "summary": "Countries that calculate appeasement of the regime to be a safer choice should reconsider",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-2026-08-24/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 24, 2026 · 02:52 BRT",
+      "pub_date": "2026-08-24",
+      "pub_ts": 1787550720,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Aug 24, 2026 · 07:15 BRT",
+      "pub_date": "2026-08-24",
+      "pub_ts": 1787566511,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Treasury Secretary Bessent says US entering 'endgame' with Iran, will sever economic lifelines - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-906373",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Aug 23, 2026 · 21:45 BRT",
+      "pub_date": "2026-08-23",
+      "pub_ts": 1787532328,
+      "summary": "\"Any remaining tie to Tehran will hasten the economic ostracism of countries and entities, whether that tie be purposefully constructed or wilfully ignored.\"",
+      "tags": [
+        "sanctions",
+        "economy",
+        "iran and us",
+        "Iran nuclear",
+        "iran sanctions"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US Set to Unveil Fresh Iran Sanctions as Rial Hits Record Low - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-set-to-unveil-fresh-iran-sanctions-as-rial-hits-record-low",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Aug 24, 2026 · 06:59 BRT",
+      "pub_date": "2026-08-24",
+      "pub_ts": 1787565590,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War - The New York Times",
       "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
@@ -2265,111 +2392,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "Iran’s Top Politicians Urge an End to the War - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 22, 2026 · 06:15 BRT",
-      "pub_date": "2026-08-22",
-      "pub_ts": 1787390100,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "See How China Weathered the Iran Oil Shock - WSJ",
-      "url": "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 22, 2026 · 21:31 BRT",
-      "pub_date": "2026-08-22",
-      "pub_ts": 1787445112,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iranian council head Mohsen Rezaee claims billions of dollars made amid blockade - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-906287",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 23, 2026 · 06:36 BRT",
-      "pub_date": "2026-08-23",
-      "pub_ts": 1787477795,
-      "summary": "\"In the past month or two, we sold seventy million barrels of oil,\" he said. \"Now every day we sell oil to American ships on that side, as much as we produce.\"",
-      "tags": [
-        "IAEA",
-        "Iran",
-        "United States",
-        "oil",
-        "iran israel war"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Why the US bankrupting Iran is better than continuing bombing - The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-906293",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 23, 2026 · 04:57 BRT",
-      "pub_date": "2026-08-23",
-      "pub_ts": 1787471865,
-      "summary": "The objective is not to destroy Iran. It is to bankrupt the regime that has stolen Iran's future, financed terror across the Middle East, and kept its own people in chains.",
-      "tags": [
-        "Iran",
-        "economy",
-        "iranian economy",
-        "islamic regime",
-        "Islamic Republic"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 22, 2026 · 09:21 BRT",
-      "pub_date": "2026-08-22",
-      "pub_ts": 1787401289,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-23T11:09:07.901258+00:00",
-  "last_generated_date": "2026-08-23",
-  "last_generated_time": "2026-08-23T23:01:52.107933+00:00",
+  "last_relevant_time": "2026-08-24T11:10:25.172350+00:00",
+  "last_generated_date": "2026-08-24",
+  "last_generated_time": "2026-08-24T08:01:51.000430+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3982,6 +4010,20 @@
           "published": "Aug 23, 2026 · 10:42 BRT",
           "pub_date": "2026-08-23",
           "pub_ts": 1787492565,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLTBYQkU0TFJzQ05PTENKRDhfOG9tOHROejB1RG5qZi1PZmhuTllKc2ZDY1BlS2hqNGRSRTFIM3NXMG1weTNJWUliWTFhLTRNMDlPWU5jWDV1djBSeXJwM3RMY1VqRXphbkRDeF8weTJ1MG0yalI3emhydl9XTi1MbjBubjVDc29sQmFV?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 22, 2026 · 18:12 BRT",
+          "pub_date": "2026-08-22",
+          "pub_ts": 1787433170,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -1764,7 +1764,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-22"
+      "pub_date": "2026-08-24"
     },
     "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/": {
       "summary": "",
@@ -2445,6 +2445,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-24"
+    },
+    "https://www.axios.com/2026/08/24/trump-iran-sanctions-bessent-economy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.wsj.com/world/middle-east/bessent-launches-operation-economic-outcast-to-isolate-iran-0e4db091": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
     }
   },
   "last_digest_success": true,
@@ -2602,12 +2632,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-24T11:10:25.172350+00:00",
   "last_generated_date": "2026-08-24",
-  "last_generated_time": "2026-08-24T18:01:46.253453+00:00",
+  "last_generated_time": "2026-08-24T19:01:59.079255+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "5 ways Iran's economy is wilting under Trump's pressure - Axios",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veVZZOFdPSDlQQ09KZlJWaFpvY0VhNVBGc0d6QWFxVkxobjZVX3FhQmREYXdBU2RnNklOdGpZRjEzV1htdXZ2M1BMaHptNUZvS1dnZWo0TTNHUC1RMGM0Um5zM19NYkJyWG01Smd0Q0F1RVFuS3ZLcA?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 18:18 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787606318,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
@@ -4332,6 +4376,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "US support for Iran war falls to 31% as Trump approval remains at record low- poll - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EVWUyRFlJTGotUWQyUER3VWx0WFRPOFVqUGFuTHppRE1RZUJNS3hTYWpCTUZVYlJJYXJaSk00SWszRGlxN3lGQjVZTjV5TXNnc0ZORlBuZEtpVENsNE1aYWZYMlM?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 16:48 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787600915,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China ‘Actively Committed’ to Iran Talks With Tensions Rising - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0?oc=5",

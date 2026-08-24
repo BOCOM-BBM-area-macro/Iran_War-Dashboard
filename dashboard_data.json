@@ -2313,6 +2313,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-24"
+    },
+    "https://www.reuters.com/world/middle-east/what-are-irans-options-escalate-further-face-us-economic-threats-2026-08-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.reuters.com/business/energy/looming-us-sanctions-iran-put-china-oil-buying-spotlight-2026-08-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
     }
   },
   "last_digest_success": true,
@@ -2470,7 +2490,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-24T11:10:25.172350+00:00",
   "last_generated_date": "2026-08-24",
-  "last_generated_time": "2026-08-24T12:01:55.535515+00:00",
+  "last_generated_time": "2026-08-24T13:01:57.910481+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2485,6 +2505,20 @@
           "published": "Aug 24, 2026 · 07:15 BRT",
           "pub_date": "2026-08-24",
           "pub_ts": 1787566512,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Looming US sanctions on Iran put China oil buying in spotlight - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1hfY2RieU1zQWlvd1p0M1ZhdzdkU2ZGYmZ4TUlUdG9IbXRZWjlTbTctdi1vMHBJTEtWTG40aW1sOHRqT25MaFNleGZIdUlyU1NnZC12Z3FZT2FSU0ZxNmNra0pCZXpOQl9DUmVOZ3l2MzZLc2pkZndoR2pVUUl6dEp1TXRHMkNBeXRXNkMyNzhXejZuSS1aZGpPWHJETTVuUWVqQUhyay1kcUhU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 07:10 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787566208,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

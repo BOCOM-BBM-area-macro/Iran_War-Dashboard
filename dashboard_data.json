@@ -1764,7 +1764,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-22"
+      "pub_date": "2026-08-24"
     },
     "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/": {
       "summary": "",
@@ -2240,6 +2240,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-24"
+    },
+    "https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1": {
+      "summary": "Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.timesofisrael.com/us-warns-of-economic-d-day-for-iran-as-defiant-tehran-set-to-hold-talks-on-hormuz/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.reuters.com/world/middle-east/iran-warns-vessels-violating-hormuz-transit-rules-fines-detention-2026-08-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
     }
   },
   "last_digest_success": true,
@@ -2397,7 +2427,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-24T11:10:25.172350+00:00",
   "last_generated_date": "2026-08-24",
-  "last_generated_time": "2026-08-24T08:01:51.000430+00:00",
+  "last_generated_time": "2026-08-24T09:01:56.742168+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

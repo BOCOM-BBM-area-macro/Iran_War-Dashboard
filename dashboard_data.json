@@ -1764,7 +1764,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-22"
+      "pub_date": "2026-08-24"
     },
     "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/": {
       "summary": "",
@@ -2170,6 +2170,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-24"
+    },
+    "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-24/lng-wrap-bangladesh-seeks-more-cargoes-as-iran-war-drags-on": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.nytimes.com/2026/08/24/opinion/iran-strait-of-hormuz-oil-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-24/bessent-set-to-unveil-iran-economic-isolation-plan-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
     }
   },
   "last_digest_success": true,
@@ -3536,6 +3576,34 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "LNG WRAP: Bangladesh Seeks More Cargoes as Iran War Drags On - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHdsT25MaHBmNVJrazk3ZkZ2aTdsZnhhYVdrNDFQVjkyUUFsci1VREVxU3I4eVdJanZYYjVxVjdzSHpoMTJsUkFUVkpLZFF0SXllZ2FZaURlMzFiR2tjVlZ4T2c1bkVhbElzcnhjNXNCbEZRbUxiSkxrYTBWU1gtV0lmc29ydHNBYTJsMEdiRlBtS1dPcUJQUkJmd3V0cjEybGd2NkdnUmhUd0gzZG40?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 05:43 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787561038,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran announces new natural gas discovery as war and US sanctions hamper production - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3F1aWE5SDZnUUlJa2kxZzlsN1dUVENPdnZqQ2VjeWxlVTRmZlZvVmQ5MmRNNldZMjVFZ0k3VTZ4WXQ1YV90SEtoNUlldEtBSnRFOFQ0V24xeTc1al8zNEhkT0pYYVo5cHRvQ2ZHUGxpTEE0NFpSMXFsbXJPZ2pVOGJEQTRqUXhWUVdEWTZxdkRWQjlDR3Y3ZTRHWHZpVnRRNjBjQzhSZEExUzJVNFUyUUVzd9IBuAFBVV95cUxNbGt2XzF5YWJid3BXd2cyRVFxck5CVnR0cGNQNjZ1UUF3bmJEV05nTkRPbnZ3NTI5alhxeXo0aXFJNmFoMUhmcGtpbll1X2RTOEZNNG5jRzB3QVRlYnBFYmxTdWl5RVplRlVhLWZONXREelZEVUJ3VkVPVU9zMEZqaXA4Q2hUckxHNEZmOVVfSDFqTkRMVXZkRVhQeUFjYW9HbVRPVzQxM3ZJbk56T1VXdnpoMGEzaktf?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 23, 2026 · 22:18 BRT",
+          "pub_date": "2026-08-23",
+          "pub_ts": 1787534322,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran says it discovered over 7.5 trillion cubic feet of gas - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
           "source": "Reuters",
@@ -3783,6 +3851,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Zelenskiy says Russia is 'not ready' for ceasefire on grain ships - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1RncmU0SGgtRkJJQ3ZoOE45U3p6SzJ1dE1Kbm5SOFZtTXFWeWh2aEM0YlcyVmVwUDQwalVEMV83S1ZXd0JaZUktWlp2Z1pNT3M2ZWxmZGQyNWFmcU1UR3BucEt2ZGVJVk00c3lVTlB0Y2F1b3V0ZW1FdVd4T2l6WGlkQVJKRXh4MmVhdnh6blB0UnM2dnhCQk9UV1JNZEU5bUIyanRkZjJoOVpuQnNOaTlaU1pBRXdHZllJ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 06:38 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787564296,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Price of Bread - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yNjBEbEVHS2hPVGNlcTl6Q09jUkxrd0t1cWtwVFpvTTYzY214Zm5oYlljZzZwZFJ3TklTSjVNRFdiUFNJbzBFU01sTmRhaFo2clMzM1Q0eHhBQmR0dk1EckRuZ1pBcUVFVGRiS3RwY200ZlJMc0pVUFlWNXVxZw?oc=5",

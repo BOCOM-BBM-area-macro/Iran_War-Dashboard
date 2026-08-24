@@ -2064,6 +2064,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-23"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906373": {
+      "summary": "\"Any remaining tie to Tehran will hasten the economic ostracism of countries and entities, whether that tie be purposefully constructed or wilfully ignored.\"",
+      "tags": [
+        "sanctions",
+        "economy",
+        "iran and us",
+        "Iran nuclear",
+        "iran sanctions"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
+    },
+    "https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
+    },
+    "https://www.timesofisrael.com/iran-announces-new-natural-gas-discovery-as-war-and-us-sanctions-hamper-production/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-23"
     }
   },
   "last_digest_success": true,
@@ -2223,12 +2256,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-23T11:09:07.901258+00:00",
   "last_generated_date": "2026-08-23",
-  "last_generated_time": "2026-08-23T22:02:00.011922+00:00",
+  "last_generated_time": "2026-08-23T23:01:52.107933+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil falls ahead of US announcement on new Iran sanctions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 23, 2026 · 20:18 BRT",
+          "pub_date": "2026-08-23",
+          "pub_ts": 1787527080,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran Warns Gulf States Not to Join Trump’s Economic War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmRfbGVhX1Z3V082VjdoczdEYzhoVmluOGdzUGkyRlhEQXJMOGpqdXREU1JsQTRZQU9zdUV3VUpNUUNFck1jdGhNNld5MUxCaEk2eEduaWd4Mm5rakZkcWRoTVg2YmdUajN1WXJiYjduYnVjWkFyUHUzVnhob1lHRjcwWDM3clJ2UVk0?oc=5",

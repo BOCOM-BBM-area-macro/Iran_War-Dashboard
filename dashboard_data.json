@@ -2527,7 +2527,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-08-25/live-updates-906479": {
       "summary": "Netanyahu claims Iran tried to assassinate one of his sons • Infiltration scare in eastern Jordan Valley • Houthis warn against supporting sanctions on Iran",
@@ -2571,6 +2571,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.reuters.com/business/energy/six-months-into-iran-war-almost-half-global-oil-flows-war-zones-2026-08-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1": {
+      "summary": "Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
     }
   },
   "last_digest_success": true,
@@ -2734,6 +2774,62 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 02:05 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787634300,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Opinion | China Is the Iran War’s Unexpected Winner - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XTF80cHBYSHZfX05sbkFiUWdoR0g1QjR1RDhzWEVreUdQdHUzcTQzZzl3Y1MxODVNVF9KR3hJeEVic0tqRjhEZC1fMlRnc1J2R00wZWNfeHpqRlhtZFVqdkZmd0M3R09YOU9qcnBKaHZwazVXOS1uUkU4Zw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 02:00 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787634005,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 01:22 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787631729,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Steadies as US Plan Offers Little Clarity on Hormuz Deadlock - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR25BeUp0UzFVQkhBa1RmdVRyWVJPS1NzblNYVWFWR3pDeTYwMzhHeXptRER3bkNiX3BfdUdWeTMtMmU2ejVlOEFpbFFJRFBMazJWWXVaYWxRZEpLcGM1RzM3QkltTW92SFNWMFhJN0h2dzV1QXVHUHZUSWVKT1R1UDZmUE5IMUdPRmRpdUx1THl5S0FoX2VEQXFFVzJnZw?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 19:02 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787608951,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "5 ways Iran's economy is wilting under Trump's pressure - Axios",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veVZZOFdPSDlQQ09KZlJWaFpvY0VhNVBGc0d6QWFxVkxobjZVX3FhQmREYXdBU2RnNklOdGpZRjEzV1htdXZ2M1BMaHptNUZvS1dnZWo0TTNHUC1RMGM0Um5zM19NYkJyWG01Smd0Q0F1RVFuS3ZLcA?oc=5",
@@ -4387,6 +4483,20 @@
           "published": "Aug 25, 2026 · 01:00 BRT",
           "pub_date": "2026-08-25",
           "pub_ts": 1787630431,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "FirstFT: Iran war punishes US farmers - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSF9CaDd1cnVwOXVGMTBSWXlZbHZwRlFNRVdlbzVvdkdTZ3o5WVpZNnhSVWlJZ2xhTHB5NnJ1ZDVqU1dhRlRJTGtjRFl1UENZOGlnQ05RaHFMTzFILTlUZWJnbGExd0ZGVEktRkc1NW5rNnkyX24zd2dKbUxvamFHcnNLY0g?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 19:00 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787608806,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -2590,7 +2590,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
       "summary": "",
@@ -2803,6 +2803,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.jpost.com/international/article-906533": {
+      "summary": "Trump received warnings before attacking Iran from intelligence and senior officials that war could bring major casualties, regional attacks and nuclear risks accoridng to The Wall Street Journal.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Ayatollah Ali Khamenei",
+        "tulsi gabbard",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2968,7 +2981,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T17:01:46.395862+00:00",
+  "last_generated_time": "2026-08-25T18:01:53.870939+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3179,6 +3192,20 @@
           "published": "Aug 23, 2026 · 20:18 BRT",
           "pub_date": "2026-08-23",
           "pub_ts": 1787527080,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Declines With US Economic Isolation Plan for Iran in Focus - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmltZ0hIc2xaMkVWTWQ5bVpoSXRjTDRacWd3dzZ1Uk4zWWhhWldDR2RyWnozd0psWW5RN0c4VjgxWjBSUHJ6Q3BfanNTc0J5Xzg3RnZMVl9XRGJaalA1TVBjRkRxMGdqWllqc1ZkWVZPX0RqcU44clItVWNOQzZmMm80cF9KUDk2cHVVTzR5UTlvUmVqRTN4T0R0TnllQQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 23, 2026 · 19:03 BRT",
+          "pub_date": "2026-08-23",
+          "pub_ts": 1787522604,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

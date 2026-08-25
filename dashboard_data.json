@@ -2527,7 +2527,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-08-25/live-updates-906479": {
       "summary": "Netanyahu claims Iran tried to assassinate one of his sons • Infiltration scare in eastern Jordan Valley • Houthis warn against supporting sanctions on Iran",
@@ -2713,6 +2713,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.wsj.com/world/middle-east/new-tanker-strike-in-hormuz-as-iran-vows-retaliation-for-u-s-economic-offensive-6f1a1f54": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.ft.com/content/aa7ba671-8175-4b53-b6a5-28803a851493?syn-25a6b1a6=1": {
+      "summary": "Beijing says it will take ‘all necessary measures’ if Washington expands crackdown on business with Tehran",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2878,7 +2908,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T10:01:51.972760+00:00",
+  "last_generated_time": "2026-08-25T11:02:14.034683+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4654,6 +4684,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Scott Bessent fires warning shot at Iran’s economic partners - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWFTYmlPa3ZKemEzc3l6UUNqV3FFVXJoNkJ5N0JCMkVVaXphWWpxX0FRbWRHN1RnZ05fYWoxUkNfRVpLWjdMYnBFblhkNUFVdGp1cVJicWdzZ3NZLTAyamZNWmMzTndacGhIMnJ5cUhpNGlITjgtQllYSmx1aWRGX1N6dy0?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 10:00 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787662829,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Farmers say they face a new crisis as Trump’s tariffs, Iran war raise costs - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGtrem1FenhCX2t4TC0teU41NTBtd3hHTGpDYzBwM05fRVdYZUxQdlJZTnoxVU1rYzBiYnEtNmdvMDRmdmJfeUNvVmtXQ0J3YVU4X25NdXpEVmItNVMyREdYcXJnamxqNC1vZTc1eHB1M0FfOTZaeldzMVZFazFGZ01wd25KR0xwdnlhOWRfblRaQ1BvSjl3T3d2cjdWOGsyZTA2c1d5OFo3dXRkOGp1aDJ5X2duQVF4cG1lcA?oc=5",

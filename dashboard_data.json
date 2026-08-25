@@ -2517,7 +2517,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.reuters.com/business/energy/oil-prices-steady-investors-weigh-impact-expanded-us-sanctions-against-iran-2026-08-25/": {
       "summary": "",
@@ -2590,7 +2590,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-24"
     },
     "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
       "summary": "",
@@ -2621,6 +2621,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-25/daybreak-europe-8-25-2026-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-24"
     }
   },
   "last_digest_success": true,
@@ -2821,6 +2831,20 @@
           "published": "Aug 25, 2026 · 01:22 BRT",
           "pub_date": "2026-08-25",
           "pub_ts": 1787631729,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump Live Updates: Bessent Unveils New 'Economic D-Day' Sanctions Against Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 01:04 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787630674,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

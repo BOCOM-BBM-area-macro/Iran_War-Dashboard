@@ -2454,7 +2454,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-24"
     },
     "https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html": {
       "summary": "",
@@ -2630,7 +2630,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-24"
     },
     "https://www.reuters.com/world/middle-east/us-prepares-send-diplomats-back-middle-east-embassies-after-iran-war-evacuations-2026-08-25/": {
       "summary": "",
@@ -2671,71 +2671,94 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.washingtonpost.com/business/2026/08/25/farmers-say-they-face-new-crisis-trumps-tariffs-iran-war-raise-costs/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906517": {
+      "summary": "Foreign Service officers could begin returning to their posts as early as this week, according to the report.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Middle East",
+        "US Embassy"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-24T11:09:55.140821+00:00",
+  "last_digest_time": "2026-08-25T11:11:13.708037+00:00",
   "digest": {
-    "digest": "The United States is intensifying its economic pressure on Iran, with Treasury Secretary Scott Bessent indicating an 'endgame' to sever economic lifelines and warning countries against maintaining ties with Tehran. This strategy is characterized as an 'economic D-Day' for Iran, aiming to isolate it economically. In response to these escalating tensions, the US has cancelled joint marine drills with South Korea, citing force constraints related to the Iran war. Concurrently, oil prices have seen a decline as the US prepares to unveil new sanctions, impacting global energy markets. Despite the external pressures, Iran has announced a new natural gas discovery, though production is reportedly hampered by the ongoing war and US sanctions. Bangladesh is seeking additional LNG cargoes as the situation continues to affect energy supplies. China has stated its commitment to engaging in talks with Iran amidst rising tensions. Pakistan is set to mediate discussions in Iran concerning the US economic measures. The Iranian government perceives internal gatherings of young people as threats to its authority, indicating domestic challenges alongside international pressures.",
+    "digest": "The United States is preparing to redeploy diplomats to Middle East embassies evacuated due to the Iran war, signaling a potential shift in diplomatic security posture. This move comes as the US imposes new sanctions aimed at Iran's economy, specifically targeting its petroleum exports, with officials not ruling out further military actions. Concurrently, the US has unveiled a sanctions plan designed to cripple Iran's economy, though the most stringent measures have been delayed. These sanctions, coupled with existing tariffs, are exacerbating a crisis for US grain farmers, leading to spiraling costs. The global oil market has shown resilience, with prices falling despite new sanctions, indicating investor confidence in alternative supplies or a belief that the sanctions' impact is already priced in. The war's impact on global oil flows remains significant, with nearly half of these flows originating from war zones six months into the conflict. China's energy strategy is noted as benefiting from the ongoing conflict. Pakistan and Iran have reported significant progress in bilateral talks concerning regional conflict resolution. The US naval blockade remains in effect, with no scheduled negotiations with Iran.",
     "top_themes": [
-      "US Economic Sanctions on Iran",
-      "Iran's Energy Sector",
-      "International Diplomacy and Iran",
-      "Military Readiness and Iran Tensions"
+      "US Diplomatic Redeployment",
+      "Economic Sanctions on Iran",
+      "Global Oil Market Impact",
+      "US-China Relations",
+      "Agricultural Sector Strain"
     ],
     "next_events": [
       {
-        "title": "Intensified US Economic 'Endgame' Against Iran",
-        "description": "The US is signaling an 'economic D-Day' to sever Iran's remaining economic lifelines, with new sanctions expected. Analysts should watch for the specific details of these new sanctions, their immediate impact on Iran's economy and currency, and how other nations with ties to Tehran react to the increased pressure."
+        "title": "US Diplomatic Re-engagement in the Middle East",
+        "description": "The US is preparing to return diplomats to Middle East embassies after evacuations during the Iran war. This move signals a potential shift in Washington's diplomatic security posture and could indicate a phase of stabilization or renewed diplomatic efforts in the region. Analysts should monitor the pace and scope of these returns, as well as any accompanying policy statements, to gauge the US's long-term strategy for regional engagement and de-escalation."
       },
       {
-        "title": "Iran's Economic Resilience and Retaliatory Measures",
-        "description": "Facing severe economic pressure and sanctions, Iran has announced new gas discoveries and warned Gulf states against joining the US 'economic war.' Monitor how Iran leverages its energy resources, implements any retaliatory economic actions, and how regional states respond to these warnings, which could indicate shifts in regional alliances."
+        "title": "Escalation of US Economic Sanctions on Iran",
+        "description": "The US continues to widen sanctions against Iran, with warnings of an 'Economic D-Day' and plans to cripple Iran's economy. Analysts must watch the implementation of these new sanctions, their impact on Iran's economic stability, and any potential 'toughest blows' that may have been delayed. The effectiveness of these measures in altering Iran's behavior and the risk of regional military escalation as a direct consequence of economic pressure are critical points of observation."
       },
       {
-        "title": "International Diplomatic Interventions and Mediation",
-        "description": "China is 'actively committed' to talks, and Pakistan is mediating on the US 'economic D-Day' with Iran. Observe the progress and outcomes of these diplomatic efforts, as well as any new multilateral initiatives, to gauge the potential for de-escalation or a negotiated resolution to the escalating tensions."
+        "title": "Iran's Retaliation to Widened Sanctions",
+        "description": "Following the US's expansion of sanctions, Iran has vowed to retaliate. This creates a significant risk of further destabilization in the region. Analysts should closely monitor any statements or actions from Tehran, including potential military responses, cyberattacks, or proxy actions, to understand the nature and timing of their promised retaliation and its implications for regional security."
       },
       {
-        "title": "Shifts in US Military Posture and Regional Readiness",
-        "description": "The US has canceled joint marine drills with South Korea, citing 'Iran war-related force constraints,' indicating a reallocation of military resources. Track any further redeployments or cancellations of US military exercises globally, as these actions will signal the US's strategic focus and readiness for potential contingencies in the Middle East."
+        "title": "China's Role in Iran's Economy and US-China Tensions",
+        "description": "China's energy strategy appears to be working amidst the Iran war, and its cooperation is crucial for the US's attempt to strangle Iran's economy. The Bessent sanctions plan also threatens to exacerbate US-China tensions. Observers should track China's continued engagement with Iran, particularly regarding oil trade, and how this dynamic impacts the broader US-China relationship and the efficacy of sanctions."
       },
       {
-        "title": "Internal Stability and Potential Dissent in Iran",
-        "description": "Reports highlight the Iranian government's concern over youth gatherings as 'threats to its authority' amidst economic hardship. Watch for any signs of increased internal unrest, protests, or government crackdowns, as domestic instability could significantly influence the regime's decision-making and its approach to the ongoing conflict."
+        "title": "Global Energy Market Volatility",
+        "description": "Six months into the Iran war, nearly half of global oil flows originate from war zones, and the conflict is making alternative energy projects like Tanzania LNG more attractive. Despite this, oil prices recently hit a one-week low as investors seemingly shrugged off new US sanctions. Analysts need to monitor the stability of global oil supplies, the impact of the war on energy prices, and the development of alternative energy sources and routes, especially concerning the Strait of Hormuz."
+      },
+      {
+        "title": "Domestic US Economic and Political Fallout",
+        "description": "The Iran war, combined with other factors like tariffs, is causing a severe crisis for US grain farmers, sending costs spiraling and adding strain ahead of midterm elections. Concurrently, US public support for the war is falling, and Trump's approval remains low. Analysts should assess the ongoing economic impact on key US sectors, the evolving public opinion on the conflict, and how these domestic pressures might influence US foreign policy decisions regarding Iran."
+      },
+      {
+        "title": "Regional Diplomatic Initiatives",
+        "description": "Pakistan and Iran have reported 'significant progress' in talks regarding the conflict. This indicates ongoing regional diplomatic efforts to address the situation. Analysts should closely watch for further developments in these and other regional dialogues, as they could offer pathways for de-escalation, reshape regional alliances, or introduce new dynamics to the conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-24T11:10:24.611840+00:00",
+  "last_watch_time": "2026-08-25T11:11:36.845910+00:00",
   "relevant_news": [
     {
-      "title": "Scott Bessent: an economic D-Day is coming for Iran - Financial Times",
-      "url": "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Aug 23, 2026 · 18:30 BRT",
-      "pub_date": "2026-08-23",
-      "pub_ts": 1787520601,
-      "summary": "Countries that calculate appeasement of the regime to be a safer choice should reconsider",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-2026-08-24/",
+      "title": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-prepares-send-diplomats-back-middle-east-embassies-after-iran-war-evacuations-2026-08-25/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 24, 2026 · 02:52 BRT",
-      "pub_date": "2026-08-24",
-      "pub_ts": 1787550720,
+      "published": "Aug 25, 2026 · 06:49 BRT",
+      "pub_date": "2026-08-25",
+      "pub_ts": 1787651343,
       "summary": "",
       "tags": [
         "extracted",
@@ -2747,14 +2770,52 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
+      "title": "Iran vows to retaliate after US widens sanctions - Reuters",
+      "url": "https://www.reuters.com/world/china/iran-vows-retaliate-after-us-widens-sanctions-2026-08-25/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 25, 2026 · 06:33 BRT",
+      "pub_date": "2026-08-25",
+      "pub_ts": 1787650404,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+      "url": "https://www.reuters.com/world/us/trumps-approval-holds-record-low-us-support-iran-war-falls-reuters-ipsos-poll-2026-08-24/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 24, 2026 · 16:06 BRT",
+      "pub_date": "2026-08-24",
+      "pub_ts": 1787598360,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 24, 2026 · 07:15 BRT",
-      "pub_date": "2026-08-24",
-      "pub_ts": 1787566511,
+      "published": "Aug 25, 2026 · 06:46 BRT",
+      "pub_date": "2026-08-25",
+      "pub_ts": 1787651201,
       "summary": "",
       "tags": [
         "extracted",
@@ -2766,35 +2827,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Treasury Secretary Bessent says US entering 'endgame' with Iran, will sever economic lifelines - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-906373",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Aug 23, 2026 · 21:45 BRT",
-      "pub_date": "2026-08-23",
-      "pub_ts": 1787532328,
-      "summary": "\"Any remaining tie to Tehran will hasten the economic ostracism of countries and entities, whether that tie be purposefully constructed or wilfully ignored.\"",
+      "title": "Bessent unveils sweeping new Iran sanctions but delays toughest blow - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/08/24/bessent-unveil-economic-d-day-sanctions-against-iran/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Aug 25, 2026 · 02:22 BRT",
+      "pub_date": "2026-08-25",
+      "pub_ts": 1787635325,
+      "summary": "",
       "tags": [
-        "sanctions",
-        "economy",
-        "iran and us",
-        "Iran nuclear",
-        "iran sanctions"
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "US Set to Unveil Fresh Iran Sanctions as Rial Hits Record Low - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-set-to-unveil-fresh-iran-sanctions-as-rial-hits-record-low",
-      "source": "Bloomberg.com",
+      "title": "Watch Iran War: Bessent Sanctions Plan Threatens US-China Tensions | Daybreak Europe 8/25/2026 - Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-25/daybreak-europe-8-25-2026-video",
+      "source": "Bloomberg",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 24, 2026 · 06:59 BRT",
+      "published": "Aug 24, 2026 · 21:00 BRT",
       "pub_date": "2026-08-24",
-      "pub_ts": 1787565590,
+      "pub_ts": 1787616000,
       "summary": "",
       "tags": [
         "extracted",
@@ -2804,31 +2863,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 23, 2026 · 06:00 BRT",
-      "pub_date": "2026-08-23",
-      "pub_ts": 1787475619,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-24T11:10:25.172350+00:00",
-  "last_generated_date": "2026-08-24",
-  "last_generated_time": "2026-08-24T23:01:47.555248+00:00",
+  "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
+  "last_generated_date": "2026-08-25",
+  "last_generated_time": "2026-08-25T08:01:51.897101+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4591,6 +4631,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "Farmers say they face a new crisis as Trump’s tariffs, Iran war raise costs - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGtrem1FenhCX2t4TC0teU41NTBtd3hHTGpDYzBwM05fRVdYZUxQdlJZTnoxVU1rYzBiYnEtNmdvMDRmdmJfeUNvVmtXQ0J3YVU4X25NdXpEVmItNVMyREdYcXJnamxqNC1vZTc1eHB1M0FfOTZaeldzMVZFazFGZ01wd25KR0xwdnlhOWRfblRaQ1BvSjl3T3d2cjdWOGsyZTA2c1d5OFo3dXRkOGp1aDJ5X2duQVF4cG1lcA?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 07:05 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787652315,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "US grain farmers face worst crisis in decades as Iran war sends costs spiralling - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2JQdjFSOVluWVFDdDZLSzd2dV9WVjFHTHA2cV9lX3Fhc3ItdVVFTzJEaDdaVEZCS2ltSEZUYTkwV1RRRDNPbzBBOHB1ZHpNS1Y4SlNuZlZ2cmd2TnFJbFFkUkszelNRdDRkbzAtU2pTVVFINnBteG1XemFYVjNLRlJ6elo?oc=5",
           "source": "Financial Times",
@@ -4689,6 +4743,20 @@
           "_rank": 0
         },
         {
+          "title": "Iran eyes military targets in Europe if Donald Trump escalates war, insiders say - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1JZN1RkZ0VhaTk1MXZsMlZlOW1iNUFvc2tYb2tmcjRhZWRLT3J1azE4VHNhLTNKQ0ZMck1NcktQc3FNcGtJekdwZUJlRUl3WFN1cXFtN05YLVJ0RjlpRGlRYnRESVlPdzZTU1pTeUI2TkhlWlBFcmhyX0dDajNncEtrMlg?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 19, 2026 · 01:01 BRT",
+          "pub_date": "2026-08-19",
+          "pub_ts": 1787112079,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
           "source": "Reuters",
@@ -4740,6 +4808,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "US preparing to send diplomats back to Middle East embassies after Iran war evacuations - report - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Rkt4ME5hR2I5VUxReXdlTjNyWW9DendTSERiUm5YdkkyTF9GV0ZicVhSbjZVZ01jTmd0UmFYWC1JX0RTNVI1a01EZmI4b1RMQmpndURTY3RyMnZkYUR1bVFZT2w4UGtiR0E?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 06:58 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787651922,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US support for Iran war falls to 31% as Trump approval remains at record low- poll - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EVWUyRFlJTGotUWQyUER3VWx0WFRPOFVqUGFuTHppRE1RZUJNS3hTYWpCTUZVYlJJYXJaSk00SWszRGlxN3lGQjVZTjV5TXNnc0ZORlBuZEtpVENsNE1aYWZYMlM?oc=5",

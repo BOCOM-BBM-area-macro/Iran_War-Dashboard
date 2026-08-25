@@ -2342,7 +2342,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html": {
       "summary": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy.  One Iranian official vowed that “not a single drop of oil” would leave the gulf.",
@@ -2517,7 +2517,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-24"
     },
     "https://www.reuters.com/business/energy/oil-prices-steady-investors-weigh-impact-expanded-us-sanctions-against-iran-2026-08-25/": {
       "summary": "",
@@ -2703,6 +2703,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.wsj.com/finance/stocks/u-s-futures-higher-yields-steady-after-bessent-iran-speech-573e9dd6": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2868,7 +2878,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T08:01:51.897101+00:00",
+  "last_generated_time": "2026-08-25T09:02:02.869943+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3009,6 +3019,20 @@
           "published": "Aug 24, 2026 · 12:56 BRT",
           "pub_date": "2026-08-24",
           "pub_ts": 1787586979,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 10:31 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787578313,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -4639,6 +4663,20 @@
           "published": "Aug 25, 2026 · 07:05 BRT",
           "pub_date": "2026-08-25",
           "pub_ts": 1787652315,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China warns US it could retaliate over Iran sanctions - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeE9vVDVrbmZ4ZTFWOHNpc0UtY0VDTWd0TUhJbFhqN3JOcEZxWTN6ZDhyZ2xxd3J6bVh3S05adUtiYlJIN2dWdGh0Y3JwRlQzbHI3SEJEakwzM1FJOWZjLVF6aFNuc3A5RE1JbTVNTVQyUTlqbldPRVM0dm9sby0zckt6blY?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 06:27 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787650057,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

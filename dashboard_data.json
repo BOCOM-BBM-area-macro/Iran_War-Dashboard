@@ -1764,7 +1764,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-22"
     },
     "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/": {
       "summary": "",
@@ -2454,7 +2454,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html": {
       "summary": "",
@@ -2773,6 +2773,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/25/scott-bessent-is-right-about-iran-attack-economy/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2938,7 +2948,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T13:02:09.988214+00:00",
+  "last_generated_time": "2026-08-25T14:02:04.586174+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4265,6 +4275,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Looking for an energy shock? It's in diesel - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1udXlZZXhJZllxNXBYdUtzX0VudWJCdFdyOGtVLS1aQ3JibWs3NDBSZGVNRVJKbnFFMjJIXzVOb2RzWXhFRmhCbENDWndUYnZvYkdOVEROZUZZdlFIcmVHeWFwMk16Q2s?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 08:14 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787570047,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZfOUdEQkQ5dzdFU0VtOHNtSFNVcXlLWHdiSWpRQXprbS1WVldJalFEUWVuZ0pJakZ6ZGcwTDdwUVFWZVgyMUxvWjBvWlpVbGN4Qk1pM3pZckJNNXNtejFCU09zNGRtR3NsSTVtMTllZTJCZDlLdlI3TVY2b2g0bm1SZFA?oc=5",

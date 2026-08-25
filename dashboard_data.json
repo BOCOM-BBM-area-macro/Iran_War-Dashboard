@@ -2816,6 +2816,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.axios.com/2026/08/25/rubio-iran-war-hormuz-oil": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2981,12 +2991,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T18:01:53.870939+00:00",
+  "last_generated_time": "2026-08-25T19:01:59.780439+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncnpsVHhadTQwc3Z0ZGlDX0RIZ0dOY3U2WWtyYU93TDcycXY2eW9POHFCcEpna0h2Y1MyZlM2MnNkVVpBelB3QVFuUDF6U3NiRlNXNG1NT0d6ZVFpYm95QnBLNnREWDFjYVE?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 18:32 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787693540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVRRRXpGLTQzSUFSbHE2c1c0RGxGTGRhOWpneHlwRTI5WlBDQWY1UWJBOWFITHFyZkxGQ2xGYzkxT1ZZLWtCM0ZRbVhncEUyeTM3aG05Y0gtekpwNE1vdjdkNjNUc1BiOUw1cDljM1gtX0p3Yi16elh6UTNYeGJlNXRiVlZRU0diWnlnVkVOVnVuY2JITnNKVHgzRnJGVzRsTW5jRXNB?oc=5",
@@ -5005,6 +5029,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Ontario’s Ford Stops Insults But Backs Retaliation Against Trump - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmNWS2hLZnBHNGhhdEE1SWwtZm40Ujl3Z1pnTjZodjd3RlZhOUF4N1h1Tjg1bE1vQ3FicWkxTWFNRTNtV1htZW1ROXpVZW1hSlA5NG1BdjlsUXVrY3hnUERlekZqQ2lEbHh1VFMyQTEtWDFGS1ZBM2tKWjFCNzkyaXRfSm9RdkdpSU1uRUg0WU8tbEhGcUw1aXBuc0M0UEZBNElpN2xral9BQUpWZ1U0UjZTS2pRZ1hiN2haYjdILVJuN0RMS3BoOXNn?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 17:08 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787688489,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US preparing to send diplomats back to Middle East embassies after Iran war evacuations - report - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Rkt4ME5hR2I5VUxReXdlTjNyWW9DendTSERiUm5YdkkyTF9GV0ZicVhSbjZVZ01jTmd0UmFYWC1JX0RTNVI1a01EZmI4b1RMQmpndURTY3RyMnZkYUR1bVFZT2w4UGtiR0E?oc=5",

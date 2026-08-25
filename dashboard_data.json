@@ -2590,7 +2590,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-24"
     },
     "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
       "summary": "",
@@ -2783,6 +2783,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a?syn-25a6b1a6=1": {
+      "summary": "The US cannot fully isolate Tehran unless other trade partners co-operate",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.washingtonpost.com/world/2026/08/25/us-is-escalating-its-economic-war-iran-heres-what-that-means/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2948,7 +2968,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T15:01:54.555395+00:00",
+  "last_generated_time": "2026-08-25T16:02:02.770812+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

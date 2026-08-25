@@ -2454,7 +2454,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html": {
       "summary": "",
@@ -2590,7 +2590,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
       "summary": "",
@@ -2630,7 +2630,47 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
+    },
+    "https://www.reuters.com/world/middle-east/us-prepares-send-diplomats-back-middle-east-embassies-after-iran-war-evacuations-2026-08-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.reuters.com/business/energy/equinor-hopes-make-pretty-big-namibia-oil-discovery-2026-08-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-25/trump-s-iran-pivot-from-war-to-sanctions-will-hit-china-or-fail": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2794,6 +2834,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVRRRXpGLTQzSUFSbHE2c1c0RGxGTGRhOWpneHlwRTI5WlBDQWY1UWJBOWFITHFyZkxGQ2xGYzkxT1ZZLWtCM0ZRbVhncEUyeTM3aG05Y0gtekpwNE1vdjdkNjNUc1BiOUw1cDljM1gtX0p3Yi16elh6UTNYeGJlNXRiVlZRU0diWnlnVkVOVnVuY2JITnNKVHgzRnJGVzRsTW5jRXNB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 06:08 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787648935,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
@@ -4303,6 +4357,20 @@
           "_rank": 0
         },
         {
+          "title": "Bundesbank Sees No Second-Round Effects From Iran War Via Wages - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORS1sMHh6UnF2ME9uNFpFTHFqUDFZZGtGbjR0RlZhZDdIc3dZMkkyQjJ4MEtiZzAzV1c2c2lGVUlpTEJhMXEtRVl3eUlLblBfUnhzdXNrR3pGSFRWY1hXUGoyc0lKUTN5QmxtZEpzTzMwNnBlaTVDVG9qRFBHN1Z2dlZfUjFCSFlaem9YbGVxMFI0MXlTTXpUN2U4S3E4V1p0S1BiR0xBN2ZYc3pUNDlwZlNIeXA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 20, 2026 · 07:00 BRT",
+          "pub_date": "2026-08-20",
+          "pub_ts": 1787220000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "European Gas Jumps to Five-Month High as Iran Peace Hopes Fade - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNm1HSUM3czFBOG5RT19nSkhiUy1NUGZyRG85WU5neWZBdF9uQk9lTjhiY0M1alJhbVh1eWx0NWI3cTc2VVRMbTdubEE0M1NwdkdsTzVXY1E3bVB6aGhsWlREZkFsYUt3SDFMMGZoVFBSSVVQeE9jQ0F6alhsOXZueGZiNlZtdi1rbjZCZFpxODYwVFI0eE9MRXUzRXUwTjVhRUpKMlUxbEU1VUFYYTZ2N3JwQ3JFQQ?oc=5",
           "source": "Bloomberg.com",
@@ -4681,6 +4749,20 @@
           "published": "Aug 24, 2026 · 16:48 BRT",
           "pub_date": "2026-08-24",
           "pub_ts": 1787600915,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kNEdUVUVfc3ZCRkZEcDJhQmVSdUt4Z0U2anZEM0hUcWFUUDhEMDR3a0k2Vi1fdlJyS1RTQUpBbGs3dDViWFhmWFVkclZyUUJxa1I0ZGNyWFlCV3J5aFZR?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 16:24 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787599481,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

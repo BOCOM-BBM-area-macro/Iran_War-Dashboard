@@ -2527,7 +2527,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-24"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-08-25/live-updates-906479": {
       "summary": "Netanyahu claims Iran tried to assassinate one of his sons • Infiltration scare in eastern Jordan Valley • Houthis warn against supporting sanctions on Iran",
@@ -2611,6 +2611,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-24"
+    },
+    "https://www.nytimes.com/live/2026/08/24/us/trump-news-iran-economy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -2811,6 +2821,20 @@
           "published": "Aug 25, 2026 · 01:22 BRT",
           "pub_date": "2026-08-25",
           "pub_ts": 1787631729,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran vows to retaliate after US widens sanctions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 21:57 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787619420,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

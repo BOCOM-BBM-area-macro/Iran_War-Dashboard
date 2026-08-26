@@ -1891,7 +1891,7 @@
       "pub_date": "2026-08-23"
     },
     "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html": {
-      "summary": "",
+      "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2590,7 +2590,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
       "summary": "",
@@ -2653,7 +2653,7 @@
       "pub_date": "2026-08-25"
     },
     "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html": {
-      "summary": "",
+      "summary": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2836,6 +2836,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.reuters.com/business/media-telecom/us-secret-service-aware-iranian-video-threat-against-barron-trump-2026-08-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906594": {
+      "summary": "From the Strait of Hormuz to sanctions and diplomacy, the US-Iran conflict is broadening into a struggle that is reshaping regional security and the global balance of power.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Washington",
+        "Tehran",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -3001,12 +3034,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T20:01:44.752862+00:00",
+  "last_generated_time": "2026-08-25T21:01:58.258486+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Extends Declines as Iran, Oman Push Talks to Reopen Hormuz - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmJBTWNiQ3dYenVuN0xheFdVR0lMSElWbDkySEdCc0VBOF9tSjd6SFdHeU1HVkRBMHpaT19lQzBCdWZvR2Y3aGxTcVJpX0I0eGpFaURXV0NFbWdyc1hKdDlDcVRjRVg0bGtXXzV0T2lhVTlORGkxWmloemhTOUhiNWtNSGxoLUVyaHo0QXhRQlN3Zi1VWFJuekdmb2hYQQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 19:06 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787695581,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran - Axios",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncnpsVHhadTQwc3Z0ZGlDX0RIZ0dOY3U2WWtyYU93TDcycXY2eW9POHFCcEpna0h2Y1MyZlM2MnNkVVpBelB3QVFuUDF6U3NiRlNXNG1NT0d6ZVFpYm95QnBLNnREWDFjYVE?oc=5",

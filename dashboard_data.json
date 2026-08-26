@@ -2982,6 +2982,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906643": {
+      "summary": "Despite the apparent success of the US’s blockade and sanctions campaign, Iranian officials have repeatedly expressed that they would not falter in maintaining control over the Strait of Hormuz.",
+      "tags": [
+        "Barack Obama",
+        "Nuclear",
+        "economy",
+        "iran iraq",
+        "iranian economy"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/cnooc-first-half-profit-rises-after-iran-war-boosted-oil-prices": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/cnooc-first-half-profit-rises-after-iran-war-boosted-oil-prices?srnd=homepage-americas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
     }
   },
   "last_digest_success": true,
@@ -3138,15 +3171,43 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-26T11:09:38.609171+00:00",
   "last_generated_date": "2026-08-26",
-  "last_generated_time": "2026-08-26T08:01:42.793844+00:00",
+  "last_generated_time": "2026-08-26T09:02:14.652859+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
         {
+          "title": "Cnooc’s 1H Profit Rises After Iran War Boosted Oil Prices - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeC15VDhzaU1idm91bGpTZ0gxalV6ZlBiS1d3X3Vqdjh3Vk8yNEVNakRwM0plRkUtWGNRX3lMSVRuVENDa2lLTWxST2RYQ3VNX3U0SFBHX215LTRKOHg2VUxjUV8yVlJyaVoweVlPMFhjbDFPTUZiWVhEQXo2N3QxZUJyZlhIQWJha3lmOHVHR0VQS183VnBFUThvS1FWVW5nX1dpYkV4c0RqZDZtZ09Nb2NLTlA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 06:20 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787736012,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Cnooc First-Half Profit Rises After Iran War Boosted Oil Prices - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNVJuMkJxQWVlRzdhNFVNaFUxM3RYZDBuVC1uaVFWNEhCNmF0bW8zbWZrMmV3ejhCSUdtbXF5SlZNRlNiMC1KbmJPRUJlNFNDYXhGclVoX1c3bjJlbGZSbHItQUphcU0xLXJBQlZ1aXl0OVZQSk9QWEhHeW4yTG9aUDFBUmNrZ1huSWZvNC04SU1OZ29PSW9wcExXWWVaX3JTMlNUTWxSdm5UMDJqN0hHaWs0Y3pHSkdDbWstb0gwblk?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 06:07 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787735274,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Cnooc First-Half Profit Rises After Iran War Boosted Oil Prices - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTUNEYkFBN2RHLTd3ZkIyaWVwQm9BSUV6aUsxWXV4OGxWbWhJZ0FaM2VUdjJOU1FjT3NUXzZoWWpFOHhSWjdqSm5VdnhiVkRqWnlnaUVqbzZoMEVnRTJfbHY1UEFXcUViMmowM0doTVlYWldMOVhrVjk3QlcxVDhxdTRCWEo0aXUxVWNOQVAyTTZTbEphMjJWUkFvNFB6M0dLb0JzSWNuNF9saGl4SjRKeUc3MUNnZE0xTUpXVEFpckVCQ2FPb2lWc19hM1VfVEpDcEpB?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

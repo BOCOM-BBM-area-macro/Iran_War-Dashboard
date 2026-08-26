@@ -1764,7 +1764,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-22"
     },
     "https://www.reuters.com/business/energy/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz-2026-08-22/": {
       "summary": "",
@@ -2899,6 +2899,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.reuters.com/business/energy/war-strands-qatari-gas-6-months-us-sales-rise-european-stocks-plummet-2026-08-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
     }
   },
   "last_digest_success": true,
@@ -4620,6 +4630,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 02:03 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787720580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US Natural Gas Drops With Oil on Effects of Iran Pressure Plan - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW00N1Z6NURQcERqNTNIWlJUUzdFMlZFRWlxM0NUWUIwNDJBbGtac1MtMklqblh0UThyNTRPeV9ycXFZT1hKOGxXVXdtcHNKdV9kdkw0S1FOQlRpaUJYZzNRZ0JLWi1YRm9pMXhoQjB6M3NwUjE5VGpWV0x5ME1LRVQtalZLMHpQNWlZR2VQYnV3SnBnNkl4NUlWOGN1dTNvY1pjVjZuVTJFY2NiSkFVTGgzaw?oc=5",

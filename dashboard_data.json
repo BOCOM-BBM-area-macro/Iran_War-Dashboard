@@ -2825,7 +2825,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-26"
+      "pub_date": "2026-08-25"
     },
     "https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/": {
       "summary": "",
@@ -3045,6 +3045,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-26"
+    },
+    "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-in-second-quarter-but-recovery-builds-through-june-1fd76fee": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
     }
   },
   "last_digest_success": true,
@@ -3201,7 +3211,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-26T11:09:38.609171+00:00",
   "last_generated_date": "2026-08-26",
-  "last_generated_time": "2026-08-26T12:02:05.721828+00:00",
+  "last_generated_time": "2026-08-26T13:22:22.441665+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5449,6 +5459,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Dubai Airport Says Passenger Traffic Slumps 31% on Iran War - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1d1eWI2c1B4TEFDTWJQY1hBZVR0WFdiVWJZaTVGQ0NGZkxpNnNsMlpIcEFfMEpUeTNqTnZNNlc1a2lMSEdpRmdtRUJXTXllTjNDemtyRndIb2xhSTVUX2Mwb1MxVVViNU5tRFhsaFZ0SURNZlpmc1BaNzhWUDFCbTZJSWVGbHMtTE5UVzZWdFVFekhFQTc4dWJKcXJ4V0JHeUFERFgzeW0ycVhLN0pjd0dNSml1NEUxUWlvc2RB?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 03:35 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787726100,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Canada announces retaliatory tariffs on U.S. products as trade war deepens - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN29kZkg1Q05EQ09rTHRnWHI1R3h0RlJXWW91ZjVRZTYwdzB2dEJkQlNuZmswRzFXNVFuNTJNZkNSZ3BkdVl3eGRxRkdGeXN1MEF2SE5NcTF6UnRsS1FaeTk1aVJmZndvQkxRZElXejNPLWZvQ1BTVWNzRC1Kc1MyVThqYWJXeFFNSmJTekEyUXNDbGJ5X21seGxxQlplcXBqVVFXR29ZSm55d1RhMUZj?oc=5",

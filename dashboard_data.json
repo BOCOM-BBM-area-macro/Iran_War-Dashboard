@@ -2825,7 +2825,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-26"
     },
     "https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/": {
       "summary": "",
@@ -2901,6 +2901,36 @@
       "pub_date": "2026-08-25"
     },
     "https://www.reuters.com/business/energy/war-strands-qatari-gas-6-months-us-sales-rise-european-stocks-plummet-2026-08-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/us-iran-war-sinks-into-energy-trench-warfare-six-months-2026-08-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.reuters.com/business/energy/uks-ofgem-raise-energy-price-cap-by-4-iran-war-drives-gas-prices-up-2026-08-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.reuters.com/business/energy/some-oil-companies-avoid-ships-iran-blacklist-sources-say-2026-08-26/": {
       "summary": "",
       "tags": [
         "extracted",
@@ -3081,6 +3111,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "US-Iran war sinks into energy trench warfare six months on - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 03:00 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787724000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "The U.S. is escalating its economic war on Iran. Here’s what that means. - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeFhyNjFOLW5mSzZtUWJNYTRoUEFlQjU0MlY2RVQyOXgzREtXdDJERWdNc2xHWUVvajFYb0RtcVRJTENUQ2QtMlB0cGhIWndIanBNVmVTZExUUU5yUTduMmNfNzZRWXFNb093UlJUTVYzYWlud3V1LWhnNlIyVTFKaUx3Z0x4RDlNN0tTNDd2Y3hEanp2Q29KcmhLaElURzRxLUx1aEIxQk9hZ042NGc?oc=5",
           "source": "The Washington Post",
@@ -3131,6 +3175,34 @@
           "published": "Aug 25, 2026 · 15:28 BRT",
           "pub_date": "2026-08-25",
           "pub_ts": 1787682520,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iraq may show how U.S. can squeeze Iran's trade partners - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 12:08 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787670480,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China Pushes Back After Trump Tightens the Screws on Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02d0FKSFllRjgtb3lWTnR0NjZ0RU56OFVSQ1RINGZKWUNtelRyQ1prNTFydnVUSWRUekxpOG5YdmlkOFdMOXVsdVF1eEVOc2FOY0tIT2w2ZXFpb21fQVBQUktIMWkxT19UTV9MTUdmUHZjVWVhRE5DUzJB?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 11:59 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787669979,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -4630,6 +4702,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "British energy price cap to rise 4% as Iran war pushes up costs - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlZZZUthczBuQ2FsOEZnMEhWQ0ZhMUh1ajdxc1R0c1ZzUWhtWjlDckRqUFNLRXBscjV0RDltV0RMSEJjbWpyWk4ySlV2TEhFdTFPUTgyY1d1aV8taTdtS21rUHpWanJvSDc5V1UtZ2J4TmZIdG5HMVhVZWpQUnlCeTlLQ0M5WFhjU1BkTDBNUkJKQlRJckxzRTdSN1B2bjRSNVFMMktvQkMyeF9IT1kya2FnZXd6a1N3REpv?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 03:09 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787724540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",

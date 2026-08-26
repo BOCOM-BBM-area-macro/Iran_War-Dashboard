@@ -2590,7 +2590,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-24"
     },
     "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
       "summary": "",
@@ -2848,7 +2848,7 @@
       "pub_date": "2026-08-25"
     },
     "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html": {
-      "summary": "",
+      "summary": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3044,7 +3044,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T22:02:19.980102+00:00",
+  "last_generated_time": "2026-08-25T23:01:58.802039+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3087,6 +3087,20 @@
           "published": "Aug 25, 2026 · 18:32 BRT",
           "pub_date": "2026-08-25",
           "pub_ts": 1787693540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 15:28 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787682520,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

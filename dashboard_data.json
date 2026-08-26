@@ -2550,7 +2550,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-26"
+      "pub_date": "2026-08-25"
     },
     "https://www.reuters.com/world/asia-pacific/pakistan-iran-made-significant-progress-talks-conflict-minister-says-2026-08-25/": {
       "summary": "",
@@ -2825,7 +2825,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-26"
     },
     "https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/": {
       "summary": "",
@@ -2955,6 +2955,29 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-906637": {
+      "summary": "Their meeting comes as US President Donald Trump shifts from military to economic threats against the regime.",
+      "tags": [
+        "IAF",
+        "IDF",
+        "iran sanctions",
+        "Israeli Air Force",
+        "US Air Force"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/cnooc-first-half-profit-rises-after-iran-war-boosted-oil-prices?srnd=all": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3130,6 +3153,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Cnooc First-Half Profit Rises After Iran War Boosted Oil Prices - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNVJuMkJxQWVlRzdhNFVNaFUxM3RYZDBuVC1uaVFWNEhCNmF0bW8zbWZrMmV3ejhCSUdtbXF5SlZNRlNiMC1KbmJPRUJlNFNDYXhGclVoX1c3bjJlbGZSbHItQUphcU0xLXJBQlZ1aXl0OVZQSk9QWEhHeW4yTG9aUDFBUmNrZ1huSWZvNC04SU1OZ29PSW9wcExXWWVaX3JTMlNUTWxSdm5UMDJqN0hHaWs0Y3pHSkdDbWstb0gwblk?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 06:07 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787735274,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US-Iran war sinks into energy trench warfare six months on - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
@@ -4722,6 +4759,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "US-Iran war spurs Europe, Asia to boost renewables - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVNd3JBNVpOVlFWcUlabjhLbU52TmV4WXNjbUwyVzVlWXFHMFBvenNoUVItMnhFbkh6VWM0dXBrVVpmbmhDTEROdlVlNG43OElCeVY3Uy1jQVNIRnljcUt6b1h2Uy1RZzN3c1lHbkhXeGlLTnhfc2g3WlRlTERCb2VON3NTQU1uTUtGTVpad2gyY3pnYUo1cU9pNlNRRVU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 05:37 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787733464,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "British energy price cap to rise 4% as Iran war pushes up costs - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlZZZUthczBuQ2FsOEZnMEhWQ0ZhMUh1ajdxc1R0c1ZzUWhtWjlDckRqUFNLRXBscjV0RDltV0RMSEJjbWpyWk4ySlV2TEhFdTFPUTgyY1d1aV8taTdtS21rUHpWanJvSDc5V1UtZ2J4TmZIdG5HMVhVZWpQUnlCeTlLQ0M5WFhjU1BkTDBNUkJKQlRJckxzRTdSN1B2bjRSNVFMMktvQkMyeF9IT1kya2FnZXd6a1N3REpv?oc=5",

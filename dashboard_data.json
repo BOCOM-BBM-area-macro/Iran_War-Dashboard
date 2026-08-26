@@ -2869,6 +2869,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-25"
+    },
+    "https://www.washingtonpost.com/national-security/2026/08/25/china-rebukes-trumps-economic-pressure-campaign-seeking-isolate-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-25"
     }
   },
   "last_digest_success": true,
@@ -3034,12 +3044,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-25T11:11:37.637581+00:00",
   "last_generated_date": "2026-08-25",
-  "last_generated_time": "2026-08-25T21:01:58.258486+00:00",
+  "last_generated_time": "2026-08-25T22:02:19.980102+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The U.S. is escalating its economic war on Iran. Here’s what that means. - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeFhyNjFOLW5mSzZtUWJNYTRoUEFlQjU0MlY2RVQyOXgzREtXdDJERWdNc2xHWUVvajFYb0RtcVRJTENUQ2QtMlB0cGhIWndIanBNVmVTZExUUU5yUTduMmNfNzZRWXFNb093UlJUTVYzYWlud3V1LWhnNlIyVTFKaUx3Z0x4RDlNN0tTNDd2Y3hEanp2Q29KcmhLaElURzRxLUx1aEIxQk9hZ042NGc?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 21:42 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787704950,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Extends Declines as Iran, Oman Push Talks to Reopen Hormuz - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmJBTWNiQ3dYenVuN0xheFdVR0lMSElWbDkySEdCc0VBOF9tSjd6SFdHeU1HVkRBMHpaT19lQzBCdWZvR2Y3aGxTcVJpX0I0eGpFaURXV0NFbWdyc1hKdDlDcVRjRVg0bGtXXzV0T2lhVTlORGkxWmloemhTOUhiNWtNSGxoLUVyaHo0QXhRQlN3Zi1VWFJuekdmb2hYQQ?oc=5",

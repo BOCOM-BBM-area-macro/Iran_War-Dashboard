@@ -2825,7 +2825,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-26"
     },
     "https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/": {
       "summary": "",
@@ -2855,7 +2855,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-26"
     },
     "https://www.jpost.com/middle-east/iran-news/article-906594": {
       "summary": "From the Strait of Hormuz to sanctions and diplomacy, the US-Iran conflict is broadening into a struggle that is reshaping regional security and the global balance of power.",
@@ -2868,7 +2868,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-26"
     },
     "https://www.washingtonpost.com/national-security/2026/08/25/china-rebukes-trumps-economic-pressure-campaign-seeking-isolate-iran/": {
       "summary": "",
@@ -3035,6 +3035,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/iran-oman-agree-to-share-strait-of-hormuz-revenue-irgc-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
     }
   },
   "last_digest_success": true,
@@ -3191,7 +3201,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-26T11:09:38.609171+00:00",
   "last_generated_date": "2026-08-26",
-  "last_generated_time": "2026-08-26T11:02:37.270947+00:00",
+  "last_generated_time": "2026-08-26T12:02:05.721828+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5476,6 +5486,20 @@
           "published": "Aug 25, 2026 · 06:58 BRT",
           "pub_date": "2026-08-25",
           "pub_ts": 1787651922,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The Warnings That Came Before a War Now Reaching the Six-Month Mark - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5VDNwTk0yR2Q2RVFiaHNFZlQzb0hEMjlNNnZuem9YMzVIdWtpZDRXNURBR0dsR3MtT1JDcC1JTlVHanJxVS1BVFRKenBCbzV6YTA1aEFwUzJYak5uQ0NkRllTcENqXzNUMUVPQ29tcGtvNWNqM3d6RWhzRHJBZw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 25, 2026 · 00:00 BRT",
+          "pub_date": "2026-08-25",
+          "pub_ts": 1787626800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

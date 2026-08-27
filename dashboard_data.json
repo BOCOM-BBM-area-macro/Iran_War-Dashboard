@@ -3228,6 +3228,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-27"
+    },
+    "https://www.timesofisrael.com/from-nukes-to-hormuz-the-shift-in-trumps-iran-war-objectives/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-27"
     }
   },
   "last_digest_success": true,
@@ -3386,12 +3396,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-27T11:10:53.094648+00:00",
   "last_generated_date": "2026-08-27",
-  "last_generated_time": "2026-08-27T10:01:54.975130+00:00",
+  "last_generated_time": "2026-08-27T11:01:47.524330+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "After six months, the Iran war has reached its endgame - a costly stalemate - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 07:54 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787828057,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iraq Offers Oil Outside Hormuz for First Time Since War Began - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3JMLVJzb3llLUVweHNJWDlCN3VWaWFVWC0zTlhQdDloZTNfRFA1WS0wRG5RU1IxWXU5eDNZOGNBZ1QxQTd3VU9hSG5ncTVsRndmaFVLcHZZLVhOZGUwb3p4Q0N4NGJlSTRDNEdrNVFhbjItcENfdjc0WU1lNWFyeUlQOHNHU1YxZTNHVVVPU3kyVkV3SGptUENJZFkyYndiZmpubkVlLXNZNW91YXo1Z3Vn?oc=5",
@@ -3415,6 +3439,20 @@
           "published": "Aug 27, 2026 · 04:14 BRT",
           "pub_date": "2026-08-27",
           "pub_ts": 1787814865,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Six months of war: How the Middle East conflict has shaped financial markets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZPbXZOMTI2d1doSndZUnZ4VTVxV2hlUzFvRmJyUHpXRnlTNUV2bk13WS1rVTNnYmRLbzE4VkN0RlpiUG1MakRKUUpRNkNkYVg3d2s4aXhBaWpUb3ZYd0poN1BlRndYTVk5enNRckZmWS1lQklIRWtTMFBUdW5raDJUWTRzeUdCQTBCRDBpTkhVcDBnMlo4dTFPVXJqT3ExcTQ0aFUzV1pjak1YSzNYdkJDZ0h1UjhKRG91Qw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 03:06 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787810760,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

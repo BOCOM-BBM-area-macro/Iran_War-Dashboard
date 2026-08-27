@@ -3268,6 +3268,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-27"
+    },
+    "https://www.reuters.com/world/middle-east/irans-security-chief-denies-allegations-iranian-plot-assassinate-trumps-son-al-2026-08-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-27"
     }
   },
   "last_digest_success": true,
@@ -3426,7 +3436,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-27T11:10:53.094648+00:00",
   "last_generated_date": "2026-08-27",
-  "last_generated_time": "2026-08-27T17:01:41.628246+00:00",
+  "last_generated_time": "2026-08-27T18:01:57.012169+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3525,6 +3535,20 @@
           "published": "Aug 26, 2026 · 09:48 BRT",
           "pub_date": "2026-08-26",
           "pub_ts": 1787748532,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Prices Dip on News of Progress in Hormuz Talks - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2VabzAyb2RLUkxnRF9UZDJKZS1fM0ZQVGpnZUFkdzVsT0RYWnFKMWxKcUFiRUEtY0k5TExRREszd2o2cTh6WWNRWFJoc3BBUVAwZTJEalFFem5hVFdQd0UxLXZCaDFPdnM0ekxSX0JwQ2Q2X21hUDhQbmsxc1NiYVZCT05OSzQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 08:02 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787742128,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -3095,6 +3095,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-26"
+    },
+    "https://www.washingtonpost.com/national-security/2026/08/26/us-weapons-shortage-iran-war-alarms-allies-confronting-china/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.reuters.com/world/middle-east/qatar-pm-visit-tehran-pursue-mediation-efforts-2026-08-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-906705": {
+      "summary": "Some of the intelligence-linked sites hit throughout the war include a Riyadh CIA station, a site in eastern Iraq, and other radar and surveillance equipment throughout the region, NBC reported.",
+      "tags": [
+        "Iran",
+        "CIA",
+        "Donald Trump",
+        "US military",
+        "radar"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
     }
   },
   "last_digest_success": true,
@@ -3251,12 +3284,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-26T11:09:38.609171+00:00",
   "last_generated_date": "2026-08-26",
-  "last_generated_time": "2026-08-26T19:01:54.560863+00:00",
+  "last_generated_time": "2026-08-26T21:01:58.941100+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US Aims to Revive Civil War-Era Court to Claim Iran Oil as Prize - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3R6Y25FM2lJQzExMnZlS2lEUVhzS041dDFvZzB4N3lqM3F6cUt6Ym5BZ2pwbEJsNTJrMnZOTjNESzlBSThxTHBaTXU2YkQ0RzZrRnlyTXVzU1RLSUNURUtNQ2FVSF9mVFB2NVpfcUVFMTIybWJmRS1jSWw1c3RfWEV5NkhjWk41ZmJGalpKZmZuWW9STFlvWURPVTdFd1J6TkVaOW5kNDJ3OUJWS2hBMGR6aTNmUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 16:07 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787771228,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Cnooc’s 1H Profit Rises After Iran War Boosted Oil Prices - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeC15VDhzaU1idm91bGpTZ0gxalV6ZlBiS1d3X3Vqdjh3Vk8yNEVNakRwM0plRkUtWGNRX3lMSVRuVENDa2lLTWxST2RYQ3VNX3U0SFBHX215LTRKOHg2VUxjUV8yVlJyaVoweVlPMFhjbDFPTUZiWVhEQXo2N3QxZUJyZlhIQWJha3lmOHVHR0VQS183VnBFUThvS1FWVW5nX1dpYkV4c0RqZDZtZ09Nb2NLTlA?oc=5",

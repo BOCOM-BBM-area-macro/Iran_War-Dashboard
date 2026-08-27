@@ -2382,7 +2382,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-24"
+      "pub_date": "2026-08-25"
     },
     "https://www.timesofisrael.com/liveblog_entry/trumps-approval-holds-at-record-low-as-us-support-for-iran-war-falls-reuters-ipsos-poll-finds/": {
       "summary": "",
@@ -3124,6 +3124,26 @@
         "Donald Trump",
         "US military",
         "radar"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-27/thailand-to-shift-from-lng-toward-renewables-in-wake-of-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-26"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-extend-losses-expectations-talks-ease-middle-east-supply-woes-2026-08-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4994,6 +5014,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Thailand to Shift From LNG Toward Renewables in Wake of Iran War - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa05oZHI3enYzR3pQakd2MTZTNEJXT0cyeUpJakVSNUdGQkJ6OXd5QjV5MVNQdEJnSVRYZ3BzZTJZWDJaYnRpSTBCd2JCM2RmVVRiRVlSOVVzdC1BR2lKWF9xdEN6NUp2Q3lrQTZLNExTUnUxdXN2U2tHMHBaRVNSVzlTX3daNUNRUjBCeHpHS1Z4T0dYbVEtQWVac0U1ZFFkbWZ2bURvME1PYWFULWN2ejJJTFhSZw?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 23:19 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787797140,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US-Iran war spurs Europe, Asia to boost renewables - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVNd3JBNVpOVlFWcUlabjhLbU52TmV4WXNjbUwyVzVlWXFHMFBvenNoUVItMnhFbkh6VWM0dXBrVVpmbmhDTEROdlVlNG43OElCeVY3Uy1jQVNIRnljcUt6b1h2Uy1RZzN3c1lHbkhXeGlLTnhfc2g3WlRlTERCb2VON3NTQU1uTUtGTVpad2gyY3pnYUo1cU9pNlNRRVU?oc=5",

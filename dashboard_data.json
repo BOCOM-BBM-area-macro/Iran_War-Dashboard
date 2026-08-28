@@ -3528,6 +3528,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-28"
+    },
+    "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-28/gulf-oil-tankers-near-650-000-a-day-as-iran-war-disrupts-flows": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
     }
   },
   "last_digest_success": true,
@@ -3687,12 +3707,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-28T11:11:43.782756+00:00",
   "last_generated_date": "2026-08-28",
-  "last_generated_time": "2026-08-28T10:01:56.614318+00:00",
+  "last_generated_time": "2026-08-28T11:01:55.468626+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Gulf Oil Tankers Near $650,000 a Day as Iran War Disrupts Flows - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGYxNWUtX2h1TkN5VC1LX3VRdklZeG1wcl9oQXNKTUNWWkFGU3ZMa0twUmlaQVBpTmtYRWVnR0k1M1hZbElSZHliU3dpY1hVdDZVYkxrcElIanJQNEpVWUg1RTFJRUg2WHZpQlowOWRUeU9BMDZ0ODdjRGNSWHBoT3pBY0tSNUdKVEVvLXpNazQzdmJLUFdDeVN2MXRBV0xYU0ZKaHExUjlRT0hmX3ViVzFXVQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 10:07 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787922470,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Six takeaways from the Iran war at six months - Axios",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wR2ZNTGhhU2FGbWVldTdiVVdQZklKcURfZVN4MzB3cXA0YjN5VGd1dEU3TnVMMnU4UEc0bWc2UXY4YVUtY0s2UlctblRIYTk3ZmhWSE1lZmRtWkVlZ2ZKcWUyZ0tHWGFyQkNfZHdQcS1oR3g1bU9ndA?oc=5",
@@ -6023,6 +6057,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Wheat Soars to Highest Level in Three Years as Black Sea Crisis Deepens - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEVub0d1Mzc3ckRCVlNfR1ktNWQ1dW5IMHFna2dSYVM2QlAyOGpUM2VocGoyS2RYenN1RW1ZSDBUOXZBN1h1UGlhczcwOFdUdmhHb0Z0MXdnRG5oT0lCVXhmdGRvUHR0RlVQY1Bsd1BtbXkxcFpNcThhWjVndWhDb0poZFlZYTdYZnFwVVF6NkNGU2pINEdvYUtkeVVidXQyYkZpR2RudE1abVNRdTI1Tnd2X2dwQjhiYTNIY0laTjNCSTVvd0w4?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 09:20 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787833250,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Scott Bessent fires warning shot at Iran’s economic partners - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWFTYmlPa3ZKemEzc3l6UUNqV3FFVXJoNkJ5N0JCMkVVaXphWWpxX0FRbWRHN1RnZ05fYWoxUkNfRVpLWjdMYnBFblhkNUFVdGp1cVJicWdzZ3NZLTAyamZNWmMzTndacGhIMnJ5cUhpNGlITjgtQllYSmx1aWRGX1N6dy0?oc=5",

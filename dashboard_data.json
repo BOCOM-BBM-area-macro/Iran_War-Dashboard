@@ -3428,6 +3428,86 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-28"
+    },
+    "https://www.nytimes.com/2026/08/28/business/iran-war-oil-stocks-prices.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.axios.com/2026/08/28/trump-iran-hormuz-war-oil": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.reuters.com/business/energy/iran-war-drives-us-transport-fuel-surcharges-also-industry-profits-2026-08-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.reuters.com/video/watch/idRW838127082026RP1/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-28/war-in-iran-continues-to-drive-interest-in-renewables": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.reuters.com/business/energy/oil-track-weekly-loss-even-iran-tensions-simmer-2026-08-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-27"
+    },
+    "https://www.nytimes.com/video/us/100000011093055/how-key-oil-stockpiles-dwindled-during-the-war-in-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
     }
   },
   "last_digest_success": true,
@@ -3587,7 +3667,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-28T11:11:43.782756+00:00",
   "last_generated_date": "2026-08-28",
-  "last_generated_time": "2026-08-28T08:01:55.682257+00:00",
+  "last_generated_time": "2026-08-28T09:02:01.547986+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3608,6 +3688,20 @@
           "_rank": 0
         },
         {
+          "title": "Iran war mediators focus on reopening Strait of Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 22:34 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787880840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Goldman Says Hormuz Oil Flows at Two-Thirds of Pre-War Levels - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ3VlJxeDlKVk9OUDVrTk5LeThFYkNFdVcwdzVSN3c0aTFnQVE2bDd6Vm9WTTBXeUpJaW9rTTUwb2ttMFdldUtsNkd0aEJIUjJoOGt5OThUMHpUV1JwZWVFYW94ZXdQdXRqNWs0SFhTYW1icDNCWGJzZG9kOXNiTXVKaTBMMlJQNHNkcG94UF9OUnJtTEJ0Qm5JQTBCTFNsWHhqYndYOFBSZnZyS0VPbUJR?oc=5",
           "source": "Bloomberg",
@@ -3616,6 +3710,20 @@
           "published": "Aug 27, 2026 · 22:21 BRT",
           "pub_date": "2026-08-27",
           "pub_ts": 1787880060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil holds steady, on track for weekly fall on US-Iran talks stalemate - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 22:16 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787879760,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

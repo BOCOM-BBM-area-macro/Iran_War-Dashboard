@@ -3347,7 +3347,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-28"
+      "pub_date": "2026-08-27"
     },
     "https://www.reuters.com/video/watch/idRW814026082026RP1/?chan=us-news&location=channel-item": {
       "summary": "",
@@ -3588,6 +3588,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-28"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-28/iran-war-after-six-months-turns-to-economic-pressure": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
     }
   },
   "last_digest_success": true,
@@ -3747,7 +3757,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-28T11:11:43.782756+00:00",
   "last_generated_date": "2026-08-28",
-  "last_generated_time": "2026-08-28T17:02:01.865898+00:00",
+  "last_generated_time": "2026-08-28T18:02:09.972965+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5508,6 +5518,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Funds Add Bullish Gasoline Bets at Fastest Pace in Six Months - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjZ3Yjc3N0xISjhmNjRKbjdoenpMN05Sa1BoYmUxNldqNjljZllaYm5KNG1rcDBicllUSjVHZE9SdjJBN1UtSk55cTRHc2Y3N2ZnOXFQSWhIcmlPR0xLY1FfZ0toTW5PSzFfZHdTc1ZCTmp5S0NFVEhkbzJsTWhxdDdyZFlJWUNuTHRsek9QYU56MHFoNWZCaDNRZW40b0lBZG9MakVxaFdpVW5nYU9FT21n?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 17:33 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787949226,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Canada excludes US seafood from retaliatory tariffs - Reuters",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0p0OFRPcVc3Q084cGZoNWw1ZHJ6NGRZb0JWMFdzUW9VU09rQnM2LTRKbVQtV1hPVDJ6V2s1em9YaElyNjJkellVQm9EUV9CanVIR0Y1SWRDLVBCaVByZVVTcXNGcUw4NmpIOEh2aC1zWkpyTG00MlhYYmNQNlBTYnFULUlWVDEzdEprUEtJVG1lQkloanc?oc=5",

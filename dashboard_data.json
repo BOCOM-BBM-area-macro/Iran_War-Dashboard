@@ -3508,6 +3508,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-28"
+    },
+    "https://www.axios.com/2026/08/28/iran-war-hormuz-trump-oil-renewables": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.reuters.com/video/watch/idRCV00GUZP/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
     }
   },
   "last_digest_success": true,
@@ -3667,12 +3687,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-28T11:11:43.782756+00:00",
   "last_generated_date": "2026-08-28",
-  "last_generated_time": "2026-08-28T09:02:01.547986+00:00",
+  "last_generated_time": "2026-08-28T10:01:56.614318+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Six takeaways from the Iran war at six months - Axios",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wR2ZNTGhhU2FGbWVldTdiVVdQZklKcURfZVN4MzB3cXA0YjN5VGd1dEU3TnVMMnU4UEc0bWc2UXY4YVUtY0s2UlctblRIYTk3ZmhWSE1lZmRtWkVlZ2ZKcWUyZ0tHWGFyQkNfZHdQcS1oR3g1bU9ndA?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 09:57 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787921831,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Pipelines and ports: Iran war spurs Gulf infrastructure investment - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFpCNDNNRjl2ZVJGeG1nOHNCd09IQ1VQS1hJejJiX0V1TFRGalFNS1EzbjZHS1Nua0pNNlVWZzlpVl9GM0FoNGVNMGhEY1djUW9HRFRpODlUQnNLaGtXT092WVRNT3NyWHFaN2tYT1N5OW00VDljVXB0cDJ6UU5tMktQaFBwVUZCZHFmRkVfcVRrR25NTWFFd2ZhRnVpVGhKNXk1dzhVQ21YUFcwWC1YODdvUQ?oc=5",
@@ -5381,6 +5415,20 @@
           "published": "Aug 27, 2026 · 05:24 BRT",
           "pub_date": "2026-08-27",
           "pub_ts": 1787819077,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Europe’s Diesel Crunch Draws First Mexican Supply in Seven Years - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXR0T1FYQ3VfLXVTSmU3SXVON3RQcEIxWmNYX0k1VEVoWGZhX2Z5QmVDS2dwMzVXR3k4d2U1UFFJT28tbHlTc19sZ0xBQUROTVpxeG91TmZsZWIxVmJrLTd1bldPZF9EcEdoN1k0bHRBTS1pV3I2d1hRcEcxUFBWRlo4QVNTWDVybkJ4Y01UY0NjSDA2Mk1MZlZKbWhPYkJ1OGJ1RU4wb19fQ3dnYXh2bVhmd2p1UQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 13:05 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787760329,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

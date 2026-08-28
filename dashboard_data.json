@@ -3318,6 +3318,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-27"
+    },
+    "https://www.wsj.com/world/middle-east/see-how-the-world-has-changed-since-the-start-of-the-iran-war-dd90b2d0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-27"
     }
   },
   "last_digest_success": true,
@@ -3476,12 +3486,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-27T11:10:53.094648+00:00",
   "last_generated_date": "2026-08-27",
-  "last_generated_time": "2026-08-27T22:01:45.255285+00:00",
+  "last_generated_time": "2026-08-27T23:01:45.700518+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "See How the World Has Changed Since the Start of the Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUQyV2lnanR6SG9xZTVlQ2xONzdDempMS3dYbjNkMk9ucmwzRWxyZDVPVDA4SHhJLVpYQWxPTURmMXBWXzItYVd5eDFURG1TQ2d5YXVEUlJpeXFsTi1PckxNQ1VpcFdvNEhhaEZEX1hPbHNOOG5neERjT0FXa3U3b05SRTNEZXBDRloyWlc2bDVFakdaemlQdGE2U0VOMl83MF9pRGVmek9NYmJq?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 22:07 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787879250,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Saudi Response to Houthis’ Attacks on Ships May Be a New War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0g0alhqSHVReDNzRlFjZnFja2l1Q0w0OWZ5cDFCSU52T1pWdUdTaWVVOHJrYVd1dGRjdk12bV9JTG1BcTU4WjNzT0MwQmhqYnVrSGw0dHQ2T2Jfa1BFRUNxSTVkUnVpcVNXWFl5Q3A3N0h3UHRYdGRNYTBwdlhQYnRid29IZGFGWTJsNEp3elo?oc=5",
@@ -5313,6 +5337,20 @@
           "_rank": 0
         },
         {
+          "title": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Jdk9FTHVlS09LbVhrdmV5MndtZ0FGbk9qMEVtQUdqVzZHXzNza1RnLXdONWNpNGJrY1FBUkZmYzlTeWY0UWliNXhaWUQ3X1NiZDJxNGJpU2d3Z2Z1cUhXSEpGZWpuQzhESFVSdE1LUTU3Y3lXU1l0Q3MtaHIwQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 13:35 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787848509,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Thailand to Shift From LNG Toward Renewables in Wake of Iran War - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa05oZHI3enYzR3pQakd2MTZTNEJXT0cyeUpJakVSNUdGQkJ6OXd5QjV5MVNQdEJnSVRYZ3BzZTJZWDJaYnRpSTBCd2JCM2RmVVRiRVlSOVVzdC1BR2lKWF9xdEN6NUp2Q3lrQTZLNExTUnUxdXN2U2tHMHBaRVNSVzlTX3daNUNRUjBCeHpHS1Z4T0dYbVEtQWVac0U1ZFFkbWZ2bURvME1PYWFULWN2ejJJTFhSZw?oc=5",
           "source": "Bloomberg",
@@ -6027,6 +6065,20 @@
           "published": "Aug 24, 2026 · 16:24 BRT",
           "pub_date": "2026-08-24",
           "pub_ts": 1787599481,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Canada Turned Down a US Tariff Deal. Now Comes the Economic Cost - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVFBQ3R0WHZJV2xnd0I4RVIxUjdNS2hoVGRaZUpPaW5OcFdFVEloM0JoT1RqMzZmMUxHT1RKcnA4LUxQTmgyMy1YR09zVHBGTDMzbEhjdjFpRENjYzFnOXp5N2VqMzFvclRDdl9MTTVqRnpFUnJ2c203NzUwUDBqUlY1djFqbzZucnpGZmg4aUk4VlF5cTZnaXpMMlZMYUJYdm9UNVBuZnk2MnlORlF4Vk5GelY?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 23, 2026 · 20:00 BRT",
+          "pub_date": "2026-08-23",
+          "pub_ts": 1787526000,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

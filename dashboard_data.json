@@ -3220,7 +3220,7 @@
       "pub_date": "2026-08-27"
     },
     "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html": {
-      "summary": "",
+      "summary": "Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3347,7 +3347,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-27"
+      "pub_date": "2026-08-28"
     },
     "https://www.reuters.com/video/watch/idRW814026082026RP1/?chan=us-news&location=channel-item": {
       "summary": "",
@@ -3530,7 +3530,7 @@
       "pub_date": "2026-08-28"
     },
     "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html": {
-      "summary": "",
+      "summary": "Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -3564,6 +3564,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
+    },
+    "https://www.cbc.ca/news/world/iran-war-six-months-trump-9.7323892": {
+      "summary": "A number of U.S. lawmakers called on Donald Trump to end the war with Iran as it reached its six-month mark on Friday, while the U.S. president has given off mixed signals regarding the state of the conflict.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3727,7 +3737,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-28T11:11:43.782756+00:00",
   "last_generated_date": "2026-08-28",
-  "last_generated_time": "2026-08-28T14:01:59.669393+00:00",
+  "last_generated_time": "2026-08-28T15:01:50.017684+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5661,6 +5671,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "QatarEnergy cancels gas deliveries to Italy's Edison until early November over Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGdXSEJxeEtGbnA4SWdCRkkyMFM4VFhkS0hHT1F5cGw3TGg1LXZneGR4Z2JBRzNjdldsUlZNMlp5T1I4RDBRLWJoUlptMms4MXVzVmhLOXJndHI3U2E0OTcwTXprQmFRSkRYMzFxRzMzZExybFVWcTBlZGduN18zZmVJcWxnR3QzcU9iclR3b3g5OUdBZ0twWlJnUnZkbGVyN2hvNFVHRWZjYW9jMmtxbUtIVlotOC10UjVfWkln?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 13:47 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787935642,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYXZvSUkwVTBqSDRUNkZTbmxnOXJfQk9JbklSNHBYUHFIdk5iMTI0U3lRVFRLRUdtdHpPVGVpVnlwR3BEV3JnS1RBYzhTZWlpWWN4UzR6bDJhMGF2aWlFRjhxMjlQYldHVGU4cFlKenFva2xFbzBUdnFUVWc1RklKOA?oc=5",

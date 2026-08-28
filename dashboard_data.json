@@ -3338,6 +3338,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-27"
+    },
+    "https://www.reuters.com/world/middle-east/iran-war-diplomacy-turns-toward-reopening-strait-hormuz-2026-08-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-27"
+    },
+    "https://www.reuters.com/video/watch/idRW814026082026RP1/?chan=us-news&location=channel-item": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
     }
   },
   "last_digest_success": true,
@@ -3502,6 +3522,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Goldman Says Hormuz Oil Flows at Two-Thirds of Pre-War Levels - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ3VlJxeDlKVk9OUDVrTk5LeThFYkNFdVcwdzVSN3c0aTFnQVE2bDd6Vm9WTTBXeUpJaW9rTTUwb2ttMFdldUtsNkd0aEJIUjJoOGt5OThUMHpUV1JwZWVFYW94ZXdQdXRqNWs0SFhTYW1icDNCWGJzZG9kOXNiTXVKaTBMMlJQNHNkcG94UF9OUnJtTEJ0Qm5JQTBCTFNsWHhqYndYOFBSZnZyS0VPbUJR?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 22:21 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787880060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "See How the World Has Changed Since the Start of the Iran War - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUQyV2lnanR6SG9xZTVlQ2xONzdDempMS3dYbjNkMk9ucmwzRWxyZDVPVDA4SHhJLVpYQWxPTURmMXBWXzItYVd5eDFURG1TQ2d5YXVEUlJpeXFsTi1PckxNQ1VpcFdvNEhhaEZEX1hPbHNOOG5neERjT0FXa3U3b05SRTNEZXBDRloyWlc2bDVFakdaemlQdGE2U0VOMl83MF9pRGVmek9NYmJq?oc=5",

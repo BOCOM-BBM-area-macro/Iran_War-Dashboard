@@ -3647,7 +3647,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-29"
+      "pub_date": "2026-08-28"
     },
     "https://www.bloomberg.com/news/videos/2026-08-28/balance-of-power-late-edition-08-28-2026-video": {
       "summary": "",
@@ -3743,6 +3743,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-28"
+    },
+    "https://www.timesofisrael.com/us-military-families-ride-roller-coaster-of-emotions-over-six-months-of-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-29"
     }
   },
   "last_digest_success": true,
@@ -3899,12 +3909,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-29T11:09:29.752419+00:00",
   "last_generated_date": "2026-08-29",
-  "last_generated_time": "2026-08-29T11:01:53.208315+00:00",
+  "last_generated_time": "2026-08-29T12:01:53.832806+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 23:04 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787969040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million. - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnlHd0U4RnNuNnZfYlR0QzNhTFU3R2U2OWxDcFlYRkp1cjhJdmRPQ2JENlI1V3ktbjM3d185VE5BSnNpRGIybDBLT0gycE5XWGR5SERaN2M5ejRVX01qUWg2WlZlUnZzUjNjNjFacUpPU05wSlloNjVraGdfenYydDF3aGswMHc3Z0ZVUjAwNGlpUQ?oc=5",

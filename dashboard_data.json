@@ -3712,10 +3712,13 @@
       "pub_date": "2026-08-29"
     },
     "https://www.bloomberg.com/news/articles/2026-08-29/republicans-see-trump-s-unceasing-iran-war-as-midterm-threat": {
-      "summary": "",
+      "summary": "Six months into a conflict that President Donald Trump predicted would last “four to five weeks,” Republican strategists worry there’s no way to keep the Iran war from hurting the party’s prospects in November’s midterm elections.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Donald John Trump",
+        "War",
+        "U.S. Republicans",
+        "Iran",
+        "Republican Party"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3730,6 +3733,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-29"
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-29/iran-war-exposes-limits-of-us-military-endurance-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-28"
     }
   },
   "last_digest_success": true,
@@ -3886,7 +3899,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-29T11:09:29.752419+00:00",
   "last_generated_date": "2026-08-29",
-  "last_generated_time": "2026-08-29T10:02:12.044674+00:00",
+  "last_generated_time": "2026-08-29T11:01:53.208315+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

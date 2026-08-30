@@ -3899,6 +3899,32 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-29"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907059": {
+      "summary": "One person familiar with the matter told the 'Washington Post' that US military leadership believes that the war in Iran has been “too much for too long.”",
+      "tags": [
+        "Iran",
+        "US Navy",
+        "US Army",
+        "strait of hormuz",
+        "US Air Force"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
+    },
+    "https://www.jpost.com/middle-east/article-906762": {
+      "summary": "A weekly selection of opinions and analyses of the Arab media around the world.",
+      "tags": [
+        "Gaza",
+        "Hamas",
+        "Iran",
+        "Middle East",
+        "Magazine"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
     }
   },
   "last_digest_success": true,
@@ -4054,7 +4080,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-30T11:10:04.939265+00:00",
   "last_generated_date": "2026-08-30",
-  "last_generated_time": "2026-08-30T14:01:54.860472+00:00",
+  "last_generated_time": "2026-08-30T15:01:46.397803+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

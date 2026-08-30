@@ -3637,7 +3637,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-28"
+      "pub_date": "2026-08-30"
     },
     "https://www.reuters.com/world/asia-pacific/war-weighs-irans-economy-us-intensifies-sanctions-2026-08-29/": {
       "summary": "",
@@ -3647,7 +3647,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-29"
+      "pub_date": "2026-08-28"
     },
     "https://www.bloomberg.com/news/videos/2026-08-28/balance-of-power-late-edition-08-28-2026-video": {
       "summary": "",
@@ -3809,43 +3809,62 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-30"
+    },
+    "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-30/german-finance-minister-to-press-g20-on-iran-war-trade-fights": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-08-29T11:09:20.416662+00:00",
+  "last_digest_time": "2026-08-30T11:09:55.084185+00:00",
   "digest": {
-    "digest": "The six-month mark of the Iran war has been reached, with mixed signals from the US president regarding the conflict's state and future. US lawmakers have called for an end to the war, while the US military faces concerns over munitions depletion and its ability to deter other global powers. The conflict has significantly impacted Iran's economy, exacerbating an existing crisis and leading to increased desperation among its populace. The US has intensified its campaign to isolate Iran through sanctions, extending them to entities like Egyptian bank branches and targeting financial hubs such as Dubai. Diplomatic efforts are also evolving, with US diplomats and family members returning to Middle East embassies following evacuations. The US has asserted control over the Strait of Hormuz, a key maritime chokepoint. Despite these actions, Iran's regime remains in power, and stated US goals have not yet been met, prompting a pivot towards tighter sanctions as initial military actions proved insufficient. The war's broader economic consequences have been felt globally, affecting oil, gas, and stock markets.",
+    "digest": "The ongoing conflict with Iran has entered its sixth month, exceeding initial predictions for its duration. A significant drain on U.S. munitions stockpiles is raising concerns about the nation's ability to deter other potential adversaries. Domestically, the war is presenting political challenges, with strategists noting its potential negative impact on midterm election prospects. Internationally, the conflict and U.S. blockades are demonstrably impacting Iran's economy, leading to fuel shortages and long lines at gas stations. Military leaders have reportedly advised against extending the scope of operations. Meanwhile, diplomatic efforts are underway, with discussions planned regarding the war's impact on global trade. The war's prolonged nature is also affecting military families, creating emotional strain. The effectiveness of airstrikes as a sole strategy is being questioned, prompting consideration of alternative, less-discussed approaches to resolution.",
     "top_themes": [
-      "Iran War Six-Month Mark",
-      "US Sanctions and Economic Impact",
-      "US Diplomatic and Military Strategy",
-      "Regional Geopolitical Shifts"
+      "US Munitions Strain",
+      "Iran's Economic Hardship",
+      "Political Ramifications of the War"
     ],
     "next_events": [
       {
-        "title": "Escalation of US Economic Sanctions",
-        "description": "The US has intensified sanctions, targeting Iran's financial lifelines in Dubai and Egyptian banks, as a primary strategy after six months of conflict. Analysts should monitor the effectiveness of these measures in crippling Iran's economy and whether the US will introduce further, more stringent sanctions, potentially leading to increased regional instability or Iranian retaliation."
+        "title": "US Military Readiness and Global Deterrence",
+        "description": "The ongoing conflict is draining US munitions and straining naval assets, raising concerns about the ability to deter other major powers like China and Russia. Analysts should monitor US defense spending, munitions production rates, and the deployment schedules of key military assets to assess the long-term impact on global strategic posture."
       },
       {
-        "title": "Iran's Internal Stability and Public Unrest",
-        "description": "The Iranian regime is facing an economic crisis and growing public despair, with reports of the regime being 'at war with its own people' and using executions as a weapon. Watch for signs of increased internal dissent, protests, or a crackdown by the regime, as these could significantly impact the conflict's trajectory and the regime's longevity."
+        "title": "Escalating Internal Pressure in Iran",
+        "description": "Long lines for gas indicate that the war and US blockade are severely squeezing Iran's supply chains and economy, potentially leading to increased public discontent. Watch for signs of widespread protests, changes in government policy regarding subsidies, and the overall stability of the Iranian regime under economic duress."
       },
       {
-        "title": "Trump Administration's Evolving Iran Strategy",
-        "description": "Despite six months of conflict, US goals remain unmet, and President Trump has given 'mixed signals' regarding an endgame, pivoting to tighter sanctions as bombs fail. Analysts should closely watch for any shifts in the administration's approach, including potential diplomatic overtures, further military posturing, or a clear articulation of a long-term strategy beyond sanctions."
+        "title": "International Diplomatic Initiatives and Economic Leverage",
+        "description": "The German Finance Minister's intent to press the G20 on the Iran War, alongside suggestions for a Beijing deal on Iranian oil, highlights international efforts to address the conflict. Analysts should monitor G20 discussions, potential mediation efforts by global powers (especially China), and any new multilateral sanctions or relief packages that could alter the conflict's trajectory."
       },
       {
-        "title": "Global Energy Market Repercussions",
-        "description": "The conflict has already 'jolted Oil, Gas, Stocks,' and the US has gained the 'upper hand in the battle for Hormuz.' Monitor global oil prices and supply chain stability, especially concerning the Strait of Hormuz, as any escalation or disruption could trigger significant economic fallout worldwide."
+        "title": "US Domestic Political Repercussions",
+        "description": "With the war becoming a midterm election threat for Republicans and impacting military families, domestic political pressure on the US administration is mounting. Observe public opinion polls, congressional debates, and the rhetoric of political candidates as the November elections approach, as these could influence the US's commitment and strategy in the conflict."
       },
       {
-        "title": "US Military Readiness and Resource Strain",
-        "description": "The 'drain on U.S. Munitions' from the Iran conflict raises fears over the ability to deter other global adversaries like China and Russia. Analysts should assess the long-term impact on US military resources and strategic planning, as well as any adjustments in deployment or procurement to address these concerns."
+        "title": "Shifting Regional Alliances and Iranian Influence",
+        "description": "Supreme Leader Khamenei's call for Gulf rulers to confront the 'real enemy' signals Iran's efforts to rally regional support and potentially escalate proxy conflicts. Monitor diplomatic engagements between Iran and its neighbors, any new security pacts or military exercises in the Gulf, and the activities of regional non-state actors aligned with Iran."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-08-29T11:09:29.057774+00:00",
+  "last_watch_time": "2026-08-30T11:10:04.488275+00:00",
   "relevant_news": [
     {
       "title": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia - WSJ",
@@ -3853,9 +3872,9 @@
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 28, 2026 · 22:00 BRT",
-      "pub_date": "2026-08-28",
-      "pub_ts": 1787965200,
+      "published": "Aug 30, 2026 · 07:31 BRT",
+      "pub_date": "2026-08-30",
+      "pub_ts": 1788085866,
       "summary": "",
       "tags": [
         "extracted",
@@ -3867,14 +3886,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump promised a short Iran war. Six months later, he has few good options. - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/28/friday-marks-six-months-since-trump-launched-war-iran-now-he-stuck/",
+      "title": "Military leaders warn Hegseth against extending Iran war operations - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 28, 2026 · 13:00 BRT",
-      "pub_date": "2026-08-28",
-      "pub_ts": 1787932800,
+      "published": "Aug 30, 2026 · 07:02 BRT",
+      "pub_date": "2026-08-30",
+      "pub_ts": 1788084121,
       "summary": "",
       "tags": [
         "extracted",
@@ -3886,14 +3905,14 @@
       "sentiment_success": false
     },
     {
-      "title": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/28/business/iran-war-oil-stocks-prices.html",
+      "title": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply - The New York Times",
+      "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 28, 2026 · 11:58 BRT",
-      "pub_date": "2026-08-28",
-      "pub_ts": 1787929112,
+      "published": "Aug 30, 2026 · 07:12 BRT",
+      "pub_date": "2026-08-30",
+      "pub_ts": 1788084726,
       "summary": "",
       "tags": [
         "extracted",
@@ -3905,18 +3924,18 @@
       "sentiment_success": false
     },
     {
-      "title": "\"That sucker is open\": U.S. gains the upper hand in the battle for Hormuz - Axios",
-      "url": "https://www.axios.com/2026/08/28/trump-iran-hormuz-war-oil",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Aug 28, 2026 · 16:51 BRT",
-      "pub_date": "2026-08-28",
-      "pub_ts": 1787946674,
+      "title": "Six consequences after six months of war in Iran - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/six-consequences-six-months-war-iran-2026-08-27/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 29, 2026 · 01:26 BRT",
+      "pub_date": "2026-08-29",
+      "pub_ts": 1787977600,
       "summary": "",
       "tags": [
         "extracted",
-        "axios.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -3924,14 +3943,14 @@
       "sentiment_success": false
     },
     {
-      "title": "After Six Months in Iran, Trump Pivots to Tighter Sanctions as Bombs Fail - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-28/iran-war-after-six-months-turns-to-economic-pressure",
+      "title": "German Finance Minister to Press G20 on Iran War, Trade Fights - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/german-finance-minister-to-press-g20-on-iran-war-trade-fights",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Aug 28, 2026 · 20:10 BRT",
-      "pub_date": "2026-08-28",
-      "pub_ts": 1787958649,
+      "published": "Aug 30, 2026 · 07:30 BRT",
+      "pub_date": "2026-08-30",
+      "pub_ts": 1788085800,
       "summary": "",
       "tags": [
         "extracted",
@@ -3943,18 +3962,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Six Months In, Iran’s Regime Stands, U.S. Goals Remain Unmet - The New York Times",
-      "url": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Aug 28, 2026 · 05:55 BRT",
-      "pub_date": "2026-08-28",
-      "pub_ts": 1787907353,
+      "title": "US military families ride 'roller coaster of emotions' over six months of Iran war - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-families-ride-roller-coaster-emotions-over-six-months-iran-war-2026-08-29/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Aug 29, 2026 · 07:02 BRT",
+      "pub_date": "2026-08-29",
+      "pub_ts": 1787997720,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -3963,14 +3982,28 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-08-29T11:09:29.752419+00:00",
-  "last_generated_date": "2026-08-29",
-  "last_generated_time": "2026-08-29T23:01:49.978173+00:00",
+  "last_relevant_time": "2026-08-30T11:10:04.939265+00:00",
+  "last_generated_date": "2026-08-30",
+  "last_generated_time": "2026-08-30T08:01:50.295420+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The war with Iran will not be won through airstrikes, so what's left? - opinion - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12dUljWnMzdTVIcWprLUhCWTV1TC1DMTZwck1uYV92T2tEN3VUQlFTS1ItbFhNRkhJbVNJdHpjWkl0Mjh0QnV6MjNWaVJwTUp0a01mems2XzV3M3loOVZuYi12aw?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 30, 2026 · 05:59 BRT",
+          "pub_date": "2026-08-30",
+          "pub_ts": 1788080394,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",

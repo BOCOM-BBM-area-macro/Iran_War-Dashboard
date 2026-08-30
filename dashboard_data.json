@@ -3647,7 +3647,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-28"
+      "pub_date": "2026-08-29"
     },
     "https://www.bloomberg.com/news/videos/2026-08-28/balance-of-power-late-edition-08-28-2026-video": {
       "summary": "",
@@ -3789,6 +3789,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-29"
+    },
+    "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
+    },
+    "https://www.reuters.com/world/middle-east/irans-khamenei-urges-gulf-rulers-written-message-confront-real-enemy-2026-08-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
     }
   },
   "last_digest_success": true,

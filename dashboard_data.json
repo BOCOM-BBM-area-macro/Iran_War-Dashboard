@@ -4054,7 +4054,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-08-30"
     },
     "https://www.reuters.com/world/middle-east/irans-army-says-it-attacked-uaes-al-minhad-air-base-with-drones-state-tv-reports-2026-08-31/": {
       "summary": "",
@@ -4147,6 +4147,46 @@
       "pub_date": "2026-08-31"
     },
     "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-31/saudis-explore-about-8-billion-in-loans-as-war-strains-finances": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.reuters.com/world/middle-east/qatars-first-quarter-gdp-falls-7-iran-war-weighs-energy-production-2026-08-31/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html": {
       "summary": "",
       "tags": [
         "extracted",
@@ -4312,7 +4352,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-31T11:12:25.168691+00:00",
   "last_generated_date": "2026-08-31",
-  "last_generated_time": "2026-08-31T08:01:53.383718+00:00",
+  "last_generated_time": "2026-08-31T09:01:53.444110+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -4054,7 +4054,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-30"
+      "pub_date": "2026-08-31"
     },
     "https://www.reuters.com/world/middle-east/irans-army-says-it-attacked-uaes-al-minhad-air-base-with-drones-state-tv-reports-2026-08-31/": {
       "summary": "",
@@ -4191,6 +4191,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-31/uae-fends-off-iran-attack-urges-new-approach-to-ending-conflict": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4352,7 +4362,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-31T11:12:25.168691+00:00",
   "last_generated_date": "2026-08-31",
-  "last_generated_time": "2026-08-31T09:01:53.444110+00:00",
+  "last_generated_time": "2026-08-31T10:01:58.209281+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

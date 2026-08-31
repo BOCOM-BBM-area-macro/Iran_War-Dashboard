@@ -4054,7 +4054,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-30"
+      "pub_date": "2026-08-31"
     },
     "https://www.reuters.com/world/middle-east/irans-army-says-it-attacked-uaes-al-minhad-air-base-with-drones-state-tv-reports-2026-08-31/": {
       "summary": "",
@@ -4091,6 +4091,46 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/live/2026/08/30/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-31/uae-fends-off-iran-attack-urges-new-approach-to-ending-conflict?srnd=all": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4256,6 +4296,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Global Oil Price Jumps After U.S. and Iran Trade Attacks - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tUGN0NXFwRkNSc1FHOHRubzhJbTluUlc3YWpSbXlrUHZlbDRoN1lMNU44Z0gwMC05eVJvOFJyWnJBZ2U1V0tLb2NTODE4Q3ZMZ2xJRUhLUEtGUER1c2J6d2hfNmxSczEwV3NaVm1oODIzSC1Lb3lN?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 06:07 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788167220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran dismisses Trump's post of attack on key energy hub of Kharg - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVQzSG1hcjZUa3F4dlBHbmczSFliQ3d6ZVgtWjl6RzgtYjE4cGtXNjhpRHhmU0pBb1FSQl9iUHN5b0FUZHFMX0JDSFNONERPQ0c0T2Z6ejBFWE9jUldMUU9sVzJKT1Z0R0JaWGFUaHZUdnNtcVEwclRIZ29vZnpqd1JJOHg1Qmx2cHZ0TVMtVEtjWEdNbE1kZDY4cGxUNlRxYkpsVm1UUnZ3RjE2Z3cwRlQ3WVRWU0hO?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 05:42 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788165747,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Asian Refiners Scoop Up Argentinian Oil as Iran War Hits Supply - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXZVNWk2cDF1STA1Ml9mVjhSX2FNdThITDlHaU1yWVFUUktFMV9PcmEyUVBGMEdCYnowNnVPeTdjZmFqenlISEdxY2RqNmd6SmtCblREdmJVOVUweTVjLUtBTlBlZElhZkZUMnFCbGtkVnd6bUZreWR1VzhvWnA5MllWQzRucUxfOEZoUTlIZ1hLRmwtMzhScjRxMHRTdm05RDZsTmJ4WDBFT1ZGdDRvcDhid0Q?oc=5",

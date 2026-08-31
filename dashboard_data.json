@@ -4025,6 +4025,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-30"
+    },
+    "https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
     }
   },
   "last_digest_success": true,
@@ -4180,7 +4190,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-30T11:10:04.939265+00:00",
   "last_generated_date": "2026-08-30",
-  "last_generated_time": "2026-08-30T22:02:07.375515+00:00",
+  "last_generated_time": "2026-08-30T23:01:58.459721+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4195,6 +4205,20 @@
           "published": "Aug 30, 2026 · 19:42 BRT",
           "pub_date": "2026-08-30",
           "pub_ts": 1788129752,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil jumps more than 1% after US attack on Iran's Larak island - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 30, 2026 · 19:12 BRT",
+          "pub_date": "2026-08-30",
+          "pub_ts": 1788127920,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

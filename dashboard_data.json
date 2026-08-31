@@ -4054,7 +4054,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-08-30"
     },
     "https://www.reuters.com/world/middle-east/irans-army-says-it-attacked-uaes-al-minhad-air-base-with-drones-state-tv-reports-2026-08-31/": {
       "summary": "",
@@ -4201,6 +4201,39 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.axios.com/2026/08/31/iran-russia-diesel-gasoline-prices": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.washingtonpost.com/world/2026/08/31/irans-economy-long-accustomed-sanctions-feels-new-us-pressure/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.jpost.com/international/article-907141": {
+      "summary": "In reference to the killing of anti-regime protestors, Trump claimed that over 100,000 have been killed and asserted that the regime in Tehran must be tried for war crimes.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "iran sanctions",
+        "islamic regime"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4362,7 +4395,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-31T11:12:25.168691+00:00",
   "last_generated_date": "2026-08-31",
-  "last_generated_time": "2026-08-31T10:01:58.209281+00:00",
+  "last_generated_time": "2026-08-31T11:02:02.959042+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6334,6 +6367,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "The Iran war's mounting cost to U.S. drivers - Axios",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbW1PUDZ6MUZ4dWRtSHhWVFdPRWdYSUwtXzFMbTE0QmpZOEhTbGpiT1ZTYW05VmJLeW9LdGhrbDNTSWNNRXpWaTNZZ1pKb3dXbzZ5YVNWWElxcVZRUDlZdlBvVW5VTXd3RG13YUNIWU5zbFBwdHc?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 10:24 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788182672,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Funds Add Bullish Gasoline Bets at Fastest Pace in Six Months - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjZ3Yjc3N0xISjhmNjRKbjdoenpMN05Sa1BoYmUxNldqNjljZllaYm5KNG1rcDBicllUSjVHZE9SdjJBN1UtSk55cTRHc2Y3N2ZnOXFQSWhIcmlPR0xLY1FfZ0toTW5PSzFfZHdTc1ZCTmp5S0NFVEhkbzJsTWhxdDdyZFlJWUNuTHRsek9QYU56MHFoNWZCaDNRZW40b0lBZG9MakVxaFdpVW5nYU9FT21n?oc=5",
           "source": "Bloomberg.com",
@@ -7007,6 +7054,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "Turkey says it has Black Sea grain plan and is in contact with Russia, Ukraine - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzNCeTl1Slh2LXg1ZW04UUFZS2xtdHE5ZjhXZ2FlVmZsTTRiN2dENVBjZFAyTWk3a0s1cDltV1dsSXFjWlNuTU5RaG9abDE2bVFGS3lNTC1NZWFsS2hUM3FpQUJQd2Y0dVdMWlhEUjdMb1B3blNPV0I4VDZwVkVleDNjRHlMNTY3aGFzRThESGhMejJFcENCR2hzZFpsVHRhMC1WSVV1SlZwVk1wV0xKTk5NMUZLbVI5VFNqRUprTU90UQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 10:19 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788182384,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "War, Weather Push Crop Prices to Biggest Monthly Gain Since 2012 - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ05ZdjBlM3NjMFNLOC11anZKTFVpM0NVTXEzQl9qX0hjZFUxVXU3S1BaZXRMaVlCVnNianNCeWphcmcyS29fOVprTUFuVkVTMkFDSnZ1NUUzTTNmVS1aMWFVYzZsV1NmOFFCWHVnNDJaRmVrZDlaTkhCVGoxaFg0b2NpSXZ3TjBoT1R0WHhianlpQnp1VDB2MFJxU3pnWTRHR0lTaDBIcVh4OFlZa01uRDRlQ18?oc=5",
           "source": "Bloomberg.com",
@@ -7291,6 +7352,20 @@
           "published": "Aug 30, 2026 · 14:13 BRT",
           "pub_date": "2026-08-30",
           "pub_ts": 1788110038,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US hits Egyptian bank branches with Iran sanctions as war marks six months - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnRmTktBaHNUcXJSeXVoMEhUSDg0QlpTRkFGcllGUW5zcW84bE81NjQxTWZ0VjBSNHpxZjBnRkNmVHAyZkFaNkYtYXZ4R1VaRlpIVHF0YVIwZ3BfY1ByZVdKM0RPOXBNMnJzTDkyVnF6b0FnNlRFQ0ozTk02cWY0dHZPYm40TUY2TVlSUklxWUJWVkdZdXNYX21TM05QV1R4dnBxU3pWekdVelEwWXZObHNn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 14:37 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787938639,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

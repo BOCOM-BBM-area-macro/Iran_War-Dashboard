@@ -3788,7 +3788,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-29"
+      "pub_date": "2026-08-30"
     },
     "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html": {
       "summary": "",
@@ -4031,6 +4031,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-30"
+    },
+    "https://www.washingtonpost.com/ripple/2026/08/30/iran-war-college-protest/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

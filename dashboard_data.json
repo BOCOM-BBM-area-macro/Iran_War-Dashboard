@@ -4288,6 +4288,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-31"
+    },
+    "https://www.wsj.com/opinion/a-realistic-look-at-the-iran-war-d6af0908": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.bloomberg.com/graphics/2026-lpg-trade-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.bloomberg.com/graphics/2026-lpg-trade-iran-war/?srnd=phx-asean": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
     }
   },
   "last_digest_success": true,
@@ -4445,7 +4485,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-31T11:12:25.168691+00:00",
   "last_generated_date": "2026-08-31",
-  "last_generated_time": "2026-08-31T18:01:57.280351+00:00",
+  "last_generated_time": "2026-08-31T19:02:13.055573+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6659,6 +6699,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VaFNUR0NSRkhEcVlpcXZZcFVWaWNMOVFxVnZ2M2lFRjNOS19Wa191N3VYb3J4VG04RHotc3FTUzI5R3gwamJhc2pKR211QWRnZFdJYi1Bd2ZpdksxZ0ItOW0yV1BBeDFxaHlR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 18:00 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788210000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "High Gas Prices and Mideast War Are Giving Voters Flashbacks to Bush - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZklUUjBqSEpNMDMtYkFQdzJHaHl5aUZMX1g3V0FzckZWWk5SRHMtb0hJVHNHcjFoa2htSWYzdzdza2xRYnkwU1ZKdVBwTk1TZFdIU3duc0QzN2NQdUxhdnlaRlRzc1k4aVhUVThuMU95LXV3Zm9rVTA0UjA5bnJndVJvXzhIS3ZvaFBIaE9ncjVQX2lZVHVWczRFLTJkLW9ISWxKRUNNNHlKME5LOTdvYnNJMTVjdU0?oc=5",

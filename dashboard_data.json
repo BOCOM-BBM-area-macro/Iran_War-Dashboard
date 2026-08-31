@@ -3964,7 +3964,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-30"
+      "pub_date": "2026-08-31"
     },
     "https://www.axios.com/2026/08/30/us-iran-strike-hormuz-mines": {
       "summary": "",
@@ -4057,6 +4057,26 @@
       "pub_date": "2026-08-30"
     },
     "https://www.reuters.com/world/middle-east/irans-army-says-it-attacked-uaes-al-minhad-air-base-with-drones-state-tv-reports-2026-08-31/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-31/asian-refiners-scoop-up-argentinian-oil-as-iran-war-hits-supply": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.reuters.com/world/middle-east/trump-posts-ai-video-irans-kharg-smithereens-no-evidence-attack-2026-08-31/": {
       "summary": "",
       "tags": [
         "extracted",
@@ -4226,6 +4246,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Asian Refiners Scoop Up Argentinian Oil as Iran War Hits Supply - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXZVNWk2cDF1STA1Ml9mVjhSX2FNdThITDlHaU1yWVFUUktFMV9PcmEyUVBGMEdCYnowNnVPeTdjZmFqenlISEdxY2RqNmd6SmtCblREdmJVOVUweTVjLUtBTlBlZElhZkZUMnFCbGtkVnd6bUZreWR1VzhvWnA5MllWQzRucUxfOEZoUTlIZ1hLRmwtMzhScjRxMHRTdm05RDZsTmJ4WDBFT1ZGdDRvcDhid0Q?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 00:57 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788148620,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5",
@@ -6158,6 +6192,20 @@
           "published": "Aug 26, 2026 · 06:02 BRT",
           "pub_date": "2026-08-26",
           "pub_ts": 1787734977,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran Fuel Shortages Spark Lines at Pumps as US Pressure Bites - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMThUa3NGUkZSajdaaFR5UnRXVElQcEJoeG9FSE9qcEtFdi1VXzVmSjRYbGRCSHVaWDVCM0ZjXzQ0VU9hTUJnU3pKZFlIU0JlUmFibUdaMzc2SHppY2puVjQ4Skc0S1RhWnlqVmVVSldJU3g1ZDg1aFF1LThNckZUcXBHWUNYM1RDNE5oNU9YQXhRWllVZEpNMktzdkd0MGZRSjQtaTh2YUJOUUloVWVKLTNn?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 24, 2026 · 12:33 BRT",
+          "pub_date": "2026-08-24",
+          "pub_ts": 1787585618,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

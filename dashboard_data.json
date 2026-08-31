@@ -4238,6 +4238,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-31"
+    },
+    "https://www.ft.com/content/8b09b3fc-bb61-4d9f-aac6-bcef9883fa16?syn-25a6b1a6=1": {
+      "summary": "Oil prices rise after exchange of fire between warring countries ends weeks of relative quiet",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.reuters.com/world/middle-east/trump-was-sending-message-iran-with-kharg-island-post-says-vance-2026-08-31/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.washingtonpost.com/opinions/2026/08/31/hegseths-purges-pentagon-leaders-threaten-national-security/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
     }
   },
   "last_digest_success": true,
@@ -4395,7 +4425,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-31T11:12:25.168691+00:00",
   "last_generated_date": "2026-08-31",
-  "last_generated_time": "2026-08-31T12:02:04.310170+00:00",
+  "last_generated_time": "2026-08-31T13:01:54.183021+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -4337,7 +4337,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-09-01"
     },
     "https://www.washingtonpost.com/politics/2026/08/31/trump-suggests-major-escalation-against-iran-is-unlikely/": {
       "summary": "",
@@ -4347,7 +4347,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-09-01"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/asias-refined-fuel-imports-hit-post-war-low-can-middle-east-help-2026-09-01/": {
       "summary": "",
@@ -4394,6 +4394,36 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.reuters.com/world/middle-east/iran-war-could-keep-inflation-high-ecb-policymaker-rehn-warns-ft-reports-2026-09-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-01/cooking-gas-reveals-extent-of-iran-war-energy-shock": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-01/trump-dismisses-little-war-with-iran-as-clashes-resume-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4752,6 +4782,20 @@
           "published": "Aug 28, 2026 · 23:04 BRT",
           "pub_date": "2026-08-28",
           "pub_ts": 1787969040,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace - nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wd05wa1llUXZOMnFCRHd0RGZVOElYc1o1NjFJWTZDWlI3UXVCOTFIZzVsR2RVeUl6M0NPQ1pYOFJ1V0JuNkVZNXZPaVp0Q2lLMllzeHlHNmVlTHVSOTQzVlBVQnJEY3pvSE1zTHVQZ1NhaXVk?oc=5",
+          "source": "nytimes.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 18:45 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787953513,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -6783,6 +6827,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Watch Cooking Gas Reveals Extent of Iran War Energy Shock - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUR2S1oyQ1R0b092ZWtjcXdabGFzR2NZeDA1VHNiWnFHVWlmejVlZFRrNE5DU01uemMwUnE0dDdJNTVDTFIzaE56RE1DMVgza25DcDItQ2lOOGdiYlc5cERMdl9RejRCX0Zsc3FCb2NpRzlWemw3QTdFSG5TZC15eGUzRzNfMExRdkpSbVdGOTI5NDVFTldiNEtHVWhmZnlOOUE?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 01:34 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788237254,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VaFNUR0NSRkhEcVlpcXZZcFVWaWNMOVFxVnZ2M2lFRjNOS19Wa191N3VYb3J4VG04RHotc3FTUzI5R3gwamJhc2pKR211QWRnZFdJYi1Bd2ZpdksxZ0ItOW0yV1BBeDFxaHlR?oc=5",

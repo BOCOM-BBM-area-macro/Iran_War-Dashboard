@@ -4760,6 +4760,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-01/us-stock-futures-drop-as-rising-oil-prices-stoke-inflation-fears": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
     }
   },
   "last_digest_success": true,
@@ -4911,7 +4921,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-01T11:13:08.090363+00:00",
   "last_generated_date": "2026-09-01",
-  "last_generated_time": "2026-09-01T19:02:06.702096+00:00",
+  "last_generated_time": "2026-09-01T20:02:02.200087+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4926,6 +4936,20 @@
           "published": "Sep 01, 2026 · 18:04 BRT",
           "pub_date": "2026-09-01",
           "pub_ts": 1788296640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US Stock Futures Drop as Rising Oil Prices Stoke Inflation Fears - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUxYS0haWEdhYWlSV2lqWHNaY3VDUTdnakpLcnJHVTJITkVRWUpvdTd0clZkamMtX3AxeWNkRzJPdE1XQm9YSk5BUkYxRGQ1LXRESG9HcnNDNHdfcldmb0VqLVJWdzBZNnVxdTc0T05GdVdndkloUVpHdWFPcDAyUGU5ZFFfeTdFVS0zUjRlUElheTh3aXk4R294TmI2UjZ6dzFZY0tXbWNfb2lGM0EtRnczMEt0UQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 17:33 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788294826,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

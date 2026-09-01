@@ -4147,7 +4147,7 @@
       "pub_date": "2026-08-31"
     },
     "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html": {
-      "summary": "",
+      "summary": "The renewed attacks were the latest sign that the war that began six months ago appears far from over.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4167,7 +4167,7 @@
       "pub_date": "2026-08-31"
     },
     "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html": {
-      "summary": "",
+      "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4338,6 +4338,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-31"
+    },
+    "https://www.washingtonpost.com/politics/2026/08/31/trump-suggests-major-escalation-against-iran-is-unlikely/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
     }
   },
   "last_digest_success": true,
@@ -4495,7 +4505,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-31T11:12:25.168691+00:00",
   "last_generated_date": "2026-08-31",
-  "last_generated_time": "2026-08-31T20:01:59.831871+00:00",
+  "last_generated_time": "2026-08-31T21:01:59.341911+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6713,6 +6723,20 @@
           "title": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VaFNUR0NSRkhEcVlpcXZZcFVWaWNMOVFxVnZ2M2lFRjNOS19Wa191N3VYb3J4VG04RHotc3FTUzI5R3gwamJhc2pKR211QWRnZFdJYi1Bd2ZpdksxZ0ItOW0yV1BBeDFxaHlR?oc=5",
           "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 18:00 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788210000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock - bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CR3RiNzBzV2VEMjdOb3d5UWR6T2RfTWZSMUhOY3RqcXh6QjE2UU5scktXYkd3UGtxUDI0c0Z6aTVhZWdBcUFRMHh6NWxqWHNsUXctc1FZS1dFbFhwc3FBaG5SV29GS1ZTcUNxNWtvZWpnNl9UUG1XZWNwRFZtVVU?oc=5",
+          "source": "bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
           "published": "Aug 31, 2026 · 18:00 BRT",

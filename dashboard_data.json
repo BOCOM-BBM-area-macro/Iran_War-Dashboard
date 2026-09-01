@@ -4104,7 +4104,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-09-01"
     },
     "https://www.nytimes.com/live/2026/08/30/us/trump-news": {
       "summary": "",
@@ -4457,6 +4457,39 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-01/trump-dismisses-little-war-with-iran-as-clashes-resume-video?srnd=phx-technology": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-907210": {
+      "summary": "The prime minister, alongside Education Minister Yoav Kisch, visited the school and talked with teaching and administrative staff, as well as the students on their first day of class.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "education",
+        "school",
+        "education ministry",
+        "Yoav Kisch"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -6959,6 +6992,20 @@
           "_rank": 0
         },
         {
+          "title": "German Finance Minister to Press G20 on Iran War, Trade Fights - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMV9lcE0yUU9ydEk2ZWIxb3NONUoyeG9UczdRQU45WW96VDZ6NjBGYnNKcnNENWtNLWVfU2N0OHhNdVZkejNfTjNEZTNuRE94RkVuazYxTGNGZXRVVUJCZGVKa09FMm9WT1d1UFNQNTQ0eUhPeDg3RUNJeVpGV1pEQkhYTFZDYVQyYWJJQVFQdVFMNmkyalZrc01UbXctaUVXTmRZcHFUdnRJeVNGTXBCeFdB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 30, 2026 · 07:30 BRT",
+          "pub_date": "2026-08-30",
+          "pub_ts": 1788085800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Trump announces Venezuela oil deal, as gas prices still high 6 months into Iran war - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0JhdWtYanRaZWdnU3AzQWNxVEZVOVJMdUh4UnNpai1qRUUtVVE1NTNMbmVYSGtpbHZDY0J2VE5PNDUwQkw2VFdIUHVRcVBodExsRlRmQTRfX0hZbk9SN2Z5MW54My1vZVZYLTFfcEgwVWxNWHR0R29vN1VCVTAyMG03X2RuZS1CTmwtWFZXU1JSU1M2d25RX0oyX1R1dHd3ZVoyT3h2MTgxS3U5NzBzN0djTdIBuAFBVV95cUxOTlprQjBwZDQ0WVphbk85VzNzR01jdkN0Y0staWszdDFVSnlNVjVCcFFCMmt6YURPN0VYRmdHR1oza2V5cUlIOUJUZkdCM3hqMjBQaHRpeWRtLWJQNlB5SWFVeUVRdWtuZ3hFM0kycEY2ajA3bzRUNnByeE9Wd3NEOXZPYzRKb1R2N0JCRlRPTzd2Rng3RS1wc2V2R1p0b2hhZGRPVWFQNHJMR1IycmNMRXFOSnJ5VzVP?oc=5",
           "source": "The Times of Israel",
@@ -7481,6 +7528,20 @@
           "published": "Aug 27, 2026 · 09:20 BRT",
           "pub_date": "2026-08-27",
           "pub_ts": 1787833250,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Wheat Hits Three-Year High as Russia Prepares to Escalate War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2ZVZUpjSEp5VjJyNDJUVktGMzVmVXlvWlNld1FsQ2REcTFzQ1JEZFRlc3BEcmtBSTNGcUhUUjNadmM2dUNnaW1zUXBSaDV1ZktCXzFqV0Q3anNFbUZPY0JXREMyUnFVdlFDeTFIVzMyR0g5OC1YbzVOUFZ6TExNTkhVdlVXZ2dQQ1VTUXBFUkN6VTJLamx5LURmNGwtUmNNMU9VQjFfUThOUHJxTF9HVWRB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 08:45 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787831137,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

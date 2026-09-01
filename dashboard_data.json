@@ -2590,7 +2590,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-25"
+      "pub_date": "2026-08-28"
     },
     "https://www.timesofisrael.com/liveblog_entry/report-gabbard-warned-trump-war-with-iran-would-bring-in-more-hardline-regime/": {
       "summary": "",
@@ -4660,6 +4660,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-01"
+    },
+    "https://www.reuters.com/world/middle-east/us-striking-iranian-targets-around-strait-hormuz-axios-reports-2026-09-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.reuters.com/world/trump-says-latest-strikes-iran-are-justified-warns-tehran-against-retaliation-2026-09-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
     }
   },
   "last_digest_success": true,
@@ -4811,12 +4841,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-01T11:13:08.090363+00:00",
   "last_generated_date": "2026-09-01",
-  "last_generated_time": "2026-09-01T15:02:13.513246+00:00",
+  "last_generated_time": "2026-09-01T16:02:08.291348+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US launches new barrage of strikes on Iran around Strait of Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 15:11 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788286265,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFZkN6WmpBSk00S0NlbjVzeXlJR3h0aG04a0RoWGpqNDl6bU9TaWtuQmpfeHlXTzcyWVNMdlROLVZhX2Z5TjRGR3pRVmZvS2V1UkdoOFQ5M3UxdHdMREJBNmZUOFMxZ3owdGNvR1NPTklwVzNaRFVFTzRrT0NRQlk?oc=5",
@@ -4888,6 +4932,20 @@
           "_rank": 0
         },
         {
+          "title": "Oil Supertankers Reportedly Struck by Projectiles in Hormuz - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkpsdW5PVkUxWXJBNGZMZTNDRHZUdzJsZUJ4WkhMTDBGRnVRQ3NjMFNRU3Npd3dwYmhJSFdkWTBVdm5zc0RiWWd1X0NRTl8zUTJaYXZ5SG54MW5ObnQ1UDRia3AzNXpDTFVwUWFfbjZ2VFk0aXpfSFlFMVlYc2lScTd0SFZoX0tnbE5WRVdSSkI2RkNSdGRucl9Zc0lkdzE3Sm5BeGUtS3EzZkNTX2VabWE4VnIyZzBtSjJBN1h0R09naTY0MVEtcA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 21:00 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788220800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil to hold above $80 a barrel as Middle East supply risks persist - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZm1UZWgzbTlVVzdIeFRJQWN1TEMtZGdwZFpaaUx6ZmhNU0RrakpicWtuNHNKb0JPc2VvbURJZzlYQkNzVk9Sc3NoMFBjcWZHQ0NoQ3hmaG1iZS0zdjJlbERFU25uN2VaNGp0Q3ZBb0JPRldfQjZLVDB5X25NdlBBT04tblFSdTFPTTVLUWxRMUNkM1NNSjE5X1A1WDlVUmtLZUs1bjItRmFqd1hEbHdzbDJn?oc=5",
           "source": "Reuters",
@@ -4932,6 +4990,20 @@
         {
           "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4N2xwUVVOMzd4SkxPTHExSWs1RzhBaG9PVDJIdE1VMThDSFZCWXEwazdwbklwRnAyVTlaR3JtOEd4RHJfNlJjUElCaXZtdGRyX1lXbERkQkt5aFRYNk1QMGZqeV9NWG5iOEhFS1l3V3Y4Yi1lb2RVb19EQWwtQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 06:04 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788167044,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVd0eHhIM3Fod1Q0M2ZNWmtRQTJLWlhWa25SNHFvYmQ2QldxTzJSWk5vYnpOaUlFcWpJTjE1dklsaHN5S2E3eEdHWkVTRXM0NndtTVl4VEotMU1MNWktTmQ1cXY3OGF0QnBMWnpPcGFFa1ROQjZIZUVCbzN5NnNQMzdETmhRSHVRcnE4YlZVcUJXRkpBWXZ4aU5UMll6ZTA1UnlUcTlKY24ySDAwV1QxQkllWGIxaFE?oc=5",
           "source": "The New York Times",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
@@ -7693,6 +7765,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Euro zone inflation rises above 3%, cementing ECB rate hike bets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlU0ZGJQMWt6NVhpVng4SW1jUk1SM3NXZWlRZzliNnV5emhYeDRaVF9FYnA1aWNDUVphdW1hQTcwRWVOVGR1YjBfdm9sOUlWcFpCSnFwOVNubkh6VnZrTjRyMERVTWRKaXYzZHNaVjBZZ2hYT015OHgzb2o5S25uaG1OaFNGVzRpZk1XSDZMMVhhUUM1V19VbWktVnRmXy1YbEFUS3JxeGEtY0E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 15:04 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788285878,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Turkey says it has Black Sea grain plan and is in contact with Russia, Ukraine - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzNCeTl1Slh2LXg1ZW04UUFZS2xtdHE5ZjhXZ2FlVmZsTTRiN2dENVBjZFAyTWk3a0s1cDltV1dsSXFjWlNuTU5RaG9abDE2bVFGS3lNTC1NZWFsS2hUM3FpQUJQd2Y0dVdMWlhEUjdMb1B3blNPV0I4VDZwVkVleDNjRHlMNTY3aGFzRThESGhMejJFcENCR2hzZFpsVHRhMC1WSVV1SlZwVk1wV0xKTk5NMUZLbVI5VFNqRUprTU90UQ?oc=5",

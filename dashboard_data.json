@@ -4127,7 +4127,7 @@
       "pub_date": "2026-08-31"
     },
     "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html": {
-      "summary": "",
+      "summary": "The first attacks in a month jolted energy markets. The average U.S. gasoline price remained 37 percent higher since the war began.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -4348,6 +4348,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-31"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/asias-refined-fuel-imports-hit-post-war-low-can-middle-east-help-2026-09-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/2026/08/31/us/politics/us-strikes-iran-new-naval-mine.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.wsj.com/world/middle-east/iran-war-impact-dd90b2d0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-27"
     }
   },
   "last_digest_success": true,
@@ -4505,12 +4535,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-08-31T11:12:25.168691+00:00",
   "last_generated_date": "2026-08-31",
-  "last_generated_time": "2026-08-31T21:01:59.341911+00:00",
+  "last_generated_time": "2026-08-31T22:01:57.377579+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "COMMENTARY: Asia's refined fuel imports hit post-war low, can the Middle East help? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNelE0TndjVTdVVXM1UFdzWDc0SnlzbDM2ZzRmY3JTaVZwcVZ4RGtkajFKQ0hsZllxQ3BrWmxaeFJpaGFvaDZGSWpaSFBEaWdOb05QbmJISzFsdzhVWVlhZ0diWlJaNzRqQTBIRGNhZ1VvemhnQ05zNnFQR3MxMFNGQkZlRldiamtTeWF5OVQxU0xpTWs5TENiU1RDaG9IYnhsSHNfYm10ZlZaUUMwRVV2RWZHOGZTM3RQNElORm5NTmVucS1CellObS0tc1Rhdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 21:32 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788222720,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Depleted US oil stash loses potency as Iran war grinds on - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUhmd2cwQ2lLMjFlWXpza0hEZWhGZU1NcGg2eGJ3Y0x4OVA0YWhIUVptWmcxVnU0V0hKRnRJR1FQSU5WT2M4aUZDRngzSDVpczVybkN5dUEyZ0FrdFFSaVlxZ0I2WjVLTEprenVzY2VCdFN2c0NXQXhldWxzN1daOGNya2RjMkZsSHN2ZXhuS19kdXJvS3VBYkk4OFVIYmtyN2JoRFJR?oc=5",

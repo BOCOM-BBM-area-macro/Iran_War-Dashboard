@@ -4700,6 +4700,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-01"
+    },
+    "https://www.washingtonpost.com/national-security/2026/09/01/us-carries-out-new-military-strikes-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-oil-bond-yields-spike-u-s-iran-war-heats-up-f87d48da": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3?syn-25a6b1a6=1": {
+      "summary": "Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
     }
   },
   "last_digest_success": true,
@@ -4851,7 +4891,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-01T11:13:08.090363+00:00",
   "last_generated_date": "2026-09-01",
-  "last_generated_time": "2026-09-01T17:02:03.151477+00:00",
+  "last_generated_time": "2026-09-01T18:02:03.994566+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5342,6 +5382,20 @@
           "published": "Aug 27, 2026 · 22:07 BRT",
           "pub_date": "2026-08-27",
           "pub_ts": 1787879250,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Gathers Pace - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWI5QkV6V2hKeEdLQS1KRFVBN3J1Zkx1T19DT1BROVNNa3RJRXdEaEd3SnBxbXVvcGJLekFGRHV0LXlJdE52dW8tX1FLNl94MHA1QXlXaVY4NDhGQk5IRW55R2xqM1hHVGtCbnBsVFEzWENYb2tXOE9tdTlBbEpwX2RzU1l5dzFrU2MzbjNOY2lWeHZtY1A4UUVHcVdZREkyM0ktX0NrYWF6bzZtLWc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 15:55 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787856940,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

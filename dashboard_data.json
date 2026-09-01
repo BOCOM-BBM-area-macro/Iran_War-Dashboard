@@ -4277,7 +4277,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-09-01"
     },
     "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44": {
       "summary": "",
@@ -4427,7 +4427,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-08-31"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/americas-oil-bonanza-will-outlast-iran-conflict-2026-09-01/": {
       "summary": "",
@@ -4513,6 +4513,26 @@
         "New York",
         "September 11",
         "FBI"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-01/how-iran-s-economy-is-enduring-trump-s-war-the-us-blockade-and-sanctions": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4668,7 +4688,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-01T11:13:08.090363+00:00",
   "last_generated_date": "2026-09-01",
-  "last_generated_time": "2026-09-01T09:02:18.342903+00:00",
+  "last_generated_time": "2026-09-01T10:01:59.999977+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7573,6 +7593,20 @@
           "published": "Aug 27, 2026 · 08:45 BRT",
           "pub_date": "2026-08-27",
           "pub_ts": 1787831137,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Top Container Line Halts Russian Black Sea Service Due to Drones - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWRIQk5KdFVwUzRyYThDbkw4V1UzRUxfUU9KR2V0VjloaXhGb01SVHZUYkYwYnJxM0dnUTRoU0FkbGlFR1hlZnozR2JfX2p0VHBFVC1xQjBFcDFBR0ZOdlZ0c1RmVF9tRDMtbG5YWmVqWDM5RGtWcG12V1drZGxvQjktdzV4RkJtQVdxcThDMS1Ed1V4QkFvT0lJRWk1ZHNwTjlmVzQzS0IyZVphTW02Z2FGMmxVdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 26, 2026 · 12:12 BRT",
+          "pub_date": "2026-08-26",
+          "pub_ts": 1787757141,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

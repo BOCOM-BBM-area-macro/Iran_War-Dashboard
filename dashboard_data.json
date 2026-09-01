@@ -4378,6 +4378,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-27"
+    },
+    "https://www.nytimes.com/live/2026/08/31/us/trump-news": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
+    },
+    "https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
     }
   },
   "last_digest_success": true,
@@ -7604,6 +7624,20 @@
           "published": "Aug 27, 2026 · 17:55 BRT",
           "pub_date": "2026-08-27",
           "pub_ts": 1787864100,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "COMMENTARY: The US needs more aluminium — and it needs it now - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlpGd2JqMjhSMlRaRnNTcUZrdEdtWjlvQjRfSWRKa0ZEZ3pweVJaZ3I4SGZIcC10TlNQV0ZfTWNLRDhfUG1jazQ3bmV4NFNYU1B6aVlMczdhQ3h1aDZ6anY0Z3VlanpqQnF4OVhiRHZZVFVhTFFfZnJ1N1RNOGZKVTRQWlk3QWJ0bGpxVXVudTRNQ2pGUkxpYUNZaENzNTdVdG15SmsxYmtEOVA0?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 11:09 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787839740,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

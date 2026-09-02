@@ -5002,6 +5002,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-02"
+    },
+    "https://www.timesofisrael.com/russia-said-helping-iran-develop-supersonic-cruise-missiles/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.reuters.com/world/trump-aides-fearing-midterm-rout-push-keep-iran-war-quiet-now-2026-09-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
     }
   },
   "last_digest_success": true,
@@ -5158,7 +5188,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
   "last_generated_date": "2026-09-02",
-  "last_generated_time": "2026-09-02T11:01:56.599603+00:00",
+  "last_generated_time": "2026-09-02T12:01:49.376972+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5187,6 +5217,20 @@
           "published": "Sep 02, 2026 · 01:15 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788322517,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US pounds Iran, Tehran strikes back at bases in biggest exchange since July - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 23:41 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788316860,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -5285,6 +5329,20 @@
           "published": "Sep 01, 2026 · 14:36 BRT",
           "pub_date": "2026-09-01",
           "pub_ts": 1788284169,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US launches further strikes on Iran as conflict flares up - ft.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RfODhKMWhTYjV3c1RJU2RvZXZWUEw3UVZWbXdCZEp2Y0lHUENLbmZhWEpZNG5wbkdxLWZuX0hiOUlpVldjdEplZVktUjlhSHlGbkFqaXBtejBoc0lGdHNSWnR6QS01aUZJeC1xdjNWSTlER3RSQVQ4a3lNQWFBWkhEZ18?oc=5",
+          "source": "ft.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 13:55 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788281704,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

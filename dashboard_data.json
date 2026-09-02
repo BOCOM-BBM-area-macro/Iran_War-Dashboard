@@ -5045,6 +5045,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-02"
+    },
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.nytimes.com/video/world/middleeast/100000011127718/iran-war-us-missile-strikes-wedding.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-02/carney-extends-gas-tax-break-as-iran-war-keeps-energy-costs-high": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
     }
   },
   "last_digest_success": true,
@@ -5201,7 +5241,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
   "last_generated_date": "2026-09-02",
-  "last_generated_time": "2026-09-02T13:02:04.428496+00:00",
+  "last_generated_time": "2026-09-02T14:02:05.058199+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7808,6 +7848,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Carney Extends Gas Tax Break as Iran War Keeps Energy Costs High - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM1pUaTFiX0R3TkU0M2E5Z2V6THJUN2VROTdKa2J3VGYzRXRvWnZyb2tnZDNneEtxNUVaQ1djTmlfYU5CdkktaDNFanFZWXZ2QWdoZ3N2dm5TSjZDS19JOEROcWo4UkdCZ0pYVkxKZjF3SVYtZTVZS05xcThFUlhUSXRlb00yRDU1LTFKQ1JJSTRiNzFLY0ZGMGpObThyeURIYk1XU2x5MWFJR0NJZHNTdEdFQVFZQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 11:21 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788358889,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJNc29sNUR2YW04azAyMUFLZG45NlFSQThLR2JsSW5CeXRJWmxyTlBXSFpjSVZLaDgxU3VNSjNQS0ViLTNZTjJyeVM1UjNnSHo1NDdGdjI0WjJkNC1xeUR0WW84TnU1VHdka2c1QVdXcVFoMTlodVpuZWZfRXBSdVVUSmVuR2lxNTgtb3E1aUJ3Sm42VFhoQ3dTdlU0ZHlvNEhSdVhfUGdvNC1LdjlEaHFhRi1PNFBKYTNHVERINDVGRjA?oc=5",
           "source": "Reuters",
@@ -8260,6 +8314,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Could airlines go bust? Ryanair sends jet fuel crisis warning - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMUI1d0pyRFIzZW92ZFloM1R3bkVsRWtxVTRBSUt3Y2UxM3cwTFdoYmxmbmszNjVXdlBETjd2dmt4OENLSnU5WGZPVV9kRGJVcEZxQ1RZUWxncEhEQ2VGTG05dm9QOGs?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 11:28 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788359334,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Lufthansa's Discover Airline says jet fuel shortage affects flights from Namibia to Europe - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF95VlNpbHpVYW5pUXFDWG45czgtQUFscFd5aC1iUDNocHhLNmR0UHhNcENfbnk0YUc1VzhyNGFfSjRQN2M2aHlwc0pLc095QW5sOTJQemdDV2lwLUNTcTZPZTE2M01DWTd4WnFZVG83a3hueVdaYUJDdnlySURNMlV2akZfLWdMcFhUTml4TV9yMVlGRFNtLXZ3WVNLSC05VTZnSnkyUUJCZXhob3pSNjBBTGI5enUwcDF3a3RZdTc?oc=5",

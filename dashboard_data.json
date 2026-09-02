@@ -4770,6 +4770,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-01"
+    },
+    "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
     }
   },
   "last_digest_success": true,
@@ -4921,7 +4941,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-01T11:13:08.090363+00:00",
   "last_generated_date": "2026-09-01",
-  "last_generated_time": "2026-09-01T21:01:59.632033+00:00",
+  "last_generated_time": "2026-09-01T22:02:22.054516+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5090,6 +5110,20 @@
           "published": "Aug 31, 2026 · 19:03 BRT",
           "pub_date": "2026-08-31",
           "pub_ts": 1788213826,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNnphU1AtMUNBdHJQZ292QlFNQ3MxVzZidHRjbzE5ME5keFhhdU5aSmFZRHgwQzA3R0NkdFNHbjJBbmRielVFSG54U0Ewa1Y0Nkd0aFNDdGZRcnJVV1dKcENScU1uYTlqMHlLWFZJbHZNOUdGT21OY2txcmZDZFE?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 31, 2026 · 18:00 BRT",
+          "pub_date": "2026-08-31",
+          "pub_ts": 1788210000,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

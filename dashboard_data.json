@@ -4277,7 +4277,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-08-31"
     },
     "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44": {
       "summary": "",
@@ -4709,7 +4709,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-oil-bond-yields-spike-u-s-iran-war-heats-up-f87d48da": {
       "summary": "",
@@ -4809,6 +4809,16 @@
         "US military",
         "strait of hormuz",
         "CENTCOM"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.reuters.com/world/middle-east/us-iran-exchange-attacks-lull-war-appears-over-2026-09-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

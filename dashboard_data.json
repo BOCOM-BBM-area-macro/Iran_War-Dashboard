@@ -4214,7 +4214,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-08-31"
     },
     "https://www.washingtonpost.com/world/2026/08/31/irans-economy-long-accustomed-sanctions-feels-new-us-pressure/": {
       "summary": "",
@@ -4709,7 +4709,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
     },
     "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-oil-bond-yields-spike-u-s-iran-war-heats-up-f87d48da": {
       "summary": "",
@@ -4869,6 +4869,36 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1": {
+      "summary": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.nytimes.com/interactive/2026/09/02/us/iran-war-us-navy-carriers-supply.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

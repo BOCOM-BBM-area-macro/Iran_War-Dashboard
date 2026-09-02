@@ -4790,6 +4790,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-01"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/peru-cuts-ties-with-iran-accusing-tehran-of-escalating-mideast-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907286": {
+      "summary": "The strikes mark the first time that the US has launched direct retaliatory strikes on Iranian ships in the strait, rather than preventing them from violating the US-imposed naval blockade.",
+      "tags": [
+        "Iran",
+        "Donald Trump",
+        "US military",
+        "strait of hormuz",
+        "CENTCOM"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
     }
   },
   "last_digest_success": true,

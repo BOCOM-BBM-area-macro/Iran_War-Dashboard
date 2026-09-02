@@ -3964,7 +3964,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-08-30"
     },
     "https://www.axios.com/2026/08/30/us-iran-strike-hormuz-mines": {
       "summary": "",
@@ -4822,7 +4822,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html": {
       "summary": "",
@@ -4903,143 +4903,86 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-01"
+    },
+    "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-wave-strikes-iran-2026-09-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-01"
+    },
+    "https://www.jpost.com/american-politics/article-907324": {
+      "summary": "Top Trump aides want to keep the Iran war contained heading into the midterms, as Republicans defend slim majorities. After the election, sources say stronger strikes could return.",
+      "tags": [
+        "Elections",
+        "Iran US Conflict",
+        "iran us news",
+        "us iran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-01T11:13:00.750954+00:00",
+  "last_digest_time": "2026-09-02T11:06:25.194986+00:00",
   "digest": {
-    "digest": "Recent developments indicate a resumption of limited military clashes between the U.S. and Iran, following a brief lull. The U.S. has reportedly conducted strikes against Iran, prompting retaliatory actions, with President Trump characterizing the conflict as a 'little war' while acknowledging potential for escalation. Mine warfare in the Strait of Hormuz continues to impede U.S. efforts to secure control of the vital waterway, impacting global energy markets. The economic repercussions of the Iran war are becoming increasingly apparent, with concerns raised about sustained high inflation affecting U.S. drivers and potentially Asian refined fuel imports. U.S. oil reserves are reportedly depleted due to the ongoing conflict. Diplomatic signals suggest Iran's president has indicated a willingness to reciprocate if the U.S. honors interim deal commitments, a stance echoed by Iranian officials at international summits. Meanwhile, U.S. sanctions on Iran are impacting educational opportunities for Iranian students seeking to study abroad. The broader geopolitical landscape shows Europe protesting the U.S. invitation of a Russian minister to a G20 finance meeting, indicating complex international relations amidst the conflict.",
+    "digest": "The United States and Iran have engaged in a significant exchange of strikes, with the US conducting multiple waves of attacks and Iran retaliating against bases. These actions, particularly those focused on the Strait of Hormuz, represent the most intense fighting since July. The US military has completed its latest strikes, while Iran has also struck back, indicating a widening conflict. Domestically, there are internal discussions within the Trump administration regarding the timing and intensity of military action, with a push to keep the conflict \"quiet\" before the upcoming midterm elections due to low public approval and concerns about electoral impact. Despite this, President Trump has warned Tehran against retaliation, threatening a more severe response if provoked. The conflict's strain on US military resources, including depleted munitions stockpiles, is a growing concern, prompting discussions about the sustainability of prolonged engagement. Simultaneously, the US is intensifying its economic pressure campaign against Iran, threatening sanctions on countries trading with Tehran and maintaining a naval blockade of the Strait of Hormuz, though the effectiveness of this strategy is questioned due to Iran's long-standing resilience to sanctions and the lack of universal international support. Russia has pledged increased strikes in Ukraine and support for Iran, adding another layer to the geopolitical complexities. The conflict continues to impact global markets, with oil prices spiking and US stocks falling, while the South African rand remains steady, influenced by oil market dynamics and US jobs data.",
     "top_themes": [
-      "Iran War Economic Impact",
-      "US-Iran Military Clashes",
-      "Diplomatic Engagements"
+      "US-Iran military exchanges",
+      "Geopolitical implications",
+      "Economic impact of conflict",
+      "US domestic political considerations"
     ],
     "next_events": [
       {
-        "title": "US-Iran Interim Deal Commitments",
-        "description": "Iran's president has explicitly stated that Tehran will reciprocate if the US honors its interim deal commitments. Analysts should closely monitor any official declarations or actions from either the US or Iran regarding the fulfillment of these commitments, as they are a critical indicator for potential de-escalation or further diplomatic friction."
+        "title": "Potential Post-Midterm US Military Escalation",
+        "description": "Top Trump aides are reportedly trying to keep the Iran war contained until after the November midterm elections due to its unpopularity. However, sources suggest that stronger strikes and a potential return to full-scale conflict could be considered once the elections conclude, marking a critical inflection point."
       },
       {
-        "title": "US Military Posture and Iranian Retaliation",
-        "description": "Following reports of limited US strikes and Iran firing back, alongside President Trump's rhetoric about potential 'smacks' while aiming for limited conflict, the nature and scale of future US military actions against Iran remain a key watchpoint. Observe any new strikes, their targets, and Iran's subsequent responses, as these will signal the immediate trajectory of the conflict."
+        "title": "Continued Iranian Retaliation and Escalation Cycle",
+        "description": "Iran's leaders are expected to continue striking US and allied targets, including military bases and energy infrastructure, despite US efforts to de-escalate. This ongoing tit-for-tat exchange risks an escalatory spiral, potentially leading to a full-scale air war as the US faces pressure to respond to Iranian actions."
       },
       {
-        "title": "Global Economic Impact and Energy Market Stability",
-        "description": "The conflict is already linked to rising inflation, increased costs for US drivers, and a depleted US oil stash, with warnings from central bank policymakers. Analysts must track global oil prices, energy market stability, and inflation indicators, as sustained conflict or escalation could further exacerbate economic pressures worldwide and influence monetary policy decisions."
+        "title": "Effectiveness of US Economic Pressure Campaign",
+        "description": "The US is intensifying its economic isolation campaign and naval blockade against Iran, aiming to force concessions. Analysts should watch if this pressure causes Iran to lash out militarily, and how the campaign's effectiveness is impacted by major powers like China not joining the sanctions."
       },
       {
-        "title": "Strait of Hormuz Maritime Security",
-        "description": "Reports highlight mine warfare with Iran hampering US efforts to control the Strait of Hormuz, a critical global shipping lane. Watch for any further maritime incidents, naval deployments, or international efforts to secure the strait, as disruptions to this vital waterway could have significant geopolitical and economic repercussions."
+        "title": "US Military Readiness and Logistical Constraints",
+        "description": "Concerns are rising over the US military's depleted munitions stockpiles and warnings from service chiefs that prolonging the war is unsustainable. Monitoring the military's ability to replenish resources and maintain readiness will be crucial, as these logistical realities could constrain future US strategic options."
+      },
+      {
+        "title": "Evolving International Dynamics and Support",
+        "description": "Russia has pledged increased support for Iran, while US Gulf allies have urged de-escalation, creating a complex international landscape. Analysts should observe how these shifting alliances and external pressures influence both Iran's resolve and the US's strategic approach to the conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-01T11:13:07.550053+00:00",
+  "last_watch_time": "2026-09-02T11:06:36.943815+00:00",
   "relevant_news": [
     {
-      "title": "Trump says U.S. might ‘smack’ Iran but that fighting is likely to remain limited - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/31/trump-suggests-major-escalation-against-iran-is-unlikely/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 01, 2026 · 02:02 BRT",
-      "pub_date": "2026-09-01",
-      "pub_ts": 1788238978,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
-      "url": "https://www.axios.com/2026/08/31/trump-iran-war-hormuz-hegseth-centcom",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Aug 31, 2026 · 15:16 BRT",
-      "pub_date": "2026-08-31",
-      "pub_ts": 1788200198,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "A U.S. strike on Iran breaks a month-long lull, and Iran fires back - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Aug 31, 2026 · 18:13 BRT",
-      "pub_date": "2026-08-31",
-      "pub_ts": 1788210799,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Mine Warfare With Iran Hampers U.S. Efforts to Win Control of Hormuz - WSJ",
-      "url": "https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 31, 2026 · 22:00 BRT",
-      "pub_date": "2026-08-31",
-      "pub_ts": 1788224400,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "U.S. Stocks Fall as Iran War Inflation Heats Up - WSJ",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Aug 31, 2026 · 18:16 BRT",
-      "pub_date": "2026-08-31",
-      "pub_ts": 1788210960,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Depleted US oil stash loses potency as Iran war grinds on - Reuters",
-      "url": "https://www.reuters.com/business/energy/depleted-us-oil-stash-loses-potency-iran-war-grinds-2026-08-31/",
+      "title": "US pounds Iran, Tehran strikes back at bases in biggest exchange since July - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-exchange-attacks-lull-war-appears-over-2026-09-02/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Aug 31, 2026 · 12:33 BRT",
-      "pub_date": "2026-08-31",
-      "pub_ts": 1788190385,
+      "published": "Sep 01, 2026 · 23:41 BRT",
+      "pub_date": "2026-09-01",
+      "pub_ts": 1788316860,
       "summary": "",
       "tags": [
         "extracted",
@@ -5049,12 +4992,107 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "U.S. and Iran Trade Strikes in Latest Fight for Control of Hormuz - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 01, 2026 · 21:07 BRT",
+      "pub_date": "2026-09-01",
+      "pub_ts": 1788307631,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Latest: US Attacks Prompt Iranian Retaliation as Fighting Intensifies - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 02, 2026 · 07:02 BRT",
+      "pub_date": "2026-09-02",
+      "pub_ts": 1788343371,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 01, 2026 · 14:13 BRT",
+      "pub_date": "2026-09-01",
+      "pub_ts": 1788282821,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US launches new strikes on Iran and Tehran hits back in widening conflict - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 01, 2026 · 08:13 BRT",
+      "pub_date": "2026-09-01",
+      "pub_ts": 1788261180,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 02, 2026 · 07:43 BRT",
+      "pub_date": "2026-09-02",
+      "pub_ts": 1788345788,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-01T11:13:08.090363+00:00",
-  "last_generated_date": "2026-09-01",
-  "last_generated_time": "2026-09-01T23:02:05.390963+00:00",
+  "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
+  "last_generated_date": "2026-09-02",
+  "last_generated_time": "2026-09-02T08:01:51.822028+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5083,6 +5121,20 @@
           "published": "Sep 02, 2026 · 01:15 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788322517,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices steady as traders weigh supply risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 21:55 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788310500,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

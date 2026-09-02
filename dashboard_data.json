@@ -4956,6 +4956,52 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-02"
+    },
+    "https://www.jpost.com/middle-east/article-907335": {
+      "summary": "Iran’s attacks seek to strike an area of Iraq that the regime assumes is not well protected, in a push to move fighting outside Iran and avoid insurrections inside.",
+      "tags": [
+        "Iran",
+        "Iraq",
+        "Kurds",
+        "Iran Conflict",
+        "iran iraq"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.timesofisrael.com/trump-aides-fearing-midterm-rout-push-to-keep-iran-war-quiet-for-now/amp/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907267": {
+      "summary": "Iran will respond to the US' newest wave of strikes with an attack \"several times larger,\" the semi-official Tasnim news outlet reported on Tuesday night, citing a senior Iranian military source.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Middle East",
+        "Donald Trump",
+        "Hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-foreign-ministry-says-us-strike-on-wedding-was-a-war-crime/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
     }
   },
   "last_digest_success": true,
@@ -5112,7 +5158,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
   "last_generated_date": "2026-09-02",
-  "last_generated_time": "2026-09-02T10:01:44.952070+00:00",
+  "last_generated_time": "2026-09-02T11:01:56.599603+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5687,6 +5733,20 @@
           "published": "Aug 28, 2026 · 06:07 BRT",
           "pub_date": "2026-08-28",
           "pub_ts": 1787908055,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Video: How Key Oil Stockpiles Dwindled During the War in Iran - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGIzRmFOeHVmSHJBcEhoMFVMb1pRTkQ1RVBmaWtJZnVrNEw2a1dUVUpQdW5CQ0ZhUUhnMExvYkp4ZnBaM1gzczF0SVQzdkFocUt5RU1kVFdLLWVWeUoxU0U2cU5JQV9NT3JKYmFLeDJYWmRRSmdkc0MwOFBqZElwcE51MFlRNUpKUjVVejVMUkNpLTNoOTMwRWdKYkF1cDZTSVU0b0w0Vk5oRWli?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 06:04 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787907851,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -7648,6 +7708,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJNc29sNUR2YW04azAyMUFLZG45NlFSQThLR2JsSW5CeXRJWmxyTlBXSFpjSVZLaDgxU3VNSjNQS0ViLTNZTjJyeVM1UjNnSHo1NDdGdjI0WjJkNC1xeUR0WW84TnU1VHdka2c1QVdXcVFoMTlodVpuZWZfRXBSdVVUSmVuR2lxNTgtb3E1aUJ3Sm42VFhoQ3dTdlU0ZHlvNEhSdVhfUGdvNC1LdjlEaHFhRi1PNFBKYTNHVERINDVGRjA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 03:10 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788329400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why Trump’s War Hasn’t Broken Iran’s Economy - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUgzdGpUY2ZsckNEd21pbTVXLUFjXzVVZnJOLUs0aHVBS1pXRmZ3QlZPYjFSRzB1LXNDUlNKSEpncmFDRWN3QXhsZklHZW5icTVqWFF4bDFGcmZXc1FlMi1GeUlMb3Y1Y3JyLVNoM1RDdlZiRzFWcHZINUZBMEZDWVFzcmJNSWo3LUZEZHlaZEh3bjZObTczanRwRkdzaTdWb1U0QUJERWwtcnlUd0c0YzFkbWJnbDhmNERTVFhuYWE?oc=5",

@@ -5095,6 +5095,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-02"
+    },
+    "https://www.jpost.com/middle-east/article-907279": {
+      "summary": "Explosions heard in Eilat as sirens sound in southern Jordan following Iranian attacks. Iranian military spokesperson Ebrahim Zolfaghari stated that Iran “will no longer exercise restraint.\"",
+      "tags": [
+        "Iran",
+        "Iraq",
+        "Jordan",
+        "United States",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.reuters.com/world/us/trumps-brief-iran-strike-morphs-into-an-open-ended-conflict-2026-08-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-27"
     }
   },
   "last_digest_success": true,
@@ -5251,12 +5274,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
   "last_generated_date": "2026-09-02",
-  "last_generated_time": "2026-09-02T15:01:48.101927+00:00",
+  "last_generated_time": "2026-09-02T16:01:58.111214+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Video: U.S. Missile Strike Kills Several at a Wedding, Iran Says - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGJqSHNBR3dnakd0eEtocDVZNnRPZU94bThDeWVtcW9SdDlVeGJlY21DMDJHRHBxOGZlLUhWU2VESkNreDJVNk5MWjBPamNuUTlrUmVPb29ya3QxSzVJUk1lVTdCdEV3NjI1MnMzR2Z1UTVfZTFfOEtnUTg4MWtza0xZQm8tNXctWm83UzNFZTRRWU0tbWtYMVBobHJ5UEdBTmNTdDln?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 13:21 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788366095,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "South African rand steady as Iran war lifts oil, focus on US jobs data - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlNvbUsyaFlLdVQ4ZktHZzJ6a3BuM2hzX294VTVLYUVpOWdlOF9KT2NtMEYzS3V1ajE4UE9fUWNEVXNHeUExR1hKNTZlamZKa21UQm03SDVaOVlycDJQdTdkSjVtR1BLSjhZS1Q5WXFXeWZ4ZVhyeWlnRW5ISDJaR1QyOC1keElUaUh6QllfNmlPVnZwaG1WcVEzS1ZVdTViTGR3WUwtcGhTcVZVcTBoR0tB?oc=5",
@@ -8478,6 +8515,20 @@
           "published": "Sep 01, 2026 · 15:04 BRT",
           "pub_date": "2026-09-01",
           "pub_ts": 1788285878,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gulf equities mixed amid escalating US-Iran conflict; Qatar gains - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFpkejd3LUE0X19YR00wcEJoWHV4UXVlbk5Nc2dTcEtuaF9Udkd0X0dtc2o1c3IydjlhOGZCNGphR2doVjNxNGZZMEJ0TWtJTzJvWDJNYWJLRFlKMWlIeUpfUHcteVBwUG9yb2NNNURWRUFtSGphdERuRXFpbTZONDZUbGl3emlfbktFZklBWjkyTTJkaXpqWk1KeTh1VFVzTTlsem80WUU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 10:18 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788268689,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

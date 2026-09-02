@@ -4297,7 +4297,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-08-31"
     },
     "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html": {
       "summary": "",
@@ -4936,6 +4936,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-02"
+    },
+    "https://www.cbc.ca/news/world/iran-tehran-united-states-strikes-9.7329030": {
+      "summary": "Iran and its Arab neighbours were plunged back into war on Wednesday by the biggest exchange of fire between Tehran and Washington since July, with U.S. forces striking Iran's southern coast and Iran firing at American bases across the region.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-02/apollo-s-slok-says-us-yields-set-to-rise-on-iran-war-tariffs": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
     }
   },
   "last_digest_success": true,
@@ -5092,7 +5112,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
   "last_generated_date": "2026-09-02",
-  "last_generated_time": "2026-09-02T08:01:51.822028+00:00",
+  "last_generated_time": "2026-09-02T10:01:44.952070+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5121,6 +5141,20 @@
           "published": "Sep 02, 2026 · 01:15 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788322517,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Indian shares join global slide as Mideast woes mount - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
+          "source": "reuters.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 23:23 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788315780,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -4639,7 +4639,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
     },
     "https://www.washingtonpost.com/world/2026/09/01/putin-pledges-support-iran-rallies-leaders-challenge-us/": {
       "summary": "",
@@ -5047,7 +5047,7 @@
       "pub_date": "2026-09-02"
     },
     "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html": {
-      "summary": "",
+      "summary": "The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -5057,10 +5057,12 @@
       "pub_date": "2026-09-02"
     },
     "https://www.nytimes.com/video/world/middleeast/100000011127718/iran-war-us-missile-strikes-wedding.html": {
-      "summary": "",
+      "summary": "A U.S. missile strike hit a wedding in southern Iran, videos verified by The New York Times show. The U.S. military said it had not targeted civilians in its wave of attacks, and Iran said it had retaliated with strikes of its own on U.S. forces in the region.",
       "tags": [
-        "extracted",
-        "nytimes.com"
+        "Iran",
+        "US and Israeli Attack on Iran",
+        "Missiles and Missile Defense",
+        "US"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5214,6 +5216,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.axios.com/2026/09/02/witkoff-uae-iran-war-trump-bessent": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5374,7 +5386,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
   "last_generated_date": "2026-09-02",
-  "last_generated_time": "2026-09-02T21:02:09.976075+00:00",
+  "last_generated_time": "2026-09-02T22:01:54.305370+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5403,6 +5415,20 @@
           "published": "Sep 02, 2026 · 13:21 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788366095,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "UK bond yields hit fresh 19-year high, adding to pressure on Healey - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlF1REpnZkFBOEQ5aWtMa2dFUExMOFRLMUxBQzgzeTdfYTByQ0dfbldMajJEVVloel9vb19MMEVkSHgtVTFaTGhhcjZRQURfOWREdkZoZGNtR2tvYmYzWkpIbTNzNGxQSGIwcDhsRnNubGhTN254TEMtek5Xdjhhbi03aDRWVG11RVQxbTNGVm80Ny1sRUVlRzFvVGlaNlVMWk1POEJxdkM5SjdGR3RoeG1lQ3M?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 12:30 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788363018,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

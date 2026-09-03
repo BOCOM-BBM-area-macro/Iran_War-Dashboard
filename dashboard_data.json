@@ -5252,7 +5252,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-03"
     },
     "https://www.reuters.com/world/middle-east/iran-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03/": {
       "summary": "",
@@ -5613,12 +5613,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-03T11:07:21.403055+00:00",
   "last_generated_date": "2026-09-03",
-  "last_generated_time": "2026-09-03T12:02:47.468438+00:00",
+  "last_generated_time": "2026-09-03T13:01:33.990032+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High - nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnZkbk1hTzlhVkotM3JKYWdLVkJfREM3N0dqNDFXSW5JY04yLXpCMDVUVHQ0SFVRdG45NFdFZUlTVEY5MUotQUx0MjZkM2NWdTh6bXlWOTl4WTNlWHlfOTdFYnF2MFEyXzNVTHJ0d05OdlpieGcwQklJMmFfNHlxdg?oc=5",
+          "source": "nytimes.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 12:39 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788449953,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US strikes degrade Iran’s Strait of Hormuz capabilities, ISW says - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRcWM0TTc3OUVSZmFZcW54SldHQld5NDVkaTBscHJOOHFYR0Y2ZlFRSFlJQmlGMHltV09DVmExN01qUW01eFZkR2NQWHNiVUw4SW1NXzRpSWF4RUZKbGFKRUdQbW1lZFZZaWc?oc=5",
@@ -5628,6 +5642,20 @@
           "published": "Sep 03, 2026 · 10:45 BRT",
           "pub_date": "2026-09-03",
           "pub_ts": 1788443113,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Markets can't ignore the war anymore - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSYkxiUGpfYlYzUlpQM3FZc3lsNUFlTjNONW5xbnRaZkIwSzQ0TEFJNl93RWNuREJoMlRhTG9vVXc0d3RBX0ZxeDJZNHBHdzZYMDQyXzZqU1V2SEwyaFRtMEhGOEo?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 05:56 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788425815,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

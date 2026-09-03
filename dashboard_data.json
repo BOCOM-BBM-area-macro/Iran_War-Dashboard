@@ -4812,7 +4812,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
     },
     "https://www.reuters.com/world/middle-east/us-iran-exchange-attacks-lull-war-appears-over-2026-09-02/": {
       "summary": "",
@@ -5179,7 +5179,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.wsj.com/business/earnings/pvh-second-quarter-revenue-falls-on-pressure-from-iran-war-c2c01c3f": {
       "summary": "",
@@ -5304,6 +5304,32 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907396": {
+      "summary": "Sources said the military presence is intended to preserve President Donald Trump's ability to choose between continued economic pressure, limited military operations, and broader escalation.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Middle East",
+        "Donald Trump",
+        "Pentagon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907400": {
+      "summary": "US Treasury Secretary Scott Bessent said the pressure on Tehran could lead the Iranian public to rise up against the regime or cause the IRGC to turn against itself.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "president",
+        "Middle East"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8794,6 +8820,34 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Corn Drops Most in Three Weeks as Profit-Taking Hits Grain Rally - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYnB3TjJPWnQ4Vkktd0hiMEFLX3FKTm1FWjNjR2RTOWZXOVRLU2JGQmk5cUp3dk10cHhIY2J2NnpMOFU1ZGhSb2VWSHl5QVZzR0NEa0xQUWp0VnRxMkQ1d3FQRlV0WEhyM08tTGRadjFYNk1HZmEwdFNEcFVEVTFKYmV1MUJGcFJkaTZRc0NobUFGNzZWTFJBZ1RGMzN2N2VqZU5rYXFkZmJ3N1oxTWttV05sdHJDdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 13:59 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788368353,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJlc1IxSnBNVlBndHZMS1kwYVlDX0ZMdWh6NUpST05rNjJhX21oSHBoRkROUjVoUVcycTZuaTZPYk8tXzBDdjRvdjlJaDBHMkNTdlF1VnZmQmxVRnI0empNaTEyQ211Ulh2Z0wtbXFmYUJJZWRCakUwYld4Sk5BbjlTa29sTk1Kd20xMEMxR1hyVWdGb29Hb0twOUdZeUZYOE9TOFplT2NORTB0ZGNmbEpkVl9Hd2Fq?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 18:26 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788298008,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Euro zone inflation rises above 3%, cementing ECB rate hike bets - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlU0ZGJQMWt6NVhpVng4SW1jUk1SM3NXZWlRZzliNnV5emhYeDRaVF9FYnA1aWNDUVphdW1hQTcwRWVOVGR1YjBfdm9sOUlWcFpCSnFwOVNubkh6VnZrTjRyMERVTWRKaXYzZHNaVjBZZ2hYT015OHgzb2o5S25uaG1OaFNGVzRpZk1XSDZMMVhhUUM1V19VbWktVnRmXy1YbEFUS3JxeGEtY0E?oc=5",

@@ -4822,7 +4822,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
     },
     "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html": {
       "summary": "",
@@ -4912,7 +4912,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
     },
     "https://www.jpost.com/american-politics/article-907324": {
       "summary": "Top Trump aides want to keep the Iran war contained heading into the midterms, as Republicans defend slim majorities. After the election, sources say stronger strikes could return.",
@@ -5407,6 +5407,51 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-03"
+    },
+    "https://www.reuters.com/world/americas/lutnick-apologizes-saying-no-americans-have-died-iran-war-2026-09-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-03/-we-are-stalled-us-iran-conflict-stuck-with-no-end-in-sight": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907510": {
+      "summary": "The US strikes on Tuesday were the most extensive in weeks. In the latest report on military deaths, Tasnim said six members of the regular military had been killed in southern Iran.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Military",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907503": {
+      "summary": "US officials said 40 vessels carrying millions of barrels of oil crossed the Strait on September 1, while 17 million barrels transited the waterway on August 31, the highest since the war began.",
+      "tags": [
+        "Iran",
+        "United States",
+        "oil",
+        "Donald Trump",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
     }
   },
   "last_digest_success": true,
@@ -5568,12 +5613,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-03T11:07:21.403055+00:00",
   "last_generated_date": "2026-09-03",
-  "last_generated_time": "2026-09-03T09:01:46.290189+00:00",
+  "last_generated_time": "2026-09-03T12:02:47.468438+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US strikes degrade Iran’s Strait of Hormuz capabilities, ISW says - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRcWM0TTc3OUVSZmFZcW54SldHQld5NDVkaTBscHJOOHFYR0Y2ZlFRSFlJQmlGMHltV09DVmExN01qUW01eFZkR2NQWHNiVUw4SW1NXzRpSWF4RUZKbGFKRUdQbW1lZFZZaWc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 10:45 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788443113,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war escalation raises concern over civilian death toll - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
@@ -8100,6 +8159,20 @@
           "_rank": 0
         },
         {
+          "title": "US officials weigh plan to shield farmers from expansion of refinery biofuel waivers, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk9aaDNITHZ1ajlMOHZmVUdIcFYtMHZoN3gzY05oenBQSlIxOEFYdmNpT0RSSTlEMjREQmxyWnptU2wwTWV6ZWNzSnR2UlFEVjZpRG9kNDlMUHp4V2lTakRYcU5IbXhnM1NrWkZoZXNFeGN5NkhVbWJZbkZRbFQzSERSVU9MNjJydENueldxaVJodksxWWdZeDY1VjdOS1JFRkJXN0NfYmEzbUZYYUd2eWlnZ3VDZXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 27, 2026 · 20:45 BRT",
+          "pub_date": "2026-08-27",
+          "pub_ts": 1787874343,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Canada excludes US seafood from retaliatory tariffs - Reuters",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0p0OFRPcVc3Q084cGZoNWw1ZHJ6NGRZb0JWMFdzUW9VU09rQnM2LTRKbVQtV1hPVDJ6V2s1em9YaElyNjJkellVQm9EUV9CanVIR0Y1SWRDLVBCaVByZVVTcXNGcUw4NmpIOEh2aC1zWkpyTG00MlhYYmNQNlBTYnFULUlWVDEzdEprUEtJVG1lQkloanc?oc=5",
           "source": "Reuters",
@@ -8846,6 +8919,20 @@
           "published": "Sep 02, 2026 · 10:09 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788354540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Ryanair trims traffic target, warns rivals face winter squeeze amid fuel costs - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTg1ajM1QUxTby1WZEpUTTV3UkJaVHNNZFFWTUpXdGxXc0Z2X05QdFU4cThmWTlWM2NyTERkZXUtcEJYbFpGWGtkS0w3RmNWdVdrTXdnTmtMSXVJUWRERWtMdGtEdS1CTDFvckY1MWJLSkJZVEw4STFBQ1RXTWNySGUtLXBSOWRJNEI3bEoySDdFejE3ZEJ4ZExEZld6X1JWdmJfTk9iOC0?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 03:25 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788330300,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -5252,7 +5252,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-02"
     },
     "https://www.reuters.com/world/middle-east/iran-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03/": {
       "summary": "",
@@ -5262,7 +5262,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-02"
     },
     "https://www.jpost.com/international/article-907389": {
       "summary": "It was not immediately clear whether the documents remained available to US personnel through other means or how the reduction in access could affect military planning, according to the report.",
@@ -5387,6 +5387,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-02"
+    },
+    "https://www.wsj.com/business/autos/longer-middle-east-deployments-strain-u-s-forces-as-iran-conflict-drags-on-f36cfa16": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-cac84e35": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
     }
   },
   "last_digest_success": true,
@@ -5548,7 +5568,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-03T11:07:21.403055+00:00",
   "last_generated_date": "2026-09-03",
-  "last_generated_time": "2026-09-03T08:01:43.914149+00:00",
+  "last_generated_time": "2026-09-03T09:01:46.290189+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -8060,6 +8080,20 @@
           "published": "Aug 28, 2026 · 17:33 BRT",
           "pub_date": "2026-08-28",
           "pub_ts": 1787949226,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war drives US transport fuel surcharges, but also industry profits - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Aug 28, 2026 · 13:51 BRT",
+          "pub_date": "2026-08-28",
+          "pub_ts": 1787935893,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

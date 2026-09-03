@@ -4526,7 +4526,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
     },
     "https://www.bloomberg.com/news/articles/2026-09-01/how-iran-s-economy-is-enduring-trump-s-war-the-us-blockade-and-sanctions": {
       "summary": "",
@@ -4912,7 +4912,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.jpost.com/american-politics/article-907324": {
       "summary": "Top Trump aides want to keep the Iran war contained heading into the midterms, as Republicans defend slim majorities. After the election, sources say stronger strikes could return.",
@@ -5239,6 +5239,16 @@
         "Jordan",
         "strike",
         "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.reuters.com/business/energy/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-2026-09-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -4526,7 +4526,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.bloomberg.com/news/articles/2026-09-01/how-iran-s-economy-is-enduring-trump-s-war-the-us-blockade-and-sanctions": {
       "summary": "",
@@ -4639,7 +4639,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.washingtonpost.com/world/2026/09/01/putin-pledges-support-iran-rallies-leaders-challenge-us/": {
       "summary": "",
@@ -5288,6 +5288,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-02"
+    },
+    "https://www.wsj.com/politics/national-security/hegseth-extends-mideast-deployments-into-2027-escalating-strain-on-troops-c10fc533": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/report-hegseth-extending-us-troop-deployments-in-mideast-as-trump-weighs-declaring-iran-war-over/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
     }
   },
   "last_digest_success": true,
@@ -5450,6 +5470,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Holds Three-Day Gain as Trump Says Iran Strikes to be Brief - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFdhSGNobWJjV29nUnVKX2lJbDZBN1BCeXFtSEN5bEZ6Z0pqZmh3MzZIdE9rV0h1MkpKU0IxTFJ3VWc1NmxmWUROREJ3NkFLdl9OTF8taFVEaWZ0cVlubTFGNlBIekU5YTZfaVFNR09rYmVmUXFGTDJ3bjFHQkpvUnpkbVZZaWQ5WjN6MDRVNUN4SmxGYW0wWHlLSVBBQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 19:03 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788386637,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S. Stocks Fall as Iran War Inflation Heats Up - WSJ",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVYWG9PbUEwbUxITHE3TFdtaGg3Q3lkaEl0U05DcEJENnEtOUo1SThLa200ZWRXSHJabTRiSElaTEdwcWtvbS04alVuTjRzRHR3M0htU09HUzJJQzZiTDJiTEVxTG5WTmNOQzE3WWs3dGx0N1ltdWJrUUZWb19ZUEZKaEItS1prMWF3Rk1xdGJKUWFf?oc=5",
@@ -8610,6 +8644,20 @@
           "published": "Sep 02, 2026 · 11:21 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788358877,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Federal government will extend gas tax holiday into 2027 - CBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTFVQY3Flb0Z0QV9fc1RpaW1sTndvaFczbDJaVkdHajhWamNfZXVHVlh1Vm5BQTB2dDVfOGowSTdoTEJsTU03SUdUc3NDVWFHckllWXZ6UHlyREhRWDJQdllTdXRzblpDQ19VeDRDWWlCNUdlSEtmV0g3WXNndw?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 10:09 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788354540,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

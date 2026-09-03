@@ -4912,7 +4912,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
     },
     "https://www.jpost.com/american-politics/article-907324": {
       "summary": "Top Trump aides want to keep the Iran war contained heading into the midterms, as Republicans defend slim majorities. After the election, sources say stronger strikes could return.",
@@ -5177,7 +5177,47 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-01"
+      "pub_date": "2026-09-02"
+    },
+    "https://www.wsj.com/business/earnings/pvh-second-quarter-revenue-falls-on-pressure-from-iran-war-c2c01c3f": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-02/trump-says-iran-strikes-to-be-short-asserts-hormuz-control": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-09-02/macklem-flags-iran-war-as-bigger-inflation-risk-than-canada-tariffs": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-02"
     }
   },
   "last_digest_success": true,
@@ -5334,7 +5374,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-02T11:06:37.759840+00:00",
   "last_generated_date": "2026-09-02",
-  "last_generated_time": "2026-09-02T20:01:47.112483+00:00",
+  "last_generated_time": "2026-09-02T21:02:09.976075+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -9024,6 +9064,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Trump aides, fearing a midterm crash, push to keep Iran war 'quiet' for time being - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sbWVXYzBjY1lLaEFLWXhwdVZjd0ZVdk5Qa2NIVGRsTFc0eExuUWtpVnpTckQwaU9RYUtMcjVxcjJFN3VWNGVKRWZkdVlQNVRIWkE1N0d4NWRRNFNfUUNSMU0xaXc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 07:38 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788345523,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US armed forces chiefs tell Pete Hegseth Iran war US armed erodes forces' readiness - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90WFlXUXZCaVI2X1BycHBDb2RSZUJNRjFET05PNThBN3lfQk82aWxoZER6TzA5XzBHQ3oyUVdIM2VEQ0NYSWhXcmEyWVdBVk92QWNUVEpHUzlEZHZVNXdxdzVoZVh6clN6N2c?oc=5",

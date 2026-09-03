@@ -4822,7 +4822,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html": {
       "summary": "",
@@ -5096,7 +5096,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-03"
     },
     "https://www.jpost.com/middle-east/article-907279": {
       "summary": "Explosions heard in Eilat as sirens sound in southern Jordan following Iranian attacks. Iranian military spokesperson Ebrahim Zolfaghari stated that Iran “will no longer exercise restraint.\"",
@@ -5512,6 +5512,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-03"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-03/lutnick-says-he-misspoke-about-american-deaths-in-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.ft.com/content/83bdebe3-8f65-44e2-81b7-ecf133ca2929?syn-25a6b1a6=1": {
+      "summary": "Attacks on critical infrastructure in the Gulf lead to rise in insurance claims",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-03/trump-will-signal-iran-aims-over-if-he-ends-war-gibson-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.reuters.com/world/middle-east/vance-us-probing-airstrike-that-iran-says-hit-wedding-party-2026-09-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
     }
   },
   "last_digest_success": true,
@@ -5673,7 +5713,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-03T11:07:21.403055+00:00",
   "last_generated_date": "2026-09-03",
-  "last_generated_time": "2026-09-03T15:02:18.351406+00:00",
+  "last_generated_time": "2026-09-03T16:02:29.949402+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -9222,6 +9262,20 @@
           "published": "Sep 02, 2026 · 13:59 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788368353,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gulf shares slide after US and Iran exchange strikes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEt1N3pMR3ZhSTdjUUhLcTdBaXg5YW9Nam03d0lSc3RrbXd3dlZTYUZsUE9fU1ZwOWZ4d2UxWjFXZFYwX0tVbngwU3J1VVc0RUlTN2czNEdXNnhlRER5UFdfb3RtYV9HXzk4bHhHbVptTi1rOXlLWWRyNFJTQjdmSnNwS3l4TEIzODRGdTRna1hNSnpqV08tLXJUeHYzVVlXcGpF?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 10:09 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788354567,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

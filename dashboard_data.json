@@ -5229,7 +5229,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-02"
     },
     "https://www.jpost.com/middle-east/iran-news/article-907356": {
       "summary": "On the Israeli side, Cooper said that Prime Minister Benjamin Netanyahu was likely trying to “spend” American military support while he has it.",
@@ -5452,6 +5452,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-03"
+    },
+    "https://www.reuters.com/world/middle-east/us-pressure-iran-starting-tell-sanctions-blockade-bite-2026-09-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
     }
   },
   "last_digest_success": true,
@@ -5613,7 +5623,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-03T11:07:21.403055+00:00",
   "last_generated_date": "2026-09-03",
-  "last_generated_time": "2026-09-03T13:01:33.990032+00:00",
+  "last_generated_time": "2026-09-03T14:01:42.234426+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5922,6 +5932,20 @@
           "published": "Sep 01, 2026 · 13:55 BRT",
           "pub_date": "2026-09-01",
           "pub_ts": 1788281704,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US-Iran Tensions High After Strikes on Two Tankers in Hormuz - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbi1IZjMyR3MwRy15eFpqYjFuMWJfeDhkaFF6cGpRRG4yVW5haC1vaXduOHRmYmNadTh3dmdWbE9NV28yTUtiaG05dVRjckF4RzFZMldfQWk0aXNEZVE4WHV4RGRVVjBFcExrRUk5Y1djNkxkVDMyMmxwWmI5OUo4ZWFfWm9kN1pRZkFGbEVJdVU0UDJOQUVhWThEdDdPWk5qLXY1Sk5tSUtWYW84emFDR2dQNA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 12:41 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788277312,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -8926,6 +8950,20 @@
         },
         {
           "title": "Could airlines go bust? Ryanair sends jet fuel crisis warning - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtSVAwV1Q2amhleUlSNVVfRHFadExDbHJDaFotR2dDSi11bHBMRlV3RWlHR01KNTNyMVpWVVV5Y1JwQS1nQmtNQVZMUE9IbjBsVUdjOW9KMzRtai1pNjdaZGVmUUp5dw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 11:22 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788358963,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Could airlines go bust? Ryanair sends jet fuel crisis warning - Reuters",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3Vid202YnpjSnVaOG1MdlV5SUlPVmFUNXpmUHo4SnpGN0NhRDQ5T0N6dERRUGhVc0hmUnVRanE0bVVkWU9KbEpubEQ1ZVhNM0FlQngyd0k2RXhQRWN5OUpOa1kzN0tXSUNNYVpHTGFpSXlHYno0UDY0MTRJTXc5WUlYNA?oc=5",
           "source": "Reuters",
           "domain": "news.google.com",
@@ -9556,6 +9594,20 @@
           "_rank": 0
         },
         {
+          "title": "Pentagon extends Middle East deployments into 2027 as Iran war continues - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdTRBLVRQaC0yV3V0UlBKS01XbUVGbmhXOUstam5XdUdTMjI1aDlubDFWLWVPNUJaT2pRRDFDNE9SS3dHYVdnNllMcGRJNGg4X2VXcXZ1alFqaGNVd2xHaTUtNnlJbzlWRGc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 02:16 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788412574,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Gold gains, with investors gearing up for US nonfarm payrolls report - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
           "source": "Reuters",
@@ -9570,6 +9622,20 @@
           "_rank": 0
         },
         {
+          "title": "Pentagon tightens classified access after Iran warnings - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mOVNzVWJLUEdmUWdROW9INzc3aHRPZnhtWWZlY216cVBhRDN5Q0FycnZKT3FTcWtiOTJWdWp4Z2NZSy1jeWZjRTlQRzRaS1kzSmNCUWNHQzdHSTdSRGdr?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 23:14 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788401695,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Trump aides, fearing a midterm crash, push to keep Iran war 'quiet' for time being - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sbWVXYzBjY1lLaEFLWXhwdVZjd0ZVdk5Qa2NIVGRsTFc0eExuUWtpVnpTckQwaU9RYUtMcjVxcjJFN3VWNGVKRWZkdVlQNVRIWkE1N0d4NWRRNFNfUUNSMU0xaXc?oc=5",
           "source": "The Jerusalem Post",
@@ -9578,6 +9644,20 @@
           "published": "Sep 02, 2026 · 07:38 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788345523,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Vladimir Putin expresses solidarity with Tehran against US - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14NzdwWW5DbE9Pa3VWa1oxSW9zUUtOdlpYeE5UV1dqbk5yelBYSXFvZVgxS1ZiRjZuUEZLQlNXMmxQVFNGMk9KR002YTlQWGdGV2tBQTI5LUF4WjFNLVZzZkxra0pQcjJ0Smc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 03:34 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788330896,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

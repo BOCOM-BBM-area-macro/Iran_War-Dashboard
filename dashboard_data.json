@@ -5772,6 +5772,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-04"
+    },
+    "https://www.axios.com/2026/09/04/trump-middle-east-iran-post-war-strategy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
+    },
+    "https://www.washingtonpost.com/business/2026/09/04/diesel-hits-record-585-gallon-iran-war-drags/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
     }
   },
   "last_digest_success": true,
@@ -5927,7 +5947,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-04T11:10:20.753104+00:00",
   "last_generated_date": "2026-09-04",
-  "last_generated_time": "2026-09-04T14:02:33.481576+00:00",
+  "last_generated_time": "2026-09-04T15:01:49.440453+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -8528,6 +8548,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Diesel hits record $5.85 a gallon as Iran war drags on - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObm1kdzd3TTBWUlFBR1RTXzV5NGl4eFhLNXN6MHlUdndZdVVpWGNOa2pZRTBMY3JiYWpmcWk5RHNTLUxqR2YzX09ZLUxDMlZZWlU4QTd4Mm9xcklJZW5QdXdKc0RDb0E0bjUwdHViXzd1M2JxbWpqQkFLQzBrQ3VYNkZTQTVzc3hIX0cxM2Vibnc0bWJvTExVeU9FWWE?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 14:25 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788542744,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US diesel prices hit new high amid Iran war disruption, organization reports - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2ZUVWlBN2g3ODltQWduZ3BaQl9zVlN4VDRXRmsxWVg4MnhKaVNhdzZNSHh5M2ljSmZSTGpZY3ZxX29CMDNXNGY2cmdrRjR6eUNfNnIyQzZDRGxpUDR0RE1fbHRzX21XdTJqZVBYOFlVUm4xVEJiTk5mTGs3YW81MXI0VTBGVXR3dU9OcnBFTUlpRUQ5SVJyc0lkQXYwQWw2REQtYzBtWU5IU2JsbUMwYXU5REVYSWVjVnNBQW9n?oc=5",

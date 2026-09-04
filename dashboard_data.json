@@ -5701,7 +5701,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-04"
     },
     "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html": {
       "summary": "",
@@ -5758,6 +5758,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
+    },
+    "https://www.reuters.com/world/middle-east/us-targets-turkish-entities-with-iran-related-sanctions-2026-09-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5917,12 +5927,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-04T11:10:20.753104+00:00",
   "last_generated_date": "2026-09-04",
-  "last_generated_time": "2026-09-04T13:01:54.000198+00:00",
+  "last_generated_time": "2026-09-04T14:02:33.481576+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Watch US-Iran Conflict Isn’t a ‘War,’ Vance Says; Oil Heads for Biggest Weekly Gain Since July - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlJJbWNGU1RqZDliMlh2T1ZZZjJxNk5rLTFTSFlUT1pla19UOVBvUWVhYkh0b1VZX3c5UXhWeFFiUXYyb0hwSkRVVW1kNVBwSndKNXExNUR3dXNmUjIwbjVwejFuVGI4Z3NoREpkT0RrRkRzTUo3M1R0V2tpb0NpcndUN3ZwaUxKWk15OTlRVTRXaGJyVnBNdm5n?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 04:00 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788505219,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Watch Oil Heads for Weekly Gains on Iran War Risks - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmJWN2lyd2Jra3Z5RjdtZzBPS1F6dzcxZ2N4VWp3Ty1kS1BUa3FLbk9XZGNySWxNdXNnT042c0p5dFNQMXI0bGthMVBsV0RnVWdSZF9xX2hmQjlJZkFQQmREOFYxZDhZSm1qMm00M0tXS3dLdEkxZjdsYXY1NDdWZEdwSkVnb2wxdGRQeUNKVGszSGpfdkVfOF9VZGFIYWtJ?oc=5",
@@ -8569,6 +8593,20 @@
           "published": "Sep 03, 2026 · 18:21 BRT",
           "pub_date": "2026-09-03",
           "pub_ts": 1788470483,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US Diesel Hits Four-Year High as Wars Strain Global Supplies - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1NBTEstRW01M3RzUUpkV1hITG9veU5ZbUljRlREeXo3RkxRbmg5eXFLWnNNamtsQTVkYkhTSTVjSnVnZWtVNmxaZ1FNci16b0dFM3JieUlFczdnMjAtdzZDYzYwODR6dlp2ejE3YTNpLW1VRE90V1pfODV4SFZlQmRtNmpVMVVxYU4tWU5Rd1hnaGNpb1VHV2FjY2VaTUcwYUl0N29RX0IyYUJlNUhxWg?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 04:24 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788420291,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

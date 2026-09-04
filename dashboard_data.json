@@ -5262,7 +5262,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-02"
     },
     "https://www.jpost.com/international/article-907389": {
       "summary": "It was not immediately clear whether the documents remained available to US personnel through other means or how the reduction in access could affect military planning, according to the report.",
@@ -5638,6 +5638,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.axios.com/2026/09/04/iran-wedding-strike-us-military-investigation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8376,6 +8386,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 18:21 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788470483,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Donald Trump summons US refiners as Iran war pushes up fuel prices - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFpLZFVzQlA0eldJNE0yRjhMczJkX21DbjUzOVYxQ05YUi01eWg1SXFuWkpDaWkyUXRsREUyRmhmWHlMYWU0X1hPOER6YzdXV1M3OEh4Y29ZaFpyNm8zOElnNm9YSTVmc0xwOVJpNUk1T3RfNkJIbHd0cS03YXdoaHY0NUc?oc=5",

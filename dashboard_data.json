@@ -5471,7 +5471,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-04"
     },
     "https://www.bloomberg.com/news/newsletters/2026-09-03/us-iran-remain-locked-between-ceasefire-and-all-out-war": {
       "summary": "",
@@ -5648,6 +5648,16 @@
       "tags": [
         "extracted",
         "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-03"
+    },
+    "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8386,6 +8396,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Trump Administration Live Updates: Vance Says ‘I Don’t Know’ if Iran War Will Be Over by Midterms - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYmZlT3B0akpuUHViOXdkT2t3M29uX01vTzJZREJ1SGVoaEloWk1Rc2NzaGFScFZJeFdXQ3p1NE5ubVBMMHN3bkRsSXRwNVk5djZJQVFpajJGd3dKU2p6Yk4ydw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 23:59 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788490740,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",

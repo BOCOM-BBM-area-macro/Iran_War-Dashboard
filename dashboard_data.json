@@ -5701,7 +5701,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-04"
+      "pub_date": "2026-09-03"
     },
     "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html": {
       "summary": "",
@@ -5718,6 +5718,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
+    },
+    "https://www.washingtonpost.com/politics/2026/09/04/president-donald-trump-iran/6b0a0048-a85b-11f1-9e38-f705d048bd5a_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/us-diesel-prices-hit-new-high-amid-iran-war-disruption-organization-reports/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -5877,7 +5897,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-04T11:10:20.753104+00:00",
   "last_generated_date": "2026-09-04",
-  "last_generated_time": "2026-09-04T09:01:51.579804+00:00",
+  "last_generated_time": "2026-09-04T10:02:25.549477+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -8464,6 +8484,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US diesel prices hit new high amid Iran war disruption, organization reports - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2ZUVWlBN2g3ODltQWduZ3BaQl9zVlN4VDRXRmsxWVg4MnhKaVNhdzZNSHh5M2ljSmZSTGpZY3ZxX29CMDNXNGY2cmdrRjR6eUNfNnIyQzZDRGxpUDR0RE1fbHRzX21XdTJqZVBYOFlVUm4xVEJiTk5mTGs3YW81MXI0VTBGVXR3dU9OcnBFTUlpRUQ5SVJyc0lkQXYwQWw2REQtYzBtWU5IU2JsbUMwYXU5REVYSWVjVnNBQW9n?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 09:28 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788524898,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Diesel price surges to all-time high, fueled by wars - Axios",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkR6c1pqR05yUGNyQ1M3Z29GalRnRHFKNHpYZ3FrVmJRNUtJWURvLUZTUXNNWS1ZOU9DcWoxY3otbDhmZVRUS21wZkFVNTU3ZThpSzlLWGtwYk5Vdm5lSVRVNnI4XzQyRDdYQkIwQVlId2w5S3RBSDdiVnZWUVkwcQ?oc=5",

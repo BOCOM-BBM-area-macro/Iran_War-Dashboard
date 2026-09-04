@@ -4902,7 +4902,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-04"
     },
     "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-wave-strikes-iran-2026-09-02/": {
       "summary": "",
@@ -5672,6 +5672,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-03"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-04/oil-heads-for-weekly-gains-on-iran-war-risks-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
     }
   },
   "last_digest_success": true,
@@ -5839,6 +5849,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Watch Oil Heads for Weekly Gains on Iran War Risks - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmJWN2lyd2Jra3Z5RjdtZzBPS1F6dzcxZ2N4VWp3Ty1kS1BUa3FLbk9XZGNySWxNdXNnT042c0p5dFNQMXI0bGthMVBsV0RnVWdSZF9xX2hmQjlJZkFQQmREOFYxZDhZSm1qMm00M0tXS3dLdEkxZjdsYXY1NDdWZEdwSkVnb2wxdGRQeUNKVGszSGpfdkVfOF9VZGFIYWtJ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 02:21 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788499289,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Heads for Biggest Weekly Gain Since July on Iran War Risks - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmlMNk5vNjRnVi00am9mQnRFQUVldkdaN0pjaXluVGFEbGFxMHRuZnpPcEU3YXA3ZjhYbFI5NWF0bTdUQU55SEx4T3pIS0E1QWxhU3hVQzEwaWdLMGxoTHlBMWhVYjA5emp6eWV6anhaaGJLYU56THRIUnRaQmVXT1lCYjA3UGc0LXktcUF0SUtpU0tja185ZWNCSmNOdw?oc=5",

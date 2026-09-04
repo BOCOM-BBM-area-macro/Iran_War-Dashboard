@@ -3647,7 +3647,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-28"
+      "pub_date": "2026-08-29"
     },
     "https://www.bloomberg.com/news/videos/2026-08-28/balance-of-power-late-edition-08-28-2026-video": {
       "summary": "",
@@ -5802,6 +5802,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-04/trump-calls-iran-conflict-small-potatoes-plays-down-war?srnd=live-events-v2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
     }
   },
   "last_digest_success": true,
@@ -5957,7 +5967,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-04T11:10:20.753104+00:00",
   "last_generated_date": "2026-09-04",
-  "last_generated_time": "2026-09-04T16:02:02.114382+00:00",
+  "last_generated_time": "2026-09-04T17:01:48.567703+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -8581,6 +8591,20 @@
           "published": "Sep 04, 2026 · 09:28 BRT",
           "pub_date": "2026-09-04",
           "pub_ts": 1788524898,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US diesel prices soar to record high - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY08zNVhYNVgxbUFBQV9sbVZ0aHlpeWE0TFlXaVFaZjkzYVMzQzNObHBSejUwQkRDVXN0SnRTaGdlMGJKQ21FYmllTXdTRnloaFJ3ZTJlemF3Sm1VYmNuaVBiNFZERzdwc0RGLTMtUjZTdndxY0tUWEhBLWRmRjZrRHRRMmM?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 08:08 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788520139,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

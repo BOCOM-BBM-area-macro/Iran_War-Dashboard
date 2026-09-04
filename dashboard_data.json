@@ -4377,7 +4377,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-27"
+      "pub_date": "2026-08-29"
     },
     "https://www.nytimes.com/live/2026/08/31/us/trump-news": {
       "summary": "",
@@ -5842,6 +5842,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-04/trump-calls-iran-conflict-small-potatoes-plays-down-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
     }
   },
   "last_digest_success": true,
@@ -5997,12 +6007,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-04T11:10:20.753104+00:00",
   "last_generated_date": "2026-09-04",
-  "last_generated_time": "2026-09-04T19:01:20.962723+00:00",
+  "last_generated_time": "2026-09-04T20:01:52.927069+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Hedge Funds Hike Bullish Oil Bets to May High as Iran War Flares - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEVoQm9uVGNiOEZZbXdaUVFsV0Zsb3BkeWc1b0V6S2JCUWdFeFdpMHdzbXNDa1ZQX2dlNVpDd0N1MmNJZTZhd3FqVVh5cFpMRlpBUTJ0QThTV2Y1eWpxdVg2MC1sb1ZlTDJQY0tHay16aUVLWERlaEc3Z2VpQ2JwdXVnX2lXNi1Oa1FldDRhblhkRGRFd2VtQWpFX2JJS2xYQTEtYlQteThBVlFtVWdqQ3dhZ2NRdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 17:38 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788554327,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Watch US-Iran Conflict Isn’t a ‘War,’ Vance Says; Oil Heads for Biggest Weekly Gain Since July - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlJJbWNGU1RqZDliMlh2T1ZZZjJxNk5rLTFTSFlUT1pla19UOVBvUWVhYkh0b1VZX3c5UXhWeFFiUXYyb0hwSkRVVW1kNVBwSndKNXExNUR3dXNmUjIwbjVwejFuVGI4Z3NoREpkT0RrRkRzTUo3M1R0V2tpb0NpcndUN3ZwaUxKWk15OTlRVTRXaGJyVnBNdm5n?oc=5",

@@ -5681,7 +5681,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-04"
     },
     "https://www.ft.com/content/f8b2e4ad-6af2-4cf5-aae2-d1d359b31fa4?syn-25a6b1a6=1": {
       "summary": "As Trump hardens his stance over negotiations, Tehran remains determined to keep the Strait of Hormuz closed",
@@ -5702,6 +5702,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-03"
+    },
+    "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-09-04/hegseth-is-gutting-the-army-amid-war-with-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
     }
   },
   "last_digest_success": true,
@@ -8450,6 +8470,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Diesel price surges to all-time high, fueled by wars - Axios",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkR6c1pqR05yUGNyQ1M3Z29GalRnRHFKNHpYZ3FrVmJRNUtJWURvLUZTUXNNWS1ZOU9DcWoxY3otbDhmZVRUS21wZkFVNTU3ZThpSzlLWGtwYk5Vdm5lSVRVNnI4XzQyRDdYQkIwQVlId2w5S3RBSDdiVnZWUVkwcQ?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 05:17 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788509861,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "U.S. Diesel Prices Set New High - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXloYk5UMGdQS2dXVEZsR3FsU1RERGpiZFpTNkdUMzAtTnRLb1VKbEZxanY4cUp3M2UtaFZFdlBBVG5FWjFwZWRNQ3QyakluVEw4d3JjZHZTZzZRQlAyZEFLOG1OU0lkNUExTmQ4X3J1WWpWeEJscjBtcTg3Tnh1Qks0WQ?oc=5",

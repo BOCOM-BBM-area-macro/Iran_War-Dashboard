@@ -3944,7 +3944,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-08-31"
+      "pub_date": "2026-08-30"
     },
     "https://www.reuters.com/world/middle-east/us-forces-strike-two-iranian-launchers-irans-larak-island-us-official-says-2026-08-30/": {
       "summary": "",
@@ -4902,7 +4902,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-04"
+      "pub_date": "2026-09-02"
     },
     "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-wave-strikes-iran-2026-09-02/": {
       "summary": "",
@@ -5895,6 +5895,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-04"
+    },
+    "https://www.jpost.com/middle-east/article-907626": {
+      "summary": "According to an Axios report, the proposed strategy could include resolving the regional fallout of Hamas’s October 7 massacre against Israel and the resulting Israel-Hamas war.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-05"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/report-members-of-us-militarys-joint-staff-polygraphed-over-leaks-on-munition-shortages-caused-by-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-05"
     }
   },
   "last_digest_success": true,

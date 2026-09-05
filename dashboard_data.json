@@ -5651,7 +5651,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-04"
+      "pub_date": "2026-09-03"
     },
     "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html": {
       "summary": "",
@@ -5941,44 +5941,137 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-04T11:10:12.907115+00:00",
+  "last_digest_time": "2026-09-05T11:08:27.406131+00:00",
   "digest": {
-    "digest": "Recent reports indicate ongoing military actions and heightened tensions between the United States and Iran. A U.S. military review is underway concerning a deadly strike on an Iranian wedding, with analysis suggesting it was likely a direct hit by a U.S. munition. Iran has intensified its rhetoric and actions, with the Strait of Hormuz remaining a point of contention. U.S. sanctions and blockade measures are reportedly impacting Iran. Diplomatic stances show U.S. officials, including Vance, downplaying the conflict's designation as a 'war' and declining to provide timelines for its conclusion, a position that has drawn scrutiny. Iran has issued warnings against potential Israeli attacks on Hezbollah positions in south Lebanon. The conflict's risks are contributing to market volatility, with oil prices showing gains and U.S. diesel prices reaching new highs, signaling inflationary pressures. The economic impact is further evidenced by mixed crude futures and concerns about inflation heating up.",
+    "digest": "The Trump administration is reportedly developing a post-war Middle East strategy, which may include addressing the regional fallout from the Hamas-Israel conflict and potentially expanding the Abraham Accords. Concurrently, reports indicate an Iranian tanker was struck by a US attack near Kharg Island. Despite the ongoing conflict, Iranian leadership appears increasingly confident in its military capabilities, showing reluctance to end the war. This confidence may be contributing to Iran's ramped-up rhetoric and lash-outs under pressure. The war's prolonged nature is having significant economic repercussions, with diesel prices reaching record highs and US stocks falling due to inflation. Public opinion in the US also reflects dissatisfaction, with only a quarter of Americans deeming the war worthwhile. In a separate development, the Pentagon is investigating leaks by administering polygraph tests to Joint Staff members. President Trump has downplayed the conflict, referring to it as 'small potatoes'.",
     "top_themes": [
-      "US-Iran Conflict Escalation",
-      "Economic Impact of Conflict",
-      "US Official Statements on Conflict Status"
+      "US Post-War Planning",
+      "Economic Impact of Iran War",
+      "Iran's Evolving Military Confidence"
     ],
     "next_events": [
       {
-        "title": "Escalation of U.S.-Iran Military Engagements",
-        "description": "Despite attempts by some U.S. officials to downplay the situation as not a 'war,' the underlying conflict continues to escalate, as evidenced by recent deadly strikes and Iranian rhetoric. Analysts should watch for any further direct military actions, particularly those resulting in civilian casualties, and how both sides frame these events, as a shift in language could signal a change in strategic intent."
+        "title": "Iran's Escalation and Retaliatory Actions",
+        "description": "Analysts should closely monitor Iran's response to ongoing pressure and perceived military confidence. Reports indicate Iranian leadership is considering military and cyberattacks, and has been 'lashing out' under duress, which could lead to further direct engagements or regional destabilization."
       },
       {
-        "title": "Global Energy Market Volatility",
-        "description": "The ongoing U.S.-Iran conflict is directly impacting global energy markets, driving up oil and diesel prices and contributing to inflation. Monitor crude futures, the stability of key shipping lanes like the Strait of Hormuz, and any supply disruptions, as these will have significant economic repercussions worldwide."
+        "title": "Evolution of US Post-Conflict Strategy and Regional Diplomacy",
+        "description": "The Trump administration is actively drafting post-war Middle East plans, including potential expansion of the Abraham Accords. This indicates a strategic shift towards regional realignment and efforts to resolve broader fallout, suggesting significant diplomatic initiatives are on the horizon."
       },
       {
-        "title": "Outcomes of U.S. Strike Investigations",
-        "description": "The U.S. military is investigating a deadly strike on an Iranian wedding, likely involving a U.S. munition. The findings of this probe, including any admissions of responsibility or details on rules of engagement, will be crucial to watch for their potential to either de-escalate tensions through accountability or further inflame international condemnation and Iranian resolve."
+        "title": "Global Economic Impact and Energy Market Volatility",
+        "description": "The war's continuation is driving up inflation, impacting US stocks, and pushing diesel prices to record highs. Observers should watch for further disruptions to global supply chains, energy markets, and the broader economic stability as the conflict drags on."
       },
       {
-        "title": "Iranian Retaliation and Regional Proxy Actions",
-        "description": "Under increasing pressure from sanctions and blockades, Iran is ramping up rhetoric and warning against attacks on its regional allies, such as Hezbollah. Watch for any direct or indirect retaliatory actions by Iran or its proxies in response to perceived U.S. or Israeli aggression, particularly in sensitive areas like south Lebanon or through attempts to disrupt maritime trade."
-      },
-      {
-        "title": "U.S. Domestic Political Impact on Iran Policy",
-        "description": "The framing of the Iran conflict by U.S. officials is being scrutinized for its potential impact on midterm elections. Observe how the administration's narrative evolves, how public and political pressure influences policy decisions, and whether domestic political considerations lead to a hardening or softening of the U.S. stance towards Iran."
+        "title": "US Domestic Political Pressure and Public Opinion on the War",
+        "description": "With only a quarter of Americans viewing the war as worthwhile and political figures uncertain about its duration, domestic pressure on the US administration is mounting. This could influence future military strategies, resource allocation, or even a push for a resolution to the conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-04T11:10:20.232353+00:00",
+  "last_watch_time": "2026-09-05T11:08:33.988646+00:00",
   "relevant_news": [
     {
-      "title": "U.S. Stocks Fall as Iran War Inflation Heats Up - WSJ",
+      "title": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 05, 2026 · 05:51 BRT",
+      "pub_date": "2026-09-05",
+      "pub_ts": 1788598309,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Time Is No Longer on Iran’s Side in the Battle of the Blockades - wsj.com",
+      "url": "https://www.wsj.com/world/middle-east/time-is-no-longer-on-irans-side-in-the-battle-of-the-blockades-e47b657d",
+      "source": "wsj.com",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 04, 2026 · 22:00 BRT",
+      "pub_date": "2026-09-04",
+      "pub_ts": 1788570000,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "A More Confident Iran Emerges After Six Months of War With the U.S. - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 04, 2026 · 12:21 BRT",
+      "pub_date": "2026-09-04",
+      "pub_ts": 1788535303,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iranian leadership considers escalation as US officials fear military, cyberattacks - report - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-907621",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Sep 04, 2026 · 23:19 BRT",
+      "pub_date": "2026-09-04",
+      "pub_ts": 1788574768,
+      "summary": "Throughout the war, Iran gained a better understanding of its military strengths and confidence regarding its capabilities, leading to a reluctance among Iranian leaders to end the war.",
+      "tags": [
+        "Iran",
+        "us iran",
+        "Donald Trump",
+        "midterm elections",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Only a quarter of Americans think Iran war is worthwhile, Reuters/Ipsos poll shows - Reuters",
+      "url": "https://www.reuters.com/world/only-quarter-americans-think-iran-war-is-worthwhile-reutersipsos-poll-shows-2026-09-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 04, 2026 · 11:56 BRT",
+      "pub_date": "2026-09-04",
+      "pub_ts": 1788533815,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Stocks Fall as Iran War Inflation Heats Up - wsj.com",
       "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44",
-      "source": "WSJ",
+      "source": "wsj.com",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
       "published": "Sep 04, 2026 · 02:54 BRT",
@@ -5993,107 +6086,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "U.S. military reviewing deadly strike on Iranian wedding - Axios",
-      "url": "https://www.axios.com/2026/09/04/iran-wedding-strike-us-military-investigation",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Sep 03, 2026 · 23:29 BRT",
-      "pub_date": "2026-09-03",
-      "pub_ts": 1788488985,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Watch Oil Heads for Weekly Gains on Iran War Risks - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-04/oil-heads-for-weekly-gains-on-iran-war-risks-video",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Sep 04, 2026 · 02:21 BRT",
-      "pub_date": "2026-09-04",
-      "pub_ts": 1788499289,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows - reuters.com",
-      "url": "https://www.reuters.com/investigations/deadly-strike-iranian-wedding-was-likely-direct-hit-by-us-munition-analysis-2026-09-03/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 03, 2026 · 19:13 BRT",
-      "pub_date": "2026-09-03",
-      "pub_ts": 1788473580,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US pressure on Iran starting to tell, as sanctions and blockade bite - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/us-pressure-iran-starting-tell-sanctions-blockade-bite-2026-09-03/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 03, 2026 · 11:59 BRT",
-      "pub_date": "2026-09-03",
-      "pub_ts": 1788447540,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 03, 2026 · 10:41 BRT",
-      "pub_date": "2026-09-03",
-      "pub_ts": 1788442905,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-04T11:10:20.753104+00:00",
-  "last_generated_date": "2026-09-04",
-  "last_generated_time": "2026-09-04T23:01:53.551140+00:00",
+  "last_relevant_time": "2026-09-05T11:08:34.476917+00:00",
+  "last_generated_date": "2026-09-05",
+  "last_generated_time": "2026-09-05T08:01:44.215977+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

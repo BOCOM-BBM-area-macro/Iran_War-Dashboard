@@ -5938,6 +5938,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-05"
+    },
+    "https://www.nytimes.com/2026/09/05/books/review/all-the-presidents-wars-peter-bergen.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-05"
     }
   },
   "last_digest_success": true,
@@ -6091,7 +6101,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-05T11:08:34.476917+00:00",
   "last_generated_date": "2026-09-05",
-  "last_generated_time": "2026-09-05T08:01:44.215977+00:00",
+  "last_generated_time": "2026-09-05T09:01:40.537061+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

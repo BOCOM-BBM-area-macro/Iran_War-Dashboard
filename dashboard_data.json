@@ -5651,7 +5651,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-04"
     },
     "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html": {
       "summary": "",
@@ -5881,6 +5881,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
+    },
+    "https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1": {
+      "summary": "Cost of fuel crucial to American industry rises above 2022 peak, threatening new inflationary burst ahead of November elections",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

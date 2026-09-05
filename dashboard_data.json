@@ -5978,6 +5978,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-05"
+    },
+    "https://www.ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e?syn-25a6b1a6=1": {
+      "summary": "Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-05"
     }
   },
   "last_digest_success": true,
@@ -6131,12 +6141,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-05T11:08:34.476917+00:00",
   "last_generated_date": "2026-09-05",
-  "last_generated_time": "2026-09-05T12:01:49.281730+00:00",
+  "last_generated_time": "2026-09-05T13:01:43.541504+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "U.S. attacks 3 Iranian tankers in tit-for-tat response - Axios",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DQWNrZGhFUEI2MFBHUVFJcldrMzBSbUktYXVTaVBzX1JRSkZ6emY5ZW5zanFSUEtGX2JIbWdRSWRwVlJHaXc5NlVoM1ItWFVpdkRuYWtTc01oWmRoN3BPQXFxRjAxTWhtTVlET0xXVXNIZEU?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 05, 2026 · 11:27 BRT",
+          "pub_date": "2026-09-05",
+          "pub_ts": 1788618477,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US military strikes three Iranian crude oil carriers, Central Command says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnduS0xfeWF0NWZJUEpneWJOWTU3ZXNmUEZrVUY2a0U2b0FPejBkR21SMGxfRjVhWENDdUJOMTJKVm9MbjBBTkVTeHRGZmRfVkhKNnlyR1dySzBPUXBEUm1CVlVsQkhCTnlhMXBPMFM0NEJ5QTE0aDNxLU5SbzRVX09fZ3NpbnIycXVzZG9XM0dnb1JaS3pvbnI3UDUxNG1VUVhTWWFfbGQ5T2NQR0N6WnRzbzhINGlVRmRPUHhKT0xGVmhWc1E?oc=5",

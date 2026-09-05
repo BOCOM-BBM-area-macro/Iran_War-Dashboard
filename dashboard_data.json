@@ -5262,7 +5262,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-03"
+      "pub_date": "2026-09-02"
     },
     "https://www.jpost.com/international/article-907389": {
       "summary": "It was not immediately clear whether the documents remained available to US personnel through other means or how the reduction in access could affect military planning, according to the report.",
@@ -5862,6 +5862,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-04"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907621": {
+      "summary": "Throughout the war, Iran gained a better understanding of its military strengths and confidence regarding its capabilities, leading to a reluctance among Iranian leaders to end the war.",
+      "tags": [
+        "Iran",
+        "us iran",
+        "Donald Trump",
+        "midterm elections",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
+    },
+    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-04"
     }
   },
   "last_digest_success": true,
@@ -6024,6 +6047,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Time Is No Longer on Iran’s Side in the Battle of the Blockades - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzRQS1c4Q0tHekN1NEpjdDJJaUh3aHNra0VNZjI4NnZRMThTQ2hkODlUbnlMQ2pHb2Z4RTU3T1BCVE9NdHhUWGpGdnFJS0JoVEtYdG1YYmRaNEtIcUlPeHJtMVNKd05YZUFkcXI4bHdFVDFQRm9yMTB5d3BKbWFXMzlRMk9xVEZNc1BzamFMS1daQ0sxVldZVVU0MURDLU4xTjdaU3hSYWdxTmVYU2c?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 22:00 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788570000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Hedge Funds Hike Bullish Oil Bets to May High as Iran War Flares - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEVoQm9uVGNiOEZZbXdaUVFsV0Zsb3BkeWc1b0V6S2JCUWdFeFdpMHdzbXNDa1ZQX2dlNVpDd0N1MmNJZTZhd3FqVVh5cFpMRlpBUTJ0QThTV2Y1eWpxdVg2MC1sb1ZlTDJQY0tHay16aUVLWERlaEc3Z2VpQ2JwdXVnX2lXNi1Oa1FldDRhblhkRGRFd2VtQWpFX2JJS2xYQTEtYlQteThBVlFtVWdqQ3dhZ2NRdw?oc=5",
           "source": "Bloomberg.com",
@@ -6032,6 +6069,20 @@
           "published": "Sep 04, 2026 · 17:38 BRT",
           "pub_date": "2026-09-04",
           "pub_ts": 1788554327,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlE3Z3RpX0NEcWFPRXpTYTNBQ0hra3VPbEMtdzU0UVhKN2tuOHZySVJER3RqcVBud19iREMtRXRNRlhhbTZoM2ZKcVQweUl3MFlQcTNmVFJOa0txVk9tbzFPYVNMSlI4VVRZamFCTFFfcGpCejkxTkl1X1pRZTZIdktJUl9wY1JOSjlnbG5MWU11YkF6RC1RLS0xRXRSZExicmd6ZzlwcVJwVmRzamhVZWYxSQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 04, 2026 · 15:42 BRT",
+          "pub_date": "2026-09-04",
+          "pub_ts": 1788547372,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -6130,6 +6181,20 @@
           "published": "Sep 03, 2026 · 10:45 BRT",
           "pub_date": "2026-09-03",
           "pub_ts": 1788443113,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Lloyd’s of London faces £1.4bn losses in Gulf from US-Iran war - ft.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWJvM3ZFQ1p4bF8zZENSOXRPbngySjJrMktLY0dOMEQxYTNPUTFGZXBIS3F4am96ajd0LURJT0txbVdZVXRkQzhOYmZNa09YUS1WTFBYSUM4TXBnczRQbUxVdzNQd3VXMGxiYzRqdzl0d296YW1Jc3BKbHJfMF9HZHY5ZUw?oc=5",
+          "source": "ft.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 07:35 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788431759,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -9538,6 +9603,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "How airlines have hedged against fuel price increases - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVVmODR3enJZdXNPTVVBQmpJRjFueXBoclVMWWJNdVRuazdoMnZDb0ZJcEFMMjBLOUtmRm9WcHdTRUtaclluUUR0LV9IYWh4SDgyVkx1WVBCNTFJcE9aU0dnSThENEZNSkZoU2l5bHNvaGF2Vm8tcDlIbV84a05hUkFMMHJUVC1rdzVQQ3M3Q05JakllckFtaXdZRV9SZlRGd3RKWTktaWk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 03, 2026 · 04:00 BRT",
+          "pub_date": "2026-09-03",
+          "pub_ts": 1788418800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Could airlines go bust? Ryanair sends jet fuel crisis warning - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMUI1d0pyRFIzZW92ZFloM1R3bkVsRWtxVTRBSUt3Y2UxM3cwTFdoYmxmbmszNjVXdlBETjd2dmt4OENLSnU5WGZPVV9kRGJVcEZxQ1RZUWxncEhEQ2VGTG05dm9QOGs?oc=5",

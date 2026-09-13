@@ -7813,6 +7813,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-12"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-12/live-updates-908405": {
+      "summary": "Houthis damage mosque in attack on Saudi Arabia • Houthis capture both sides of Bab al-Mandeb Strait • Iraqi military commander dismissed following drone attack on Saudi Arabia",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "Iran",
+        "oil"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
+    },
+    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
     }
   },
   "last_digest_success": true,
@@ -7964,7 +7987,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-12T11:08:08.768951+00:00",
   "last_generated_date": "2026-09-12",
-  "last_generated_time": "2026-09-12T21:01:45.004400+00:00",
+  "last_generated_time": "2026-09-12T22:02:07.413187+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -8195,6 +8195,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-14"
+    },
+    "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
     }
   },
   "last_digest_success": true,
@@ -8350,7 +8360,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-14T11:10:33.921031+00:00",
   "last_generated_date": "2026-09-14",
-  "last_generated_time": "2026-09-14T17:01:53.518186+00:00",
+  "last_generated_time": "2026-09-14T18:02:04.643570+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -11637,6 +11647,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars. - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb081YVVpNkZEZkJ5WWVYWGdTX0pDd1ZlNWdzREJrR2x4aU1TX2pMdHo1enZ5QmZURkFtTG8xWE5hQVgxRm9yQ3A2MEpwaTEzY3JYbzFLVGRidUFpd0pGN2VqOFg1cUdyOUgtbkpHUWNtTWxqalZ5UnpqVHRBM1E5dVdqTFpNc0xZTExsWVdZeXppWmRJemp2WjBqRFNRQ0kySEE?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 14, 2026 · 16:58 BRT",
+          "pub_date": "2026-09-14",
+          "pub_ts": 1789415881,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "This is the diesel war that Trump wants stopped - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vOERnbEx3dTVfRXV5ZGxkWHJ1YWN4Rkg4aEllQ0dXaEM4cjlqU3lhM21UdVRoQkl2SVM1aXJ3WEpiQTBUNGE2VmtjQzFSbENhTDNRbGJCQ1E3NFUzOXVnckZwb0l2QXc?oc=5",

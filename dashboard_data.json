@@ -8095,6 +8095,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-14"
+    },
+    "https://www.reuters.com/world/middle-east/etihad-airways-sees-strong-demand-higher-passenger-capacity-despite-iran-war-ceo-2026-09-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
+    },
+    "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
+    },
+    "https://www.ft.com/content/f2a472e6-352a-4067-b9e5-56596a8ba215?syn-25a6b1a6=1": {
+      "summary": "Energy supplies from Saudi Arabia have been hit just as Europe and the US head into winter",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
+    },
+    "https://www.reuters.com/business/energy/asias-oil-traders-seeing-no-quick-end-middle-east-war-stay-bullish-prices-2026-09-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
     }
   },
   "last_digest_success": true,
@@ -8250,7 +8290,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-14T11:10:33.921031+00:00",
   "last_generated_date": "2026-09-14",
-  "last_generated_time": "2026-09-14T09:01:50.458300+00:00",
+  "last_generated_time": "2026-09-14T10:01:53.033351+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12684,6 +12724,20 @@
         {
           "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 14, 2026 · 03:47 BRT",
+          "pub_date": "2026-09-14",
+          "pub_ts": 1789368420,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmJnV3o4cEtRZWU0ZjVveDFxazJHaDdPOFo4cVlfajBjZEVBS3JEZ002Y2NmbU1PTTAxWnZkZ2JzTnJCSUxoeVh3RXo4SUVDcTJTSkpqSXVMVTRVUXNVNGkwYVRiNU12LXcxV0IyRGpJaHdzdWU1UVBEODNvdUQyaW51X2JQVG1QRDdHdktpZ0hpQTZTRzRNUlVPRHB5RENKX1dr?oc=5",
           "source": "Reuters",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",

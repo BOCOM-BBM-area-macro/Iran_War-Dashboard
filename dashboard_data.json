@@ -7283,7 +7283,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html": {
       "summary": "",
@@ -8135,6 +8135,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-14"
+    },
+    "https://www.reuters.com/world/middle-east/iran-protests-us-prevents-its-nuclear-chief-attending-iaea-meeting-2026-09-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
+    },
+    "https://www.cbc.ca/news/world/iran-war-yemen-houthis-saudi-arabia-9.7342898": {
+      "summary": "Arab states in the Persian Gulf called off a meeting with Iran planned for Monday, while Yemen's Houthis launched a new attack on Saudi Arabia after fighting that has extended the Middle East war to another theatre and further jeopardized global oil supplies.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
     }
   },
   "last_digest_success": true,
@@ -8290,7 +8310,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-14T11:10:33.921031+00:00",
   "last_generated_date": "2026-09-14",
-  "last_generated_time": "2026-09-14T11:01:48.662213+00:00",
+  "last_generated_time": "2026-09-14T12:01:48.879696+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

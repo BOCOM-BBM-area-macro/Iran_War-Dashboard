@@ -7992,6 +7992,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-13"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/oil-markets-survived-iran-war-sprint-now-comes-marathon-2026-09-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-13"
     }
   },
   "last_digest_success": true,
@@ -8124,12 +8134,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-13T11:08:40.129689+00:00",
   "last_generated_date": "2026-09-13",
-  "last_generated_time": "2026-09-13T21:01:41.934253+00:00",
+  "last_generated_time": "2026-09-13T22:01:46.997638+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 13, 2026 · 21:01 BRT",
+          "pub_date": "2026-09-13",
+          "pub_ts": 1789344060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says US could stay in Iran and keep oil, like Venezuela deal - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NKNXdjMkx2Q2ZXOWVWU25Oa1hXRGFZcWJLRktNQWdoclBWVEJQdXhLMS1ZQV9TWHhmNlZSMTlIVXlSZWlWRGdrWXN2a2gxNzZiOWJlTUtVd2xIbW5tb0pJVVNGNFdmNWdEZktuV0JuT3pmaUF3VHYtZXotVklQWGt2YlEzN2Uwa21ac1I1bjlHRi1iM1VpMF90bFhJZk5wNl9aaG9rVmNsVkpUUUdF?oc=5",
@@ -11406,6 +11430,20 @@
           "published": "Sep 13, 2026 · 16:06 BRT",
           "pub_date": "2026-09-13",
           "pub_ts": 1789326372,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTU1DUkxZOVJYbXlpMTh1TkdvU1BBWi1sWXZyWnI0RGNpVTd3TGgzTE5UcEtMM3NWNms5dVFFWXZBRkZnenNlcUdvV0lqTjVyUUs4aldaODcta2FZYkdQanczMU4wd3M4aVhPNXlWWnJsZDd0d0JNektEQ1VkMFp4SmVKR2dBY2h0V29IaDVmcGlEZDhrZTRsLTRuVng5WUVZc2RGVjgxTlpKNm1VT0RRUURBRkJ5V3lQMXA1QU8wMHVERG1RS1Rj?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 11, 2026 · 20:19 BRT",
+          "pub_date": "2026-09-11",
+          "pub_ts": 1789168775,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

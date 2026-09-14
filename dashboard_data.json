@@ -8085,105 +8085,62 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-14"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-09-13T11:08:33.281210+00:00",
-  "digest": {
-    "digest": "Recent developments indicate a deepening entanglement of Iran's proxies in regional conflicts, with activations noted in Yemen and Iraq, contributing to a complex geopolitical landscape. Iran appears to be leveraging escalating tensions with the U.S. to gain strategic advantage. Concurrently, the BRICS bloc has issued a joint statement urging restraint amidst the ongoing conflict, with discussions highlighting Iran's presence at the diplomatic table as a point of contrast with U.S. engagement. A reported attack on shipping in the Strait of Hormuz has heightened concerns regarding the security of oil supplies, leading to a rise in oil prices. The Houthi advance in Yemen presents a new challenge for the United States. These events collectively underscore the multifaceted nature of the Iran conflict and its broader regional and economic implications.",
-    "top_themes": [
-      "Iran's regional proxy activity",
-      "BRICS diplomatic engagement",
-      "Strait of Hormuz security concerns"
-    ],
-    "next_events": [
-      {
-        "title": "Escalation of Regional Proxy Conflicts",
-        "description": "Analysts should closely monitor the activities of Iranian-backed proxy groups, particularly the Houthis in Yemen and militias in Iraq. Increased aggression or territorial gains by these groups could further destabilize the region, deepen the U.S.'s strategic challenges, and potentially trigger broader military engagements."
-      },
-      {
-        "title": "Threats to Maritime Security in the Strait of Hormuz",
-        "description": "Watch for any new reports of attacks, harassment, or threats to international shipping in the Strait of Hormuz. Such incidents are critical indicators of escalating tensions, directly impact global oil supplies and prices, and carry a high risk of direct military confrontation."
-      },
-      {
-        "title": "Iran's Strategic Escalation and Internal Politics",
-        "description": "Observe how Iran continues to employ escalation as a means to gain leverage in regional and international dynamics. Pay close attention to the influence and statements of Iranian hard-liners, as their positions often dictate the viability of diplomatic solutions and the potential for renewed conflict."
-      },
-      {
-        "title": "BRICS Bloc's Diplomatic Influence and Oil Market Impact",
-        "description": "Monitor any further diplomatic initiatives or joint statements from the BRICS nations, especially given Iran's participation and the context of rising oil prices. Their collective stance could either provide a pathway for de-escalation or underscore a shifting geopolitical alignment regarding the conflict."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-09-13T11:08:39.692154+00:00",
-  "relevant_news": [
-    {
-      "title": "As Iran proxies activate in Yemen and Iraq, Trump’s Mideast morass deepens - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/09/12/with-no-clear-path-out-us-war-iran-messy-mideast-gets-messier/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 12, 2026 · 19:44 BRT",
-      "pub_date": "2026-09-12",
-      "pub_ts": 1789253055,
+    },
+    "https://www.washingtonpost.com/opinions/2026/09/12/trump-putin-are-both-wrong-they-cant-win-their-wars/": {
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-09-14T11:09:23.217681+00:00",
+  "digest": {
+    "digest": "Recent developments indicate a significant escalation in the conflict involving Iran, with reports of a \"little war\" expanding and impacting global markets. The airline industry, exemplified by AirBaltic filing for Chapter 11 bankruptcy, is experiencing direct financial repercussions attributed to the conflict's costs. Diplomatic efforts are facing setbacks, as evidenced by the postponement of meetings concerning the Strait of Hormuz involving Iran and Gulf states, alongside broader Mideast diplomacy stalling. The United States' potential strategy of maintaining a presence in Iran and controlling its oil resources, drawing parallels to Venezuela, has been articulated. Concerns have been raised regarding Chinese entities potentially aiding Iran prior to attacks that resulted in U.S. troop casualties. The operational status of the Strait of Hormuz remains a point of scrutiny, with questions about the actual volume of oil transit. The Bank of England's dovish monetary policy stance is reportedly being challenged by the economic pressures stemming from the Iran war. Reports also highlight a potent threat from Iran-linked militias in Iraq, responsible for an attack on a Saudi oil pipeline. Furthermore, there are indications of Iran requesting new Russian-developed drones, with these drones being based on Iranian designs. Amidst these events, a U.S. airman recounted a survival and rescue incident after being shot down over Iran.",
+    "top_themes": [
+      "Geopolitical Tensions",
+      "Oil Market Impact",
+      "Diplomatic Stalemates"
+    ],
+    "next_events": [
+      {
+        "title": "Stalled Mideast Diplomacy and Strait of Hormuz Talks",
+        "description": "Multiple reports indicate the postponement of crucial meetings between Iran and Gulf states regarding the Strait of Hormuz. Analysts should watch for any signs of these talks resuming, as their continued failure signals heightened regional tensions and a lack of de-escalation pathways. The outcome of these diplomatic efforts will dictate the immediate future of maritime security and broader regional stability."
+      },
+      {
+        "title": "Escalation of Proxy Conflicts and Regional Attacks",
+        "description": "The attack on a Saudi oil pipeline by Iran-linked Iraqi militias and new Houthi attacks on Saudi Arabia highlight the ongoing and escalating proxy conflicts. Watch for further actions by these groups and Baghdad's efforts to curb the power of Tehran-linked forces, as these events could trigger broader regional confrontations and destabilize key oil infrastructure."
+      },
+      {
+        "title": "Global Economic and Energy Market Impact",
+        "description": "The 'marathon' of the Iran war's impact on oil markets and the bankruptcy of AirBaltic due to war costs signal significant economic repercussions. Analysts should monitor global oil prices, supply chain disruptions, and the broader impact on industries and central bank policies, as sustained conflict will continue to test global economic resilience."
+      },
+      {
+        "title": "Iran's Evolving Military Capabilities and Foreign Support",
+        "description": "Reports of Tehran requesting new Russia-developed drones, based on Iranian designs, indicate a strengthening of Iran's military capabilities and strategic alliances. Watch for further evidence of military cooperation with Russia or other nations, as this could significantly alter the balance of power and the nature of future engagements with the US and Israel."
+      },
+      {
+        "title": "US Long-Term Strategy and Presence in the Region",
+        "description": "President Trump's comments about the US potentially staying in Iran to 'keep oil' suggest a long-term strategic interest beyond immediate conflict resolution. Analysts should monitor any policy shifts or statements regarding US military presence and control over Iranian resources, as this could signal a prolonged occupation or a new phase of geopolitical engagement."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-09-14T11:10:33.204904+00:00",
+  "relevant_news": [
     {
-      "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S. - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 12, 2026 · 15:07 BRT",
-      "pub_date": "2026-09-12",
-      "pub_ts": 1789236430,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Modi Forges BRICS Consensus in Shadow of Worsening Iran War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/xi-takes-center-stage-at-modi-s-brics-summit-as-iran-war-deepens",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Sep 12, 2026 · 10:00 BRT",
-      "pub_date": "2026-09-12",
-      "pub_ts": 1789218019,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - Reuters",
-      "url": "https://www.reuters.com/business/energy/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13/",
+      "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/oil-markets-survived-iran-war-sprint-now-comes-marathon-2026-09-14/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 12, 2026 · 23:22 BRT",
-      "pub_date": "2026-09-12",
-      "pub_ts": 1789266120,
+      "published": "Sep 13, 2026 · 21:01 BRT",
+      "pub_date": "2026-09-13",
+      "pub_ts": 1789344060,
       "summary": "",
       "tags": [
         "extracted",
@@ -8195,18 +8152,94 @@
       "sentiment_success": false
     },
     {
-      "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 12, 2026 · 23:46 BRT",
-      "pub_date": "2026-09-12",
-      "pub_ts": 1789267613,
+      "title": "Trump’s ‘Little War’ With Iran Just Got a Lot Bigger - Bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-14/trump-s-little-war-with-iran-just-got-bigger-because-of-the-houthis",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 14, 2026 · 04:24 BRT",
+      "pub_date": "2026-09-14",
+      "pub_ts": 1789370669,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
+      "url": "https://www.reuters.com/world/airbaltic-files-chapter-11-bankruptcy-new-york-2026-09-14/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 14, 2026 · 03:47 BRT",
+      "pub_date": "2026-09-14",
+      "pub_ts": 1789368420,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump says the Strait of Hormuz is open. But how much oil is really going through? - washingtonpost.com",
+      "url": "https://www.washingtonpost.com/national-security/2026/09/14/trump-claims-strait-hormuz-is-open-how-much-oil-is-really-going-through/",
+      "source": "washingtonpost.com",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Sep 14, 2026 · 07:33 BRT",
+      "pub_date": "2026-09-14",
+      "pub_ts": 1789382037,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Bank of England’s Dovish Majority Tested by Iran War Pressures - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/bank-of-england-s-dovish-majority-tested-by-iran-war-pressures",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 14, 2026 · 01:00 BRT",
+      "pub_date": "2026-09-14",
+      "pub_ts": 1789358400,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Diplomacy stumbles as meeting on Hormuz between Iran and Gulf states is postponed - The Times of Israel",
+      "url": "https://www.timesofisrael.com/diplomacy-stumbles-as-meeting-on-hormuz-between-iran-and-gulf-states-is-postponed/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Sep 14, 2026 · 02:10 BRT",
+      "pub_date": "2026-09-14",
+      "pub_ts": 1789362628,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -8215,9 +8248,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-13T11:08:40.129689+00:00",
-  "last_generated_date": "2026-09-13",
-  "last_generated_time": "2026-09-13T23:01:45.478364+00:00",
+  "last_relevant_time": "2026-09-14T11:10:33.921031+00:00",
+  "last_generated_date": "2026-09-14",
+  "last_generated_time": "2026-09-14T08:01:50.601481+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12648,6 +12681,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 14, 2026 · 03:47 BRT",
+          "pub_date": "2026-09-14",
+          "pub_ts": 1789368420,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "AirBaltic postpones key meeting of bondholders - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWNOTkpyenp5dHNNU2sxNkp2WFF5QWtNV2l0NVlrYXdlcElGUkpiWUFydkQ4NVVfSUtuQUtqZVc0SjFGWmd4R3ktVW84Q2RfaUpUazl6a19FV1JGNTd2VXpUQmxvakxzR0hzMGx1TXNEcV9Sd0VkbnUyUDh4MFJCOFJzYzFPaXNqNGxoM1dTNW5xVHQ0bF9fdkJRZGE?oc=5",

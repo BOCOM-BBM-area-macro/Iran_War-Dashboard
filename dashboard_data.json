@@ -8587,6 +8587,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-15/iran-war-pushes-cost-of-shipping-us-gulf-coast-oil-to-asia-to-record": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
     }
   },
   "last_digest_success": true,
@@ -8748,7 +8758,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-15T11:11:18.491567+00:00",
   "last_generated_date": "2026-09-15",
-  "last_generated_time": "2026-09-15T18:01:47.044073+00:00",
+  "last_generated_time": "2026-09-15T19:02:08.359856+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -8763,6 +8773,20 @@
           "published": "Sep 15, 2026 · 02:12 BRT",
           "pub_date": "2026-09-15",
           "pub_ts": 1789449120,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says the Strait of Hormuz is open. But how much oil is really going through? - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObW03cTBweVFNMnp1YmoxQU1kMU5JcjV4MjlxQWVZYzY5YjV6dlRhSjB3QTNzd2t5RzN0VGdKZTc2QUR0bGVaYkpDTEJxal95cXZ6cmdNUU9LV2J2c2NRVXhrVF9Ga0ZFN2NKT2tRdV9fTVVxTHFHSENQNGl2MzlNR01EeVMwZzJaWDBOR2daY3BmTEZnZ3VKTlplUU9pT05rVWhDNmJlY0VJYUs5Mk5Od19UYXUzOUxfSVB3MkNxWG1NdVRkVmo0ek5WRzg?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 14, 2026 · 13:00 BRT",
+          "pub_date": "2026-09-14",
+          "pub_ts": 1789401600,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

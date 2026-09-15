@@ -7283,7 +7283,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html": {
       "summary": "",
@@ -8393,7 +8393,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-15"
+      "pub_date": "2026-09-14"
     },
     "https://www.bloomberg.com/news/newsletters/2026-09-15/pipeline-strike-and-houthi-advances-complicate-iran-war": {
       "summary": "",
@@ -8423,6 +8423,16 @@
         "Yemen",
         "Houthi",
         "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-security-chief-rejects-any-talks-with-us-after-trump-remarks/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8588,7 +8598,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-15T11:11:18.491567+00:00",
   "last_generated_date": "2026-09-15",
-  "last_generated_time": "2026-09-15T11:01:53.849940+00:00",
+  "last_generated_time": "2026-09-15T12:01:48.331877+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

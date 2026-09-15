@@ -7283,7 +7283,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-11"
+      "pub_date": "2026-09-10"
     },
     "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html": {
       "summary": "",
@@ -8324,6 +8324,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-15"
+    },
+    "https://www.washingtonpost.com/politics/2026/09/15/iran-war-has-caused-strategic-munitions-shortfall-inspector-general-report-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
+    },
+    "https://www.cbc.ca/news/world/us-pentagon-iran-war-report-9.7344243": {
+      "summary": "A U.S. government watchdog has released its first report on the impact of the Iran war, acknowledging the military's advanced weapons shortfalls and offering the first public look at the damage to American aircraft, bases and diplomatic outposts in the Middle East.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
+    },
+    "https://www.reuters.com/world/middle-east/un-rights-chief-says-uncovered-remains-gaza-raise-concerns-war-crimes-2026-09-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
     }
   },
   "last_digest_success": true,
@@ -8485,7 +8515,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-15T11:11:18.491567+00:00",
   "last_generated_date": "2026-09-15",
-  "last_generated_time": "2026-09-15T08:01:47.465177+00:00",
+  "last_generated_time": "2026-09-15T09:02:10.757709+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -11865,6 +11895,20 @@
           "published": "Sep 11, 2026 · 20:19 BRT",
           "pub_date": "2026-09-11",
           "pub_ts": 1789168775,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Higher oil and rates are set to test the markets - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwZDMzdzdiN2hyTG1tMk1ZNzRHOXpWTEl0QUZ2UnVQaThveHFheDZxVDEwRmFCTFM2Z0hTMTRZQzZpT05MUTZRVkZNTnlPTHVFOUpXZXhDQTlyZUl1b3BfWGhfT185QQ?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 11, 2026 · 19:58 BRT",
+          "pub_date": "2026-09-11",
+          "pub_ts": 1789167536,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

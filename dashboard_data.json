@@ -7755,7 +7755,7 @@
       "pub_date": "2026-09-12"
     },
     "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html": {
-      "summary": "",
+      "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8205,6 +8205,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-14"
+    },
+    "https://www.nytimes.com/2026/09/14/world/houthis-saudi-iran-jeff-koons.html": {
+      "summary": "The Iranian-backed militia has made strategic gains, becoming an unlikely power player in the Middle East.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-14"
     }
   },
   "last_digest_success": true,
@@ -8360,7 +8370,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-14T11:10:33.921031+00:00",
   "last_generated_date": "2026-09-14",
-  "last_generated_time": "2026-09-14T21:01:39.189538+00:00",
+  "last_generated_time": "2026-09-14T22:01:47.678560+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

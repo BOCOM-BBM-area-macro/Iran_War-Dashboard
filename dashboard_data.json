@@ -8650,6 +8650,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-15"
+    },
+    "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
+    },
+    "https://www.jpost.com/american-politics/article-908729": {
+      "summary": "Republican Rep. Thomas Massie launched an impeachment effort against Pete Hegseth over the Iran war, while polls show voters remain uneasy about the conflict ahead of midterm elections.",
+      "tags": [
+        "United States",
+        "Congress",
+        "republican",
+        "Donald Trump",
+        "impeachment"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
     }
   },
   "last_digest_success": true,
@@ -14237,6 +14260,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "GOP Rep. Massie files impeachment articles against Defense Secretary Pete Hegseth - jpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Nc3hpU0h2QUMwYnllZWpjN1paUmJ3dVVfWDFzOE1SVEw2b255QU1mSlI3TmxjWWxUOVRFTkJUZmx5YVJ2VHNxa3BrdlFvbk1Fb0s5T0U3cnBlbHJwVXI2NFlURVc?oc=5",
+          "source": "jpost.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 15, 2026 · 22:43 BRT",
+          "pub_date": "2026-09-15",
+          "pub_ts": 1789523005,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "JD Vance says Iran war will enter 'much different phase' after elections - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WNWtVZktuelp2c2NNeFFGMUdmY3BzdGJaV19Dd3pNaFhYVDFxZG8ySTB1QVd3bFZfOWNZYzl5Z2hldXVENVFLU0FMUldOQnNMUGM2TFpFYlFLb0V2VHZUamlnOFE?oc=5",

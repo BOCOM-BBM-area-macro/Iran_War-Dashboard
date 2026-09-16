@@ -8519,7 +8519,7 @@
       "pub_date": "2026-09-15"
     },
     "https://www.nytimes.com/2026/09/15/us/politics/iran-war-cost.html": {
-      "summary": "",
+      "summary": "The Congressional Budget Office said its analysis had been limited by the fact that the Defense Department did not respond to requests for information on the costs of the conflict.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -8603,6 +8603,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-15"
+    },
+    "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -8768,7 +8778,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-15T11:11:18.491567+00:00",
   "last_generated_date": "2026-09-15",
-  "last_generated_time": "2026-09-15T21:02:04.175923+00:00",
+  "last_generated_time": "2026-09-15T22:01:40.345542+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

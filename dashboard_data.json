@@ -8659,7 +8659,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-16"
+      "pub_date": "2026-09-15"
     },
     "https://www.jpost.com/american-politics/article-908729": {
       "summary": "Republican Rep. Thomas Massie launched an impeachment effort against Pete Hegseth over the Iran war, while polls show voters remain uneasy about the conflict ahead of midterm elections.",
@@ -8735,6 +8735,26 @@
         "Iran US Conflict",
         "Donald Trump",
         "House of Representatives"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-16"
+    },
+    "https://www.nytimes.com/video/us/100000011145234/is-iran-shaping-up-to-be-a-forever-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-16"
+    },
+    "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

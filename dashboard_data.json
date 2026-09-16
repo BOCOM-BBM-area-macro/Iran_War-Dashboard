@@ -7283,7 +7283,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-11"
+      "pub_date": "2026-09-10"
     },
     "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html": {
       "summary": "",
@@ -8466,7 +8466,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-15"
+      "pub_date": "2026-09-16"
     },
     "https://www.ft.com/content/e89bfb29-2aef-40ec-9c9d-b9c1afa783a8?syn-25a6b1a6=1": {
       "summary": "Inspector general warns of ‘industrial base bottlenecks’ after military spent $22bn on ordnance in first four months of conflict",
@@ -8639,7 +8639,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-15"
+      "pub_date": "2026-09-16"
     },
     "https://www.washingtonpost.com/national-security/2026/09/15/house-passes-measure-intended-halt-iran-war/": {
       "summary": "",
@@ -8659,7 +8659,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-15"
+      "pub_date": "2026-09-16"
     },
     "https://www.jpost.com/american-politics/article-908729": {
       "summary": "Republican Rep. Thomas Massie launched an impeachment effort against Pete Hegseth over the Iran war, while polls show voters remain uneasy about the conflict ahead of midterm elections.",
@@ -8759,56 +8759,114 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-16"
+    },
+    "https://www.washingtonpost.com/opinions/2026/09/16/irans-maximum-leverage-strait-hormuz-has-passed/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-16"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-15T11:09:38.664500+00:00",
+  "last_digest_time": "2026-09-16T11:10:11.121350+00:00",
   "digest": {
-    "digest": "The ongoing conflict involving Iran has resulted in a significant depletion of key munitions and extensive damage to US military and intelligence assets in the Middle East, according to a Pentagon report. Gulf Arab nations are reportedly seeking alternative security arrangements as US bases have failed to deter Iranian actions. Iran's allies are exerting pressure on Saudi Arabia through coordinated attacks by Houthi rebels and Iraqi militants, presenting a substantial challenge to regional stability. The Bab al-Mandab Strait remains a focal point of military operations, with Houthi control impacting maritime security and leading to stalled talks concerning the Strait of Hormuz. The conflict's impact extends to global energy markets, contributing to rising diesel prices due to widespread energy chaos. Etihad Airways has noted a rebound in passenger numbers following the initial impact of the Iran war. Saudi Arabia is facing a 'worst-case scenario' following Iranian attacks and diplomatic rebuffs, while China's oil throughput has increased amid a rebound in fuel exports. The conflict has also been framed as a critical juncture for supporting both Ukrainian and Iranian populations.",
+    "digest": "The ongoing conflict with Iran has incurred significant financial costs for the United States, with estimates from the Congressional Budget Office and other sources placing the total expenditure at $38 billion through July, and projections indicating a continued monthly cost of $3 billion. This financial strain is exacerbated by increased fuel expenses for Americans, estimated at $100 billion. The war has also led to substantial military challenges, including the depletion of key munitions, damage to hundreds of U.S. military facilities and intelligence assets in the Middle East, and the withdrawal of critical evacuation helicopters from multiple countries. Supply chain bottlenecks within the Pentagon have been identified as a direct consequence of these losses. Politically, the House of Representatives has taken steps to direct President Trump to halt military action or secure congressional approval, with some Republican defections noted. There are indications that the conflict may enter a 'different phase' following upcoming elections. The war's impact extends globally, affecting oil prices, Gulf exports, and contributing to inflation, prompting Asian refiners to adapt their strategies and Gulf countries to increase spending on anti-drone systems. Demand for housing has also been negatively impacted, with one company cutting its sales outlook due to the war's economic pressures.",
     "top_themes": [
-      "US Military Strain",
-      "Regional Instability",
-      "Energy Market Impact"
+      "War Costs and Economic Impact",
+      "Military Losses and Supply Chain Disruptions",
+      "Congressional Actions and Political Developments"
     ],
     "next_events": [
       {
-        "title": "US Military Readiness and Regional Commitment",
-        "description": "The reported depletion of US munitions and damage to military assets in the Middle East due to the Iran war signals potential strain on US capabilities. Analysts should monitor congressional responses, defense budget allocations, and any strategic re-evaluations of US military presence or support to regional allies."
+        "title": "US Congressional Action and War Authorization",
+        "description": "The House has repeatedly moved to halt the war or require congressional approval, indicating significant domestic political pressure. Analysts should monitor future legislative efforts, the President's response, and how upcoming elections might shift the political landscape regarding the war's continuation or escalation."
       },
       {
-        "title": "Gulf States' Strategic Realignment and New Alliances",
-        "description": "With US deterrence questioned, Gulf Arab states, particularly Saudi Arabia, are actively seeking alternative security options. Watch for increased defense spending, diversification of military partnerships beyond the US, and potential diplomatic overtures to other global powers as they navigate a perceived 'worst-case scenario'."
+        "title": "Mounting Economic Costs and Global Market Disruptions",
+        "description": "The war's financial toll is rapidly increasing, impacting fuel prices, supply chains, and global inflation, with costs projected to rise by billions monthly. Watch for further CBO/Pentagon reports on costs, the stability of oil prices and Gulf exports, and how these economic pressures influence domestic and international policy decisions regarding the conflict."
       },
       {
-        "title": "Escalation in Strategic Maritime Chokepoints",
-        "description": "Houthi control over the Bab al-Mandab Strait and continued strikes on Saudi targets grant Iran significant leverage over vital shipping lanes. Analysts should monitor for further Houthi actions, potential naval confrontations, and any disruptions to global maritime trade, especially concerning oil transit through the Strait of Hormuz."
+        "title": "US Military Readiness and Regional Strategic Adjustments",
+        "description": "Extensive damage to US assets, depleted munitions, and logistical bottlenecks highlight challenges to military readiness and sustainability. Monitor the Pentagon's efforts to replenish resources, the effectiveness of new defense systems in the Gulf, and the evolving strategic alliances and counter-measures by regional actors."
       },
       {
-        "title": "Evolution of Iran's Asymmetric Warfare and Drone Capabilities",
-        "description": "The 'AI nightmare' caused by an Iranian drone and coordinated pressure from Iran's allies highlight its sophisticated asymmetric capabilities. Watch for further deployment of advanced drones, cyberattacks, and coordinated proxy actions that could challenge regional security and conventional defenses."
-      },
-      {
-        "title": "Prospects for De-escalation and Regional Peace Talks",
-        "description": "The delay in talks to end the Iran war, coupled with increased pressure on Saudi Arabia, indicates a worsening diplomatic landscape. Analysts should track any renewed efforts for dialogue, the conditions under which talks might resume, and the potential for further regional destabilization if diplomatic avenues remain closed."
-      },
-      {
-        "title": "Impact on Global Energy Markets and Diesel Prices",
-        "description": "The ongoing conflict is already contributing to energy chaos and rising diesel prices globally. Monitor for any further disruptions to oil production or shipping routes, as continued instability in the Middle East could lead to significant volatility and price hikes in international energy markets."
+        "title": "Post-Election War Phase and Conflict Evolution",
+        "description": "Statements suggest the war will enter a 'different phase' after elections, raising questions about its long-term nature and potential to become a 'forever war.' Analysts should watch for any shifts in US military strategy, diplomatic overtures, or the intensity of the conflict following the midterms, assessing whether it moves towards escalation, de-escalation, or a prolonged stalemate."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-15T11:11:02.465876+00:00",
+  "last_watch_time": "2026-09-16T11:10:19.859074+00:00",
   "relevant_news": [
     {
-      "title": "Iran war has led to Pentagon munitions shortfall, US Defense Department probe finds - report - The Jerusalem Post",
+      "title": "House Directs Trump to Halt War With Iran or Secure Congress’s Approval - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 16, 2026 · 00:01 BRT",
+      "pub_date": "2026-09-16",
+      "pub_ts": 1789527661,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Americans Have Spent $100 Billion More on Fuel During the Iran War - wsj.com",
+      "url": "https://www.wsj.com/business/energy-oil/americans-have-spent-100-billion-more-on-fuel-during-the-iran-war-377952a1",
+      "source": "wsj.com",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 15, 2026 · 22:00 BRT",
+      "pub_date": "2026-09-15",
+      "pub_ts": 1789520400,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 15, 2026 · 23:27 BRT",
+      "pub_date": "2026-09-15",
+      "pub_ts": 1789525676,
+      "summary": "Helicopters for evacuating casualties were pulled from four countries, and hundreds of military facilities were destroyed, according to a new report.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US-Iran war has caused supply-chain bottlenecks in Pentagon, report finds - The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-908603",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 14, 2026 · 23:00 BRT",
-      "pub_date": "2026-09-14",
-      "pub_ts": 1789437643,
+      "published": "Sep 16, 2026 · 01:36 BRT",
+      "pub_date": "2026-09-16",
+      "pub_ts": 1789533369,
       "summary": "The US Defense Department’s congressionally-mandated report outlines depletion of key munitions and extensive damage to US military and intelligence assets in the Middle East.",
       "tags": [
         "Iran",
@@ -8822,94 +8880,39 @@
       "sentiment_success": false
     },
     {
-      "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 15, 2026 · 05:57 BRT",
-      "pub_date": "2026-09-15",
-      "pub_ts": 1789462641,
-      "summary": "",
+      "title": "How the Iran war could affect oil prices, Gulf exports and US inflation - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-908750",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Sep 16, 2026 · 05:14 BRT",
+      "pub_date": "2026-09-16",
+      "pub_ts": 1789546478,
+      "summary": "Oil loadings at the Red Sea port of Yanbu were suspended, sources told Reuters, while Saudi Arabia’s East-West Pipeline remained offline after attacks on the kingdom’s energy infrastructure.",
       "tags": [
-        "extracted",
-        "nytimes.com"
+        "Iran",
+        "Saudi Arabia",
+        "Yemen",
+        "Tehran",
+        "oil"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iran gains leverage with Bab al-Mandab Strait under Houthi control - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/09/15/iran-gains-leverage-with-bab-al-mandab-strait-under-houthi-control/",
+      "title": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/15/iran-war-has-caused-strategic-munitions-shortfall-inspector-general-report-says/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 15, 2026 · 07:29 BRT",
+      "published": "Sep 15, 2026 · 15:46 BRT",
       "pub_date": "2026-09-15",
-      "pub_ts": 1789468171,
+      "pub_ts": 1789497978,
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "With Saudi Arabia under pressure, talks on how to end Iran war face delay - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/09/14/iran-persian-gulf-foreign-ministers-postpone-meeting-talks-stall/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 14, 2026 · 17:06 BRT",
-      "pub_date": "2026-09-14",
-      "pub_ts": 1789416419,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars. - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 14, 2026 · 16:58 BRT",
-      "pub_date": "2026-09-14",
-      "pub_ts": 1789415881,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 14, 2026 · 11:46 BRT",
-      "pub_date": "2026-09-14",
-      "pub_ts": 1789397177,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -8918,9 +8921,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-15T11:11:18.491567+00:00",
-  "last_generated_date": "2026-09-15",
-  "last_generated_time": "2026-09-15T23:01:45.993602+00:00",
+  "last_relevant_time": "2026-09-16T11:10:21.010182+00:00",
+  "last_generated_date": "2026-09-16",
+  "last_generated_time": "2026-09-16T08:02:12.754917+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -9075,6 +9078,20 @@
           "published": "Sep 12, 2026 · 15:07 BRT",
           "pub_date": "2026-09-12",
           "pub_ts": 1789236430,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gulf Tankers Are Running Out of Ways to Export Oil: ‘These Waters Aren’t Safe’ - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByYjJ4ZE5yM1dTaDdycGR4bHBPV2U1NG1zWnlJeTQ4d0I2dk5WNTVXWnhXUEhId1JjMy1UYUo0cUZZMzZFUHRYSThQdXdTSndpRFVsaEhreV9nLVQzdjJwa1U0ZHNCLXNkOC1tRzBYajV0bFAwWkQ2ZFZKc0k?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 11, 2026 · 17:06 BRT",
+          "pub_date": "2026-09-11",
+          "pub_ts": 1789157161,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

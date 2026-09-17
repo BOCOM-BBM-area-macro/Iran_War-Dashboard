@@ -8903,7 +8903,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-17"
+      "pub_date": "2026-09-16"
     },
     "https://www.timesofisrael.com/liveblog_entry/trump-again-voices-hope-iran-war-is-nearing-its-end/": {
       "summary": "",
@@ -8976,6 +8976,26 @@
       "tags": [
         "extracted",
         "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.reuters.com/world/china/china-presses-iran-help-rein-houthis-after-saudi-appeal-sources-say-2026-09-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.reuters.com/world/middle-east/how-yemens-houthis-went-small-mountain-militia-big-regional-threat-2026-09-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -9143,7 +9163,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-17T11:08:42.246174+00:00",
   "last_generated_date": "2026-09-17",
-  "last_generated_time": "2026-09-17T09:01:44.413237+00:00",
+  "last_generated_time": "2026-09-17T10:02:04.661610+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

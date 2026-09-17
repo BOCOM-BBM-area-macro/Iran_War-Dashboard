@@ -8841,7 +8841,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-17"
+      "pub_date": "2026-09-16"
     },
     "https://www.jpost.com/international/article-908842": {
       "summary": "The talks are expected to focus on US proposals for a postwar strategy following the conflict with Iran, according to Axios.",
@@ -8883,7 +8883,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-16"
+      "pub_date": "2026-09-17"
     },
     "https://www.reuters.com/world/middle-east/trump-hopes-iran-war-nearing-end-houthi-saudi-fighting-escalates-2026-09-17/": {
       "summary": "",
@@ -8914,6 +8914,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-17"
+    },
+    "https://www.timesofisrael.com/iran-hesitant-to-enforce-mandatory-headscarf-law-as-war-and-economic-pressures-mount/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-17/live-updates-908844": {
+      "summary": "Trump reportedly to meet Gulf leaders for Iran war talks next week • Trump says Iran “really wants” an agreement • Drone strikes Kurdish group opposed to IRGC in Iraq",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "IDF"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-16"
     }
   },
   "last_digest_success": true,
@@ -9074,6 +9097,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdfN2t1cTlMdHJXa1FQN0ZiU1M1dklpd2llNGtrTW1ndEEwSjZqc2VNcjY0VkFOQXFmLVUzNXFYUHdQTUU1Tm1leURSclhSajZPS29nZng3Sl83eUs2clpyMS1XbW0tNXpnbDdDc25SMVB6cHYtMWY2aFdYRzZsSEtPS1FBSHpQSGp6dFF6NV9mSkJBbXM4UnNWSDYyRzJjc0RtMkZod3l0Q0ZYSzljc3JPYmVFMlVZUGc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 01:23 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789618980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How the Iran war could affect oil prices, Gulf exports and US inflation - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjSThobURpdjVCaUJrWlVwN0xhVWViZmhmRTFobG1aN3FOa1c1V2VUTGU3WnVoaG85M1dqMzRiTFlfT1JPeDN5a1J6NWl0T1lLYklGclFNOThDYllrSXBZckEyTzZjdGYtRFE?oc=5",
@@ -14607,6 +14644,20 @@
           "_rank": 0
         },
         {
+          "title": "Gold rises as investors digest Fed hike, oil rally stalls - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 16, 2026 · 23:27 BRT",
+          "pub_date": "2026-09-16",
+          "pub_ts": 1789612020,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Trump to meet Gulf leaders for Iran war talks next week - report - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvWTZPU29xQUp2MlpSa1puSFhGRHJhTzJ6Y193ODYxcFhmSm1uaFhLNFV2cUN5UDF3YnJlbkxzVzVxamV1TGFra1pyRlU1Ulo5UGY1YkpDN0ZLZGpZb2xN?oc=5",
           "source": "The Jerusalem Post",
@@ -14629,6 +14680,20 @@
           "published": "Sep 16, 2026 · 12:09 BRT",
           "pub_date": "2026-09-16",
           "pub_ts": 1789571397,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Heavy MQ-9 losses in Iran war signal push for mass-producible replacement drones - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuMnhiS1Jvek9FYnBhU3Q2Yy1Ka2wtZzJVOU9EY2h4czVGZmpfalowRlVnVGxsc3FMbXdxZVhoQ1UtY21Sd3VtX1paS3BMWXJuOTEtMzFFQ2o5NERXcWEwX2JLdw?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 16, 2026 · 10:43 BRT",
+          "pub_date": "2026-09-16",
+          "pub_ts": 1789566182,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

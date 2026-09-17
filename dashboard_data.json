@@ -8841,7 +8841,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-16"
+      "pub_date": "2026-09-17"
     },
     "https://www.jpost.com/international/article-908842": {
       "summary": "The talks are expected to focus on US proposals for a postwar strategy following the conflict with Iran, according to Axios.",
@@ -8884,6 +8884,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-16"
+    },
+    "https://www.reuters.com/world/middle-east/trump-hopes-iran-war-nearing-end-houthi-saudi-fighting-escalates-2026-09-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-16"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-again-voices-hope-iran-war-is-nearing-its-end/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
     }
   },
   "last_digest_success": true,
@@ -14562,6 +14592,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Iran’s Attempts to Get Around the Hormuz Blockade Are Hitting a Wall - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVFpaVFWblczeEhpQXpHSHQ0VFotUDB3UFJQQTV4RXpBX2dSVllZejV2aGdvZ2QyN1BPSkNQWkFQd1JTenY2anhwR2lZdTE5dnNLUl9KSHVFZ25qYmR6TlB1QUZSSWxBSktTaFFBWGQzTlBlWS1hTHh6cTgwUHBLbExuYjNtOE9ra3RJdmdOT19HLUp4blNFdDlEX0VEa2lvTl9LcEROdkRxRXk5cnNvaFlmMVg?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 16, 2026 · 23:52 BRT",
+          "pub_date": "2026-09-16",
+          "pub_ts": 1789613520,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump to meet Gulf leaders for Iran war talks next week - report - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvWTZPU29xQUp2MlpSa1puSFhGRHJhTzJ6Y193ODYxcFhmSm1uaFhLNFV2cUN5UDF3YnJlbkxzVzVxamV1TGFra1pyRlU1Ulo5UGY1YkpDN0ZLZGpZb2xN?oc=5",

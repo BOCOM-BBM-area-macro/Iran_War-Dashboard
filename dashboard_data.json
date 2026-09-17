@@ -8903,7 +8903,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-16"
+      "pub_date": "2026-09-17"
     },
     "https://www.timesofisrael.com/liveblog_entry/trump-again-voices-hope-iran-war-is-nearing-its-end/": {
       "summary": "",
@@ -8956,6 +8956,26 @@
         "Iran US Conflict",
         "Israel Iran War",
         "us iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-17/bank-of-england-holds-rates-warns-of-hike-if-iran-war-persists": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.cbc.ca/news/world/un-report-us-strikes-iran-protests-9.7347566": {
+      "summary": "A United Nations fact-finding mission on Iran said on Thursday it had reasonable grounds to believe the United States was behind two military strikes on a school ‌and sports facility in Iran in February, and that these constituted war crimes.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -9123,7 +9143,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-17T11:08:42.246174+00:00",
   "last_generated_date": "2026-09-17",
-  "last_generated_time": "2026-09-17T08:01:42.854636+00:00",
+  "last_generated_time": "2026-09-17T09:01:44.413237+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -9166,6 +9186,20 @@
           "published": "Sep 16, 2026 · 04:12 BRT",
           "pub_date": "2026-09-16",
           "pub_ts": 1789542760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War cost $38 billion through July, report says - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkZrejJPakpDWHluTFctS3pQc2NiVzV4Ukg1RUpjTnZDSlhTSmk2aHFQUlowQ1k0a290X3ZWMmJ1YWU5ZjRJc09LWmphTzF2anh4WVZLQzgweTh0TjQ0SmNFTEdHTmgyZHBPejhETm1peGlmcG0wN21RTGY1TzFWZzZrMEZfYm9RQTdYYlFJSkV3ZzlRZkUyZXdwcm1ZQWNUMWtj?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 16, 2026 · 01:05 BRT",
+          "pub_date": "2026-09-16",
+          "pub_ts": 1789531518,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

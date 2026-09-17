@@ -8883,7 +8883,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-16"
+      "pub_date": "2026-09-17"
     },
     "https://www.reuters.com/world/middle-east/trump-hopes-iran-war-nearing-end-houthi-saudi-fighting-escalates-2026-09-17/": {
       "summary": "",
@@ -8996,6 +8996,19 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.jpost.com/middle-east/article-908978": {
+      "summary": "A new US inspector general report provides fresh details on the Iran war effort, covering April-June 2026 and revealing new data on the campaign beyond previously known Iranian attacks on US bases.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Congress",
+        "CENTCOM",
+        "Operation Epic Fury"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -9163,7 +9176,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-17T11:08:42.246174+00:00",
   "last_generated_date": "2026-09-17",
-  "last_generated_time": "2026-09-17T11:01:48.109714+00:00",
+  "last_generated_time": "2026-09-17T12:02:23.769943+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -8841,7 +8841,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-17"
+      "pub_date": "2026-09-16"
     },
     "https://www.jpost.com/international/article-908842": {
       "summary": "The talks are expected to focus on US proposals for a postwar strategy following the conflict with Iran, according to Axios.",
@@ -8933,6 +8933,16 @@
         "Hamas",
         "Hezbollah",
         "IDF"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
+    },
+    "https://www.reuters.com/world/middle-east/un-mission-finds-grounds-believe-us-committed-war-crimes-iran-tehran-crimes-2026-09-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

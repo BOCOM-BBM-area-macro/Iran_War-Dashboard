@@ -9063,6 +9063,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-17"
+    },
+    "https://www.wsj.com/video/the-new-offensive-raising-oil-prices-and-complicating-trumps-iran-war/5CEE7686-9878-48FB-A9DA-FB2D2CEBC742": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-17"
     }
   },
   "last_digest_success": true,
@@ -9226,12 +9236,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-17T11:08:42.246174+00:00",
   "last_generated_date": "2026-09-17",
-  "last_generated_time": "2026-09-17T17:02:29.845302+00:00",
+  "last_generated_time": "2026-09-17T18:01:44.795794+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The New Offensive Raising Oil Prices and Complicating Trump’s Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0F1eExfMkROUXRVd2EwSTFNXzJIcldlMDFTcjJyWlZ4cG5zc0V5VFRTYU1sbzc4Y2hiakwySHd5WE1GeGFFMjZmS3pTMkpiYlNWQ3Y4QmlSSHFxcUZwcU9wNHdoQ1pYSzM1dUZrRFhJYUh0T2dpZWJhcWtxTlZvSHlTcUhxeXhKS29pbmN2WW1OU2lIOWxxMWx2TFliYW8wZmUxRlJ1Y0wzd2ZRUFVsZHVrUHlMaW1BRlgwa21WV2phVmpHUG5YYlltTUg?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 16:32 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789673579,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 16:32 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789673520,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "JP Morgan Analysts Unsure How to Model Oil as Iran War Drags On - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmF2bU1sbEtTVko4NVJOR0NaUlVRMDlpcWxxM25pakFfODZHd3NTYVZpTUw3NmpmYl81UExFLXZ3V2M1NURfUHFzY1hpSUU5SHlDZE5IM3NsOURBVV81TGRkODRGQ3g5VWxvalFFWHRSaXVLczdoWDVpYzlQN0ZkLWIzQnV2ZXgwaUdBSzE3cW9xRV9jTmRhMTJ6Z1VYbVVNWHAtUXVoZkxHdzNBOGwxQk9MNGo?oc=5",
@@ -9269,6 +9307,20 @@
           "published": "Sep 17, 2026 · 13:10 BRT",
           "pub_date": "2026-09-17",
           "pub_ts": 1789661418,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Global Economy Is Running Out of Wiggle Room - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWndEeXg3MU00cXljY1dsM1NEVUZLQWFDcy1fZXczcVZKcFc5YTZtQl9sb09KVjk1ZkFLYTlrNzE2MnRfWEpIMEk0R0FsOUFuSmxRbDZBWUJCV1Y0UFlrY1JvZVo0c1VKLTRIcTBTbENsWkNCcDhjeWlsNGVaYmUtVWZXZTQ2dw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 10:14 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789650846,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

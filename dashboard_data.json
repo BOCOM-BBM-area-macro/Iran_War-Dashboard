@@ -9383,6 +9383,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-18"
+    },
+    "https://www.wsj.com/opinion/you-probably-have-the-iran-war-backward-61be55ea": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-909083": {
+      "summary": "As of Friday, the system lists 14 fatalities as occurring during Operation Epic Fury, with an additional four categorized under Overseas Operations.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Washington",
+        "Tehran",
+        "soldiers"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
+    },
+    "https://www.washingtonpost.com/the-seven-trump/2026/09/18/tracking-trump-unreported-military-deaths-iran-war-trump-bans-cnn-white-house-pentagon-testosterone-testing-more/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
     }
   },
   "last_digest_success": true,
@@ -9537,12 +9570,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-18T11:08:30.962513+00:00",
   "last_generated_date": "2026-09-18",
-  "last_generated_time": "2026-09-18T17:01:52.151719+00:00",
+  "last_generated_time": "2026-09-18T18:01:55.394432+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | You Probably Have the Iran War Backward - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXdjTG1DTzlyLTNxeHBYcWpYOE9IbGVVTVJnOWJXZWlIRENYZThMZllPVkVod1oxNE05c2dEUnFJcEpJT19yZVJ5amk3TnRPMVM4cGU3S2ZYVnlYOUxxTGZaYWhaNnQ1eE9md2J3Tk1KSG9FSVBZMVRYOXN3ZVd5TGN3?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 18, 2026 · 17:26 BRT",
+          "pub_date": "2026-09-18",
+          "pub_ts": 1789763160,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Hundreds of Thousands Rally in Iran as War and Economy Squeeze - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFlUcGJfZ3QxX0hxNVJVeFNIQTdxZHdkM0NoX21GdEl2X3lGYUtsSXhhdGVjVWVQNUR6Z3lmX3Q0YVBNM3R6bDFnQXV5eXBqdllkRDYweUU5RXZsdjJlQU5Bc3JiRXdIYUNSUVIxaDR3R1pzNmpONXN4THhEeTExeVY5V29uS29vYWJQYklTTDZvTS04U3czM3dYc0hMeWdzckF2UTYyemVNVzlTSWc?oc=5",
@@ -13245,6 +13292,20 @@
           "_rank": 0
         },
         {
+          "title": "Gas prices are about to take a big jump, analysts say, with the worst still to come - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTdzd01ZMk5zSlJxcXFLb1BTSkRMa3VrZGRYRHhNblNYZWJ4bEM5NWpmX3dfdjB3cWZuV0pjNEIyTG1UX1k5RE1yMmJMMTNQWFdydTZycjVWTFZ3UWVNNUIweTI1MTNBOW5ZQW5GSndnVU84dWZuVkNaR053N05DNGp5ZG0wbUFPaE01MHVneEkyV0U5M1BBOWJBVEJ0U2tvcHJmSkxIMDlqX3k4N1I0YTRCVQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 21:17 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789690632,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars. - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb081YVVpNkZEZkJ5WWVYWGdTX0pDd1ZlNWdzREJrR2x4aU1TX2pMdHo1enZ5QmZURkFtTG8xWE5hQVgxRm9yQ3A2MEpwaTEzY3JYbzFLVGRidUFpd0pGN2VqOFg1cUdyOUgtbkpHUWNtTWxqalZ5UnpqVHRBM1E5dVdqTFpNc0xZTExsWVdZeXppWmRJemp2WjBqRFNRQ0kySEE?oc=5",
           "source": "The New York Times",
@@ -15425,6 +15486,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "US-Iran war fatality accounting by Pentagon may not be accurate - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSFlEOHN3TFRnT0lyb1liWTlGYzBCTzZlVzZsckY3angwS0lPNmVIU3J0NUVQbGNJTUxWWnhZa3FtNnRYNEwyWU5kRTVTb053Mzk0X3hIcTVBY20zX213OVRaNTBrV3d6ckE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 18, 2026 · 17:03 BRT",
+          "pub_date": "2026-09-18",
+          "pub_ts": 1789761819,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Jet financiers fret as Iran war pumps up fuel and borrowing costs - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjdxellSQnUza3c3bW9obVhsNHRrOGdzOXZDNDE1S3BOdkpDa1F0bXNVSjhtejlCeE9reHRlck9HSDkzaWltX18waDJocjdURFBOV1ZQZlZaNEJQQnRzNVZMQ1Vjd2gyUEZkUkhfVFp4YkVkTTdXM0Z3QmZnbDYtLWlsRldiZkZnQkU2Mm5ob2luem5OSkh4cGFXdVNUdktvQzRJRmFCV19fMkgzcTBnYQ?oc=5",

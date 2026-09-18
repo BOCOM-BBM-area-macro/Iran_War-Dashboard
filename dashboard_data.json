@@ -9032,7 +9032,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-17"
+      "pub_date": "2026-09-18"
     },
     "https://www.bloomberg.com/news/articles/2026-09-17/jp-morgan-analysts-unsure-how-to-model-oil-as-iran-war-drags-on": {
       "summary": "",
@@ -9223,60 +9223,62 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-18"
+    },
+    "https://www.washingtonpost.com/opinions/2026/09/18/iran-war-affects-oil-prices-lng-helium-critical-industrial-inputs/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-17T11:08:29.216577+00:00",
+  "last_digest_time": "2026-09-18T11:08:23.292983+00:00",
   "digest": {
-    "digest": "Recent reports indicate that former President Trump is scheduled to meet with Gulf leaders next week to discuss post-conflict strategy following the war with Iran. Trump has expressed optimism about the war nearing its end, suggesting Iran is amenable to an agreement. Concurrently, the UN mission has found grounds to believe the US committed war crimes in Iran and that Tehran committed crimes against humanity. Iranian strikes have reportedly damaged hundreds of structures at US bases. Meanwhile, the conflict's impact is felt regionally, with Yemenis fleeing conflict zones as the Middle East war spreads, and impoverished Afghan migrants returning to Taliban-ruled Afghanistan due to the war in Iran. Diplomatic efforts to circumvent Iran's Hormuz blockade appear to be facing significant challenges. In a domestic development, the House of Representatives passed a measure intended to halt the Iran war, though this has seen widening GOP defections.",
+    "digest": "A United Nations mission has found reasonable grounds to believe that U.S. military strikes on a school and sports facility in Iran in February constituted war crimes, citing that mistakes went beyond negligence and potentially involved indiscriminate attacks. These findings have led to increased international scrutiny of U.S. actions in the ongoing conflict. The war continues to exert significant pressure on global oil markets, with traders and analysts struggling to model price fluctuations due to the ongoing stalemate. This disruption is also impacting the aviation sector, driving up fuel and borrowing costs for jet financiers. In response to the conflict, the U.S. has imposed sweeping sanctions on Iranian airlines, further isolating the nation. Diplomatically, the U.S. President faces skepticism from world leaders at the UN regarding the war's trajectory. Notably, the South Korean leader has rejected a U.S. request to send troops to Iran, indicating a divergence in international support for the U.S. military engagement. The economic fallout extends to American consumers, with potential increases in winter energy expenses.",
     "top_themes": [
-      "US-Iran Relations",
-      "Regional Conflict Escalation",
-      "Diplomatic Negotiations"
+      "UN War Crimes Allegations",
+      "Economic Impact on Oil and Aviation",
+      "International Diplomatic Stance"
     ],
     "next_events": [
       {
-        "title": "US Diplomatic Push for Post-War Strategy",
-        "description": "Analysts should closely monitor the outcomes of President Trump's upcoming talks with Gulf leaders regarding Iran. These discussions are expected to focus on a postwar strategy and could signal significant shifts in US policy or regional alliances, potentially leading to de-escalation or new diplomatic frameworks."
+        "title": "US Strategic Crossroads and Escalation Risks",
+        "description": "President Trump is reportedly at a major crossroads regarding the Iran war, facing skeptical world leaders at the UN. Analysts should monitor any shifts in US military strategy, diplomatic overtures, or further escalatory actions that could redefine the conflict's scope and intensity."
       },
       {
-        "title": "International Scrutiny on War Crimes",
-        "description": "The UN mission's findings regarding potential war crimes by the US and crimes against humanity by Tehran will likely lead to increased international pressure. Watch for further reports, potential legal actions, and how these findings influence diplomatic efforts and the legitimacy of involved parties."
+        "title": "Global Economic Fallout and Energy Market Volatility",
+        "description": "The ongoing conflict continues to disrupt oil markets, leading to higher fuel and borrowing costs, and making winter more expensive for some. Watch for sustained volatility in oil prices, the impact on global supply chains, and how major economies like China adjust their energy exports in response to the prolonged stalemate."
       },
       {
-        "title": "Expanding Regional Instability and Humanitarian Impact",
-        "description": "The reported spread of conflict, evidenced by Yemenis fleeing and Afghan migrants returning to Taliban rule due to war in Iran, indicates widening regional instability. Monitor for further signs of conflict expansion, increased humanitarian crises, and their potential to draw in more regional actors."
+        "title": "International Accountability for Alleged War Crimes",
+        "description": "Multiple UN reports indicate reasonable grounds to believe the U.S. committed war crimes in strikes on an Iranian school and sports facility, causing civilian deaths. Analysts should track the international community's response, potential legal proceedings, and the diplomatic fallout for the U.S. as these allegations gain traction."
       },
       {
-        "title": "Continued Iranian Military Actions and US Base Security",
-        "description": "Iranian strikes have reportedly damaged hundreds of structures at US bases, indicating persistent threats and Iran's operational capabilities. Analysts should watch for any escalation in these attacks, US defensive and retaliatory measures, and their impact on regional force posture."
+        "title": "Iran's Deepening Isolation and Sanctions Impact",
+        "description": "The U.S. has imposed sweeping sanctions on Iranian airlines, further isolating the country. Monitor the effectiveness of these sanctions, Iran's response to increased pressure, and how its growing isolation might influence its regional actions or prompt new alliances."
       },
       {
-        "title": "Strait of Hormuz Control and Iran's Economic Resilience",
-        "description": "Reports suggest Iran's leverage over the Strait of Hormuz is dwindling and its attempts to bypass blockades are failing. Monitor for changes in maritime security, the effectiveness of economic sanctions, and Iran's evolving strategies to maintain its economic lifelines."
-      },
-      {
-        "title": "US Domestic Political Influence on Iran War Policy",
-        "description": "The widening GOP defections as the House passes measures to halt the Iran war signal increasing domestic political pressure on the administration. Watch for further legislative actions, shifts in congressional support, and how these internal dynamics might constrain or alter US military engagement."
-      },
-      {
-        "title": "Iran's Proxy Network and Regional Destabilization",
-        "description": "Drone strikes against Kurdish groups opposed to the IRGC in Iraq highlight Iran's continued use of proxy forces and its broader regional influence. Analysts should monitor for further proxy actions, their targets, and the potential for these activities to escalate regional tensions beyond direct US-Iran confrontations."
+        "title": "Shifting International Support for US Military Engagements",
+        "description": "South Korea has rejected President Trump's request to send troops to Iran, indicating potential cracks in international support for US military actions. Watch for other allies to follow suit or express reservations, which could impact the feasibility and legitimacy of future US military operations in the region."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-17T11:08:41.798616+00:00",
+  "last_watch_time": "2026-09-18T11:08:30.443980+00:00",
   "relevant_news": [
     {
-      "title": "Scoop: Trump to hold Iran talks with Gulf leaders next week - Axios",
-      "url": "https://www.axios.com/2026/09/16/trump-iran-talks-gulf-leaders-un",
+      "title": "Trump tells Axios he's approaching major crossroads in Iran war - Axios",
+      "url": "https://www.axios.com/2026/09/17/trump-axios-interview-iran-war",
       "source": "Axios",
       "domain": "axios.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Sep 16, 2026 · 21:52 BRT",
-      "pub_date": "2026-09-16",
-      "pub_ts": 1789606351,
+      "published": "Sep 18, 2026 · 00:55 BRT",
+      "pub_date": "2026-09-18",
+      "pub_ts": 1789703711,
       "summary": "",
       "tags": [
         "extracted",
@@ -9288,90 +9290,51 @@
       "sentiment_success": false
     },
     {
-      "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/un-mission-finds-grounds-believe-us-committed-war-crimes-iran-tehran-crimes-2026-09-17/",
-      "source": "reuters.com",
+      "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18/",
+      "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 17, 2026 · 05:10 BRT",
+      "published": "Sep 18, 2026 · 02:03 BRT",
+      "pub_date": "2026-09-18",
+      "pub_ts": 1789707780,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 17, 2026 · 15:46 BRT",
       "pub_date": "2026-09-17",
-      "pub_ts": 1789632659,
-      "summary": "",
+      "pub_ts": 1789670781,
+      "summary": "Mistakes that led to the deaths of more than a hundred children “went beyond negligence,” investigators said. They also cited a separate strike the same day that killed a reported 22 civilians.",
       "tags": [
         "extracted",
-        "reuters.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Trump says 'hopefully we are towards end' of Iran war - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/trump-hold-talks-iran-with-gulf-leaders-next-week-axios-reports-2026-09-16/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 16, 2026 · 20:54 BRT",
-      "pub_date": "2026-09-16",
-      "pub_ts": 1789602840,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - washingtonpost.com",
-      "url": "https://www.washingtonpost.com/politics/2026/09/15/iran-war-has-caused-strategic-munitions-shortfall-inspector-general-report-says/",
-      "source": "washingtonpost.com",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 16, 2026 · 17:07 BRT",
-      "pub_date": "2026-09-16",
-      "pub_ts": 1789589248,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "GOP defections widen as House passes measure intended to halt the Iran war - washingtonpost.com",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/15/house-passes-measure-intended-halt-iran-war/",
-      "source": "washingtonpost.com",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 16, 2026 · 02:55 BRT",
-      "pub_date": "2026-09-16",
-      "pub_ts": 1789538100,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump again voices hope Iran war is nearing its end - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/trump-again-voices-hope-iran-war-is-nearing-its-end/",
+      "title": "UN mission: US strike that hit Iran school was ‘indiscriminate,’ likely a war crime - The Times of Israel",
+      "url": "https://www.timesofisrael.com/un-mission-us-strike-that-hit-iran-school-was-indiscriminate-likely-a-war-crime/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Sep 17, 2026 · 01:43 BRT",
-      "pub_date": "2026-09-17",
-      "pub_ts": 1789620206,
+      "published": "Sep 18, 2026 · 07:07 BRT",
+      "pub_date": "2026-09-18",
+      "pub_ts": 1789726050,
       "summary": "",
       "tags": [
         "extracted",
@@ -9381,17 +9344,69 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 18, 2026 · 04:51 BRT",
+      "pub_date": "2026-09-18",
+      "pub_ts": 1789717860,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 18, 2026 · 01:58 BRT",
+      "pub_date": "2026-09-18",
+      "pub_ts": 1789707493,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-17T11:08:42.246174+00:00",
-  "last_generated_date": "2026-09-17",
-  "last_generated_time": "2026-09-17T23:01:45.158218+00:00",
+  "last_relevant_time": "2026-09-18T11:08:30.962513+00:00",
+  "last_generated_date": "2026-09-18",
+  "last_generated_time": "2026-09-18T08:01:46.930330+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUFTUEJEVTBQQ2VkUDVGcGx4bXUxdzZEZXk2Si05VEFySnpFYU1zZUZpRWtqYTRQdGZqX29QUGNuSFZlQm5UR1MtRW44RmJyaWwtQUhSYVhlMXVPSjBlclY0NW9yVUlzZFlyUHhXRHFhMGhVQ0daSjlKbm1fQUFNRTJ6c0hHT3NTeXRtRWo3bzU5MFlfMWljcDZfc0NrMTZ1WW43T2dyOXdNcC10QURzV3RBdkc1dHN2?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 18, 2026 · 07:16 BRT",
+          "pub_date": "2026-09-18",
+          "pub_ts": 1789726618,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Will Make Winter More Expensive for Some Americans - nytimes.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWN2amxlMEJ2cDZ4MndTYTBMdUthTEQ2aE1ud0NXbW9JNnFwWXg5MG5rdEQ4bmEyYXhaV3hqR0ZrUzFOcWJNS1BfYmx5MVdISWVERHBiSDUyREZwMkVTR1hfOTdxaVRLYWZZTTY1czZ1OGJuYzRza1owelNDa2VCOTAxMGtsci1KRWdrTTB0Vzk3bnFjRENEc0ozMA?oc=5",
@@ -9513,6 +9528,20 @@
           "published": "Sep 17, 2026 · 10:14 BRT",
           "pub_date": "2026-09-17",
           "pub_ts": 1789650846,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 09:02 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789646520,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -15148,6 +15177,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Jet financiers fret as Iran war pumps up fuel and borrowing costs - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjdxellSQnUza3c3bW9obVhsNHRrOGdzOXZDNDE1S3BOdkpDa1F0bXNVSjhtejlCeE9reHRlck9HSDkzaWltX18waDJocjdURFBOV1ZQZlZaNEJQQnRzNVZMQ1Vjd2gyUEZkUkhfVFp4YkVkTTdXM0Z3QmZnbDYtLWlsRldiZkZnQkU2Mm5ob2luem5OSkh4cGFXdVNUdktvQzRJRmFCV19fMkgzcTBnYQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 18, 2026 · 06:20 BRT",
+          "pub_date": "2026-09-18",
+          "pub_ts": 1789723223,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war, Houthi advance test Trump’s peacemaker claims at UN - jpost.com",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9teE9LS2NGYm1OYnFhV2RzOE03R0tPNlVHVW5wS1U3MnBuYjBzbFdqbU00Y2E4NFlWUF9LR3ZFeDVxRmg2NkdiWGtWdEZlVVZEei03UEwycVZIb2gzQ3pJ?oc=5",

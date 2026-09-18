@@ -9363,6 +9363,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-18"
+    },
+    "https://www.nytimes.com/2026/09/18/us/politics/iran-war-cost-pentagon.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-18/iran-war-drives-bigger-diesel-supply-loss-despite-trump-s-claims": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
     }
   },
   "last_digest_success": true,
@@ -9517,7 +9537,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-18T11:08:30.962513+00:00",
   "last_generated_date": "2026-09-18",
-  "last_generated_time": "2026-09-18T16:02:03.967367+00:00",
+  "last_generated_time": "2026-09-18T17:01:52.151719+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -13197,6 +13217,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Iran War Drives Bigger Diesel Supply Loss Despite Trump’s Claims - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGlyYWM5OXZrclpyOVlHYm9XZHlxN3ZORWgwQmR6ZXhjbnF2RXNXSUJOLVFVelBHMTYyV2YwVFI4ZlYtV1NHOXJhZzFxYmc0WUdnWEE5a3lqRjI0T3pZMHdZdWtubnR3QlBjTWNTenpQNnlDOXN1UUR4cDZlVjYwVFNhY1NhZW5DT3ZfMGR4LTFGM0Z2MWxSSm1WQW56dHJ5al9sLVZibjBNR3U2OFc1S05CY0NUZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 18, 2026 · 16:09 BRT",
+          "pub_date": "2026-09-18",
+          "pub_ts": 1789758586,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "What Set Off the Rise in Interest Rates? Mainly, the Iran War. - nytimes.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUVYT1JmOFZKQTE0RTlXMkczR0tFaVpCbUducWpycnpUU2g4QzhvbVNyNk1vNHFEQjNvdmpOMDkyWTB2aUVmUkpDZ1RkSkRZclR4clRHNWJhV1lEeDA3aVZ5Q1Brc0ZtdXllMVhtb21jOElBZzBNQ2pxbk5NdGVTV0NGTEx1M3R3Z0E?oc=5",
           "source": "nytimes.com",
@@ -14822,6 +14856,20 @@
       "theme": "Fertilizers/food",
       "articles": [
         {
+          "title": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 16, 2026 · 17:07 BRT",
+          "pub_date": "2026-09-16",
+          "pub_ts": 1789589248,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "New fertiliser exporters blunt food crisis fears - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXFVajZkai1jMlVtSGJpUmYtRFRxSHYwbnhMZGlHc0lmR1VmbzNKZ3JSc1d0TnRPOV81NmpxV3dueVZncHl0Mms1dXprMWJhX21SMk5vRzJXa3JfRUJSY25MN0lSenJoeUl1NzgyQVBSVmk0ZzdydURBZElIX1UyRWdqQ1Q?oc=5",
           "source": "Financial Times",
@@ -15400,6 +15448,20 @@
           "published": "Sep 18, 2026 · 05:24 BRT",
           "pub_date": "2026-09-18",
           "pub_ts": 1789719843,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGltbnJEV1l0NXJDNFMxbFBtMUpYQkJWSGFlU2FRaHpNZ0xzNHhDSVJDbWt2Zy13YUNwZEJySUZUWHFEQi1XczZHWlI2dmZNMHZUTHVrR2tJUWpIanZtUFlXVTJEaXFIZTdGWDdQandreldIUm1URGRFZGxuVXhYX1FRcm8teGdSRmpGR1I4QnJ4SGJ6bF9UaGFGdXRadGZlY3o0TDItMm1ac0M4RTZsY2dkY3BQUUgzbzdycktRbmpjTDJy?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 17:49 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789678184,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -9333,6 +9333,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-18"
+    },
+    "https://www.washingtonpost.com/national-security/2026/09/18/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
+    },
+    "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/more-us-troops-killed-in-iran-war-than-pentagon-has-announced-report/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
     }
   },
   "last_digest_success": true,
@@ -9487,12 +9517,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-18T11:08:30.962513+00:00",
   "last_generated_date": "2026-09-18",
-  "last_generated_time": "2026-09-18T15:02:01.227318+00:00",
+  "last_generated_time": "2026-09-18T16:02:03.967367+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Hundreds of Thousands Rally in Iran as War and Economy Squeeze - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFlUcGJfZ3QxX0hxNVJVeFNIQTdxZHdkM0NoX21GdEl2X3lGYUtsSXhhdGVjVWVQNUR6Z3lmX3Q0YVBNM3R6bDFnQXV5eXBqdllkRDYweUU5RXZsdjJlQU5Bc3JiRXdIYUNSUVIxaDR3R1pzNmpONXN4THhEeTExeVY5V29uS29vYWJQYklTTDZvTS04U3czM3dYc0hMeWdzckF2UTYyemVNVzlTSWc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 18, 2026 · 13:45 BRT",
+          "pub_date": "2026-09-18",
+          "pub_ts": 1789749900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "By nearly every metric, the U.S. is losing the Iran war - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVdacDRMRDJXUnQzeXF4bldVYXlvMXlKWVJXM2hfMXpDQXZXZkJHY09sbzBvZy1Tdk4yNE9oZEhqNUk2TWpzeW55OFRxNzd6OFczdTI1bXVPOUxqWTlWQWVuLXdEVldOYjZpdmI2RlNMc0NGWEVUZG5ueWpFMXY4dWJ0WndEVHpiX0MzcTZ3?oc=5",

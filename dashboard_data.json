@@ -8893,7 +8893,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-18"
+      "pub_date": "2026-09-17"
     },
     "https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe": {
       "summary": "",
@@ -9476,6 +9476,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-19"
+    },
+    "https://www.washingtonpost.com/world/2026/09/19/attacks-choke-off-saudi-oil-kingdom-confronts-limits-trumps-friendship/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093": {
+      "summary": "Turkey revokes operating license of Iran's Mellat Bank • Report: Pentagon's US-Iran war fatality accounting may be inaccurate • Iran reconstructing nuclear test-linked Taleghan 2 site",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "IDF"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-19"
     }
   },
   "last_digest_success": true,
@@ -9635,7 +9658,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-19T11:11:55.432760+00:00",
   "last_generated_date": "2026-09-19",
-  "last_generated_time": "2026-09-19T08:02:04.218025+00:00",
+  "last_generated_time": "2026-09-19T09:02:01.169262+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -14691,6 +14714,20 @@
           "published": "Sep 18, 2026 · 01:14 BRT",
           "pub_date": "2026-09-18",
           "pub_ts": 1789704840,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "AirAsia's Fernandes says carrier can withstand jet fuel cost spike - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFY1Vk1JUGNLVDg1czN5MVlkYmFXcWh5bzlTSDFZQmE0Sm4ydEw1ZnpUSFlNTE9JbVJYa3NxLU5CNUM5RHRGdVAzdTc5OWlQY2lfTlJiTlNLUnJaMmQ1Z3dNSEM1WUhGNFBRQlg0TzBva0dObFUwQ2hFYWFqbnZJZWZkeWhLLV9yTEF6c1JTRmhkalM1VFBYZ0puZ0JZYktFbW1taEs5amJWZjVfSjlIUjlXRzZ0Y3I0SzNGSGZBbm9JMGkwLW5UcnZjSQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 18, 2026 · 00:51 BRT",
+          "pub_date": "2026-09-18",
+          "pub_ts": 1789703460,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

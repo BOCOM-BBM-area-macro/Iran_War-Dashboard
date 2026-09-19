@@ -8893,7 +8893,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-18"
+      "pub_date": "2026-09-17"
     },
     "https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe": {
       "summary": "",
@@ -9456,6 +9456,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-19"
+    },
+    "https://www.ft.com/content/09c2e11c-1632-42e3-8fc6-809468b7f87e?syn-25a6b1a6=1": {
+      "summary": "Don’t obsess about the crude price and don’t think this crisis is like its predecessors",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-19"
     }
   },
   "last_digest_success": true,
@@ -9616,6 +9626,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Five ways the Iran energy shock is wrongfooting the world - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEdrb1pvbmdKdUhOQWNBVkZQUjNXNVNnU1J0OExhaGNiS1hyZGJ2V2NQdGJ3Y0wzYmpBZE5UUk51cVc0MFl2Qk9YSFcweklEakhtYWtxeDVMUTg0RHliVWVrRUQ2dXNaaFMwUThBaTM0enk4ekxTV1hKbHdrRzJ5SnM3N1U?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 19, 2026 · 01:01 BRT",
+          "pub_date": "2026-09-19",
+          "pub_ts": 1789790463,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Opinion | You Probably Have the Iran War Backward - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXdjTG1DTzlyLTNxeHBYcWpYOE9IbGVVTVJnOWJXZWlIRENYZThMZllPVkVod1oxNE05c2dEUnFJcEpJT19yZVJ5amk3TnRPMVM4cGU3S2ZYVnlYOUxxTGZaYWhaNnQ1eE9md2J3Tk1KSG9FSVBZMVRYOXN3ZVd5TGN3?oc=5",

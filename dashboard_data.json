@@ -8893,7 +8893,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-17"
+      "pub_date": "2026-09-18"
     },
     "https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe": {
       "summary": "",
@@ -9551,6 +9551,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-20/live-updates-909139": {
+      "summary": "Israeli strikes in Gaza kill Hamas-linked health ministry head • Iran gives conditions for re-engaging in peace talks • UN peacekeeping chief says smooth transition in Lebanon critical",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "IDF"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-19"
     }
   },
   "last_digest_success": true,
@@ -9710,7 +9723,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-19T11:11:55.432760+00:00",
   "last_generated_date": "2026-09-19",
-  "last_generated_time": "2026-09-19T22:01:53.595842+00:00",
+  "last_generated_time": "2026-09-19T23:02:04.934615+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -13482,6 +13495,20 @@
           "published": "Sep 17, 2026 · 21:17 BRT",
           "pub_date": "2026-09-17",
           "pub_ts": 1789690632,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Has Cost US $38 Billion Over Five Months, CBO Says - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0htbXdva0ltYzU5Q2hqV3lKYWZlcllYUTFTLV9oSnNBNVpMUU1GMHFmVVQxWWtNRWc4NkxsLWZEbnNoS1JNZ0RFZ1BRS3VEaXEtQ2ZnZEp0emZOZGt0dE43VHlReVhGbFhlRHpaOHJzUnNBVDM1T0JHaDQ3WFpMREtaSWxDYUswVzJxUV9IV0JQRWxlNDJQWHdDSzFOc2w2SDBwSS1CQU1vTVdaYzRRSQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 15, 2026 · 16:50 BRT",
+          "pub_date": "2026-09-15",
+          "pub_ts": 1789501830,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

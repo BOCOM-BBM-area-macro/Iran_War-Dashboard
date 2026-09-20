@@ -9563,7 +9563,30 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-19"
+      "pub_date": "2026-09-20"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-909151": {
+      "summary": "Participants said they were prepared to take up arms and defend the country after months of war and a worsening economic situation in Iran, the Associated Press reported.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "IRGC",
+        "strait of hormuz",
+        "Basij"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-20"
+    },
+    "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-20"
     }
   },
   "last_digest_success": true,

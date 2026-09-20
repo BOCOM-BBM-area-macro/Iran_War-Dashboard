@@ -9600,152 +9600,113 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-19T11:11:47.620211+00:00",
+  "last_digest_time": "2026-09-20T11:10:41.890815+00:00",
   "digest": {
-    "digest": "Recent reports indicate that U.S. troop deaths in the Iran war may exceed official Pentagon disclosures, with at least four additional fatalities noted beyond the publicly acknowledged count. The financial cost of the conflict has reached an estimated $43.6 billion, according to U.S. Central Command. The war's economic repercussions are significant, having disrupted oil markets and contributing to a rise in interest rates, with one analysis suggesting the energy shock is impacting the global economy in unforeseen ways. Hundreds of thousands have rallied in Iran amidst the ongoing war and economic pressures. Diplomatic efforts are underway, with President Trump set to address world leaders at the UN regarding the conflict, while South Korea has stated it will not send troops to Iran. Iran has reported the execution of an individual convicted of spying for Israel's Mossad. Reports suggest the U.S. may be losing the war by several key metrics, and President Trump has indicated the conflict is approaching a major crossroads.",
+    "digest": "Recent reports indicate that the ongoing conflict in Iran is contributing to global economic disruptions, particularly affecting fuel prices. Domestically, Iran has reiterated its conditions for potential talks with the United States, which include an end to hostilities on all fronts, the release of frozen Iranian assets, and the cessation of the US naval blockade. Concurrently, thousands of IRGC and Basij volunteers have marched in Tehran, expressing defiance towards the US and Israel and signaling a readiness to defend the country amidst months of war and deteriorating economic conditions. These events highlight the intertwined nature of the conflict's economic repercussions, Iran's diplomatic positioning, and its internal mobilization efforts in response to external pressures and domestic challenges.",
     "top_themes": [
-      "US Troop Casualties",
-      "Economic Impact of the War",
-      "International Relations and Diplomacy"
+      "Economic Impact of Conflict",
+      "Diplomatic Conditions",
+      "Domestic Mobilization"
     ],
     "next_events": [
       {
-        "title": "US Military Casualty Transparency",
-        "description": "Multiple reports indicate the Pentagon has undercounted US troop deaths in the Iran war. Analysts should monitor for further investigations, official disclosures, or whistle-blower reports that could reveal the true human cost and impact public perception of the conflict."
+        "title": "Iranian Conditions for De-escalation",
+        "description": "Iran has explicitly stated conditions for talks with the US, including ending the war on all fronts, unfreezing Iranian funds, and ending the US naval blockade. Analysts should watch for any official responses from the US or international bodies to these demands, as they represent potential pathways for de-escalation or continued diplomatic stalemate."
       },
       {
-        "title": "Evolution of US Strategy and Presidential Decisions",
-        "description": "President Trump has indicated he is at a 'major crossroads' regarding the Iran war. Watch for any significant policy shifts, escalations, or de-escalations, as well as the administration's approach to international allies and the UN, which could signal a new phase of the conflict."
+        "title": "Global Energy Market Volatility and Supply Disruptions",
+        "description": "The ongoing conflict has already caused 'global pain at the pump' and attacks are reportedly choking off Saudi oil supplies. Analysts must monitor for further disruptions to oil production and shipping lanes, as well as the potential for sustained high energy prices and their ripple effects on the global economy."
       },
       {
-        "title": "Iran's Internal Stability and Public Sentiment",
-        "description": "Hundreds of thousands have rallied in Iran, driven by the war and economic pressures. Monitoring the frequency and scale of these protests, along with the government's response, will be crucial to understanding potential shifts in Iran's domestic political landscape and its impact on foreign policy."
+        "title": "Internal Iranian Mobilization and Economic Resilience",
+        "description": "Thousands of IRGC and Basij volunteers have marched in Tehran, signaling strong internal resolve despite a worsening economic situation. Watch for further signs of popular support or dissent, and how the regime balances military mobilization with addressing domestic economic pressures."
       },
       {
-        "title": "Global Economic Repercussions",
-        "description": "The Iran war has significantly disrupted oil markets and contributed to rising interest rates globally. Analysts should track crude prices, energy supply chains, and central bank policies for further economic fallout, as these impacts extend far beyond the immediate conflict zone."
+        "title": "International Diplomatic Engagement and UN Initiatives",
+        "description": "With world leaders convening at the UN amidst the conflict, analysts should closely track any new diplomatic initiatives, resolutions, or multilateral efforts aimed at addressing the Iran war. Statements and actions from key international players could signal shifts in global strategy or potential for intervention."
       },
       {
-        "title": "International Coalition and Diplomatic Support",
-        "description": "The US faces skepticism from world leaders at the UN, and allies like South Korea have refused to send troops. Observe the formation or dissolution of international coalitions, diplomatic efforts, and the willingness of key global players to support or oppose US actions, which will shape the conflict's future trajectory."
-      },
-      {
-        "title": "Escalation of Covert Operations and Intelligence Warfare",
-        "description": "Incidents like Iran executing an alleged Israeli spy and reports of US 'kill chains' highlight ongoing shadow conflicts. Watch for increased intelligence activities, cyberattacks, or targeted operations by any party, as these could lead to unforeseen escalations or retaliatory actions."
+        "title": "Regional Power Shifts and Conflict Beneficiaries",
+        "description": "The war is creating 'huge windfalls' for some smaller countries and testing existing alliances, such as US-Saudi relations as attacks choke off Saudi oil. Analysts should identify which nations are economically or strategically benefiting from the conflict and how these shifts might influence regional dynamics and the war's trajectory."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-19T11:11:54.858719+00:00",
+  "last_watch_time": "2026-09-20T11:10:49.802207+00:00",
   "relevant_news": [
     {
-      "title": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/18/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/",
+      "title": "Iran war causes global pain at the pump - axios.com",
+      "url": "https://www.axios.com/2026/09/19/iran-war-global-pain-fuel-prices",
+      "source": "axios.com",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Sep 19, 2026 · 20:25 BRT",
+      "pub_date": "2026-09-19",
+      "pub_ts": 1789860327,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran reiterates conditions for talks with US, end of war - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-909123",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Sep 19, 2026 · 15:48 BRT",
+      "pub_date": "2026-09-19",
+      "pub_ts": 1789843732,
+      "summary": "The conditions include ending the war on all fronts, unfreezing Iranian funds, and ending the US naval blockade, Iran's Security Chief Mohsen Rezaei said.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Thousands of IRGC, Basij volunteers march through Tehran in show of defiance against US, Israel - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-909151",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Sep 20, 2026 · 04:05 BRT",
+      "pub_date": "2026-09-20",
+      "pub_ts": 1789887942,
+      "summary": "Participants said they were prepared to take up arms and defend the country after months of war and a worsening economic situation in Iran, the Associated Press reported.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "IRGC",
+        "strait of hormuz",
+        "Basij"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "As attacks choke off Saudi oil, kingdom confronts limits of Trump’s friendship - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/09/19/attacks-choke-off-saudi-oil-kingdom-confronts-limits-trumps-friendship/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 18, 2026 · 22:23 BRT",
-      "pub_date": "2026-09-18",
-      "pub_ts": 1789781036,
+      "published": "Sep 19, 2026 · 14:09 BRT",
+      "pub_date": "2026-09-19",
+      "pub_ts": 1789837740,
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "By nearly every metric, the U.S. is losing the Iran war - The Washington Post",
-      "url": "https://www.washingtonpost.com/ripple/2026/09/17/trump-united-states-losing-iran-war/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 18, 2026 · 16:49 BRT",
-      "pub_date": "2026-09-18",
-      "pub_ts": 1789760980,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Hundreds of Thousands Rally in Iran as War and Economy Squeeze - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/hundreds-of-thousands-rally-in-iran-as-war-and-economy-squeeze-7dadb4d4",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Sep 18, 2026 · 13:45 BRT",
-      "pub_date": "2026-09-18",
-      "pub_ts": 1789749900,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Opinion | The Iran war has disrupted oil markets. The fallout goes beyond that. - The Washington Post",
-      "url": "https://www.washingtonpost.com/opinions/2026/09/18/iran-war-affects-oil-prices-lng-helium-critical-industrial-inputs/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 18, 2026 · 14:15 BRT",
-      "pub_date": "2026-09-18",
-      "pub_ts": 1789751700,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 18, 2026 · 02:03 BRT",
-      "pub_date": "2026-09-18",
-      "pub_ts": 1789707780,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "What Set Off the Rise in Interest Rates? Mainly, the Iran War. - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 18, 2026 · 12:52 BRT",
-      "pub_date": "2026-09-18",
-      "pub_ts": 1789746766,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -9754,9 +9715,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-19T11:11:55.432760+00:00",
-  "last_generated_date": "2026-09-19",
-  "last_generated_time": "2026-09-19T23:02:04.934615+00:00",
+  "last_relevant_time": "2026-09-20T11:10:50.356117+00:00",
+  "last_generated_date": "2026-09-20",
+  "last_generated_time": "2026-09-20T08:02:04.292911+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

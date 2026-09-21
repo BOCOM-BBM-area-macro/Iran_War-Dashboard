@@ -9800,6 +9800,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-21"
+    },
+    "https://www.nytimes.com/2026/09/21/opinion/america-china-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
     }
   },
   "last_digest_success": true,
@@ -9936,7 +9946,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-21T11:08:32.838745+00:00",
   "last_generated_date": "2026-09-21",
-  "last_generated_time": "2026-09-21T13:01:46.129733+00:00",
+  "last_generated_time": "2026-09-21T14:01:52.160568+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

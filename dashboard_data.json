@@ -9508,7 +9508,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-20"
+      "pub_date": "2026-09-19"
     },
     "https://www.timesofisrael.com/iran-executes-man-accused-of-giving-missile-site-intelligence-to-mossad/": {
       "summary": "",
@@ -9680,6 +9680,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-20"
+    },
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-20"
     }
   },
   "last_digest_success": true,
@@ -9800,7 +9810,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-20T11:10:50.356117+00:00",
   "last_generated_date": "2026-09-20",
-  "last_generated_time": "2026-09-20T21:01:52.481606+00:00",
+  "last_generated_time": "2026-09-20T23:01:29.241031+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

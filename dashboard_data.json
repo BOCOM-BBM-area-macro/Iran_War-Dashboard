@@ -9822,6 +9822,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-21"
+    },
+    "https://www.ft.com/content/789c2d18-d6ce-4556-bbfb-877233b12aee?syn-25a6b1a6=1": {
+      "summary": "Rising borrowing costs triggered by conflict in Middle East start to impact consumers’ spending power",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
+    },
+    "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
     }
   },
   "last_digest_success": true,
@@ -9958,7 +9978,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-21T11:08:32.838745+00:00",
   "last_generated_date": "2026-09-21",
-  "last_generated_time": "2026-09-21T17:01:55.129040+00:00",
+  "last_generated_time": "2026-09-21T18:01:43.771444+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

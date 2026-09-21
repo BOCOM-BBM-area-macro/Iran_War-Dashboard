@@ -9730,112 +9730,72 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-21"
+    },
+    "https://www.reuters.com/business/energy/lng-buyers-sellers-seek-greater-supply-diversity-amid-iran-war-2026-09-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
+    },
+    "https://www.reuters.com/world/asia-pacific/tehran-reviewing-latest-us-response-trump-suggests-he-can-wait-2026-05-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-18"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-20T11:10:41.890815+00:00",
+  "last_digest_time": "2026-09-21T11:08:24.012064+00:00",
   "digest": {
-    "digest": "Recent reports indicate that the ongoing conflict in Iran is contributing to global economic disruptions, particularly affecting fuel prices. Domestically, Iran has reiterated its conditions for potential talks with the United States, which include an end to hostilities on all fronts, the release of frozen Iranian assets, and the cessation of the US naval blockade. Concurrently, thousands of IRGC and Basij volunteers have marched in Tehran, expressing defiance towards the US and Israel and signaling a readiness to defend the country amidst months of war and deteriorating economic conditions. These events highlight the intertwined nature of the conflict's economic repercussions, Iran's diplomatic positioning, and its internal mobilization efforts in response to external pressures and domestic challenges.",
+    "digest": "Recent developments indicate an escalation in regional tensions, with Iran and the US trading threats following Houthi attacks that have intensified the conflict in Yemen. The Houthis, an Iranian-backed militia, are actively seeking to expand their territory, engaging in fierce battles with Saudi-backed forces. This heightened conflict has prompted global energy market participants, including LNG buyers and sellers, to seek greater supply diversity. Concurrently, oil prices have experienced a notable slide, influenced by hopes of US-Iran diplomacy and Saudi export levels. In the political arena, former US administration figures have commented on the lack of a defined timeline for potential conflict resolution, while Saudi Arabia has reportedly sought military assistance, presenting a diplomatic dilemma. Qatar Airways has identified the Iran war as its most significant crisis to date, underscoring the broad economic impact. China's role in the Middle East is also highlighted amidst these evolving dynamics, suggesting a shift in regional influence.",
     "top_themes": [
-      "Economic Impact of Conflict",
-      "Diplomatic Conditions",
-      "Domestic Mobilization"
+      "Regional Conflict Escalation",
+      "Energy Market Volatility",
+      "Diplomatic Maneuvers"
     ],
     "next_events": [
       {
-        "title": "Iranian Conditions for De-escalation",
-        "description": "Iran has explicitly stated conditions for talks with the US, including ending the war on all fronts, unfreezing Iranian funds, and ending the US naval blockade. Analysts should watch for any official responses from the US or international bodies to these demands, as they represent potential pathways for de-escalation or continued diplomatic stalemate."
+        "title": "Escalation of US-Iran Military Confrontation",
+        "description": "Articles indicate direct threats and US plans to resume strikes against Iran, signaling a critical juncture. Analysts should closely monitor any military movements, official statements, or intelligence reports that suggest an imminent direct engagement between US and Iranian forces, as this could rapidly escalate the conflict beyond proxy wars."
       },
       {
-        "title": "Global Energy Market Volatility and Supply Disruptions",
-        "description": "The ongoing conflict has already caused 'global pain at the pump' and attacks are reportedly choking off Saudi oil supplies. Analysts must monitor for further disruptions to oil production and shipping lanes, as well as the potential for sustained high energy prices and their ripple effects on the global economy."
+        "title": "Intensification of Houthi-Saudi Conflict and Regional Proxies",
+        "description": "The Houthi militia's push to expand territory and escalating tensions with Saudi Arabia, backed by Iran, remains a key flashpoint. Watch for further Houthi advancements, Saudi counter-offensives, and any shifts in Iranian support or direct involvement, as this proxy conflict is a significant indicator of broader regional instability."
       },
       {
-        "title": "Internal Iranian Mobilization and Economic Resilience",
-        "description": "Thousands of IRGC and Basij volunteers have marched in Tehran, signaling strong internal resolve despite a worsening economic situation. Watch for further signs of popular support or dissent, and how the regime balances military mobilization with addressing domestic economic pressures."
+        "title": "US Diplomatic and Military Strategy Shifts",
+        "description": "The US faces dilemmas regarding Saudi pleas for military help and potential diplomacy with Iran. Analysts should track any changes in US foreign policy, military aid to Saudi Arabia, or diplomatic overtures towards Iran, as these actions will significantly influence the conflict's trajectory and potential for de-escalation or further involvement."
       },
       {
-        "title": "International Diplomatic Engagement and UN Initiatives",
-        "description": "With world leaders convening at the UN amidst the conflict, analysts should closely track any new diplomatic initiatives, resolutions, or multilateral efforts aimed at addressing the Iran war. Statements and actions from key international players could signal shifts in global strategy or potential for intervention."
+        "title": "Global Energy Market Stability",
+        "description": "The ongoing conflict is driving LNG buyers to seek supply diversity and impacting oil prices. Monitor for disruptions in key shipping lanes, changes in oil and gas production levels, and market reactions to geopolitical events, as these will directly affect global energy security and economic stability."
       },
       {
-        "title": "Regional Power Shifts and Conflict Beneficiaries",
-        "description": "The war is creating 'huge windfalls' for some smaller countries and testing existing alliances, such as US-Saudi relations as attacks choke off Saudi oil. Analysts should identify which nations are economically or strategically benefiting from the conflict and how these shifts might influence regional dynamics and the war's trajectory."
+        "title": "China's Expanding Influence in the Middle East",
+        "description": "China's growing presence in the Middle East could introduce new geopolitical dynamics to the conflict. Watch for China's diplomatic initiatives, economic investments, and any security agreements in the region, as its increasing influence could alter the balance of power and the approaches taken by other international actors."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-20T11:10:49.802207+00:00",
+  "last_watch_time": "2026-09-21T11:08:32.231416+00:00",
   "relevant_news": [
     {
-      "title": "Iran war causes global pain at the pump - axios.com",
-      "url": "https://www.axios.com/2026/09/19/iran-war-global-pain-fuel-prices",
-      "source": "axios.com",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Sep 19, 2026 · 20:25 BRT",
-      "pub_date": "2026-09-19",
-      "pub_ts": 1789860327,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran reiterates conditions for talks with US, end of war - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-909123",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 19, 2026 · 15:48 BRT",
-      "pub_date": "2026-09-19",
-      "pub_ts": 1789843732,
-      "summary": "The conditions include ending the war on all fronts, unfreezing Iranian funds, and ending the US naval blockade, Iran's Security Chief Mohsen Rezaei said.",
-      "tags": [
-        "Iran",
-        "United States",
-        "Tehran",
-        "Donald Trump"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Thousands of IRGC, Basij volunteers march through Tehran in show of defiance against US, Israel - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-909151",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 20, 2026 · 04:05 BRT",
-      "pub_date": "2026-09-20",
-      "pub_ts": 1789887942,
-      "summary": "Participants said they were prepared to take up arms and defend the country after months of war and a worsening economic situation in Iran, the Associated Press reported.",
-      "tags": [
-        "Iran",
-        "Tehran",
-        "IRGC",
-        "strait of hormuz",
-        "Basij"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "As attacks choke off Saudi oil, kingdom confronts limits of Trump’s friendship - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/09/19/attacks-choke-off-saudi-oil-kingdom-confronts-limits-trumps-friendship/",
+      "title": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/09/20/iran-war-end-has-no-timeline-trump-ambassador-un-says/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 19, 2026 · 14:09 BRT",
-      "pub_date": "2026-09-19",
-      "pub_ts": 1789837740,
+      "published": "Sep 20, 2026 · 23:47 BRT",
+      "pub_date": "2026-09-20",
+      "pub_ts": 1789958851,
       "summary": "",
       "tags": [
         "extracted",
@@ -9845,12 +9805,88 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-warns-against-new-escalation-by-us-allies-2026-09-20/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 20, 2026 · 10:19 BRT",
+      "pub_date": "2026-09-20",
+      "pub_ts": 1789910340,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil prices slide to 11-day low on hopes of US-Iran diplomacy, Saudi exports - Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 20, 2026 · 19:10 BRT",
+      "pub_date": "2026-09-20",
+      "pub_ts": 1789942200,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran’s military command says it’s been informed US plans to resume strikes - The Times of Israel",
+      "url": "https://www.timesofisrael.com/irans-military-command-says-its-been-informed-us-plans-to-resume-strikes/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Sep 20, 2026 · 10:43 BRT",
+      "pub_date": "2026-09-20",
+      "pub_ts": 1789911780,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Qatar Airways CEO Says Iran War Was Its ‘Largest Crisis’ Ever - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/qatar-airways-ceo-says-iran-war-was-its-largest-crisis-ever",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 20, 2026 · 10:55 BRT",
+      "pub_date": "2026-09-20",
+      "pub_ts": 1789912513,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-20T11:10:50.356117+00:00",
-  "last_generated_date": "2026-09-20",
-  "last_generated_time": "2026-09-20T23:01:29.241031+00:00",
+  "last_relevant_time": "2026-09-21T11:08:32.838745+00:00",
+  "last_generated_date": "2026-09-21",
+  "last_generated_time": "2026-09-21T08:01:40.564090+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -9865,6 +9865,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-21/us-plans-5-billion-middle-east-reconstruction-fund-for-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
     }
   },
   "last_digest_success": true,
@@ -10001,7 +10011,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-21T11:08:32.838745+00:00",
   "last_generated_date": "2026-09-21",
-  "last_generated_time": "2026-09-21T19:01:47.526676+00:00",
+  "last_generated_time": "2026-09-21T20:01:54.074073+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -15697,6 +15707,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "US Plans $5 Billion Middle East Reconstruction Fund for Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXZ2SXZ3YnBfcUt3YUpodzNRcVNrOUp3QXZqRGhIYXZVVnNPX0N0Q0V2d0JreWFlRXFwczFBbkNRUlI0dnZYcWROVUhKQ19iQkZDS1RRajdlUktncUprV0hjOXJkWlFpOUF5UVBJYmM4dUdPSjNEczBwQloycGZQQnZ4WVNPX0lZZm5jd21zTkhBUl9pdFRrRDNpWTVKeXEtWUlZcklaTXNJQlQ0UjA3ZDNpdkc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 21, 2026 · 19:13 BRT",
+          "pub_date": "2026-09-21",
+          "pub_ts": 1790028790,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Port of Vancouver reports record cargo volumes, fuelled by grain and oil exports - CBC",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSm1WbFJjcUx6ZGg5Zlc4R0o2STExNkVpb05kYnJhYlFnSGpwaW9tUXJtdzBOWVFFUXdKTi1KMTI5THdsbVNKZXpKbmhCSUN4UExCUTV0NmlTTDFZMUIyOER4STEwSVNBaXJabUxuN1ZXQUZlNzBZWHhlLXp6eHRjdEM2UUlXS2RHYWVrUmI5d2ZxSldzMkQ0ZC1TSU5lNEx2SXNLYzFfajBBZGM?oc=5",

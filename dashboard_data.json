@@ -9842,6 +9842,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-21"
+    },
+    "https://www.bloomberg.com/opinion/newsletters/2026-09-21/oil-market-iran-war-supertankers-charge-1-million-a-day": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
+    },
+    "https://www.jpost.com/american-politics/article-909216": {
+      "summary": "The Reuters poll found voters leaning away from supporting Trump's fellow Republicans in the November 3 midterm elections that will determine control of Congress for the next two years.",
+      "tags": [
+        "Elections",
+        "republicans",
+        "Donald Trump",
+        "Democrats",
+        "poll"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
     }
   },
   "last_digest_success": true,
@@ -9978,12 +10001,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-21T11:08:32.838745+00:00",
   "last_generated_date": "2026-09-21",
-  "last_generated_time": "2026-09-21T18:01:43.771444+00:00",
+  "last_generated_time": "2026-09-21T19:01:47.526676+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "This Boat Ride Costs $1 Million a Day - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGpWbkF3dFBYbXl3NnAzdFVwMFdEWkdKMzdLNXh3dlJuUnNvZ0hoM2I3YVM0Tm1lbWs4Y1VRVTlnWExXMnV1Qk1iSUNXUm15ZUZIazNCUXZXR2hLdm9JT2hFb2lBUGxYZTdLOWpzdXVIUTZSc3VlbUpTVU8xbURWQ2lIak00Y295WU8zREN1cHpLVEZJMnFrak5NMFRnZkpySjE2eVBjbXdxU21aMVU2SWhB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 21, 2026 · 18:12 BRT",
+          "pub_date": "2026-09-21",
+          "pub_ts": 1790025165,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Vessels trickle through Strait of Hormuz as Middle East conflict persists - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHdMbF8wY2pMdE0tcHdWa3l5dkc5MGpKWVJEZW9VUnV2UTFlaTlVbVpOZ1pQN245SWZOLU4zWDd3ODlBTUhhZmlmaE1jUGltMzRKUF9xRl9CT2ZpMnNxcXkxOXdQeHJHajFzMkpoNWVnS3N6X3ExamF1ejcyQ3I1LW5DVHRXTXQ5MVVtTEE1cmtxLWhGMURaZ19pajA1blpROVVxRXQ3MHE4Zy1BLUVybldpUm01NU0?oc=5",
@@ -15660,6 +15697,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Port of Vancouver reports record cargo volumes, fuelled by grain and oil exports - CBC",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSm1WbFJjcUx6ZGg5Zlc4R0o2STExNkVpb05kYnJhYlFnSGpwaW9tUXJtdzBOWVFFUXdKTi1KMTI5THdsbVNKZXpKbmhCSUN4UExCUTV0NmlTTDFZMUIyOER4STEwSVNBaXJabUxuN1ZXQUZlNzBZWHhlLXp6eHRjdEM2UUlXS2RHYWVrUmI5d2ZxSldzMkQ0ZC1TSU5lNEx2SXNLYzFfajBBZGM?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 21, 2026 · 17:30 BRT",
+          "pub_date": "2026-09-21",
+          "pub_ts": 1790022635,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Steady as Traders Look to Mideast Supply Risks and Diplomacy - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUZOX1dtVmt0TW1FYjVTbjR4aC1GVk01djVSSkJ1TEVSaGVpdUM2Ukl2XzNzc1ZSSDl5ckhTdlJUSDJKWTBZaWdxYkdRbjI3RjJzR2VicFdSS0NrWlZLa1RRYXFCRnZJWWN5Nl9KU19ObFptYXRQSWRMMHB0Ulp6azNqSGV3TUNwbUZJNzNMNGZDakdnYmJxWVpHZ2F4NGc?oc=5",

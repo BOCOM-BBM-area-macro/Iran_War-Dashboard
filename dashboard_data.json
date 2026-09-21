@@ -9790,6 +9790,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-21"
+    },
+    "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
     }
   },
   "last_digest_success": true,
@@ -9926,7 +9936,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-21T11:08:32.838745+00:00",
   "last_generated_date": "2026-09-21",
-  "last_generated_time": "2026-09-21T12:01:41.813130+00:00",
+  "last_generated_time": "2026-09-21T13:01:46.129733+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -10207,6 +10217,20 @@
           "published": "Sep 17, 2026 · 10:14 BRT",
           "pub_date": "2026-09-17",
           "pub_ts": 1789650846,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US-Iran conflict helps drive wave of supertanker orders - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHQ5ZjFKUlRNeTl4YXFuSUNzZ0FpZHRoUGRjMUJ0WjJhbVZOY2tQazZuVUdtMURzNzNnTlVadTZoT3gxUmYyYWdxS2o2bEdtSWRUcGExWjFOQXNsdmwzMm9EOFljblVTdk1OTXY2UUtuZ3pyOXhjSmhQTy0yQkFXUDFHN2tqR2p4VWhDcW1FbE9PY2lwLVJDcWhmWnFSMFZpSVBoUUJiOA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 17, 2026 · 10:13 BRT",
+          "pub_date": "2026-09-17",
+          "pub_ts": 1789650827,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -9875,6 +9875,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-21"
+    },
+    "https://www.reuters.com/world/us/two-republican-senate-candidates-call-swift-end-iran-war-diverging-trump-2026-09-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-threatens-to-use-new-weapons-hit-new-targets-if-us-escalates-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-21"
     }
   },
   "last_digest_success": true,
@@ -10011,7 +10031,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-21T11:08:32.838745+00:00",
   "last_generated_date": "2026-09-21",
-  "last_generated_time": "2026-09-21T20:01:54.074073+00:00",
+  "last_generated_time": "2026-09-21T21:02:07.781991+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -13858,6 +13878,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Two Republican Senate candidates call for swift end to Iran war, diverging from Trump - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlhKcGFudk9RbFRaSkdnYmpiTEtqVlNjb3dxMVdMbHFxWVM5U3pGRHdJWG5GSFVjLXBTOTRiTXJiX3JHMW14UnRMTFBZLW4zWlR4MkNWbFhYcTBnYWllTUEyT1liNzRVTVFSTDM4NUxnQTBMd0ZoZUFOcmFDZWRna3ktaVdhWVdPNzNNLV8ydEFib3g0RXhYRDNtcDNwR0hncUtIeVN5bjJRa196Y19VOUVWQjR1SGc2?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 21, 2026 · 20:25 BRT",
+          "pub_date": "2026-09-21",
+          "pub_ts": 1790033143,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Top Republicans tell Donald Trump to ban US diesel exports ahead of midterms - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGhjWlc5OTFjM0pISHJDTDVvdlBzWEJxNml2d05ObzdDYkhaYTM0V0Y4TDdXMG1aM2hxRW16c2hFV3Y5cm1MYlJISDdiMmNKYnNISWtvdkFQQ292UDl6ejc5bkRicFRON2tSSXpNb3kyNWQzaWpveWREb0kzRE5CWjd1V2Y?oc=5",

@@ -10121,6 +10121,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-22"
+    },
+    "https://www.reuters.com/world/middle-east/iran-submits-conditions-reopening-hormuz-us-representative-state-media-says-2026-09-22/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
+    },
+    "https://www.washingtonpost.com/politics/2026/09/22/us-iran-had-very-good-meeting-over-ongoing-war-trump-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
+    },
+    "https://www.wsj.com/politics/policy/trump-tells-u-n-he-is-confronting-world-threats-and-putting-america-first-5fe48626": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
+    },
+    "https://www.washingtonpost.com/politics/2026/09/22/republican-candidates-are-breaking-with-trump-iran-midterms-loom/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
     }
   },
   "last_digest_success": true,
@@ -10282,7 +10322,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-22T11:10:06.441519+00:00",
   "last_generated_date": "2026-09-22",
-  "last_generated_time": "2026-09-22T17:02:08.495259+00:00",
+  "last_generated_time": "2026-09-22T18:02:08.920450+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -14932,6 +14972,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Exclusive: Trump adviser ties high gas prices to refining - Axios",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKQWVFY2J0RlRCWFVPSFBlaXRtdmVGUTRZV1lvclNhUkotVmRNRFAxWVBRaEZvSXhlYnhQVk5jc2pYZTNiNUhER2k0SENzTjRuR2JMWTNIWW5meUhJWkZabWg2TFdFNGc3MGVrcjdyRUNSVDdUbFpEUVFib00?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 22, 2026 · 14:43 BRT",
+          "pub_date": "2026-09-22",
+          "pub_ts": 1790099025,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Healey proposes two-month gas tax pause as prices climb ahead of election - Axios",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHVwcXIyMGxZRjVvUTI1YUUzZGNiZ05IT2Y3djY1RDlVTUJjNS15Ql9CcGVlaXhGb3NwaWhfVFZOaEYteEVBNFk1THVGZzVFNUM2bmY5S29KRml0RVpwY3QtV1c5eGhTSnpkSE5ETENWekNSallWbnpOb3VTcUhnT3I3TFhNbFJPNC1KTXU5QzJ5ejZZV09qcDRzWGFlVk91QVlQQVNMR01mUQ?oc=5",

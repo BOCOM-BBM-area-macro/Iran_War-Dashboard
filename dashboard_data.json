@@ -10240,7 +10240,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-22"
+      "pub_date": "2026-09-23"
     },
     "https://www.axios.com/2026/09/22/republicans-trump-congresss-iran-diesel": {
       "summary": "",
@@ -10356,6 +10356,16 @@
         "Donald Trump",
         "Islamic Republic",
         "America"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
+    },
+    "https://www.reuters.com/world/middle-east/iran-threatens-paralyse-airports-neighbouring-countries-if-they-stop-iranian-2026-09-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -10514,7 +10524,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-23T11:10:57.723944+00:00",
   "last_generated_date": "2026-09-23",
-  "last_generated_time": "2026-09-23T11:02:19.687419+00:00",
+  "last_generated_time": "2026-09-23T12:01:48.692568+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -14580,6 +14590,20 @@
           "published": "Sep 21, 2026 · 13:03 BRT",
           "pub_date": "2026-09-21",
           "pub_ts": 1790006623,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Global diesel shortage likely to last into 2027 as storage tanks drain - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUROTUZDbzRZN3VncG9haUs0bGR6TFhhQ3JZTEYzZzUtVE5BV3c2SGE3dVFzN2JRS0xfYUcxdW9zay1yXzBXakItRDM4SnhYb3FudmdISGlhVGsycDhhY0FxazdVU21HdW9oQXFSckF6YlVETl9wSzJhbEM1LVlFZGM2VEpJbUZlcVY4bGs4aV94Qmh4Z3ZpTFRibVItNHFfWk8tSXhlb3hMRng2VHlmdHBMYnEwVWs?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 21, 2026 · 07:17 BRT",
+          "pub_date": "2026-09-21",
+          "pub_ts": 1789985877,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

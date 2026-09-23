@@ -10230,7 +10230,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-22"
+      "pub_date": "2026-09-23"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/asias-crude-oil-imports-hit-post-iran-conflict-high-september-remain-weak-2026-09-23/": {
       "summary": "",
@@ -10251,6 +10251,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-23"
+    },
+    "https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1": {
+      "summary": "Shortage of biggest supertankers has more than doubled rates on key Middle East-China routes since late August",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
+    },
+    "https://www.reuters.com/world/asia-pacific/dollar-holds-near-2-month-high-markets-weigh-rate-hikes-iran-diplomacy-2026-09-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
+    },
+    "https://www.reuters.com/world/india/rupee-hooked-oil-prices-markets-gauge-iran-diplomacy-hopes-2026-09-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
     }
   },
   "last_digest_success": true,
@@ -10418,6 +10448,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblBGUC11R2xqZnlQZklfcW1DUFV6VlNQRnFmVWt5QnZ1WjdXUVBhVzBRd2YxejJoSEk3eVhzVnE0WTZSOW1Edi1mNHlXQmt0RnpoNC1xSHo3eUp3bDhvTWtBVXlHdDZodVN6czBrRVd5VFhMVFpFSF9TNU14ZDdjZThZaFo?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 23, 2026 · 01:01 BRT",
+          "pub_date": "2026-09-23",
+          "pub_ts": 1790136098,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Rupee hooked to oil prices as markets gauge Iran diplomacy hopes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNmdlVNbHl0UDFJQll5ckV0NHkzNXZVTmhvdlVPNk1Bci1RSXJRV2RRc3FVRm4zTlNONm15dlNZOFhNTzlOYVFnVWJQUUJmWnMzZnJCdzV6RV9OblJldlBZMExybTBaVDk2X0VVbXVYNHVTNy1wcWF4TzdiVXZNbXBSYnpYZjhsVzNjZTJhWF8zR183OXBCX0lWMm1TamR5WjRJSjhrMWZ2UQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 22, 2026 · 23:46 BRT",
+          "pub_date": "2026-09-22",
+          "pub_ts": 1790131560,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
@@ -16972,6 +17030,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Energy Sector & Industry Performance - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95cXJoTURLVVVQT1lPRm5FeDB3Q1hkRTlZU3lFVzF5bUtkQ0F5cHZkV2pBOGNfRV9NcVlRVHBwSmNxYVliRF9uQk8yWjIxTVJJenExclVLUWRTWkJ6?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 23, 2026 · 01:00 BRT",
+          "pub_date": "2026-09-23",
+          "pub_ts": 1790136009,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: Oil shock raises risk of metals shock as EV sales accelerate - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHczWUtjYjdodWhSTDM4Z1g4Y0hBcmUxd2JRcUR2QXp4SVVCYU94XzkwOFhNeW5HNzVMTnEwaHdiWVNPWXBvMlByQ0pyNi1KSUdlWW1BM3lBdGRXSUNwUlhyY2d5X3hXazd6aFM0eHZlNU1KSGs3UDNVX0tKaTVPMVdseGlSTWdvdXFWRGRpeVhPal9EUVMtUzkyX0k3alp1S2R4b3dYVkRYT0xCRy1HWTIydHM0a2drRWhsSEdEN1o?oc=5",

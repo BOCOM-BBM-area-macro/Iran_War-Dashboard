@@ -10420,6 +10420,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-23"
+    },
+    "https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
+    },
+    "https://www.nytimes.com/2026/09/22/business/energy-environment/trump-diesel-exports-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
+    },
+    "https://www.axios.com/2026/09/23/pezeshkian-trump-iran-terrorists-victims": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
     }
   },
   "last_digest_success": true,
@@ -10574,7 +10604,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-23T11:10:57.723944+00:00",
   "last_generated_date": "2026-09-23",
-  "last_generated_time": "2026-09-23T16:02:06.614747+00:00",
+  "last_generated_time": "2026-09-23T17:02:03.485800+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -16550,6 +16580,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Rubio, after Lavrov talks, says Russia has also voiced interest in 'limited ceasefire' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3MzYlZCZEgzcUlDYjZORWhrZEFaczhhdjlTV2tXYW9lcjk0V1BIZlpqNVM1d21rQU1GYi1vX1p2QWtLV2MtRFNUZ2VuZzRmSkNCUGZibHFPVjF1NjdBUkhrU2NmR3pzZk4wdDFSdFdfWkJfX19wdll1LUROTGVVTkF6RUQzSmZ2NXBsRi14WHJnZkJiajIxUXVfbnc5Wk5zRXBncjZhRHNveHl2Yl9MeE9GWHliX0dW?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 23, 2026 · 14:53 BRT",
+          "pub_date": "2026-09-23",
+          "pub_ts": 1790186025,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump Set to Defend War in Iran in Latest Appearance at the UN - bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLW1kbDZ3MjRQYi1COTBNQlE4bVBGdXl3VG9MOGFOQlVUS0tCVUl4YjUzYXNCZ1otNFBXcGRYU29GUXVBTnhzTXhqYllvWUdpcUxsSG8waWRkMEdybnVGREFwR2ttam9vYTVZX0dYMk1PRXpvbDBXVmhlbUVBalYxNnltQTBPNERBTHlvZmhwOG9mT3lFamhtcGkzbWNmOWhYR3NCTTBienlCNUZyT25VQXNCYw?oc=5",

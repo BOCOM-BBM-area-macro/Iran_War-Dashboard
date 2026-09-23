@@ -10030,7 +10030,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-22"
+      "pub_date": "2026-09-23"
     },
     "https://www.timesofisrael.com/seeking-talks-iran-offers-to-open-hormuz-if-us-ends-blockade-curtails-military-threat/": {
       "summary": "",
@@ -10060,7 +10060,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-22"
+      "pub_date": "2026-09-23"
     },
     "https://www.wsj.com/video/trump-defends-record-on-iran-war-during-un-address/5C2D7A48-B5A4-401C-91D7-550491AFD828": {
       "summary": "",
@@ -10241,6 +10241,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-22"
+    },
+    "https://www.axios.com/2026/09/22/republicans-trump-congresss-iran-diesel": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
     }
   },
   "last_digest_success": true,
@@ -10445,6 +10455,20 @@
           "published": "Sep 22, 2026 · 18:55 BRT",
           "pub_date": "2026-09-22",
           "pub_ts": 1790114109,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Global Oil Price Drops Below $100 a Barrel - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeWlhaXZTNVRtczlmYnpMczlmcnA5b3RMZkNqX1NDZGFfX3NCXzdMYzFzNXhNXzY0bjM0a01tTVY1TF93bElWRnYxYzdsLW13aDhYZEhpejZWZVkzSlpmVGxXNGIwam5rOGt4RnVLbnQzWTdRYllQb1Fic2ppenM?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 22, 2026 · 17:05 BRT",
+          "pub_date": "2026-09-22",
+          "pub_ts": 1790107551,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -14333,6 +14357,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "GOP breaking with an unpopular Trump - Axios",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZeFRpclg2UWRqaXpyNjVnN1FjZkJwdzJBaEdsNVRCRER5anFSYmt4R2tmZnhRbi14dmNSbVVYa0dGc0dsV1YydlJaYUpVX0VoMFBsVzBiQzlJdGs3dEhrQnd2d3BtNGEzYU9LRml6dmVFZDJQLXZ4amdULWM?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 23, 2026 · 00:12 BRT",
+          "pub_date": "2026-09-23",
+          "pub_ts": 1790133166,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump Says He Supports Banning Diesel Exports to Bring Down Prices - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWR1dDNqMWIyamdYdmx6dzVSX3AxTlNIY0xiQXZDbWh5eldSaVZtS2NfclBTbGN0YXFvSGlZQ0EtZXhMeEFwSjNqd1otclpHNXJnUVlhd1MyZmNra2xpNG5EUWo2VGNuRVNkdGFaVU5Zd2ViZ1VsNHoyM2pWYUFwY3cyS2dzeEZUQmRaMzN1cXAtVm9rajA5SHhPcUMtQQ?oc=5",

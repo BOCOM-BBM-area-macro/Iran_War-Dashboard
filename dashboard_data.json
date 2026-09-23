@@ -10281,6 +10281,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-22"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-909377": {
+      "summary": "According to Baghaei, the conditions and negotiation process did not represent a new development, but had already been communicated to the US earlier this week.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Qatar",
+        "Iran Deal",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-says-qatar-mediated-talks-with-us-demands-end-to-war-on-all-fronts/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
     }
   },
   "last_digest_success": true,

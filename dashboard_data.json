@@ -10161,6 +10161,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-22"
+    },
+    "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
+    },
+    "https://www.nytimes.com/2026/09/22/world/americas/trump-annihilate-iran-unga.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-22"
     }
   },
   "last_digest_success": true,
@@ -10322,7 +10342,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-22T11:10:06.441519+00:00",
   "last_generated_date": "2026-09-22",
-  "last_generated_time": "2026-09-22T20:01:56.923711+00:00",
+  "last_generated_time": "2026-09-22T21:02:25.619245+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -15037,6 +15057,20 @@
           "published": "Sep 22, 2026 · 14:27 BRT",
           "pub_date": "2026-09-22",
           "pub_ts": 1790098032,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Exclusive: \"Run the tape\": Rep. Levin slams Trump over pledge to lower energy costs - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QRmpzUmZoZ3JkTTh2elZtSXRldjlYenF4VVRPelB1RmRDRk53elY0c1gtNk12czlhVlVMOVQxMzZTUm1xZU8xMG55cG81QkdyZVFoS1UyOG5NLXNEblBNSS13VHBEaGg2UzJ1V0F6UmxmV0k1SU00bEhn?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 22, 2026 · 14:07 BRT",
+          "pub_date": "2026-09-22",
+          "pub_ts": 1790096842,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

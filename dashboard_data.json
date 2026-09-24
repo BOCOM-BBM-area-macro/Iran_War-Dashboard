@@ -10469,7 +10469,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-23"
+      "pub_date": "2026-09-24"
     },
     "https://www.wsj.com/politics/china-iran-aid-xi-trump-summit-e6541ae8": {
       "summary": "",
@@ -10565,56 +10565,104 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-24"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-09-23T11:10:47.030826+00:00",
-  "digest": {
-    "digest": "Recent diplomatic efforts indicate ongoing discussions between U.S. and Iranian officials, with meetings held in New York to address the ongoing conflict. President Trump has publicly stated these meetings were 'very good' and has also issued strong warnings, including threats to 'annihilate' Iran, during his UN address, juxtaposed with diplomatic pushes for a peace deal. Iran has reportedly submitted conditions for reopening the Strait of Hormuz to U.S. representatives via Qatari mediators, with these conditions having been previously communicated. The conflict continues to have tangible economic consequences, with oil tanker costs reaching record highs of $1.2 million per day due to shipping disruptions in the Middle East. Despite these shocks, the OECD reports that economies are largely weathering the war's impact, though persistent inflation remains a concern. The Pentagon has confirmed additional U.S. service member fatalities amid the war. Within the U.S., political dynamics are shifting, with some Republicans in tight Senate races calling for an end to the war, and broader GOP sentiment showing a divergence from President Trump's stance on the conflict.",
-    "top_themes": [
-      "Diplomatic Engagements",
-      "Military Posturing",
-      "Economic Impact"
-    ],
-    "next_events": [
-      {
-        "title": "Progress in US-Iran Diplomatic Talks",
-        "description": "Multiple articles indicate ongoing meetings between US and Iranian officials, with Iran submitting conditions for peace and the reopening of the Strait of Hormuz. Analysts should closely monitor the outcomes of these discussions, looking for any concrete proposals, agreements, or breakthroughs that could lead to de-escalation or an end to the conflict."
-      },
-      {
-        "title": "Evolution of US Policy and Rhetoric Towards Iran",
-        "description": "President Trump's rhetoric has been contradictory, ranging from threats of 'annihilation' to acknowledging 'very good meetings' with Iranian officials. Watch for shifts in official US policy statements, presidential communications, and diplomatic engagements that could signal a more consistent or definitive stance on the conflict and future relations."
-      },
-      {
-        "title": "Impact of US Domestic Political Pressure on Iran Policy",
-        "description": "Reports highlight growing domestic pressure, with the GOP breaking with Trump and Republicans in tight Senate races calling for an end to the war. Observe how these political dynamics influence the administration's strategy, legislative actions, and public discourse, potentially leading to a re-evaluation of US involvement."
-      },
-      {
-        "title": "Economic Repercussions on Global Shipping and Energy Markets",
-        "description": "The conflict has already caused record-high oil tanker costs, disrupted shipping, and led to warnings of persisting inflation. Continue to monitor global oil prices, shipping rates, and the stability of key trade routes, particularly the Strait of Hormuz, as these indicators will reflect the ongoing economic strain and potential for further market volatility."
-      },
-      {
-        "title": "Status of the Strait of Hormuz and Iran's Conditions",
-        "description": "Iran has submitted specific conditions for the reopening of the Strait of Hormuz, a critical global shipping chokepoint. The acceptance or rejection of these conditions by the US and international community will have significant implications for international trade and energy supply. Watch for official responses and any changes in shipping activity through the strait."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-09-23T11:10:53.879477+00:00",
-  "relevant_news": [
-    {
-      "title": "U.S. and Iran officials meet in New York to discuss ending the war - Axios",
-      "url": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Sep 23, 2026 · 06:10 BRT",
-      "pub_date": "2026-09-23",
-      "pub_ts": 1790154605,
+    },
+    "https://www.axios.com/local/austin/2026/09/24/iran-war-austin-isd-diesel-costs": {
       "summary": "",
       "tags": [
         "extracted",
         "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-09-24T11:11:57.103953+00:00",
+  "digest": {
+    "digest": "The ongoing conflict with Iran continues to be a significant factor in US domestic politics, with Republican midterm chances potentially impacted and calls for an end to the war emerging from within the party. Diplomatic efforts appear stalled, with an Iranian official stating that the US and Iran remain far apart in peace talks, while Iran's President Pezeshkian vows no surrender and accuses Trump of a 'bullying mentality.' Tensions have escalated with threats of extending conflict to the Indian Ocean if further strikes occur. The US military has reported another service member death amid the war. Economically, the conflict has influenced oil prices, with crude oil imports to Asia reaching a post-conflict high in September, though overall demand remains weak. Despite global economic uncertainties, including rising interest rates and a strong dollar, emerging markets have seen a surge in foreign borrowing, seemingly shrugging off the Iran war's impact. Reports indicate China is supplying Iran with dual-use components and military intelligence, potentially bolstering Iran's capabilities.",
+    "top_themes": [
+      "US-Iran Relations",
+      "Geopolitical Tensions",
+      "Economic Impacts"
+    ],
+    "next_events": [
+      {
+        "title": "US-Iran Diplomatic Deadlock and Escalation Potential",
+        "description": "Despite attempts at diplomacy, both sides remain far apart, with Iran vowing no surrender and the US making threats. Analysts should monitor any shifts in negotiation stances, signs of direct military confrontation, or further casualties, as these could rapidly escalate the conflict."
+      },
+      {
+        "title": "China's Covert Aid to Iran",
+        "description": "China is reportedly supplying Iran with critical 'dual-use' components and military intelligence, bolstering its capabilities. Watch for increased scrutiny from the international community on China's role, potential sanctions against Chinese entities, or any public acknowledgment of this support, which could significantly impact Iran's ability to sustain conflict."
+      },
+      {
+        "title": "Iran's Expanding Threat Radius",
+        "description": "A Khamenei adviser has threatened to extend the conflict to the Indian Ocean if Israel or the US strikes again. Analysts should watch for any Iranian military movements or actions outside its immediate borders, particularly in critical maritime routes, as this would represent a significant escalation and risk to global shipping and regional stability."
+      },
+      {
+        "title": "Volatility in Global Oil Markets",
+        "description": "The ongoing conflict and lack of progress in US-Iran talks continue to influence crude oil prices and global energy costs. Monitor for any major disruptions to oil supply routes, changes in import/export patterns, or significant shifts in oil prices, as these are direct indicators of the conflict's economic fallout and potential for broader market instability."
+      },
+      {
+        "title": "US Domestic Political Influence on Iran Policy",
+        "description": "The 'Iran War' is impacting US midterm chances and presidential approval ratings, leading to calls for an end to the conflict. Analysts should observe how domestic political pressures, particularly leading up to elections, might shape the US administration's diplomatic or military strategies towards Iran, potentially leading to policy shifts or increased urgency for resolution."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-09-24T11:12:05.249177+00:00",
+  "relevant_news": [
+    {
+      "title": "Iran Has a Secret Weapon in Its War With America: Help From China - WSJ",
+      "url": "https://www.wsj.com/politics/china-iran-aid-xi-trump-summit-e6541ae8",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 23, 2026 · 22:00 BRT",
+      "pub_date": "2026-09-23",
+      "pub_ts": 1790211600,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran, US still far apart in peace talks, Iranian official says; Pezeshkian vows no surrender - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/hope-progress-after-us-iran-hold-first-shuttle-talks-months-2026-09-23/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 23, 2026 · 17:59 BRT",
+      "pub_date": "2026-09-23",
+      "pub_ts": 1790197183,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Khamenei adviser says Iran may take war to Indian Ocean if Israel or US strikes again - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/khamenei-adviser-says-iran-may-take-war-to-indian-ocean-if-israel-or-us-strikes-again/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Sep 24, 2026 · 05:26 BRT",
+      "pub_date": "2026-09-24",
+      "pub_ts": 1790238373,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -10627,9 +10675,9 @@
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 22, 2026 · 21:10 BRT",
-      "pub_date": "2026-09-22",
-      "pub_ts": 1790122239,
+      "published": "Sep 23, 2026 · 18:44 BRT",
+      "pub_date": "2026-09-23",
+      "pub_ts": 1790199843,
       "summary": "",
       "tags": [
         "extracted",
@@ -10641,74 +10689,39 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping - Financial Times",
-      "url": "https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Sep 23, 2026 · 01:01 BRT",
+      "title": "Iran reportedly receiving dual-use components, military intelligence from China - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-909550",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Sep 24, 2026 · 05:48 BRT",
+      "pub_date": "2026-09-24",
+      "pub_ts": 1790239682,
+      "summary": "According to WSJ, citing Iranian customs data, China has shipped around 1,300 shipments to Iran's defense ministry containing \"dual-use\" components and chemical compounds.",
+      "tags": [
+        "Iran",
+        "China",
+        "sanctions",
+        "iran missiles",
+        "sanctions against iran"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump warns U.N. he might ‘annihilate’ Iran as war overshadows diplomacy - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/22/trump-heads-un-tout-wins-iran-war-overshadows-diplomacy/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Sep 23, 2026 · 00:59 BRT",
       "pub_date": "2026-09-23",
-      "pub_ts": 1790136098,
-      "summary": "Shortage of biggest supertankers has more than doubled rates on key Middle East-China routes since late August",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
-      "url": "https://www.reuters.com/world/americas/trump-set-whirlwind-un-meetings-with-wars-iran-ukraine-agenda-2026-09-22/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 22, 2026 · 18:07 BRT",
-      "pub_date": "2026-09-22",
-      "pub_ts": 1790111249,
+      "pub_ts": 1790135970,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran submits conditions for reopening of Hormuz to U.S. representative, state media says - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-submits-conditions-reopening-hormuz-us-representative-state-media-says-2026-09-22/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 22, 2026 · 16:46 BRT",
-      "pub_date": "2026-09-22",
-      "pub_ts": 1790106380,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Republicans in Tight Senate Races Call for End to Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/22/us/politics/republican-candidates-senate-iran-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 22, 2026 · 15:16 BRT",
-      "pub_date": "2026-09-22",
-      "pub_ts": 1790100962,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -10717,9 +10730,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-23T11:10:57.723944+00:00",
-  "last_generated_date": "2026-09-23",
-  "last_generated_time": "2026-09-23T23:02:23.447349+00:00",
+  "last_relevant_time": "2026-09-24T11:12:05.894194+00:00",
+  "last_generated_date": "2026-09-24",
+  "last_generated_time": "2026-09-24T08:01:56.297188+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -14734,6 +14747,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Iran war sends Austin ISD diesel costs soaring - Axios",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzR6TTBjYXVabi1IMUxxUDYxY3BPMGQtMlI4cnZyVk9ibG8xcFRXMkliQkJFYkdnRkhyZVB1SkUzYm5icHZfMlE1eHdPMUw4TGF0a2RqNFY4Z3ltZzlMN0hmeFJwYzNPZ3U5a2ZfbVNVR0xHSnNCYzNKV19YMGFHeExLZGY?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 24, 2026 · 07:17 BRT",
+          "pub_date": "2026-09-24",
+          "pub_ts": 1790245036,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump’s Push for a Diesel Export Ban Threatens to Squeeze Key US Allies - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEZqU19tY0JrWllyWE9lWkZBdEdrSFVBQ0FMRWUxN210dkFBcEUwRXlSckFFeDRpZVFjVktSS3hvOE44c0NicG92dHBlNzVpNENyUWFrZTZ1RW5HZXBWNThHWUNCemlNQ2NiUFVCcTVVMVNXdVpocHlMTDRPd3N3dmxYYTZyZkVDMWUxazJCTmFUWi05Z2JldGJkV2tVT0loUTJlOG0zOUlKOGowaVlfdU5ZcGV1dmVvUkhIU1BR?oc=5",

@@ -8873,7 +8873,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-16"
+      "pub_date": "2026-09-17"
     },
     "https://www.reuters.com/world/asia-pacific/impoverished-by-war-iran-afghan-migrants-return-taliban-rule-2026-09-17/": {
       "summary": "",
@@ -10460,6 +10460,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-23"
+    },
+    "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
     }
   },
   "last_digest_success": true,
@@ -10614,7 +10624,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-23T11:10:57.723944+00:00",
   "last_generated_date": "2026-09-23",
-  "last_generated_time": "2026-09-23T21:02:07.074638+00:00",
+  "last_generated_time": "2026-09-23T22:01:54.173174+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

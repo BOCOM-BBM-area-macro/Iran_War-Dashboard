@@ -10479,7 +10479,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-23"
+      "pub_date": "2026-09-24"
     },
     "https://www.reuters.com/business/energy/oil-prices-edge-lower-iran-says-it-is-open-diplomacy-end-war-2026-09-24/": {
       "summary": "",
@@ -10684,6 +10684,76 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-24"
+    },
+    "https://www.washingtonpost.com/politics/interactive/2026/09/24/how-every-senator-voted-iran-war-powers-resolution/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.nytimes.com/2026/09/24/us/politics/iran-war-lawsuit-iranian-americans.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.axios.com/2026/09/24/war-powers-resolution-senate-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.reuters.com/business/wall-st-futures-fall-middle-east-uncertainties-ahead-trump-xi-talks-2026-09-24/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-24/senate-rejects-iran-resolution-as-alarm-grows-over-gas-prices": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.washingtonpost.com/politics/2026/09/24/republicans-are-breaking-trump-iran-so-what-will-they-do-about-it/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
     }
   },
   "last_digest_success": true,
@@ -10841,12 +10911,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-24T11:12:05.894194+00:00",
   "last_generated_date": "2026-09-24",
-  "last_generated_time": "2026-09-24T16:02:02.222008+00:00",
+  "last_generated_time": "2026-09-24T17:02:03.425019+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Wall Street dips as investors focus on US-Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 24, 2026 · 15:36 BRT",
+          "pub_date": "2026-09-24",
+          "pub_ts": 1790274965,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMwQlBmRVM4WXVFeXhQVkcyYnpaUzE3dk1wUWswS3pZWDBKTGNWVEpqdFNsWXZEYm5PQ3pSVmRhVFl1empQN3p6SFY0YTVHRmxxNWpxbXFNWVlCOEF5T0tBLVp0MzNyWVlyQnpkbUtyVzNTeGtxQXZVc3hhb0E4aVV6bU5QVEdHMFhCaXRhV3hxQVJ3MWRXNF9tNG5EeUVzcTdEOUhGSExiS3F2SUlkS2xzRk1mNlg4bkRhR0FoaE5QZw?oc=5",
@@ -15729,6 +15813,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Senate Rejects Iran Resolution as Alarm Grows Over Gas Prices - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmZTbDU0UnQwWkNUSWV6ZzJxamxfOFdDcE9HdkZ2QnluRGxPMnZDUVpmbWRrdGJsV05WZ24zaHQySTgzeVJtd052TVVVeWxIVHlSMmZsalRJLVRnVHl4UUpzUU9sQktranh3el9qaU1FZFRkSWliSWprMDNXeURWVUVpeG9uMzRCTDN3SWdoN3E2amF5X19UeGJVbk5qeGY5UFQ4OUVnbk9weTVPd2QwZHBn?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 24, 2026 · 15:42 BRT",
+          "pub_date": "2026-09-24",
+          "pub_ts": 1790275371,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Global gas market pricing prolonged tightness due to Iran war, IGU executive says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2RfbU9KUmJNd3lBMmduWHduSVktOVpPSG53QldSLWhBcFRjLWtPR1NSc1JjMkZZQ2Zzd0IteVk3dFQwTEtNam95YnREMTNsRXJMbmhsRWxzS1dqbXhJTWxDa25pRHExcXI3dkwtLURyX09hY2ItQVR5Q01Lc2JKODRybVVyNC03dkFHWDVkenk2SElMaGZacGdWdlFIZ3FDT2toTWRyMVdhN1ZtQVRlaWVoRktDMU8ydHhVX3Y4UnRCU3FGMGQyZg?oc=5",

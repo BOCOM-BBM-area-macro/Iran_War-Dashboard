@@ -10490,6 +10490,28 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-23"
+    },
+    "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
+    },
+    "https://www.jpost.com/american-politics/article-909512": {
+      "summary": "The poll found that 64% of Americans said the US was not winning the war, compared with 36% who believed it was.",
+      "tags": [
+        "Iran",
+        "United Nations",
+        "Donald Trump",
+        "foreign policy"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-23"
     }
   },
   "last_digest_success": true,
@@ -16634,6 +16656,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbS1qWVY4d1FmTU5xeWMzcHZfcHhjR0Z3eEIzOFVIYXRpNllfb0p1OXJaQWhkdUQxVXBzU3BBSTdDWUlGckpnY2FDMFpZcjNlSl81V3diSm9TbkdDOEZHSFZBYkprV3VOV1NUNVE5UHliSHU2Y0xKdTktbXNGS09LRzF4TGY?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 23, 2026 · 22:25 BRT",
+          "pub_date": "2026-09-23",
+          "pub_ts": 1790213102,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Rubio, after Lavrov talks, says Russia has also voiced interest in 'limited ceasefire' - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3MzYlZCZEgzcUlDYjZORWhrZEFaczhhdjlTV2tXYW9lcjk0V1BIZlpqNVM1d21rQU1GYi1vX1p2QWtLV2MtRFNUZ2VuZzRmSkNCUGZibHFPVjF1NjdBUkhrU2NmR3pzZk4wdDFSdFdfWkJfX19wdll1LUROTGVVTkF6RUQzSmZ2NXBsRi14WHJnZkJiajIxUXVfbnc5Wk5zRXBncjZhRHNveHl2Yl9MeE9GWHliX0dW?oc=5",

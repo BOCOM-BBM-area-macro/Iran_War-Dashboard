@@ -9352,7 +9352,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-20"
+      "pub_date": "2026-09-18"
     },
     "https://www.timesofisrael.com/liveblog_entry/more-us-troops-killed-in-iran-war-than-pentagon-has-announced-report/": {
       "summary": "",
@@ -10240,7 +10240,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-23"
+      "pub_date": "2026-09-24"
     },
     "https://www.axios.com/2026/09/22/republicans-trump-congresss-iran-diesel": {
       "summary": "",
@@ -10499,7 +10499,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-23"
+      "pub_date": "2026-09-24"
     },
     "https://www.jpost.com/american-politics/article-909512": {
       "summary": "The poll found that 64% of Americans said the US was not winning the war, compared with 36% who believed it was.",
@@ -10518,6 +10518,29 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/khamenei-adviser-says-iran-may-take-war-to-indian-ocean-if-israel-or-us-strikes-again/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-909550": {
+      "summary": "According to WSJ, citing Iranian customs data, China has shipped around 1,300 shipments to Iran's defense ministry containing \"dual-use\" components and chemical compounds.",
+      "tags": [
+        "Iran",
+        "China",
+        "sanctions",
+        "iran missiles",
+        "sanctions against iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

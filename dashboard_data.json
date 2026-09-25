@@ -10482,7 +10482,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-23"
     },
     "https://www.reuters.com/business/energy/oil-prices-edge-lower-iran-says-it-is-open-diplomacy-end-war-2026-09-24/": {
       "summary": "",
@@ -10826,7 +10826,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-24"
     },
     "https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/": {
       "summary": "",
@@ -10856,7 +10856,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-24"
+      "pub_date": "2026-09-25"
     },
     "https://www.reuters.com/world/middle-east/britain-warns-iran-it-will-not-tolerate-hostile-activity-uk-soil-sky-news-2026-09-24/": {
       "summary": "",
@@ -10946,6 +10946,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-25"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-says-he-discussed-iran-war-in-meeting-with-chinas-xi/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11104,7 +11114,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-25T11:17:18.885169+00:00",
   "last_generated_date": "2026-09-25",
-  "last_generated_time": "2026-09-25T13:02:14.144046+00:00",
+  "last_generated_time": "2026-09-25T14:02:14.187419+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -10814,6 +10814,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-24"
+    },
+    "https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1": {
+      "summary": "Foreign minister says plan could see Strait of Hormuz reopen within a week",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
     }
   },
   "last_digest_success": true,
@@ -10971,12 +10991,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-24T11:12:05.894194+00:00",
   "last_generated_date": "2026-09-24",
-  "last_generated_time": "2026-09-24T22:02:20.731570+00:00",
+  "last_generated_time": "2026-09-24T23:02:15.824081+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 24, 2026 · 22:11 BRT",
+          "pub_date": "2026-09-24",
+          "pub_ts": 1790298660,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Wall Street dips as investors focus on US-Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
@@ -11000,6 +11034,20 @@
           "published": "Sep 24, 2026 · 13:28 BRT",
           "pub_date": "2026-09-24",
           "pub_ts": 1790267321,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump dismantled U.S. climate policy. But his war is cutting emissions. - washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTdqYndWZnBra1h4YUF2c3A0STJncDEtM0JEMFBJZ3JnaS1DOUhBM1NRSlhnek0zLVRyRGhSa21BSk05QTJjZHFQTDR3MzBEazV1cGVKLVFUSFptQkRyLWl5NFN6MUZEQ19Ub1QxaXRfeWRvZXB2bmdTZ1ZuOWZ1U3p0RTU5UHlYWDA0dTc5V3VYX21mRGVOU19WTjR1ZDRxZVl3akF3?oc=5",
+          "source": "washingtonpost.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 24, 2026 · 13:00 BRT",
+          "pub_date": "2026-09-24",
+          "pub_ts": 1790265600,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

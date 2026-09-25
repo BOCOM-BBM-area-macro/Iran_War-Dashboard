@@ -10419,7 +10419,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-23"
+      "pub_date": "2026-09-25"
     },
     "https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html": {
       "summary": "The president might be supercharging what already looked like a blue wave.",
@@ -10823,7 +10823,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-24"
     },
     "https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/": {
       "summary": "",
@@ -10860,6 +10860,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-24"
+    },
+    "https://www.washingtonpost.com/politics/2026/09/24/senate-rejects-measure-block-trump-ordering-more-strikes-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11027,6 +11037,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Why the Gulf Wants Trump to Hold the Line on Iran - wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEdvRW9adHdBLXdnWDlIQVd2RG80YTROaVVtT2RXdUxzbUxja2JTdXJvNlVfRV9hQjdnR1VDY29ka2ZqTW5TRWhxeXRNcS1peXlidmxJRFFsLTBWRHYzYWJxcjQ3YXRhd0pBR3o1bUdrRlJXVm96VFRfbXNXMzJBZG92Q194SDZHVHByVU5iellPMzNwQXRFNkFsSF8?oc=5",
+          "source": "wsj.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 24, 2026 · 23:00 BRT",
+          "pub_date": "2026-09-24",
+          "pub_ts": 1790301600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",

@@ -9719,7 +9719,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-21"
+      "pub_date": "2026-09-25"
     },
     "https://www.bloomberg.com/opinion/articles/2026-09-21/trump-xi-summit-china-s-leverage-makes-it-key-to-any-iran-war-deal": {
       "summary": "",
@@ -10482,7 +10482,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-23"
     },
     "https://www.reuters.com/business/energy/oil-prices-edge-lower-iran-says-it-is-open-diplomacy-end-war-2026-09-24/": {
       "summary": "",
@@ -10970,6 +10970,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-25"
+    },
+    "https://www.wsj.com/business/retail/iran-war-is-driving-up-the-cost-of-your-next-oil-change-b254bfb1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-25"
+    },
+    "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-25"
     }
   },
   "last_digest_success": true,
@@ -11124,12 +11144,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-25T11:17:18.885169+00:00",
   "last_generated_date": "2026-09-25",
-  "last_generated_time": "2026-09-25T16:02:11.049886+00:00",
+  "last_generated_time": "2026-09-25T17:01:57.526883+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran War Is Driving Up the Cost of Your Next Oil Change - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1Y041ZTg3QVByYVJGemc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 25, 2026 · 16:42 BRT",
+          "pub_date": "2026-09-25",
+          "pub_ts": 1790365320,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why the Gulf Wants Trump to Hold the Line on Iran - wsj.com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEdvRW9adHdBLXdnWDlIQVd2RG80YTROaVVtT2RXdUxzbUxja2JTdXJvNlVfRV9hQjdnR1VDY29ka2ZqTW5TRWhxeXRNcS1peXlidmxJRFFsLTBWRHYzYWJxcjQ3YXRhd0pBR3o1bUdrRlJXVm96VFRfbXNXMzJBZG92Q194SDZHVHByVU5iellPMzNwQXRFNkFsSF8?oc=5",

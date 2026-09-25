@@ -10836,7 +10836,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-24"
+      "pub_date": "2026-09-25"
     },
     "https://www.wsj.com/world/middle-east/why-the-gulf-wants-trump-to-hold-the-line-on-iran-b283a5e1": {
       "summary": "",
@@ -10856,7 +10856,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-24"
     },
     "https://www.reuters.com/world/middle-east/britain-warns-iran-it-will-not-tolerate-hostile-activity-uk-soil-sky-news-2026-09-24/": {
       "summary": "",
@@ -10996,6 +10996,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-25"
+    },
+    "https://www.reuters.com/world/middle-east/iran-will-make-no-nuclear-concessions-iranian-official-says-2026-09-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11154,7 +11164,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-25T11:17:18.885169+00:00",
   "last_generated_date": "2026-09-25",
-  "last_generated_time": "2026-09-25T19:02:11.992310+00:00",
+  "last_generated_time": "2026-09-25T20:02:05.190974+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

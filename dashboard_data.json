@@ -9352,7 +9352,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-18"
+      "pub_date": "2026-09-20"
     },
     "https://www.timesofisrael.com/liveblog_entry/more-us-troops-killed-in-iran-war-than-pentagon-has-announced-report/": {
       "summary": "",
@@ -11085,7 +11085,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-26"
+      "pub_date": "2026-09-25"
     },
     "https://www.reuters.com/world/middle-east/saudi-says-it-intercepted-2-drones-launched-by-houthis-towards-riyadh-2026-09-26/": {
       "summary": "",
@@ -11102,6 +11102,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-26"
+    },
+    "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11259,7 +11269,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-26T11:10:46.463590+00:00",
   "last_generated_date": "2026-09-26",
-  "last_generated_time": "2026-09-26T13:01:52.633467+00:00",
+  "last_generated_time": "2026-09-26T14:02:07.034510+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

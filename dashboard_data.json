@@ -10729,7 +10729,7 @@
       "pub_date": "2026-09-24"
     },
     "https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html": {
-      "summary": "",
+      "summary": "The vote came as a growing number of Republicans have broken from President Trump on the conflict, reflecting voters’ concerns ahead of midterm elections.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10826,7 +10826,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-24"
+      "pub_date": "2026-09-25"
     },
     "https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/": {
       "summary": "",
@@ -11010,6 +11010,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-25"
+    },
+    "https://www.wsj.com/world/middle-east/trump-rejects-iran-ceasefire-expects-renewed-bombing-after-midterms-5982ee50": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-25"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-909753": {
+      "summary": "A US official said on Friday that the United States is having positive, constructive discussions with Iran through mediators and continues to discuss nuclear issues.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "US military",
+        "midterm elections"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-25"
     }
   },
   "last_digest_success": true,
@@ -11164,7 +11187,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-25T11:17:18.885169+00:00",
   "last_generated_date": "2026-09-25",
-  "last_generated_time": "2026-09-25T21:02:05.981218+00:00",
+  "last_generated_time": "2026-09-25T22:02:01.839687+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -18097,6 +18120,20 @@
           "published": "Sep 25, 2026 · 09:41 BRT",
           "pub_date": "2026-09-25",
           "pub_ts": 1790340094,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Shipping traffic via Strait of Hormuz stays lower than 10-day average, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNklscWtES21ucjBWM3pFTEtlWFJxQy0wSGZid3RYUUQ5OHVyNTZINXJBTENHb0FWUGZoVElaUzBVTksxVnRLd0VyMWJJYlZqX2RNWHc3dXhObzMtNHhwT3BGeTU2VHhwRjFmcHlLd0kxbTJDUU5BWjd5c1NSdk9EZEJkUmg0U3JjZWJSamNxX3paWGN5NjNBOHBycUhDdWNSbzVFNEs0cUZTUVVnY3lxRUdQejVOVmpwbWg2RF9VdnI1UG1YRm1kODdpbw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 24, 2026 · 01:48 BRT",
+          "pub_date": "2026-09-24",
+          "pub_ts": 1790225289,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

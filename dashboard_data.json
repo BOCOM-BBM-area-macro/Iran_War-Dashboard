@@ -9884,7 +9884,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-22"
+      "pub_date": "2026-09-21"
     },
     "https://www.timesofisrael.com/liveblog_entry/iran-threatens-to-use-new-weapons-hit-new-targets-if-us-escalates-war/": {
       "summary": "",
@@ -10482,7 +10482,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-26"
+      "pub_date": "2026-09-23"
     },
     "https://www.reuters.com/business/energy/oil-prices-edge-lower-iran-says-it-is-open-diplomacy-end-war-2026-09-24/": {
       "summary": "",
@@ -10939,7 +10939,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-26"
     },
     "https://www.reuters.com/world/middle-east/saudi-grand-mufti-tells-troops-be-ready-sacrifice-their-lives-fighting-houthis-2026-09-25/": {
       "summary": "",
@@ -11059,6 +11059,19 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-26/live-updates-909755": {
+      "summary": "Emirati October 7 warning reportedly never reached Israeli security leaders • Pakistani, Saudi, Turkish chiefs discuss closer military ties • Lebanese PM demands Israel withdraw from Lebanon",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Hezbollah",
+        "Iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11216,7 +11229,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-26T11:10:46.463590+00:00",
   "last_generated_date": "2026-09-26",
-  "last_generated_time": "2026-09-26T08:02:01.244352+00:00",
+  "last_generated_time": "2026-09-26T09:01:50.572526+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -15343,6 +15356,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "More states weigh pausing gas taxes before Election Day as diesel prices spike - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlcwV21sSjRNb24xWUpuYkNMY2NGWDJ4UkxIMUY0a2l5Wnk3akdHLXJTNWhBMVg3OUFrV21Bb1N4bWJmMDF0VFRPZW5qanNQZmVzNnlhQ190ZktoNVF4WjdERVhHbDQ0NGpjZURITWpFUVhKdC1XeWpRNlRuMHlQNjYtSkw4TVAzaHpDOWtJajlMb3g5NW1YU1hCNWhtNHZzeXBwRnVPOFk5NVJjTXNtU0ptT1dLaU1wSXVWbUhmM3FxaTFodFZMLTVvcw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 26, 2026 · 08:37 BRT",
+          "pub_date": "2026-09-26",
+          "pub_ts": 1790422654,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war sends Austin ISD diesel costs soaring - Axios",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzR6TTBjYXVabi1IMUxxUDYxY3BPMGQtMlI4cnZyVk9ibG8xcFRXMkliQkJFYkdnRkhyZVB1SkUzYm5icHZfMlE1eHdPMUw4TGF0a2RqNFY4Z3ltZzlMN0hmeFJwYzNPZ3U5a2ZfbVNVR0xHSnNCYzNKV19YMGFHeExLZGY?oc=5",

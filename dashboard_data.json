@@ -10806,7 +10806,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-24"
     },
     "https://www.reuters.com/video/watch/idRW526024092026RP1/": {
       "summary": "",
@@ -11043,6 +11043,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-25"
+    },
+    "https://www.nytimes.com/athletic/7626223/2026/09/26/iran-us-israel-war-sport/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-26"
+    },
+    "https://www.ft.com/content/4aea83e0-1e87-42fd-b63f-155151d9cccf": {
+      "summary": "The artist is bringing her brooding anti-war production of Verdi to Barcelona’s Liceu, with Russian soprano Anna Netrebko in the title role",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-26"
     }
   },
   "last_digest_success": true,

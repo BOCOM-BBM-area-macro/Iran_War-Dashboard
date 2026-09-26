@@ -10482,7 +10482,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-23"
+      "pub_date": "2026-09-26"
     },
     "https://www.reuters.com/business/energy/oil-prices-edge-lower-iran-says-it-is-open-diplomacy-end-war-2026-09-24/": {
       "summary": "",
@@ -10836,7 +10836,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-24"
+      "pub_date": "2026-09-25"
     },
     "https://www.wsj.com/world/middle-east/why-the-gulf-wants-trump-to-hold-the-line-on-iran-b283a5e1": {
       "summary": "",
@@ -11066,53 +11066,49 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-25T11:16:12.198456+00:00",
+  "last_digest_time": "2026-09-26T11:10:39.262470+00:00",
   "digest": {
-    "digest": "Recent diplomatic efforts indicate Iran has proposed a seven-day plan to end the war, contingent on the US choosing to end hostilities. This proposal includes a potential reopening of the Strait of Hormuz within a week. Mediators are reportedly pressing for new talks in Oman. Concurrently, the US Senate has rejected multiple resolutions aimed at curbing President Trump's war powers regarding Iran, including measures to direct him to end the war or seek approval for further strikes. These legislative actions suggest a division in US policy approaches. Market reactions show oil prices sliding on hopes of a US-Iran truce, while broader market indices like the S&P 500 have experienced marginal declines due to investor focus on the conflict. The ongoing conflict also impacts other regions, with fighting engulfing Yemen as Houthi forces capitalize on the US-led war with Iran. Additionally, new US sanctions have led to the shutdown of Iranian flights, further complicating the situation.",
+    "digest": "Recent reports indicate that President Trump has rejected a ceasefire proposal from Iran, anticipating a continuation of hostilities following the midterm elections. This stance follows discussions where the US, through mediators, has engaged in constructive dialogue with Iran regarding nuclear issues, though an Iranian official stated no nuclear concessions would be made. Concurrently, the Pentagon has updated the number of troops wounded in the conflict. The war's impact extends to global markets, with oil prices experiencing a decline as the US and Iran explore potential de-escalation paths. Furthermore, concerns have been raised regarding Chinese entities supplying components for drones and missiles to Iran, prompting President Trump to address this issue with Chinese President Xi Jinping, who reportedly provided assurances. The conflict's broader implications are also evident in the disruption of international sports and the rising cost of oil for consumers.",
     "top_themes": [
-      "Iran War Diplomacy",
-      "US Senate Iran War Powers",
-      "Strait of Hormuz Reopening"
+      "US-Iran Relations",
+      "Geopolitical Tensions",
+      "Economic Impact"
     ],
     "next_events": [
       {
-        "title": "Progress on US-Iran Peace Talks and Ceasefire Proposals",
-        "description": "Iran has repeatedly offered 7-day ceasefire plans and discussed phased deals to reopen the Strait of Hormuz. Analysts should monitor any official responses from the US, the involvement of mediators like Qatar and Oman, and the specifics of any new proposals to gauge the likelihood of de-escalation."
+        "title": "US Policy Shift Post-Midterm Elections",
+        "description": "Trump's rejection of a ceasefire and expectation of renewed bombing after midterms (Articles 1, 10) suggests a potential escalation or change in US strategy. Analysts should observe official statements and military actions from the US government following the midterm elections for any shift in rhetoric or deployment of forces."
       },
       {
-        "title": "US Executive Actions on Iran War Powers and Sanctions",
-        "description": "Despite attempts, the US Senate has consistently rejected resolutions to curb presidential war powers regarding Iran. This leaves the executive branch with significant authority to order strikes or impose further sanctions. Watch for any unilateral actions, new sanctions (like those shutting down Iranian flights), or shifts in rhetoric from the US administration."
+        "title": "Status of US-Iran Diplomatic Engagements",
+        "description": "Despite Trump's public stance, reports indicate ongoing 'positive, constructive discussions' through mediators (Article 10) and exploration of a path out of war (Article 6). However, Iran also states it will make no nuclear concessions (Article 11). Monitor for any breakthroughs or breakdowns in these mediated discussions, particularly concerning nuclear issues or de-escalation agreements."
       },
       {
-        "title": "Gulf States' Stance and Regional Proxy Activity",
-        "description": "Major Persian Gulf oil producers are reportedly resisting accommodation with Tehran, preferring the US to maintain pressure. Analysts should observe how this influences diplomatic efforts, as well as continued Houthi attacks on Saudi Arabia and the broader impact on Yemen, which could escalate regional tensions despite truce hopes."
+        "title": "China's Continued Support for Iran",
+        "description": "China has been a 'secret weapon' for Iran, supplying drone and missile components (Article 5), despite Trump's warnings to Xi (Articles 7, 8). Analysts should watch for any changes in Chinese customs data or intelligence reports indicating a reduction or cessation of military-related shipments to Iran, as Xi's follow-through on assurances will impact Iran's military capabilities."
       },
       {
-        "title": "Reopening of the Strait of Hormuz",
-        "description": "A key component of Iran's peace proposals and mediator efforts is the reopening of the Strait of Hormuz. Its status is crucial for global oil supply and maritime trade. Watch for any concrete steps or agreements related to its reopening, as this would signal a significant de-escalation and impact oil markets."
-      },
-      {
-        "title": "Global Economic Impact and Market Volatility",
-        "description": "The ongoing tensions and potential for conflict have already impacted oil prices, mortgage rates, and the S&P 500. New US sanctions have also affected Iranian flights and regional airlines. Analysts should monitor global financial markets, energy prices, and the broader economic fallout for signs of escalation or de-escalation."
+        "title": "Escalation of Military Activity and Casualties",
+        "description": "The Pentagon is quietly adding to the tally of wounded troops (Article 3), indicating ongoing conflict, and Trump's expectation of renewed bombing (Article 1) suggests potential for further escalation. Monitor reports of troop movements, increased military engagements, and casualty figures from all sides, as any significant increase would signal a dangerous escalation of the conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-25T11:17:18.477134+00:00",
+  "last_watch_time": "2026-09-26T11:10:46.080909+00:00",
   "relevant_news": [
     {
-      "title": "Iran Proposes 7-Day Plan to End War - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 25, 2026 · 02:27 BRT",
+      "title": "Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/trump-rejects-iran-ceasefire-expects-renewed-bombing-after-midterms-5982ee50",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 25, 2026 · 21:26 BRT",
       "pub_date": "2026-09-25",
-      "pub_ts": 1790314020,
+      "pub_ts": 1790382360,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11120,14 +11116,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran's president says it is up to US to choose if it wants to end Iran war - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-president-says-it-is-up-us-choose-if-it-wants-end-iran-war-2026-09-24/",
+      "title": "Iran awaits US move after WSJ report says Trump rejects peace plan - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 24, 2026 · 20:42 BRT",
-      "pub_date": "2026-09-24",
-      "pub_ts": 1790293355,
+      "published": "Sep 26, 2026 · 04:27 BRT",
+      "pub_date": "2026-09-26",
+      "pub_ts": 1790407635,
       "summary": "",
       "tags": [
         "extracted",
@@ -11139,14 +11135,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran says it has given Trump administration new proposal for peace talks - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/09/24/iran-says-it-has-given-trump-administration-new-proposal-peace-talks/",
+      "title": "Pentagon quietly adds dozens to tally of troops wounded amid Iran war - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 25, 2026 · 03:20 BRT",
+      "published": "Sep 25, 2026 · 23:50 BRT",
       "pub_date": "2026-09-25",
-      "pub_ts": 1790317200,
+      "pub_ts": 1790391018,
       "summary": "",
       "tags": [
         "extracted",
@@ -11158,32 +11154,35 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran offers US new seven-day ceasefire proposal - Financial Times",
-      "url": "https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Sep 25, 2026 · 00:02 BRT",
-      "pub_date": "2026-09-25",
-      "pub_ts": 1790305379,
-      "summary": "Foreign minister says plan could see Strait of Hormuz reopen within a week",
+      "title": "Iran Has a Secret Weapon in Its War With America: Help From China - WSJ",
+      "url": "https://www.wsj.com/politics/china-iran-aid-xi-trump-summit-e6541ae8",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 26, 2026 · 07:35 BRT",
+      "pub_date": "2026-09-26",
+      "pub_ts": 1790418931,
+      "summary": "Trump wants to preserve relations with Xi, but Iranian customs data show Chinese entities have made thousands of shipments of components used in drones and missiles.",
       "tags": [
-        "extracted",
-        "ft.com"
+        "gfx-contrib",
+        "leder",
+        "Aerospace/Defense",
+        "Business/Consumer Services",
+        "Freight Transport/Logistics"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia - Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/",
+      "title": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
+      "url": "https://www.reuters.com/world/us/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says-2026-09-25/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 24, 2026 · 22:11 BRT",
-      "pub_date": "2026-09-24",
-      "pub_ts": 1790298660,
+      "published": "Sep 25, 2026 · 15:59 BRT",
+      "pub_date": "2026-09-25",
+      "pub_ts": 1790362753,
       "summary": "",
       "tags": [
         "extracted",
@@ -11195,14 +11194,14 @@
       "sentiment_success": false
     },
     {
-      "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-iran-discuss-phased-deal-reopen-hormuz-end-us-blockade-sources-say-2026-09-24/",
+      "title": "Iran will make no nuclear concessions, Iranian official says - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-will-make-no-nuclear-concessions-iranian-official-says-2026-09-25/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 24, 2026 · 13:18 BRT",
-      "pub_date": "2026-09-24",
-      "pub_ts": 1790266680,
+      "published": "Sep 25, 2026 · 17:39 BRT",
+      "pub_date": "2026-09-25",
+      "pub_ts": 1790368785,
       "summary": "",
       "tags": [
         "extracted",
@@ -11215,9 +11214,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-25T11:17:18.885169+00:00",
-  "last_generated_date": "2026-09-25",
-  "last_generated_time": "2026-09-25T23:01:49.155773+00:00",
+  "last_relevant_time": "2026-09-26T11:10:46.463590+00:00",
+  "last_generated_date": "2026-09-26",
+  "last_generated_time": "2026-09-26T08:02:01.244352+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

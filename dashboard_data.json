@@ -11126,6 +11126,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-26"
+    },
+    "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-27/live-updates-909795": {
+      "summary": "Trump rejects Iranian proposal, expects war to continue • Qatari Prime Minister accuses Netanyahu of sabotaging Gaza peace efforts • Pezeshkian says Tehran no longer trusts US talks",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Hezbollah",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-26"
     }
   },
   "last_digest_success": true,
@@ -11279,7 +11302,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-26T11:10:46.463590+00:00",
   "last_generated_date": "2026-09-26",
-  "last_generated_time": "2026-09-26T22:02:06.699176+00:00",
+  "last_generated_time": "2026-09-26T23:01:47.952489+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

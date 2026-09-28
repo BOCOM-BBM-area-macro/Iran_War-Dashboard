@@ -11019,7 +11019,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-26"
+      "pub_date": "2026-09-25"
     },
     "https://www.jpost.com/middle-east/iran-news/article-909753": {
       "summary": "A US official said on Friday that the United States is having positive, constructive discussions with Iran through mediators and continues to discuss nuclear issues.",
@@ -11260,7 +11260,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-27"
+      "pub_date": "2026-09-28"
     },
     "https://www.reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27/": {
       "summary": "",
@@ -11464,6 +11464,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-28"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-us-will-win-iran-war-very-soon-2026-09-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-910019": {
+      "summary": "\"We're going to win; as far as I'm concerned, it's going to be one way or the other,\" Trump said in the Oval Office. \"It's going to go pretty quickly.\"",
+      "tags": [
+        "Iran",
+        "United States",
+        "Iran Conflict",
+        "Iran US Conflict",
+        "iran war scenario"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
     }
   },
   "last_digest_success": true,
@@ -11625,12 +11648,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-28T11:08:52.341547+00:00",
   "last_generated_date": "2026-09-28",
-  "last_generated_time": "2026-09-28T16:02:08.922557+00:00",
+  "last_generated_time": "2026-09-28T17:01:58.367180+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Wall St declines as oil prices, Treasury yields remain elevated - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 28, 2026 · 15:48 BRT",
+          "pub_date": "2026-09-28",
+          "pub_ts": 1790621316,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Emerging Stocks Slide as Oil Gains on Renewed Mideast Tensions - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGk0V2RXNGhZRVUxTEVOVHlYSk1tRkNCT3VIa0h1MjRUa3BoVlFkNU1BTWpqVUlBd2x1YkNPaWVrSlZxaENZQjZVUDc3dzNaMC1MTGtrRHFQWU44MkpleG5lSHR6TmhWWjY4VHByRF80VDgtRjNaVkZKSDRKWXBMQnZuZHR3eFNra1kwTlhBSWJ5ZmZKd2E2a0JOdE91d1VkYzNqVkc3amI2d3JvbjFIdTB6SQ?oc=5",

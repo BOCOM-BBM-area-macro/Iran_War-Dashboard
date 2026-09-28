@@ -11230,7 +11230,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-27"
+      "pub_date": "2026-09-28"
     },
     "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html": {
       "summary": "",
@@ -11390,6 +11390,16 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
+    },
+    "https://www.washingtonpost.com/world/2026/09/28/uk-says-men-accused-terror-plot-are-british-nationals-iran-denies-links/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11555,7 +11565,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-28T11:08:52.341547+00:00",
   "last_generated_date": "2026-09-28",
-  "last_generated_time": "2026-09-28T12:02:00.341722+00:00",
+  "last_generated_time": "2026-09-28T13:01:53.269548+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -11626,6 +11636,20 @@
           "published": "Sep 25, 2026 · 23:04 BRT",
           "pub_date": "2026-09-25",
           "pub_ts": 1790388240,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGVxM0NSSkVPVjdHTGNlUHBLbTdGTmh3OWZsTFRXVGVReHZGWmxEM2xjdUt4Y25KMVVyYlJ6WkdKZFVWdEFSVzFmcGx1X2lKTjd0MmxLak01UzgwYU5Iek1zazA1RzlhRXE0cGdhQzNtNFpUTVdhTWQ1Vk5DMWFxbHNEVTFLMTJRUFBFZjRNNU1UaHFoaDZqLWotX1RvUEhCVVotMElmMDdCRHB2RWFQVjMxNGs?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 25, 2026 · 21:26 BRT",
+          "pub_date": "2026-09-25",
+          "pub_ts": 1790382360,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

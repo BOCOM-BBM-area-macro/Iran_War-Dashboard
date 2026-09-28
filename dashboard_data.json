@@ -10013,7 +10013,7 @@
       "pub_date": "2026-09-22"
     },
     "https://www.nytimes.com/interactive/2026/09/22/us/us-iran-war-cost.html": {
-      "summary": "",
+      "summary": "A detailed look at the $43.6 billion the Pentagon has spent so far.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -10799,7 +10799,7 @@
       "pub_date": "2026-09-25"
     },
     "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html": {
-      "summary": "",
+      "summary": "Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -11263,6 +11263,16 @@
       "pub_date": "2026-09-27"
     },
     "https://www.reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-27"
+    },
+    "https://www.reuters.com/world/irans-army-voices-readiness-potential-renewed-us-attack-2026-09-27/": {
       "summary": "",
       "tags": [
         "extracted",

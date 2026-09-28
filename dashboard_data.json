@@ -11261,6 +11261,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-27"
+    },
+    "https://www.reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-27"
     }
   },
   "last_digest_success": true,
@@ -11424,12 +11434,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-27T11:11:30.654553+00:00",
   "last_generated_date": "2026-09-27",
-  "last_generated_time": "2026-09-27T22:01:46.322709+00:00",
+  "last_generated_time": "2026-09-27T23:01:49.766862+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil heads higher as US-Iran peace talks in stalemate - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 27, 2026 · 19:13 BRT",
+          "pub_date": "2026-09-27",
+          "pub_ts": 1790547180,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran awaits US move after WSJ report says Trump rejects peace plan - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",

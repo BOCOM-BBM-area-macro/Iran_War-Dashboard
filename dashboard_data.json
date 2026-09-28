@@ -10979,7 +10979,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-28"
     },
     "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war/": {
       "summary": "",
@@ -11019,7 +11019,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-26"
     },
     "https://www.jpost.com/middle-east/iran-news/article-909753": {
       "summary": "A US official said on Friday that the United States is having positive, constructive discussions with Iran through mediators and continues to discuss nuclear issues.",
@@ -11230,7 +11230,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-27"
+      "pub_date": "2026-09-28"
     },
     "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html": {
       "summary": "",
@@ -11454,6 +11454,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-28/emerging-stocks-slide-as-oil-gains-on-renewed-mideast-tensions": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
     }
   },
   "last_digest_success": true,
@@ -11615,12 +11625,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-28T11:08:52.341547+00:00",
   "last_generated_date": "2026-09-28",
-  "last_generated_time": "2026-09-28T15:01:55.458145+00:00",
+  "last_generated_time": "2026-09-28T16:02:08.922557+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Emerging Stocks Slide as Oil Gains on Renewed Mideast Tensions - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGk0V2RXNGhZRVUxTEVOVHlYSk1tRkNCT3VIa0h1MjRUa3BoVlFkNU1BTWpqVUlBd2x1YkNPaWVrSlZxaENZQjZVUDc3dzNaMC1MTGtrRHFQWU44MkpleG5lSHR6TmhWWjY4VHByRF80VDgtRjNaVkZKSDRKWXBMQnZuZHR3eFNra1kwTlhBSWJ5ZmZKd2E2a0JOdE91d1VkYzNqVkc3amI2d3JvbjFIdTB6SQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 28, 2026 · 14:03 BRT",
+          "pub_date": "2026-09-28",
+          "pub_ts": 1790614980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhQbFJWa3BzeDliUGZGQ1ZVY19mbmY1bmNleGw0ODF6RjV2a0ljSkp3a29lLTBpd1A5M2hxWTg0UmZoSWUzRHFPTEhMQ0t0bUVWWmdIbXJJVW5qVHpfSnZxTzlWdTczY0RZamlVVldsZVZKS185Q21LcG82bkYwZEV0UkdET1AzVUozeWgwekpYSXhJZHo5NVZxV0k2aTBpT2pwUjRreS10dlRNMDBxM2NzYWRkcmFqZkdDMDFNWm1BTkpQcFdGdzN3?oc=5",
@@ -11644,6 +11668,20 @@
           "published": "Sep 28, 2026 · 03:00 BRT",
           "pub_date": "2026-09-28",
           "pub_ts": 1790575200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Dollar flat as US-Iran stand-off lifts oil, yields - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGN6Yy1FQUFsN3Z3US1YZWg2amxMczRubW9XaV9vWHJTc0JYbGN6YjhiX1hlWG5CZUdJbEVpcmwwTmdMT3EtTTNqRENIM25PSWY2RUhFVnBkTFBhY3d5VnlJY3NqWHhTSm8xN1FXY0lsVjBjN0JfQXI2Zml5WTNEcW9wMExxT21BbDVETDJZOFFrY0RXMGkwTUJHaTgzS2k1SHBQTVNhTlN5VVJVTllz?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 27, 2026 · 22:35 BRT",
+          "pub_date": "2026-09-27",
+          "pub_ts": 1790559300,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

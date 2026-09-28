@@ -11374,6 +11374,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-28"
+    },
+    "https://www.reuters.com/business/energy/uk-diesel-prices-hit-record-highs-due-impact-iran-war-2026-09-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
+    },
+    "https://www.reuters.com/world/middle-east/us-iran-set-hold-separate-talks-with-mediators-monday-or-tuesday-official-says-2026-09-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
     }
   },
   "last_digest_success": true,
@@ -11535,7 +11555,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-28T11:08:52.341547+00:00",
   "last_generated_date": "2026-09-28",
-  "last_generated_time": "2026-09-28T11:01:49.235776+00:00",
+  "last_generated_time": "2026-09-28T12:02:00.341722+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -15761,6 +15781,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "UK diesel prices hit record highs due to impact of Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHN4d1VGcVBGY1ZfajlGSnJvbkFEakJsRzZKalQ2ZTFWQUVBMjI1MWZ4alBFVjdBSkJXUDRkeF9tVTBoczdqN1h4TXRWX0dzd3ZDd1dUck1Fa09YanhkZS12U29PckVfTkRyTUlwd09jTVJRalZ3NEJqMDZLZXNnMmhIWTZGR2lUa19sRFZtandaNmE2Mnh6MjV5bnp1bGl2b2VFZ1NzLTM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 28, 2026 · 11:26 BRT",
+          "pub_date": "2026-09-28",
+          "pub_ts": 1790605616,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Soaring diesel prices are clobbering Trump’s MAGA faithful, exposing rifts - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2F6OVVLRzh3SXB0VVlrZmxRQWpQZzFldUVDNXdfSDA1NmVZUmNYZC1mQTg0ZVp5VWtCZlc1bTlHWjJtOGxkcnRDaTBEUjdGUnpYQjZzYkxlbk00RTNqYU5iQXdCZ3RaQkx5RlI2ZVNkdk5Xd2U3OE5ESFFDbURpa2ZMV2E2R09jZVI0U1RUamZobS16dEl6bUlrYV9IeHpR?oc=5",
           "source": "The Washington Post",
@@ -15881,6 +15915,20 @@
           "published": "Sep 21, 2026 · 20:25 BRT",
           "pub_date": "2026-09-21",
           "pub_ts": 1790033143,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Vulnerable GOP Candidates Call for Diesel Export Ban - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1pwSHo4ZTc0MmozbHdmTjRRcWtvNTdDd0EzT1hkb2kzNnJJMHVTX0gyT1ZPTmdzWVFjam1UOUZqY3ZYRnNybXlkc01kcHM4WEpnSjhtYXBFcy1mTnRrVU1jU19xellHYVY5TnFBaU05YWFKaXNhQjlFbXB0b1NUTTItUUVYcks2RmZmLXlBeDVnQkpUOTRNY2w3QXNvbTZfOWVoOUgya3dmcE9LODJnYzFVZGV5TzZ0VmxmRUNKVmgyMU0?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 21, 2026 · 17:25 BRT",
+          "pub_date": "2026-09-21",
+          "pub_ts": 1790022300,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

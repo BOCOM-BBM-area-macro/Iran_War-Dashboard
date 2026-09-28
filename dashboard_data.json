@@ -11019,7 +11019,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-25"
+      "pub_date": "2026-09-26"
     },
     "https://www.jpost.com/middle-east/iran-news/article-909753": {
       "summary": "A US official said on Friday that the United States is having positive, constructive discussions with Iran through mediators and continues to discuss nuclear issues.",
@@ -11230,7 +11230,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-28"
+      "pub_date": "2026-09-27"
     },
     "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html": {
       "summary": "",
@@ -11260,7 +11260,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-27"
+      "pub_date": "2026-09-28"
     },
     "https://www.reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27/": {
       "summary": "",
@@ -11400,6 +11400,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
+    },
+    "https://www.nytimes.com/2026/09/28/world/middleeast/yemen-war-800-dead.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -11565,7 +11575,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-28T11:08:52.341547+00:00",
   "last_generated_date": "2026-09-28",
-  "last_generated_time": "2026-09-28T13:01:53.269548+00:00",
+  "last_generated_time": "2026-09-28T14:03:04.640920+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

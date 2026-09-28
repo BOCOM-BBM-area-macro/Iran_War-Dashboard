@@ -9980,7 +9980,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-22"
+      "pub_date": "2026-09-23"
     },
     "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html": {
       "summary": "",
@@ -11334,52 +11334,143 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-28"
+    },
+    "https://www.reuters.com/world/uk/uk-police-question-five-men-held-airbase-used-by-us-attack-iran-2026-09-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-28/streeting-declines-to-link-us-iran-war-with-raf-fairford-arrests": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
+    },
+    "https://www.nytimes.com/2026/09/28/business/oil-stocks-gas-prices.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-27T11:11:19.003462+00:00",
+  "last_digest_time": "2026-09-28T11:08:39.959444+00:00",
   "digest": {
-    "digest": "Recent developments indicate a continued diplomatic impasse between the United States and Iran, with President Trump rejecting multiple Iranian proposals aimed at reopening the Strait of Hormuz and restarting peace talks. Iran, through its Army spokesperson, has stated readiness for confrontation and warned of potential further US attacks due to the regional situation. Simultaneously, a US Treasury official has been actively touring Europe and the Middle East, urging over 50 countries to cease ties with Iran. Britain has also issued a warning against hostile activity on UK soil. Amidst these tensions, Iran insists on a diplomatic solution, while its president has expressed a lack of trust in US negotiations. Reports also suggest internal Iranian political dynamics, with claims of Mojtaba Khamenei being injured prior to the conflict and denials regarding succession plans for Ali Khamenei.",
+    "digest": "Recent developments indicate a continued impasse in U.S.-Iran diplomatic efforts, with President Trump rejecting a proposal and expecting talks this week, while Iran has proposed a seven-day ceasefire to reopen the Strait of Hormuz. This diplomatic stalemate is directly impacting oil markets, with prices gaining over 3% due to the ongoing conflict and uncertainty. In parallel, a security incident occurred in the United Kingdom, where five men were arrested near an airbase utilized by the U.S. for operations related to Iran. The U.S. stance appears to be seeking more concessions beyond a ceasefire, contributing to the prolonged negotiations. The war's impact is also being felt domestically in the U.S., with some Republican politicians expressing concerns as midterm elections approach and energy prices rise. Reports also surfaced regarding an injury to Khamenei, though details remain unconfirmed. The situation highlights the interconnectedness of geopolitical tensions, energy markets, and international security concerns, with ongoing negotiations and potential escalations remaining key factors to monitor.",
     "top_themes": [
-      "US-Iran Relations",
-      "Diplomatic Stalemate",
-      "Regional Tensions"
+      "US-Iran Diplomatic Stalemate",
+      "Oil Market Volatility",
+      "UK Security Incident"
     ],
     "next_events": [
       {
-        "title": "Future of US-Iran Diplomacy Amidst Mixed Signals",
-        "description": "Trump has repeatedly rejected Iranian peace proposals, including reopening the Strait of Hormuz, signaling an expectation for the war to continue. However, a US official also mentioned \"positive, constructive discussions\" through mediators on nuclear issues. Analysts should monitor which narrative prevails and if any back-channel diplomacy can break the current stalemate, or if rejections will lead to further escalation."
+        "title": "US-Iran Diplomatic Engagement and Proposals",
+        "description": "Analysts should closely monitor any new developments in the indirect talks between the US and Iran, including specific proposals from either side and the conditions for reviving negotiations. The rejection of Iran's latest proposal indicates a high bar for agreement, making any future concessions or counter-proposals critical for de-escalation."
       },
       {
-        "title": "Strait of Hormuz Reopening Prospects and Maritime Security",
-        "description": "Iran's proposal to reopen the Strait of Hormuz as part of a cease-fire was rejected by the US, despite its critical role for global oil shipments. Analysts should watch for any renewed attempts at negotiation regarding the Strait's status. Continued rejection could lead to increased tensions and potential disruptions to maritime trade."
+        "title": "Iran's Nuclear Concessions",
+        "description": "A key factor for the revival of peace talks is Iran's willingness to make nuclear concessions. Analysts should watch for any signals from Tehran regarding its nuclear program, as international pressure mounts for a verifiable commitment to non-proliferation to facilitate a broader peace agreement."
       },
       {
-        "title": "Effectiveness of US Sanctions and Diplomatic Isolation Efforts",
-        "description": "A top US Treasury Department official has toured over 50 countries, warning them against maintaining ties with Iran, indicating a concerted effort to further isolate Iran economically and diplomatically. Analysts should observe the compliance of these nations and the resulting impact on Iran's economy. This will reveal the effectiveness of the US pressure campaign."
+        "title": "Strait of Hormuz Status and Maritime Security",
+        "description": "Iran's proposal to reopen the Strait of Hormuz for a ceasefire highlights its strategic importance. Future developments regarding the strait, including new proposals for its status or any incidents, will be crucial indicators of de-escalation or potential flashpoints in the conflict."
       },
       {
-        "title": "Escalation Risk and Military Posturing",
-        "description": "Iran's Army spokesperson has claimed the US could attack again and stated Iran is ready for confrontation, threatening greater damage to the US. This rhetoric highlights a high risk of military escalation. Analysts should closely monitor any troop movements, intelligence reports of planned attacks, or significant changes in military readiness from either side."
+        "title": "Global Oil Market Volatility",
+        "description": "The ongoing stalemate in US-Iran talks has directly impacted global oil prices, causing significant gains. Analysts must monitor oil market volatility, as any progress or further deterioration in diplomatic efforts will have immediate and substantial effects on energy prices and the global economy."
       },
       {
-        "title": "Iran's Regional and International Proxy Activities",
-        "description": "Britain has issued a warning to Iran regarding hostile activities on UK soil, suggesting Iran's influence extends beyond its immediate borders. This indicates potential for Iran to engage in or support actions internationally. Analysts should watch for any evidence of such activities and the coordinated international response, which could broaden the scope of the conflict."
+        "title": "US Domestic Political Influence on Iran Policy",
+        "description": "The 'war with Iran' is impacting US domestic politics, particularly for Republicans in midterm elections. Analysts should observe how evolving public sentiment and electoral pressures in the US might shape the administration's strategy and willingness to negotiate with Iran."
+      },
+      {
+        "title": "Regional Security and Proxy Activities",
+        "description": "The arrests near a UK airbase used by the US in the Iran conflict suggest potential for broader security implications or proxy actions. Analysts should follow the investigation's outcomes and any intelligence linking these incidents to state or non-state actors, indicating potential escalation beyond direct conflict zones."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-27T11:11:30.286297+00:00",
+  "last_watch_time": "2026-09-28T11:08:51.964522+00:00",
   "relevant_news": [
     {
-      "title": "Heidari: Mojtaba Khamenei was injured before Iran war, pulled from rubble - The Jerusalem Post",
+      "title": "After nixing Iran proposal, Trump tells Axios he expects talks this week - Axios",
+      "url": "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Sep 27, 2026 · 12:57 BRT",
+      "pub_date": "2026-09-27",
+      "pub_ts": 1790524674,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump says U.S., Iran slated for indirect talks after he rejects latest proposal - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/09/27/trump-says-us-iran-slated-indirect-talks-despite-his-rejection-offer/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Sep 27, 2026 · 21:30 BRT",
+      "pub_date": "2026-09-27",
+      "pub_ts": 1790555446,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-pressed-to-make-nuclear-concessions-to-revive-peace-talks-with-u-s-80016aff",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 27, 2026 · 18:17 BRT",
+      "pub_date": "2026-09-27",
+      "pub_ts": 1790543820,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Khamenei injured before Iran war, pulled from Tehran hospital rubble after strike, cleric says - The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-909818",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 27, 2026 · 04:41 BRT",
+      "published": "Sep 27, 2026 · 16:55 BRT",
       "pub_date": "2026-09-27",
-      "pub_ts": 1790494891,
+      "pub_ts": 1790538937,
       "summary": "He also denied the claim that Iran’s former supreme leader, Ali Khamenei, had recommended his son to serve as his successor.",
       "tags": [
         "Iran",
@@ -11393,60 +11484,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-09-27/live-updates-909795",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 27, 2026 · 07:36 BRT",
-      "pub_date": "2026-09-27",
-      "pub_ts": 1790505416,
-      "summary": "Trump rejects Iranian proposal, expects war to continue • Qatari Prime Minister accuses Netanyahu of sabotaging Gaza peace efforts • Pezeshkian says Tehran no longer trusts US talks",
-      "tags": [
-        "Benjamin Netanyahu",
-        "Gaza",
-        "Hamas",
-        "Hezbollah",
-        "Iran"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran Army spokesperson claims United States could attack again due to bad regional situation - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-909831",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 27, 2026 · 05:52 BRT",
-      "pub_date": "2026-09-27",
-      "pub_ts": 1790499160,
-      "summary": "Army Spokesperson Mohammad Akraminia added that Iran was ready for confrontation and to inflict greater damage on the US.",
-      "tags": [
-        "Iran",
-        "United States",
-        "iran and us",
-        "Iran US Conflict",
-        "us iran"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump rejects Iran’s proposal to reopen Strait of Hormuz, restart peace talks - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/26/trump-rejects-iran-proposal-reopen-strait-hormuz-restart-peace-talks/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 27, 2026 · 01:10 BRT",
-      "pub_date": "2026-09-27",
-      "pub_ts": 1790482210,
+      "title": "5 Men Arrested Near U.K. Air Base Used By U.S. In Iran War - WSJ",
+      "url": "https://www.wsj.com/video/5-men-arrested-near-uk-air-base-used-by-us-in-iran-war/B7C4D623-E99A-4ED0-8874-1F0D2653F98E",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 28, 2026 · 05:32 BRT",
+      "pub_date": "2026-09-28",
+      "pub_ts": 1790584375,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -11454,14 +11503,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz - nytimes.com",
-      "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-      "source": "nytimes.com",
+      "title": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/28/business/oil-stocks-gas-prices.html",
+      "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 26, 2026 · 18:02 BRT",
-      "pub_date": "2026-09-26",
-      "pub_ts": 1790456562,
+      "published": "Sep 28, 2026 · 06:41 BRT",
+      "pub_date": "2026-09-28",
+      "pub_ts": 1790588495,
       "summary": "",
       "tags": [
         "extracted",
@@ -11471,33 +11520,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "Donald Trump reportedly rejects Iranian seven-day proposal - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-909753",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 26, 2026 · 13:08 BRT",
-      "pub_date": "2026-09-26",
-      "pub_ts": 1790438934,
-      "summary": "A US official said on Friday that the United States is having positive, constructive discussions with Iran through mediators and continues to discuss nuclear issues.",
-      "tags": [
-        "Iran",
-        "United States",
-        "Donald Trump",
-        "US military",
-        "midterm elections"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-27T11:11:30.654553+00:00",
-  "last_generated_date": "2026-09-27",
-  "last_generated_time": "2026-09-27T23:01:49.766862+00:00",
+  "last_relevant_time": "2026-09-28T11:08:52.341547+00:00",
+  "last_generated_date": "2026-09-28",
+  "last_generated_time": "2026-09-28T08:01:48.101384+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

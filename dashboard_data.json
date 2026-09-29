@@ -11429,7 +11429,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-28"
+      "pub_date": "2026-09-29"
     },
     "https://www.washingtonpost.com/world/2026/09/28/fairford-raf-base-suspects-arrested-plot/141b290c-bb51-11f1-81fc-9b76f8343b6c_story.html": {
       "summary": "",
@@ -11603,6 +11603,28 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-29"
+    },
+    "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-call-trump-big-liar-2026-09-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-29"
+    },
+    "https://www.jpost.com/middle-east/article-910050": {
+      "summary": "\"The American people need to be told the truth,\" Hossein Mohebbi said, adding that the US had failed in its military campaign against Iran and should leave the region.",
+      "tags": [
+        "Iran",
+        "Middle East",
+        "Donald Trump",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-29"
     }
   },
   "last_digest_success": true,
@@ -11771,6 +11793,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Trump denies offering Iran sanctions relief, Tehran says ready for talks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNDSVp4Qi1GQVY3bEJ2d0dpZzVBbEU4NUpYQzBpV2QwaW9uVGdwdHJnQkstVFlUSTNRazRHaUVFOVFWOTJXRjhnS2dncDBNLVVsa0JiWC0zN3ktZXdvV0tWN3FrakF4aUZIX0w2RjMwVHJWc0lBZUpYU09SWmsyUmdQd3dJdXh1N3lTb1pDZ1ZEYkhOUTVPV0lhak9YM3ZxTm1vR1BmRnFnZjNUMWF0M1NabHhLblkxd05FM3dn?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 03:45 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790664300,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
           "source": "WSJ",
@@ -11863,6 +11899,20 @@
           "published": "Sep 28, 2026 · 03:00 BRT",
           "pub_date": "2026-09-28",
           "pub_ts": 1790575200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWVDcjI5dWgwWXpWMGhLWm1aMFRlQXUzNlhNekN5amMyYzcxSFdaVVFEVTVoY2hEWDM5N0ZOeEg2Z2ZWY2ZJbXEtbUdnOGtGVUZyOGRtZFpJN3J4aXoyN3BjRGZyOVIzd1o4bHBNc2hxQzlPcGJQQ0cwM21nVDFubXhFWDc?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 28, 2026 · 01:31 BRT",
+          "pub_date": "2026-09-28",
+          "pub_ts": 1790569898,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

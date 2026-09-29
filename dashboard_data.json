@@ -11025,7 +11025,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-26"
+      "pub_date": "2026-09-25"
     },
     "https://www.jpost.com/middle-east/iran-news/article-909753": {
       "summary": "A US official said on Friday that the United States is having positive, constructive discussions with Iran through mediators and continues to discuss nuclear issues.",
@@ -11429,7 +11429,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-28"
+      "pub_date": "2026-09-29"
     },
     "https://www.washingtonpost.com/world/2026/09/28/fairford-raf-base-suspects-arrested-plot/141b290c-bb51-11f1-81fc-9b76f8343b6c_story.html": {
       "summary": "",
@@ -11678,6 +11678,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-29"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-29/live-updates-910030": {
+      "summary": "Israeli settlers burn down house near Nablus, clash with Israeli forces • New details of Mossad's Hezbollah explosive pager operation revealed • IDF kills Hamas official in Gaza strike",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Hezbollah",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-29"
     }
   },
   "last_digest_success": true,
@@ -11839,12 +11852,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-29T11:09:27.967439+00:00",
   "last_generated_date": "2026-09-29",
-  "last_generated_time": "2026-09-29T13:01:56.612526+00:00",
+  "last_generated_time": "2026-09-29T14:02:08.849924+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjFUZVJMbWJUaGE0ajR1SDhOS0JpejcweGdVcWRueWczNDh3ZVdtdWRuRVNPTkgwSnZDbjZzeDFVZlB2M3pLM1Z5Qm04WGN1VFJ4c0pBRVVxQnVsWktzdFlNSS1FQVFkNjZiWks5cUdJQnRhVzhDMHJLZEE1SjZvTzBOS2U?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 13:46 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790700417,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump denies offering Iran sanctions relief, Tehran says ready for talks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNDSVp4Qi1GQVY3bEJ2d0dpZzVBbEU4NUpYQzBpV2QwaW9uVGdwdHJnQkstVFlUSTNRazRHaUVFOVFWOTJXRjhnS2dncDBNLVVsa0JiWC0zN3ktZXdvV0tWN3FrakF4aUZIX0w2RjMwVHJWc0lBZUpYU09SWmsyUmdQd3dJdXh1N3lTb1pDZ1ZEYkhOUTVPV0lhak9YM3ZxTm1vR1BmRnFnZjNUMWF0M1NabHhLblkxd05FM3dn?oc=5",

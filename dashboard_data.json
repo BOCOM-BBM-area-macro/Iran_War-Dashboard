@@ -11233,7 +11233,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-28"
+      "pub_date": "2026-09-27"
     },
     "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html": {
       "summary": "",
@@ -11520,6 +11520,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-28"
+    },
+    "https://www.wsj.com/world/middle-east/saudi-arabia-resumes-oil-exports-via-east-west-pipeline-after-repairs-sources-say-314c9ae8": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-28"
     }
   },
   "last_digest_success": true,
@@ -11681,7 +11691,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-28T11:08:52.341547+00:00",
   "last_generated_date": "2026-09-28",
-  "last_generated_time": "2026-09-28T21:02:23.248187+00:00",
+  "last_generated_time": "2026-09-28T22:01:54.279894+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -11850,6 +11860,20 @@
           "published": "Sep 25, 2026 · 04:16 BRT",
           "pub_date": "2026-09-25",
           "pub_ts": 1790320614,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXFDTzBxRUNwS0tCV0ZKaDI2Wm5RRXdCLVBYLW12YVdIeDZCX09tV3RKcEhHQ0xEM0JVMXZ1UWpiVW9wMDlkU2Y0b2ozbmZyX1I4RHhyUWphREs3NDFhaTJhcTRTbFRiY2lTV0RVMEo3RlM4X2pBRlB2Y1AtSENKSGs1VUNKZXJTSnVfLUZWMjdYZTgzOTdMenZ1bFhjejRoQXBYUWowN05OeWZ4ZGloS09GLU1aTFZtSE51Qk9hVTBlX2VwSUE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 25, 2026 · 00:49 BRT",
+          "pub_date": "2026-09-25",
+          "pub_ts": 1790308140,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -11677,7 +11677,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-28"
+      "pub_date": "2026-09-29"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-09-29/live-updates-910030": {
       "summary": "Israeli settlers burn down house near Nablus, clash with Israeli forces • New details of Mossad's Hezbollah explosive pager operation revealed • IDF kills Hamas official in Gaza strike",
@@ -11936,6 +11936,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-30"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-30/live-updates-910145": {
+      "summary": "Flydubai passengers receive medical treatment from Saudis • Sa'ar speaks with UAE foreign minister following safe landing of flydubai passengers • Donald Trump to speak with Netanyahu",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Hezbollah"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-30/shale-executives-say-iran-war-is-sowing-chaos-in-oil-markets?srnd=energy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
     }
   },
   "last_digest_success": true,
@@ -12086,7 +12109,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-30T11:10:08.937954+00:00",
   "last_generated_date": "2026-09-30",
-  "last_generated_time": "2026-09-30T16:02:13.090048+00:00",
+  "last_generated_time": "2026-09-30T17:01:56.403043+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12110,6 +12133,20 @@
           "title": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEJSRk5uM1pLS1ZkVUVLLWpUbTljc2ZVc29vWmVrWFY2bmpUWFlLdy1TTEczRk1oNnZqYmZ1dHdvUm5XOWRhUFlOTjlYNGs2UC02cGhjMmpTa3h6bW1QaDJHUU9hVElkMC0xN09XVHJKT1U1cXBOaFhtSHYtWF9FTUJyWFBaSDBjU0RRMEVUbkUtWmNkeHUtVHJ5ejBIOUFaWDN6ZUUtY1VTaEwxVXpvT1ZPZHlQTk52T3I1Z0d6Um5xWGRZY0dzYzAtS2s?oc=5",
           "source": "bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 13:40 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790786421,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0lyQThVOHVtQXZJRXNLZVpvY0xMd1NibWI4THVkNEp5NzFoUzd6Q2ZYNFUxcTlGTDNMZGtKV3dWTUhwNW1zcFBzenhOS2dIdkxTVnhEa0pTYm5mY3hrc3g4V21rUkVIdkx5dURtdVR2X0RtMk1uNHlCdUFVU0dhS0QyVkF2STVNMURaRkxWdFZaSVFYX2dfY29WSlBlY3RKenRzSDVsYmk4X0JmRno4RUZUZ1JNRnk3YnQtVk1lc3U?oc=5",
+          "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
           "published": "Sep 30, 2026 · 13:40 BRT",

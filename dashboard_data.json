@@ -11796,6 +11796,26 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.reuters.com/business/energy/oil-climbs-after-trump-denies-he-is-willing-ease-sanctions-iran-2026-09-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-29"
+    },
+    "https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
       "pub_date": "2026-09-29"
     }
   },
@@ -11964,6 +11984,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil climbs after Trump denies he is willing to ease sanctions on Iran - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 22:39 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790732340,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says he does not know if Iran is going to 'give up yet' - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalM2cldRTWlLdGZFN2FTOExtVVFrODNCbVJaeTBZMVZXVllmU2IzRHJScWd3cHl0SERRT21NdDNuSXFuaGFvak83czlLbGNfTUpkcXUzWGxYZlhfWmxWOXhaeVQ4Q0RRY2JKWlk1RjVsd2xJVklodUxiZXpJdHpLMFdnVmVxd2lXYzBjTF9sNUduZWRRb25Cdk42bFNxSWd1UTVaNTY1WXhnNm1yMmdj?oc=5",

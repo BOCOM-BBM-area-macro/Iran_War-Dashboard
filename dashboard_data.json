@@ -11776,7 +11776,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-29"
+      "pub_date": "2026-09-30"
     },
     "https://www.bloomberg.com/news/articles/2026-09-29/japan-s-output-falls-for-second-month-as-mideast-strife-drags-on": {
       "summary": "",
@@ -11876,6 +11876,16 @@
         "Iran And Israel",
         "iran israel",
         "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -12030,7 +12040,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-30T11:10:08.937954+00:00",
   "last_generated_date": "2026-09-30",
-  "last_generated_time": "2026-09-30T12:02:10.198413+00:00",
+  "last_generated_time": "2026-09-30T13:02:06.038810+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12045,6 +12055,20 @@
           "published": "Sep 30, 2026 · 11:39 BRT",
           "pub_date": "2026-09-30",
           "pub_ts": 1790779140,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT244S2RDMHZTTXRPcUszQzMzT09RV0pjLThiYjNRNG1va1JwOHNrWW5rWjhSWUpwVU9CV3hRQnVBYXVVX3hYV2xhaVFsQ1lQeWxRTTJPRkRsUG1VUFJfSGlwQnhjOU1Id0Nad3BVOTY0MlE0d0l2OVZXVVFMNU1QSnRlSVpMTjFHT2dBSEJ0MGFaQ2tJVkJBQ2dBY1B4NHFyVW5RQjlwV3FLYWJOc1NFaWI4OA?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 10:35 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790775300,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

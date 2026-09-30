@@ -11025,7 +11025,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-26"
+      "pub_date": "2026-09-25"
     },
     "https://www.jpost.com/middle-east/iran-news/article-909753": {
       "summary": "A US official said on Friday that the United States is having positive, constructive discussions with Iran through mediators and continues to discuss nuclear issues.",
@@ -11399,7 +11399,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-28"
+      "pub_date": "2026-09-29"
     },
     "https://www.washingtonpost.com/world/2026/09/28/uk-says-men-accused-terror-plot-are-british-nationals-iran-denies-links/": {
       "summary": "",
@@ -11806,7 +11806,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-29"
+      "pub_date": "2026-09-30"
     },
     "https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30/": {
       "summary": "",
@@ -11816,7 +11816,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-30"
+      "pub_date": "2026-09-29"
     },
     "https://www.bloomberg.com/news/articles/2026-09-30/china-crude-comeback-loses-steam-as-iran-war-enters-eighth-month": {
       "summary": "",
@@ -11857,6 +11857,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-29"
+    },
+    "https://www.timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-910197": {
+      "summary": "\"The consequences of a US agreement with Iran are very severe even if they do not have an effect on Israel’s freedom of action,\" former national security council head Meir Ben-Shabbat explained.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "Iran And Israel",
+        "iran israel",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
     }
   },
   "last_digest_success": true,
@@ -12007,12 +12030,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-30T11:10:08.937954+00:00",
   "last_generated_date": "2026-09-30",
-  "last_generated_time": "2026-09-30T11:01:48.263890+00:00",
+  "last_generated_time": "2026-09-30T12:02:10.198413+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Major Wall Street Banks Lift Oil-Price Forecast, Survey Shows - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnhBUXRBdFU4Uk1LNDZKSzY1T2NwSkQ4QzVNVzc3Zm9wLVVLXy11d1RDVmg4eUVIcEpKSmV1VEl1NDUzNEtEN2xfMjNfODRNMVVUMjI3YVluRmduZkRuZ1NSa242dThtOXFBUjJyNGZYaFQ0VzJSTUQ3alE0RUUzN3E1SnlRREhfYUxVUGM2REdScEFfWVlTclpmcG5HakdjSzNHMWNacnFQX0o3SlE?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 11:39 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790779140,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "China Crude Comeback Loses Steam as Iran War Enters Eighth Month - bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVM0c3hiVkJVY1BCUjBjc3RwU2hRZlNXaGhOWFN3XzFYUGczTnU4cFhMN2lVeXFhaDdmQVZZUzFvdWdvUGMwa1d0WDRzR0o3d1lRZTNJbHExVkoweFVFV0lDRDlLaTk4Znd4dk1KUDZzSURSQUlTTUlMbTh5eUg2YllKTDd5cTd6Y3VjWlVYNlJKMzNINjAtb2twUUtsWHVJMWpCbGl0amRYcVhKR2lsX0UyaVZHQQ?oc=5",
@@ -12050,6 +12087,20 @@
           "published": "Sep 29, 2026 · 18:12 BRT",
           "pub_date": "2026-09-29",
           "pub_ts": 1790716326,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Mediators push to break US-Iran deadlock - ft.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmsybG5jSXdISm1ZWFhsbmVRUjQxNzlJMEZSQzZPd25sTGRPVEFxQW9IbnFOX1ZKU2J1eWJONVlKb0ZrNFRpTVpuVUgzQnV4TnRjWGdYRFZqeTgtNURJZVY0LVF4bkxTcHA1SDJSQWp2Z1VKLXoySlo2V01zU0o0U0ZsMkY?oc=5",
+          "source": "ft.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 15:30 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790706600,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

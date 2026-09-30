@@ -11399,7 +11399,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-29"
+      "pub_date": "2026-09-28"
     },
     "https://www.washingtonpost.com/world/2026/09/28/uk-says-men-accused-terror-plot-are-british-nationals-iran-denies-links/": {
       "summary": "",
@@ -11776,7 +11776,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-30"
+      "pub_date": "2026-09-29"
     },
     "https://www.bloomberg.com/news/articles/2026-09-29/japan-s-output-falls-for-second-month-as-mideast-strife-drags-on": {
       "summary": "",
@@ -11922,6 +11922,16 @@
         "Iran nuclear",
         "Iran Nuclear Deal",
         "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.wsj.com/business/energy-oil/major-wall-street-banks-lift-oil-price-forecast-survey-shows-34ae1ab8": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -12076,7 +12086,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-30T11:10:08.937954+00:00",
   "last_generated_date": "2026-09-30",
-  "last_generated_time": "2026-09-30T15:01:56.461217+00:00",
+  "last_generated_time": "2026-09-30T16:02:13.090048+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12086,6 +12096,20 @@
           "title": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkE1Q2p0RFlYZEJFbTVoN09tU1BuSGF2OEkwUjBYbnp6RHdBZ2VacFV5OUJTNm5RaUVsd21vYlVUb0U0bVdZU1Bna1VZczhuOEd5MC11NDYtVGVodVVhS2IwMERtVlFSeGt4bGJTemxYV2cxSFJsLVFkd3p3MFlfN2ZjaWppWlBHUktRbEdGeWw3dENBYXpsdmU2bTd1ZmZ2WVFZdGtsNGFwZFV5dmJwZllFOEdPZWJFa0FKWEdEMk0xVzVoM3ZldERSNEpTWms?oc=5",
           "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 13:40 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790786421,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEJSRk5uM1pLS1ZkVUVLLWpUbTljc2ZVc29vWmVrWFY2bmpUWFlLdy1TTEczRk1oNnZqYmZ1dHdvUm5XOWRhUFlOTjlYNGs2UC02cGhjMmpTa3h6bW1QaDJHUU9hVElkMC0xN09XVHJKT1U1cXBOaFhtSHYtWF9FTUJyWFBaSDBjU0RRMEVUbkUtWmNkeHUtVHJ5ejBIOUFaWDN6ZUUtY1VTaEwxVXpvT1ZPZHlQTk52T3I1Z0d6Um5xWGRZY0dzYzAtS2s?oc=5",
+          "source": "bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
           "published": "Sep 30, 2026 · 13:40 BRT",

@@ -11429,7 +11429,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-28"
+      "pub_date": "2026-09-29"
     },
     "https://www.washingtonpost.com/world/2026/09/28/fairford-raf-base-suspects-arrested-plot/141b290c-bb51-11f1-81fc-9b76f8343b6c_story.html": {
       "summary": "",
@@ -11747,6 +11747,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-29"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-he-does-not-know-if-iran-is-going-give-up-yet-2026-09-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-29"
+    },
+    "https://www.axios.com/2026/09/29/trump-iran-war-qatar-diplomacy": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-29"
     }
   },
   "last_digest_success": true,
@@ -11908,12 +11928,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-29T11:09:27.967439+00:00",
   "last_generated_date": "2026-09-29",
-  "last_generated_time": "2026-09-29T20:01:51.543496+00:00",
+  "last_generated_time": "2026-09-29T21:02:09.346984+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump says he does not know if Iran is going to 'give up yet' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalM2cldRTWlLdGZFN2FTOExtVVFrODNCbVJaeTBZMVZXVllmU2IzRHJScWd3cHl0SERRT21NdDNuSXFuaGFvak83czlLbGNfTUpkcXUzWGxYZlhfWmxWOXhaeVQ4Q0RRY2JKWlk1RjVsd2xJVklodUxiZXpJdHpLMFdnVmVxd2lXYzBjTF9sNUduZWRRb25Cdk42bFNxSWd1UTVaNTY1WXhnNm1yMmdj?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 18:12 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790716326,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzc4cTNMeUhoSHg2R2Mxa1hVMUtWb2xGbk92dHp0aWUzejZKbWVVbjBRb240dzRuX0dNVTMwbDVPOXRJbWJhT28xTEpwTGMyZEZKMXpSTlJFLTRVZkd6RDVzYk9vZFBKNkNEdE9ENFo0WDhXaWRTZ2Q0bzBpeEFRUDM5WF9JOFpBYmJ6U3ZkRnRtdFBUQmkzN0M3WEtsazI5TDFPNEl3eHViVGNuSlJHZzBVbFN6eXdrVVNYWmx2OA?oc=5",
@@ -11937,6 +11971,20 @@
           "published": "Sep 29, 2026 · 13:46 BRT",
           "pub_date": "2026-09-29",
           "pub_ts": 1790700417,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iranians stagger under soaring costs of seven months of war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkZiODJvYlVSWTFTXzU5NnY5dV9vQzAya01EME94cUZRdmtITkpwTnR2UWVLX0gtY2hOX0k5bE1mbUpSSjhGMU43NDRqQkJJaWVVVmt6d1p3cmJnVGdJQkg3U0RtUTZXVDRzVUNJdnB3bDdiUmVLTDF0ZXc1a3FnTi1qMVNOZUxxeVFZR1JxbDZUaFVmT2RIWDlTN292SFBUZlVYUDZwNG0?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 12:10 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790694618,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -12049,6 +12097,20 @@
           "published": "Sep 28, 2026 · 14:03 BRT",
           "pub_date": "2026-09-28",
           "pub_ts": 1790614980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US, Iran separately talk with mediators in latest bid to end war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 28, 2026 · 10:39 BRT",
+          "pub_date": "2026-09-28",
+          "pub_ts": 1790602740,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

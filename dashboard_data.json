@@ -11677,7 +11677,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-29"
+      "pub_date": "2026-09-28"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-09-29/live-updates-910030": {
       "summary": "Israeli settlers burn down house near Nablus, clash with Israeli forces • New details of Mossad's Hezbollah explosive pager operation revealed • IDF kills Hamas official in Gaza strike",
@@ -11890,6 +11890,42 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-30/shale-executives-say-iran-war-is-sowing-chaos-in-oil-markets?srnd=homepage-americas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-910219": {
+      "summary": "\"We have learned a lot about responding to home front disasters emanating from multiple fronts,\" the district commander said about the most recent drill he directed in the Haifa region.",
+      "tags": [
+        "Haifa",
+        "Hezbollah",
+        "Home Front Command",
+        "iran war scenario",
+        "missile attacks"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.jpost.com/middle-east/article-910222": {
+      "summary": "In an interview with the Post, Trump aide Sebastian Gorka said that the president will not dilute his demands in any version of a potential Iran deal.",
+      "tags": [
+        "Iran",
+        "Ayatollah Ali Khamenei",
+        "Iran nuclear",
+        "Iran Nuclear Deal",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
     }
   },
   "last_digest_success": true,
@@ -12040,12 +12076,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-30T11:10:08.937954+00:00",
   "last_generated_date": "2026-09-30",
-  "last_generated_time": "2026-09-30T14:02:10.572448+00:00",
+  "last_generated_time": "2026-09-30T15:01:56.461217+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkE1Q2p0RFlYZEJFbTVoN09tU1BuSGF2OEkwUjBYbnp6RHdBZ2VacFV5OUJTNm5RaUVsd21vYlVUb0U0bVdZU1Bna1VZczhuOEd5MC11NDYtVGVodVVhS2IwMERtVlFSeGt4bGJTemxYV2cxSFJsLVFkd3p3MFlfN2ZjaWppWlBHUktRbEdGeWw3dENBYXpsdmU2bTd1ZmZ2WVFZdGtsNGFwZFV5dmJwZllFOEdPZWJFa0FKWEdEMk0xVzVoM3ZldERSNEpTWms?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 13:40 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790786421,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Major Wall Street Banks Lift Oil-Price Forecast, Survey Shows - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnhBUXRBdFU4Uk1LNDZKSzY1T2NwSkQ4QzVNVzc3Zm9wLVVLXy11d1RDVmg4eUVIcEpKSmV1VEl1NDUzNEtEN2xfMjNfODRNMVVUMjI3YVluRmduZkRuZ1NSa242dThtOXFBUjJyNGZYaFQ0VzJSTUQ3alE0RUUzN3E1SnlRREhfYUxVUGM2REdScEFfWVlTclpmcG5HakdjSzNHMWNacnFQX0o3SlE?oc=5",

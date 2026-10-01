@@ -10485,7 +10485,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-23"
+      "pub_date": "2026-09-25"
     },
     "https://www.reuters.com/business/energy/oil-prices-edge-lower-iran-says-it-is-open-diplomacy-end-war-2026-09-24/": {
       "summary": "",
@@ -11776,7 +11776,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-30"
+      "pub_date": "2026-09-29"
     },
     "https://www.bloomberg.com/news/articles/2026-09-29/japan-s-output-falls-for-second-month-as-mideast-strife-drags-on": {
       "summary": "",
@@ -12139,12 +12139,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-30T11:10:08.937954+00:00",
   "last_generated_date": "2026-09-30",
-  "last_generated_time": "2026-09-30T21:01:50.479745+00:00",
+  "last_generated_time": "2026-09-30T22:01:56.656134+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "How the U.S. got oil shipments moving and what it would take to bring prices down - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEVDaGlGOWZKcXREN1ZKVmI4UzdiY2FIZXVDMXJDMmRNTGxMeURydXpZNEtEbExOWXRmRUNiRVAzSzZuWS1va0x0akNQWVJHaHctNGJVcm9MczdlTHpOSDVfdWtsOTl2d3pFTFlacUIzQ0NJMzkwZWpRSkNsVjF0Y0RpY0RrYkd3T2M2YXkyMVprVGM5Q05hNVY4TnBtcDgxeUVUR2Z3T2h1emc?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 18:51 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790805095,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkE1Q2p0RFlYZEJFbTVoN09tU1BuSGF2OEkwUjBYbnp6RHdBZ2VacFV5OUJTNm5RaUVsd21vYlVUb0U0bVdZU1Bna1VZczhuOEd5MC11NDYtVGVodVVhS2IwMERtVlFSeGt4bGJTemxYV2cxSFJsLVFkd3p3MFlfN2ZjaWppWlBHUktRbEdGeWw3dENBYXpsdmU2bTd1ZmZ2WVFZdGtsNGFwZFV5dmJwZllFOEdPZWJFa0FKWEdEMk0xVzVoM3ZldERSNEpTWms?oc=5",

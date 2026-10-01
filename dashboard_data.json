@@ -12012,48 +12012,131 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-01"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-barely-changed-investors-assess-us-iran-peace-talks-gulf-exports-2026-10-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-30"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-01/diesel-prices-at-record-highs-in-the-us-as-iran-war-hits-seventh-month?srnd=homepage-americas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-01"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-30T11:09:54.530888+00:00",
+  "last_digest_time": "2026-10-01T11:08:15.446914+00:00",
   "digest": {
-    "digest": "The ongoing conflict between the US and Iran has entered its eighth month, with significant geopolitical shifts occurring. The withdrawal of US forces from Iraq marks a pivotal moment, creating an opening for Iran and its proxies, while also potentially emboldening groups like Islamic State. Diplomatic efforts to de-escalate the situation are ongoing, with Qatari mediators actively pressing for peace deals and shuttling proposals between US and Iranian officials. However, these talks have yielded little progress, increasing the odds of renewed combat. The economic impact is notable, with Iranians facing soaring costs due to the prolonged war. Simultaneously, Middle Eastern oil exports have risen to their highest level since the war began, with shuttle services through the Strait of Hormuz facilitating shipments at over 80% of the pre-war daily average. Despite these developments, oil prices have gained as stalled US-Iran talks overshadow concerns about supply recovery.",
+    "digest": "Diplomatic efforts to end the Iran war are ongoing, with Iran indicating it has received official US responses to its latest proposals regarding a seven-day trust-building plan. Despite these diplomatic overtures, there are concerns that mounting pressure on Iran could still lead to an attack on Israel, even if a US agreement is reached. The ongoing conflict, now in its eighth month, continues to significantly impact global oil markets. Oil prices have seen a notable rise, with some reports indicating a 2% increase, driven by disruptions and uncertainty. Major Wall Street banks have revised their oil-price forecasts upward, reflecting the market's volatility. Shale executives are specifically noting that the Iran war is sowing chaos in oil markets, contributing to record-high diesel prices that are affecting truckers and consumer wallets. Concurrently, US forces are withdrawing from Iraq, a development that appears to be shifting the balance of power in the region towards Iran. In a separate development, US Defense Secretary Pete Hegseth's recent speech targeted diversity, transgender people, reporters, and Iran, notably accusing reporters of 'treason' concerning coverage of the Iran war, indicating a complex domestic political discourse surrounding the conflict.",
     "top_themes": [
-      "US troop withdrawal from Iraq",
-      "Stalled US-Iran talks",
-      "Impact on oil markets"
+      "Iran War Diplomacy",
+      "Oil Market Volatility",
+      "US Policy in Middle East"
     ],
     "next_events": [
       {
-        "title": "Future of US-Iran Peace Negotiations",
-        "description": "Watch for any progress in the stalled US-Iran talks, especially with Qatari mediation efforts and new proposals. A diplomatic breakthrough could lead to a peace deal, while continued deadlock significantly raises the odds of renewed combat and prolonged conflict."
+        "title": "US-Iran Diplomatic Progress and Trust-Building Efforts",
+        "description": "Articles 1 and 7 indicate ongoing communication between the US and Iran regarding peace offers and trust-building plans. Analysts should monitor the nature of these responses and any concrete steps taken, as they could signal de-escalation or a continued impasse in the conflict."
       },
       {
-        "title": "Iran's Expanding Regional Influence Post-US Iraq Withdrawal",
-        "description": "With US forces exiting Iraq, monitor how Iran leverages this power vacuum to strengthen its proxies and influence within the country. This shift could reshape the regional balance of power and potentially lead to increased instability or new alliances."
+        "title": "Global Oil Market Volatility and Supply Chain Impacts",
+        "description": "Multiple articles (2, 8, 9, 10) highlight rising oil prices, increased forecasts, and market chaos directly attributed to the Iran War. Watch for further price surges, supply disruptions, and the ripple effects on global economies, particularly diesel prices and consumer wallets (Article 3)."
       },
       {
-        "title": "Economic Strain on Iran and Global Oil Market Impact",
-        "description": "Observe the ongoing economic impact of the war on Iran, including soaring costs and potential social unrest, which could affect its willingness to negotiate. Simultaneously, track how the conflict's duration and any changes in Middle Eastern oil exports affect global crude prices and supply recovery."
+        "title": "Shifting Balance of Power in Iraq and US Military Posture",
+        "description": "Article 4 notes the US withdrawal of forces from Iraq, leading to a perceived shift in power towards Iran. Analysts should observe how this impacts regional stability, the influence of Iranian-backed groups, and any further adjustments to US military presence in the Middle East."
       },
       {
-        "title": "Increased Likelihood of Renewed or Escalated Combat",
-        "description": "Given the stalled talks and the war entering its eighth month, analysts should watch for any signs of military escalation or renewed combat. A failure of diplomatic efforts could lead to a more intense phase of the conflict, impacting regional stability."
+        "title": "Potential for Iran-Israel Conflict Escalation",
+        "description": "Article 6 warns that mounting pressure on Iran could lead to an attack on Israel, despite ongoing US peace talks. Monitor any rhetoric, military movements, or proxy actions that could indicate an increased risk of direct confrontation between Iran and Israel."
+      },
+      {
+        "title": "China's Energy Demand and its Impact on Global Oil Markets",
+        "description": "Articles 2 and 9 mention China's fuel exports suspension and its crude comeback losing steam due to the Iran War. Watch for changes in China's energy policy, its demand for crude, and how these factors further influence global oil prices and market stability amidst the ongoing conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-30T11:10:08.386062+00:00",
+  "last_watch_time": "2026-10-01T11:08:22.631680+00:00",
   "relevant_news": [
     {
-      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - reuters.com",
-      "url": "https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/",
-      "source": "reuters.com",
+      "title": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Sep 30, 2026 · 11:09 BRT",
+      "pub_date": "2026-09-30",
+      "pub_ts": 1790777340,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. withdraws forces in Iraq as balance of power shifts to Iran - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/09/29/us-withdraws-forces-iraq-balance-power-shifts-iran/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Sep 30, 2026 · 17:45 BRT",
+      "pub_date": "2026-09-30",
+      "pub_ts": 1790801112,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Mounting pressure on Iran could lead to attack on Israel despite US peace talks - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-910197",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Sep 30, 2026 · 11:52 BRT",
+      "pub_date": "2026-09-30",
+      "pub_ts": 1790779938,
+      "summary": "\"The consequences of a US agreement with Iran are very severe even if they do not have an effect on Israel’s freedom of action,\" former national security council head Meir Ben-Shabbat explained.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "Iran And Israel",
+        "iran israel",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran receives US feedback on seven-day trust-building plan - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-receives-us-feedback-seven-day-trust-building-plan-2026-09-30/",
+      "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 29, 2026 · 21:01 BRT",
-      "pub_date": "2026-09-29",
-      "pub_ts": 1790726460,
+      "published": "Sep 30, 2026 · 04:29 BRT",
+      "pub_date": "2026-09-30",
+      "pub_ts": 1790753358,
       "summary": "",
       "tags": [
         "extracted",
@@ -12065,9 +12148,9 @@
       "sentiment_success": false
     },
     {
-      "title": "China Crude Comeback Loses Steam as Iran War Enters Eighth Month - Bloomberg.com",
+      "title": "China Crude Comeback Loses Steam as Iran War Enters Eighth Month - bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-09-30/china-crude-comeback-loses-steam-as-iran-war-enters-eighth-month",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
       "published": "Sep 30, 2026 · 06:00 BRT",
@@ -12084,74 +12167,18 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S.-Iran talks yield little, raising odds of renewed combat - Axios",
-      "url": "https://www.axios.com/2026/09/29/trump-iran-war-qatar-diplomacy",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Sep 29, 2026 · 19:58 BRT",
-      "pub_date": "2026-09-29",
-      "pub_ts": 1790722739,
+      "title": "Shale Executives Say Iran War Is Sowing Chaos in Oil Markets - bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/shale-executives-say-iran-war-is-sowing-chaos-in-oil-markets",
+      "source": "bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 30, 2026 · 13:40 BRT",
+      "pub_date": "2026-09-30",
+      "pub_ts": 1790786421,
       "summary": "",
       "tags": [
         "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iranians stagger under soaring costs of seven months of war - reuters.com",
-      "url": "https://www.reuters.com/business/energy/iranians-stagger-under-soaring-costs-seven-months-war-2026-09-29/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 29, 2026 · 07:15 BRT",
-      "pub_date": "2026-09-29",
-      "pub_ts": 1790676900,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
-      "url": "https://www.ft.com/content/26c54c8c-931c-4d84-9cf3-fd3e9b5e215d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Sep 29, 2026 · 13:46 BRT",
-      "pub_date": "2026-09-29",
-      "pub_ts": 1790700417,
-      "summary": "Shuttle services through Strait of Hormuz have brought shipments to more than 80% of prewar daily average",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Opinion | Why Iran May Be America’s Last Mideast War - WSJ",
-      "url": "https://www.wsj.com/opinion/iran-may-be-americas-last-mideast-war-723f2e35",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Sep 29, 2026 · 12:39 BRT",
-      "pub_date": "2026-09-29",
-      "pub_ts": 1790696340,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -12160,9 +12187,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-30T11:10:08.937954+00:00",
-  "last_generated_date": "2026-09-30",
-  "last_generated_time": "2026-09-30T23:01:54.817940+00:00",
+  "last_relevant_time": "2026-10-01T11:08:23.018845+00:00",
+  "last_generated_date": "2026-10-01",
+  "last_generated_time": "2026-10-01T08:01:54.691993+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12177,6 +12204,20 @@
           "published": "Oct 01, 2026 · 06:06 BRT",
           "pub_date": "2026-10-01",
           "pub_ts": 1790845604,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices rise 2% as China suspends fuel exports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGNFYVVqQ0xkMTkyblJkMU5mMnJ6Y1RhTEhBWjJyWEhDaXdCVzg3aF9pWTFYdVkyN3d5WmpIRDdHQ283dUJhVlV4WTJzSEMwTy1uZkhwS2NNNndEZlhJY2lGTHgtRng1TjQ0XzRWdUNnUjRPQ2ZoaDg2UlJ1cTgtRGZHbTNVcUVFenI1SlIxREdDbWJJX25kWFY2ZWxxVzRyOFl3SGZzbjZUWEk2NklWOUR2UzEwanpPSzU1TnJyXzVveDRoX2c?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 22:10 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790817000,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

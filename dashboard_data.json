@@ -12044,7 +12044,7 @@
       "pub_date": "2026-10-01"
     },
     "https://www.nytimes.com/2026/10/01/business/energy-environment/oil-prices-iran-war-trump.html": {
-      "summary": "",
+      "summary": "Crude oil costs close to $100 a barrel because traders are worried hostilities could soon restart and the world is burning through its emergency stockpiles.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -12117,7 +12117,7 @@
       "pub_date": "2026-10-01"
     },
     "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html": {
-      "summary": "",
+      "summary": "British police said a 25-year-old British-Iranian dual national was arrested Thursday. British officials have said they believe Iran played a part in planning the incident at R.A.F. Fairford.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -12187,6 +12187,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-01/us-may-soon-base-three-carriers-near-iran-official-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -12348,7 +12358,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-01T11:08:23.018845+00:00",
   "last_generated_date": "2026-10-01",
-  "last_generated_time": "2026-10-01T20:01:53.301599+00:00",
+  "last_generated_time": "2026-10-01T21:01:55.795806+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

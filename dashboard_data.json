@@ -12304,6 +12304,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-02"
+    },
+    "https://www.reuters.com/business/energy/opec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-2026-10-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-02"
     }
   },
   "last_digest_success": true,
@@ -12459,12 +12469,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-02T11:09:29.713416+00:00",
   "last_generated_date": "2026-10-02",
-  "last_generated_time": "2026-10-02T08:01:51.395457+00:00",
+  "last_generated_time": "2026-10-02T09:01:38.183573+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2J4Zm9OdTE5aTNUN1dqemFJaWxyamJKSXQ2WGpLeWhLMkgxbkVPU01vS2hVbXd5WEFhMDh5a21lcVNacXUyV0M5cEljbkJfRUdkcHJ0YTNBQVpHRENNRVVfZzQ3S3lwT3F0eUJNUmF5OGpXN1BKbG9Jc28tRGdZM0xVZFhMcFhTTktYbnVWQThvSXRjZ250enQ0Y1N2RHBSTTFZRkY5U2RJQ3Q0Zmk1X19yRDlrQ0phaUlkSDg2V3dTSXg2VzBqc2tacw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 02, 2026 · 08:21 BRT",
+          "pub_date": "2026-10-02",
+          "pub_ts": 1790940076,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Extends Gain as Middle East Conflict Threatens to Escalate - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3BKaVYtSFZuc0kyNzB4UGdFbUhRQ0oxWEJNcjhsTnhNTG0yeHBXYzZ2cUZCUzJ4RnlUNThTUFJYSGJwbFdLOGhEV21QRzlqWHFhNVhINzBLN0pwdnhiVzFQZU1GT2JwMGJLa3dET1RZY0dJajYxVW1wSk82YkxwSDVHUU5kXzF3OXV3aU93WWZOYkhCMWw5VmQ0eTk?oc=5",
@@ -17202,6 +17226,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "EXCLUSIVE: Europe weighs new diesel stocks release after US pressure, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 02, 2026 · 08:08 BRT",
+          "pub_date": "2026-10-02",
+          "pub_ts": 1790939321,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GZWJiTE13MVl5T1FpRFBOSER4dm1yU0V4TGVwS09KbG1XTGxROEQ0cjlUZUE4Mmd5LVB5eHdXN3hLNDdoX3A0Z2ItdU44WGszMVZIelJGYVBDXzh2M05WQVEwODhERzVpRlhlQzJWQUFJdk9zS0JuNGJ3N0dkZw?oc=5",

@@ -12150,7 +12150,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-01"
+      "pub_date": "2026-10-02"
     },
     "https://www.reuters.com/world/africa/us-waives-rights-conditions-320-million-military-aid-egypt-letter-shows-2026-10-01/": {
       "summary": "",
@@ -12190,7 +12190,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-01"
+      "pub_date": "2026-10-02"
     },
     "https://www.bloomberg.com/news/articles/2026-10-01/us-may-soon-base-three-carriers-near-iran-official-says": {
       "summary": "",
@@ -12227,6 +12227,16 @@
       "tags": [
         "extracted",
         "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-01"
+    },
+    "https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9?syn-25a6b1a6=1": {
+      "summary": "Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -12394,6 +12404,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Extends Gain as Middle East Conflict Threatens to Escalate - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3BKaVYtSFZuc0kyNzB4UGdFbUhRQ0oxWEJNcjhsTnhNTG0yeHBXYzZ2cUZCUzJ4RnlUNThTUFJYSGJwbFdLOGhEV21QRzlqWHFhNVhINzBLN0pwdnhiVzFQZU1GT2JwMGJLa3dET1RZY0dJajYxVW1wSk82YkxwSDVHUU5kXzF3OXV3aU93WWZOYkhCMWw5VmQ0eTk?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 01, 2026 · 22:00 BRT",
+          "pub_date": "2026-10-01",
+          "pub_ts": 1790902800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran Loaded No Oil Onto Tankers Last Month as US Blockade Bites - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjhFSXAtUDJKakpZSVdmUWp4bGc3TUJsd05XOS1qSndoU3hsWWNkMDBDa2RzVU9Id0podUNyMFhLV0Q1bFRqZEdFSm9tQ0owZEdzTi1LNGpiYlcyZTRBNGR3QjhHaVpVcUtrY0l5QmJDd015S3NaZUdZZWIyTWhwNHRXRWNCbUczQ0Q2MmdHWk94ZXl0ckdhZVptXy1uUTE3Z1ZqeUlhbW1lRnZyMDR6SUNEd2E?oc=5",

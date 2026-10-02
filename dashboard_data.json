@@ -12334,6 +12334,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-02"
+    },
+    "https://www.reuters.com/3fec1b0a85a0/world/middle-east/iran-readies-harder-retaliation-if-attacked-diplomacy-faces-long-odds-2026-10-01/": {
+      "summary": "Iran is preparing a broader and more forceful response if the United States resumes large-scale military attacks, sources said, while continuing a diplomatic push that Iranian officials privately see as unlikely to succeed.",
+      "tags": [
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "ANV",
+        "EREP",
+        "ANLINS"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-02"
     }
   },
   "last_digest_success": true,
@@ -12489,7 +12502,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-02T11:09:29.713416+00:00",
   "last_generated_date": "2026-10-02",
-  "last_generated_time": "2026-10-02T13:01:53.706675+00:00",
+  "last_generated_time": "2026-10-02T14:01:51.943024+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -12728,6 +12741,20 @@
           "published": "Sep 30, 2026 · 03:47 BRT",
           "pub_date": "2026-09-30",
           "pub_ts": 1790750820,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 23:48 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790736480,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -20449,6 +20476,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "COMMENTARY: China's metal-heavy commodity imports map a messy energy transition - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNW1fS1c5RmstV3VOaDMya3NQSjlTTE5NNGdteVU4b0JJdGM2aUpVaHk4LVRJRjdBeE9BejE3YjZoQ08yenNKNlBveXNIUXVhd0g5ajRtSlA2alQ0YkViZWx5WmRqbXQzandfS2VGWEszMFhKeHJkcWV6RGVpZnc4NTFXLWJ1Sk1UTkZHT1hHV2tfRlFnQ1Q4NGczUTVRLTRpSGxWRUlLckY2SHJCZFpFQzh5TFVGYlRKTWRlcWVhdzlkLUU1WVNzV1NVcmxqUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 30, 2026 · 04:00 BRT",
+          "pub_date": "2026-09-30",
+          "pub_ts": 1790751600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump vows victory in Iran war 'very soon,' officials in talks with Iranian mediators - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5d1BBRkxud0ZmS3I0UExQZU44WXdkSkxYSVJsNWlOa3FDWDVMYUgwNzdvdHJJZEc4V29Tb2JoOFpkekZWV1U0MWlTeXpDU3ZKT2xUSHFlNGxfckdGYjRFUVRyQmlHZ3RSZVE?oc=5",

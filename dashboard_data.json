@@ -12468,7 +12468,7 @@
       "pub_date": "2026-10-03"
     },
     "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html": {
-      "summary": "",
+      "summary": "Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -12532,6 +12532,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-03"
+    },
+    "https://www.jpost.com/j-spot/article-910469": {
+      "summary": "Irish dance troupe Celtic Throne will perform across Israel in a major four-city November tour.",
+      "tags": [
+        "dance",
+        "dancer",
+        "Ireland",
+        "entertainment",
+        "Culture in Israel"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-03"
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-03/us-military-buildup-raises-iran-escalation-risk-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-02"
     }
   },
   "last_digest_success": true,
@@ -12682,7 +12705,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-03T11:07:41.046847+00:00",
   "last_generated_date": "2026-10-03",
-  "last_generated_time": "2026-10-03T13:01:50.433032+00:00",
+  "last_generated_time": "2026-10-03T14:01:54.785566+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -12446,43 +12446,126 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-03"
+    },
+    "https://www.reuters.com/world/middle-east/aboard-uss-george-washington-young-sailors-adjust-war-with-iran-2026-10-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-03"
+    },
+    "https://www.reuters.com/wider-image/uss-george-washington-young-sailors-adjust-war-with-iran-2026-10-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-03"
+    },
+    "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-03"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-02T11:09:20.656662+00:00",
+  "last_digest_time": "2026-10-03T11:07:32.915516+00:00",
   "digest": {
-    "digest": "The Pentagon has announced increased combat pay for troops and is preparing for a potential surge of naval forces in the Middle East, including the addition of a carrier and 10,000 troops. This military buildup coincides with ongoing concerns about Iran's actions in the Strait of Hormuz, despite increased oil flows. September LNG shipments through the strait reached their highest point since the start of the US-Iran war. Economically, the conflict's duration is projected to push fuel subsidies above $1 trillion, according to UN estimates, while US sanctions continue to target Iran's auto and rail sectors, impacting its shipping lanes. Iran is reportedly preparing for harder retaliation if attacked, indicating a readiness for escalation. Diplomacy faces long odds, with Washington and Tehran continuing to talk past each other, and Iran's options are narrowing under US pressure and a nuclear impasse. In a notable diplomatic move, the US has waived a rights condition on Egypt military aid, citing the Iran war. Military leaders are also examining ways to limit civilian deaths, with U.S. Central Command scheduling a conference seven months into the conflict.",
+    "digest": "The United States is increasing its military presence in the Middle East, with plans to deploy additional forces and higher combat pay announced for personnel engaged in the conflict with Iran. Secret meetings involving top national security aides have occurred to discuss the ongoing war, now in its eighth month, as the US midterm elections approach. Diplomacy between Washington and Tehran faces long odds, with both sides appearing to communicate past each other. Iran is preparing for harder retaliation if attacked and continues to pose a threat to the Strait of Hormuz, launching drones and missiles at commercial ships weekly, despite frequent failures to strike targets. This ongoing disruption has impacted oil flows and led to the delay of an OPEC+ oil capacity review. In parallel, Saudi Arabia is planning an assault on the Houthis to break the Red Sea chokehold, and Iraq has received US permission to resume flights to Iran.",
     "top_themes": [
-      "Military Buildup",
-      "Economic Impact",
-      "Diplomatic Stalemate"
+      "Military Posturing",
+      "Diplomatic Stalemate",
+      "Economic Impact"
     ],
     "next_events": [
       {
-        "title": "US Military Buildup and Potential for Escalation",
-        "description": "The Pentagon is preparing for a potential surge of naval forces and has added a carrier and 10,000 troops to the Mideast. Analysts should closely monitor the deployment and activities of these forces, as well as any Iranian counter-movements, which could signal an increased risk of direct confrontation or expanded military operations."
+        "title": "US Strategic Deliberations and Military Posture",
+        "description": "Secret high-level meetings and increased military deployments signal potential shifts in US strategy regarding the Iran war. Analysts should watch for further announcements on force deployments, changes in combat pay, and any public statements indicating a more aggressive or conciliatory approach, especially as midterm elections approach."
       },
       {
-        "title": "Iran's Strategic Response to Deepening Pressure",
-        "description": "Amid intensifying US pressure, sanctions, and a nuclear impasse, Iran is weighing its options and has stated it will ready harder retaliation if attacked. Watch for any shifts in Iran's nuclear program, its response to targeted sanctions on key sectors, or any actions that could be perceived as desperate measures, potentially leading to a wider conflict."
+        "title": "Iran's Retaliation and Maritime Threats",
+        "description": "Iran's stated readiness for 'harder retaliation' and its continued menacing of the Strait of Hormuz with drones and missiles pose significant risks. Monitor for any direct retaliatory actions against US or allied assets, and observe the frequency and success rate of attacks on commercial shipping in the Strait of Hormuz, which could escalate maritime tensions."
       },
       {
-        "title": "Strait of Hormuz Security and Global Energy Flows",
-        "description": "Despite increased LNG shipments, Iran continues to menace the Strait of Hormuz, a critical choke point for global energy. Analysts should closely monitor any Iranian actions or threats targeting shipping, as well as the effectiveness of international efforts to secure the strait, given its significant impact on oil prices and global fuel subsidies."
+        "title": "Regional Proxy Conflicts and Red Sea Security",
+        "description": "Saudi Arabia's planned assault on Houthis to break the Red Sea chokehold indicates a potential escalation of proxy conflicts. Watch for the execution of these plans and their impact on regional stability, as well as any shifts in Iraq's diplomatic and economic relations with Iran, which could signal broader alliance realignments."
       },
       {
-        "title": "Diplomatic Deadlock and Sanctions Impact on Iran",
-        "description": "Washington and Tehran continue to talk past each other, with diplomacy facing long odds, while the US has intensified sanctions on Iran's auto and rail sectors. Watch for any unexpected diplomatic overtures or back-channel communications, alongside the tangible economic impact of the blockade on Iran, which could influence its strategic decisions."
-      },
-      {
-        "title": "Regional Spillover and Israeli Preparedness",
-        "description": "A senior Israeli defense official noted Iran's narrowed room for maneuver and Israel's preparedness for potential escalation. Analysts should monitor IRGC activities, any cross-border incidents, and the broader regional dynamics, as an Iranian move could spiral out of control and draw in other regional actors."
+        "title": "Global Energy Market Stability",
+        "description": "The Iran war has already disrupted OPEC+'s oil capacity review and continues to threaten the Strait of Hormuz, a vital energy chokepoint. Analysts should monitor for further delays in OPEC+ decisions and any incidents in the Strait that could impact LNG and oil shipments, potentially leading to significant global energy price volatility."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-02T11:09:29.270431+00:00",
+  "last_watch_time": "2026-10-03T11:07:40.535937+00:00",
   "relevant_news": [
+    {
+      "title": "Aboard the USS George Washington, young sailors adjust to war with Iran - reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/aboard-uss-george-washington-young-sailors-adjust-war-with-iran-2026-10-03/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 03, 2026 · 07:31 BRT",
+      "pub_date": "2026-10-03",
+      "pub_ts": 1791023503,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran readies harder retaliation if attacked as diplomacy faces long odds - reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/iran-readies-harder-retaliation-if-attacked-diplomacy-faces-long-odds-2026-10-01/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 02, 2026 · 11:32 BRT",
+      "pub_date": "2026-10-02",
+      "pub_ts": 1790951530,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - reuters.com",
+      "url": "https://www.reuters.com/business/energy/opec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-2026-10-02/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 02, 2026 · 09:54 BRT",
+      "pub_date": "2026-10-02",
+      "pub_ts": 1790945646,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "Pentagon announces higher combat pay amid war with Iran - The Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2026/10/01/pentagon-announces-higher-combat-pay-amid-war-with-iran/",
@@ -12503,6 +12586,25 @@
       "sentiment_success": false
     },
     {
+      "title": "September LNG shipments through Hormuz hit highest since start of US-Iran war - reuters.com",
+      "url": "https://www.reuters.com/business/energy/september-lng-shipments-through-hormuz-hit-highest-since-start-us-iran-war-2026-10-02/",
+      "source": "reuters.com",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 02, 2026 · 04:47 BRT",
+      "pub_date": "2026-10-02",
+      "pub_ts": 1790927278,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
       "title": "Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz - The New York Times",
       "url": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html",
       "source": "The New York Times",
@@ -12511,97 +12613,20 @@
       "published": "Oct 02, 2026 · 01:01 BRT",
       "pub_date": "2026-10-02",
       "pub_ts": 1790913679,
-      "summary": "",
+      "summary": "Iran has been launching drones and missiles at commercial ships in the waterway each week, though it has often failed to strike its targets, according to a Western security official.",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Fuel Subsidies May Top $1 Trillion As Iran War Drags, UN Says - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/fuel-subsidies-may-top-1-trillion-as-iran-war-drags-un-says",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Oct 02, 2026 · 01:01 BRT",
-      "pub_date": "2026-10-02",
-      "pub_ts": 1790913660,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-sanctions-target-irans-auto-rail-sectors-after-blockade-chokes-shipping-lanes-2026-10-01/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 01, 2026 · 17:52 BRT",
-      "pub_date": "2026-10-01",
-      "pub_ts": 1790887933,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran readies harder retaliation if attacked as diplomacy faces long odds - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-readies-harder-retaliation-if-attacked-diplomacy-faces-long-odds-2026-10-01/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 01, 2026 · 08:16 BRT",
-      "pub_date": "2026-10-01",
-      "pub_ts": 1790853360,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US Adds Carrier and 10,000 Troops to Mideast, Official Says - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/us-may-soon-base-three-carriers-near-iran-official-says",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Oct 01, 2026 · 23:32 BRT",
-      "pub_date": "2026-10-01",
-      "pub_ts": 1790908320,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-02T11:09:29.713416+00:00",
-  "last_generated_date": "2026-10-02",
-  "last_generated_time": "2026-10-02T23:01:41.036169+00:00",
+  "last_relevant_time": "2026-10-03T11:07:41.046847+00:00",
+  "last_generated_date": "2026-10-03",
+  "last_generated_time": "2026-10-03T08:02:04.156229+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -12402,7 +12402,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-02"
+      "pub_date": "2026-10-03"
     },
     "https://www.jpost.com/middle-east/iran-news/article-910445": {
       "summary": "The US and its partners said they would strengthen intelligence sharing to prevent Iran from acquiring or transferring technology linked to the development of weapons of mass destruction.",
@@ -12412,6 +12412,16 @@
         "iran negotiations",
         "Iran nuclear news",
         "us iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-03"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-03/pressure-builds-on-iran-as-trump-expands-us-military-presence?srnd=homepage-americas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

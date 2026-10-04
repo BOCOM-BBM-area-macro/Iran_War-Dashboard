@@ -12634,144 +12634,67 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-to-increase-the-range-of-its-missiles-army-spokesperson-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-03T11:07:32.915516+00:00",
+  "last_digest_time": "2026-10-04T11:07:58.579914+00:00",
   "digest": {
-    "digest": "The United States is increasing its military presence in the Middle East, with plans to deploy additional forces and higher combat pay announced for personnel engaged in the conflict with Iran. Secret meetings involving top national security aides have occurred to discuss the ongoing war, now in its eighth month, as the US midterm elections approach. Diplomacy between Washington and Tehran faces long odds, with both sides appearing to communicate past each other. Iran is preparing for harder retaliation if attacked and continues to pose a threat to the Strait of Hormuz, launching drones and missiles at commercial ships weekly, despite frequent failures to strike targets. This ongoing disruption has impacted oil flows and led to the delay of an OPEC+ oil capacity review. In parallel, Saudi Arabia is planning an assault on the Houthis to break the Red Sea chokehold, and Iraq has received US permission to resume flights to Iran.",
+    "digest": "The US is increasing its military presence in the Middle East, with plans to deploy additional forces and maintaining all military options against Iran. This heightened military posture is occurring amidst ongoing discussions within the US administration regarding its approach to the Iran conflict, particularly as midterm elections approach. Diplomatic and legal scrutiny continues, with Portuguese prosecutors investigating the legality of US forces using the Lajes base in relation to the Iran war. Iran, meanwhile, is reportedly increasing the range of its missiles and faces growing threats of withdrawal from the Nuclear Nonproliferation Treaty. Economically, the Iranian rial has reached a new low, prompting the central bank to sell dollars to support the currency. Events in the region include reports of a crude oil tanker being struck by an unknown projectile off Oman, and Iran executing a detainee for protesting.",
     "top_themes": [
-      "Military Posturing",
-      "Diplomatic Stalemate",
-      "Economic Impact"
+      "US Military Posturing",
+      "Iran's Nuclear Ambitions",
+      "Economic Pressures on Iran"
     ],
     "next_events": [
       {
-        "title": "US Strategic Deliberations and Military Posture",
-        "description": "Secret high-level meetings and increased military deployments signal potential shifts in US strategy regarding the Iran war. Analysts should watch for further announcements on force deployments, changes in combat pay, and any public statements indicating a more aggressive or conciliatory approach, especially as midterm elections approach."
+        "title": "Iran's NPT Withdrawal Threats",
+        "description": "Threats to withdraw from the Nuclear Nonproliferation Treaty are growing in Tehran. Analysts should monitor any official statements or actions from Iran regarding its commitment to the NPT, as a withdrawal would significantly escalate nuclear proliferation concerns and international tensions."
       },
       {
-        "title": "Iran's Retaliation and Maritime Threats",
-        "description": "Iran's stated readiness for 'harder retaliation' and its continued menacing of the Strait of Hormuz with drones and missiles pose significant risks. Monitor for any direct retaliatory actions against US or allied assets, and observe the frequency and success rate of attacks on commercial shipping in the Strait of Hormuz, which could escalate maritime tensions."
+        "title": "Iran's Missile Range Increase",
+        "description": "Iran's army spokesperson announced plans to increase the range of its missiles. This development is crucial as it indicates a potential enhancement of Iran's offensive capabilities, requiring close observation of any tests or deployments that could alter the regional military balance."
       },
       {
-        "title": "Regional Proxy Conflicts and Red Sea Security",
-        "description": "Saudi Arabia's planned assault on Houthis to break the Red Sea chokehold indicates a potential escalation of proxy conflicts. Watch for the execution of these plans and their impact on regional stability, as well as any shifts in Iraq's diplomatic and economic relations with Iran, which could signal broader alliance realignments."
+        "title": "US Military Posture and Strategy",
+        "description": "The US is planning to deploy more forces to the Middle East, with top national security aides meeting secretly to deliberate on the Iran war. Watch for specific troop movements, equipment deployments, and any public statements or leaks regarding the evolving US strategy, as these will signal potential shifts in military pressure or diplomatic approaches."
       },
       {
-        "title": "Global Energy Market Stability",
-        "description": "The Iran war has already disrupted OPEC+'s oil capacity review and continues to threaten the Strait of Hormuz, a vital energy chokepoint. Analysts should monitor for further delays in OPEC+ decisions and any incidents in the Strait that could impact LNG and oil shipments, potentially leading to significant global energy price volatility."
+        "title": "Strait of Hormuz Security and Incidents",
+        "description": "The US maintains it controls the Strait of Hormuz, while a crude oil tanker was recently struck off Oman. Monitor any further maritime incidents, naval exercises, or rhetoric concerning the Strait, as it remains a critical chokepoint and a potential flashpoint for direct confrontation."
+      },
+      {
+        "title": "Iran's Economic Crisis and Internal Stability",
+        "description": "The Iranian rial has hit a new low, with the central bank selling dollars to support the currency, and executions for protesting are occurring. Observe economic indicators, public demonstrations, and government responses, as a deteriorating economy and internal unrest could lead to unpredictable actions by the Iranian regime."
+      },
+      {
+        "title": "Escalation of Regional Proxy Conflicts",
+        "description": "US national security aides are discussing Yemen, and Yemen claims strikes on Houthis, alongside clashes in the West Bank. Watch for increased military activity, cross-border attacks, or shifts in support for proxy groups in areas like Yemen, as these conflicts can quickly spill over and broaden the scope of regional instability."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-03T11:07:40.535937+00:00",
+  "last_watch_time": "2026-10-04T11:08:08.722123+00:00",
   "relevant_news": [
     {
-      "title": "Aboard the USS George Washington, young sailors adjust to war with Iran - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/aboard-uss-george-washington-young-sailors-adjust-war-with-iran-2026-10-03/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 03, 2026 · 07:31 BRT",
-      "pub_date": "2026-10-03",
-      "pub_ts": 1791023503,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran readies harder retaliation if attacked as diplomacy faces long odds - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/iran-readies-harder-retaliation-if-attacked-diplomacy-faces-long-odds-2026-10-01/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 02, 2026 · 11:32 BRT",
-      "pub_date": "2026-10-02",
-      "pub_ts": 1790951530,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - reuters.com",
-      "url": "https://www.reuters.com/business/energy/opec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-2026-10-02/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 02, 2026 · 09:54 BRT",
-      "pub_date": "2026-10-02",
-      "pub_ts": 1790945646,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Pentagon announces higher combat pay amid war with Iran - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/10/01/pentagon-announces-higher-combat-pay-amid-war-with-iran/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 02, 2026 · 02:00 BRT",
-      "pub_date": "2026-10-02",
-      "pub_ts": 1790917200,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "September LNG shipments through Hormuz hit highest since start of US-Iran war - reuters.com",
-      "url": "https://www.reuters.com/business/energy/september-lng-shipments-through-hormuz-hit-highest-since-start-us-iran-war-2026-10-02/",
-      "source": "reuters.com",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 02, 2026 · 04:47 BRT",
-      "pub_date": "2026-10-02",
-      "pub_ts": 1790927278,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html",
+      "title": "Opinion | Trump’s War Empowers Extremists in Iran - The New York Times",
+      "url": "https://www.nytimes.com/2026/10/03/opinion/trump-empowers-iranian-extremists.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 02, 2026 · 01:01 BRT",
-      "pub_date": "2026-10-02",
-      "pub_ts": 1790913679,
-      "summary": "Iran has been launching drones and missiles at commercial ships in the waterway each week, though it has often failed to strike its targets, according to a Western security official.",
+      "published": "Oct 03, 2026 · 08:32 BRT",
+      "pub_date": "2026-10-03",
+      "pub_ts": 1791027169,
+      "summary": "Threats to withdraw from the Nuclear Nonproliferation Treaty are growing in Tehran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -12779,12 +12702,111 @@
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
+    },
+    {
+      "title": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen - Axios",
+      "url": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Oct 03, 2026 · 01:34 BRT",
+      "pub_date": "2026-10-03",
+      "pub_ts": 1791002097,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 04, 2026 · 07:00 BRT",
+      "pub_date": "2026-10-04",
+      "pub_ts": 1791108005,
+      "summary": "Pete Hegseth says US 'hell-bent' on keeping Iran from achieving nuclear weapons • Portugal prosecutors probe legality of US use of Lajes base in Iran war • Iran executes detainee for protesting",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Hezbollah"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran to increase the range of its missiles, army spokesperson says - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iran-to-increase-the-range-of-its-missiles-army-spokesperson-says/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Oct 04, 2026 · 07:17 BRT",
+      "pub_date": "2026-10-04",
+      "pub_ts": 1791109066,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US military plans to deploy more forces to Middle East - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-910428",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 03, 2026 · 10:34 BRT",
+      "pub_date": "2026-10-03",
+      "pub_ts": 1791034495,
+      "summary": "US President Donald Trump's administration is deliberating on how to approach the Iran war, now in its eighth month, as US midterm elections approach in November.",
+      "tags": [
+        "Iran",
+        "Donald Trump",
+        "US Navy",
+        "US military",
+        "Pentagon"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Pressure Builds on Iran as Trump Boosts US Military Presence - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/pressure-builds-on-iran-as-trump-expands-us-military-presence",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Oct 03, 2026 · 12:27 BRT",
+      "pub_date": "2026-10-03",
+      "pub_ts": 1791041257,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-03T11:07:41.046847+00:00",
-  "last_generated_date": "2026-10-03",
-  "last_generated_time": "2026-10-03T23:01:58.410217+00:00",
+  "last_relevant_time": "2026-10-04T11:08:10.455478+00:00",
+  "last_generated_date": "2026-10-04",
+  "last_generated_time": "2026-10-04T08:01:57.637717+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

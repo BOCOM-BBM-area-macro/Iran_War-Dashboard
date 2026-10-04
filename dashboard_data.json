@@ -12800,6 +12800,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-04"
+    },
+    "https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
+    },
+    "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
     }
   },
   "last_digest_success": true,
@@ -12962,12 +12982,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-04T11:08:10.455478+00:00",
   "last_generated_date": "2026-10-04",
-  "last_generated_time": "2026-10-04T19:01:46.974972+00:00",
+  "last_generated_time": "2026-10-04T20:01:48.032913+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The Return of Middle East Oil - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlJpQVo4NDBnSmxTeEwwRlpOY1hDQk5CVTZmanp1bTNSbnFDNG1NOWtrUjhkd2hidXpIOXcybU8tTlVYUWxZRWRhVFJEczVibnJ4ektEZFhCSF9kdllSQ1kyeExBWG9VSmRocWN1dlN2a2JSZk8xWm5ZVktVcDZoNldn?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 04, 2026 · 17:58 BRT",
+          "pub_date": "2026-10-04",
+          "pub_ts": 1791147521,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran's oil minister resigns, no reason given - Reuters",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",

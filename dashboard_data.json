@@ -12760,6 +12760,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-04"
+    },
+    "https://www.reuters.com/world/middle-east/irans-oil-minister-resigns-state-media-says-2026-10-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-tells-us-there-is-no-military-solution-to-middle-east-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
+    },
+    "https://www.reuters.com/video/watch/idRW738804102026RP1/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
     }
   },
   "last_digest_success": true,
@@ -12922,12 +12952,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-04T11:08:10.455478+00:00",
   "last_generated_date": "2026-10-04",
-  "last_generated_time": "2026-10-04T15:01:53.963658+00:00",
+  "last_generated_time": "2026-10-04T16:02:06.017353+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran's oil minister resigns, no reason given - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 04, 2026 · 14:34 BRT",
+          "pub_date": "2026-10-04",
+          "pub_ts": 1791135284,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why Oil Is Still Stuck Near $100 a Barrel - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHhBX0RJNm1IMGVZWGhzTkZlSEhSQ29wWW15aWExVUx1QXZWZER3SGUwRS1tQ1V5ZU1ZOEN2cy04b0h2aVB4aFo1Qlp3UnJIQk1GUTJNYXJ6dDVvR1JlOUw0eHRHS2p4NkQwOG9XZkJqSzk4SV9GcS1YNjNFNVM5NDNlcl9FSEtyQk9UdEJIaXVHM1dCcU9CcExHemJuZml5b1RSaGRWNXlDQURFZktORUVYNnk?oc=5",

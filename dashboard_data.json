@@ -13038,6 +13038,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-05"
+    },
+    "https://www.reuters.com/world/middle-east/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-2026-10-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
+    },
+    "https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
     }
   },
   "last_digest_success": true,
@@ -13203,7 +13223,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-05T11:10:22.811008+00:00",
   "last_generated_date": "2026-10-05",
-  "last_generated_time": "2026-10-05T19:01:58.927780+00:00",
+  "last_generated_time": "2026-10-05T20:01:59.449675+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -19309,6 +19329,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Trump claims spike in gas prices caused by Ukraine strikes on Russia, not Iran war - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDBPVE01LUVpd0dPdlBEaEdJNmdVSnJ0OWViVERiVEh2eUtIb1ZId1FaUldNbm9XX09OYndFU2VRY3N6RlB3OG1pcms4SFk3bWIzUE81MkVfUDFqem1OSURuc3ZGYTJYUnZfeVJJNVJfSko0X2xpQzFLM0NEQTB0OG44NHNYN1N6Q0Q1OTdrNFNHQjFpWWdKNV8zZXpFN1JHWmZlb2JKYm1GRFhsUkFlTWJDYmdpdHg2QTlWSXM3THVmaHhUeHc?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 14:10 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791220212,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "September LNG shipments through Hormuz hit highest since start of US-Iran war - reuters.com",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2hrU0N6b3dJbmV3dlJBZVVhbVl5cl9VcC1aNE1TRDhiS2FuZDY0V2xDMGtYUklNQ2MxODZqam5XdVhmek00dllQUnVyUUdNQUx2N0hWREJlUjJ3MWQ5N1hnbGJkdnBKNkJMV2NiT3JpYzhQQVpKOUk2cFF4TEJodnBZUmxfRnMyTHpTTWp6RE10dUdjSHU5eWhOVnNwMkx6VUU0OWJBVGZ0TVR6Tm5hWWVTZlZrU29uR3Y2OVRoMTNxWldU?oc=5",

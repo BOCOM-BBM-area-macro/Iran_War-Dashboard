@@ -12402,7 +12402,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-03"
+      "pub_date": "2026-10-02"
     },
     "https://www.jpost.com/middle-east/iran-news/article-910445": {
       "summary": "The US and its partners said they would strengthen intelligence sharing to prevent Iran from acquiring or transferring technology linked to the development of weapons of mass destruction.",
@@ -12976,6 +12976,38 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-05"
+    },
+    "https://www.reuters.com/business/energy/south-africas-petrol-diesel-prices-rise-sharply-october-7-2026-10-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
+    },
+    "https://www.jpost.com/middle-east/article-910679": {
+      "summary": "The IRGC spokesperson shared that “during this war, we reached the conclusion that we definitely need to increase the range of our missiles, and we have now moved in this direction.”",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "missiles",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
+    },
+    "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
     }
   },
   "last_digest_success": true,
@@ -13141,7 +13173,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-05T11:10:22.811008+00:00",
   "last_generated_date": "2026-10-05",
-  "last_generated_time": "2026-10-05T11:02:07.892936+00:00",
+  "last_generated_time": "2026-10-05T12:02:08.454162+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -18123,6 +18155,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "South African fuel prices to jump this week on Iran war impact - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGN4N0hDeHBrQ016aHFNam5wQk9IRHo2OTJjNUtFWWZKT2h1TE5abndZYXNiSVdjS0R1a2xNRGc0djNYTDRNaTR4UElrOEt3SVloQjMxTm1Yb3F6WnFjc2lLTC1oTENXMmVXeTQyUGxPMXc2d0pER3BCQjRMZkVhcmMybHZVNVJuZDM1RzNxVlA3VHdMeHYydFFsV3RjZnZBZ09wenpfWG9MbEFGZ2c?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 11:04 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791209079,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch - CBC",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iLU80bkV4enhLTVNvSkc4VllYc2k1ZGd0NVJiS3FPakZtSlZaQ2Fhb3RfeEVKOVNCQVpycDQ3Q0UwZFcybEg0ZWFmMWxEYy1LZTdJcV9TVGlqX0JWTThVYmRnY01GNUUwZ1VnUWhVVy1EVjFBSmpaeDFUZGZDV0E?oc=5",
           "source": "CBC",
@@ -20036,6 +20082,34 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "India's IndiGo to hike fuel charges as global jet fuel costs rise - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWtvbUtNZEJsTldzQTkxUEVvN0dHS3BjOWJCRFlHUTQtcnE1STF0eE9iS2V1dlB2ZmxzcGpGVnRFZlN1ZjJpMmFLN1BhYW9SZy1KRjdYbjhQWHo1WndFUnRDbk0yZHVoRmc1UXY0a0xra0o4YnJoYTFIOTE3TVg3VDl0ZEtwTm1IeUFZM1NzZ2ZLVDMyQkxpY1lUNlllRHo1V3A1N2JlZG9kVWpm?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 03:51 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791183060,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Lufthansa warns jet fuel struggle will continue - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vaFdfem9UR0NZV0JuZmVuRnpQd0U3Y0lDNkRPeUNSaGI5Ykt5OWtqQUxiNWdYLWY1NWQ1VUlhSVNQcWRpd3FpSWR0bXU1UHBQQzdpcmJCY2NZVG5DVGVlOGVWbWZQNVE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 29, 2026 · 11:54 BRT",
+          "pub_date": "2026-09-29",
+          "pub_ts": 1790693669,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Qatar Airways seconds pilots as carriers adapt to Iran war hit - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzOERqcGZpMEQ0b21EU3p2SmZ3bVpidnlZN3dONWdGRDFRb3A2STVXQkk2VkJOOXhTc1JKNTV0SHNXazY1N1pzYjI5UmFTYy1tVllXRlVDQ25PdGVYU19tTGoxcFZ2dkk?oc=5",

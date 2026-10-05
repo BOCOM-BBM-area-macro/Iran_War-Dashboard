@@ -12842,7 +12842,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-04"
+      "pub_date": "2026-10-05"
     },
     "https://www.reuters.com/video/watch/idRW740604102026RP1/?chan=hp-us-2024-01-04": {
       "summary": "",
@@ -12853,6 +12853,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/data-shows-mideast-oil-exports-exceeded-pre-iran-war-levels-last-week/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
     }
   },
   "last_digest_success": true,
@@ -13021,6 +13031,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Data shows Mideast oil exports exceeded pre-Iran war levels last week - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTBOR2xBR2haSFJJaEtqOTB3cDlHNXNUU3E1M3RfOWRCZlRNZFhCcXdieU1XTXZQa0twRkpLVDhyV2xlSjFrUW1zdW9HWG9mN01ySmtBVXZDSVE3MHZETUh4TURDSDRPTEc4VUVPdU1sYnJzZkV1OHZ2NGdob2FCV3V0enFXdjlRX2Q1MWFsUE8weHpNNjJWNHpxaG15T0RhUlBQMUpqWUhkMFMwTndac1p0aHBZUQ?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 00:22 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791170574,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlnRmFJc1NCRTRsSVNmNTRtMnh2dmJiNWdMbnF2YVZRU0g1WXpERld1Qm0xbW5MQzNnTUhYTjFCUWVadVlWbmdwZjJSTUdSUkpGU2FrMzRmRW80RWRDcGpidUNVUHd1aVloWkFKZFRVNllUMEhVczNJNjNSZkR2VmZrU1hIbGRzZmZpeTF1TUNsMFp4ZFVuVE16RjlnYVBmUGhtRG94Z0VOTk13b2Y4ZUhpTElPSTctdlJQTmdCWnNnamhrVkE?oc=5",

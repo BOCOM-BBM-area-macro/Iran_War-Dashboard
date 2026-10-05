@@ -12923,78 +12923,131 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-05"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-10-05/iran-war-us-shouldn-t-let-hubris-get-in-the-way-of-ending-conflict": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-04T11:07:58.579914+00:00",
+  "last_digest_time": "2026-10-05T11:10:10.801515+00:00",
   "digest": {
-    "digest": "The US is increasing its military presence in the Middle East, with plans to deploy additional forces and maintaining all military options against Iran. This heightened military posture is occurring amidst ongoing discussions within the US administration regarding its approach to the Iran conflict, particularly as midterm elections approach. Diplomatic and legal scrutiny continues, with Portuguese prosecutors investigating the legality of US forces using the Lajes base in relation to the Iran war. Iran, meanwhile, is reportedly increasing the range of its missiles and faces growing threats of withdrawal from the Nuclear Nonproliferation Treaty. Economically, the Iranian rial has reached a new low, prompting the central bank to sell dollars to support the currency. Events in the region include reports of a crude oil tanker being struck by an unknown projectile off Oman, and Iran executing a detainee for protesting.",
+    "digest": "Recent developments indicate a complex geopolitical landscape surrounding the Iran war. Middle Eastern oil exports have reportedly exceeded pre-war levels in September, despite an increase in tanker attacks, suggesting resilience or adaptation within the market. Major Wall Street banks have subsequently lifted their oil-price forecasts. Concurrently, the Iran-backed Houthi movement in Yemen is facing a counteroffensive from the Yemeni government, aiming to reclaim territories. Iran has communicated to the US that a military solution to the ongoing Middle East conflict is not viable. In a related development, Iran's oil minister has resigned. The Strait of Hormuz remains a point of contention, with Iran stating it will not reopen until specific conditions are met. The US has been observed withdrawing bombers from a UK air base following new threats, and a FlyDubai attack has introduced new risks to Dubai's economy. There are also reports of a Pentagon dispute from 18 months ago being a prelude to current issues in Iran, and Portugal is investigating the legality of US base usage in the context of the Iran war.",
     "top_themes": [
-      "US Military Posturing",
-      "Iran's Nuclear Ambitions",
-      "Economic Pressures on Iran"
+      "Middle East Oil Market Dynamics",
+      "Iran-Houthi Alliance and Regional Conflict",
+      "Geopolitical Tensions and Military Posturing"
     ],
     "next_events": [
       {
-        "title": "Iran's NPT Withdrawal Threats",
-        "description": "Threats to withdraw from the Nuclear Nonproliferation Treaty are growing in Tehran. Analysts should monitor any official statements or actions from Iran regarding its commitment to the NPT, as a withdrawal would significantly escalate nuclear proliferation concerns and international tensions."
+        "title": "Strait of Hormuz Security and Global Oil Market Stability",
+        "description": "With Iran threatening to close the Strait of Hormuz and increasing tanker attacks, analysts must monitor any disruptions to oil shipping. This directly impacts global energy prices and supply chains, especially as Middle East oil exports have recently exceeded pre-war levels."
       },
       {
-        "title": "Iran's Missile Range Increase",
-        "description": "Iran's army spokesperson announced plans to increase the range of its missiles. This development is crucial as it indicates a potential enhancement of Iran's offensive capabilities, requiring close observation of any tests or deployments that could alter the regional military balance."
+        "title": "Escalation of the Yemen Conflict and Houthi Actions",
+        "description": "The Yemeni government has launched an offensive against Iran-backed Houthis, who continue to receive arms from Iran and China. Watch for the success of this offensive, Houthi counter-responses, and the broader implications for regional stability and humanitarian concerns."
       },
       {
-        "title": "US Military Posture and Strategy",
-        "description": "The US is planning to deploy more forces to the Middle East, with top national security aides meeting secretly to deliberate on the Iran war. Watch for specific troop movements, equipment deployments, and any public statements or leaks regarding the evolving US strategy, as these will signal potential shifts in military pressure or diplomatic approaches."
+        "title": "Iran's Nuclear Program and International Response",
+        "description": "The US remains 'hell-bent' on preventing Iran from acquiring nuclear weapons, as indicated by recent statements. Analysts should closely track any advancements in Iran's nuclear capabilities, as well as potential international diplomatic or military responses to these developments."
       },
       {
-        "title": "Strait of Hormuz Security and Incidents",
-        "description": "The US maintains it controls the Strait of Hormuz, while a crude oil tanker was recently struck off Oman. Monitor any further maritime incidents, naval exercises, or rhetoric concerning the Strait, as it remains a critical chokepoint and a potential flashpoint for direct confrontation."
+        "title": "Diplomatic Pathways to De-escalation",
+        "description": "Despite Iran stating there is no military solution to the Middle East war, the conflict continues. Watch for any signs of diplomatic engagement, mediation efforts, or shifts in rhetoric from key players that could signal a move towards de-escalation or a potential end to the 'Iran War'."
       },
       {
-        "title": "Iran's Economic Crisis and Internal Stability",
-        "description": "The Iranian rial has hit a new low, with the central bank selling dollars to support the currency, and executions for protesting are occurring. Observe economic indicators, public demonstrations, and government responses, as a deteriorating economy and internal unrest could lead to unpredictable actions by the Iranian regime."
+        "title": "US Military Posture and Regional Alliances",
+        "description": "Recent reports indicate US military redeployments, such as withdrawing bombers from the UK, and internal Pentagon disputes regarding Iran policy. Monitor changes in US force presence, strategic alliances (e.g., Eritrea looking to come in from the cold), and the impact of these shifts on regional power dynamics."
       },
       {
-        "title": "Escalation of Regional Proxy Conflicts",
-        "description": "US national security aides are discussing Yemen, and Yemen claims strikes on Houthis, alongside clashes in the West Bank. Watch for increased military activity, cross-border attacks, or shifts in support for proxy groups in areas like Yemen, as these conflicts can quickly spill over and broaden the scope of regional instability."
+        "title": "Internal Iranian Political and Social Stability",
+        "description": "The resignation of Iran's oil minister and reports of executions for protesting highlight internal pressures within the country. Analysts should watch for further political reshuffles, public unrest, and human rights developments, which could impact Iran's foreign policy and regional actions."
+      },
+      {
+        "title": "Economic Fallout from Regional Attacks",
+        "description": "The FlyDubai attack adds new risks to Dubai's war-battered economy, and increased tanker attacks threaten broader regional commerce. Monitor the economic impact on key regional hubs and global trade routes, as instability continues to deter investment and disrupt business."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-04T11:08:08.722123+00:00",
+  "last_watch_time": "2026-10-05T11:10:22.328074+00:00",
   "relevant_news": [
     {
-      "title": "Opinion | Trump’s War Empowers Extremists in Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/03/opinion/trump-empowers-iranian-extremists.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 03, 2026 · 08:32 BRT",
-      "pub_date": "2026-10-03",
-      "pub_ts": 1791027169,
-      "summary": "Threats to withdraw from the Nuclear Nonproliferation Treaty are growing in Tehran.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen - Axios",
-      "url": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Oct 03, 2026 · 01:34 BRT",
-      "pub_date": "2026-10-03",
-      "pub_ts": 1791002097,
+      "title": "A Pentagon dispute 18 months ago was prelude to problems in Iran - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/10/05/pentagon-dispute-trumps-first-war-foreshadowed-iran-challenges/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Oct 05, 2026 · 07:32 BRT",
+      "pub_date": "2026-10-05",
+      "pub_ts": 1791196340,
       "summary": "",
       "tags": [
         "extracted",
-        "axios.com"
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "As Iran war smolders, shunned Eritrea looks to come in from the cold - Reuters",
+      "url": "https://www.reuters.com/world/iran-war-smolders-shunned-eritrea-looks-come-cold-2026-10-05/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 05, 2026 · 03:07 BRT",
+      "pub_date": "2026-10-05",
+      "pub_ts": 1791180420,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran tells US there is no military solution to Middle East war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iran-tells-us-there-is-no-military-solution-to-middle-east-war/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Oct 04, 2026 · 20:12 BRT",
+      "pub_date": "2026-10-04",
+      "pub_ts": 1791155532,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 04, 2026 · 09:59 BRT",
+      "pub_date": "2026-10-04",
+      "pub_ts": 1791118781,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -13003,14 +13056,14 @@
     },
     {
       "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-10-05/live-updates-910598",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 04, 2026 · 07:00 BRT",
-      "pub_date": "2026-10-04",
-      "pub_ts": 1791108005,
-      "summary": "Pete Hegseth says US 'hell-bent' on keeping Iran from achieving nuclear weapons • Portugal prosecutors probe legality of US use of Lajes base in Iran war • Iran executes detainee for protesting",
+      "published": "Oct 05, 2026 · 07:00 BRT",
+      "pub_date": "2026-10-05",
+      "pub_ts": 1791194405,
+      "summary": "Yemen launches counteroffensive against Houthis• Flydubai hijacker's motives under investigation • Pete Hegseth says US 'hell-bent' on keeping Iran from achieving nuclear weapons",
       "tags": [
         "Israel",
         "Benjamin Netanyahu",
@@ -13023,58 +13076,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran to increase the range of its missiles, army spokesperson says - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/iran-to-increase-the-range-of-its-missiles-army-spokesperson-says/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Oct 04, 2026 · 07:17 BRT",
+      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 04, 2026 · 09:14 BRT",
       "pub_date": "2026-10-04",
-      "pub_ts": 1791109066,
+      "pub_ts": 1791116040,
       "summary": "",
       "tags": [
         "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US military plans to deploy more forces to Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-910428",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 03, 2026 · 10:34 BRT",
-      "pub_date": "2026-10-03",
-      "pub_ts": 1791034495,
-      "summary": "US President Donald Trump's administration is deliberating on how to approach the Iran war, now in its eighth month, as US midterm elections approach in November.",
-      "tags": [
-        "Iran",
-        "Donald Trump",
-        "US Navy",
-        "US military",
-        "Pentagon"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Pressure Builds on Iran as Trump Boosts US Military Presence - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/pressure-builds-on-iran-as-trump-expands-us-military-presence",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Oct 03, 2026 · 12:27 BRT",
-      "pub_date": "2026-10-03",
-      "pub_ts": 1791041257,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -13083,14 +13096,28 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-04T11:08:10.455478+00:00",
-  "last_generated_date": "2026-10-04",
-  "last_generated_time": "2026-10-04T22:01:58.092377+00:00",
+  "last_relevant_time": "2026-10-05T11:10:22.811008+00:00",
+  "last_generated_date": "2026-10-05",
+  "last_generated_time": "2026-10-05T08:02:31.018964+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Don’t Let Hubris Get in the Way of Ending the Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON3BZN3FibVl4QVpUTHdPZnhyZlJpYTV3N1NZcmdIOC1ubnZ5RERobklRQnI5NEVsY3d5TG56VlFoQWpFdEZ2eUF6clVEUk1XWGNjNXFGVGR0VklaSGVOOGlxU19sRjdVUkdBQS1waFliQzJQYXc0YWxHVGk1ZndndGptc2JqMTByVV8yXzlaTnpvbzZLdkt3M0pqNnlsemZvOWVzR0diekxBdFNNNlNvNzIxS1RQN3MtT1lReQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 07:00 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791194406,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: Oil's new problem isn't supply. It's logistics - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGFlcUIyYU9yU0Z3ZUp6S1pZVU0zTEhFVVFxM2JOUmNuT0I0UmdUcVlKLTFBRVNBaXE1dVZQdEROQURJN29rbkcxcFVNX0lWaWMtTzlEYjRCRzdSU19TR0FIRXliQ18wZ21vZTdPb3FvY3dIc0pHX19ralAwd0hjVnFkbGtReDNLNVUwcFdzUHFsdHlybGxYQmNBV2dlc2dHQ0FYazNkeWRKMmg4TFUyZA?oc=5",

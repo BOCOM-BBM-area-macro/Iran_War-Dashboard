@@ -12779,7 +12779,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-04"
+      "pub_date": "2026-10-05"
     },
     "https://www.reuters.com/video/watch/idRW738804102026RP1/": {
       "summary": "",
@@ -12925,6 +12925,26 @@
       "pub_date": "2026-10-05"
     },
     "https://www.bloomberg.com/opinion/articles/2026-10-05/iran-war-us-shouldn-t-let-hubris-get-in-the-way-of-ending-conflict": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
+    },
+    "https://www.reuters.com/world/middle-east/iran-executes-two-men-arrested-over-january-2026-protests-mizan-reports-2026-10-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-05/iran-s-oil-minister-resigns-as-exports-dry-up-under-us-pressure": {
       "summary": "",
       "tags": [
         "extracted",
@@ -13098,7 +13118,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-05T11:10:22.811008+00:00",
   "last_generated_date": "2026-10-05",
-  "last_generated_time": "2026-10-05T08:02:31.018964+00:00",
+  "last_generated_time": "2026-10-05T09:01:55.306614+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -13113,6 +13133,20 @@
           "published": "Oct 05, 2026 · 07:00 BRT",
           "pub_date": "2026-10-05",
           "pub_ts": 1791194406,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran’s Oil Minister Resigns as Exports Dry Up Under US Pressure - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmtxUW0yREN3WjVmMVgzNmNkZC1iY09BS2pSNkdQV3pON3ZWMlNkal9TZ0FUZ0h5c1dfV05kUmJjZVZDSXBWVGcyeTV5eFAxcXV0a1ZTVVdDWFpDNWRmWnJHU3dMaGlycWxFQ09qMzRCNi1uc0hLU0ZGT2NYekZuSGJSQVoyemNWLTNDTWtrVzNEeWs3QWlHYkR1dU04WkVmTWExYXdUS3BNeExWLUpjNFcwZUU?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 03:20 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791181200,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

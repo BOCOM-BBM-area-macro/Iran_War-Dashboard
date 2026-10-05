@@ -12600,7 +12600,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-04"
+      "pub_date": "2026-10-05"
     },
     "https://www.reuters.com/world/middle-east/iranian-rial-new-low-cenbank-sells-dollars-support-currency-2026-10-03/": {
       "summary": "",
@@ -12883,6 +12883,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-05"
+    },
+    "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
     }
   },
   "last_digest_success": true,
@@ -13088,6 +13098,20 @@
           "published": "Oct 04, 2026 · 22:09 BRT",
           "pub_date": "2026-10-04",
           "pub_ts": 1791162540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil slips as Middle East crude exports rise, G7 to release stocks - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c?oc=5",
+          "source": "reuters.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 04, 2026 · 19:17 BRT",
+          "pub_date": "2026-10-04",
+          "pub_ts": 1791152220,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

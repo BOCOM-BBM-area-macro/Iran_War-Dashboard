@@ -12518,7 +12518,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-03"
+      "pub_date": "2026-10-04"
     },
     "https://www.jpost.com/international/article-910461": {
       "summary": "A longstanding agreement with the US allows Washington to use the base without prior authorisation during peacetime, but requires Portugal to give approval once hostilities begin.",
@@ -12820,6 +12820,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-04"
+    },
+    "https://www.reuters.com/business/energy/middle-east-crude-oil-exports-exceed-pre-war-levels-tanker-attacks-increase-2026-10-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-10-05/live-updates-910598": {
+      "summary": "Yemen launches counteroffensive against Houthis• Flydubai hijacker's motives under investigation • Pete Hegseth says US 'hell-bent' on keeping Iran from achieving nuclear weapons",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Hezbollah"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
+    },
+    "https://www.reuters.com/video/watch/idRW740604102026RP1/?chan=hp-us-2024-01-04": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-04"
     }
   },
   "last_digest_success": true,
@@ -12988,6 +13021,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlnRmFJc1NCRTRsSVNmNTRtMnh2dmJiNWdMbnF2YVZRU0g1WXpERld1Qm0xbW5MQzNnTUhYTjFCUWVadVlWbmdwZjJSTUdSUkpGU2FrMzRmRW80RWRDcGpidUNVUHd1aVloWkFKZFRVNllUMEhVczNJNjNSZkR2VmZrU1hIbGRzZmZpeTF1TUNsMFp4ZFVuVE16RjlnYVBmUGhtRG94Z0VOTk13b2Y4ZUhpTElPSTctdlJQTmdCWnNnamhrVkE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 04, 2026 · 22:09 BRT",
+          "pub_date": "2026-10-04",
+          "pub_ts": 1791162540,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Return of Middle East Oil - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlJpQVo4NDBnSmxTeEwwRlpOY1hDQk5CVTZmanp1bTNSbnFDNG1NOWtrUjhkd2hidXpIOXcybU8tTlVYUWxZRWRhVFJEczVibnJ4ektEZFhCSF9kdllSQ1kyeExBWG9VSmRocWN1dlN2a2JSZk8xWm5ZVktVcDZoNldn?oc=5",

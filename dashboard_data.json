@@ -12673,7 +12673,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-04"
+      "pub_date": "2026-10-05"
     },
     "https://www.reuters.com/world/middle-east/why-havent-houthis-irans-allies-yemen-stepped-into-war-2026-10-04/": {
       "summary": "",
@@ -13108,121 +13108,108 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-06"
+    },
+    "https://www.reuters.com/world/us/california-governor-condemns-trumps-let-em-take-los-angeles-comments-2026-10-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-06"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-05T11:10:10.801515+00:00",
+  "last_digest_time": "2026-10-06T11:08:42.213670+00:00",
   "digest": {
-    "digest": "Recent developments indicate a complex geopolitical landscape surrounding the Iran war. Middle Eastern oil exports have reportedly exceeded pre-war levels in September, despite an increase in tanker attacks, suggesting resilience or adaptation within the market. Major Wall Street banks have subsequently lifted their oil-price forecasts. Concurrently, the Iran-backed Houthi movement in Yemen is facing a counteroffensive from the Yemeni government, aiming to reclaim territories. Iran has communicated to the US that a military solution to the ongoing Middle East conflict is not viable. In a related development, Iran's oil minister has resigned. The Strait of Hormuz remains a point of contention, with Iran stating it will not reopen until specific conditions are met. The US has been observed withdrawing bombers from a UK air base following new threats, and a FlyDubai attack has introduced new risks to Dubai's economy. There are also reports of a Pentagon dispute from 18 months ago being a prelude to current issues in Iran, and Portugal is investigating the legality of US base usage in the context of the Iran war.",
+    "digest": "The ongoing conflict involving Iran continues to exert significant economic pressure globally, with notable impacts on fuel prices in the United States and South Africa. Gulf oil flows have shown a partial recovery, reaching 81% of pre-war rates in September, though Mideast oil producers are calling for shared costs related to the war's economic burden. Diplomatic and military actions persist, with Yemen launching a counteroffensive against Iran-backed Houthis, aiming to seize all territories. The US has indicated potential sanctions on foreign financial institutions engaging with Iran, signaling a tightening of financial restrictions. In the US, political discourse surrounding the conflict has intensified, with California officials condemning remarks suggesting Iran could target major cities. Pentagon officials' internal debates prior to the conflict are also being highlighted as foreshadowing operational issues. The potential for Iranian drone attacks has led to the evacuation of US aircraft from a British air base, underscoring the persistent threat of direct engagement. Meanwhile, Eritrea is seeking to re-engage internationally amidst the ongoing conflict, and the broader implications of geography's role in global conflicts are being re-evaluated.",
     "top_themes": [
-      "Middle East Oil Market Dynamics",
-      "Iran-Houthi Alliance and Regional Conflict",
-      "Geopolitical Tensions and Military Posturing"
+      "Economic Impact of Iran War",
+      "Geopolitical Tensions in the Middle East",
+      "US Political Discourse on Iran"
     ],
     "next_events": [
       {
-        "title": "Strait of Hormuz Security and Global Oil Market Stability",
-        "description": "With Iran threatening to close the Strait of Hormuz and increasing tanker attacks, analysts must monitor any disruptions to oil shipping. This directly impacts global energy prices and supply chains, especially as Middle East oil exports have recently exceeded pre-war levels."
+        "title": "Global Energy Market Volatility",
+        "description": "The Iran war continues to impact global fuel prices, as seen in the US and South Africa, and Mideast oil chiefs are calling for shared costs. Analysts should monitor crude oil prices, supply chain disruptions, and international discussions on energy burden-sharing to gauge the war's economic ripple effects."
       },
       {
-        "title": "Escalation of the Yemen Conflict and Houthi Actions",
-        "description": "The Yemeni government has launched an offensive against Iran-backed Houthis, who continue to receive arms from Iran and China. Watch for the success of this offensive, Houthi counter-responses, and the broader implications for regional stability and humanitarian concerns."
+        "title": "Escalation of Regional Proxy Conflicts",
+        "description": "Yemen's government has launched an offensive against Iran-backed Houthis, indicating a potential intensification of proxy conflicts. Watch for shifts in territorial control, increased foreign intervention, and the broader impact on regional stability, as these conflicts often serve as flashpoints for wider confrontation."
       },
       {
-        "title": "Iran's Nuclear Program and International Response",
-        "description": "The US remains 'hell-bent' on preventing Iran from acquiring nuclear weapons, as indicated by recent statements. Analysts should closely track any advancements in Iran's nuclear capabilities, as well as potential international diplomatic or military responses to these developments."
+        "title": "Direct Military Confrontation Risks",
+        "description": "Reports of potential Iranian drone attacks leading to US aircraft relocation highlight the ongoing risk of direct military engagement. Analysts should track any further incidents involving Iranian military assets, changes in US force posture in the region, and the rhetoric from both sides that could signal an imminent escalation."
       },
       {
-        "title": "Diplomatic Pathways to De-escalation",
-        "description": "Despite Iran stating there is no military solution to the Middle East war, the conflict continues. Watch for any signs of diplomatic engagement, mediation efforts, or shifts in rhetoric from key players that could signal a move towards de-escalation or a potential end to the 'Iran War'."
+        "title": "US Sanctions Enforcement and Iran's Economy",
+        "description": "The US has warned of sanctions against foreign financial institutions dealing with Iran, signaling increased economic pressure. Monitor the implementation of these sanctions, their impact on Iran's economy and its ability to fund regional activities, and any retaliatory measures from Tehran."
       },
       {
-        "title": "US Military Posture and Regional Alliances",
-        "description": "Recent reports indicate US military redeployments, such as withdrawing bombers from the UK, and internal Pentagon disputes regarding Iran policy. Monitor changes in US force presence, strategic alliances (e.g., Eritrea looking to come in from the cold), and the impact of these shifts on regional power dynamics."
+        "title": "Iran's Nuclear Ambitions and US Response",
+        "description": "US officials remain committed to preventing Iran from acquiring nuclear weapons, a core policy objective. Watch for any intelligence regarding Iran's nuclear program advancements, statements from international bodies, and potential US or Israeli actions aimed at disrupting these efforts."
       },
       {
-        "title": "Internal Iranian Political and Social Stability",
-        "description": "The resignation of Iran's oil minister and reports of executions for protesting highlight internal pressures within the country. Analysts should watch for further political reshuffles, public unrest, and human rights developments, which could impact Iran's foreign policy and regional actions."
-      },
-      {
-        "title": "Economic Fallout from Regional Attacks",
-        "description": "The FlyDubai attack adds new risks to Dubai's war-battered economy, and increased tanker attacks threaten broader regional commerce. Monitor the economic impact on key regional hubs and global trade routes, as instability continues to deter investment and disrupt business."
+        "title": "Political Rhetoric and Miscalculation",
+        "description": "High-level political rhetoric, such as comments about Iran targeting US cities, can inflame tensions and increase the risk of miscalculation. Analysts should closely follow official statements from key leaders in the US, Iran, and regional powers for any shifts in tone or explicit threats that could precipitate unintended escalation."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-05T11:10:22.328074+00:00",
+  "last_watch_time": "2026-10-06T11:08:50.921662+00:00",
   "relevant_news": [
     {
-      "title": "A Pentagon dispute 18 months ago was prelude to problems in Iran - The Washington Post",
+      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego - The New York Times",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Oct 06, 2026 · 04:11 BRT",
+      "pub_date": "2026-10-06",
+      "pub_ts": 1791270717,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats - Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 05, 2026 · 14:02 BRT",
+      "pub_date": "2026-10-05",
+      "pub_ts": 1791219772,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Pentagon officials’ heated debates foreshadowed problems in Iran - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2026/10/05/pentagon-dispute-trumps-first-war-foreshadowed-iran-challenges/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 05, 2026 · 07:32 BRT",
+      "published": "Oct 05, 2026 · 13:00 BRT",
       "pub_date": "2026-10-05",
-      "pub_ts": 1791196340,
+      "pub_ts": 1791216000,
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "As Iran war smolders, shunned Eritrea looks to come in from the cold - Reuters",
-      "url": "https://www.reuters.com/world/iran-war-smolders-shunned-eritrea-looks-come-cold-2026-10-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 05, 2026 · 03:07 BRT",
-      "pub_date": "2026-10-05",
-      "pub_ts": 1791180420,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran tells US there is no military solution to Middle East war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/iran-tells-us-there-is-no-military-solution-to-middle-east-war/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Oct 04, 2026 · 20:12 BRT",
-      "pub_date": "2026-10-04",
-      "pub_ts": 1791155532,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 04, 2026 · 09:59 BRT",
-      "pub_date": "2026-10-04",
-      "pub_ts": 1791118781,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -13235,9 +13222,9 @@
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 05, 2026 · 07:00 BRT",
+      "published": "Oct 05, 2026 · 21:00 BRT",
       "pub_date": "2026-10-05",
-      "pub_ts": 1791194405,
+      "pub_ts": 1791244805,
       "summary": "Yemen launches counteroffensive against Houthis• Flydubai hijacker's motives under investigation • Pete Hegseth says US 'hell-bent' on keeping Iran from achieving nuclear weapons",
       "tags": [
         "Israel",
@@ -13251,14 +13238,33 @@
       "sentiment_success": false
     },
     {
-      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04/",
+      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base - The New York Times",
+      "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Oct 06, 2026 · 01:18 BRT",
+      "pub_date": "2026-10-06",
+      "pub_ts": 1791260280,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US says foreign financial institutions doing business with Iran may be sanctioned without notice - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-2026-10-05/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 04, 2026 · 09:14 BRT",
-      "pub_date": "2026-10-04",
-      "pub_ts": 1791116040,
+      "published": "Oct 05, 2026 · 17:29 BRT",
+      "pub_date": "2026-10-05",
+      "pub_ts": 1791232184,
       "summary": "",
       "tags": [
         "extracted",
@@ -13271,9 +13277,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-05T11:10:22.811008+00:00",
-  "last_generated_date": "2026-10-05",
-  "last_generated_time": "2026-10-05T23:01:58.095823+00:00",
+  "last_relevant_time": "2026-10-06T11:09:03.248521+00:00",
+  "last_generated_date": "2026-10-06",
+  "last_generated_time": "2026-10-06T08:02:06.000552+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -13017,7 +13017,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-05"
+      "pub_date": "2026-10-06"
     },
     "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05/": {
       "summary": "",
@@ -13221,6 +13221,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-06"
+    },
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-06"
     }
   },
   "last_digest_success": true,
@@ -13382,7 +13392,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-06T11:09:03.248521+00:00",
   "last_generated_date": "2026-10-06",
-  "last_generated_time": "2026-10-06T15:02:09.101681+00:00",
+  "last_generated_time": "2026-10-06T16:02:26.359089+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -13453,6 +13463,20 @@
           "published": "Oct 06, 2026 · 00:03 BRT",
           "pub_date": "2026-10-06",
           "pub_ts": 1791255780,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Middle East war sharpens focus on ASEAN energy security plans - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWVfcU16VFlBWk1oS3lYM2tXM2tGZEFyaUpVdzgwVzEzOHpYYm5kaXJ6T0FOQlBzTUh5Y0UteU9rUlJ0RHZRWk83SmV2ZnlxdlhadXhPZmZ2Q08yNVU2V293MFRuT0pPTG0tS2ZMMXRGNHlxbWVXVHNsODdSUEtkdjBDMzBSOFB2MVJhb2Qwam9Dd3FYRi1VMDJDM3pDeWVGb0h3RFZ5MFJIUjZWMzNZ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 20:09 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791241740,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

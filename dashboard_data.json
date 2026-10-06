@@ -12759,7 +12759,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-04"
+      "pub_date": "2026-10-05"
     },
     "https://www.reuters.com/world/middle-east/irans-oil-minister-resigns-state-media-says-2026-10-04/": {
       "summary": "",
@@ -12842,7 +12842,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-05"
+      "pub_date": "2026-10-06"
     },
     "https://www.reuters.com/video/watch/idRW740604102026RP1/?chan=hp-us-2024-01-04": {
       "summary": "",
@@ -13057,7 +13057,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-05"
+      "pub_date": "2026-10-06"
     },
     "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html": {
       "summary": "",
@@ -13077,7 +13077,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-05"
+      "pub_date": "2026-10-06"
     },
     "https://www.reuters.com/business/energy/gulf-oil-flows-rise-average-81-pre-war-rate-september-data-shows-2026-10-06/": {
       "summary": "",
@@ -13094,6 +13094,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-06/mideast-oil-chiefs-warn-world-needs-to-share-iran-war-costs": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -13269,6 +13279,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Mideast Oil Chiefs Warn World Needs to Share Iran-War Costs - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDF0T3M2NHgtQ2lLaXE4TjlYOHZMMV9fSlBFS1BZUnoyRVdOdXVlMEFrWGRJREhWWHAwaVc2Q0dvMkVUT294cm1ka0dWcWlQempITnJRajJvZWlRTFFJcmJVLVl0YUFTT1dVT09YNEdFQ3ZPQkUzUlZ6c0ZmX3pLTGZLckZTRkI1VkFLWVhmMlRyZ1hmYXg4ckF1UkRGZGlkekx5SG0wcU9neDlJT013?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 06, 2026 · 05:08 BRT",
+          "pub_date": "2026-10-06",
+          "pub_ts": 1791274108,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc?oc=5",

@@ -13058,6 +13058,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-05"
+    },
+    "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-05"
     }
   },
   "last_digest_success": true,
@@ -13229,6 +13239,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 06, 2026 · 00:03 BRT",
+          "pub_date": "2026-10-06",
+          "pub_ts": 1791255780,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "War With Iran Is Forcing the World to Reckon With Geography’s Power - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM04tNG5yTXpmZ1piRkZYVDJ3eGZfdGRBX1N1eVVnbHduOG9QczFuS1NnWWdBN1kzYVJoU3NGck5QSTFIajRXanpCWXZ3dGpDTU14VWJ1Ykp1SlVSSVB1RHRuQW9wUmxKVWZrUm5QVU5QREtVWTFtdkpXbzRmY2tVMm14akN5Zw?oc=5",

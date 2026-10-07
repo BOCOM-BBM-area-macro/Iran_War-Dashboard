@@ -13240,7 +13240,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-07"
+      "pub_date": "2026-10-06"
     },
     "https://www.reuters.com/world/middle-east/yemeni-government-fighters-recorded-driving-vehicles-over-houthi-opponents-2026-10-06/": {
       "summary": "",
@@ -13530,6 +13530,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-07"
+    },
+    "https://www.reuters.com/video/watch/idRW815607102026RP1/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/pentagon-chief-visits-carrier-returning-from-tough-iran-war-deployment/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
     }
   },
   "last_digest_success": true,
@@ -13691,12 +13721,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-07T11:10:01.154926+00:00",
   "last_generated_date": "2026-10-07",
-  "last_generated_time": "2026-10-07T17:01:50.383369+00:00",
+  "last_generated_time": "2026-10-07T18:01:56.546158+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Big oil enjoys record profits as the Iran war sparks major results - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfcldtZ082bHpGQXFKYU5faE5xanZVWjZBSmo5czNRUkxaR1pyeFdlSVdpUzZFZE1TT2JZaVJHT0VnRk5BV3YyeWpNWEZmLTFMSDlKOHo1dng0SDBPc2lMRHl3cU1zTHc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 07, 2026 · 16:04 BRT",
+          "pub_date": "2026-10-07",
+          "pub_ts": 1791399888,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5",

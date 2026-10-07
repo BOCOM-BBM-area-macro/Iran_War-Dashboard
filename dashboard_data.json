@@ -13510,6 +13510,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-07"
+    },
+    "https://www.reuters.com/world/middle-east/syria-weighs-military-aid-saudi-arabia-amid-yemen-war-sources-say-2026-10-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.wsj.com/video/hegseth-commends-crew-of-the-uss-lincoln-for-role-in-iran-war/57A65467-927F-499E-BB39-F4460172C459": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
     }
   },
   "last_digest_success": true,
@@ -13671,7 +13691,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-07T11:10:01.154926+00:00",
   "last_generated_date": "2026-10-07",
-  "last_generated_time": "2026-10-07T16:02:17.789966+00:00",
+  "last_generated_time": "2026-10-07T17:01:50.383369+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -19067,6 +19087,20 @@
           "published": "Oct 02, 2026 · 08:08 BRT",
           "pub_date": "2026-10-02",
           "pub_ts": 1790939321,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US states take steps to curb diesel and gasoline prices - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmJCU0lQUEZ0Y3Nnd0Jwd2ltVkxBX1RhYk91UzUwZWlaaVBFZGJYVkVES3RBV2R4Q04ya3M1akdPRDdXREFrQS1mcXA4bmtsMVJGeHJfLXdiS1RsaEx5dlFJNGIwUkdtZ2YxdC1uS2EtLUtCQ1kzOWJIRkttTi12ZGpFeU5VVlhHRjctRlkzNzdRWWkyZTZqd1hsYU8tMW8xOUE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 01, 2026 · 18:30 BRT",
+          "pub_date": "2026-10-01",
+          "pub_ts": 1790890201,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

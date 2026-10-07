@@ -13240,7 +13240,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-06"
+      "pub_date": "2026-10-07"
     },
     "https://www.reuters.com/world/middle-east/yemeni-government-fighters-recorded-driving-vehicles-over-houthi-opponents-2026-10-06/": {
       "summary": "",
@@ -13313,7 +13313,47 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-06"
+      "pub_date": "2026-10-07"
+    },
+    "https://www.axios.com/2026/10/07/ken-paxton-iran-war-gas-prices-audio-trump-texas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.reuters.com/business/energy/shell-raises-q3-gas-output-forecast-2026-10-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.nytimes.com/2026/10/07/opinion/pete-hegseth-pentagon-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.washingtonpost.com/world/2026/10/07/yemen-houthis-saudi-airport-aden-rebels/e83d2e90-c224-11f1-8170-681419af1cc9_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
     }
   },
   "last_digest_success": true,
@@ -13482,6 +13522,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Shell expects record refining margins as Iran war boosts fuel markets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamVwY1BTVUJKQmdkWDFBXzA2aFBOVlJYUGVqTHB1cXFYY2ZQdFJ4NHVIT25iQXYwaFVSYTkwVWJnc18xVXBNeHNjQXVxU2pPalpGTWVaM1h2MnRlRGlXZnBTOTItUi03OGxMRlROUnRFQnBGZ0RZNnExUm9VMi1vdzdvY3ExaGtuTjBtb0REbVM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 07, 2026 · 03:07 BRT",
+          "pub_date": "2026-10-07",
+          "pub_ts": 1791353220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "A brutal winter heating bill is coming for some homes - Axios",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEYxdmtBZXFVb2RSc01EbS1HSm5aS2VGTkdsS2hRY2tZOTEybWs0UXVMZ05MeTMxMDEwVE9QSGNRR3ZncWZRX01ObFJnWGhYbjlDcGtyX0IwZS1GNjZpb1JSemxDTUpzc29FTXBHQngwZW5GVVFZa2dsejNMYXJsOV96ZDBvQQ?oc=5",
           "source": "Axios",
@@ -13630,6 +13684,20 @@
           "published": "Oct 05, 2026 · 12:41 BRT",
           "pub_date": "2026-10-05",
           "pub_ts": 1791214905,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Kuwait Is Pumping Oil at About 75% of Prewar Rate, KPC CEO Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0FNc0lqd2E4TFROUC1iSGNsRUVzVUNSNU5vbEU1Y0RTQXhHQXJDdll5cEpGczZfX3VoaXEwdmVIRng4b291a0djTlVDMFU5UmRSWlh1Tkp3MlZhS1lMUUxPU2I1aXE5LXFJUkNNdDYxSkk5WFg4blpqZkdYNUxyUzhocmNYeDlVUWQtRGw2STl0enQ1alRWdnVHSmRUWkdnT3NxTktYbktibWZpTWNhQnBn?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 05, 2026 · 11:42 BRT",
+          "pub_date": "2026-10-05",
+          "pub_ts": 1791211361,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -18666,6 +18734,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Exclusive: Paxton privately blames campaign woes on Iran war, gas prices - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0NQMTBMRm5kcV9DRmpjdUhiZkdFQzRvZ0JNYnRuRlNTNzk1eVRvYUpnNTlUYnFzSURuZUxKaEpxZnpRYl9oMG1hbGZja1JVS21JZ1NtMTFEWDNIOFh2TWFUNVhqalk1WFBPaTFxY3diSFgtN0VPMFpWdzQ2eTJLN3pJb05zdjBz?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 07, 2026 · 06:15 BRT",
+          "pub_date": "2026-10-07",
+          "pub_ts": 1791364505,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The midterms are an energy election — and here are five places to look - Axios",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DQ3BXTmhKVEJwQ2NPS2thRGFqY1pmcThpR1duNElZYWVvQkstdzVSLXpuZGVvYkpocUNTNk43QWRCdXNMN2pqbzFqUldob1NROTgtekdoUTdXY3JfaTZPS0NxZTJEeEpiYTdQendwcw?oc=5",

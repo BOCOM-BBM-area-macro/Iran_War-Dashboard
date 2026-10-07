@@ -13357,72 +13357,53 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-06T11:08:42.213670+00:00",
+  "last_digest_time": "2026-10-07T11:09:00.117749+00:00",
   "digest": {
-    "digest": "The ongoing conflict involving Iran continues to exert significant economic pressure globally, with notable impacts on fuel prices in the United States and South Africa. Gulf oil flows have shown a partial recovery, reaching 81% of pre-war rates in September, though Mideast oil producers are calling for shared costs related to the war's economic burden. Diplomatic and military actions persist, with Yemen launching a counteroffensive against Iran-backed Houthis, aiming to seize all territories. The US has indicated potential sanctions on foreign financial institutions engaging with Iran, signaling a tightening of financial restrictions. In the US, political discourse surrounding the conflict has intensified, with California officials condemning remarks suggesting Iran could target major cities. Pentagon officials' internal debates prior to the conflict are also being highlighted as foreshadowing operational issues. The potential for Iranian drone attacks has led to the evacuation of US aircraft from a British air base, underscoring the persistent threat of direct engagement. Meanwhile, Eritrea is seeking to re-engage internationally amidst the ongoing conflict, and the broader implications of geography's role in global conflicts are being re-evaluated.",
+    "digest": "The ongoing Iran war continues to exert significant pressure on global energy markets, with oil price forecasts being revised upwards due to the depletion of global stockpiles. Refining margins are expected to reach record highs as fuel markets are boosted by the conflict. Iran has intensified its naval attacks in the Strait of Hormuz, coinciding with increased oil and gas flows. In the United States, political discourse surrounding Iran has become prominent, with former President Trump expressing concerns about potential Iranian targeting of U.S. cities, drawing sharp reactions from California leaders. Simultaneously, diplomatic efforts are underway, with Senator Vance stating that Iran must cut its uranium enrichment levels to achieve a cessation of hostilities. Regional escalations are also evident, as evidenced by Houthi attacks on Yemen's international airport and the interception of a Houthi ballistic missile by the Saudi-led coalition, indicating a widening scope of regional instability linked to the broader conflict.",
     "top_themes": [
-      "Economic Impact of Iran War",
-      "Geopolitical Tensions in the Middle East",
-      "US Political Discourse on Iran"
+      "Iran War Impact on Global Markets",
+      "US Political Discourse on Iran",
+      "Regional Escalations"
     ],
     "next_events": [
       {
+        "title": "Iran's Nuclear Program and Diplomatic Standoff",
+        "description": "Vance's statement directly links ending the war to Iran cutting enrichment. Analysts should monitor IAEA reports, any signs of diplomatic engagement, and Iran's actual enrichment levels, as these will be key indicators of de-escalation or further confrontation."
+      },
+      {
+        "title": "Escalation in the Strait of Hormuz",
+        "description": "Reports indicate Iran is ramping up ship attacks as oil flows rise through this critical choke point. Watch for further maritime incidents, naval deployments by international forces, and any disruptions to oil and gas transit, which could trigger broader military responses."
+      },
+      {
         "title": "Global Energy Market Volatility",
-        "description": "The Iran war continues to impact global fuel prices, as seen in the US and South Africa, and Mideast oil chiefs are calling for shared costs. Analysts should monitor crude oil prices, supply chain disruptions, and international discussions on energy burden-sharing to gauge the war's economic ripple effects."
+        "description": "The war is draining global stockpiles, leading to hiked oil price forecasts and record refining margins, impacting consumer heating bills. Analysts should track crude oil prices, gasoline and heating fuel costs, and strategic petroleum reserve levels, as sustained high prices could fuel economic instability."
       },
       {
-        "title": "Escalation of Regional Proxy Conflicts",
-        "description": "Yemen's government has launched an offensive against Iran-backed Houthis, indicating a potential intensification of proxy conflicts. Watch for shifts in territorial control, increased foreign intervention, and the broader impact on regional stability, as these conflicts often serve as flashpoints for wider confrontation."
+        "title": "Direct Threats to US Homeland Security",
+        "description": "Concerns are rising about potential Iranian targeting of US cities, with some areas receiving extra nuclear protection. Monitor US intelligence assessments, changes in homeland security alerts, and any specific Iranian rhetoric or actions that could indicate a direct threat to American soil."
       },
       {
-        "title": "Direct Military Confrontation Risks",
-        "description": "Reports of potential Iranian drone attacks leading to US aircraft relocation highlight the ongoing risk of direct military engagement. Analysts should track any further incidents involving Iranian military assets, changes in US force posture in the region, and the rhetoric from both sides that could signal an imminent escalation."
+        "title": "Regional Proxy Conflict Dynamics",
+        "description": "Continued Houthi attacks in Yemen and Saudi interceptions highlight ongoing proxy conflicts involving Iran. Watch for shifts in the Yemen conflict, Houthi capabilities and targets, and the broader stability of the Middle East, as these regional flashpoints can quickly escalate into wider confrontations."
       },
       {
-        "title": "US Sanctions Enforcement and Iran's Economy",
-        "description": "The US has warned of sanctions against foreign financial institutions dealing with Iran, signaling increased economic pressure. Monitor the implementation of these sanctions, their impact on Iran's economy and its ability to fund regional activities, and any retaliatory measures from Tehran."
-      },
-      {
-        "title": "Iran's Nuclear Ambitions and US Response",
-        "description": "US officials remain committed to preventing Iran from acquiring nuclear weapons, a core policy objective. Watch for any intelligence regarding Iran's nuclear program advancements, statements from international bodies, and potential US or Israeli actions aimed at disrupting these efforts."
-      },
-      {
-        "title": "Political Rhetoric and Miscalculation",
-        "description": "High-level political rhetoric, such as comments about Iran targeting US cities, can inflame tensions and increase the risk of miscalculation. Analysts should closely follow official statements from key leaders in the US, Iran, and regional powers for any shifts in tone or explicit threats that could precipitate unintended escalation."
+        "title": "Internal Iranian Political Stability",
+        "description": "Trump's comment about uncertainty regarding Iran's leadership suggests potential internal instability. Analysts should observe any signs of power struggles, changes in decision-making processes, or shifts in the regime's public messaging, which could impact its foreign policy and military actions."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-06T11:08:50.921662+00:00",
+  "last_watch_time": "2026-10-07T11:10:00.662484+00:00",
   "relevant_news": [
     {
-      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 06, 2026 · 04:11 BRT",
-      "pub_date": "2026-10-06",
-      "pub_ts": 1791270717,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats - Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05/",
+      "title": "EXCLUSIVE: Vance says Iran must cut enrichment to end war - Reuters",
+      "url": "https://www.reuters.com/world/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war-2026-10-06/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 05, 2026 · 14:02 BRT",
-      "pub_date": "2026-10-05",
-      "pub_ts": 1791219772,
+      "published": "Oct 06, 2026 · 19:40 BRT",
+      "pub_date": "2026-10-06",
+      "pub_ts": 1791326400,
       "summary": "",
       "tags": [
         "extracted",
@@ -13434,18 +13415,56 @@
       "sentiment_success": false
     },
     {
-      "title": "Pentagon officials’ heated debates foreshadowed problems in Iran - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/10/05/pentagon-dispute-trumps-first-war-foreshadowed-iran-challenges/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 05, 2026 · 13:00 BRT",
-      "pub_date": "2026-10-05",
-      "pub_ts": 1791216000,
+      "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile - Reuters",
+      "url": "https://www.reuters.com/business/energy/us-eia-hikes-oil-price-forecasts-again-iran-war-drains-global-stockpile-2026-10-06/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 06, 2026 · 14:39 BRT",
+      "pub_date": "2026-10-06",
+      "pub_ts": 1791308345,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Ramps Up Ship Attacks in Hormuz as Oil, Gas Flows Rise - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/iran-ramps-up-ship-attacks-in-hormuz-as-oil-and-gas-flows-climb",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Oct 06, 2026 · 21:52 BRT",
+      "pub_date": "2026-10-06",
+      "pub_ts": 1791334320,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump worries Iran could target U.S. cities. These places get extra nuclear protection - Axios",
+      "url": "https://www.axios.com/2026/10/06/trump-iran-san-diego-los-angeles-attacks-cities",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Oct 06, 2026 · 20:30 BRT",
+      "pub_date": "2026-10-06",
+      "pub_ts": 1791329444,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -13454,34 +13473,34 @@
     },
     {
       "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-10-05/live-updates-910598",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-10-07/live-updates-910861",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 05, 2026 · 21:00 BRT",
-      "pub_date": "2026-10-05",
-      "pub_ts": 1791244805,
-      "summary": "Yemen launches counteroffensive against Houthis• Flydubai hijacker's motives under investigation • Pete Hegseth says US 'hell-bent' on keeping Iran from achieving nuclear weapons",
+      "published": "Oct 07, 2026 · 07:00 BRT",
+      "pub_date": "2026-10-07",
+      "pub_ts": 1791367205,
+      "summary": "Houthis launch attack on Yemen's international airport • Vance says Iran must cut enrichment to end war • Saudi Coalition intercepts Houthi ballistic missile",
       "tags": [
         "Israel",
         "Benjamin Netanyahu",
         "Gaza",
         "Hamas",
-        "Hezbollah"
+        "IDF"
       ],
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
     },
     {
-      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
+      "title": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles and San Diego? - The New York Times",
+      "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 06, 2026 · 01:18 BRT",
+      "published": "Oct 06, 2026 · 15:48 BRT",
       "pub_date": "2026-10-06",
-      "pub_ts": 1791260280,
+      "pub_ts": 1791312504,
       "summary": "",
       "tags": [
         "extracted",
@@ -13491,31 +13510,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "US says foreign financial institutions doing business with Iran may be sanctioned without notice - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-2026-10-05/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 05, 2026 · 17:29 BRT",
-      "pub_date": "2026-10-05",
-      "pub_ts": 1791232184,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-06T11:09:03.248521+00:00",
-  "last_generated_date": "2026-10-06",
-  "last_generated_time": "2026-10-06T23:01:45.797110+00:00",
+  "last_relevant_time": "2026-10-07T11:10:01.154926+00:00",
+  "last_generated_date": "2026-10-07",
+  "last_generated_time": "2026-10-07T08:01:46.292432+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

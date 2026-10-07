@@ -13017,7 +13017,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-06"
+      "pub_date": "2026-10-07"
     },
     "https://www.reuters.com/business/energy/iran-war-drives-up-gasoline-prices-us-trump-blames-ukraine-democrats-2026-10-05/": {
       "summary": "",
@@ -13230,7 +13230,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-07"
+      "pub_date": "2026-10-06"
     },
     "https://www.axios.com/2026/10/06/winter-heating-costs-increase-iran-ukraine-war": {
       "summary": "",
@@ -13390,6 +13390,49 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.reuters.com/world/middle-east/attacks-tankers-hormuz-hit-highest-any-week-since-start-iran-war-sources-say-2026-10-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.reuters.com/world/middle-east/lebanons-hezbollah-gets-200-million-iran-help-displaced-sources-say-2026-10-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-07/kenya-holds-rates-with-eye-on-inflationary-risks-from-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-910945": {
+      "summary": "Hezbollah received the cash last month despite a tightening US economic chokehold on Iran and increasing difficulties in getting funds to Tehran's Lebanese ally.",
+      "tags": [
+        "Israel",
+        "Hezbollah",
+        "Iran",
+        "Lebanon",
+        "Lebanon War"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -13555,7 +13598,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-07T11:10:01.154926+00:00",
   "last_generated_date": "2026-10-07",
-  "last_generated_time": "2026-10-07T11:01:59.026905+00:00",
+  "last_generated_time": "2026-10-07T12:03:06.923625+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -13626,6 +13669,20 @@
           "published": "Oct 06, 2026 · 13:07 BRT",
           "pub_date": "2026-10-06",
           "pub_ts": 1791302863,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Around 14 million barrels per day leaving Middle East, Vitol CEO says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODdCU3pBSFpicFlEQXRDelcyUFlmYnhBRk1uODNfbEpuS1pSYktaT183TjZ5OTFxY3BGUmItajNNNmItOVNOMGtiYmZMNlY4bXo0RjBWRlBGejZobHJlNGhZWldGTm9hdWlaak53TkppWlozNDFXcW5ReE4zNUcyUlpGOGxBVUhVUF96TUVfLW5HZWNLVkpqYS1ZUXBUYkV0RDBhTWhGYjByS0ZzSjhv?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 06, 2026 · 08:30 BRT",
+          "pub_date": "2026-10-06",
+          "pub_ts": 1791286256,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

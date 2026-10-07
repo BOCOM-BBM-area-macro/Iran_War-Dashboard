@@ -13230,7 +13230,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-06"
+      "pub_date": "2026-10-07"
     },
     "https://www.axios.com/2026/10/06/winter-heating-costs-increase-iran-ukraine-war": {
       "summary": "",
@@ -13374,6 +13374,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-07"
+    },
+    "https://www.washingtonpost.com/national/2026/10/06/iran-war-trump-gold-star-families-soldiers/aa2b649a-c1b7-11f1-8170-681419af1cc9_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-06"
     }
   },
   "last_digest_success": true,
@@ -13535,12 +13545,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-07T11:10:01.154926+00:00",
   "last_generated_date": "2026-10-07",
-  "last_generated_time": "2026-10-07T09:01:49.815507+00:00",
+  "last_generated_time": "2026-10-07T10:01:54.618284+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGpoVjItaDZJaTZmNzBfekFfXzEyeUdQY2NRaWJwSUEtVDU1dmRlZHE2TjE0RWRWdnlWbWctX1FOdGI5OVBLWmtGTTVTRkRDYkt4WnBsN0k4Y3JucGJobnN3blo3N25HeXJQdlY0TW1Bb0hhbFBlV0xZWVlkX0hRRFQzdGxLbkZ2YkFYNHBadUQzeTU4SHpKakhoWVpTTEc0TW5jaE5NUDFCZ2pHd2NyQU1ZUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 07, 2026 · 07:43 BRT",
+          "pub_date": "2026-10-07",
+          "pub_ts": 1791369796,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Shell expects record refining margins as Iran war boosts fuel markets - Reuters",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamVwY1BTVUJKQmdkWDFBXzA2aFBOVlJYUGVqTHB1cXFYY2ZQdFJ4NHVIT25iQXYwaFVSYTkwVWJnc18xVXBNeHNjQXVxU2pPalpGTWVaM1h2MnRlRGlXZnBTOTItUi03OGxMRlROUnRFQnBGZ0RZNnExUm9VMi1vdzdvY3ExaGtuTjBtb0REbVM?oc=5",

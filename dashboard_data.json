@@ -13569,7 +13569,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-08"
+      "pub_date": "2026-10-07"
     },
     "https://www.wsj.com/video/hegseth-commends-crew-of-the-uss-lincoln-for-role-in-iran-war/0A26095A-234A-4864-94AC-340B80628A72": {
       "summary": "",
@@ -13751,6 +13751,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-08/iran-escalation-makes-more-sense-after-midterms-hochstein-says": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
+    },
+    "https://www.jpost.com/middle-east/article-911068": {
+      "summary": "The conflict, now an overspill of the US-Iran war, has added new chaos to a region already aflame, and threatens to draw other states into grueling mountain fighting.",
+      "tags": [
+        "Iran",
+        "Syria",
+        "Turkey",
+        "Saudi Arabia",
+        "Yemen"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
     }
   },
   "last_digest_success": true,
@@ -13910,7 +13933,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-08T11:10:11.044109+00:00",
   "last_generated_date": "2026-10-08",
-  "last_generated_time": "2026-10-08T12:02:12.628176+00:00",
+  "last_generated_time": "2026-10-08T13:02:06.447993+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

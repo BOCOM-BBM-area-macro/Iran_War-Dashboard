@@ -13708,6 +13708,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-08"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-911035": {
+      "summary": "Israel reportedly warned US and German partners three weeks ago of a potential threat, with concern focused on bases supporting US military operations and logistics linked to the conflict with Iran.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Germany",
+        "Europe"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
+    },
+    "https://www.nytimes.com/2026/10/08/briefing/america-in-retreat.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
     }
   },
   "last_digest_success": true,
@@ -13867,7 +13890,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-08T11:10:11.044109+00:00",
   "last_generated_date": "2026-10-08",
-  "last_generated_time": "2026-10-08T09:02:03.768364+00:00",
+  "last_generated_time": "2026-10-08T10:02:07.063679+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -20393,6 +20416,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "EU to delay methane emissions rules for one year and no more, energy chief says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWJxRGxvRk5YTXVKbjZPSndYMTdEa3dlZjByT3dFN1k0dXZ1NWdiNVBGUVlDVEt5akxfckFZYUJHOV9sUDMwVnlpWVR0MG5mNGtacnhfVW80azQwUU1jVzR5NlhYNXRzX0p5TUdQQXVVeGF0OUFvd3VMR2ZXcFhpa3RYTkJTeXVzR2hrYWFTcTRhaVdrTmlNRFd0ckNiTURRaHQ1Ny05TzctaThrQ1RXSzlGQUVkTzBpeEZz?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 06, 2026 · 14:01 BRT",
+          "pub_date": "2026-10-06",
+          "pub_ts": 1791306113,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump claims spike in gas prices caused by Ukraine strikes on Russia, not Iran war - The Times of Israel",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDBPVE01LUVpd0dPdlBEaEdJNmdVSnJ0OWViVERiVEh2eUtIb1ZId1FaUldNbm9XX09OYndFU2VRY3N6RlB3OG1pcms4SFk3bWIzUE81MkVfUDFqem1OSURuc3ZGYTJYUnZfeVJJNVJfSko0X2xpQzFLM0NEQTB0OG44NHNYN1N6Q0Q1OTdrNFNHQjFpWWdKNV8zZXpFN1JHWmZlb2JKYm1GRFhsUkFlTWJDYmdpdHg2QTlWSXM3THVmaHhUeHc?oc=5",

@@ -13569,7 +13569,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-07"
+      "pub_date": "2026-10-08"
     },
     "https://www.wsj.com/video/hegseth-commends-crew-of-the-uss-lincoln-for-role-in-iran-war/0A26095A-234A-4864-94AC-340B80628A72": {
       "summary": "",
@@ -13727,6 +13727,26 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
+    },
+    "https://www.reuters.com/business/energy/asia-races-stockpile-oil-speed-up-renewables-response-iran-war-2026-10-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
+    },
+    "https://www.reuters.com/world/asia-pacific/attack-risks-rise-tankers-iran-vows-block-more-hormuz-routes-2026-10-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -13890,12 +13910,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-08T11:10:11.044109+00:00",
   "last_generated_date": "2026-10-08",
-  "last_generated_time": "2026-10-08T11:02:28.257348+00:00",
+  "last_generated_time": "2026-10-08T12:02:12.628176+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Asia races to stockpile oil, speed up renewables in response to Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1Cd0Mwc1pJOUR1MFdlMWxHSzRESGx0anZnd0FyYzJZRVAteGFZOFNvSEdjYjNZREFINVprWFhiVmIyZkNrZlNBM25GaVgzMGo4OFJNdmE0LVdJbmYxSFJILTZzaXRhTlFxTXZNOGhWamREdTlYQTI4dXJycS1lMFF6VEgyUHo3c3NUeV93NmY3RXowVEp2andOcWVTMmZpZUFVYXZKcGg1cVlwRjlaOUxsQnQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 08, 2026 · 11:37 BRT",
+          "pub_date": "2026-10-08",
+          "pub_ts": 1791470263,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Traders Are Increasingly Tuning Out Trump’s Iran Rhetoric - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRV2NDa2loODl6azJkcGFWTDhsNndYS3dRY0NjYVhEMWJWWHBHbEFvN1F5UWl1bzc0bEU5cVR5R2Fkbk1jRnl0em5SczBxd3lRYUJuTlIyN3NtWThFa05hNEFJeW9ZMzBXREJ2Uw?oc=5",

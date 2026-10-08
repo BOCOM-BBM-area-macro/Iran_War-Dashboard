@@ -13814,6 +13814,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-08"
+    },
+    "https://www.axios.com/2026/10/08/trump-iran-strikes-midterm-elections": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
     }
   },
   "last_digest_success": true,
@@ -13973,7 +13983,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-08T11:10:11.044109+00:00",
   "last_generated_date": "2026-10-08",
-  "last_generated_time": "2026-10-08T17:02:09.451384+00:00",
+  "last_generated_time": "2026-10-08T18:01:56.826282+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -13988,6 +13998,20 @@
           "published": "Oct 08, 2026 · 11:37 BRT",
           "pub_date": "2026-10-08",
           "pub_ts": 1791470263,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 08, 2026 · 10:17 BRT",
+          "pub_date": "2026-10-08",
+          "pub_ts": 1791465473,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

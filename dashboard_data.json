@@ -13615,6 +13615,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-08"
+    },
+    "https://www.reuters.com/video/watch/idRW823707102026RP1/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
+    },
+    "https://www.jpost.com/middle-east/2026-10-08/live-updates-910986": {
+      "summary": "CENTCOM rejects Iran’s claim Hormuz is closed • Yemen displacement reaches 200,000 • Hezbollah receives $200m from Iran",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-says-1st-flight-by-foreign-airline-landed-since-start-of-war-after-us-issued-sanctions-waiver-for-iraqi-carrier/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
     }
   },
   "last_digest_success": true,
@@ -13782,6 +13815,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Big oil enjoys record profits as the Iran war sparks major results - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORHE2MXlKNlBQWUlSb2w2Tm9LUTV4V09VUFptVjhlTDFBUF9RekVRUkFhdFdkb0RXMEFZZk1GZWNva1d5MnFrLW42bW50SjlmMUNzRFgxeXpvaVhQRUFfcDN2OVJwLWM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 08, 2026 · 04:41 BRT",
+          "pub_date": "2026-10-08",
+          "pub_ts": 1791445299,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Big oil enjoys record profits as the Iran war sparks major results - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfcldtZ082bHpGQXFKYU5faE5xanZVWjZBSmo5czNRUkxaR1pyeFdlSVdpUzZFZE1TT2JZaVJHT0VnRk5BV3YyeWpNWEZmLTFMSDlKOHo1dng0SDBPc2lMRHl3cU1zTHc?oc=5",

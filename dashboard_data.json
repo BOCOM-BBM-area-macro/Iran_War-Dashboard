@@ -13950,56 +13950,85 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-09"
+    },
+    "https://www.reuters.com/world/middle-east/houthi-strikes-riyadh-airport-killed-three-saudis-war-escalates-2026-10-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-09"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-08T11:09:34.528321+00:00",
+  "last_digest_time": "2026-10-09T11:08:13.850017+00:00",
   "digest": {
-    "digest": "Recent reports indicate heightened military readiness, with U.S. forces ordered to prepare for potential strikes against Iran. This follows a period of increased attacks on tankers in the Strait of Hormuz, reaching levels not seen since the conflict's inception. The war's economic repercussions are significant, with Britain's public finances facing a substantial deficit and major oil companies reporting record profits. Diplomatic efforts continue, with statements suggesting Iran must cut uranium enrichment to de-escalate the conflict. Meanwhile, regional dynamics are shifting, as Syria considers offering military aid to Saudi Arabia amidst ongoing Houthi attacks on Saudi airports. Hezbollah has reportedly received substantial funding from Iran to support displaced populations. The conflict is also impacting domestic politics in the U.S., with discussions linking campaign challenges to the Iran war and gas prices. Oil traders appear to be increasingly disregarding rhetoric surrounding Iran, focusing instead on market fundamentals. The situation underscores a new era of repression within Iran, with authorities actively pursuing protesters both domestically and abroad.",
+    "digest": "Recent reports indicate the US military is developing options for potential strikes against Iran, including a plan for a three-day intense campaign, though President Trump has stated the US will not strike Iran before the November midterm elections. Concurrently, fresh US sanctions have been imposed on Iran's \"shadow fleet,\" signaling an ongoing economic pressure strategy. The conflict in the region is escalating with Houthi strikes on Saudi Arabia, including an attack on Riyadh airport that killed three Saudis, and the interception of a Houthi ballistic missile by the Saudi-led coalition. In response to the broader Iran conflict, Asian nations are accelerating oil stockpiling and renewable energy development. Iran has vowed to block more Hormuz routes, increasing risks for tankers. Diplomatic stances remain tense, with Vance stating Iran must cut enrichment to end the war. The potential for renewed conflict with Iran has also been linked to a possible postponement of Israeli elections.",
     "top_themes": [
-      "Military Readiness and Potential Strikes",
-      "Economic Impacts of the Conflict",
-      "Regional Escalation and Diplomatic Stances"
+      "US Military Preparedness for Iran Conflict",
+      "Iran-Saudi Arabia Escalation",
+      "Oil Market Volatility and Iran"
     ],
     "next_events": [
       {
-        "title": "US Military Posture and Potential Strikes",
-        "description": "Analysts should closely monitor any further directives or deployments by the US military, as reports indicate readiness for potential strikes against Iran. The timing and nature of any such actions will be critical in determining the immediate trajectory of the conflict and the risk of direct escalation."
+        "title": "US Military Action Post-Midterm Elections",
+        "description": "Multiple reports indicate the US military is preparing options for strikes against Iran, including a three-day campaign. Analysts should monitor US rhetoric and military deployments (e.g., aircraft carriers) immediately following the US midterm elections, as President Trump has stated no action will occur before then."
       },
       {
-        "title": "Iran's Uranium Enrichment Program",
-        "description": "The status and progression of Iran's uranium enrichment activities remain a central point of contention and a key condition for de-escalation, as highlighted by international figures. Any significant changes in enrichment levels or transparency could either open avenues for negotiation or trigger further international pressure and military considerations."
+        "title": "Escalation of Economic Pressure and Sanctions",
+        "description": "The US is pursuing a 'long economic war' with Iran, evidenced by recent sanctions on Iran's 'shadow fleet.' Watch for further sanctions, their impact on Iran's economy, and how global markets, particularly oil and renewable energy sectors, react to these pressures and potential supply disruptions."
       },
       {
-        "title": "Expansion of Regional Proxy Conflicts",
-        "description": "The conflict's reach is expanding, with increased attacks on tankers in Hormuz and Houthi actions in Yemen drawing in other regional actors like Syria. Watch for further involvement of proxies, particularly Hezbollah's activities funded by Iran, and the potential for new 'fronts' to emerge, indicating a broader regional destabilization."
+        "title": "Regional Proxy Conflict and Houthi Actions",
+        "description": "Houthi strikes on Saudi targets, including Riyadh airport, signal an escalation of the broader regional conflict. Analysts should monitor the frequency and targets of Houthi attacks, as well as the Saudi coalition's responses, as these proxy actions could trigger wider direct confrontation."
       },
       {
-        "title": "Global Economic and Oil Market Impacts",
-        "description": "The 'Iran War' is already impacting global finances, including Britain's public finances and record profits for big oil companies. Analysts should track oil prices, tanker security in critical waterways like Hormuz, and central bank responses (e.g., ECB) to assess the ongoing economic fallout and its potential to trigger broader financial instability."
+        "title": "Strait of Hormuz Security and Shipping Risks",
+        "description": "Iran has threatened to block more routes in the Strait of Hormuz, a critical chokepoint for global oil shipments. Watch for any Iranian naval maneuvers, rhetoric, or incidents in the Strait, as disruptions here would have immediate and severe global economic consequences."
       },
       {
-        "title": "Internal Iranian Repression and Stability",
-        "description": "Iran's wartime hunt for protesters at home and abroad signals a new era of internal repression. Monitoring the domestic political climate, human rights situation, and any signs of internal dissent or instability within Iran will be crucial, as these factors could influence the regime's external policies and resilience."
+        "title": "Prospects for US-Iran Diplomatic Engagement",
+        "description": "Despite military preparations, there are mentions of potential talks and conditions for ending the 'war' (e.g., Iran cutting enrichment). Analysts should look for any signals from either the US or Iran indicating a willingness to engage in dialogue, which could de-escalate tensions and impact oil prices."
       },
       {
-        "title": "Impact on US Domestic Politics and Elections",
-        "description": "The 'Iran War' is emerging as a significant issue in US political campaigns and debates, influencing public opinion and candidate platforms. Observe how the conflict continues to shape political narratives, particularly regarding foreign policy and economic concerns like gas prices, as it could impact election outcomes and future US policy."
+        "title": "Impact on Israeli Political Stability",
+        "description": "Reports suggest a renewed war with Iran could postpone Israeli elections. Monitor statements from Israeli officials and political developments, as the threat of conflict could significantly influence domestic politics and potentially lead to a delay in democratic processes."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-08T11:10:10.534543+00:00",
+  "last_watch_time": "2026-10-09T11:08:23.294836+00:00",
   "relevant_news": [
+    {
+      "title": "US said preparing options to renew Iran war, including plan for 3 days of intense strikes - The Times of Israel",
+      "url": "https://www.timesofisrael.com/us-said-preparing-options-to-renew-iran-war-including-plan-for-3-days-of-intense-strikes/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Oct 09, 2026 · 06:29 BRT",
+      "pub_date": "2026-10-09",
+      "pub_ts": 1791538150,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
       "url": "https://www.axios.com/2026/10/07/trump-us-central-command-iran-israel-war-elections",
       "source": "Axios",
       "domain": "axios.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Oct 07, 2026 · 20:57 BRT",
-      "pub_date": "2026-10-07",
-      "pub_ts": 1791417426,
+      "published": "Oct 08, 2026 · 04:05 BRT",
+      "pub_date": "2026-10-08",
+      "pub_ts": 1791443157,
       "summary": "",
       "tags": [
         "extracted",
@@ -14011,14 +14040,54 @@
       "sentiment_success": false
     },
     {
-      "title": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/attacks-tankers-hormuz-hit-highest-any-week-since-start-iran-war-sources-say-2026-10-07/",
+      "title": "After pledging swift results, Trump team prepares for long economic war with Iran - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/10/09/after-pledging-swift-results-trump-team-prepares-long-economic-war-with-iran/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Oct 09, 2026 · 07:32 BRT",
+      "pub_date": "2026-10-09",
+      "pub_ts": 1791541924,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Zamir says return to war with Iran may postpone Israel election as Pentagon prepares plans - report - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911125",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 08, 2026 · 20:10 BRT",
+      "pub_date": "2026-10-08",
+      "pub_ts": 1791501037,
+      "summary": "Three US aircraft carriers will soon be in the Middle East, the New York Times said, adding that the Pentagon had developed plan for a three-day campaign against Iran.",
+      "tags": [
+        "IDF",
+        "United States",
+        "iran war scenario",
+        "us iran",
+        "us israel iran"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Asia races to stockpile oil, speed up renewables in response to Iran war - Reuters",
+      "url": "https://www.reuters.com/business/energy/asia-races-stockpile-oil-speed-up-renewables-response-iran-war-2026-10-08/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 07, 2026 · 11:24 BRT",
-      "pub_date": "2026-10-07",
-      "pub_ts": 1791383040,
+      "published": "Oct 08, 2026 · 11:36 BRT",
+      "pub_date": "2026-10-08",
+      "pub_ts": 1791470160,
       "summary": "",
       "tags": [
         "extracted",
@@ -14030,75 +14099,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran war blows near-£12bn hole in Britain’s public finances - Financial Times",
-      "url": "https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Oct 07, 2026 · 17:00 BRT",
-      "pub_date": "2026-10-07",
-      "pub_ts": 1791403203,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran’s wartime hunt for protesters at home and abroad ushers in a new era of repression - Reuters",
-      "url": "https://www.reuters.com/investigates/special-report/iran-crisis-repression/",
+      "title": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/attack-risks-rise-tankers-iran-vows-block-more-hormuz-routes-2026-10-08/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 08, 2026 · 07:40 BRT",
+      "published": "Oct 08, 2026 · 10:17 BRT",
       "pub_date": "2026-10-08",
-      "pub_ts": 1791456045,
+      "pub_ts": 1791465473,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Big oil enjoys record profits as the Iran war sparks major results - Reuters",
-      "url": "https://www.reuters.com/video/watch/idRW823707102026RP1/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 08, 2026 · 04:41 BRT",
-      "pub_date": "2026-10-08",
-      "pub_ts": 1791445299,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US military told to prepare for potential resumption of Iran strikes — reports - The Times of Israel",
-      "url": "https://www.timesofisrael.com/us-military-told-to-prepare-for-potential-resumption-of-iran-strikes-reports/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Oct 08, 2026 · 07:48 BRT",
-      "pub_date": "2026-10-08",
-      "pub_ts": 1791456515,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -14107,9 +14119,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-08T11:10:11.044109+00:00",
-  "last_generated_date": "2026-10-08",
-  "last_generated_time": "2026-10-08T23:02:01.479751+00:00",
+  "last_relevant_time": "2026-10-09T11:08:23.801142+00:00",
+  "last_generated_date": "2026-10-09",
+  "last_generated_time": "2026-10-09T08:01:58.328906+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

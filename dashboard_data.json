@@ -13823,7 +13823,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-08"
+      "pub_date": "2026-10-09"
     },
     "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html": {
       "summary": "",
@@ -13956,6 +13956,19 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-09"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-911111": {
+      "summary": "MILITARY AFFAIRS: New revelations on Iran's Hormuz blockade, Cooper's secret call to Zamir, US base vulnerabilities, missile threats, and CENTCOM's influence on the war's strategic goals.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "Middle East"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14121,7 +14134,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-09T11:08:23.801142+00:00",
   "last_generated_date": "2026-10-09",
-  "last_generated_time": "2026-10-09T08:01:58.328906+00:00",
+  "last_generated_time": "2026-10-09T09:02:15.281190+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

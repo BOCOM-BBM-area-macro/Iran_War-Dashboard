@@ -13313,7 +13313,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-07"
+      "pub_date": "2026-10-08"
     },
     "https://www.axios.com/2026/10/07/ken-paxton-iran-war-gas-prices-audio-trump-texas": {
       "summary": "",
@@ -13900,6 +13900,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-08"
+    },
+    "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-08"
+    },
+    "https://www.jpost.com/middle-east/2026-10-09/live-updates-911130": {
+      "summary": "Israel assassinated Iran's navy chief, fearing he could lead a more dangerous IRGC • Trump says no strikes on Iran before November",
+      "tags": [
+        "extracted",
+        "jpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-09"
     }
   },
   "last_digest_success": true,
@@ -14065,6 +14085,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil falls as Trump comments on Iran talks ease supply concerns - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 08, 2026 · 23:28 BRT",
+          "pub_date": "2026-10-08",
+          "pub_ts": 1791512880,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Asia races to stockpile oil, speed up renewables in response to Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1Cd0Mwc1pJOUR1MFdlMWxHSzRESGx0anZnd0FyYzJZRVAteGFZOFNvSEdjYjNZREFINVprWFhiVmIyZkNrZlNBM25GaVgzMGo4OFJNdmE0LVdJbmYxSFJILTZzaXRhTlFxTXZNOGhWamREdTlYQTI4dXJycS1lMFF6VEgyUHo3c3NUeV93NmY3RXowVEp2andOcWVTMmZpZUFVYXZKcGg1cVlwRjlaOUxsQnQ?oc=5",
@@ -14648,6 +14682,20 @@
           "published": "Oct 04, 2026 · 04:00 BRT",
           "pub_date": "2026-10-04",
           "pub_ts": 1791097200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Australian Treasurer Calls US-Iran War an Economic ‘Disaster’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUI3OHlVQzF5QVZ2MDhNWVNaU0tzY1REZkpZaGMwczNFQUt2Z05yc2FOQWxzMmpGdlhYdWtnd3dWcWNIT1RMallHWWR2enVrRExZTENaeGRXTzB4RTBpM3JpVmZhSjdVR2t5QjVFS0J0cXVBN1c4RFIyQU12X0JGVmpLWTRpdVgyN25zS0Z0VkFJcnAybnVJM1hJN3ZPU2lnYi1xeUhmeGVMRm5YblhN?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 03, 2026 · 21:47 BRT",
+          "pub_date": "2026-10-03",
+          "pub_ts": 1791074820,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -14037,7 +14037,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-09"
+      "pub_date": "2026-10-10"
     },
     "https://www.bloomberg.com/news/articles/2026-10-10/egypt-inflation-slows-again-despite-iran-war-price-pressures": {
       "summary": "",
@@ -14183,6 +14183,16 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-10"
+    },
+    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14350,7 +14360,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-10T11:09:23.559071+00:00",
   "last_generated_date": "2026-10-10",
-  "last_generated_time": "2026-10-10T18:01:53.525122+00:00",
+  "last_generated_time": "2026-10-10T19:01:46.585294+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

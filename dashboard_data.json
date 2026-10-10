@@ -14197,6 +14197,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-10"
+    },
+    "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-10"
     }
   },
   "last_digest_success": true,
@@ -14360,7 +14370,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-10T11:09:23.559071+00:00",
   "last_generated_date": "2026-10-10",
-  "last_generated_time": "2026-10-10T19:01:46.585294+00:00",
+  "last_generated_time": "2026-10-10T20:01:53.146151+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

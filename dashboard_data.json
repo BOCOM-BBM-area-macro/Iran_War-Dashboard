@@ -14242,7 +14242,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-10"
+      "pub_date": "2026-10-11"
     },
     "https://www.timesofisrael.com/liveblog_entry/us-military-says-it-disabled-cargo-vessel-trying-to-bypass-iran-blockade/": {
       "summary": "",
@@ -14263,6 +14263,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-10"
+    },
+    "https://www.reuters.com/world/china/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok-2026-10-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-11"
     }
   },
   "last_digest_success": true,
@@ -19953,6 +19963,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGI2SXFmckFhVDd4Q093SFNEZTJYSzM0RGJhbWpoZFJibTdtcTZqQldRZVUtTXRaalJ3Y0ttaFBMRmpITU1aejlObnpXMHFrVXI1a1MtNVRIWk11NW14enVReXlZejJwOUNsZzc1RTJSVmFnZXZIblFzTGtIcDd5SVc1d1lJWXVremwzQzlhX2VzTFlvSGs0?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 10, 2026 · 19:33 BRT",
+          "pub_date": "2026-10-10",
+          "pub_ts": 1791671595,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump talks to Putin, then announces diesel deal with Russia, in sharp reversal of U.S. policy - CBC",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wYjRIT3RQcV9zWU1RclI3ejBtUlJkaE1SNUpUWlYyU2VjVG5lLUpnaWJlbmxrdjF0VDF3NUxFSEFrNFZjQjliVlM0V1U0LXVZVlMyM1JjZ1pueFd1cU9zQjZ4ZXByTEx2VXAxU3lyYWkwUDdXOWxldHVxOA?oc=5",

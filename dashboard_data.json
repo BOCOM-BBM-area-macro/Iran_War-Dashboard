@@ -14196,7 +14196,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-10"
+      "pub_date": "2026-10-11"
     },
     "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html": {
       "summary": "",
@@ -14385,6 +14385,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-11"
+    },
+    "https://www.reuters.com/world/middle-east/iran-says-us-response-its-proposal-reopen-hormuz-was-insufficient-2026-10-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-11"
+    },
+    "https://www.jpost.com/opinion/article-911293": {
+      "summary": "The bad news is that this pattern of America riding to Israel’s rescue is not sustainable. Israel would be delusional to assume it is. It needs to make its defense as self-reliant as possible.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "Memorandum of Understanding"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-11"
     }
   },
   "last_digest_success": true,
@@ -14545,7 +14568,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-11T11:09:56.382343+00:00",
   "last_generated_date": "2026-10-11",
-  "last_generated_time": "2026-10-11T14:01:53.126155+00:00",
+  "last_generated_time": "2026-10-11T15:01:54.206666+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -14538,6 +14538,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-12"
+    },
+    "https://www.reuters.com/world/middle-east/skies-over-saudi-capital-riyadh-largely-empty-after-deadly-houthi-strikes-2026-10-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-12"
+    },
+    "https://www.reuters.com/world/middle-east/airlines-cancel-flights-saudi-arabia-after-riyadh-airport-attacks-2026-10-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-12"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-911449": {
+      "summary": "Beyond helping operators place content before wider audiences, OpenAI said AI enabled malicious actors to conduct operations with greater scale, efficiency, linguistic fluency, and editorial ability.",
+      "tags": [
+        "Iran",
+        "us israel iran",
+        "Fake news",
+        "Artificial intelligence",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-12"
     }
   },
   "last_digest_success": true,
@@ -14695,7 +14728,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-12T11:12:21.354629+00:00",
   "last_generated_date": "2026-10-12",
-  "last_generated_time": "2026-10-12T10:01:41.697274+00:00",
+  "last_generated_time": "2026-10-12T11:01:57.127570+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -21488,6 +21521,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Europe set for another year of high gas prices as reserves hit lows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUNxdUxmaThaQ0FLdXRxaWdHNE0tMm5OZjVZenR0X1h2cEtmODNEckpiejRHc0dtZXZnajFRZUQyLVo5ckgyR1lyTEN4YzdNNVo4OGptVC1QMkxUYUVGMDJzZnR0RXFZcXZ2NU9JMDNhVDlmLWQyMmhwZHVSRnRXWWVyTnBfX2Z3UXlxT3JRTnZ3R0xMRktqb0gwTWZRVXl4emZqU1NzWHMxX0hBeVE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 12, 2026 · 10:15 BRT",
+          "pub_date": "2026-10-12",
+          "pub_ts": 1791810936,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "COMMENTARY: Middle East LNG industry remains hostage of Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
           "source": "Reuters",
@@ -22995,6 +23042,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Europe’s Tough Choices to Avert a Gas Supply Crunch This Winter - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODdGOFUycGVyaEFaQlpqd3BkVzBMWTJoS1dvUWlCY0M5Z0gyOEp5YkkwdmNpbFA2RFg4N2lwRDV0bGxUMlg5aXE1OTRpTzcwMUppRmJpNXFoQl9qVV91YlNmMzRvbkdQczZ6RUVfVVlvZDJ2NDNLQ1M3S3o4eVFYd2dLWEFXcGNkb3BtVXNhakJxSWRuMDg4T3ByT0RyWHc5U3FKYnpkN0NDNmRGU3NGdW5YdTJZZlVH?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 09, 2026 · 09:17 BRT",
+          "pub_date": "2026-10-09",
+          "pub_ts": 1791548224,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Turkey says Russia, Ukraine increasing attacks in Black Sea ahead of winter - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGpIUmFkT3JCSlBYSGViLUs1SXV1aGN2aE14MWRVQjc2UjlqVjFCS0EwNGx2R004WTFnRUEtaVlDTWZfU2htczhYWDl4OGd4TFNDSkdWR0c0NGZRX2s1NnRrWFhfZktvS3Fpcl9wSndkUk44VTVLaWdXZTE3dnd5MVFBczNHSmtHU3RPekUxaGtHWU1PRHdLS0xlU0kxeUdMZUMyeGJNYjhkUlpidmI3eV9SbmtMWmdITk5CZzZlOA?oc=5",

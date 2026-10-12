@@ -14176,7 +14176,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-10"
+      "pub_date": "2026-10-12"
     },
     "https://www.timesofisrael.com/iran-said-still-able-to-produce-missiles-and-drones-is-being-armed-by-russia/": {
       "summary": "",
@@ -14430,10 +14430,13 @@
       "pub_date": "2026-10-11"
     },
     "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789": {
-      "summary": "",
+      "summary": "Mohammed bin Salman is now caught by an economy weakened by heavy spending and miscalculations of the Houthi threat.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Asia",
+        "Emerging Market Countries",
+        "Dragonfly - Middle East",
+        "Dragonfly - North America",
+        "Dragonfly - World"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14567,6 +14570,16 @@
         "Fake news",
         "Artificial intelligence",
         "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-12"
+    },
+    "https://www.reuters.com/world/middle-east/saudi-arabia-faces-new-missile-drone-fire-after-major-attacks-airports-2026-10-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14728,7 +14741,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-12T11:12:21.354629+00:00",
   "last_generated_date": "2026-10-12",
-  "last_generated_time": "2026-10-12T11:01:57.127570+00:00",
+  "last_generated_time": "2026-10-12T12:01:58.091258+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

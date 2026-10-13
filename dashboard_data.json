@@ -14176,7 +14176,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-12"
+      "pub_date": "2026-10-13"
     },
     "https://www.timesofisrael.com/iran-said-still-able-to-produce-missiles-and-drones-is-being-armed-by-russia/": {
       "summary": "",
@@ -14715,7 +14715,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-13"
+      "pub_date": "2026-10-12"
     },
     "https://www.bloomberg.com/news/newsletters/2026-10-13/bp-reaches-net-debt-2027-target-as-iran-war-boosts-oil-gas-trading": {
       "summary": "",
@@ -14745,6 +14745,46 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.reuters.com/world/uk/iran-russia-ramping-up-hybrid-campaigns-britain-uk-spy-chief-says-2026-10-13/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.ft.com/content/e4c33601-88e9-43fc-b920-1cecc2709dbd?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.ft.com/content/787acc7e-f0d3-4552-a369-4b4c967e4ca5?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14918,12 +14958,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-13T11:08:07.464228+00:00",
   "last_generated_date": "2026-10-13",
-  "last_generated_time": "2026-10-13T09:01:53.862457+00:00",
+  "last_generated_time": "2026-10-13T10:02:14.155536+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Gulf oil production rebounds ahead of increase in Iran war hostilities - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXJmSnBaU3h0Z3pqMms4b25kODFKdG8zRjNQMGRDYUVzR3dONEpnb3FWZFVUOGJETEhaaFpwZWR4blViRm1JZ2tjNFFYQjBmNzhESVZSUlV2Tk5BMzQtTGdtMFJYYzAwZEVqLXFGSVFZUWQyc2FEclo5NzV2NGYzMm8xcTY?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 13, 2026 · 09:53 BRT",
+          "pub_date": "2026-10-13",
+          "pub_ts": 1791895996,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "BP Slashes Debt With Boost From Oil and Gas Trading, Refining - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXJpX19Nei1wQnJkMlVyY2owRF9HNmtYU2hCRGRXRWtXOE9LLUY2V182Q1NrWlZFZnctUkJFMDRfQlY0TUprYnJQckhBUVBRSmpsQTBqS2xSRnFvdDZaOTNQLTh3WE42dmV4YXlQbzZYUklTMGV6UG5LWHBaLUpTSGttb0RwTE15eHctZG0zRVBUcXRvamJhVThaajZTel80VXBmMGhRNGVndkloZU9vbEZZMkIxRW9uWjB6MA?oc=5",

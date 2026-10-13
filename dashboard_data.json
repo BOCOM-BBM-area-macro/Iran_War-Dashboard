@@ -14603,7 +14603,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-12"
+      "pub_date": "2026-10-13"
     },
     "https://www.jpost.com/opinion/article-911423": {
       "summary": "Since October 7, Iran has sharply escalated cyber operations against Israel, according to the Foundation for Defense of Democracies, through fronts such as Handala Hack, CyberAv3ngers, and IDFLeaks.",
@@ -14934,6 +14934,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-13"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-911598": {
+      "summary": "US president says Turkish counterpart Erdogan would \"do as I ask\" on potential Turkish role against Houthis • US to make decision on Iran 'very soon,' Trump says",
+      "tags": [
+        "Iran",
+        "Turkey",
+        "United States",
+        "Washington",
+        "Recep Tayyip Erdogan"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
     }
   },
   "last_digest_success": true,
@@ -15103,7 +15116,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-13T11:08:07.464228+00:00",
   "last_generated_date": "2026-10-13",
-  "last_generated_time": "2026-10-13T14:02:01.407832+00:00",
+  "last_generated_time": "2026-10-13T15:02:11.954334+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -15132,6 +15145,20 @@
           "published": "Oct 13, 2026 · 09:53 BRT",
           "pub_date": "2026-10-13",
           "pub_ts": 1791895996,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Ships in Hormuz strait hit by worst spate of attacks since start of war - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHJIZzZsc1Vfa1A1UEZRMkVhVkNWQlVjZXpxYUZ6OUdBSUFFRmVodlA5dFRqUHhENkx4YzVJUUlkTzVuU25yeTE3bVhlVnJUcVFPd3kwQXNWaElWdlg2anVnSWtaMWpqeU5RRHRGQTdvWkJsWndUbnZjZ2l0WG02ZDh3elo?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 13, 2026 · 09:04 BRT",
+          "pub_date": "2026-10-13",
+          "pub_ts": 1791893062,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

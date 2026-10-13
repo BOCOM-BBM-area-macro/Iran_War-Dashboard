@@ -14715,7 +14715,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-12"
+      "pub_date": "2026-10-13"
     },
     "https://www.bloomberg.com/news/newsletters/2026-10-13/bp-reaches-net-debt-2027-target-as-iran-war-boosts-oil-gas-trading": {
       "summary": "",
@@ -14791,10 +14791,13 @@
       "pub_date": "2026-10-13"
     },
     "https://www.wsj.com/world/europe/u-k-spy-agency-confronts-escalating-hybrid-war-with-russia-and-iran-4c54f9ab": {
-      "summary": "",
+      "summary": "The head of MI5 has painted a sobering picture of a range of threats now facing Britain and European allies.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Asia",
+        "Dragonfly - Eurasia",
+        "Dragonfly - Europe",
+        "Dragonfly - Middle East",
+        "Dragonfly - World"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14841,6 +14844,39 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.washingtonpost.com/world/2026/10/13/uk-intelligence-chief-warns-iran-is-shifting-plots-harder-targets/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.jpost.com/middle-east/article-911559": {
+      "summary": "Hezbollah has reportedly used the ceasefire to rebuild its forces in s. Lebanon, upgrade explosive drones to carry heavier payloads, and prepare for a possible wider war involving Israel and Iran.",
+      "tags": [
+        "Hezbollah",
+        "IDF",
+        "Iran",
+        "Lebanon",
+        "Terrorism"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15014,7 +15050,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-13T11:08:07.464228+00:00",
   "last_generated_date": "2026-10-13",
-  "last_generated_time": "2026-10-13T11:02:06.111713+00:00",
+  "last_generated_time": "2026-10-13T12:01:59.748582+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

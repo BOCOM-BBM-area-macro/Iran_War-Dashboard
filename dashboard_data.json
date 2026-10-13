@@ -14603,7 +14603,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-13"
+      "pub_date": "2026-10-12"
     },
     "https://www.jpost.com/opinion/article-911423": {
       "summary": "Since October 7, Iran has sharply escalated cyber operations against Israel, according to the Foundation for Defense of Democracies, through fronts such as Handala Hack, CyberAv3ngers, and IDFLeaks.",
@@ -14735,6 +14735,16 @@
         "Persian Gulf",
         "Tehran",
         "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
+    },
+    "https://www.washingtonpost.com/world/2026/10/13/saudi-arabia-faces-grave-question-fight-houthis-win-or-push-peace/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14908,7 +14918,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-13T11:08:07.464228+00:00",
   "last_generated_date": "2026-10-13",
-  "last_generated_time": "2026-10-13T08:02:14.242345+00:00",
+  "last_generated_time": "2026-10-13T09:01:53.862457+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

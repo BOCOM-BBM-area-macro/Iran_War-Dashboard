@@ -13492,10 +13492,12 @@
       "pub_date": "2026-10-07"
     },
     "https://www.nytimes.com/video/us/100000011194272/how-the-iran-war-is-reaching-us-bases.html": {
-      "summary": "",
+      "summary": "As the U.S.-Israeli war with Iran continues, it’s being felt in a wider region. Eric Schmitt, a national security correspondent at The New York Times, explains how the conflict is reaching U.S. bases and why the United States is pulling back its military presence in some locations.",
       "tags": [
-        "extracted",
-        "nytimes.com"
+        "US and Israeli Attack on Iran",
+        "Military Bases",
+        "Iran",
+        "US"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15000,6 +15002,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-13"
+    },
+    "https://www.timesofisrael.com/netanyahu-reportedly-pressed-trump-to-renew-iran-fighting-before-israeli-and-us-elections/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
     }
   },
   "last_digest_success": true,
@@ -15169,12 +15181,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-13T11:08:07.464228+00:00",
   "last_generated_date": "2026-10-13",
-  "last_generated_time": "2026-10-13T22:02:06.631908+00:00",
+  "last_generated_time": "2026-10-13T23:02:12.777151+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 13, 2026 · 21:06 BRT",
+          "pub_date": "2026-10-13",
+          "pub_ts": 1791936360,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says Houthis trying to drive up oil prices ahead of US midterm elections - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjJueXpwNnRLbk1Db0NkZzBZS0tqUGF4NHU3ZWYxcWRHdVU0WW9uYVZJeUlpUVR2amR3Q0dyd1ZwYTFwZjRkUXU2VWRmX2otWUh5dHBmTW1Tak1iczg5a3pzR21oZTk3S3lzN0NfWmZ4TWRFalFNLVBsdU5vVTFkSDQ4TnNGVDZOcnVTS2FWTzBTbW1pN0ZoamZrRG5fQlc2QXpZWjV3?oc=5",

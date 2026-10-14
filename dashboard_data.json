@@ -14333,7 +14333,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-12"
+      "pub_date": "2026-10-14"
     },
     "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/": {
       "summary": "",
@@ -14958,7 +14958,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-13"
+      "pub_date": "2026-10-14"
     },
     "https://www.jpost.com/israel-news/article-911609": {
       "summary": "Senior US officials told Axios that Netanyahu cited alleged Iranian efforts to rebuild nuclear capacity as the reason for launching new strikes.",
@@ -15147,6 +15147,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-14"
+    },
+    "https://www.reuters.com/world/middle-east/netanyahu-says-he-is-not-seeking-attack-iran-again-before-israel-election-2026-10-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
+    },
+    "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
     }
   },
   "last_digest_success": true,
@@ -15307,7 +15327,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-14T11:09:31.171959+00:00",
   "last_generated_date": "2026-10-14",
-  "last_generated_time": "2026-10-14T10:01:58.351730+00:00",
+  "last_generated_time": "2026-10-14T11:02:13.708868+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -23980,6 +24000,20 @@
           "published": "Oct 09, 2026 · 09:17 BRT",
           "pub_date": "2026-10-09",
           "pub_ts": 1791548224,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "EXCLUSIVE: US farm debt is at a record. Official data might be undercounting it - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWJYbGZFa01VMUNHX3BQTHQ2SG56azk3WjRqOVdjYXNnV1I4a2IxNFRybjlJN2ZCVk1XMkNaYi1OdEMtd25aZXZ6NUxxbWtiRUJZV0VBbF9JYW5Qd3RiZld1WXFrMHFnNXhkUi1wQXN4eVVJQXhiRm93U2xUS1o1RWpsVURmNVNjbVN5XzFQOUlqZnEzek1wankxWXVNTjN6ZlJfQ1g1WVphZTQzNWZKN28zdmtRdw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 08, 2026 · 11:48 BRT",
+          "pub_date": "2026-10-08",
+          "pub_ts": 1791470910,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

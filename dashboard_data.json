@@ -14178,7 +14178,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-13"
+      "pub_date": "2026-10-14"
     },
     "https://www.timesofisrael.com/iran-said-still-able-to-produce-missiles-and-drones-is-being-armed-by-russia/": {
       "summary": "",
@@ -14512,7 +14512,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-13"
+      "pub_date": "2026-10-14"
     },
     "https://www.reuters.com/world/middle-east/iran-says-it-will-reply-us-response-hormuz-proposal-once-review-over-2026-10-12/": {
       "summary": "",
@@ -15022,6 +15022,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-13"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-14/qatar-reinvents-lng-trade-to-restore-global-clout-even-as-iran-war-drags": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
     }
   },
   "last_digest_success": true,
@@ -22249,6 +22259,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEQ4Z2ctb2ZRQmVfTVVNcFJTaWpmYkdjS2NsWXVWT0FUdnRlS0YyczNUdVRvbk1IVm5ZSzVBTlFFdlIxeWN1TE1IMjU2Sng3ZGpkOU42aGFtQ0xQelJBN2ZkaUp6eUZoTGRfYWwzcXBvaTlCRFJnY1NfaFF1Sms5eG5TX2tGNy1rNmJKdTVSRU54QW9JVzl4NE9NRmFMNjNHcVkyNkFtMFhKUWc5TWFHc3JDdXdwbWFmbTRDVk1qRko?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 14, 2026 · 01:00 BRT",
+          "pub_date": "2026-10-14",
+          "pub_ts": 1791950400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "European gas hits Iran wartime high - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlhLTU5YRHdvSl9iVndnV0FHeFFvUEctNy0tV3RkWV9MU08xdFNqNHQyNk5Ec19fbExXZUJXdnRxZTZ6X0swZGZQazF2YzJ0anZIZzcxWXItYTAwanpXM09LSEp0Ykd3Sl8xb2xEbWU3WlhPeWFhWjhxRXo1S192YVJCMEg?oc=5",

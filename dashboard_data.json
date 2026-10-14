@@ -14512,7 +14512,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-14"
+      "pub_date": "2026-10-13"
     },
     "https://www.reuters.com/world/middle-east/iran-says-it-will-reply-us-response-hormuz-proposal-once-review-over-2026-10-12/": {
       "summary": "",
@@ -15054,7 +15054,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-14"
+      "pub_date": "2026-10-13"
     },
     "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/": {
       "summary": "",
@@ -15123,6 +15123,26 @@
         "Tehran",
         "economy",
         "iranian economy"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
+    },
+    "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
+    },
+    "https://www.washingtonpost.com/world/2026/10/14/saudi-arabia-yemen-strikes-mideast-conflict-riyadh/ada8ac38-c7a0-11f1-aefb-abe4112d087e_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15287,7 +15307,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-14T11:09:31.171959+00:00",
   "last_generated_date": "2026-10-14",
-  "last_generated_time": "2026-10-14T09:02:04.158687+00:00",
+  "last_generated_time": "2026-10-14T10:01:58.351730+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -15442,6 +15462,20 @@
           "published": "Oct 13, 2026 · 04:15 BRT",
           "pub_date": "2026-10-13",
           "pub_ts": 1791875729,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "COMMENTARY: Trump's oil jawboning loses punch as wars spiral - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGRSS0t5UkdaMjZZWUNWWXNZWlpKOV9YcC1XdF9UVXE1M3NEVFJ5MC0zdHZZZnQtclpCRDJZX2hVM1NWNC1xZWZuQl82blNBZmZLRk9YdWZuZ1VMcFZvQmVFYld4VzgteDB3R0NhM05CckEwcjlxVHdldmV0NXlKOGZnc0FuYVIzZU00clRsRVVLeHZySzJ3NnV6MDY3R0I3NU51Sk9oTmRMek8yNExNMXZLYw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 13, 2026 · 03:00 BRT",
+          "pub_date": "2026-10-13",
+          "pub_ts": 1791871200,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

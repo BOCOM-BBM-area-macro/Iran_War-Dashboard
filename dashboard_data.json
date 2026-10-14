@@ -14958,7 +14958,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-13"
+      "pub_date": "2026-10-14"
     },
     "https://www.jpost.com/israel-news/article-911609": {
       "summary": "Senior US officials told Axios that Netanyahu cited alleged Iranian efforts to rebuild nuclear capacity as the reason for launching new strikes.",
@@ -15246,6 +15246,42 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-14"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-911722": {
+      "summary": "“If Hezbollah joins Iran in an attack on Israel, it will be dealt a heavy blow and lose additional territory in southern Lebanon, in the areas of Nabatieh and Litani,\" said the defense minister.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Defense Ministry",
+        "Hezbollah",
+        "IDF",
+        "Iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
+    },
+    "https://www.reuters.com/world/middle-east/houthis-bring-war-riyadh-2026-10-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
+    },
+    "https://www.jpost.com/middle-east/article-911729": {
+      "summary": "According to several regional diplomats, concerns are growing within Iran’s leadership that the current period of relative calm could be short-lived and that hostilities may resume in the future.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "IRGC",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
     }
   },
   "last_digest_success": true,
@@ -15406,12 +15442,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-14T11:09:31.171959+00:00",
   "last_generated_date": "2026-10-14",
-  "last_generated_time": "2026-10-14T15:02:13.180396+00:00",
+  "last_generated_time": "2026-10-14T16:01:56.242200+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 14, 2026 · 12:09 BRT",
+          "pub_date": "2026-10-14",
+          "pub_ts": 1791990586,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",

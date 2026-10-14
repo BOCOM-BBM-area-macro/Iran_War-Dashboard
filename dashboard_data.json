@@ -15012,6 +15012,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-13"
+    },
+    "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-13"
     }
   },
   "last_digest_success": true,
@@ -15700,6 +15710,20 @@
           "published": "Oct 07, 2026 · 03:07 BRT",
           "pub_date": "2026-10-07",
           "pub_ts": 1791353220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How much longer can the world absorb the Iran shock? - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlN5eU1jMDIxbndNdFdybWJkcG84a1htb05IYzNONGNzY1p4SUxPYTRLM1EzazRjS2xVbzg5dlVQdV93NGZGbkkzcGgzdzBzc0dhV2UxbDFRMGtNYkxoM2N2S1pqV09UTDVMcnVBY09zOVdxQ3d4NU9oLXJham1WdExLZ00?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 07, 2026 · 01:00 BRT",
+          "pub_date": "2026-10-07",
+          "pub_ts": 1791345632,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

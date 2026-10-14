@@ -14958,7 +14958,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-14"
+      "pub_date": "2026-10-13"
     },
     "https://www.jpost.com/israel-news/article-911609": {
       "summary": "Senior US officials told Axios that Netanyahu cited alleged Iranian efforts to rebuild nuclear capacity as the reason for launching new strikes.",
@@ -15110,6 +15110,19 @@
         "Death penalty",
         "iran protests",
         "Islamic Republic"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-911670": {
+      "summary": "The stock market rebound could mean two things: either investors believe Tehran and Washington will reach a peace deal soon, or they don’t have any other way to stop their savings from losing value.",
+      "tags": [
+        "Iran",
+        "Stock market",
+        "Tehran",
+        "economy",
+        "iranian economy"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15274,7 +15287,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-14T11:09:31.171959+00:00",
   "last_generated_date": "2026-10-14",
-  "last_generated_time": "2026-10-14T08:02:16.151745+00:00",
+  "last_generated_time": "2026-10-14T09:02:04.158687+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

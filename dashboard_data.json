@@ -15513,6 +15513,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-15"
+    },
+    "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-15"
     }
   },
   "last_digest_success": true,
@@ -15670,7 +15680,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-15T11:08:27.079040+00:00",
   "last_generated_date": "2026-10-15",
-  "last_generated_time": "2026-10-15T13:02:07.942978+00:00",
+  "last_generated_time": "2026-10-15T14:02:06.634970+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

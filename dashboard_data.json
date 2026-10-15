@@ -15385,61 +15385,152 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-15"
+    },
+    "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-15"
+    },
+    "https://www.reuters.com/world/china/russias-lavrov-chinas-wang-discuss-cooperation-ukraine-iran-asia-security-2026-10-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-14"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-14T11:09:19.695624+00:00",
+  "last_digest_time": "2026-10-15T11:08:17.275873+00:00",
   "digest": {
-    "digest": "Iran is reportedly fortifying its nuclear sites and preparing its population for a potential return to conflict, with intelligence suggesting a shift in tactics to increase attacks on shipping prior to the US elections. Concurrently, Iran has executed a monarchist convicted of armed attacks during wartime. The conflict's reach is extending, impacting the global energy order, as evidenced by attacks on Saudi energy infrastructure by Houthis, who are also overwhelming Yemeni hospitals and cutting aid. Saudi Arabia is confronting the costs of the US war on Iran amidst these strikes. Israel faces challenges in confronting Iran, with concerns raised about Iran's potential to invade neighbors if war resumes. Diplomatic and intelligence spheres are active, with the UK spy chief highlighting escalating hybrid warfare campaigns by Iran and Russia in Britain. There are reports of Netanyahu pressing Trump to renew fighting before elections. US intelligence contradicts Trump's claims regarding Chinese and Russian assistance to Iran, while Iranian crude exports remain at zero due to a US blockade. The broader regional instability is underscored by Hezbollah's activities and the IDF chief's vow to apply lessons from past events.",
+    "digest": "The ongoing conflict with Iran continues to exert significant pressure on global energy markets, with reports indicating that sustained high energy prices are impacting consumer behavior, such as Australians cutting fuel purchases. Major oil companies are experiencing substantial profits, estimated at $32 billion, directly linked to the war's influence on energy costs. Inflation in the United States has risen to 3.7%, with the Iran conflict cited as a contributing factor. In terms of military considerations, the U.S. military is reportedly evaluating the use of advanced weaponry, such as the 'mother of all bombs,' for potential future strikes against Iran. Iran's precision strikes have demonstrated an ability to target Gulf infrastructure, potentially disrupting U.S. war plans. Diplomatic discussions involving Russia and China have included the topic of Iran, indicating international engagement on the issue. Domestically, the conflict is intertwined with electoral politics in both Israel and the United States, with leaders like Benjamin Netanyahu and Donald Trump reportedly considering the timing of military actions in relation to upcoming elections. Israel has communicated a preference to Washington for any military action against Iran to commence after its October 27 election. Iran has also carried out domestic actions, including the execution of an individual convicted of armed attacks during the war.",
     "top_themes": [
-      "Iran's military and defensive preparations",
-      "Regional conflict escalation and impact",
-      "International diplomatic and intelligence concerns",
-      "Energy market disruptions"
+      "Geopolitical Impact on Energy Markets",
+      "Iran's Military Capabilities and Strategy",
+      "Electoral Influence of the Iran Conflict"
     ],
     "next_events": [
       {
-        "title": "Potential for Direct Military Confrontation",
-        "description": "Reports indicate a dilemma for US and Israeli leaders regarding potential strikes on Iran, possibly before upcoming elections. Analysts should closely monitor political rhetoric, military deployments, and intelligence assessments for any signs of imminent military action, which could rapidly escalate into a broader regional conflict."
+        "title": "Post-Election US and Israeli Military Action",
+        "description": "Both the US and Israel have upcoming elections (US midterms, Israeli October 27 election) that are influencing their immediate military strategies concerning Iran. Analysts should watch for potential escalations or shifts in policy once these elections conclude, as political constraints may lessen and leaders may pursue previously delayed military options."
       },
       {
-        "title": "Escalation of Iranian Proxy and Maritime Attacks",
-        "description": "Iran is reportedly shifting tactics to increase attacks on shipping and through proxies like the Houthis, who have already struck Saudi energy infrastructure. Watch for increased Houthi missile and drone attacks, heightened Hezbollah activity, and maritime incidents in critical waterways, as these actions could draw in more regional and international actors."
+        "title": "Global Energy Market Volatility",
+        "description": "The ongoing Iran war is a primary driver of increased energy prices, impacting global inflation, corporate profits, and consumer behavior. Analysts should closely monitor oil and gas futures, OPEC+ decisions, and economic indicators for signs of sustained pressure or potential relief in energy markets, as continued conflict will likely maintain upward price pressure."
       },
       {
-        "title": "Global Energy Market Disruptions",
-        "description": "The expanding reach of the 'Iran War' is testing the world's energy order, with attacks on Saudi energy giants and increased threats to shipping. Analysts should track oil prices, shipping insurance rates, and the security of key energy infrastructure and maritime routes, as significant disruptions could have severe global economic consequences."
+        "title": "Iran's Retaliatory Capabilities and Targets",
+        "description": "Iran is reportedly preparing for war and has demonstrated precision strike capabilities against Gulf infrastructure, aiming for economically damaging targets. Analysts should assess intelligence on Iran's military readiness, potential targets (energy facilities, shipping lanes), and any actions that could disrupt global trade or energy supplies, particularly after US or Israeli elections."
       },
       {
-        "title": "Developments in Iran's Nuclear Program and Defenses",
-        "description": "Iran is reportedly shoring up defenses at its nuclear sites and rallying its population in preparation for potential conflict. Monitor satellite imagery, intelligence reports, and statements from Iranian officials regarding their nuclear facilities and capabilities, as any perceived advancements or threats to these sites could serve as a major flashpoint."
+        "title": "US Military Escalation Options",
+        "description": "The US military is reportedly weighing the use of powerful ordnance, signaling a potential for significant escalation in future strikes against Iran. Analysts should monitor US military deployments, rhetoric from defense officials, and any intelligence suggesting a shift towards more aggressive military options, which could dramatically alter the conflict's scope."
       },
       {
-        "title": "Expansion of Iranian Hybrid Warfare Campaigns",
-        "description": "UK spy chiefs warn of Iran (and Russia) stepping up hybrid campaigns against Britain and European allies. Watch for increased cyberattacks, disinformation campaigns, and other non-conventional tactics targeting Western interests, as these represent a growing and often deniable form of aggression that can destabilize nations."
-      },
-      {
-        "title": "Internal Iranian Response to External Pressures",
-        "description": "Recent events, including executions and analyses of how past wars have divided the nation, highlight internal dynamics within Iran. Analysts should observe any signs of internal dissent, protests, or shifts in public opinion, as domestic stability could significantly influence the regime's external policies and its capacity to sustain conflict."
+        "title": "Geopolitical Alignment of Major Powers",
+        "description": "Discussions between Russia and China regarding Iran indicate evolving international dynamics and potential shifts in support or opposition to the conflict. Analysts should observe diplomatic outcomes, joint statements, and how these alliances might impact sanctions, military aid, or broader regional stability, as major power involvement could reshape the conflict's trajectory."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-14T11:09:30.770228+00:00",
+  "last_watch_time": "2026-10-15T11:08:26.657201+00:00",
   "relevant_news": [
     {
-      "title": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 14, 2026 · 07:48 BRT",
+      "title": "COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/oils-long-view-darkens-iran-war-refuses-end-2026-10-15/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 15, 2026 · 03:00 BRT",
+      "pub_date": "2026-10-15",
+      "pub_ts": 1792044000,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says - Reuters",
+      "url": "https://www.reuters.com/world/us-military-weighs-use-mother-all-bombs-potential-future-strikes-iran-cnn-says-2026-10-15/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 15, 2026 · 01:23 BRT",
+      "pub_date": "2026-10-15",
+      "pub_ts": 1792038180,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices - Reuters",
+      "url": "https://www.reuters.com/business/energy/totalenergies-flags-q3-profit-surge-iran-war-continues-drive-energy-prices-2026-10-15/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 15, 2026 · 03:06 BRT",
+      "pub_date": "2026-10-15",
+      "pub_ts": 1792044360,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters",
+      "url": "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 15, 2026 · 07:00 BRT",
+      "pub_date": "2026-10-15",
+      "pub_ts": 1792058400,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US inflation jumps to 3.7% as Iran war drives up prices - Financial Times",
+      "url": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Oct 14, 2026 · 09:31 BRT",
       "pub_date": "2026-10-14",
-      "pub_ts": 1791974922,
+      "pub_ts": 1791981075,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "ft.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -15447,110 +15538,50 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 13, 2026 · 21:06 BRT",
-      "pub_date": "2026-10-13",
-      "pub_ts": 1791936360,
-      "summary": "",
+      "title": "How war with Iran is influencing Israeli, US elections - analysis - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-911721",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 14, 2026 · 14:41 BRT",
+      "pub_date": "2026-10-14",
+      "pub_ts": 1791999662,
+      "summary": "As Netanyahu and Trump weigh their next moves against Iran, the approaching elections raise a difficult question: Is military action driving politics, or is politics driving military action?",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "Israel",
+        "Iran",
+        "United States",
+        "iran israel war",
+        "midterm elections"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran said shoring up defenses at nuclear sites, warning it could invade neighbors if war resumes - The Times of Israel",
-      "url": "https://www.timesofisrael.com/iran-said-shoring-up-defenses-at-nuclear-sites-warning-it-could-invade-neighbors-if-war-resumes/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Oct 13, 2026 · 12:40 BRT",
-      "pub_date": "2026-10-13",
-      "pub_ts": 1791906000,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran Fortifying Nuclear Sites and Rallying Its People for Return to Fighting - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-is-fortifying-nuclear-sites-and-rallying-its-people-for-a-return-to-fighting-c4cc3c28",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Oct 13, 2026 · 00:00 BRT",
-      "pub_date": "2026-10-13",
-      "pub_ts": 1791860400,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US blockade keeps Iranian crude exports at zero in October, report says - Reuters",
-      "url": "https://www.reuters.com/business/energy/us-blockade-keeps-iranian-crude-exports-zero-october-report-says-2026-10-13/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 13, 2026 · 13:53 BRT",
-      "pub_date": "2026-10-13",
-      "pub_ts": 1791910423,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 13, 2026 · 21:56 BRT",
-      "pub_date": "2026-10-13",
-      "pub_ts": 1791939414,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-14T11:09:31.171959+00:00",
-  "last_generated_date": "2026-10-14",
-  "last_generated_time": "2026-10-14T23:01:57.472675+00:00",
+  "last_relevant_time": "2026-10-15T11:08:27.079040+00:00",
+  "last_generated_date": "2026-10-15",
+  "last_generated_time": "2026-10-15T08:01:52.743052+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 15, 2026 · 07:00 BRT",
+          "pub_date": "2026-10-15",
+          "pub_ts": 1792058400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "TotalEnergies flags Q3 profit surge as Iran war continues to drive energy prices - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBJVjY0bVpoWDlsbGtrMnpFS0ZvcURsLUZMazd5S0o2Zmw2R2s0ZXc1NzBYb1YxUnNhdENBYzBfajVLVHZiWGJtdk5PbTRLb1BzaWdsNEJDY3lxUFV4TW1wTUpTRmZGTXVOb3JDdVFNeUFTcFZEbVNPcmJBMS1lazUtZVdJbENMMVAxQWRXallDRjZlQ3lINVBfaVppOXBPSHpmUkxqRVdNalVZWVZBcS01cEhWZnlTTDFnRFBoSTVxdkt5?oc=5",

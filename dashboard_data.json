@@ -15219,7 +15219,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-14"
+      "pub_date": "2026-10-15"
     },
     "https://www.jpost.com/middle-east/article-911718": {
       "summary": "Iran’s efforts show it is preparing for war in the near future and may try to strike America and its allies’ weak underbellies: energy facilities, ships, and other economically damaging targets.",
@@ -15298,6 +15298,26 @@
       "tags": [
         "extracted",
         "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-15"
+    },
+    "https://www.reuters.com/world/us-military-weighs-use-mother-all-bombs-potential-future-strikes-iran-cnn-says-2026-10-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-15"
+    },
+    "https://www.ft.com/content/9d70cd3f-abd3-4e40-b644-156444cec446?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15468,6 +15488,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil majors face $32bn dilemma over Iran war windfall - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjBhU09EZ21MQTh2bHhxYzhDZy1jZnBrNmtPZHNiR3ZhdkN3Nm0tcDc0WmdobkI2dHlRTF9WMV9wRFdJdU5uMDhoNnV3WEFhWXI1a0JpclA0ZEFfV1lIaEMtVVR0Nl9tMlJCQVBIc3BMRm5FTmo5N3djX0dERkNPRlh0Nk4?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 15, 2026 · 01:02 BRT",
+          "pub_date": "2026-10-15",
+          "pub_ts": 1792036969,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",

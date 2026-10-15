@@ -15556,6 +15556,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-15"
+    },
+    "https://www.jpost.com/middle-east/article-911874": {
+      "summary": "Ophir Falk said military and economic pressure was creating an opening for Iranians to challenge their rulers, while stressing that regime change was up to the Iranian people.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "Middle East",
+        "Donald Trump",
+        "The October 7 Massacre"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-15"
     }
   },
   "last_digest_success": true,
@@ -15713,12 +15726,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-15T11:08:27.079040+00:00",
   "last_generated_date": "2026-10-15",
-  "last_generated_time": "2026-10-15T16:02:14.911789+00:00",
+  "last_generated_time": "2026-10-15T17:02:01.011699+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Families of Sailors Killed in Iran War Struggle for Compensation and Closure - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelBPbmd5dktuOXRJN190NTdJeXZzbEVsdzdtaVV5WEFkVG1tV0VxdlcyWEVBRTdKMGthRG9KQWtadmdrUHpTbkwzOUhNemNIeGVYbGl2eGJiNEhuYmVvbXh2SlBPcjVXQ2VpcUlEWnhXWG9MMFdZckUxZHlVRkhMTTByOUlMTFRDdjMtWHF5eF82ZmdX?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 15, 2026 · 07:54 BRT",
+          "pub_date": "2026-10-15",
+          "pub_ts": 1792061679,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5",

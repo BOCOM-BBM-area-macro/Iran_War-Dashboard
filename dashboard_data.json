@@ -15592,6 +15592,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-16"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-16/heinz-solar-panels-power-telford-factory-as-iran-war-hits-oil": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-16"
     }
   },
   "last_digest_success": true,
@@ -15755,6 +15765,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Britain’s Growth Has Got a Lot to Do With the Transition Off Fossil Fuels - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGd4OHRGQl8tUnhGdWdGV09TWVF0VVJlcG42TUVRVkEzMWRmQWQ2M21Ia01aTnVaMUJnanpHWF9Vd1BJY3BLMnc1anpQVld2U2ZtdE5ubEJERlJzSlJ3aEVkWGFrbzZQakt6elgtZG1qbHlYQWpHZDh5YWRZakRrT1JaU0E2ZTNZMkZzSjJHbTNTc2xMbjlueUJuVmZRUTRZQmVTdmlXYXFDdS1SRTNjVTR3?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 16, 2026 · 01:00 BRT",
+          "pub_date": "2026-10-16",
+          "pub_ts": 1792123200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Families of Sailors Killed in Iran War Struggle for Compensation and Closure - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelBPbmd5dktuOXRJN190NTdJeXZzbEVsdzdtaVV5WEFkVG1tV0VxdlcyWEVBRTdKMGthRG9KQWtadmdrUHpTbkwzOUhNemNIeGVYbGl2eGJiNEhuYmVvbXh2SlBPcjVXQ2VpcUlEWnhXWG9MMFdZckUxZHlVRkhMTTByOUlMTFRDdjMtWHF5eF82ZmdX?oc=5",

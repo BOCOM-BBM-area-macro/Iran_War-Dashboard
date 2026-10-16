@@ -15638,40 +15638,59 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-15T11:08:17.275873+00:00",
+  "last_digest_time": "2026-10-16T11:08:42.050828+00:00",
   "digest": {
-    "digest": "The ongoing conflict with Iran continues to exert significant pressure on global energy markets, with reports indicating that sustained high energy prices are impacting consumer behavior, such as Australians cutting fuel purchases. Major oil companies are experiencing substantial profits, estimated at $32 billion, directly linked to the war's influence on energy costs. Inflation in the United States has risen to 3.7%, with the Iran conflict cited as a contributing factor. In terms of military considerations, the U.S. military is reportedly evaluating the use of advanced weaponry, such as the 'mother of all bombs,' for potential future strikes against Iran. Iran's precision strikes have demonstrated an ability to target Gulf infrastructure, potentially disrupting U.S. war plans. Diplomatic discussions involving Russia and China have included the topic of Iran, indicating international engagement on the issue. Domestically, the conflict is intertwined with electoral politics in both Israel and the United States, with leaders like Benjamin Netanyahu and Donald Trump reportedly considering the timing of military actions in relation to upcoming elections. Israel has communicated a preference to Washington for any military action against Iran to commence after its October 27 election. Iran has also carried out domestic actions, including the execution of an individual convicted of armed attacks during the war.",
+    "digest": "Recent developments indicate heightened military readiness and strategic posturing among key actors in the Iran conflict. Hezbollah has reportedly been instructed by Iran to increase its readiness level for a regional conflict, with full-time members summoned for preparations. Concurrently, the US military is reportedly considering the use of the GBU-43/B Massive Ordnance Air Blast bomb, also known as the 'mother of all bombs,' for potential strikes on Iran, with specific attention to Iran's nuclear facilities. Israel has communicated to Washington a preference for military action against Iran to commence after its October 27 election. In parallel, diplomatic efforts continue through the imposition of new Iran-related sanctions by the US. The ongoing conflict is also having a significant impact on global energy markets, with oil prices remaining elevated and energy companies like TotalEnergies and PetroChina reporting substantial profit surges due to market disruptions caused by the war. The Houthis' actions are also noted as a factor in Iran's strategy to pressure Saudi Arabia. Rafael, an Israeli defense contractor, reports increased production of missile interceptors in response to regional demands.",
     "top_themes": [
-      "Geopolitical Impact on Energy Markets",
-      "Iran's Military Capabilities and Strategy",
-      "Electoral Influence of the Iran Conflict"
+      "Geopolitical Tensions",
+      "Energy Market Volatility",
+      "Military Preparedness"
     ],
     "next_events": [
       {
-        "title": "Post-Election US and Israeli Military Action",
-        "description": "Both the US and Israel have upcoming elections (US midterms, Israeli October 27 election) that are influencing their immediate military strategies concerning Iran. Analysts should watch for potential escalations or shifts in policy once these elections conclude, as political constraints may lessen and leaders may pursue previously delayed military options."
+        "title": "Escalation of Regional Proxy Conflicts",
+        "description": "Iran has instructed Hezbollah to raise its level of readiness for a regional conflict, and Houthi actions continue to pressure Saudi Arabia. Analysts should monitor any increased activity or direct engagement by Iranian-backed groups, as this could signal a broader regional confrontation and destabilize key areas."
       },
       {
-        "title": "Global Energy Market Volatility",
-        "description": "The ongoing Iran war is a primary driver of increased energy prices, impacting global inflation, corporate profits, and consumer behavior. Analysts should closely monitor oil and gas futures, OPEC+ decisions, and economic indicators for signs of sustained pressure or potential relief in energy markets, as continued conflict will likely maintain upward price pressure."
+        "title": "Potential US/Israeli Military Action Against Iran's Nuclear Program",
+        "description": "Threats from former President Trump regarding strikes on Iran's 'Pickaxe Mountain' nuclear site, coupled with reports of the US military weighing the use of powerful ordnance, indicate serious consideration of military action. Israel has also expressed a preference for military action against Iran to commence after its October 27 election. Watch for any intelligence indicating troop movements, diplomatic shifts, or specific dates post-election."
       },
       {
-        "title": "Iran's Retaliatory Capabilities and Targets",
-        "description": "Iran is reportedly preparing for war and has demonstrated precision strike capabilities against Gulf infrastructure, aiming for economically damaging targets. Analysts should assess intelligence on Iran's military readiness, potential targets (energy facilities, shipping lanes), and any actions that could disrupt global trade or energy supplies, particularly after US or Israeli elections."
+        "title": "Continued Global Energy Market Volatility",
+        "description": "The ongoing Iran war continues to drive energy prices, leading to significant profits for energy companies like TotalEnergies and PetroChina. Analysts should monitor global oil and gas prices, supply chain stability, and the financial performance of major energy firms for signs of sustained or increased market volatility and its broader economic impact."
       },
       {
-        "title": "US Military Escalation Options",
-        "description": "The US military is reportedly weighing the use of powerful ordnance, signaling a potential for significant escalation in future strikes against Iran. Analysts should monitor US military deployments, rhetoric from defense officials, and any intelligence suggesting a shift towards more aggressive military options, which could dramatically alter the conflict's scope."
+        "title": "Iran's Strategic Military Posture and Capabilities",
+        "description": "Iran has demonstrated its capability for precision strikes against Gulf infrastructure, which could blunt US war plans. Simultaneously, countries are increasing missile interceptor stockpiles, indicating preparation for potential Iranian missile threats. Watch for any new Iranian military exercises, technological advancements, or deployment of advanced weaponry that could alter the regional military balance."
       },
       {
-        "title": "Geopolitical Alignment of Major Powers",
-        "description": "Discussions between Russia and China regarding Iran indicate evolving international dynamics and potential shifts in support or opposition to the conflict. Analysts should observe diplomatic outcomes, joint statements, and how these alliances might impact sanctions, military aid, or broader regional stability, as major power involvement could reshape the conflict's trajectory."
+        "title": "Intensified US Economic Pressure Campaign",
+        "description": "The US continues to issue fresh Iran-related sanctions, indicating an ongoing strategy of economic pressure. Analysts should monitor the scope and enforcement of these sanctions, as well as their impact on Iran's economy and its ability to fund regional activities and its nuclear program."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-15T11:08:26.657201+00:00",
+  "last_watch_time": "2026-10-16T11:08:51.120581+00:00",
   "relevant_news": [
+    {
+      "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters",
+      "url": "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 15, 2026 · 07:00 BRT",
+      "pub_date": "2026-10-15",
+      "pub_ts": 1792058400,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters",
       "url": "https://www.reuters.com/commentary/reuters-open-interest/oils-long-view-darkens-iran-war-refuses-end-2026-10-15/",
@@ -15692,22 +15711,23 @@
       "sentiment_success": false
     },
     {
-      "title": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says - Reuters",
-      "url": "https://www.reuters.com/world/us-military-weighs-use-mother-all-bombs-potential-future-strikes-iran-cnn-says-2026-10-15/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 15, 2026 · 01:23 BRT",
+      "title": "Hezbollah told by Iran to raise level of readiness for regional conflict - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911814",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 15, 2026 · 11:19 BRT",
       "pub_date": "2026-10-15",
-      "pub_ts": 1792038180,
-      "summary": "",
+      "pub_ts": 1792073982,
+      "summary": "According to the sources, all full-time Hezbollah members who receive monthly salaries were summoned, although it was emphasized that these directions were only preparations for a near-term scenario.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "Hezbollah",
+        "Iran",
+        "Lebanon",
+        "hezbollah lebanon"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
@@ -15730,14 +15750,35 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters",
-      "url": "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/",
+      "title": "'We'll knock it out fast': Trump threatens Iran's Pickaxe Mountain nuclear site with strikes - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911901",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 16, 2026 · 02:59 BRT",
+      "pub_date": "2026-10-16",
+      "pub_ts": 1792130373,
+      "summary": "Trump did not confirm previous reports that the US would use a GBU-43/B Massive Ordnance Air Blast bomb (MOAB), colloquially known as the \"mother of all bombs,\" to strike Iran.",
+      "tags": [
+        "Iran",
+        "United States",
+        "iran and us",
+        "Donald Trump",
+        "Natanz"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says - Reuters",
+      "url": "https://www.reuters.com/world/us-military-weighs-use-mother-all-bombs-potential-future-strikes-iran-cnn-says-2026-10-15/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 15, 2026 · 07:00 BRT",
+      "published": "Oct 15, 2026 · 01:23 BRT",
       "pub_date": "2026-10-15",
-      "pub_ts": 1792058400,
+      "pub_ts": 1792038180,
       "summary": "",
       "tags": [
         "extracted",
@@ -15747,52 +15788,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "US inflation jumps to 3.7% as Iran war drives up prices - Financial Times",
-      "url": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Oct 14, 2026 · 09:31 BRT",
-      "pub_date": "2026-10-14",
-      "pub_ts": 1791981075,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "How war with Iran is influencing Israeli, US elections - analysis - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911721",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 14, 2026 · 14:41 BRT",
-      "pub_date": "2026-10-14",
-      "pub_ts": 1791999662,
-      "summary": "As Netanyahu and Trump weigh their next moves against Iran, the approaching elections raise a difficult question: Is military action driving politics, or is politics driving military action?",
-      "tags": [
-        "Israel",
-        "Iran",
-        "United States",
-        "iran israel war",
-        "midterm elections"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-15T11:08:27.079040+00:00",
-  "last_generated_date": "2026-10-15",
-  "last_generated_time": "2026-10-15T23:01:49.608360+00:00",
+  "last_relevant_time": "2026-10-16T11:08:51.561171+00:00",
+  "last_generated_date": "2026-10-16",
+  "last_generated_time": "2026-10-16T08:02:01.924067+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -24610,6 +24611,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "On the campaign trail, JB Pritzker courts farmers like he's running for president - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaG9mNDloV2MxakdrMTJablNtYWZaQVhmMmYtMUdxSE9JR0ZVRWdYWnlucG1laHRRWXVhZkZjOGlyWkxZWlJVZlY1dU1nc1pHRUlzcGEtWXJEQi1XN1Z2N2VjTzR4YXBiSE55MUtsQjZ5RUFqUURxa2E2VGpOYUtHRXFQVU1sMzBuc1BSbGg0WG9GeHBCaXdVcjJySEdJUDVwWUxWNFpybGp1NVRxeExZTm4yTQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 16, 2026 · 07:07 BRT",
+          "pub_date": "2026-10-16",
+          "pub_ts": 1792145252,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Hormuz shipping disruption is starting to hit harvests, UN agency says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3pFV3J3TU44dzNxVVVjWUoyeVc3bVFpV3RVWEducVZZUFk0UXNBdzlEcnpxSGUycUw0cTIyLUFvYnNxc1BOU0lOOHJVM21tRFVrWVp5Q0pKRENxc01LcFpJbk1JS0k1ZndiMURRRVBySmJ0MUltS1RoM2JCN3d0V0t6WkhfT2U3UHU4QWhKb1M5eGRoUVpaVVVNT2hzNWlFT2hPSVRuQlQ2cURjdTBPOVd2UzRCc0JGcTVMWQ?oc=5",

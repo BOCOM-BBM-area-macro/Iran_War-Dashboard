@@ -15591,7 +15591,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-16"
+      "pub_date": "2026-10-15"
     },
     "https://www.bloomberg.com/news/articles/2026-10-16/heinz-solar-panels-power-telford-factory-as-iran-war-hits-oil": {
       "summary": "",
@@ -15602,6 +15602,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-16"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-911901": {
+      "summary": "Trump did not confirm previous reports that the US would use a GBU-43/B Massive Ordnance Air Blast bomb (MOAB), colloquially known as the \"mother of all bombs,\" to strike Iran.",
+      "tags": [
+        "Iran",
+        "United States",
+        "iran and us",
+        "Donald Trump",
+        "Natanz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-16"
+    },
+    "https://www.reuters.com/world/middle-east/us-issues-fresh-iran-related-sanctions-treasury-website-shows-2026-10-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-15"
     }
   },
   "last_digest_success": true,

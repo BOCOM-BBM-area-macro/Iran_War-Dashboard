@@ -15675,6 +15675,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-16"
+    },
+    "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-16"
+    },
+    "https://www.jpost.com/international/article-911953": {
+      "summary": "Multiple US officials familiar with the matter told CBS that Army Chief of Staff Gen. Randy George’s risk analysis was included in the Pentagon's Global Force Management Allocation Plan in December.",
+      "tags": [
+        "United States",
+        "US military",
+        "THAAD",
+        "Pentagon",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-17"
     }
   },
   "last_digest_success": true,

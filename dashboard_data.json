@@ -14485,10 +14485,13 @@
       "pub_date": "2026-10-12"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/middle-east-lng-industry-remains-hostage-iran-war-bousso-2026-10-12/": {
-      "summary": "",
+      "summary": "While Middle Eastern oil exports have rebounded in recent weeks, Qatar's vast liquefied natural gas export facilities remain hobbled. Until a durable resolution of the US-Israeli war with Iran is reached, Gulf shipments will be heavily curtailed, leaving the global LNG market seriously strained.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:GRID-INFRASTRUCTURE",
+        "RULES:IRAN",
+        "REPI:FUEL-OIL",
+        "REPI:LNG",
+        "REPI:OPEC"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14515,10 +14518,13 @@
       "pub_date": "2026-10-13"
     },
     "https://www.reuters.com/world/middle-east/iran-says-it-will-reply-us-response-hormuz-proposal-once-review-over-2026-10-12/": {
-      "summary": "",
+      "summary": "Iran is still reviewing a US response to its proposal regarding the reopening ​of the Strait of Hormuz, foreign ministry spokesperson Esmaeil Baghaei said.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "COM",
+        "CRU",
+        "CWP",
+        "DEF",
+        "DIP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14664,10 +14670,13 @@
       "pub_date": "2026-10-13"
     },
     "https://www.reuters.com/world/china/trump-says-he-does-not-believe-china-russia-are-helping-iran-at-all-2026-10-13/": {
-      "summary": "",
+      "summary": "President Donald Trump said on Monday he did not believe that China and Russia were helping Iran \"at all,\" even as US intelligence reports in recent months have found that both countries directly support Tehran's war effort.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "RULES:RUSSIA",
+        "TOPIC:WORLD-CHINA-SLUG"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14951,10 +14960,13 @@
       "pub_date": "2026-10-13"
     },
     "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections": {
-      "summary": "",
+      "summary": "Renewed strikes would carry major political implications for both leaders.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Donald Trump",
+        "Iran deal",
+        "Iran",
+        "Israel",
+        "Nuclear program of Iran"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -14994,10 +15006,13 @@
       "pub_date": "2026-10-13"
     },
     "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/": {
-      "summary": "",
+      "summary": "The strategy includes a change in the type as well as the pace of attacks, with ​one goal being to influence the outcome of the US vote, two senior Iranian officials told Reuters.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:EXPLORATION-PRODUCTION",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:ENERGY-OIL-GAS",
+        "COM"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15034,10 +15049,13 @@
       "pub_date": "2026-10-14"
     },
     "https://www.reuters.com/world/middle-east/iran-executes-monarchist-convicted-armed-attacks-during-war-judiciary-news-2026-10-14/": {
-      "summary": "",
+      "summary": "Iran executed ​Ali-Sina Mostafavi after ‌being convicted of carrying ​out armed ​attacks in the ⁠southeastern city ​of Kerman ​during the war with the United ​States ​and Israel, the judiciary's ‌news ⁠outlet Mizan said on Wednesday, accusing ​him ​of ⁠acting in support ​of exiled ​opposition ⁠figure Reza Pahlavi and ⁠Israel.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "CIV",
+        "CLJ",
+        "CWP",
+        "GEN",
+        "JUDIC"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15304,10 +15322,13 @@
       "pub_date": "2026-10-15"
     },
     "https://www.reuters.com/world/us-military-weighs-use-mother-all-bombs-potential-future-strikes-iran-cnn-says-2026-10-15/": {
-      "summary": "",
+      "summary": "The US military has developed strike plans ​that could include using ‌the GBU-43/B Massive Ordnance Air Blast Bomb, also known ​as the \"mother of ​all bombs\", against Iranian energy ⁠infrastructure and nuclear sites ​if President Donald Trump ​orders renewed combat operations, CNN reported on Thursday citing US ​officials familiar with the ​matter.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "BLR",
+        "CWP",
+        "DIP",
+        "GEN",
+        "NEWS1"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15334,20 +15355,26 @@
       "pub_date": "2026-10-15"
     },
     "https://www.reuters.com/business/energy/totalenergies-flags-q3-profit-surge-iran-war-continues-drive-energy-prices-2026-10-15/": {
-      "summary": "",
+      "summary": "TotalEnergies said on Thursday it expects third-quarter profits to be driven by a near quadrupling in refining margins from a year ago and a sharp rise in liquefied natural gas income.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:EXPLORATION-PRODUCTION",
+        "TOPIC:ENERGY-OIL-GAS",
+        "MTPIX",
+        "BACT",
+        "BIZ"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-15"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/oils-long-view-darkens-iran-war-refuses-end-2026-10-15/": {
-      "summary": "",
+      "summary": "Oil markets initially treated the Iran war as a brief bullish disruption in a long-term bearish trend. But traders are now betting that oil prices will remain elevated through 2028, forcing a rethink of the global inflation outlook.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:GRID-INFRASTRUCTURE",
+        "RULES:IRAN",
+        "REPI:EXPLORATION-PRODUCTION",
+        "REPI:FUEL-OIL",
+        "REPI:OPEC"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15387,7 +15414,7 @@
       "pub_date": "2026-10-15"
     },
     "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/": {
-      "summary": "",
+      "summary": "Iran has hit Gulf infrastructure dozens of times in precision strikes, blunting the US war effort. Gulf governments have often hidden the extent of the damage.",
       "tags": [
         "extracted",
         "reuters.com"
@@ -15432,10 +15459,13 @@
       "pub_date": "2026-10-15"
     },
     "https://www.reuters.com/world/middle-east/how-houthis-are-helping-iran-turn-saudi-arabia-into-pressure-point-2026-10-15/": {
-      "summary": "",
+      "summary": "The Houthi attacks on Saudi Arabia are about more than Yemen.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:MARKETS-RECOMMENDED",
+        "ANV",
+        "EREP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15753,10 +15783,13 @@
       "pub_date": "2026-10-17"
     },
     "https://www.reuters.com/world/middle-east/irans-guards-say-two-tankers-hit-mines-strait-hormuz-2026-10-17/": {
-      "summary": "",
+      "summary": "Iran's Revolutionary Guards Navy said on Saturday that two ​oil tankers had caught fire after hitting naval ‌mines while crossing the Strait of Hormuz, the official Iranian news agency IRNA reported.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:REFINING",
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "COM",
+        "CRU"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15858,10 +15891,13 @@
       "pub_date": "2026-10-18"
     },
     "https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/": {
-      "summary": "",
+      "summary": "Iran's parliament approved Mehrdad Akhlaqi Ketabchi as defence minister on Sunday, ending months of interim leadership at the ​ministry and placing a former defence sector veteran in ‌charge of the country's defence production and procurement apparatus.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "CWP",
+        "DEF",
+        "DEFBUY",
+        "GEN",
+        "POL"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -15894,10 +15930,13 @@
       "pub_date": "2026-10-18"
     },
     "https://www.reuters.com/world/middle-east/iran-urges-us-accept-proposal-reopen-strait-hormuz-2026-10-18/": {
-      "summary": "",
+      "summary": "Iran's offer to the United States to reopen the Strait of Hormuz within seven days is still on ​the table, Foreign Minister Abbas Araqchi told Iranian media ‌outlets on Sunday.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "COM",
+        "CONT",
+        "CWP",
+        "DEF",
+        "DIP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16096,7 +16135,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-18T11:06:38.761853+00:00",
   "last_generated_date": "2026-10-18",
-  "last_generated_time": "2026-10-18T14:01:49.265895+00:00",
+  "last_generated_time": "2026-10-18T15:01:48.312389+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

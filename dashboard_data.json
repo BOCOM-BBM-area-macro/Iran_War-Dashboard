@@ -15846,6 +15846,52 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-18"
+    },
+    "https://www.washingtonpost.com/world/2026/10/18/iran-war-spills-over-saudis-houthis-see-fighting-only-path-ahead/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-18"
+    },
+    "https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-18"
+    },
+    "http://www.jpost.com/middle-east/iran-news/article-912028": {
+      "summary": "Akhlachi replaces Majid Ebn al-Reza, who took over in an interim capacity after then Defense Minister Aziz Nasirzadeh was killed by US-Israeli strikes in February.",
+      "tags": [
+        "Iran",
+        "Iran Conflict",
+        "iran israel war",
+        "iran military",
+        "Iran US Conflict"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-18"
+    },
+    "https://www.jpost.com/opinion/article-911557": {
+      "summary": "Hamas unleashed its unprecedented wave of slaughter, rape, and kidnapping, fully knowing the inevitable Israeli response and the devastating cost to Gaza. Yet, they did it anyway. Why?",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Iran",
+        "Politics",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-18"
     }
   },
   "last_digest_success": true,

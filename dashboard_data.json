@@ -15799,7 +15799,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-17"
+      "pub_date": "2026-10-18"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-10-17/live-updates-911954": {
       "summary": "Missiles hit Yemen's Aden airport, Saudi coalition intercepts missile near Yanbu • UK advises against nonessential travel to Saudi Arabia • IDF kills Hamas terrorist who stormed Re'im base on Oct. 7",
@@ -15924,6 +15924,16 @@
         "Russia",
         "Vladimir Putin",
         "social media"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-18"
+    },
+    "https://www.timesofisrael.com/in-pre-election-briefing-pm-vows-to-topple-iranian-regime-downplays-settler-violence/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16086,7 +16096,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-18T11:06:38.761853+00:00",
   "last_generated_date": "2026-10-18",
-  "last_generated_time": "2026-10-18T13:01:42.042326+00:00",
+  "last_generated_time": "2026-10-18T14:01:49.265895+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

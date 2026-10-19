@@ -15868,7 +15868,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-19"
+      "pub_date": "2026-10-18"
     },
     "https://www.timesofisrael.com/liveblog_entry/iran-parliament-approves-new-defense-minister-after-predecessor-killed-in-wars-opening-strikes/": {
       "summary": "",
@@ -16009,7 +16009,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-18"
+      "pub_date": "2026-10-19"
     },
     "https://www.jpost.com/american-politics/article-912113": {
       "summary": "At 33%, Trump’s approval rating sank eight percentage points from a year ago, falling below any level recorded during his first and second terms as president.",
@@ -16122,6 +16122,26 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-19"
+    },
+    "https://www.axios.com/local/phoenix/2026/10/19/arizona-school-districts-diesel-fuel-costs-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-19/iran-s-main-oil-terminals-remain-empty-as-us-blockade-bites": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16289,12 +16309,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-19T11:06:21.034461+00:00",
   "last_generated_date": "2026-10-19",
-  "last_generated_time": "2026-10-19T09:02:17.242314+00:00",
+  "last_generated_time": "2026-10-19T11:01:51.917113+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9zWmplZXFuSDRfamdEOHBqZDlvY2VEYkNMTUZ6blFPN3ptd0tWZVBJU1FvSE90Z08xdjJTZEl2eXliTFJQVjExSENYMXhRMUhxVmZoSXQ5UVZIeGdPODBfa3d2eG9MZVdfeE5rQjloZ19zMkJORVFsaC1pV1RNXzRCcGhhVzdWSm1LMFFucG5GT19DcmlrcUhHbnRGWlJIYktoZHh0Q1J1SV82X2tfSkVoLVozbmVpOUUwMmVMMVI5Vk0?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 19, 2026 · 10:32 BRT",
+          "pub_date": "2026-10-19",
+          "pub_ts": 1792416743,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenB5TFdsTXhmTGFUbGdfNE9KemRReTJPZlp1WUdsaGh6VkZOMUZtMWhGRXRJd0tVLUh2WU9OMzhwQ21NOFRRaHBROFg1SVIyUHItRl9GNE1nYUJrQW4xNXd3REZVbURTem9SQ2VFcHJzeHVtV3VJTk9oYnh6ajlINU5XZU1tMDdXV0xNLXFkY1JXcTZyVGNiWGk4QVZtODR0MmNHZGN1Z1JjMkFNakRN?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 19, 2026 · 08:02 BRT",
+          "pub_date": "2026-10-19",
+          "pub_ts": 1792407744,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5",
@@ -22334,6 +22382,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Arizona school districts cope with high diesel costs from Iran war - Axios",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWZmTFNkUkdIMFNDbnBEUE14M3BFV3hSM0JlTDVuNmNudmVySzRLSkFJbzQySUNPb092REhFNEt2ekM0M2FWbUFHYWVjLWxZdWxMcXpYdGlCQjF0Z3kyelNwdkNTbHlfekFQOXdrSmU1VzlmMC10SXBzS2ZubTZsVGl3OWtBc205WWZpdnl3QzE2V29DanktSk1lLU5zNmM?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 19, 2026 · 10:26 BRT",
+          "pub_date": "2026-10-19",
+          "pub_ts": 1792416364,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Donald Trump's approval rating hits new low as Iran war shapes voters' opinions - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80bEdvU0lxTVBHN2F2REJzaEdiOUd0X2Vlb1RPV1dhbHpyczVSY2xiY1dkM0dRZ0lxY3I2WlZNSjhjX1FiVzluUTBvSzA3bTR0T3lwSkpfLUljY0Q5cllqREV2Tjg?oc=5",

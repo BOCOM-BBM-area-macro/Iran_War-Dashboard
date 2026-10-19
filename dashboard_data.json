@@ -16156,6 +16156,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-19"
+    },
+    "https://www.jpost.com/middle-east/article-912207": {
+      "summary": "A possible US military campaign against Iran could target missile facilities and nuclear infrastructure, but experts caution that even a brief operation risks triggering a prolonged conflict.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Tehran",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-19"
+    },
+    "https://www.reuters.com/world/middle-east/whats-behind-egypts-move-towards-possible-military-involvement-saudi-yemen-2026-10-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-19"
     }
   },
   "last_digest_success": true,
@@ -16319,7 +16342,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-19T11:06:21.034461+00:00",
   "last_generated_date": "2026-10-19",
-  "last_generated_time": "2026-10-19T18:01:51.684629+00:00",
+  "last_generated_time": "2026-10-19T19:01:58.123254+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

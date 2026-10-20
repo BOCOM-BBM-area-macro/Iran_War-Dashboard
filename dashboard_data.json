@@ -16179,6 +16179,52 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-19"
+    },
+    "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-20"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-912228": {
+      "summary": "“Somebody said, I wonder why they don't protest. Well, well, it's a little hard when you got machine guns at the end of the street shooting you down,” he added.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "Kansas",
+        "iran protests"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-10-20/live-updates-912229": {
+      "summary": "Syria condemns IDF incursions into territory • Netanyahu warns 'Israel is ready to strike' • Hamas document reveals plan to exploit civilians",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-19"
+    },
+    "https://www.washingtonpost.com/politics/2026/10/19/buttigieg-says-house-majority-depends-virginia-democrats/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-20"
     }
   },
   "last_digest_success": true,
@@ -16348,6 +16394,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war tilts balance of global oil power towards Americas - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcC1WUldmLXZleGpod29MTXNuME9vc2tYVkhmbjc5NkNFRGY0eV9OdUtac3R6UG9lTndqTjFpQi1kQkJnNHZZNDQzMkRYd09LM3A0MkFRcnpNaV9aaF9iT2NKX0xteHVscFRVQXotRHBoSVlzclIxWW90V2U0VDRBOGpDS24?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 20, 2026 · 01:00 BRT",
+          "pub_date": "2026-10-20",
+          "pub_ts": 1792468819,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9zWmplZXFuSDRfamdEOHBqZDlvY2VEYkNMTUZ6blFPN3ptd0tWZVBJU1FvSE90Z08xdjJTZEl2eXliTFJQVjExSENYMXhRMUhxVmZoSXQ5UVZIeGdPODBfa3d2eG9MZVdfeE5rQjloZ19zMkJORVFsaC1pV1RNXzRCcGhhVzdWSm1LMFFucG5GT19DcmlrcUhHbnRGWlJIYktoZHh0Q1J1SV82X2tfSkVoLVozbmVpOUUwMmVMMVI5Vk0?oc=5",

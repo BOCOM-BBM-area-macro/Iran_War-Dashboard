@@ -16174,7 +16174,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-19"
+      "pub_date": "2026-10-20"
     },
     "https://www.reuters.com/world/middle-east/whats-behind-egypts-move-towards-possible-military-involvement-saudi-yemen-2026-10-19/": {
       "summary": "Egypt's parliament is expected to vote next week on whether to authorise the armed forces to help defend Saudi Arabia against attacks by Yemen's Houthis if Riyadh requests its support.",
@@ -16372,6 +16372,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-20"
+    },
+    "https://www.reuters.com/world/middle-east/iran-says-saudi-arabia-houthis-have-not-answered-mediation-offer-2026-10-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-20"
+    },
+    "https://www.wsj.com/video/the-iran-war-is-a-convenient-scapegoat-for-gas-prices/7840D838-BBFF-40B9-9208-275BA3E0F33B": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-20"
     }
   },
   "last_digest_success": true,
@@ -16544,7 +16564,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-20T11:05:59.262989+00:00",
   "last_generated_date": "2026-10-20",
-  "last_generated_time": "2026-10-20T18:01:47.077323+00:00",
+  "last_generated_time": "2026-10-20T19:01:41.074088+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -23967,6 +23987,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "The Iran War Is a Convenient Scapegoat for Gas Prices - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2RIb1Y5UWxUeTZRYVB4dDJJeHJPN1RueUtqd0VNaUNQLUtFRjV0bXpLNVl2MHoxMERXZTU2VmVrMEhHUkRwNWJTY2RnQ2hLWTdIUGd4MmNfV1V1SEJrYm52dkZranowZVlnWjloazc3eUJ2S2dCQ3VFdjZxaERMRkNWMVl6N1FOY0hMZXc3ZmREVkN3V0g1T2o4d25JRjNQWXpnQktSRF9MX3ZJOHNvbkhWc0dJUWM?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 20, 2026 · 17:55 BRT",
+          "pub_date": "2026-10-20",
+          "pub_ts": 1792529703,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkR3dk45emhfdE9jNzktNHViMjRpcjNteVRaUVZTU3JyelBOeHR6WnNMd3hydTlrZUhsSDhBLW9idFZweXI5ZkJfcXJ1Z1llY213b3V3Q0hUbUVyZzdDMEJDZWJZcUdqSGlCQlFhWkFhbEVhZVhsSFhGT0RUVENOWXpwV3BpYXc?oc=5",
           "source": "The New York Times",
@@ -25693,6 +25727,20 @@
           "published": "Oct 16, 2026 · 07:07 BRT",
           "pub_date": "2026-10-16",
           "pub_ts": 1792145252,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "G7 Pledges €2.5 Billion for Fertilizers, Food as War Hits Supply - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNalZWOUplS3dkQ0wzM0FzZkNKdGZXTTZBcE5YdllJRFV4RkpUTmZlcTJ6eVczRElOMWxrUXIzT2R4LWRjVEk1MjZtMVQ1NVVTZ2NYWWJRWTNZdlpOaWl6N0tZWTRYel9od2JEZm92MUthYU81U3pJa3djdENYdFdNR045N2ItNGVtcWxreDVseDhXdHh3VWdvSlVBWW5sVHZTTl9LRi1keUMtM2VTMTVzX2xzZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 15, 2026 · 11:52 BRT",
+          "pub_date": "2026-10-15",
+          "pub_ts": 1792075923,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

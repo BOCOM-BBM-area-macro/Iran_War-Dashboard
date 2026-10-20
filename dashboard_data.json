@@ -16362,6 +16362,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-20"
+    },
+    "https://www.timesofisrael.com/iran-stalling-on-deal-with-us-to-hurt-trump-politically-ahead-of-midterms-iranian-officials-say/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-20"
     }
   },
   "last_digest_success": true,
@@ -16534,7 +16544,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-20T11:05:59.262989+00:00",
   "last_generated_date": "2026-10-20",
-  "last_generated_time": "2026-10-20T12:01:53.053433+00:00",
+  "last_generated_time": "2026-10-20T13:01:55.641523+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -25632,6 +25642,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "How the energy crisis could become a food security crisis - Axios",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PU25YbnlxSGE1d2tZRmJ2SDBBVFdrYno0aU1CdXd1RE1pOXlSSnhIWjliYnFDX3FNRzBwaERZd3hWaTJKZElBYkdYZFpxRjlMdFlfT2lscWZLM19PQ0lzaFVRbFp1dVB3RVd4MDBhTFktZTkwdmc?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 20, 2026 · 10:37 BRT",
+          "pub_date": "2026-10-20",
+          "pub_ts": 1792503423,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Across Farm Country, Economic Discontent Strains Republican Coalition - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHFlUjktMXVhbGNoRElFSzEzcG9RZlVwSjhkVzd6OGZXY3JyWnRTbnBnaXhUTERlWFlFVDJBcWNZLTRlMGJvaW1QX3FVWXlGUWx2dWJqRURWVHVXbF9mN0hDeko1RmNWYVZybjBKdXRnTFR2cU9qWFRGSnkydkRnRHZWV0R6VFZhY2dXNnp5QzloWkVW?oc=5",

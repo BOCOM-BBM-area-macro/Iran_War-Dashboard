@@ -15979,10 +15979,13 @@
       "pub_date": "2026-10-18"
     },
     "https://www.reuters.com/world/middle-east/egypt-says-ready-give-saudi-arabia-necessary-support-amid-houthi-conflict-2026-10-18/": {
-      "summary": "",
+      "summary": "Regional military power Egypt is ready to provide Saudi Arabia with the support it needs to defend its security and stability, the presidency said on Sunday, potentially raising the stakes ​in the Middle East war as Yemen's Iran-allied Houthis intensify their attacks on the kingdom.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "CLJ",
+        "CWP",
+        "DIP",
+        "ENER",
+        "ENFF"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16128,10 +16131,13 @@
       "pub_date": "2026-10-19"
     },
     "https://www.axios.com/local/phoenix/2026/10/19/arizona-school-districts-diesel-fuel-costs-iran-war": {
-      "summary": "",
+      "summary": "Gilbert Public Schools is spending an extra $8,000 weekly on diesel.",
       "tags": [
-        "extracted",
-        "axios.com"
+        "Arizona",
+        "Schools",
+        "Iran",
+        "Diesel fuel",
+        "Phoenix"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16171,10 +16177,13 @@
       "pub_date": "2026-10-19"
     },
     "https://www.reuters.com/world/middle-east/whats-behind-egypts-move-towards-possible-military-involvement-saudi-yemen-2026-10-19/": {
-      "summary": "",
+      "summary": "Egypt's parliament is expected to vote next week on whether to authorise the armed forces to help defend Saudi Arabia against attacks by Yemen's Houthis if Riyadh requests its support.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "MTVID",
+        "EXPLN",
+        "MTPIX"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -16227,24 +16236,40 @@
       "pub_date": "2026-10-20"
     },
     "https://www.reuters.com/business/energy/oil-majors-face-spending-test-iran-war-windfall-cash-2026-10-20/": {
-      "summary": "",
+      "summary": "Oil majors are set to ​post a big jump in third-quarter profit as the US-Israeli war on Iran has boosted refining and trading results, ‌while investors will monitor how wisely they use their cash piles and whether they resist a spending spree.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:EXPLORATION-PRODUCTION",
+        "REPI:LNG",
+        "REPI:REFINING",
+        "REPI:GAS",
+        "TOPIC:ENERGY-OIL-GAS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-20"
     },
     "https://www.reuters.com/world/middle-east/hegseth-meets-netanyahu-unannounced-visit-israel-reports-axios-2026-10-19/": {
-      "summary": "",
+      "summary": "Defense Secretary Pete Hegseth discussed Iran with Israeli Prime ​Minister Benjamin Netanyahu during an unannounced visit to Israel, three Israeli officials said, as tensions flare between the US and Iran.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "CWP",
+        "ENER",
+        "ENFF",
+        "ENG",
+        "GEN"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-19"
+    },
+    "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-20"
     }
   },
   "last_digest_success": true,
@@ -23816,6 +23841,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkR3dk45emhfdE9jNzktNHViMjRpcjNteVRaUVZTU3JyelBOeHR6WnNMd3hydTlrZUhsSDhBLW9idFZweXI5ZkJfcXJ1Z1llY213b3V3Q0hUbUVyZzdDMEJDZWJZcUdqSGlCQlFhWkFhbEVhZVhsSFhGT0RUVENOWXpwV3BpYXc?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 20, 2026 · 06:01 BRT",
+          "pub_date": "2026-10-20",
+          "pub_ts": 1792486914,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The affordability question Republicans can't escape - Axios",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3AtYTk5MV91ekVyejVieDFCV2dFNFJjWkRGd1FydGxzVW11NGJGWThZVFdsdjA5Z3FvYW5zV2l2akc4MFFCZGhKX3F1SGlzVVZRWEZqdGZlbmxGb2U0V3I1U0lmSlFJVU1tSVQ5OFVuaC1vbG9zTkV4VXk2S0RGSVQzX0I?oc=5",

@@ -16534,60 +16534,106 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-21"
+    },
+    "https://www.jpost.com/opinion/article-912395": {
+      "summary": "Tehran is betting that economic pressure and US elections will force concessions, but its intelligence vulnerabilities could reshape the strategic balance.",
+      "tags": [
+        "Mossad",
+        "United States",
+        "uranium",
+        "CIA",
+        "Tehran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
+    },
+    "https://www.ft.com/content/162c6dd8-5501-46f4-8f7c-b456a4e29539?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
+    },
+    "https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-20T11:05:35.339485+00:00",
+  "last_digest_time": "2026-10-21T11:04:49.717723+00:00",
   "digest": {
-    "digest": "Tensions between the US and Iran remain high, with warnings of a potential US military campaign targeting Iranian missile facilities and nuclear infrastructure, though experts caution this could trigger a prolonged conflict. Israeli Prime Minister Benjamin Netanyahu has discussed Iran with Defense Secretary Pete Hegseth during an unannounced visit to Israel. Pakistan's Chief of Army Staff, Field Marshal Asim Munir, has arrived in Tehran to meet senior officials, continuing his role as a key mediator aiming to prevent further escalation and reopen the Strait of Hormuz. Iran is reportedly seeking to influence US midterm elections through oil price manipulation. Egypt has stated its readiness to back Saudi Arabia in its conflict against Iran-allied Houthis, a move that could significantly escalate the wider Iran war and further threaten global energy supplies. The conflict's duration is impacting luxury home sales in Dubai and increasing operational costs for entities like Arizona school districts, which are facing higher diesel expenses. Oil majors are anticipating a jump in third-quarter profits due to the war's impact on refining and trading, while investors will scrutinize their cash management strategies. The war is also seen as shifting the balance of global oil power towards the Americas.",
+    "digest": "Recent developments indicate Iran is prolonging negotiations with the US, potentially to influence the upcoming midterm elections and leverage rising oil prices. This strategy is viewed as an effort to gain concessions rather than a genuine willingness to compromise, with Iran conditioning talks on demands such as the reopening of the Strait of Hormuz and the retention of enriched uranium. Simultaneously, Israel is closely monitoring Iran's military buildup, with Prime Minister Netanyahu reportedly making plans to restart strikes earlier this month, though recent reports suggest the IDF did not plan strikes before an upcoming election. Intelligence agencies, particularly the CIA and Mossad, are highlighted as critical in assessing Iran's nuclear and regional threats, with past operations exposing vulnerabilities in Tehran's security apparatus. The conflict continues to impact global energy markets, with oil majors anticipating increased profits due to higher refining and trading results, while some nations, like India, are adjusting their oil import strategies. Diplomatic efforts are ongoing, with Iran stating readiness for diplomacy but also vowing self-defense, while Pakistan's army chief has been informed that Iran will not engage in talks with Washington until its demands are met. The broader geopolitical landscape sees warnings from former US President Trump and Netanyahu regarding Iran, and concerns about Iran's potential to influence US elections through taunting over gas prices.",
     "top_themes": [
-      "Iran War Escalation and Diplomatic Maneuvers",
-      "Global Oil Market Impact",
-      "US-Iran Tensions and Political Ramifications"
+      "Iran's diplomatic stalling tactics",
+      "US-Iran midterm election influence",
+      "Intelligence operations and vulnerabilities",
+      "Impact on global energy markets",
+      "Israeli military preparedness"
     ],
     "next_events": [
       {
-        "title": "US Military Action Against Iran",
-        "description": "Warnings from US and Israeli leaders suggest potential military strikes against Iran's missile and nuclear facilities. Any such action risks triggering a prolonged conflict, making escalation indicators crucial to monitor."
+        "title": "US Midterm Election Impact on Iran Policy",
+        "description": "Iran is actively prolonging negotiations, betting that the US midterm elections and rising oil prices will pressure President Trump into concessions. The post-election period will be critical in determining whether the US adopts a more aggressive stance or if Iran's strategy to gain leverage through political timing proves successful."
       },
       {
-        "title": "Diplomatic Efforts and Strait of Hormuz Status",
-        "description": "Iran's proposal to reopen the Strait of Hormuz and Pakistan's mediation efforts signal potential de-escalation or strategic alignments. Monitor these diplomatic overtures and any changes in shipping through the Strait for signs of conflict resolution or new alliances."
+        "title": "Israeli Military and Intelligence Actions Against Iran",
+        "description": "Reports indicate that Israeli Prime Minister Netanyahu has made plans for renewed strikes against Iran, and Israel continues to closely monitor Iran's military buildup. The ongoing covert intelligence operations by the CIA and Mossad, aimed at exposing Iran's nuclear and security vulnerabilities, will be key indicators of potential pre-emptive actions."
       },
       {
-        "title": "Egypt's Potential Military Intervention in Yemen",
-        "description": "Egypt's parliament is set to vote on authorizing military support for Saudi Arabia against Houthi attacks. An Egyptian intervention would significantly escalate the regional conflict, potentially drawing more actors into the wider Iran war."
+        "title": "Iran's Nuclear Program and Strait of Hormuz Stance",
+        "description": "Iran's refusal to relinquish enriched uranium and its conditions for reopening the Strait of Hormuz highlight its strategic leverage. Any shifts in these demands or verifiable restrictions on its nuclear program will be crucial for assessing the potential for de-escalation or continued confrontation over its nuclear ambitions and energy security threats."
       },
       {
-        "title": "Iran's Post-US Election Strategy and Oil Market Influence",
-        "description": "Iran is reportedly bracing for the aftermath of the US election and may adjust its strategy, including actions impacting global oil prices. Watch for shifts in Iranian rhetoric, oil policy, and regional actions following the US vote."
+        "title": "Global Energy Market Volatility and Supply Security",
+        "description": "The ongoing conflict has already led to increased oil prices and contributed to a heating crisis in the US. Monitoring Iran's actions in the Strait of Hormuz, its claims of naval mine blockades, and its broader strategy to weaponize maritime insecurity will be essential for forecasting future energy supply disruptions and price volatility."
       },
       {
-        "title": "Global Oil Power Rebalancing and Investment Trends",
-        "description": "The conflict is shifting global oil power towards the Americas, boosting oil major profits. How these companies invest their windfall cash and the broader rebalancing of energy supplies will impact global energy security and pricing."
-      },
-      {
-        "title": "US-Israel Strategic Alignment on Iran",
-        "description": "High-level US-Israel discussions indicate close strategic coordination regarding Iran. Monitor joint statements, military exercises, or intelligence sharing for signs of a unified approach and potential joint actions."
-      },
-      {
-        "title": "Regional Economic Stability and Investment Trends",
-        "description": "The ongoing war is affecting regional economies, impacting sectors like real estate and leading to increased costs for essential services. Observe investment flows, consumer prices, and government responses for indicators of sustained economic strain or recovery."
+        "title": "Prospects for US-Iran Diplomacy and Escalation",
+        "description": "Diplomacy between the US and Iran remains stalled, with both sides issuing warnings while Iran expresses readiness for defense. The coming weeks will reveal whether a path to meaningful negotiations emerges or if the current stalemate escalates into direct military confrontation, potentially targeting Iran's missile facilities and nuclear infrastructure."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-20T11:05:58.663993+00:00",
+  "last_watch_time": "2026-10-21T11:04:59.104037+00:00",
   "relevant_news": [
+    {
+      "title": "Netanyahu made plans to restart Iran strikes earlier this month - Financial Times",
+      "url": "https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Oct 21, 2026 · 01:00 BRT",
+      "pub_date": "2026-10-21",
+      "pub_ts": 1792555213,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "Donald Trump, Benjamin Netanyahu warn Iran as fears of renewed war grow - The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-912207",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 19, 2026 · 16:52 BRT",
-      "pub_date": "2026-10-19",
-      "pub_ts": 1792439541,
+      "published": "Oct 20, 2026 · 16:59 BRT",
+      "pub_date": "2026-10-20",
+      "pub_ts": 1792526364,
       "summary": "A possible US military campaign against Iran could target missile facilities and nuclear infrastructure, but experts caution that even a brief operation risks triggering a prolonged conflict.",
       "tags": [
         "Israel",
@@ -16606,9 +16652,9 @@
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 19, 2026 · 17:29 BRT",
-      "pub_date": "2026-10-19",
-      "pub_ts": 1792441799,
+      "published": "Oct 20, 2026 · 21:00 BRT",
+      "pub_date": "2026-10-20",
+      "pub_ts": 1792540805,
       "summary": "Iran calls on US to accept proposal to reopen Hormuz • Lebanon pushes for halt to Israeli strikes • Russia's top diplomat to visit Iran Monday",
       "tags": [
         "Israel",
@@ -16622,81 +16668,60 @@
       "sentiment_success": false
     },
     {
-      "title": "A renewed Iran war is only a matter of time, Israeli experts warn - The Times of Israel",
-      "url": "https://www.timesofisrael.com/a-renewed-iran-war-is-only-a-matter-of-time-israeli-experts-warn/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Oct 19, 2026 · 07:27 BRT",
-      "pub_date": "2026-10-19",
-      "pub_ts": 1792405620,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Pakistan army chief arrives in Tehran to meet with senior officials - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-912278",
+      "title": "Benjamin Netanyahu, Israel monitor Iranian military buildup ahead of Knesset elections - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-912361",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 20, 2026 · 06:55 BRT",
-      "pub_date": "2026-10-20",
-      "pub_ts": 1792490114,
-      "summary": "The scheduled visit follows earlier summer talks between Munir and Iranian leaders that focused on preventing further escalation, reopening the Strait of Hormuz, and expediting the end of the war.",
+      "published": "Oct 21, 2026 · 02:04 BRT",
+      "pub_date": "2026-10-21",
+      "pub_ts": 1792559068,
+      "summary": "Israel is tracking Iran's efforts to rebuild its military capabilities, warning that renewed threats could force action despite upcoming elections.",
       "tags": [
+        "Elections",
+        "Iran",
+        "iran israel war",
+        "israel iran",
+        "Operation Roaring Lion"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "IDF did not plan to strike Iran before election despite earlier reports - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-912399",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 21, 2026 · 06:40 BRT",
+      "pub_date": "2026-10-21",
+      "pub_ts": 1792575607,
+      "summary": "Sources told the Post it was unusual for IDF chief Eyal Zamir to be excluded from the Hegseth meeting, raising questions about the political considerations behind Netanyahu's decision.",
+      "tags": [
+        "IDF",
         "Iran",
         "United States",
-        "Pakistan",
-        "Military",
-        "strait of hormuz"
+        "Middle East",
+        "Donald Trump"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "Pakistan\narmy\nchief\narrives\nin\nTehran\nto\nmeet\nwith\nsenior\nofficials\n|\nThe\nJerusalem\nPost\nPakistani\narmy\nchief,\nkey\nmediator\nin\nUS-Iran\nwar,\narrives\nin\nTehran\nto\nmeet\nsenior\nofficials\nThe\nscheduled\nvisit\nfollows\nearlier\nsummer\ntalks\nbetween\nMunir\nand\nIranian\nleaders\nthat\nfocused\non\npreventing\nfurther\nescalation,\nreopening\nthe\nStrait\nof\nHormuz,\nand\nexpediting\nthe\nend\nof\nthe\nwar.\nFollow\nus\non\nGoogle\nPakistan's\nChief\nof\nArmy\nStaff\nField\nMarshal\nAsim\nMunir\nlooks\non\nprior\nto\na\nquadrilateral\nmeeting\nbetween\nthe\nUnited\nStates,\nIran,\nPakistan\nand\nQatar\nSunday,\n21st\nJune\n2026\n(\nphoto\ncredit\n:\nFABRICE\nCOFFRINI/POOL\nVIA\nREUTERS\n)\nBy\nREUTERS\nOCTOBER\n20,\n2026\n12:52\nUpdated\n:\nOCTOBER\n20,\n2026\n13:05\nPakistan\narmy\nchief\nField\nMarshal\nAsim\nMunir\narrived\nin\nTehran\non\nTuesday\nwith\na\ndelegation\nof\nPakistani\nofficials\nto\nmeet\nsenior\nIranian\nofficials,\nIran’s\nsemi-official\nMehr\nnews\nagency\nreported.\nPakistan\nhas\nplayed\n​a\nkey\nmediating\nrole\nbetween\nthe\nUS\nand\nIran\nthis\nyear.\nThe\nscheduled\nvisit\nfollows\nearlier\nsummer\ntalks\nbetween\nMunir\nand\nIranian\nleaders\nthat\nfocused\non\nmeasures\nto\nprevent\nfurther\nescalation,\nreopen\nthe\nStrait\nof\nHormuz,\nand\nexpedite\nthe\ntermination\nof\nthe\nconflict.\nThis\nis\na\ndeveloping\nstory.\nSee\nmore\non\nIran\n|\nUnited\nStates\n|\nPakistan\n|\nMilitary\n|\nstrait\nof\nhormuz\nFollow\nus\non\nGoogle",
       "sentiment_success": false
     },
     {
-      "title": "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/10/18/tehran-seeks-punish-trump-midterms-with-oil-price-pain-iranian-officials-say/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 19, 2026 · 13:00 BRT",
-      "pub_date": "2026-10-19",
-      "pub_ts": 1792425600,
-      "summary": "",
+      "title": "Iran, Taunting Trump Over Gas Prices, Braces for Aftermath of Midterm Elections - The New York Times",
+      "url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Oct 20, 2026 · 06:01 BRT",
+      "pub_date": "2026-10-20",
+      "pub_ts": 1792486914,
+      "summary": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps.",
       "tags": [
         "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912106",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Oct 19, 2026 · 15:15 BRT",
-      "pub_date": "2026-10-19",
-      "pub_ts": 1792433710,
-      "summary": "Any Egyptian military backing for Saudi Arabia could mark a major escalation in the wider Iran war, which has threatened global energy supplies and sent oil prices soaring.",
-      "tags": [
-        "Egypt",
-        "Saudi Arabia",
-        "Yemen",
-        "Pakistan",
-        "egypt al-sisi"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -16704,14 +16729,28 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-20T11:05:59.262989+00:00",
-  "last_generated_date": "2026-10-20",
-  "last_generated_time": "2026-10-20T23:01:45.925679+00:00",
+  "last_relevant_time": "2026-10-21T11:04:59.639187+00:00",
+  "last_generated_date": "2026-10-21",
+  "last_generated_time": "2026-10-21T08:01:54.470807+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran war sparks heating crisis in US north-east as winter approaches - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXkwb0d6UGRQdE93ZXpHV3ZBMWl2LS0xZTNjZGZILU5ZbXFDalFLTDJwbjgtRlFZMlY0ZTdiT1EzM3l1X05reUI3aDg0MFNMR2w0cXdpZ2dTMFppVHVvbG4wX2N0b0NRdmdHOGZrdGV4YTVjcThscGtjQk04bVltYWR1MUE?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 21, 2026 · 07:00 BRT",
+          "pub_date": "2026-10-21",
+          "pub_ts": 1792576806,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Indian Oil to trim Middle East oil imports under annual deals amid Iran war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXE3WlNvck1LNktoX2lmc1NPNVZaNkRJdnJidHRaRE1RcWxTSC1rYzgyS3J1RnlpeEMwTlh5YnRBMXNPLXJiYTJOR2o2RGF0eTlMQm9Wa24wMUJXX0VzaDVGc042V0JLcnJlTTJYdzVNLWtIbFVuQkN4cXFielNxdi1RUUNRcTY2Zlo3MXJEUEZQaE1DWnh0aTludkNSWlZfbjc2TXZPSVVQZUFpaW5SXzVFSU1WVzZ1TzVLNFFSYkNCZw?oc=5",

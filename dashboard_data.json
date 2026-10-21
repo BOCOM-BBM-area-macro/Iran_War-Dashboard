@@ -16617,6 +16617,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-21"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/irans-supreme-leader-khamenei-said-to-meet-parliament-speaker-ghalibaf-to-discuss-us-israeli-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-912445": {
+      "summary": "Speaking at the IDF officer cadets' graduation ceremony, Netanyahu declared regime change in Iran a military objective, while Defense Minister Katz warned that \"Iran will burn\" if it attacks Israel.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "IDF",
+        "Iran",
+        "Israel Iran War",
+        "khamenei"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
     }
   },
   "last_digest_success": true,
@@ -16781,7 +16804,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-21T11:04:59.639187+00:00",
   "last_generated_date": "2026-10-21",
-  "last_generated_time": "2026-10-21T15:01:54.889137+00:00",
+  "last_generated_time": "2026-10-21T16:01:53.385731+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -16950,6 +16973,20 @@
           "published": "Oct 18, 2026 · 13:00 BRT",
           "pub_date": "2026-10-18",
           "pub_ts": 1792339200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran urges US to accept proposal to reopen Strait of Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 18, 2026 · 07:29 BRT",
+          "pub_date": "2026-10-18",
+          "pub_ts": 1792319340,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

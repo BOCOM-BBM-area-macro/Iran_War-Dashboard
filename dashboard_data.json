@@ -16693,6 +16693,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-21"
+    },
+    "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-21/eight-months-of-war-turns-china-petrochemical-glut-into-a-crunch": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
     }
   },
   "last_digest_success": true,
@@ -16857,7 +16877,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-21T11:04:59.639187+00:00",
   "last_generated_date": "2026-10-21",
-  "last_generated_time": "2026-10-21T20:01:48.894840+00:00",
+  "last_generated_time": "2026-10-21T21:01:57.239284+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -27136,6 +27156,20 @@
     {
       "theme": "Naphta/Petrochemical",
       "articles": [
+        {
+          "title": "Eight Months of War Turns China Petrochemical Glut Into a Crunch - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVIyeXd2dkxLOVYyXzI5N0g0WW94eEZNWFdjYXUyYzJVMk81YWN2R0NXNFZleUQ5dlNuTUpsOEdSNEQtWW1NT194eldXUUZlT2oxMG8xMGZWMDRpc1REbjhTcmdlNnRIVEdsSnhqN21ka2M2eXBJRDhRM21JN1ZfeWVSWDJkU1YwUF9GMExydWhHemZnRFNEYU5xWUVUYWh2bHdLbWV2a0VBWGdtekJ0SFNsM0FCUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 21, 2026 · 20:00 BRT",
+          "pub_date": "2026-10-21",
+          "pub_ts": 1792623600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gulf cost edge keeps chemical buyers hooked despite Hormuz risks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOUR3d1RaNFRldUU2MDExa1ZKcHJQRDY2ZXR0RVJGck1ESTVNdGtDdDNIcHc0QWFFWVFscFF4M2YzZ25BdTN3NTdHb29zYVlQaXNKYWVKYmFuWVZzVVJYNVZSMHBaUUNyenBFNDBEMDl6dkNPSG1xYkpwSTFGTU1BNkdnOUxOX3M5OGQwblR6WnFYRERZT2E1UE5xRElDb1hzRjJzcGpsaTZQUUZzMEFlNUhWTERlOWc?oc=5",

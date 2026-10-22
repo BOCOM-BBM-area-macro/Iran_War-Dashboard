@@ -16616,7 +16616,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-22"
+      "pub_date": "2026-10-21"
     },
     "https://www.timesofisrael.com/liveblog_entry/irans-supreme-leader-khamenei-said-to-meet-parliament-speaker-ghalibaf-to-discuss-us-israeli-war/": {
       "summary": "",
@@ -16885,6 +16885,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-22"
+    },
+    "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-22"
     }
   },
   "last_digest_success": true,
@@ -17038,7 +17048,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-22T11:05:39.796967+00:00",
   "last_generated_date": "2026-10-22",
-  "last_generated_time": "2026-10-22T17:01:42.604652+00:00",
+  "last_generated_time": "2026-10-22T18:01:56.099843+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -25795,6 +25805,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Airfares will not return to pre-Iran war levels, American Airlines warns - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmpyZDZOWGRYa0NxWFBaMk9yR3NUXzhTbU54cFFSVG52azFtX1JlcFo4LXg0REZiRjVvSnd5STFyZmdUQWJ5WWhSVUJJc21palVMYk9yMkpXU1RfZGcwQTQ3VXNRcm5ibGcwSGZPM0NfRGpnSi1TXzJzNmpKT1B0QzB0QmM?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 22, 2026 · 17:08 BRT",
+          "pub_date": "2026-10-22",
+          "pub_ts": 1792699730,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Major delays at Italian airports due to data network failure - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2ZBSmFBTmI3c3pYWTF2Z1NvTF9zVUZodUdvNTh2MGxlUWxCUGtQN2pBYnlhLTNnNzhWTGc3S1BYQWVnX2paSTZ5Y0Vwd3FzaGVVckZfeU1PR1RqSm9hZUNQU0ZuSUhrYTAwRjZlMndCM3hNeV9Qb0FCRHhUMWNrR1lrRXRkYUJRWUc1YzFaa1NiaENwNHliY3JxSGJ0QzR2clBqSGhhODNGYmZKYUVn?oc=5",

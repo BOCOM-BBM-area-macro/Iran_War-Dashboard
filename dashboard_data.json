@@ -16616,7 +16616,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-21"
+      "pub_date": "2026-10-22"
     },
     "https://www.timesofisrael.com/liveblog_entry/irans-supreme-leader-khamenei-said-to-meet-parliament-speaker-ghalibaf-to-discuss-us-israeli-war/": {
       "summary": "",
@@ -16865,6 +16865,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-22"
+    },
+    "https://www.washingtonpost.com/world/2026/10/22/netanyahu-says-us-israel-must-topple-iranian-regime/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-22"
+    },
+    "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-22"
     }
   },
   "last_digest_success": true,
@@ -17018,12 +17038,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-22T11:05:39.796967+00:00",
   "last_generated_date": "2026-10-22",
-  "last_generated_time": "2026-10-22T15:01:47.061458+00:00",
+  "last_generated_time": "2026-10-22T16:01:47.522631+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | Oil’s great escape from the Middle East - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBBQkJLYmlzMGtrT3g5bVNHdGtCd2Z0YzA4QzNpQlBOYWpsck1iTDRuTUQwdVdJdEUwdVIzZ1hOV0xpaEl3N3V2eFNNRmF4VU52MTRRa2k4U2FHVGdxbDd6ZFNhTnJXeWtrVVhqRmZEdmJydzJQT251a2xYNUZpTjNwZkVFYmdvU1ZiSlRSU0JRZ3lzdTJJ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 22, 2026 · 14:35 BRT",
+          "pub_date": "2026-10-22",
+          "pub_ts": 1792690524,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India's Mideast oil imports return to pre-war levels in September - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv?oc=5",

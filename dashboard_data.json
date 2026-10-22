@@ -16835,6 +16835,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-22"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-22/qatar-agrees-to-buy-us-lng-to-2054-as-war-disrupts-own-supply": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-22"
+    },
+    "https://www.cbc.ca/news/world/mideast-hormuz-saudi-arabia-attacks-9.7391297": {
+      "summary": "Seven oil tankers caught fire or were damaged in the Strait of Hormuz overnight after being hit by Iran or striking naval mines, Tehran said Thursday, a markedly high number as tensions rise over concerns about a return to all-out war.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-22"
     }
   },
   "last_digest_success": true,
@@ -16988,7 +17008,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-22T11:05:39.796967+00:00",
   "last_generated_date": "2026-10-22",
-  "last_generated_time": "2026-10-22T11:01:58.917660+00:00",
+  "last_generated_time": "2026-10-22T12:01:41.843517+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -24621,6 +24641,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Qatar Agrees to Buy US LNG to 2054 as War Disrupts Own Supply - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXV4a2huUEhKdW5KbG85VllTQ1pQN2E2TGc1Y3p6VXJmMlhjV0p6bUYtYlg2TUFleS11aXRNSmhMYkhFNDJCOXR0Q0g4OEhJZWRRLW1YYzBGRDBXQTQ2d3hLak8yVUUwMjU1LWtWVXpIdVdaUkc5NE1rajRsaTlNOVhKZV93Z3l3Q2ZETVBBS2FBaHVBV0NIZjRjU3VhX1kzS1g2QUhZU2ItR2JCSXRXRE5R?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 22, 2026 · 10:33 BRT",
+          "pub_date": "2026-10-22",
+          "pub_ts": 1792676001,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "The Iran War Is a Convenient Scapegoat for Gas Prices - WSJ",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2RIb1Y5UWxUeTZRYVB4dDJJeHJPN1RueUtqd0VNaUNQLUtFRjV0bXpLNVl2MHoxMERXZTU2VmVrMEhHUkRwNWJTY2RnQ2hLWTdIUGd4MmNfV1V1SEJrYm52dkZranowZVlnWjloazc3eUJ2S2dCQ3VFdjZxaERMRkNWMVl6N1FOY0hMZXc3ZmREVkN3V0g1T2o4d25JRjNQWXpnQktSRF9MX3ZJOHNvbkhWc0dJUWM?oc=5",
           "source": "WSJ",
@@ -27561,6 +27595,20 @@
           "published": "Oct 21, 2026 · 07:23 BRT",
           "pub_date": "2026-10-21",
           "pub_ts": 1792578184,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "South Africa’s Business Mood Steadies Despite Ongoing Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEJFT1pYVW91WjhpaUtsSnBlQkEtYWZhMUhoZ0F6bXdZQWs2TFR6cGFpblpKMVVQQ1QySW94NzFJX2RTUWdzVDRPTm95Z0xhTHlsWFBDZ2MwY1NZcUN3ZGExaWZWcFFwOGRBQklsSGpvcEltX3NyUkxBWE9BaS1tQW1zT1ljX2ZSaXk3djZNRHNKVEpmV01JU0tiTlVRX0dFMzdWNjlycXhSbmRmRm4wUEQtUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 19, 2026 · 06:30 BRT",
+          "pub_date": "2026-10-19",
+          "pub_ts": 1792402220,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

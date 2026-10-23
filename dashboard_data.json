@@ -16434,7 +16434,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-20"
+      "pub_date": "2026-10-22"
     },
     "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates": {
       "summary": "",
@@ -16905,6 +16905,18 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-22"
+    },
+    "https://www.nytimes.com/video/world/middleeast/100000011230015/donald-trump-billboard-iran-tehran.html": {
+      "summary": "Iran has a long history of using billboards for messaging, but this piece of performance propaganda is perhaps the most eccentric yet. A live impersonator of President Trump locked in a jail cell is attached to the billboard.",
+      "tags": [
+        "Propaganda",
+        "Iran",
+        "Donald Trump",
+        "International relations"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-22"
     }
   },
   "last_digest_success": true,
@@ -17058,7 +17070,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-22T11:05:39.796967+00:00",
   "last_generated_date": "2026-10-22",
-  "last_generated_time": "2026-10-22T21:01:47.491670+00:00",
+  "last_generated_time": "2026-10-22T22:02:03.125437+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -17101,6 +17113,20 @@
           "published": "Oct 22, 2026 · 03:02 BRT",
           "pub_date": "2026-10-22",
           "pub_ts": 1792648920,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "COMMENTARY: Don't mistake Mideast oil rebound for normality - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnNNcW94aG5WWHAzeXd2Zzl1TFVkQ3BxSzdlbm50RE9WS2tXcFBwLXk2TGdpQ25GZjcwb05fekJTZUY4eWxHSW9udnBqdDRhQ0JvLXZPSUFmNWZPYmR3T1hOaVZBb0hXWHFIODJPeVBWWERsVDRHelhSODBoWEZVbzFQTnBQRmFZT0h6MS04WlQ3eThuYUEzNjAtcHphdkNGNGpUSW5BNFVRNGlJQU1Mcw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 22, 2026 · 03:00 BRT",
+          "pub_date": "2026-10-22",
+          "pub_ts": 1792648800,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -17057,6 +17057,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-23"
+    },
+    "https://www.washingtonpost.com/opinions/2026/10/23/iran-war-fever-is-rising-again-battlespace-has-changed/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-23"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-10-23/live-updates-912640": {
+      "summary": "Trump accuses Iran of faking strikes • Huckabee questions BoP's ability to execute Gaza peace plan • 'Post' sees letter requesting West Bank coordination despite IDF denial",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-22"
+    },
+    "https://www.reuters.com/world/middle-east/us-preparing-issue-ordered-departure-some-personnel-gulf-embassies-us-officials-2026-10-21/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-21"
     }
   },
   "last_digest_success": true,
@@ -17210,7 +17243,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-23T11:07:36.846001+00:00",
   "last_generated_date": "2026-10-23",
-  "last_generated_time": "2026-10-23T16:01:42.726308+00:00",
+  "last_generated_time": "2026-10-23T17:01:48.553305+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -17239,6 +17272,20 @@
           "published": "Oct 23, 2026 · 12:26 BRT",
           "pub_date": "2026-10-23",
           "pub_ts": 1792769198,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0xETHRnbVdab1RJSlI5NGFLRXdZdF9jV2dVcjlnV3FzTkl2MFkwRlhQVkFYcFZPOXhjM1RTckp5VHZNblBuWmJGRGZVRmtUVVlwcWNuc3dERFlkQjk1N19kYW1wcWl0dXYtWHRfQnNLcWxqY3FZLW84ck52eS1paFdycXc?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 23, 2026 · 00:41 BRT",
+          "pub_date": "2026-10-23",
+          "pub_ts": 1792726883,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

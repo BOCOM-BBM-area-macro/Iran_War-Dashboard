@@ -17103,6 +17103,18 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-23"
+    },
+    "https://www.jpost.com/international/article-912674": {
+      "summary": "\"We may do another little Epic Fury,\" Trump said in remarks at a rally in Florida as he spoke about the war. He did not elaborate.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-23"
     }
   },
   "last_digest_success": true,
@@ -17256,7 +17268,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-23T11:07:36.846001+00:00",
   "last_generated_date": "2026-10-23",
-  "last_generated_time": "2026-10-23T18:01:56.694101+00:00",
+  "last_generated_time": "2026-10-23T19:01:55.046996+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -17425,6 +17437,20 @@
           "published": "Oct 21, 2026 · 22:00 BRT",
           "pub_date": "2026-10-21",
           "pub_ts": 1792630800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 21, 2026 · 21:46 BRT",
+          "pub_date": "2026-10-21",
+          "pub_ts": 1792629960,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

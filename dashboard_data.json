@@ -16427,10 +16427,13 @@
       "pub_date": "2026-10-20"
     },
     "https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670": {
-      "summary": "",
+      "summary": "Experience and big paydays have created a more resilient tanker fleet. Oil traders worry it isn’t sustainable.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Energy",
+        "Marine Transport",
+        "Freight Transport/Logistics",
+        "Crude Oil",
+        "Fossil Fuels"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17090,6 +17093,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-21"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-us-may-do-another-military-operation-against-iran-2026-10-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-23"
     }
   },
   "last_digest_success": true,
@@ -17243,12 +17256,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-23T11:07:36.846001+00:00",
   "last_generated_date": "2026-10-23",
-  "last_generated_time": "2026-10-23T17:01:48.553305+00:00",
+  "last_generated_time": "2026-10-23T18:01:56.694101+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjR5Ukt1bFQ2cG5CR2xEckxfejgwaHhOLWwyTGFRM0xFOUowbGEyUEphdVZFQ2hjaEFLZ3g0ZndDWUxLNzNUN0ZzQUx6a3NtMjZtTG05WDI5cjh1NzlkLVdBQzNqR05ZQURMeE9GWlRuUXA0MDR5alI0N1JrNmtsenhPcGtZcnJwRk1xWlpTQVpuamwwaHdBenB0cTJTZw?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 23, 2026 · 16:35 BRT",
+          "pub_date": "2026-10-23",
+          "pub_ts": 1792784139,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Global Oil Price Hits $117 a Barrel, Highest Since April - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjZmQ1hOTHp4RFVzdWVRRWdzYnFPeEExcnNLS3J3RlRlc3A1OVprRXoxck1hUy1iejdTSGtucjFVSFFSQzFSelg3ZjFmRzNPSDlMdU1OX3F1YUJmZVBjNnY2Ykx3LTV4Q2VBZHRkQmJqcTRubnpqSTFKa1V5b24walJCTC1nT2ZfQ1hJalg4aHo?oc=5",
@@ -17286,6 +17313,20 @@
           "published": "Oct 23, 2026 · 00:41 BRT",
           "pub_date": "2026-10-23",
           "pub_ts": 1792726883,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 22, 2026 · 18:31 BRT",
+          "pub_date": "2026-10-22",
+          "pub_ts": 1792704703,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

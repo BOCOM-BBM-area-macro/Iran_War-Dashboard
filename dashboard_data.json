@@ -17082,7 +17082,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-24"
+      "pub_date": "2026-10-23"
     },
     "https://www.reuters.com/world/middle-east/us-preparing-issue-ordered-departure-some-personnel-gulf-embassies-us-officials-2026-10-21/": {
       "summary": "",
@@ -17197,6 +17197,26 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-23"
+    },
+    "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215": {
+      "summary": "As the U.S. midterm elections approach, intelligence analysts warn that the United States and Israel are preparing for a devastating third round of direct military conflict with Iran.  Experts caution that the region is locked in a dangerous, open-ended war of attrition.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-24"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -23912,6 +23932,20 @@
           "published": "Oct 18, 2026 · 23:38 BRT",
           "pub_date": "2026-10-18",
           "pub_ts": 1792377480,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Retail price impacts from the Iran war are uneven but add up for US households before midterms - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRERIQWNuajlwQnV0SGRwU0N4aDZpWjhhQklPaVJGSVQ2bzZBSTlLMW9TdVM3TU5PYUMzdU5VNzFpNG5aRy1wMDlHSHdtRkdiWkZYVDhQalNTXzJIb3BiNFEwMGpjUDZNSEhYNm1vN0VFeE5FZWhja041UFRxczI2ZU0wUkEwQmtrUlBKX0t6ZVBPbGpMMG12S3RIcjdRX1JGUWN6bGVEUHBQQzNUZlllVlVpV2hYb25kaE5FS3FULXZBTkdWMlJDZXl2ZEZXWFNNTHRDRnd3RXlzbF9LSWZIVVVQMVNyZ1dlcHdGQjR3?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 17, 2026 · 11:25 BRT",
+          "pub_date": "2026-10-17",
+          "pub_ts": 1792247124,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

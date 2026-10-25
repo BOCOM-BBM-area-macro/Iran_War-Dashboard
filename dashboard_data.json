@@ -16932,10 +16932,13 @@
       "pub_date": "2026-10-23"
     },
     "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b": {
-      "summary": "",
+      "summary": "As Tehran retains missile and drone stockpiles, Washington is trying to move more servicemembers and diplomatic staff out of harm’s way.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Aerospace/Defense",
+        "Industrial Goods",
+        "Manufacturing",
+        "Asia",
+        "Dragonfly - Middle East"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17416,6 +17419,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-25"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-says-messages-are-still-being-passed-to-the-us-amid-war-concerns/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-25"
     }
   },
   "last_digest_success": true,
@@ -17572,7 +17585,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-25T11:07:23.680397+00:00",
   "last_generated_date": "2026-10-25",
-  "last_generated_time": "2026-10-25T14:01:49.001821+00:00",
+  "last_generated_time": "2026-10-25T15:02:07.825884+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

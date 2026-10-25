@@ -16437,7 +16437,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-25"
+      "pub_date": "2026-10-20"
     },
     "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates": {
       "summary": "",
@@ -16939,7 +16939,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-22"
+      "pub_date": "2026-10-23"
     },
     "https://www.ft.com/content/0910ef9b-30da-4ea4-8991-f62af1f9d07d?syn-25a6b1a6=1": {
       "summary": "",
@@ -17157,7 +17157,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-23"
+      "pub_date": "2026-10-24"
     },
     "https://www.jpost.com/middle-east/iran-news/article-912677": {
       "summary": "Intelligence on Iranian assassination plots targeting US officials may have contributed to accelerated diplomatic evacuations, alongside fears of renewed military strikes on Iran.",
@@ -17339,7 +17339,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-24"
+      "pub_date": "2026-10-25"
     },
     "https://www.jpost.com/middle-east/iran-news/article-912728": {
       "summary": "Tehran aims to cause even more pain in the case of a renewed campaign, especially at a time when interceptor missile stockpiles are under pressure in Israel and in US-aligned nations in the Gulf.",
@@ -17373,52 +17373,66 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-25"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-25/israel-election-2026-war-focused-campaign-masks-underlying-economic-schism": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-25"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-24T11:06:50.967125+00:00",
+  "last_digest_time": "2026-10-25T11:07:16.339437+00:00",
   "digest": {
-    "digest": "Recent intelligence indicates Iran is in advanced stages of planning attacks against American officials abroad and has detailed plans to target Gulf undersea cables should conflict resume. This heightened threat perception may have contributed to accelerated diplomatic evacuations. Concurrently, there are reports of the United States and Israel preparing for potential direct military conflict with Iran, described by experts as a dangerous, open-ended war of attrition. The US envoy has stated the US is prepared for a long stand-off, while former President Trump has weighed options for a swift end to the conflict against allowing it to 'wither.' Iran has also threatened wider strikes on economic and civilian targets if attacked by the US. Meanwhile, US pressure is reportedly causing Iran to lose overland trade routes.",
+    "digest": "Recent intelligence indicates Iran is in advanced stages of planning attacks against US officials abroad, prompting the US to evacuate Mideast outposts. This heightened threat level follows reports of Iran ramping up efforts to target US personnel. The Iranian army has claimed to have shot down a US drone over Bandar Abbas. In response to potential US attacks, Tehran has warned of nuclear options and infrastructure strikes, aiming to inflict significant pain. The US and Israel are reportedly preparing for a potential third round of direct military conflict, with analysts describing the region as locked in a dangerous, open-ended war of attrition. The USS George Washington is being rearmed for possible Iran strikes, signaling increased military readiness. The overall situation presents a new level of threat and fear, risking a return to full-scale war between the US and Iran.",
     "top_themes": [
-      "Iran's potential military actions",
-      "US-Iran conflict escalation",
-      "US diplomatic and military strategy"
+      "Escalation of US-Iran Tensions",
+      "Iranian Plots Against US Officials",
+      "Potential for Military Conflict"
     ],
     "next_events": [
       {
-        "title": "Imminent Direct Military Confrontation",
-        "description": "Intelligence analysts warn of rising war fever and preparations for a potentially devastating third round of direct military conflict between the US/Israel and Iran. Watch for any overt military deployments, increased intelligence alerts, or official statements signaling an imminent strike or a significant escalation of hostilities."
+        "title": "Iranian Plots Against US Officials and Personnel",
+        "description": "Recent intelligence memos warn of 'advanced' Iranian plots to kill US officials abroad and increased efforts to target US personnel, leading to US evacuations from Mideast outposts. Analysts should monitor any confirmed attacks or further security alerts, as these could trigger direct US retaliation and significantly escalate tensions."
       },
       {
-        "title": "Iranian Threats to Economic and Civilian Targets",
-        "description": "Iran has explicitly threatened to target Gulf undersea cables and conduct wider strikes on economic and civilian infrastructure if attacked. Monitor for cyberattacks, maritime incidents, or direct assaults on critical infrastructure in the Gulf and beyond, as these could be Iran's immediate response to military action."
+        "title": "US and Israeli Military Posture and Preparations",
+        "description": "The USS George Washington is rearming for possible Iran strikes, and both the US and Israel are reportedly preparing for a 'devastating third round' of direct military conflict. Watch for increased military deployments, joint exercises, or overt statements from US/Israeli leadership indicating a shift towards pre-emptive or retaliatory actions against Iran."
       },
       {
-        "title": "Advanced Iranian Assassination Plots Against US Officials",
-        "description": "US intelligence has warned of 'advanced' Iranian plots to assassinate American officials abroad, a factor in recent diplomatic evacuations. Analysts should closely track any confirmed assassination attempts, heightened security advisories for US personnel globally, or further intelligence revelations concerning these specific threats."
+        "title": "Iranian Military Responses and Nuclear Threats",
+        "description": "Iran has demonstrated its capabilities by shooting down a US drone and has explicitly warned of using 'nuclear options and infrastructure strikes' if attacked. Observe any further Iranian military provocations, such as drone or missile tests, or any rhetoric regarding their nuclear program that suggests a move beyond current enrichment levels, which could be a major escalation."
       },
       {
-        "title": "US Strategic Posture and Policy Shifts",
-        "description": "President Trump is reportedly weighing options from a 'quick end' to the conflict to letting it 'wither,' alongside considering further military operations. Observe official statements, diplomatic initiatives, and policy announcements from the US administration for indications of a definitive shift in strategy towards either de-escalation or a more aggressive military approach."
+        "title": "Regional Proxy Group Activity and Spillover",
+        "description": "Houthi shrapnel falling in Saudi cities and US warnings of Houthi attacks in Israel indicate broader regional destabilization involving Iranian-backed groups. Monitor the actions of these proxy groups across the Middle East, as increased activity or direct attacks on US or Israeli interests could serve as flashpoints for wider conflict."
+      },
+      {
+        "title": "Impact of US and Israeli Elections on Policy",
+        "description": "US and Israeli elections are noted as potential catalysts for escalation, with reports of Trump preparing for action after elections. Analysts should closely watch the foreign policy stances and actions of the newly formed governments or post-election administrations, as shifts could lead to more aggressive postures towards Iran."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-24T11:06:59.046207+00:00",
+  "last_watch_time": "2026-10-25T11:07:23.093248+00:00",
   "relevant_news": [
     {
-      "title": "Opinion | Iran war fever is rising again. The battlespace has changed. - The Washington Post",
-      "url": "https://www.washingtonpost.com/opinions/2026/10/23/iran-war-fever-is-rising-again-battlespace-has-changed/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 23, 2026 · 23:12 BRT",
-      "pub_date": "2026-10-23",
-      "pub_ts": 1792807965,
+      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
+      "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Oct 24, 2026 · 21:55 BRT",
+      "pub_date": "2026-10-24",
+      "pub_ts": 1792889730,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -17426,18 +17440,77 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/",
+      "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iranian-army-says-it-shot-down-us-drone-over-bandar-abbas-tasnim-reports-2026-10-25/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 23, 2026 · 17:04 BRT",
-      "pub_date": "2026-10-23",
-      "pub_ts": 1792785849,
+      "published": "Oct 25, 2026 · 04:22 BRT",
+      "pub_date": "2026-10-25",
+      "pub_ts": 1792912959,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Tehran warns of nuclear options and infrastructure strikes if US attacks Iran - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912728",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 24, 2026 · 23:43 BRT",
+      "pub_date": "2026-10-24",
+      "pub_ts": 1792896201,
+      "summary": "Tehran aims to cause even more pain in the case of a renewed campaign, especially at a time when interceptor missile stockpiles are under pressure in Israel and in US-aligned nations in the Gulf.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Dubai",
+        "Tehran",
+        "Qatar"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Aboard USS George Washington as It Rearms for Possible Iran Strikes - WSJ",
+      "url": "https://www.wsj.com/politics/national-security/aboard-uss-george-washington-as-it-rearms-for-possible-iran-strikes-afaadff2",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Oct 24, 2026 · 06:32 BRT",
+      "pub_date": "2026-10-24",
+      "pub_ts": 1792834320,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Oct 24, 2026 · 11:47 BRT",
+      "pub_date": "2026-10-24",
+      "pub_ts": 1792853220,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -17461,69 +17534,12 @@
       "sentiment": "neutral",
       "_rank": 0,
       "sentiment_success": false
-    },
-    {
-      "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad - Axios",
-      "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Oct 23, 2026 · 21:58 BRT",
-      "pub_date": "2026-10-23",
-      "pub_ts": 1792803513,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 24, 2026 · 00:46 BRT",
-      "pub_date": "2026-10-24",
-      "pub_ts": 1792813614,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Oct 23, 2026 · 02:24 BRT",
-      "pub_date": "2026-10-23",
-      "pub_ts": 1792733040,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-24T11:06:59.520307+00:00",
-  "last_generated_date": "2026-10-24",
-  "last_generated_time": "2026-10-24T23:01:50.569864+00:00",
+  "last_relevant_time": "2026-10-25T11:07:23.680397+00:00",
+  "last_generated_date": "2026-10-25",
+  "last_generated_time": "2026-10-25T08:01:49.365098+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

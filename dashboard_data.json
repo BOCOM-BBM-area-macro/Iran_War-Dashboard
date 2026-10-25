@@ -16437,7 +16437,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-20"
+      "pub_date": "2026-10-25"
     },
     "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates": {
       "summary": "",
@@ -17339,7 +17339,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-25"
+      "pub_date": "2026-10-24"
     },
     "https://www.jpost.com/middle-east/iran-news/article-912728": {
       "summary": "Tehran aims to cause even more pain in the case of a renewed campaign, especially at a time when interceptor missile stockpiles are under pressure in Israel and in US-aligned nations in the Gulf.",
@@ -17385,6 +17385,16 @@
       "pub_date": "2026-10-25"
     },
     "https://www.bloomberg.com/news/videos/2026-10-25/us-and-israel-elections-loom-over-iran-war-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-24"
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-25/iran-war-risks-escalation-after-elections-video": {
       "summary": "",
       "tags": [
         "extracted",
@@ -17549,7 +17559,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-25T11:07:23.680397+00:00",
   "last_generated_date": "2026-10-25",
-  "last_generated_time": "2026-10-25T11:01:53.948324+00:00",
+  "last_generated_time": "2026-10-25T12:01:54.589719+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

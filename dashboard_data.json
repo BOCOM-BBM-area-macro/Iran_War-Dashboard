@@ -16437,7 +16437,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-20"
+      "pub_date": "2026-10-24"
     },
     "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates": {
       "summary": "",
@@ -17304,6 +17304,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-24"
+    },
+    "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-24"
     }
   },
   "last_digest_success": true,
@@ -17454,7 +17464,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-24T11:06:59.520307+00:00",
   "last_generated_date": "2026-10-24",
-  "last_generated_time": "2026-10-24T21:01:54.750139+00:00",
+  "last_generated_time": "2026-10-24T22:01:50.529886+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

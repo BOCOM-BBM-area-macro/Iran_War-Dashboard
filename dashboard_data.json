@@ -16437,7 +16437,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-20"
+      "pub_date": "2026-10-25"
     },
     "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates": {
       "summary": "",
@@ -17095,10 +17095,13 @@
       "pub_date": "2026-10-21"
     },
     "https://www.reuters.com/world/middle-east/trump-says-us-may-do-another-military-operation-against-iran-2026-10-23/": {
-      "summary": "",
+      "summary": "President Donald Trump said on Friday ​the US may carry out another military operation against Iran ‌just as the Iran war nears its eight-month mark and rising fuel prices weigh on the US midterm elections.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "CWP",
+        "DEF",
+        "DIP",
+        "ENER"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17323,7 +17326,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-25"
+      "pub_date": "2026-10-24"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-10-25/live-updates-912732": {
       "summary": "Entry of Palestinian workers into West Bank restricted ahead of election • Houthi shrapnel falls in various Saudi cities • US warns citizens in Israel of threat of Houthi attacks",
@@ -17360,6 +17363,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-24"
+    },
+    "https://www.reuters.com/world/middle-east/iranian-army-says-it-shot-down-us-drone-over-bandar-abbas-tasnim-reports-2026-10-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-25"
     }
   },
   "last_digest_success": true,

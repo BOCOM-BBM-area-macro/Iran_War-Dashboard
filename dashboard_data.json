@@ -16698,7 +16698,7 @@
       "pub_date": "2026-10-21"
     },
     "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html": {
-      "summary": "",
+      "summary": "Renewed hostilities might not be any more successful than the war’s first phase, and President Trump has repeatedly canceled plans for a return to major combat.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -17160,7 +17160,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-23"
+      "pub_date": "2026-10-24"
     },
     "https://www.jpost.com/middle-east/iran-news/article-912677": {
       "summary": "Intelligence on Iranian assassination plots targeting US officials may have contributed to accelerated diplomatic evacuations, alongside fears of renewed military strikes on Iran.",
@@ -17502,6 +17502,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-25"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/netanyahu-on-reported-clash-with-idf-chief-over-iran-strike-its-nonsense/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-25"
     }
   },
   "last_digest_success": true,
@@ -17658,7 +17668,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-25T11:07:23.680397+00:00",
   "last_generated_date": "2026-10-25",
-  "last_generated_time": "2026-10-25T21:01:52.236040+00:00",
+  "last_generated_time": "2026-10-25T22:02:01.692461+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

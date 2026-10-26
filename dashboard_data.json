@@ -17760,6 +17760,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-26"
+    },
+    "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
     }
   },
   "last_digest_success": true,
@@ -17925,12 +17935,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-26T11:05:50.450983+00:00",
   "last_generated_date": "2026-10-26",
-  "last_generated_time": "2026-10-26T13:02:00.825049+00:00",
+  "last_generated_time": "2026-10-26T14:02:12.782132+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Top Saudi, Turkish Officials Travel to Iran to Quell War Tension - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2VfSTNIT3VIcUtpb2pWdVU2UVg3cUt5MzlnY0J6YW1Na0pjd0l0aGJ5TzF3ZEI0TEl5OXBGNnJVSy14UXpUYjFXRUdJRlJCclVhZkFZcDZWdUlCUVozRUZHWXJvUVUzc2tLb3Q2TEwyRVNnazdxWV9RdFV1QTFwVlRtSk9lWEE2dURyc0dxVjZFeGlCNGcza3d1VzhFWnFXOFB3dVM2Z0FFNW5JeTY4X0NVYUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 26, 2026 · 12:27 BRT",
+          "pub_date": "2026-10-26",
+          "pub_ts": 1793028459,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Falls Amid Diplomatic Efforts to End Iran War - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk9kRWJfSkYwUzNmQ3pfOUVSU21YWjFpWjJDb3YydFREdDBHSF93TUhjYTkzaXdXQkExcTdUZEJCQ1A3M2FnWG04NFpTaXBQdFVFdnZzOUhGakFrVlgyNWNZV2VwUlFiLXp6TVdkelRhU0tUWnNqQWlqR3NfcS1fY0FVZkNkYzR0RGVoa05GMmJQM1ZldUFPcmstazJVM1dTS2c?oc=5",

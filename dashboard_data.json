@@ -17803,6 +17803,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-26"
+    },
+    "https://www.reuters.com/business/energy/us-consumers-paying-most-fuel-price-spikes-iran-war-study-says-2026-10-26/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-26/ny-s-mta-faces-95-6-million-fuel-hit-this-year-from-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
+    },
+    "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
     }
   },
   "last_digest_success": true,
@@ -17968,7 +17998,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-26T11:05:50.450983+00:00",
   "last_generated_date": "2026-10-26",
-  "last_generated_time": "2026-10-26T17:01:51.032147+00:00",
+  "last_generated_time": "2026-10-26T18:01:57.182789+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -17983,6 +18013,20 @@
           "published": "Oct 26, 2026 · 12:27 BRT",
           "pub_date": "2026-10-26",
           "pub_ts": 1793028459,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi Arabia’s Houthi Challenge Shifts Fears to Non-Oil Economy - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeXpQQTgzR0xfbjdnOGNjYU00OHRqemhtSlllTWExX1BjaDN3YTNaaE1qYkwtejlPWmtqdGx5TXVLVzBCdkpxcUtadWxxZkFiVHprMTFMS0ZvOUZxTW83UGhPQ24yU29QVzdRSHU2OVc0RWdwcG9XVk4zalhkUWZDUmNMYmVKV0hTd0VCOUZOOEQ3RHZGLWdIVmhaTUZjZkY0Ry1WMlAwNGJzLUFkZzdTLTFuOG4?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 26, 2026 · 12:17 BRT",
+          "pub_date": "2026-10-26",
+          "pub_ts": 1793027838,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

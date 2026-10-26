@@ -16582,10 +16582,13 @@
       "pub_date": "2026-10-21"
     },
     "https://www.reuters.com/world/middle-east/israels-election-may-change-its-leader-not-iran-war-policy-2026-10-21/": {
-      "summary": "",
+      "summary": "Israel's election next week may change its leader, but not its strategy: Iran will remain its chief adversary, military force will continue to be its preferred tool and Palestinian statehood a ​distant prospect, regional policymakers and analysts say.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "ANV",
+        "MTPIX",
+        "EREP",
+        "ANLINS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17005,10 +17008,13 @@
       "pub_date": "2026-10-21"
     },
     "https://www.reuters.com/world/trump-weighs-quick-end-iran-war-against-letting-conflict-wither-2026-10-23/": {
-      "summary": "",
+      "summary": "President Donald ​Trump said on Friday ‌the United States could end the war with Iran ​quickly, but questioned ​whether Washington should seek a ⁠swift conclusion or allow ​the conflict to gradually ​wind down.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:TRUMP",
+        "COM",
+        "CRU",
+        "CWP",
+        "DEF"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17045,10 +17051,13 @@
       "pub_date": "2026-10-23"
     },
     "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/": {
-      "summary": "",
+      "summary": "Tehran has drawn up detailed plans to target undersea communications cables in the Gulf if the United States and Israel attack Iran again, two senior Iranian security officials ​told Reuters.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "GRAPHC",
+        "MTGFX",
+        "MTPIX"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17527,20 +17536,26 @@
       "pub_date": "2026-10-26"
     },
     "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/": {
-      "summary": "",
+      "summary": "Brent crude futures finished lower on Monday amid hopes of easing hostilities inthe Middle East, but persistent attacks ‌on key producer Saudi Arabia and maritime shipping kept investors wary and prices hovering near six-month highs.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:FUEL-OIL",
+        "MKTREP",
+        "REP",
+        "COM",
+        "CRU"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-25"
     },
     "https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26/": {
-      "summary": "",
+      "summary": "Top officials from Saudi Arabia, Turkey and Pakistan met Iranian officials in Tehran on Monday in a bid ​to de-escalate the Middle East conflict, as Yemen's Houthis launched new attacks on Saudi Arabia and Egypt approved defence support for the Gulf kingdom.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "CWP",
+        "DEF",
+        "ENER",
+        "ENFF",
+        "ENG"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17679,10 +17694,13 @@
       "pub_date": "2026-10-26"
     },
     "https://www.reuters.com/world/middle-east/netanyahu-touts-trump-endorsement-eve-vote-suggests-they-may-restart-war-iran-2026-10-26/": {
-      "summary": "",
+      "summary": "Prime Minister Benjamin Netanyahu boasted of his endorsement from Donald Trump on the eve of Israel's election, suggesting the two leaders could restart their war against ​Iran if he wins, after Trump said they should \"finish the job\".",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "CWP",
+        "DIP",
+        "DLI",
+        "GEN",
+        "MPOP"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17699,10 +17717,13 @@
       "pub_date": "2026-10-26"
     },
     "https://www.reuters.com/world/middle-east/hezbollah-readies-new-regional-war-with-funds-iran-sources-say-2026-10-26/": {
-      "summary": "",
+      "summary": "Lebanese armed group Hezbollah has spent three months preparing for a ​possible resumption of hostilities with Israel, after receiving an infusion of cash from Iran, according to Lebanese security personnel briefed on its activities.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "RULES:IRAN",
+        "RULES:IRAN-CRISIS",
+        "TOPIC:WORLD-HEZBOLLAH",
+        "AER",
+        "AERO"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17729,10 +17750,13 @@
       "pub_date": "2026-10-26"
     },
     "https://www.reuters.com/business/energy/galp-moeve-scrap-talks-combine-refining-fuel-retail-businesses-2026-10-26/": {
-      "summary": "",
+      "summary": "Portugal's Galp ‌Energia and Spain's Moeve called off a merger of their downstream assets on Monday as the US-Iran war turns refineries around the world from struggling businesses into prized assets, making long-term valuations for mergers extremely difficult.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "NRLPA:OENR",
+        "REPI:GRID-INFRASTRUCTURE",
+        "REPI:EXPLORATION-PRODUCTION",
+        "REPI:PETROCHEMICALS",
+        "REPI:REFINING"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17782,10 +17806,13 @@
       "pub_date": "2026-10-26"
     },
     "https://www.reuters.com/world/middle-east/egypt-approves-military-support-saudi-arabia-after-houthi-attacks-escalate-2026-10-26/": {
-      "summary": "",
+      "summary": "Parliament authorised Egyptian President Abdel Fattah al-Sisi on Monday to take \"all necessary measures\" to help Saudi Arabia defend itself — a move that could push Cairo ​more directly into the conflict between the kingdom and Yemen's Iran-allied Houthis.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "CLJ",
+        "CWP",
+        "DIP",
+        "ENER",
+        "ENFF"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17805,10 +17832,13 @@
       "pub_date": "2026-10-26"
     },
     "https://www.reuters.com/business/energy/us-consumers-paying-most-fuel-price-spikes-iran-war-study-says-2026-10-26/": {
-      "summary": "",
+      "summary": "US consumers are paying more than anyone in the world for the jump in fuel prices caused by ​supply disruptions resulting from the US war on Iran, ‌including the virtual shutting and then blockade of the Strait of Hormuz, a study said on Monday.",
       "tags": [
-        "extracted",
-        "reuters.com"
+        "REPI:FUEL-OIL",
+        "RULES:IRAN",
+        "REPI:REFINING",
+        "REPI:TRANSPORT-FUELS",
+        "TOPIC:ENERGY-OIL-GAS"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17829,6 +17859,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
+    },
+    "https://www.wsj.com/opinion/slow-and-steady-can-defeat-iran-d11aed83": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -17998,12 +18038,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-26T11:05:50.450983+00:00",
   "last_generated_date": "2026-10-26",
-  "last_generated_time": "2026-10-26T18:01:57.182789+00:00",
+  "last_generated_time": "2026-10-26T19:02:11.263438+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "NY’s MTA Faces $95.6 Million Fuel Hit This Year From Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmZINS1NVzhLRG1GSE5nWU9LQmp0aVdoa1Vua1NhWEQxTEc3NUxaZGpjaks1MmZ4RVVmVWtyMFZCYWtTa3QxeFNFczB2Mm93cEF3a2I4QVhxNGtON0JPcEx3eTRRYzBWLTRKcWI0NHJpeW03NUVRRWE2N0FzalVRc2lBQzU2RmRMd3pybFRWRlZkbi1vVlBRQ19wTGJweXFERnFNQ2w3Wmk0R0UxcS1YSA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 26, 2026 · 17:42 BRT",
+          "pub_date": "2026-10-26",
+          "pub_ts": 1793047369,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Top Saudi, Turkish Officials Travel to Iran to Quell War Tension - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2VfSTNIT3VIcUtpb2pWdVU2UVg3cUt5MzlnY0J6YW1Na0pjd0l0aGJ5TzF3ZEI0TEl5OXBGNnJVSy14UXpUYjFXRUdJRlJCclVhZkFZcDZWdUlCUVozRUZHWXJvUVUzc2tLb3Q2TEwyRVNnazdxWV9RdFV1QTFwVlRtSk9lWEE2dURyc0dxVjZFeGlCNGcza3d1VzhFWnFXOFB3dVM2Z0FFNW5JeTY4X0NVYUQ?oc=5",

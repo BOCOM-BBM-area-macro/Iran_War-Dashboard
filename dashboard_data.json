@@ -17319,7 +17319,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-24"
+      "pub_date": "2026-10-25"
     },
     "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html": {
       "summary": "",
@@ -17329,7 +17329,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-24"
+      "pub_date": "2026-10-25"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-10-25/live-updates-912732": {
       "summary": "Entry of Palestinian workers into West Bank restricted ahead of election • Houthi shrapnel falls in various Saudi cities • US warns citizens in Israel of threat of Houthi attacks",
@@ -17524,7 +17524,17 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-26"
+      "pub_date": "2026-10-25"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-25"
     }
   },
   "last_digest_success": true,
@@ -17687,6 +17697,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil drops from near six-month highs on hopes Iran war hostilities to ease - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 25, 2026 · 20:24 BRT",
+          "pub_date": "2026-10-25",
+          "pub_ts": 1792970640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: How Trump's energy dominance turned into hubris - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQekgyR1FuVEk3cnpGRGlzWVFSTmZPT2gteXQ0UHk2M0hiUDJ2MnFJbjIzYjdhbzZfa3pPNDlVcWJhRjVRWlVPVFlJZC1FOFE2UHBDWTNzOGlmdHR2Z1NVN1lYdFNBU2haMVRGTlUwOE1OTENUUHl2bGo2R2d4RXRTdlQ2WTRuNm9adGU4TnE4alVleS11OHNmU20tOHVYMEdPQndUa19NazhxVHlfNkdMMk5SZG5mRjAtY2kycmd5TQ?oc=5",

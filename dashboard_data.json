@@ -17654,6 +17654,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-25"
+    },
+    "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
+    },
+    "https://www.jpost.com/israel-election-2026/article-912868": {
+      "summary": "Calling on Attorney-General Gali Baharv-Miara to open a criminal probe, Liberman accused Netanyahu of attempting to draw Israel into a military confrontation to delay the elections.",
+      "tags": [
+        "Avigdor Liberman",
+        "Benjamin Netanyahu",
+        "IDF",
+        "Iran",
+        "Politics"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
     }
   },
   "last_digest_success": true,
@@ -17819,7 +17842,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-26T11:05:50.450983+00:00",
   "last_generated_date": "2026-10-26",
-  "last_generated_time": "2026-10-26T09:02:02.248707+00:00",
+  "last_generated_time": "2026-10-26T10:02:03.457991+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -17546,7 +17546,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-25"
+      "pub_date": "2026-10-26"
     },
     "https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26/": {
       "summary": "Top officials from Saudi Arabia, Turkey and Pakistan met Iranian officials in Tehran on Monday in a bid ​to de-escalate the Middle East conflict, as Yemen's Houthis launched new attacks on Saudi Arabia and Egypt approved defence support for the Gulf kingdom.",
@@ -18102,6 +18102,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-27"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-27/nuclear-inspectors-see-no-evidence-iran-repaired-us-bombed-sites": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-27"
     }
   },
   "last_digest_success": true,
@@ -18266,7 +18276,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-27T11:06:59.723843+00:00",
   "last_generated_date": "2026-10-27",
-  "last_generated_time": "2026-10-27T18:01:47.156246+00:00",
+  "last_generated_time": "2026-10-27T19:01:47.922834+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -18351,6 +18361,20 @@
           "published": "Oct 26, 2026 · 17:20 BRT",
           "pub_date": "2026-10-26",
           "pub_ts": 1793046015,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Opinion | Brace yourself, GOP. Trump’s Iran war and tariffs are going to sting. - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0ZZWUVxTE90YTY4SERGdVhsMlFxNUF6ZWdlSmxPcERBNk9YUWxRV0RIRzY4czJrX29ocEVJeE5rN0d0VFJ0TTlVMVJpNTdJck04QThZLVdYTm9CRXp1OEg5V0NMZGM0WGhEU1lxMWZkQWhQMDU4cmxmbm1XSm5YWDV1RjEyeDc2d1picmtqZlFwaFFQajhUY242QVNPTU9fZ21ScnBNdHJ3TkJ0ZDNHeQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 26, 2026 · 15:30 BRT",
+          "pub_date": "2026-10-26",
+          "pub_ts": 1793039400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

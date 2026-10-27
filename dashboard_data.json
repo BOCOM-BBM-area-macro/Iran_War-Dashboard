@@ -16437,7 +16437,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-20"
+      "pub_date": "2026-10-26"
     },
     "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates": {
       "summary": "",
@@ -17883,6 +17883,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-26"
     }
   },
   "last_digest_success": true,
@@ -18048,12 +18058,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-26T11:05:50.450983+00:00",
   "last_generated_date": "2026-10-26",
-  "last_generated_time": "2026-10-26T20:01:59.320947+00:00",
+  "last_generated_time": "2026-10-26T21:02:00.270673+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Declines as Diplomacy Offers Hope of Mideast Deescalation - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUE5CTldfa1F0ZnVycHMtVW01c0RqeEpESThPWmEzY1VITlZGVVd6UVlOYnZwSmxoWDBRSHBiWUFBckdEUEF0UHVjaExreEtHS2RyMkl1U3p5Ul9yU21xbU15MEF3ZUprYkx6dzlJYnBhMEZDYWpHc09QWVA4RDZuWUtrdXRvSmRhXzNnVXFiOUNUVTNMV2Zja1ZBWVI1UQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 26, 2026 · 20:08 BRT",
+          "pub_date": "2026-10-26",
+          "pub_ts": 1793056085,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "NY’s MTA Faces $95.6 Million Fuel Hit This Year From Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmZINS1NVzhLRG1GSE5nWU9LQmp0aVdoa1Vua1NhWEQxTEc3NUxaZGpjaks1MmZ4RVVmVWtyMFZCYWtTa3QxeFNFczB2Mm93cEF3a2I4QVhxNGtON0JPcEx3eTRRYzBWLTRKcWI0NHJpeW03NUVRRWE2N0FzalVRc2lBQzU2RmRMd3pybFRWRlZkbi1vVlBRQ19wTGJweXFERnFNQ2w3Wmk0R0UxcS1YSA?oc=5",
@@ -18301,6 +18325,20 @@
           "published": "Oct 22, 2026 · 14:35 BRT",
           "pub_date": "2026-10-22",
           "pub_ts": 1792690524,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "COMMENTARY: Iran war may crush oil demand today, but send it soaring long term - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2NBUmdfYUk2V3UwbGZZb2VWVHJxQWJVblVreWw1UzhiZjRGeW9uYV9lM00xbDF5bHhaWXN0dWh1bDI5VWR6bUp4WnpjSUVaZVM1Z29fTTBOTXd1U1V0VlVZMnRJRVRwZTRGY3d4US0xcFNpVzRzd0RmQnBUbG00X2dobEFFSzg5blF6SFE2YVBTaFR2ZGZ5c0tEaDdZS0VBS1dBYjhnRUJOeC1DbVd3NmsyRHp3Q2hR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 22, 2026 · 04:00 BRT",
+          "pub_date": "2026-10-22",
+          "pub_ts": 1792652400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

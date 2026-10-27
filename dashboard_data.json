@@ -17865,10 +17865,13 @@
       "pub_date": "2026-10-26"
     },
     "https://www.wsj.com/opinion/slow-and-steady-can-defeat-iran-d11aed83": {
-      "summary": "",
+      "summary": "Time is on America’s side, and a renewed or intensified air war would be a mistake.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Energy",
+        "Crude Oil",
+        "Fossil Fuels",
+        "Hard Commodities",
+        "Oil/Gas"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -18032,6 +18035,29 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-27"
+    },
+    "https://www.timesofisrael.com/how-trumps-little-detour-to-iran-became-a-roadblock-in-the-us-midterm-elections/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-27"
+    },
+    "https://www.jpost.com/international/article-913042": {
+      "summary": "UK prosecutors charged two men over a security incident at RAF Fairford, including a British national suspected of assisting Iranian intelligence activities.",
+      "tags": [
+        "Iran",
+        "United Kingdom",
+        "police",
+        "arrest",
+        "Royal Air Force"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -18200,7 +18226,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-27T11:06:59.723843+00:00",
   "last_generated_date": "2026-10-27",
-  "last_generated_time": "2026-10-27T12:01:53.781949+00:00",
+  "last_generated_time": "2026-10-27T13:02:12.754923+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

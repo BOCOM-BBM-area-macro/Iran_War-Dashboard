@@ -17678,7 +17678,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-27"
+      "pub_date": "2026-10-26"
     },
     "https://www.jpost.com/israel-election-2026/article-912868": {
       "summary": "Calling on Attorney-General Gali Baharv-Miara to open a criminal probe, Liberman accused Netanyahu of attempting to draw Israel into a military confrontation to delay the elections.",
@@ -18371,6 +18371,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-28"
+    },
+    "https://www.reuters.com/world/middle-east/caretaker-role-could-limit-netanyahu-not-rule-out-war-with-iran-2026-10-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
     }
   },
   "last_digest_success": true,
@@ -18525,7 +18545,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-28T11:06:48.031824+00:00",
   "last_generated_date": "2026-10-28",
-  "last_generated_time": "2026-10-28T12:02:02.273959+00:00",
+  "last_generated_time": "2026-10-28T13:01:56.876960+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -26647,6 +26667,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "European gas prices jump above €100 on fears of Iran war escalation - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2N0b2ZSNTk4OVc4d3dienNYVFpQUUt5ZmFGVHBmV3BMRU5UemRFOTlzUkRQcXBXMHAtcFBxUWxiWjB6QmY5d0ZXUE9IRmZlMjllYUo2UzM0U3pMdTN6Ymt4TzFqU2pGcU5WZWRuNUlpeXNTZnlYMml3RUZRaEowbngySlM?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 11:53 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793199207,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Equinor Profit Beats Estimates as Iran War Jolts Energy Markets - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzFGTHcxRFlfNXhNRVJSUzczOW5sTVRGM010eVZQQXNvazViTFQ0Q3d0cGcydUR1UjE0M19mMnBmZ2ozVGFvMHlrWDVFMVBCWVJtUVNHcC1OTlAwZUgzQ3RQRlVTZ0xjZlFUaVFpM0NRMDB2NEhPbW5paTZnYU5UeTNrVkdMSENoMm5rNTFGT0lYYms4WmlaVUdTZlRWQkdEUkpXWnhvR2xINEM1ZFRvRTMwRHY?oc=5",

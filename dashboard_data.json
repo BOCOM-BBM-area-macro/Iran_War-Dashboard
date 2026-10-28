@@ -17678,7 +17678,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-26"
+      "pub_date": "2026-10-27"
     },
     "https://www.jpost.com/israel-election-2026/article-912868": {
       "summary": "Calling on Attorney-General Gali Baharv-Miara to open a criminal probe, Liberman accused Netanyahu of attempting to draw Israel into a military confrontation to delay the elections.",
@@ -18464,6 +18464,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-28"
+    },
+    "https://www.washingtonpost.com/the-seven-trump/2026/10/28/tracking-trump-fed-keeps-interest-rates-steady-iran-war-cost-update-rfk-jrs-peptide-plan-more/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.washingtonpost.com/video/video/iran-war-pushed-inflation-to-highest-rate-in-nearly-three-years/2026/10/28/3cb6cd28-a60c-47ed-8144-3f73c8ff93ac_video.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-sees-only-unacceptable-ideas-in-latest-mediation-to-end-war-official-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
     }
   },
   "last_digest_success": true,
@@ -18618,7 +18648,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-28T11:06:48.031824+00:00",
   "last_generated_date": "2026-10-28",
-  "last_generated_time": "2026-10-28T18:02:05.153910+00:00",
+  "last_generated_time": "2026-10-28T19:02:27.777930+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -29854,6 +29884,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "As Israel faces political deadlock, Benjamin Netanyahu may be able to renew Iran strikes - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05OXctS09xZU1ISVZWUFRhVkNrWHJvcEtTV3EzSTY0UDRvcEJtb3c0Z3BmRXkyNUNRSkprYWNoaTM0TU1nbkJGa2NtdHJrNkNDeF9nOWVKTWtUQ2pFTFludXR4T2NLWWw2dkprY0ZB?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 15:12 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793211124,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Metals Rally Faces a Reality Check - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPall4eUhXSzZGSm9fWHBmX2RhX1RHcEstQUdEYXA4NU1mZGdYaFJhVURJT1RreUV2VzZGbkJSTXV0Z0otb0ppcFpiTFU0ekZlc2w0Xzc3Z1luM244Qi1tUFBaRlZURUlIREU0TkljR2psX0k1bXhRcEdYZmM5QmJRbEtoM0x1MjJ0dmJ6dERlQlJHMlZRZ29XSnVBVXAwMVhFQnFXV21CR1ZGbHc1a2EwdQ?oc=5",

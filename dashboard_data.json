@@ -17678,7 +17678,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-26"
+      "pub_date": "2026-10-27"
     },
     "https://www.jpost.com/israel-election-2026/article-912868": {
       "summary": "Calling on Attorney-General Gali Baharv-Miara to open a criminal probe, Liberman accused Netanyahu of attempting to draw Israel into a military confrontation to delay the elections.",
@@ -18272,99 +18272,75 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-27"
+    },
+    "https://www.reuters.com/business/energy/iran-war-drags-airlines-pull-back-fuel-hedges-warn-fares-2026-10-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-913105": {
+      "summary": "The US is moving a Patriot missile defense system from Texas to the Middle East as Washington and Israel prepare for possible renewed strikes on Iran.",
+      "tags": [
+        "iran israel war",
+        "iran war scenario",
+        "Israel Iran War",
+        "israeli air defence system",
+        "us israel iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-27T11:06:47.925120+00:00",
+  "last_digest_time": "2026-10-28T11:06:27.475291+00:00",
   "digest": {
-    "digest": "The conflict involving Iran has entered a dangerous phase, with intelligence suggesting a potential escalation towards full-scale war, particularly ahead of upcoming elections in the US and Israel. There are reports of US and Israeli plans to renew hostilities, while former President Trump has indicated a desire to \"finish the job\" with Iran, a sentiment echoed by Prime Minister Netanyahu who suggested a potential restart of their war against Iran. In response to rising tensions, Saudi Arabia, Turkey, and Pakistan have dispatched envoys to Iran in a concerted diplomatic push to de-escalate the situation and end the war. Concurrently, Hezbollah has reportedly received significant funding from Iran, preparing for a potential resumption of hostilities with Israel. The economic repercussions of the conflict are evident, with a study indicating that US consumers are bearing the brunt of increased fuel prices due to supply disruptions, including the blockade of the Strait of Hormuz. The New York MTA is also facing substantial fuel cost increases. Amidst these developments, Iran has threatened nuclear escalation and indicated potential actions against Sinokor ships in the Strait of Hormuz.",
+    "digest": "The United States has reportedly warned Gulf states of a potential short, intense renewal of conflict with Iran following the midterm elections, accompanied by the deployment of a Patriot missile defense system to Israel and troop relocations. US military buildup in the Middle East includes additional aircraft carriers and Marine units, with preparations for strikes on Iranian infrastructure and nuclear facilities being considered. The estimated cost of the Iran war has risen to over $47.1 billion, impacting various sectors, including airlines facing higher fuel costs and potential fare increases, and food and household brands warning of further price hikes. Conversely, disruptions from the conflict have supported demand for some industries, leading to revised profit outlooks for companies like Germany's BASF. Diplomatic efforts are ongoing, with Qatari mediators presenting Iran with a new deal to end the war, though Iran's Supreme Leader has reiterated conditions for ending the conflict. Concerns persist regarding a potential \"forever stalemate\" in the oil market, while Iran has threatened to expand retaliation if military action resumes. Intelligence warnings have also intensified regarding Iranian plots against American citizens and officials, with Iran reportedly instructing Hezbollah to prepare for renewed conflict.",
     "top_themes": [
-      "Escalating Tensions",
-      "Diplomatic Efforts",
-      "Economic Impact"
+      "US Military Preparations and Warnings",
+      "Escalating War Costs and Economic Impact",
+      "Diplomatic Efforts and Stalemate Concerns"
     ],
     "next_events": [
       {
-        "title": "Impact of US and Israeli Elections on Iran War Stance",
-        "description": "The upcoming elections in the United States and Israel are critical junctures influencing the potential for renewed conflict. Analysts should monitor the rhetoric and policy positions of winning candidates, particularly regarding any renewed push for military action against Iran, as suggested by figures like Netanyahu and Trump."
+        "title": "Potential US/Israel Military Action Post-Midterms",
+        "description": "Analysts should closely monitor the period immediately following the November 3 midterm elections for signs of a 'short, intense renewal' of military operations against Iran. Watch for US and Israeli strikes targeting Iranian infrastructure and nuclear facilities, as indicated by ongoing US military deployments, including Patriot systems, aircraft carriers, and munitions replenishment."
       },
       {
-        "title": "Effectiveness of Regional Diplomatic Initiatives",
-        "description": "Several regional powers, including Saudi Arabia, Turkey, and Pakistan, are engaged in diplomatic efforts to de-escalate tensions with Iran. Watch for any concrete outcomes from these discussions, as successful mediation could avert further conflict or, conversely, their failure could signal increased risk."
+        "title": "Progress of Qatari-Led Peace Negotiations",
+        "description": "A new deal has been presented to Iran by Qatari mediators amidst a 'flurry of diplomacy.' Analysts should track any developments in these negotiations, Iran's stated conditions for ending the war, and whether these diplomatic efforts can successfully de-escalate tensions and avert further military conflict."
       },
       {
-        "title": "Security and Shipping in the Strait of Hormuz",
-        "description": "The Strait of Hormuz remains a critical chokepoint, with past blockades and recent threats from Iran against shipping. Analysts should monitor any Iranian actions or rhetoric targeting commercial vessels, as disruptions here directly impact global fuel prices and could trigger international responses."
+        "title": "Iran's Retaliation and Regional Proxy Activation",
+        "description": "Iran has threatened to expand retaliation, potentially targeting energy infrastructure and civilian facilities across the Persian Gulf, and has reportedly instructed Hezbollah to increase readiness. Watch for any pre-emptive or retaliatory actions by Iran or its proxies, which could significantly destabilize regional security and impact global shipping and energy markets."
       },
       {
-        "title": "Hezbollah's Readiness and Regional Proxy Escalation",
-        "description": "Hezbollah, reportedly receiving funds from Iran, is preparing for potential renewed hostilities with Israel. Watch for increased military activity, cross-border incidents, or any significant shifts in rhetoric from Hezbollah, as this could signal a broader regional escalation involving Iranian proxies."
-      },
-      {
-        "title": "Global Economic Repercussions, Especially Fuel Prices",
-        "description": "The ongoing tensions and potential for renewed conflict in Iran have already led to significant spikes in global fuel prices, impacting consumers and industries worldwide. Monitor oil market volatility and any further supply disruptions, particularly those related to the Strait of Hormuz, as these are direct indicators of the conflict's economic reach."
-      },
-      {
-        "title": "Iran's Nuclear Program and Escalation Threats",
-        "description": "Amidst heightened tensions, Tehran has reportedly threatened nuclear escalation. Analysts should closely watch any statements or actions from Iran regarding its nuclear program, as a shift in its nuclear posture could dramatically alter the strategic landscape and provoke a stronger international response."
+        "title": "Escalating Economic Costs and Market Volatility",
+        "description": "The war's cost has already risen to over $47 billion, impacting global energy markets, airline operations, and consumer goods prices. Analysts should continue to monitor how ongoing conflict or a prolonged stalemate will further influence oil prices, supply chain disruptions, inflation, and the financial performance of key industries worldwide."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-27T11:06:56.111217+00:00",
+  "last_watch_time": "2026-10-28T11:06:34.682826+00:00",
   "relevant_news": [
     {
-      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 27, 2026 · 07:41 BRT",
-      "pub_date": "2026-10-27",
-      "pub_ts": 1793097697,
-      "summary": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
-      "tags": [
-        "extracted",
-        "nytimes.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-touts-trump-endorsement-eve-vote-suggests-they-may-restart-war-iran-2026-10-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 26, 2026 · 20:06 BRT",
-      "pub_date": "2026-10-26",
-      "pub_ts": 1793055989,
-      "summary": "Prime Minister Benjamin Netanyahu boasted of his endorsement from Donald Trump on the eve of Israel's election, suggesting the two leaders could restart their war against ​Iran if he wins, after Trump said they should \"finish the job\".",
-      "tags": [
-        "CWP",
-        "DIP",
-        "DLI",
-        "GEN",
-        "MPOP"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/10/26/saudi-arabia-turkey-pakistan-send-officials-iran-push-end-us-war/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 26, 2026 · 22:23 BRT",
-      "pub_date": "2026-10-26",
-      "pub_ts": 1793064211,
+      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Oct 28, 2026 · 00:48 BRT",
+      "pub_date": "2026-10-28",
+      "pub_ts": 1793159280,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -18372,24 +18348,63 @@
       "sentiment_success": false
     },
     {
-      "title": "US consumers paying the most for fuel price spikes from Iran war, study says - Reuters",
-      "url": "https://www.reuters.com/business/energy/us-consumers-paying-most-fuel-price-spikes-iran-war-study-says-2026-10-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 26, 2026 · 17:20 BRT",
-      "pub_date": "2026-10-26",
-      "pub_ts": 1793046015,
-      "summary": "US consumers are paying more than anyone in the world for the jump in fuel prices caused by ​supply disruptions resulting from the US war on Iran, ‌including the virtual shutting and then blockade of the Strait of Hormuz, a study said on Monday.",
+      "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers - The New York Times",
+      "url": "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Oct 27, 2026 · 22:09 BRT",
+      "pub_date": "2026-10-27",
+      "pub_ts": 1793149795,
+      "summary": "",
       "tags": [
-        "REPI:FUEL-OIL",
-        "RULES:IRAN",
-        "REPI:REFINING",
-        "REPI:TRANSPORT-FUELS",
-        "TOPIC:ENERGY-OIL-GAS"
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US deploys Patriot system in Israel amid preparations for Iran strikes - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913105",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 28, 2026 · 07:32 BRT",
+      "pub_date": "2026-10-28",
+      "pub_ts": 1793183527,
+      "summary": "The US is moving a Patriot missile defense system from Texas to the Middle East as Washington and Israel prepare for possible renewed strikes on Iran.",
+      "tags": [
+        "iran israel war",
+        "iran war scenario",
+        "Israel Iran War",
+        "israeli air defence system",
+        "us israel iran"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "US\ndeploys\nPatriot\nsystem\nin\nIsrael\namid\npreparations\nfor\nIran\nstrikes\n|\nThe\nJerusalem\nPost\nUS\nmoves\nPatriot\nmissile\ndefense\nsystem\nfrom\nTexas\nto\nIsrael\nahead\nof\npossible\nIran\nstrike\n-\nreport\nThe\nUS\nis\nmoving\na\nPatriot\nmissile\ndefense\nsystem\nfrom\nTexas\nto\nthe\nMiddle\nEast\nas\nWashington\nand\nIsrael\nprepare\nfor\npossible\nrenewed\nstrikes\non\nIran.\nFollow\nus\non\nGoogle\nIsraeli\nsoldiers\nwalk\nnear\nan\nIsraeli\nIrone\nDome\ndefence\nsystem\n(L),\na\nsurface-to-air\nmissile\n(SAM)\nsystem,\nthe\nMIM-104\nPatriot\n(C),\nand\nan\nanti-ballistic\nmissile\nthe\nArrow\n3\n(R)\nduring\nJuniper\nCobra's\njoint\nexercise\npress\nbriefing\nat\nHatzor\nIsraeli\nAir\nForce\nBasel,\non\nFebruary\n25,\n2026.\n(\nphoto\ncredit\n:\nGIL\nCOHEN-MAGEN/AFP\nVIA\nGETTY\nIMAGES\n)\nBy\nJERUSALEM\nPOST\nSTAFF\nOCTOBER\n28,\n2026\n12:32\nThe\nUS\nmilitary\nis\nmoving\na\nPatriot\nair\nand\nmissile\ndefense\nsystem\nfrom\nTexas\nto\nthe\nMiddle\nEast\nas\nWashington\nand\nIsrael\nprepare\nfor\na\npossible\nnew\nround\nof\nheavy\ncombat\noperations\nagainst\nIran\nfollowing\nthe\nNovember\n3\nmidterm\nelections,\nThe\nWall\nStreet\nJournal\nreported\non\nTuesday.\nThe\nPatriot\nsystem,\nwhich\nincludes\nradar\nequipment,\nan\nengagement\ncontrol\nstation,\nmissile\nlaunchers,\nand\ninterceptor\nmissiles,\nis\nbeing\ndeployed\nto\nstrengthen\nAmerican\ndefenses\namid\npreparations\nfor\na\npotential\nescalation.\nThe\nUS\nhas\nalso\nrelocated\ntroops\nfrom\nbases\nwhere\nthey\nwere\nconsidered\nvulnerable\nto\nIranian\nattacks,\nofficials\nfamiliar\nwith\nthe\nmovements\ntold\nthe\nWSJ\n.\nWashington\nhas\nreportedly\nwarned\nseveral\nGulf\nArab\ncountries\nto\nprepare\nfor\na\nshort,\nintense\nmilitary\ncampaign\nagainst\nIran\nfollowing\nthe\nmidterm\nelections,\naccording\nto\npeople\nbriefed\non\nthe\nconversations.\nAdditionally,\nUS\nforces\nhave\nbeen\nreplenishing\ntheir\nmunitions\nstockpiles,\nwhile\nofficials\nsaid\nbomber\naircraft\nand\nfighter\njets\nare\nbeing\nprepared\nfor\npossible\nstrikes.\nUS\nNavy\nsailors\nwork\non\nthe\nflight\ndeck\nof\nthe\naircraft\ncarrier\nUSS\nGeorge\nWashington\nas\nit\ntransits\nthe\nArabian\nSea\nto\nsupport\nUS\nmilitary\noperations\nin\nthe\nwar\nwith\nIran\nAugust\n20,\n2026.\n(credit:\nUS\nNAVY/HANDOUT\nVIA\nREUTERS)\nUS\nmilitary\nbuildup\nahead\nof\npossible\nIran\nescalation\nAn\nadditional\naircraft\ncarrier\nstrike\ngroup\nand\nMarine\nExpeditionary\nUnit\nare\nalso\nexpected\nto\njoin\napproximately\n20\nUS\nwarships\noperating\nin\nthe\nMiddle\nEast\nin\nNovember,\nalthough\nsome\nvessels\ncould\nrotate\nout\nof\nthe\nregion.\nThe\nreported\npreparations\nfollow\nan\nearlier\nUS\ndecision\nto\ndeploy\na\nthird\naircraft\ncarrier\nand\nadditional\nMarines\nto\nthe\nMiddle\nEast\n.\nA\nUS\nofficial\nsaid\non\nOctober\n1\nthat\nthe\nUSS\nTheodore\nRoosevelt\nand\nadditional\nMarine\npersonnel\nwere\nbeing\nsent\nto\nthe\nregion,\nexpanding\nWashington's\nmilitary\noptions.\nThe\nlatest\nbuildup\ncomes\nas\nUS\nPresident\nDonald\nTrump\nweighs\nfurther\nmilitary\naction\nagainst\nIran.\nAccording\nto\nthe\nWSJ\n,\nTrump\nhas\nnot\nmade\na\nfinal\ndecision\non\nlaunching\nanother\ncampaign,\nalthough\nhe\nis\nreportedly\nleaning\ntoward\nstrikes\ntargeting\nIranian\ninfrastructure\nand\nnuclear\nfacilities.\nA\nnegotiated\nagreement\nremains\na\npossibility.\nIran\nhas\nthreatened\nto\nexpand\nits\nretaliation\nif\nthe\nUS\nand\nIsrael\nresume\ntheir\nattacks,\nincluding\nby\ntargeting\nenergy\ninfrastructure,\nairports,\nand\nother\ncivilian\nfacilities\nacross\nthe\nPersian\nGulf.\nMeanwhile,\nUS\nintelligence\nwarnings\nabout\nIranian\nplots\nagainst\nAmerican\nofficials\nand\ncitizens\nhave\nadded\nto\nregional\nsecurity\nconcerns.\nA\nUS\nofficial\nconfirmed\non\nFriday\nthat\nSecretary\nof\nState\nMarco\nRubio\nhad\nreceived\nan\nintelligence\nmemorandum\nwarning\nthat\nIranian\nefforts\nto\ntarget\nAmericans\nhad\nintensified.\nIran\nhas\nalso\nreportedly\ninstructed\nHezbollah\nto\nprepare\nfor\na\npossible\nrenewed\nconflict\n.\nTwo\ndiplomatic\nsources\nsaid\non\nOctober\n15\nthat\nTehran\nhad\nwarned\nthe\nLebanese\nterrorist\ngroup\nto\nincrease\nits\nreadiness\nin\nanticipation\nof\nfurther\nAmerican\nmilitary\naction.\nThe\ntiming,\nscope,\nand\nfinal\ndecision\non\nany\nrenewed\nmilitary\ncampaign\nremain\nuncertain.\nSee\nmore\non\niran\nisrael\nwar\n|\niran\nwar\nscenario\n|\nIsrael\nIran\nWar\n|\nisraeli\nair\ndefence\nsystem\n|\nus\nisrael\niran\n|\nus\nisrael\nrelations\n|\npatriot\nmissile\n|\npatriots\nFollow\nus\non\nGoogle",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran’s Khamenei Reiterates Conditions for Ending War With US - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/iran-s-supreme-leader-and-top-security-chief-discuss-war-hormuz-mvqlnngi",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Oct 27, 2026 · 10:06 BRT",
+      "pub_date": "2026-10-27",
+      "pub_ts": 1793106373,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     },
     {
@@ -18398,9 +18413,9 @@
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 26, 2026 · 12:46 BRT",
-      "pub_date": "2026-10-26",
-      "pub_ts": 1793029566,
+      "published": "Oct 27, 2026 · 04:59 BRT",
+      "pub_date": "2026-10-27",
+      "pub_ts": 1793087940,
       "summary": "",
       "tags": [
         "extracted",
@@ -18412,31 +18427,29 @@
       "sentiment_success": false
     },
     {
-      "title": "Hezbollah readies for new regional war with funds from Iran, sources say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/hezbollah-readies-new-regional-war-with-funds-iran-sources-say-2026-10-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 26, 2026 · 11:53 BRT",
-      "pub_date": "2026-10-26",
-      "pub_ts": 1793026423,
-      "summary": "Lebanese armed group Hezbollah has spent three months preparing for a ​possible resumption of hostilities with Israel, after receiving an infusion of cash from Iran, according to Lebanese security personnel briefed on its activities.",
+      "title": "The Oil Market Should Brace for a Forever Stalemate in Iran - Bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-10-28/the-oil-market-should-brace-for-a-forever-stalemate-in-iran",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Oct 28, 2026 · 01:00 BRT",
+      "pub_date": "2026-10-28",
+      "pub_ts": 1793160017,
+      "summary": "",
       "tags": [
-        "RULES:IRAN",
-        "RULES:IRAN-CRISIS",
-        "TOPIC:WORLD-HEZBOLLAH",
-        "AER",
-        "AERO"
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-27T11:06:59.723843+00:00",
-  "last_generated_date": "2026-10-27",
-  "last_generated_time": "2026-10-27T23:02:00.455277+00:00",
+  "last_relevant_time": "2026-10-28T11:06:48.031824+00:00",
+  "last_generated_date": "2026-10-28",
+  "last_generated_time": "2026-10-28T08:01:44.294849+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -27655,6 +27668,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "As Iran war drags on, airlines pull back on fuel hedges and warn on fares - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnZ2TEZjYXMwcUtkN0cxbHVHVEd5YWp2NjRUMVFPWEFweEJyQUl3alk1UllPZ2lnVDdEQ0haUFRzNjVGZllNRk1ZR0JlaXdCOG8zRjVodWpPcXBvNlVGWGJTQlBXR2JSWGxaTU5qdHZ6dlhpYUdyeUcxcTdYUWppWmduVmtIM3RvOHAtenZCY0djWUs3UXFfRk9NVFV3Um9yNWVHS1NkWUJTRzFx?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 07:55 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793184943,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "EXCLUSIVE: How purchases of sanctioned Iranian jet fuel were disguised by Myanmar - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWl4SlBja1R4RkhhaTMxemplMld0aldQMmlzbzdsOVlPMnJFWVNwRVVMa1dnanFtOVctTlEyWjl0SnI4Q3I4TzQ4QU5LRjRtX3BKSXc2RE5tQTNRSWhKYXlvX01QdE1OZWlQc1d4ZkZwWWxVQTVGLUR1NWFVWjZYcFNvNDJXS1hOYXUtVWRQSkdwMVZ5MGtUcHpjUTI3TjZ6M0VZaUdhLVdSTzA5UXkyYXlWUTFyRHlXb0tF?oc=5",

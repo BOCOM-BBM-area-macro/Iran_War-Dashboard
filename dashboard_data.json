@@ -18421,6 +18421,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-28"
+    },
+    "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-913152": {
+      "summary": "If Eisenkot had won the battle of the blocs and, in a head-to-head with Netanyahu, as the polls forecast, he might have been able to start forming a government before the US midterm elections.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Elections",
+        "Iran",
+        "Donald Trump",
+        "Eyal Zamir"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.reuters.com/world/middle-east/netanyahu-eisenkot-stake-rival-claims-lead-israel-after-deadlocked-vote-2026-10-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-27"
     }
   },
   "last_digest_success": true,
@@ -18575,12 +18608,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-28T11:06:48.031824+00:00",
   "last_generated_date": "2026-10-28",
-  "last_generated_time": "2026-10-28T15:02:10.630883+00:00",
+  "last_generated_time": "2026-10-28T16:02:01.642024+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Baltic Pushed Brokers to Submit Rates During War, Court Told - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWEyOEM2VjhDMzZCZnBjZXhFWUhqSW5mRkhNQUJiaUFKaXJ5aTBIOU5jaGdKVl9ORjRJTW1pcFBCenJJbHptTUZybWh0RUpXUkllRzNTcUpqYmRXcGtycHpaRFZYNFdfV0F5Nm85azN5R3NPUHFROTdzbURFWU5WZkxScWQycnJlYndlVlBGeVM1VVpucEV2ektwT3JHSTMyV25UQUlDQ0JtVmJhZUNR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 13:01 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793203261,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",

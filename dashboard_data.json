@@ -18295,6 +18295,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-28"
+    },
+    "https://www.reuters.com/business/retail-consumer/dove-maker-unilever-beats-quarterly-sales-estimates-on-strong-demand-pricing-2026-10-28/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.ft.com/content/77e4e4a5-a041-4d59-9d8c-0a7af9ef6d25": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913117": {
+      "summary": "US Treasury Secretary Scott Bessent said he predicted the Iranian economy would contract an additional 25% by next March and recommended that Iranian civilians begin stocking up on gasoline.",
+      "tags": [
+        "Iran",
+        "economy",
+        "iran israel war",
+        "iranian economy",
+        "Scott Bessent"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
     }
   },
   "last_digest_success": true,
@@ -18449,7 +18482,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-28T11:06:48.031824+00:00",
   "last_generated_date": "2026-10-28",
-  "last_generated_time": "2026-10-28T08:01:44.294849+00:00",
+  "last_generated_time": "2026-10-28T09:02:07.652582+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

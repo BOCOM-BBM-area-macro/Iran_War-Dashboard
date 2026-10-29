@@ -18494,6 +18494,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-28/trump-says-vance-reached-out-to-iran-to-offer-medical-supplies": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-28"
     }
   },
   "last_digest_success": true,
@@ -18648,12 +18668,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-28T11:06:48.031824+00:00",
   "last_generated_date": "2026-10-28",
-  "last_generated_time": "2026-10-28T20:02:02.638643+00:00",
+  "last_generated_time": "2026-10-28T21:02:18.206173+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Petrobras Pumps at Record as Iran War Upends Oil Markets - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXNGeGQ2VmF4Vm9OY2RiSExjNHMxNFdIeGtZQXpjbUNoTmJzSXgtbktKMkl1QmdDN09mUGtTb2xXZWZaSUZ1ZVRYMjJKV3pYbXU5Z0Z6cE9kS3hjNWJ2X1A2U1l6SGlURHJnclIxZDhiSElCTzcwYlBHdnI5VGZxbFZadXBMN0o1OENtUFdOSUpSOUw4NG5KMTVRMElkazUzQV8tV0Y5VGdnUVU?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 20:06 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793228764,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Baltic Pushed Brokers to Submit Rates During War, Court Told - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWEyOEM2VjhDMzZCZnBjZXhFWUhqSW5mRkhNQUJiaUFKaXJ5aTBIOU5jaGdKVl9ORjRJTW1pcFBCenJJbHptTUZybWh0RUpXUkllRzNTcUpqYmRXcGtycHpaRFZYNFdfV0F5Nm85azN5R3NPUHFROTdzbURFWU5WZkxScWQycnJlYndlVlBGeVM1VVpucEV2ektwT3JHSTMyV25UQUlDQ0JtVmJhZUNR?oc=5",

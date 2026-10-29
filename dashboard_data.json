@@ -18430,7 +18430,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-28"
+      "pub_date": "2026-10-29"
     },
     "https://www.jpost.com/israel-news/defense-news/article-913152": {
       "summary": "If Eisenkot had won the battle of the blocs and, in a head-to-head with Netanyahu, as the polls forecast, he might have been able to start forming a government before the US midterm elections.",
@@ -18540,6 +18540,46 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
+    },
+    "https://www.wsj.com/politics/elections/i-went-home-to-long-island-to-find-out-how-the-iran-war-is-shaping-the-midterms-972264f2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
+    },
+    "https://www.reuters.com/world/middle-east/gulf-bourses-slip-banks-drag-yemen-iran-war-worries-2026-10-29/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
+    },
+    "https://www.ft.com/content/5ded8d57-46f5-406c-a4ce-e58415b8d4ad?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
+    },
+    "https://www.wsj.com/video/i-went-home-to-long-island-to-see-how-the-iran-war-is-shaping-the-midterms/0164ED60-6161-4411-91BD-5074AFDBB9E0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -18704,6 +18744,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "European oil majors lift buybacks as Iran war drives bumper profits - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlNwMS15X3pGQUVsRllyNV80ZV9NY1E2Y1ZQalRlMUJJcjJvUU9XVnc1amFBUnFDN1h4TjRyNG84MWJQNThuR0s2ekxENnJRRGQyYmJIVnNuei0tQzNGekZCeVdUMjBwYkd6NGZ3M0dYVzBma1AzdlcwNGxWSFpyeVB2ckM?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 29, 2026 · 04:42 BRT",
+          "pub_date": "2026-10-29",
+          "pub_ts": 1793259737,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWhmOUJoc0lkWEs5QlBSaDVpMjd4QlRILTVyTmk4dlRNU1FNRE0tS0N2NHdQZFZGQjZxZjlSOFVwSGhaQVhrUmJrb1JySXlhZDctVHdqMUIyU0gtUnFENDdoRkh4QnlxR1pfeGxMMU1UUWJydnhxSFJ1d3djdjZYQ1ZUcUxZMVBEVFFwaWN6VkhKYnNtMTdBWk4ycjJSaEczeXhONWtaN3ZXUjFZNW1aS3NMVQ?oc=5",

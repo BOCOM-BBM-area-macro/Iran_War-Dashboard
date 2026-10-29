@@ -18668,6 +18668,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-29"
+    },
+    "https://www.wsj.com/politics/national-security/top-admiral-briefs-trump-on-iran-attack-options-5bd6f13c": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
+    },
+    "https://www.timesofisrael.com/idf-soldier-charged-over-spying-for-iran-in-exchange-for-cryptocurrency/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
     }
   },
   "last_digest_success": true,
@@ -18823,7 +18843,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-29T11:09:45.687751+00:00",
   "last_generated_date": "2026-10-29",
-  "last_generated_time": "2026-10-29T16:02:22.570589+00:00",
+  "last_generated_time": "2026-10-29T17:02:19.653773+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -18852,6 +18872,20 @@
           "published": "Oct 28, 2026 · 23:25 BRT",
           "pub_date": "2026-10-28",
           "pub_ts": 1793240700,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices fall as diplomacy hopes outweigh escalation fears in Middle East war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 21:28 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793233680,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

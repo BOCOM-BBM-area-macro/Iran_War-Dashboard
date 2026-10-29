@@ -18430,7 +18430,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-28"
+      "pub_date": "2026-10-29"
     },
     "https://www.jpost.com/israel-news/defense-news/article-913152": {
       "summary": "If Eisenkot had won the battle of the blocs and, in a head-to-head with Netanyahu, as the polls forecast, he might have been able to start forming a government before the US midterm elections.",
@@ -18636,6 +18636,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-29/how-much-do-trump-s-tariffs-and-iran-war-cost-voters": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-29/iran-receives-letter-from-vance-though-no-word-on-likely-reply": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
     }
   },
   "last_digest_success": true,
@@ -18791,7 +18811,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-29T11:09:45.687751+00:00",
   "last_generated_date": "2026-10-29",
-  "last_generated_time": "2026-10-29T14:02:14.797255+00:00",
+  "last_generated_time": "2026-10-29T15:02:23.221649+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -25635,6 +25655,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Here’s How Much You’re Paying for Trump’s Tariffs and Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDBvaXE2U0Q5QTlPTUJTZnNPUnNZakNvVlB0QWgtbURJSDhJNUZzdzZRSUs0MGN0dmpBY0tnN2NSUDV4ZkV2NkZ2X28xSTVjQ1hiTU9SUEpqQnphUUhXMktXYUhFV2EwMkQwWF8xTHV2NWZDRkw0V1J6UzdWU2NiT2tyN2wyMWYzM0R6SzUzaUVHZHNyQlhjSEFiQ3lrdUp5Wlh3SUtR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 29, 2026 · 13:41 BRT",
+          "pub_date": "2026-10-29",
+          "pub_ts": 1793292073,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran war diesel spikes stretch IPS budgets - Axios",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGc2RWg4SDJfZWtWV1JTWjZpbXhiR3ZaQ2k3U3Y3Ylp4TDhKcWpNTW81ZFp4dk9NM1hlU2gzcXF0cE1zQkVRMkZaNUt1cmJXYmpVdlBJWnBjeGFZcDdYdDRJVlhscFVwM3lxN0hYSzhnSzYzeTFGZkRqOXVSS1R6M1FBRWhFc0oxRGk2dVZtZ0ZGY2cwQ2IzcUNraGVFQnkzdUhXRE1JOGM3N1k1eFZ3?oc=5",
           "source": "Axios",
@@ -26997,6 +27031,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "EXCLUSIVE: QatarEnergy buys US, other LNG to hedge future Hormuz disruptions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 29, 2026 · 12:39 BRT",
+          "pub_date": "2026-10-29",
+          "pub_ts": 1793288391,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "European gas touches €100 for first time since 2022 energy crisis as consumers, industry feel the pain - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5",

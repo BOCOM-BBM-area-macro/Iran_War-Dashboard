@@ -18870,6 +18870,52 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-30"
+    },
+    "https://www.reuters.com/world/trump-iran-war-its-going-get-wrapped-up-soon-2026-10-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
+    },
+    "https://www.washingtonpost.com/world/2026/10/30/resumed-iran-war-after-midterms-would-put-fragile-gains-hormuz-test/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913344": {
+      "summary": "Trump has previously said the US would not strike Iran before the elections.",
+      "tags": [
+        "Iran",
+        "United States",
+        "iran and us",
+        "us iran",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913342": {
+      "summary": "Iran's Revolutionary Guards Navy said on Friday that two oil tankers were involved in an incident and stopped in waters south of the Strait of Hormuz.",
+      "tags": [
+        "Iran",
+        "Iranian Revolutionary Guards",
+        "Hormuz",
+        "tanker",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
     }
   },
   "last_digest_success": true,
@@ -19027,7 +19073,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-30T11:10:17.429562+00:00",
   "last_generated_date": "2026-10-30",
-  "last_generated_time": "2026-10-30T09:02:25.514795+00:00",
+  "last_generated_time": "2026-10-30T10:02:33.823947+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

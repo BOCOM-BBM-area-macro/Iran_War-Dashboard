@@ -18989,6 +18989,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-29"
+    },
+    "https://www.wsj.com/opinion/u-s-navy-brad-cooper-iran-gulf-oil-middle-east-2c8a934a": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
     }
   },
   "last_digest_success": true,
@@ -19146,12 +19156,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-30T11:10:17.429562+00:00",
   "last_generated_date": "2026-10-30",
-  "last_generated_time": "2026-10-30T18:02:03.247813+00:00",
+  "last_generated_time": "2026-10-30T19:01:50.264391+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Opinion | 1.5 Billion Successes in the War With Iran - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRm85eTV6NjNyX0t4UmdHWVpEWFNWNzhuU3VKVHlYY1Q2ZHRjQzNEb1VkeFRFOUVWajZLTFRrWFZNRDZ1cFk1a19hM0J0b0NmdVRIdGg3anVpQlJFSWlLWDZTcEl5eFZkdmZqdnRNT2psd3o1SUdLYnBZdWxMN05SZktsczh5bkFNaFNz?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 30, 2026 · 18:35 BRT",
+          "pub_date": "2026-10-30",
+          "pub_ts": 1793396100,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Tanker in Strait of Hormuz hit by limpet mines, security sources say - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjdDdUxXVENSNGdpbWJZOEp2QXMtSy1WSUdCVFdHc21FVnMwTE9uMC1xMkFEaS1wTHRjd2JMQzFTZEtPX0drQ3hPMlZVeDlITnc2RndQRElNUy13Ny1UdXpROVVpejNQRHJ4a3l6Q0t3TTZwOUptZDNKdlRVQWJXLXBxTldad19oZUFGS3BKSUlLWlk3d055R290THF3ckRWb3hRYjlR?oc=5",

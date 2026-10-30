@@ -18730,7 +18730,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-29"
+      "pub_date": "2026-10-30"
     },
     "https://www.jpost.com/israel-news/defense-news/article-913312": {
       "summary": "According to the report, the aircraft landed at the Ovda and Nevatim IAF air bases, with Nevatim home to several F-35I squadrons.",
@@ -18776,7 +18776,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-29"
+      "pub_date": "2026-10-30"
     },
     "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30": {
       "summary": "",
@@ -18860,71 +18860,62 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-30"
+    },
+    "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-29T11:09:37.999177+00:00",
+  "last_digest_time": "2026-10-30T11:10:02.948721+00:00",
   "digest": {
-    "digest": "Recent diplomatic efforts indicate a renewed push for peace talks, with US Secretary of State Vance reaching out to Iranian officials to restart negotiations. Despite these overtures, concerns persist regarding a potential short and intense renewal of the Iran war, particularly after the US midterm elections. Iran has reportedly found recent mediation proposals unacceptable, suggesting a continued impasse in diplomatic channels. Concurrently, Iran's ability to circumvent US blockades and procure military hardware remains a point of focus. The war's economic repercussions are evident, with Iranian citizens facing hardship and global oil markets experiencing significant volatility, benefiting European oil majors and impacting companies like Petrobras. Financial markets in the Gulf have also shown sensitivity to the ongoing war concerns. In Israel, political developments, including potential government formation scenarios and the possibility of renewing strikes against Iran, are being closely monitored. The overall situation suggests a complex interplay between diplomatic initiatives, the looming threat of renewed hostilities, and significant economic consequences.",
+    "digest": "Recent reports indicate heightened U.S. military activity and strategic discussions concerning Iran. Top U.S. military commanders have briefed President Trump on military options and potential blockade strategies. U.S. military transport planes have arrived in Israel, with some carrying F-35I squadrons, signaling preparations for potential conflict. Concurrently, diplomatic efforts are underway, with mediators returning to Tehran to push for a U.S.-Iran deal. Senator Vance has engaged in outreach to Iran, reportedly concerning medical supplies, though the nature of the communication and Iran's response remain unclear. Saudi Arabia has also requested that Iran refrain from targeting key oil and gas facilities and urged the U.S. to allow negotiations a chance before military action. The economic landscape shows significant impacts, with the U.S. oil industry reporting substantial profits during the conflict period. Conversely, other industries, such as Kia, have experienced profit plunges due to cost surges linked to the Iran war. Oil prices have seen an increase, with forecasts being raised due to market tightening attributed to the Iran war, and climbing further on signs of potential U.S. military strikes. The financial burden on consumers is also noted, with specific tariffs and war costs being highlighted. The ongoing conflict and its associated costs are emerging as a potential factor in upcoming U.S. elections, with voters linking high gas prices to the war.",
     "top_themes": [
+      "US Military Preparations",
       "Diplomatic Outreach",
-      "Potential Conflict Resumption",
-      "Economic Impact"
+      "Economic Impacts"
     ],
     "next_events": [
       {
-        "title": "Post-US Midterm Election Escalation Risk",
-        "description": "Multiple reports suggest a potential for a 'short, intense renewal' of the Iran war or 'massive post-midterms strikes' (5, 7). Analysts should closely monitor the outcomes of the US midterm elections and any immediate policy shifts or military preparations from the US and its allies, as this period is identified as a critical window for potential escalation."
+        "title": "US Military Posture and Potential Strikes",
+        "description": "Top US military commanders are actively briefing President Trump on Iran options, and US military planes have arrived in Israel, signaling potential preparations. Analysts should closely monitor any further troop movements, naval deployments, or intelligence indicating imminent US military strikes or expanded operations, as this would signify a significant escalation of the conflict."
       },
       {
-        "title": "Status of Diplomatic Initiatives with Iran",
-        "description": "Senator Vance's outreach to Iranian hard-liners (1, 17) indicates ongoing attempts to restart peace talks, despite Iran reportedly finding current mediation ideas 'unacceptable' (3). Watch for any concrete proposals, official responses from Tehran, or shifts in diplomatic postures that could signal a breakthrough or a complete breakdown of negotiations."
+        "title": "Progress of Diplomatic Negotiations with Iran",
+        "description": "Qatari mediators are pushing for a US-Iran deal, and US envoy Vance has reportedly engaged in outreach to Tehran, though the nature of these communications remains disputed. Watch for any official confirmations of substantive talks, the involvement of third-party facilitators, or breakthroughs that could lead to de-escalation or a formal agreement, especially given Saudi Arabia's request for negotiations."
       },
       {
-        "title": "Israeli Political Stability and Potential for Strikes",
-        "description": "Israel's political deadlock and the potential for Benjamin Netanyahu to renew strikes against Iran (9, 12, 16) are significant factors. Analysts should closely follow the formation of the next Israeli government and the statements or actions of its leaders regarding Iran's nuclear program and regional activities, as this could directly influence military action."
+        "title": "Iran's Evasion of Blockades and Military Resupply",
+        "description": "Reports indicate Iran's hidden military agencies are successfully circumventing the US blockade to acquire hardware. Analysts should track any further evidence of Iran's ability to secure military technology or resources, as this directly impacts the effectiveness of US pressure tactics and Iran's capacity to sustain its military or retaliatory capabilities."
       },
       {
-        "title": "Iran's Military Procurement and Nuclear Program Developments",
-        "description": "Reports highlight Iran's ability to bypass blockades for military hardware (6) and the international pressure for nuclear concessions (7). Monitor any intelligence regarding Iran's progress in its nuclear program, its procurement of advanced weaponry, and any international demands or ultimatums for concessions, as these are key drivers of potential conflict."
+        "title": "Global Oil Market Volatility and Economic Impact",
+        "description": "The conflict has already led to significant profits for the US oil industry, increased oil price forecasts, and rising consumer gas prices. Monitor crude oil benchmarks, refinery margins, and consumer fuel prices for further volatility, as these will reflect market perceptions of conflict escalation or de-escalation and directly impact global economies and domestic political landscapes."
       },
       {
-        "title": "Global and Regional Economic Repercussions",
-        "description": "The 'Iran War' is already impacting global oil markets, leading to record pumps and bumper profits for oil majors (11, 14), while also causing Gulf bourses to slip (10) and Iranians to cut essentials (13). Analysts should track oil prices, regional stock market performance, and the economic stability of Iran and neighboring countries for signs of escalating economic pressure or instability."
+        "title": "US Domestic Political Ramifications",
+        "description": "The 'Iran War' and its economic consequences, particularly high gas prices, are being linked to potential negative impacts on President Trump and the Republican party at the ballot box. Analysts should observe public opinion polls, political rhetoric, and election campaign strategies to gauge how the ongoing conflict influences the upcoming US elections."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-29T11:09:44.899431+00:00",
+  "last_watch_time": "2026-10-30T11:10:11.998977+00:00",
   "relevant_news": [
     {
-      "title": "Exclusive | Vance Reaches Out to Iranian Hard-Liner in Bid to Restart Peace Talks - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/vance-reaches-out-to-iranian-hard-liner-in-bid-to-restart-peace-talks-2c8a2ab8",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Oct 28, 2026 · 20:46 BRT",
-      "pub_date": "2026-10-28",
-      "pub_ts": 1793231160,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/10/28/iran-war-costs-rise-47-billion-us-military-estimates/",
+      "title": "Two U.S. service members die amid Iran war, Pentagon tally shows - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/10/29/two-us-service-members-die-amid-iran-war-pentagon-tally-shows/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 29, 2026 · 03:30 BRT",
-      "pub_date": "2026-10-29",
-      "pub_ts": 1793255424,
+      "published": "Oct 30, 2026 · 02:02 BRT",
+      "pub_date": "2026-10-30",
+      "pub_ts": 1793336525,
       "summary": "",
       "tags": [
         "extracted",
@@ -18936,18 +18927,39 @@
       "sentiment_success": false
     },
     {
-      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Oct 28, 2026 · 08:12 BRT",
-      "pub_date": "2026-10-28",
-      "pub_ts": 1793185920,
+      "title": "US military planes arrive in Israel from Texas amid Iran war preparations - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913312",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Oct 29, 2026 · 20:48 BRT",
+      "pub_date": "2026-10-29",
+      "pub_ts": 1793317705,
+      "summary": "According to the report, the aircraft landed at the Ovda and Nevatim IAF air bases, with Nevatim home to several F-35I squadrons.",
+      "tags": [
+        "Israel",
+        "IAF",
+        "Iran",
+        "United States",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Top US commander briefs Trump on Iran military options as 10 US military transport planes land in Israel - The Times of Israel",
+      "url": "https://www.timesofisrael.com/top-us-commander-briefs-trump-on-iran-military-options-as-regional-buildup-grows/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Oct 30, 2026 · 06:58 BRT",
+      "pub_date": "2026-10-30",
+      "pub_ts": 1793354337,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -18960,9 +18972,9 @@
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Oct 29, 2026 · 07:28 BRT",
+      "published": "Oct 29, 2026 · 12:04 BRT",
       "pub_date": "2026-10-29",
-      "pub_ts": 1793269737,
+      "pub_ts": 1793286272,
       "summary": "",
       "tags": [
         "extracted",
@@ -18974,18 +18986,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom - Axios",
-      "url": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Oct 28, 2026 · 15:55 BRT",
-      "pub_date": "2026-10-28",
-      "pub_ts": 1793213726,
+      "title": "ANZ Raises Oil Price Forecast as Market Tightens on Iran War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/anz-raises-oil-price-forecast-as-market-tightens-on-iran-war",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Oct 29, 2026 · 23:18 BRT",
+      "pub_date": "2026-10-29",
+      "pub_ts": 1793326680,
       "summary": "",
       "tags": [
         "extracted",
-        "axios.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -18993,18 +19005,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Israel vote leaves door open to Iran attack - Financial Times",
-      "url": "https://www.ft.com/content/53278449-6a8e-493b-8a9e-c44d2a981306?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Oct 29, 2026 · 02:02 BRT",
-      "pub_date": "2026-10-29",
-      "pub_ts": 1793250156,
+      "title": "Oil Climbs on Signs US May Resume Military Strikes Against Iran - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Oct 30, 2026 · 02:18 BRT",
+      "pub_date": "2026-10-30",
+      "pub_ts": 1793337480,
       "summary": "",
       "tags": [
         "extracted",
-        "ft.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -19013,14 +19025,28 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-29T11:09:45.687751+00:00",
-  "last_generated_date": "2026-10-29",
-  "last_generated_time": "2026-10-29T23:02:14.870449+00:00",
+  "last_relevant_time": "2026-10-30T11:10:17.429562+00:00",
+  "last_generated_date": "2026-10-30",
+  "last_generated_time": "2026-10-30T08:02:22.365602+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNiUjUzdFh6a1pRNzRJazBScGR1cVkxRDRqMnYwUFRleGRlWTZZYWdTRGRsVkZ6Y1NldWRNeHV5REJLc3VvR0h3UlRUcVY2Rl9jS3VxTXgxcnZ2Zjcta0tqSUtLRERVZ25xZ3pTN2V0Y0JDZDdOZVNDazBubGQtR2gwbDMwZ0QxeEYteGdXbEY1WlhubnFiWXZXQThWUFhXdkRxVQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 30, 2026 · 07:35 BRT",
+          "pub_date": "2026-10-30",
+          "pub_ts": 1793356532,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Climbs on Signs US May Resume Military Strikes Against Iran - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5",

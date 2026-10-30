@@ -18966,6 +18966,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-30"
+    },
+    "https://www.jpost.com/middle-east/article-913359": {
+      "summary": "Army chief Field Marshal Asim Munir – Pakistan's chief mediator in its efforts to de-escalate the now eight-month-old Iran war – has been to Tehran twice this month, most recently on Monday.",
+      "tags": [
+        "Iran",
+        "Turkey",
+        "Saudi Arabia",
+        "Pakistan",
+        "iran us nuclear talks"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
+    },
+    "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-29"
     }
   },
   "last_digest_success": true,
@@ -19123,7 +19146,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-30T11:10:17.429562+00:00",
   "last_generated_date": "2026-10-30",
-  "last_generated_time": "2026-10-30T17:02:10.895333+00:00",
+  "last_generated_time": "2026-10-30T18:02:03.247813+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -30620,6 +30643,20 @@
           "published": "Oct 30, 2026 · 05:19 BRT",
           "pub_date": "2026-10-30",
           "pub_ts": 1793348398,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US military planes arrive in Israel from Texas amid Iran war preparations - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 29, 2026 · 20:48 BRT",
+          "pub_date": "2026-10-29",
+          "pub_ts": 1793317705,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

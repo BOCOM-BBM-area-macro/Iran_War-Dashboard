@@ -19105,6 +19105,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-31"
+    },
+    "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-31"
     }
   },
   "last_digest_success": true,
@@ -19260,7 +19270,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-10-31T11:10:17.278483+00:00",
   "last_generated_date": "2026-10-31",
-  "last_generated_time": "2026-10-31T08:02:15.703271+00:00",
+  "last_generated_time": "2026-10-31T09:01:56.816742+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -19289,6 +19299,20 @@
           "published": "Oct 30, 2026 · 18:35 BRT",
           "pub_date": "2026-10-30",
           "pub_ts": 1793396100,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 30, 2026 · 17:40 BRT",
+          "pub_date": "2026-10-30",
+          "pub_ts": 1793392806,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

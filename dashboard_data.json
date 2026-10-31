@@ -18730,7 +18730,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-30"
+      "pub_date": "2026-10-29"
     },
     "https://www.jpost.com/israel-news/defense-news/article-913312": {
       "summary": "According to the report, the aircraft landed at the Ovda and Nevatim IAF air bases, with Nevatim home to several F-35I squadrons.",
@@ -19015,6 +19015,16 @@
       "tags": [
         "extracted",
         "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-30"
+    },
+    "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

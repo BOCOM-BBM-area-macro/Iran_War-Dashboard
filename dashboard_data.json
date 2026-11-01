@@ -19018,7 +19018,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-31"
+      "pub_date": "2026-10-30"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224": {
       "summary": "",
@@ -19260,6 +19260,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-10-31"
+    },
+    "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
     }
   },
   "last_digest_success": true,

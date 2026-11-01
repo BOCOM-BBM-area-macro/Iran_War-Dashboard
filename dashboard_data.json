@@ -18862,7 +18862,7 @@
       "pub_date": "2026-10-30"
     },
     "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html": {
-      "summary": "",
+      "summary": "That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -19018,7 +19018,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-30"
+      "pub_date": "2026-10-31"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224": {
       "summary": "",
@@ -19464,6 +19464,72 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.jpost.com/opinion/article-913468": {
+      "summary": "If the US executes its plan to hammer Iran and immediately pull back its forces, Israel’s operational objective must shift from mere participation to an independent, sustained campaign of containment",
+      "tags": [
+        "Iran",
+        "US Israel",
+        "Middle East",
+        "midterm elections",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913505": {
+      "summary": "Trump and his non-military advisors were also worried about the impact of an additional round with Iran, which is unpopular in the US, on the Republican Party's chances in the midterm elections.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "iran war scenario",
+        "israel iran",
+        "us iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-01/gulf-states-fear-fiercer-iran-retaliation-if-us-strikes-again": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/report-netanyahu-pressed-trump-to-resume-iran-war-after-us-midterms-president-undecided/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
     }
   },
   "last_digest_success": true,
@@ -19621,7 +19687,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-01T11:10:38.051321+00:00",
   "last_generated_date": "2026-11-01",
-  "last_generated_time": "2026-11-01T15:02:09.221759+00:00",
+  "last_generated_time": "2026-11-01T16:02:30.377125+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -19678,6 +19744,20 @@
           "published": "Oct 30, 2026 · 17:40 BRT",
           "pub_date": "2026-10-30",
           "pub_ts": 1793392806,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Imperial Oil considering moving ahead with Aspen oil sands project earlier than planned - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZThjVm1xcmxyZGVwTUZuQU9ZX21MVkstd1VQX2p2aEVZSWhJM0RMWlJkR0FUM1NPX2JoNHJxT3dGU3g2bXdfUFJiUDcwYVp4cGhsYjVSMTFRUmpJbFVkOTBBME5oTlhFZVhlYk9Kdkw5SHRBWmVkamtrdWM5aVhZWW96Tk93T2dMdE95MXlxWGFPa0g4MkZXLU9vUVhVQ095dmNnYUQ1a2YzTnNLNUdmZF8xVQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 30, 2026 · 16:23 BRT",
+          "pub_date": "2026-10-30",
+          "pub_ts": 1793388236,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

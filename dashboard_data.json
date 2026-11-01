@@ -19392,6 +19392,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.jpost.com/middle-east/article-913486": {
+      "summary": "At a Bahrain security summit, UAE adviser Anwar Gargash called for diplomacy with Iran while warning that Gulf states remain prepared for more conflict.",
+      "tags": [
+        "Iran",
+        "Saudi Arabia",
+        "Iran Conflict",
+        "iran israel war",
+        "Iran US Conflict"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-01/iran-s-long-game-complicates-trump-s-war-plans-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-31"
     }
   },
   "last_digest_success": true,
@@ -19549,7 +19572,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-01T11:10:38.051321+00:00",
   "last_generated_date": "2026-11-01",
-  "last_generated_time": "2026-11-01T12:02:20.210316+00:00",
+  "last_generated_time": "2026-11-01T13:02:18.232529+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

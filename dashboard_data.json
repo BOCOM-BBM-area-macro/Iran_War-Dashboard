@@ -19316,6 +19316,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iranian-negotiators-in-doha-for-third-day-of-talks-on-war-official-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
     }
   },
   "last_digest_success": true,
@@ -19473,7 +19483,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-01T11:10:38.051321+00:00",
   "last_generated_date": "2026-11-01",
-  "last_generated_time": "2026-11-01T08:02:15.565695+00:00",
+  "last_generated_time": "2026-11-01T09:02:19.539987+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -31059,6 +31069,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Iran to receive Russian Su-35 fighter jets after US-Iran war ends, IRGC spokesman says - report - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMa0syN25fOW1na3B2Rjg2NGVHZTNzbGN5ck9uaFd4VmhZQTVwV1VKM0xYQ3paaE55Mkd0S3ZmbkRfemtCUlZCMGZqVm94b3dmZzJmNXE0QzA1VUJHZm1ibWh6ekc0V3l1RlE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 01, 2026 · 07:14 BRT",
+          "pub_date": "2026-11-01",
+          "pub_ts": 1793528073,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Golan warns against another Iran war under Benjamin Netanyahu, demands alternative gov't - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCVWtwSEJ0ckM4cGQ1aVJqMjByNkNrSUNIY3d0ZFhVSDdJbjZVQThqenY5dGt5dVF3SG1nTTFOWVNya3FTNTIyYUtmN001Rm5hVVVqWm91ZkVDN3RaV1BwMzFDeW1RdUZC?oc=5",

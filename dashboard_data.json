@@ -19018,7 +19018,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-31"
+      "pub_date": "2026-10-30"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224": {
       "summary": "",
@@ -19369,6 +19369,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913481": {
+      "summary": "“This is the complete ecosystem of the Iranian military’s trade business,\" said Miad Maleki, a former senior official at the US Treasury Department who helped design the American sanctions on Iran.",
+      "tags": [
+        "Iran",
+        "United States",
+        "iran sanctions",
+        "sanctions against iran",
+        "us iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
     }
   },
   "last_digest_success": true,
@@ -19526,7 +19549,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-01T11:10:38.051321+00:00",
   "last_generated_date": "2026-11-01",
-  "last_generated_time": "2026-11-01T11:02:23.745784+00:00",
+  "last_generated_time": "2026-11-01T12:02:20.210316+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

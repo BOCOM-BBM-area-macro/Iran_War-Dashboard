@@ -19530,6 +19530,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-31"
     }
   },
   "last_digest_success": true,
@@ -19687,7 +19697,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-01T11:10:38.051321+00:00",
   "last_generated_date": "2026-11-01",
-  "last_generated_time": "2026-11-01T16:02:30.377125+00:00",
+  "last_generated_time": "2026-11-01T17:02:37.530172+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

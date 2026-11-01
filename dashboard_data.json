@@ -19018,7 +19018,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-31"
+      "pub_date": "2026-10-30"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224": {
       "summary": "",
@@ -19074,7 +19074,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-31"
+      "pub_date": "2026-10-30"
     },
     "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html": {
       "summary": "",
@@ -19233,6 +19233,29 @@
         "IDF",
         "United States",
         "iran israel war"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-10-31"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913425": {
+      "summary": "Hezbollah would, according to a senior Lebanese official, join the fight despite its weakened military capacity if the Iranian regime's survival was found to be at stake.",
+      "tags": [
+        "Hezbollah",
+        "IDF",
+        "Iran",
+        "Lebanon",
+        "United States"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

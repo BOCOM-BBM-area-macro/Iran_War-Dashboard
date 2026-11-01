@@ -19018,7 +19018,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-31"
+      "pub_date": "2026-10-30"
     },
     "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224": {
       "summary": "",
@@ -19293,56 +19293,98 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913451": {
+      "summary": "While the IRGC spokesperson did not specifically name Russia in the interview, it is the only established manufacturer of Su-35s.",
+      "tags": [
+        "Iran",
+        "iranian air defense",
+        "IRGC",
+        "Su-35",
+        "Operation Epic Fury"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-army-potential-war-could-be-longer-than-previous-conflict-trump-wont-dictate-its-duration/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-10-31T11:10:09.071268+00:00",
+  "last_digest_time": "2026-11-01T11:10:21.388636+00:00",
   "digest": {
-    "digest": "Diplomatic efforts are ongoing to de-escalate the conflict, with Qatar and Pakistan actively mediating talks in Tehran. Pakistan's army chief has made multiple visits to Tehran, expressing cautious optimism regarding mediation. Meanwhile, concerns are rising across the Middle East about the potential for wider war and increased destruction should the conflict escalate. Egypt's foreign minister has voiced significant worry over the impact of a US-Iran escalation on the region. The economic consequences of the conflict are substantial, with reports indicating the U.S. oil industry earned over $130 billion in profit during the war, while American consumers faced increased gasoline costs. Conversely, Iran's economy is reportedly being crippled by U.S. blockades and sanctions. There are also reports of significant damage to U.S. bases caused by Iran, amounting to billions of dollars. Statements from former President Trump suggest an expectation that the conflict will conclude soon, though he also indicated no rush for a deal and defended U.S. actions. Iran's army has warned that any new U.S. attack could broaden the scope of the war.",
+    "digest": "Tensions between the US and Iran remain high, with reports indicating that Iran is bracing for potential conflict regardless of US and Israeli election outcomes. Iran's supreme leader has reportedly ordered a \"maximum\" and geographically unlimited military response to any US or Israeli attack. The Iranian army has warned that any new US attack would likely escalate into a wider war, potentially longer than previous conflicts, and that Trump would not dictate its duration. In parallel, Iran is reportedly buying time in nuclear talks as Washington weighs military action, with Israeli officials assessing this stalling tactic. Hezbollah has indicated it would join a fight if Iran's regime survival is at stake, despite its weakened capacity. Iran also confirmed plans to acquire Russian Su-35 fighter jets after the current war concludes, aiming to upgrade its air fleet and strengthen air defenses with domestically developed systems and foreign technology. Qatari mediators are engaged with Iranian envoys amidst the looming threat of US strikes following the midterms, and calls persist for alternative government approaches to prevent further escalation.",
     "top_themes": [
-      "Diplomatic Mediation Efforts",
-      "Economic Impact of Conflict",
-      "Escalation Concerns"
+      "US-Iran Conflict Escalation",
+      "Iran's Military Preparations",
+      "Diplomatic Stalling and Potential Strikes"
     ],
     "next_events": [
       {
-        "title": "Post-U.S. Midterm Election Iran Policy",
-        "description": "The outcome of the U.S. midterm elections is a critical determinant for future U.S.-Iran relations. Analysts should watch for any shifts in U.S. diplomatic or military posture towards Iran, especially given previous statements about avoiding strikes before elections and the potential for a resumed war after midterms."
+        "title": "Imminent US/Israeli Military Strikes on Iran",
+        "description": "Multiple reports indicate the US and Israel have prepared plans for renewed strikes on Iran, potentially after the US midterms. Analysts should monitor any official statements, troop movements, or intelligence leaks suggesting an impending military operation, particularly concerning Iran's nuclear facilities. This action would serve as a major trigger for a wider conflict."
       },
       {
-        "title": "Progress of International Mediation Efforts",
-        "description": "Keep a close eye on the ongoing diplomatic initiatives by Qatar and Pakistan, whose officials have held marathon talks in Tehran. Success in these mediation efforts could de-escalate tensions and potentially pave the way for a U.S.-Iran deal, while failure could signal increased risk of conflict."
+        "title": "Scope of Iran's Retaliation to Attacks",
+        "description": "Iran's Supreme Leader has reportedly ordered a 'maximum' response without 'geographic limits' to any US or Israeli attack. The Iranian army has also warned that any new US attack would spread the war wider and be longer than previous conflicts. Watch for direct Iranian military responses, including potential targeting of US assets or allies, and the nature of its counter-attacks."
       },
       {
-        "title": "Regional Stability and Spillover Risks",
-        "description": "The Persian Gulf states and Egypt are 'extremely worried' about the potential for a wider, more destructive conflict. Monitor any defensive preparations, diplomatic overtures, or statements from regional actors that indicate a heightened risk of the Iran war impacting their territories or the critical Strait of Hormuz."
+        "title": "Regional Spillover and Proxy Activation",
+        "description": "Persian Gulf nations are scrambling to prevent the conflict from reaching their doorsteps, while Hezbollah has indicated it would join if the Iranian regime's survival is at stake. Monitor the defensive postures of regional states, any increased activity by non-state actors like Hezbollah or Houthis, and the potential for the conflict to draw in additional regional players. The involvement of proxies could significantly broaden the conflict's geographic scope and intensity."
       },
       {
-        "title": "Impact of Sanctions and Oil Market Dynamics",
-        "description": "U.S. sanctions are reportedly crippling Iran's economy, while the U.S. oil industry has seen significant profits during the conflict. Watch for any signs of increased economic pressure on Iran, its potential responses, and how these dynamics continue to influence global oil prices and U.S. economic interests."
+        "title": "Fate of Nuclear Diplomacy and Mediation Efforts",
+        "description": "Iranian envoys are meeting with Qatari mediators, but Israeli officials assess Iran is stalling nuclear talks as Washington weighs military action. Observe any progress or breakdown in diplomatic channels, as the failure of talks could directly precede military action. The outcome of these negotiations will signal whether a peaceful resolution remains viable or if conflict is inevitable."
       },
       {
-        "title": "Iran's Military Response and Escalation Warnings",
-        "description": "Iran's army has explicitly warned that any new U.S. attack would spread the war wider, following previous incidents where Iran reportedly battered U.S. bases. Analysts should monitor any military movements, rhetoric, or intelligence reports indicating a heightened risk of direct confrontation or retaliatory actions from Iran."
+        "title": "Iran's Strategic Military Modernization Post-Conflict",
+        "description": "Iran has confirmed plans to acquire Russian Su-35 fighter jets after the US-Iran war ends, indicating a strategic effort to upgrade its air fleet and overall defense capabilities. While a post-conflict development, this highlights Iran's long-term military ambitions and its strategic alliances. Analysts should watch for any signs of accelerated military procurement or technological advancements that could alter the regional power balance."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-10-31T11:10:16.909746+00:00",
+  "last_watch_time": "2026-11-01T11:10:37.563971+00:00",
   "relevant_news": [
     {
-      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections - The New York Times",
-      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Oct 31, 2026 · 06:05 BRT",
+      "title": "Military briefing: what would another US-Iran conflict look like? - Financial Times",
+      "url": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Nov 01, 2026 · 02:01 BRT",
+      "pub_date": "2026-11-01",
+      "pub_ts": 1793509304,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iranian-envoys-meet-qatari-mediators-threat-looms-us-strikes-after-midterms-2026-10-31/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Oct 31, 2026 · 17:00 BRT",
       "pub_date": "2026-10-31",
-      "pub_ts": 1793437541,
+      "pub_ts": 1793476836,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -19350,52 +19392,35 @@
       "sentiment_success": false
     },
     {
-      "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/10/30/resumed-iran-war-after-midterms-would-put-fragile-gains-hormuz-test/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 30, 2026 · 16:06 BRT",
-      "pub_date": "2026-10-30",
-      "pub_ts": 1793387166,
-      "summary": "",
+      "title": "Trump says US ready to hit Iran's nuclear program 'in ten minutes' after speaking with Netanyahu - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913424",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 01, 2026 · 02:44 BRT",
+      "pub_date": "2026-11-01",
+      "pub_ts": 1793511883,
+      "summary": "The US and Israel have reportedly drawn up plans for renewed strikes on Iran after the midterms.",
       "tags": [
-        "extracted",
-        "washingtonpost.com"
+        "Israel",
+        "Benjamin Netanyahu",
+        "IDF",
+        "United States",
+        "iran israel war"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/10/31/persian-gulf-scrambling-prevent-iran-war-again-hitting-its-doorstep/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Oct 31, 2026 · 07:33 BRT",
-      "pub_date": "2026-10-31",
-      "pub_ts": 1793442821,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran’s army warns any new US attack would spread war wider - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/irans-army-warns-any-new-us-attack-would-spread-war-wider/",
+      "title": "Iran army: Potential war could be 'longer than previous conflict,' Trump won't dictate its duration - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iran-army-potential-war-could-be-longer-than-previous-conflict-trump-wont-dictate-its-duration/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Oct 31, 2026 · 07:02 BRT",
-      "pub_date": "2026-10-31",
-      "pub_ts": 1793440977,
+      "published": "Nov 01, 2026 · 07:07 BRT",
+      "pub_date": "2026-11-01",
+      "pub_ts": 1793527678,
       "summary": "",
       "tags": [
         "extracted",
@@ -19407,14 +19432,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Egypt fears escalation in US-Iran war would be more destructive, foreign minister says - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/egypt-fears-escalation-in-us-iran-war-would-be-more-destructive-foreign-minister-says/",
+      "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report - The Times of Israel",
+      "url": "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Oct 31, 2026 · 05:07 BRT",
+      "published": "Oct 31, 2026 · 23:36 BRT",
       "pub_date": "2026-10-31",
-      "pub_ts": 1793434077,
+      "pub_ts": 1793500592,
       "summary": "",
       "tags": [
         "extracted",
@@ -19426,18 +19451,18 @@
       "sentiment_success": false
     },
     {
-      "title": "How Iran Battered U.S. Bases and Caused Billions in Damage - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Oct 30, 2026 · 22:30 BRT",
-      "pub_date": "2026-10-30",
-      "pub_ts": 1793410200,
+      "title": "Khamenei said to order military response without ‘geographic limits’ if US, Israel attacks - The Times of Israel",
+      "url": "https://www.timesofisrael.com/khamenei-orders-military-response-without-geographic-limits-if-us-israel-attacks/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Oct 31, 2026 · 11:20 BRT",
+      "pub_date": "2026-10-31",
+      "pub_ts": 1793456400,
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -19446,9 +19471,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-10-31T11:10:17.278483+00:00",
-  "last_generated_date": "2026-10-31",
-  "last_generated_time": "2026-10-31T23:02:17.619477+00:00",
+  "last_relevant_time": "2026-11-01T11:10:38.051321+00:00",
+  "last_generated_date": "2026-11-01",
+  "last_generated_time": "2026-11-01T08:02:15.565695+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -19540,6 +19540,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-01"
     }
   },
   "last_digest_success": true,
@@ -19697,7 +19707,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-01T11:10:38.051321+00:00",
   "last_generated_date": "2026-11-01",
-  "last_generated_time": "2026-11-01T19:02:26.382939+00:00",
+  "last_generated_time": "2026-11-01T20:02:20.588175+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -19992,6 +20002,20 @@
           "published": "Oct 28, 2026 · 09:20 BRT",
           "pub_date": "2026-10-28",
           "pub_ts": 1793190004,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 08:12 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793185920,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -31334,6 +31358,20 @@
           "published": "Nov 01, 2026 · 13:00 BRT",
           "pub_date": "2026-11-01",
           "pub_ts": 1793548808,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran, Qatar hold third day of talks as fears of renewed US strikes grow - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xZWY5UzNRUVRlNjhaVEVjZXhTQk1YTk80TTE5VmRVNlZ1bEt1SzF0cVpybmxFWWxsbF9fVVFkdGJVZ0VOSjRHR0xLMmhfRG1tYUR3VFFNeEp5MzUxVV83ZlNiQVRYc0p5QXc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 01, 2026 · 11:39 BRT",
+          "pub_date": "2026-11-01",
+          "pub_ts": 1793543996,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

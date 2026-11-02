@@ -19473,7 +19473,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-01"
+      "pub_date": "2026-11-02"
     },
     "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1": {
       "summary": "",
@@ -19643,6 +19643,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-02"
+    },
+    "https://www.washingtonpost.com/world/2026/11/02/iran-us-trump-netanyahu-israel-war/3fc55c16-d69b-11f1-930a-e08f8086f5ac_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-02"
+    },
+    "https://www.reuters.com/world/middle-east/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official-2026-11-02/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-02"
     }
   },
   "last_digest_success": true,
@@ -19806,6 +19826,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump said weighing who to scapegoat for Iran war as he clashes with PM over renewed attack - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 02, 2026 · 05:48 BRT",
+          "pub_date": "2026-11-02",
+          "pub_ts": 1793609325,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "World's energy supply buffers have been eroded, ADNOC CEO says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFJFQUd0MGpUMUdubkFVLWwzTHgwWmc1dlhDMzBWWjVYVnJGbTFiTndMWk9IclpjVWljUWlGTy1xUUN3VVRCLWRNeFluRGxQc3dFek52dVhvMU4zTGwtRDJtZWdDRnJRRFd4eUZiWDQtUnpkeFFOc1FRb1pJQ3BQNmptTDdKa0FWek5zSjdQcC1IcUZMTk1xNzdFQS1mQTd2WW11MmlGMTBIMmhyYURMVjltNmVWNi1Bc0JTLXhnTGg5TXk3YzYtb3Y2VQ?oc=5",

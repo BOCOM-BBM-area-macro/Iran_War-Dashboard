@@ -19473,7 +19473,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-01"
     },
     "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1": {
       "summary": "",
@@ -19766,6 +19766,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-02"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-913615": {
+      "summary": "Some top officials hope unique advantages held over Iran will avoid the repeat of endless “rounds” similar to what Israel has had with Hamas.",
+      "tags": [
+        "Israel",
+        "Gaza",
+        "IDF",
+        "Iran",
+        "United States"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-02"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-02/gulf-arab-oil-giants-are-exporting-crude-at-pre-war-rates-again": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-02"
     }
   },
   "last_digest_success": true,
@@ -19927,12 +19950,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-02T11:07:38.259718+00:00",
   "last_generated_date": "2026-11-02",
-  "last_generated_time": "2026-11-02T14:02:38.921978+00:00",
+  "last_generated_time": "2026-11-02T15:02:29.485152+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklkbWxGTUVjUDlHZDhmLTZiNHB4bXRHTVhIZXJCcGhXUXltdG1BRWo1OWZUX3JXOVFNeUQ3RUpzVVZNNnR4RDdKZnRjSmgyNnBmOXYxOTU3dFQ5Mm82WDExVlhFeTY0OTVsdmJ0bFExQk94c1JSQWVqeU9BbEdqN29tdkRqUkI4SHJoeEdTcUxwSm5hMExRb0s0Y21ReW9sSW1PR3NaY01OVFJ6NG8xQlVzMTM?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 02, 2026 · 14:25 BRT",
+          "pub_date": "2026-11-02",
+          "pub_ts": 1793640309,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Israel hopes third Iran war will differ from Gaza conflict with Hamas - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USGsza2ctd2oxb0hLcUowY0ZSVm80VWVSZWtjZzlxaWVsUjVHeVhhWXJMVkFnc1RROElselZtSDNCS0lNcGMzRndXRlpiLTIweV9GbjZwcFVmNVp1M2k4c3p0SWdjMWNPb0FWc2pB?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 02, 2026 · 13:59 BRT",
+          "pub_date": "2026-11-02",
+          "pub_ts": 1793638773,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran says contacts over ending war continue as talks end with no breakthrough - Reuters",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",

@@ -20118,6 +20118,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-03"
+    },
+    "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
     }
   },
   "last_digest_success": true,
@@ -20273,7 +20283,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-03T11:09:44.442292+00:00",
   "last_generated_date": "2026-11-03",
-  "last_generated_time": "2026-11-03T15:02:56.647628+00:00",
+  "last_generated_time": "2026-11-03T16:02:31.191262+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -20015,56 +20015,129 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-03"
+    },
+    "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.reuters.com/business/clariant-lags-core-profit-forecast-iran-war-weighs-says-hit-is-easing-2026-11-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-02T11:07:26.243555+00:00",
+  "last_digest_time": "2026-11-03T11:09:36.249255+00:00",
   "digest": {
-    "digest": "Diplomatic efforts to de-escalate the US-Iran conflict are ongoing, with Qatari mediators engaging in talks with Iran. A draft proposal for a US deal is reportedly being circulated, and Iranians have left Doha talks. Hopes for progress in these negotiations have led to a drop in oil prices. Concurrently, Gulf states express concerns about potential Iranian retaliation and the broader economic impact of the war, emphasizing a need for a return to normalcy. There are discussions regarding potential US and Israeli military strategies and timelines for a conflict, with Israeli officials reportedly pressing for action post-US midterm elections. The Iranian army has indicated that any potential war could be prolonged and that the duration would not be dictated by the US. Reports suggest discussions about scapegoating for the failure to end the war thus far, and pressure on the US president to resume hostilities. Incidents involving explosions on tankers in the Strait of Hormuz have also been reported, adding to regional tensions. The potential for an independent and open-ended war by Israel against Iran and its proxies is also being considered.",
+    "digest": "Recent developments indicate a heightened military posture between the U.S. and Iran, with U.S. forces conducting \"defensive\" strikes on Iran's Qeshm Island on the eve of an election. These actions have led to a rise in oil prices as peace prospects dim. Despite the military engagements, diplomatic channels remain active, with Iran suggesting it would reopen the Strait of Hormuz within two days as part of a U.S. deal and that nuclear talks could commence afterward if its conditions are met. President Trump has expressed \"no rush\" to decide on further bombing and has raised doubts about renewed attacks, while also indicating that an Iran deal could happen. Khamenei has empowered talks, and contacts over ending the war continue, though no breakthrough has been reported. China has launched diplomatic efforts amid the threat of renewed U.S. war. The conflict's impact is being felt globally, with the International Energy Agency warning of a record annual drop in global LNG supply and companies like Clariant and BGN reporting disruptions to trade and investment. TotalEnergies, however, suggests the war could accelerate the energy transition.",
     "top_themes": [
-      "US-Iran War Dynamics",
-      "Middle East Geopolitics",
-      "Energy Market Impact"
+      "US Military Strikes on Iran",
+      "Diplomatic Negotiations and Stances",
+      "Global Economic Impact of Iran Conflict"
     ],
     "next_events": [
       {
-        "title": "US Policy Shift Post-Midterm Elections",
-        "description": "The US midterm elections are highlighted as a critical juncture, after which Washington and Jerusalem are expected to refocus on Iran. Analysts should monitor statements and actions from the US administration and Congress regarding Iran policy immediately following the election results, as this could signal a renewed push for military action or diplomatic engagement."
+        "title": "Evolution of US Military Posture and Presidential Rhetoric",
+        "description": "President Trump's statements have been mixed, ranging from de-escalation to considering renewed attacks, while US forces have conducted 'defensive' strikes on Qeshm Island. Analysts should monitor any shifts in official US policy, further military actions, and the impact of the upcoming 'midterm deadline' on decision-making regarding Iran."
       },
       {
-        "title": "Progress and Outcome of US-Iran Peace Talks",
-        "description": "Multiple reports indicate ongoing talks in Doha and Qatar aimed at ending the US-Iran war. The success or failure of these negotiations will be a primary determinant of future conflict or de-escalation. Watch for official statements, draft proposals, and any signs of breakthroughs or breakdowns in diplomatic efforts."
+        "title": "Progress in US-Iran Diplomatic Engagements",
+        "description": "Despite ongoing contacts, a breakthrough in US-Iran talks remains elusive, with Tehran setting conditions for opening the Strait of Hormuz and initiating nuclear discussions. Watch for any signs of concessions from either side, the involvement of third-party mediators like Beijing, and whether Khamenei's empowerment of talks translates into tangible progress."
       },
       {
-        "title": "Trump's Strategic Decisions and US-Israel Alignment",
-        "description": "President Trump is reportedly weighing options, including who to blame for the war's progress and discussing next steps with PM Netanyahu. His decisions, particularly regarding renewed attacks or specific targets like 'Pickaxe Mountain,' will be critical. Observe any joint statements, military movements, or shifts in rhetoric indicating a coordinated US-Israel strategy."
+        "title": "Stability of the Strait of Hormuz and Global Trade Routes",
+        "description": "Iran has linked the reopening of the Strait of Hormuz to its conditions being met, threatening global energy supplies and trade. Monitor any Iranian actions or statements regarding the Strait, as well as international responses, given its critical role in global oil and LNG shipments and the potential for significant economic disruption."
       },
       {
-        "title": "Regional Escalation and Gulf State Stability",
-        "description": "Gulf states express significant fear of fiercer Iranian retaliation if the US strikes, and their economies are already suffering. Any escalation could trigger widespread instability and economic disruption in the region. Monitor for increased military readiness, changes in diplomatic postures from Gulf nations, and potential impacts on global energy markets."
+        "title": "Regional Stability and Gulf Countries' Preparedness",
+        "description": "Gulf countries are bracing for a potential renewal of the Iran war, and Israel is hoping for a different outcome than previous conflicts. Observe any increased military readiness, diplomatic initiatives by regional actors, or shifts in alliances that could indicate a heightened risk of broader conflict or attempts to de-escalate tensions."
       },
       {
-        "title": "Potential for Independent Israeli Military Operations",
-        "description": "Israel is reportedly preparing for an independent, open-ended war against Iran and its proxies, especially if US involvement is limited. This suggests a potential for unilateral Israeli action regardless of US decisions. Watch for increased Israeli military exercises, intelligence reports on Iranian assets, and any rhetoric indicating a shift towards independent operational objectives."
-      },
-      {
-        "title": "Maritime Security in the Strait of Hormuz",
-        "description": "Reports of tankers exploding after hitting mines in the Strait of Hormuz highlight the ongoing risk of naval incidents. This critical chokepoint for global oil supplies remains a flashpoint for potential escalation. Monitor for further maritime security incidents, accusations of responsibility, and any naval deployments or warnings from regional or international forces."
+        "title": "Impact on Global Energy Markets and Supply Chains",
+        "description": "The threat of an Iran war is already impacting global LNG supply, oil prices, and shipping logistics. Analysts should track fluctuations in energy commodity prices, disruptions to maritime trade routes, and the broader economic fallout, including potential acceleration of the energy transition as suggested by some industry players."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-02T11:07:35.427278+00:00",
+  "last_watch_time": "2026-11-03T11:09:44.044546+00:00",
   "relevant_news": [
     {
-      "title": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official-2026-11-02/",
+      "title": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Nov 03, 2026 · 00:39 BRT",
+      "pub_date": "2026-11-03",
+      "pub_ts": 1793677163,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. forces launch new ‘defensive’ strikes in Iran on eve of election - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/11/02/us-forces-launch-new-defensive-strikes-iran-eve-election/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Nov 03, 2026 · 04:34 BRT",
+      "pub_date": "2026-11-03",
+      "pub_ts": 1793691240,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US strikes Iran’s Qeshm Island on eve of election - Financial Times",
+      "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Nov 03, 2026 · 06:33 BRT",
+      "pub_date": "2026-11-03",
+      "pub_ts": 1793698410,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil rises as peace prospects dim after US hits Iran's Qeshm Island - Reuters",
+      "url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 02, 2026 · 07:22 BRT",
+      "published": "Nov 02, 2026 · 22:27 BRT",
       "pub_date": "2026-11-02",
-      "pub_ts": 1793614962,
+      "pub_ts": 1793669220,
       "summary": "",
       "tags": [
         "extracted",
@@ -20076,96 +20149,37 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump has frank call with Netanyahu about next move in Iran war - Axios",
-      "url": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Nov 01, 2026 · 15:48 BRT",
-      "pub_date": "2026-11-01",
-      "pub_ts": 1793558908,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "axios.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Gulf States Fear Fiercer Iran Retaliation If US Strikes - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/gulf-states-fear-fiercer-iran-retaliation-if-us-strikes-again",
-      "source": "Bloomberg",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 02, 2026 · 03:35 BRT",
-      "pub_date": "2026-11-02",
-      "pub_ts": 1793601300,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US, Israeli targets, timelines, priorities for a potential third Iran war - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913493",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Nov 01, 2026 · 17:40 BRT",
-      "pub_date": "2026-11-01",
-      "pub_ts": 1793565643,
-      "summary": "Israeli officials have pressed Trump to deal with Pickaxe Mountain, and anytime he has made threats relating to the facility, Iran has made clear ot views it as a top strategic asset.",
-      "tags": [
-        "Iran",
-        "United States",
-        "iran israel",
-        "Iran nuclear",
-        "iran war scenario"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iranian army: War could be longer than previous one, Trump won’t dictate its duration - The Times of Israel",
-      "url": "https://www.timesofisrael.com/iranian-army-war-could-be-longer-than-previous-one-trump-wont-dictate-its-duration/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 01, 2026 · 14:42 BRT",
-      "pub_date": "2026-11-01",
-      "pub_ts": 1793554920,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-two-tankers-exploded-after-hitting-mines-hormuz-2026-11-01/",
+      "title": "Trump's Iran threat renews Gulf fears of a war it didn't choose - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 01, 2026 · 17:12 BRT",
-      "pub_date": "2026-11-01",
-      "pub_ts": 1793563953,
+      "published": "Nov 02, 2026 · 09:42 BRT",
+      "pub_date": "2026-11-02",
+      "pub_ts": 1793623322,
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal - The New York Times",
+      "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Nov 02, 2026 · 17:25 BRT",
+      "pub_date": "2026-11-02",
+      "pub_ts": 1793651134,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -20174,9 +20188,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-02T11:07:38.259718+00:00",
-  "last_generated_date": "2026-11-02",
-  "last_generated_time": "2026-11-02T23:02:50.845036+00:00",
+  "last_relevant_time": "2026-11-03T11:09:44.442292+00:00",
+  "last_generated_date": "2026-11-03",
+  "last_generated_time": "2026-11-03T08:02:28.169342+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -19871,7 +19871,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/": {
       "summary": "",
@@ -20001,6 +20001,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -30029,6 +30039,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "Lufthansa cuts 2026 outlook as jet fuel bill hits €9.3 billion - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEUyazYyaEhrbGJSc0lvMVdPcnFmTmpKT3QxMFBiRWFKNTNwbmZQaG1hczVWZWZNS1pLckhVdWpWUVdaeGtTeFVkdkhYenNVT0RseThUT1ZYck5neUFjUi1XaExHZ3NGUDd1ZkVMakw0VzFOX2l2RWRjV3dFOGhDeERPNUlfRDdtUmxLcDNKLW9rRHpfczJZMGxBLW5OVlBScTlZZGIzcjJrRUp5dTRDOW96T1c3VjQzWlE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 03:08 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793686080,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Ryanair to freeze pay and cut hiring as €2bn jet fuel hit looms - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlUwbXN3X2ZlTmN3aU5FWmZlVVVXRV8xMTNYRDhCVV8xX19TNnN1cXdtQ0wwZTlQaFJPNjBYQy1WTGE3cXZTX3J3azRXTFVCQUdNUVRtc2xrR01ac01LSWwzandrc21rMXZzc3l4dHg5MVpyZDRHTVFQQ2hNREhCNUdfYXk?oc=5",

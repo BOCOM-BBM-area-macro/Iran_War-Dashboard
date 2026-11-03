@@ -19702,7 +19702,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.timesofisrael.com/daily-briefing-nov-2-after-midterms-will-us-reignite-iran-war/": {
       "summary": "",
@@ -19818,7 +19818,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-03"
+      "pub_date": "2026-11-02"
     },
     "https://www.washingtonpost.com/politics/2026/11/02/trump-says-he-had-very-good-talk-with-netanyahu/": {
       "summary": "",
@@ -19871,7 +19871,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-03"
+      "pub_date": "2026-11-02"
     },
     "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/": {
       "summary": "",
@@ -20108,6 +20108,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-03"
+    },
+    "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
     }
   },
   "last_digest_success": true,
@@ -20263,12 +20273,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-03T11:09:44.442292+00:00",
   "last_generated_date": "2026-11-03",
-  "last_generated_time": "2026-11-03T14:02:41.040543+00:00",
+  "last_generated_time": "2026-11-03T15:02:56.647628+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iraq boosts Turkey oil exports, signs West Qurna-2 deal with Chevron amid war - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92d2I1U0dQWjAydkVQRWNfZ2Q5SUNtQnJuSHZwUTk5cWQxV191bXdpaEJYRUZ3NU8zaWFIYm5NbzdZOHZjTGhqYldndXJXbFJlbzdnN3V4LXZjVTN6?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 14:19 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793726357,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gulf oil flows dip in October from post-Iran war high, data shows - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHNPY2VaUDh6Wm5mQi1obXBHZkJBVUVTODF0d1drdkY2XzBlMDZMQ3gxdFQyUnpxR1B0Y2I0QXdiSndDelZ4UUJEY1p6a1hSX0hYWnZQb0Q1aWJvdkFjek44dEliMVlwZHlrc29FYVNmOTlvSjlwS3NSc2FKaWtRQnNjOEtXeUo2RVAxOG1LUWF4UjVIakptR3g5RHhTX3llXzBxaVZMY0JfN1d1?oc=5",
@@ -20292,6 +20316,34 @@
           "published": "Nov 03, 2026 · 12:36 BRT",
           "pub_date": "2026-11-03",
           "pub_ts": 1793720168,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil services firms face major cost pressure from Iran crisis, execs say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOczMwcS1vUnEzdnFTRElKeTJhSUt3Q2F3bTZJMFRkT0h3cU5OSHFpTUFzWDRMd1FzaDR6RGV4U3FlbFZodDFuXzNjZGRNZUdYeUFPdzZqQXFqRWxnaTVBYkViYkZ3VFVxZ3ZkRDV4Q09TRjlUSUh3WXZRZjgxUkMxXzB6VWl1bjl2eW5YZzVacjFycGdHMHc4NHlpbjZZTG9aekFBaGVfcHNNZkktUTRKMGdNWjVoVkpK?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 12:11 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793718703,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjRUOGlRYlNrUHVudVVKTnBFa295eTJ1bzJLOTA1cE1MTjZoR051dEV6aTVYd0p3dG5mcjVOa3hCQXRqN1RZMFh2VjYwaVhpRkM0amd3VnpKSFlyUEZqR1hDeFVsbzhFMFpKNkVnbmhxWldhZGJiM25UREt1Tl9SWkVPYmx1MzBJY0MyN2xsOVNHeEdWT0dTU1dFcFp4dXQ3XzVTWXZBTDBLeTRsdm5qUzJnQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 11:45 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793717158,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

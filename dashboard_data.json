@@ -19483,7 +19483,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-01"
     },
     "https://www.jpost.com/opinion/article-913468": {
       "summary": "If the US executes its plan to hammer Iran and immediately pull back its forces, Israel’s operational objective must shift from mere participation to an independent, sustained campaign of containment",
@@ -19958,6 +19958,39 @@
       "tags": [
         "extracted",
         "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913661": {
+      "summary": "Tehran's conditions would have to be met if the US wants the Strait of Hormuz opened, the official said, adding that nuclear talks could begin afterwards.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Washington",
+        "Tehran",
+        "Qatar"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-us-deal-still-out-of-reach-senior-iranian-official-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-2026-11-03/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -19818,7 +19818,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.washingtonpost.com/politics/2026/11/02/trump-says-he-had-very-good-talk-with-netanyahu/": {
       "summary": "",
@@ -20035,6 +20035,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-03"
+    },
+    "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913691": {
+      "summary": "Qatar added that there was an agreement to avoid escalation in the region and the gulf, and that both the US and Iran were committed to the mediation process.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Qatar",
+        "iran negotiations",
+        "mediation"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
     }
   },
   "last_digest_success": true,
@@ -20190,12 +20213,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-03T11:09:44.442292+00:00",
   "last_generated_date": "2026-11-03",
-  "last_generated_time": "2026-11-03T08:02:28.169342+00:00",
+  "last_generated_time": "2026-11-03T09:02:23.330225+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices steady at $106 after sharp declines - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWJjMmF2V0xMSm5WTVV3TW5DeHpkUEV2blZwY05PcHN2VmpoVEl0VEpiSVdCRV82c01Pb1UyLWpldXpmckxqS3N2cklnXzNRMkxuV3RtNVpheGJXUDNvM25ha1dpN2ZZVkdXamFPMVJ6WTlWQ1RuZG9OQ05Oa2J6WTBKbzI?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 07:27 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793701677,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says - WSJ",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXlWSVExOEg2WWUxMi14SlEtNzRUWjVMMUJpWmdKb1ZqRUhfMWQ0ZmNmcXdPSlZuR2dWUVlxZWtINjNsdDRzbUJCdFdTTlppbHZudFRnZHh1SzFMQmNOd180ZmdNXzhGc0FGZF9IYkNTVnJqOVVwZmZsWWxpTVYzeUIzOGZzRVluaUtyR3ZYeE9oUVNMV1RrSmxYcXlYSUd5WkIyb0lROEl0T0J4bjJXNW9Md1VzSkk?oc=5",
@@ -20289,6 +20326,20 @@
           "published": "Nov 02, 2026 · 13:59 BRT",
           "pub_date": "2026-11-02",
           "pub_ts": 1793638773,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 02, 2026 · 13:05 BRT",
+          "pub_date": "2026-11-02",
+          "pub_ts": 1793635519,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

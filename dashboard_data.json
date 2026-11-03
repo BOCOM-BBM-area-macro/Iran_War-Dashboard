@@ -19912,6 +19912,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-02"
+    },
+    "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
     }
   },
   "last_digest_success": true,
@@ -20088,6 +20098,20 @@
           "published": "Nov 02, 2026 · 22:27 BRT",
           "pub_date": "2026-11-02",
           "pub_ts": 1793669220,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcFdpUFRyRTdQaWZ3Y200c3pzcURYQjBOekRLZ1o0YUphWERKa05ZSVZhd3lfLVpYZllxQ0g5bEtnNVdydC03YTNHN0RQZkVQdHN5c3llaWdfbkhPcUxKQ3JYSkpNSms2WVdtT1VDQWh0cTNBVENwQTh4VTA?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 02, 2026 · 20:12 BRT",
+          "pub_date": "2026-11-02",
+          "pub_ts": 1793661135,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -18593,7 +18593,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-01"
+      "pub_date": "2026-10-29"
     },
     "https://www.wsj.com/video/series/rooted-in/i-went-home-to-long-island-to-find-out-how-the-iran-war-is-shaping-the-midterms/4F10033D-CBF9-4095-8722-10932A6D3B43": {
       "summary": "",
@@ -19702,7 +19702,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.timesofisrael.com/daily-briefing-nov-2-after-midterms-will-us-reignite-iran-war/": {
       "summary": "",
@@ -20237,7 +20237,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-03"
+      "pub_date": "2026-11-04"
     },
     "https://www.timesofisrael.com/liveblog_entry/irans-top-negotiator-says-americans-voted-no-to-war/": {
       "summary": "",
@@ -20254,6 +20254,16 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -29272,6 +29282,20 @@
           "published": "Oct 29, 2026 · 12:39 BRT",
           "pub_date": "2026-10-29",
           "pub_ts": 1793288391,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "European Gas Hits €100 for First Time Since 2022 Energy Crisis - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemptODZ1cUFUZEt3LWNudnB1TkpqNnZONXg0UjJqc18tU1dkd3ZwMXdPemJOYmpyRVBtclBfLS1hdGNnWW5rM0pma0lyOFhIb1BwZHVKOVRvUVpLQzdtenFLMFVGekFQY3JPTGJzMmJJbTVSUDdJVktXN1QwYXllSDVLSUlXODhZdllfVm8xRFdJOVNEczVyZlJuZW9pVVhRamtCbUFlT2xfaWpTcl9mN3Nn?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Oct 28, 2026 · 13:29 BRT",
+          "pub_date": "2026-10-28",
+          "pub_ts": 1793204959,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

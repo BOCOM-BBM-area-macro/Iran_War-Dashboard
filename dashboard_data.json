@@ -19483,7 +19483,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-01"
+      "pub_date": "2026-11-02"
     },
     "https://www.jpost.com/opinion/article-913468": {
       "summary": "If the US executes its plan to hammer Iran and immediately pull back its forces, Israel’s operational objective must shift from mere participation to an independent, sustained campaign of containment",
@@ -19871,7 +19871,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-02"
     },
     "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/": {
       "summary": "",
@@ -20237,7 +20237,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-03"
     },
     "https://www.timesofisrael.com/liveblog_entry/irans-top-negotiator-says-americans-voted-no-to-war/": {
       "summary": "",
@@ -20456,6 +20456,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-04"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-iran-war-has-been-worth-it-despite-election-losses-2026-11-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-says-vance-post-blaming-midterm-loss-on-iran-war-floating-change-to-israel-ties-is-largely-true/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/schumer-says-senate-can-use-power-of-the-purse-to-stop-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
     }
   },
   "last_digest_success": true,
@@ -20605,12 +20645,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-04T12:07:44.400505+00:00",
   "last_generated_date": "2026-11-04",
-  "last_generated_time": "2026-11-04T16:02:16.949537+00:00",
+  "last_generated_time": "2026-11-04T17:02:23.930337+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices plunge after Vance post on Iran war - Axios",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVFrN1Z2RXhoZjZ0RFROeTFYTlk2VncxYjZJTUk4TlpmbWF1V2NBbEpxb3BjZFZ6dmNOZUNXM3NxSkFzWHRtXzNhc2twMXo3dWlnWUpnYnFMeU51ZGNRWFozOU1BMExoOFJTVXVhNHhwRjM4U21oNm5Ed2VZWjdCVDB6RXR2ZWM?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 16:45 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793821556,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "North Sea Oil Plunge Deepens as Traders Weigh Iran De-Escalation - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzROM2tsNURQbXRNMTdSbHQydy1fcTVnNnBSZWc2UXd5dlpmbVBSZTBrS2FBclppMHpBUFh1RkJrelZ0TFBSbXppSERZQVNUeGZCNWJXWmZVTThzdmdfOGR1TlpsSWJkUHd1aFUzSGExM25URWF3R2xJWUExa2tIc2hsNS1fNUNfSHdacUwtNkJOdnpmZXI4c0l5SjVqODF6ZHRYMDZvRVhJdlByaUhfdlNySHdTQQ?oc=5",
@@ -31546,6 +31600,20 @@
           "published": "Nov 03, 2026 · 03:39 BRT",
           "pub_date": "2026-11-03",
           "pub_ts": 1793687940,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "From grains to chicken and milk, India faces prolonged food inflation - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWNMZUNRMk9yWkZHQTk3Z09uRTRzWVNPMTFVTTBpZjRVNWlqUm5CeFU1ajhvbTlMb2M5Z2lsdFpkNWdvOS1ZS3NvOFRfMl9lYlV6b1I2cjY2WG1iZUtYb09VWTJrUlFLeWhmMnphcDlJQzE1ZHUtZkxsWk5USUZpbHp2NjVwUTUzcV94LTJvejhTQXVoTW44WWI2bFE2NzdBSHBvd3ZQNA?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 03:36 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793687817,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

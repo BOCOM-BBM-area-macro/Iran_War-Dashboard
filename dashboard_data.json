@@ -19871,7 +19871,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-04"
     },
     "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/": {
       "summary": "",
@@ -20227,7 +20227,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-03"
     },
     "https://www.reuters.com/commentary/reuters-open-interest/asia-hopes-democrats-can-provide-relief-trumps-iran-war-tariffs-2026-11-04/": {
       "summary": "",
@@ -20336,6 +20336,49 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.cbc.ca/news/world/iran-united-states-midterm-results-trump-9.7408499": {
+      "summary": "Iranian officials celebrated U.S. voters' rebuke of the Republican Party and President Donald Trump in the midterm elections, as the region waited to see how the results could affect the Iran war.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.jpost.com/american-politics/article-913835": {
+      "summary": "For Israel, a Democrat-controlled House and Senate may intensify congressional scrutiny of Israel's military operations in Iran, Gaza, and Lebanon, while threatening long-standing US support.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Ukraine",
+        "Politics"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -20489,7 +20532,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-04T12:07:44.400505+00:00",
   "last_generated_date": "2026-11-04",
-  "last_generated_time": "2026-11-04T12:02:07.710442+00:00",
+  "last_generated_time": "2026-11-04T13:02:39.663264+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

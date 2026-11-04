@@ -20158,6 +20158,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-03"
+    },
+    "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
     }
   },
   "last_digest_success": true,
@@ -20313,12 +20333,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-03T11:09:44.442292+00:00",
   "last_generated_date": "2026-11-03",
-  "last_generated_time": "2026-11-03T20:02:27.714829+00:00",
+  "last_generated_time": "2026-11-03T21:02:31.267495+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 18:00 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793739610,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iraq boosts Turkey oil exports, signs West Qurna-2 deal with Chevron amid war - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92d2I1U0dQWjAydkVQRWNfZ2Q5SUNtQnJuSHZwUTk5cWQxV191bXdpaEJYRUZ3NU8zaWFIYm5NbzdZOHZjTGhqYldndXJXbFJlbzdnN3V4LXZjVTN6?oc=5",

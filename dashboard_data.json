@@ -18593,7 +18593,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-10-29"
+      "pub_date": "2026-11-01"
     },
     "https://www.wsj.com/video/series/rooted-in/i-went-home-to-long-island-to-find-out-how-the-iran-war-is-shaping-the-midterms/4F10033D-CBF9-4095-8722-10932A6D3B43": {
       "summary": "",
@@ -19702,7 +19702,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-03"
+      "pub_date": "2026-11-02"
     },
     "https://www.timesofisrael.com/daily-briefing-nov-2-after-midterms-will-us-reignite-iran-war/": {
       "summary": "",
@@ -20234,6 +20234,26 @@
       "tags": [
         "extracted",
         "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/irans-top-negotiator-says-americans-voted-no-to-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-admits-iran-war-played-role-in-republican-losses-people-werent-willing-to-pay-more-for-gasoline/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -32469,6 +32489,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Gold rises as dollar weakens; Democrats score early wins in US midterm elections - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 21:58 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793753880,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Gold rebounds from one-year low as oil slides ahead of US midterms - Reuters",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",

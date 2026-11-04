@@ -19871,7 +19871,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-02"
     },
     "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/": {
       "summary": "",
@@ -20383,6 +20383,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-04/vance-points-to-iran-war-israel-as-reasons-for-gop-midterm-loss": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.washingtonpost.com/politics/2026/11/04/vance-blames-republicans-midterm-losses-iran-war-cost-living/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.jpost.com/american-politics/article-913846": {
+      "summary": "\"If you'd like to argue [the war] was worth it, that losing the Senate for the next 6 years was worth it, then do so. Argue it was a worthwhile cost. That's at least honest,\" Vance wrote.",
+      "tags": [
+        "Elections",
+        "Israel Iran War",
+        "us israel relations",
+        "Donald Trump",
+        "midterm elections"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
     }
   },
   "last_digest_success": true,
@@ -20532,7 +20565,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-04T12:07:44.400505+00:00",
   "last_generated_date": "2026-11-04",
-  "last_generated_time": "2026-11-04T13:02:39.663264+00:00",
+  "last_generated_time": "2026-11-04T14:02:13.804770+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -29411,6 +29444,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Iranian officials gloat as US voters deal blow to Trump - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaERuaWNXaEtzV2Vjb0RCZUZiWkx1VE52SGpCLTBjaFI4THBXUUJGWTF0Y2kzMHZvY3FrTVlKRmJaRkFYSmgyb21EczFNeUxuQ1dPT2JpRXRGN3JaRmtIeW90Y0xRam5BdUdlVkswTHFqa2NjR3lxVHRHWWlzdUNtVTNDbTh1bW5uR0lRR0MteWFNTU9Jd010NHNGaTRweGlOdS1MZGlB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 12:39 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793806742,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "European Gas Market Braces for Trump’s Next Move on Iran After Midterms - WSJ",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWpKcGhtMi1pU24zb1Q0OTQ4LUhwbUJvQTdHck5rU1dfN0RYalNTVTBtU3BTS1EtZVVuNkJxcVRzZjBIU2ZBWmlCLW04OHhsZlJnUHNWVXZEelNQaXpyY3JUQ1VqX3FSd1QyM2JsZC1BcWhBWnlEaFJ2STdMajNFUjBtWG1BaXBpUlBCYjJDY3BYanJTVHV5ZTVPdGRIZ2hITFM2U0pzS3M1Q2s1cjE3c1NMQzhpOXdGdGx3NEtNa0E4Ui15Y2c?oc=5",
           "source": "WSJ",
@@ -31417,6 +31464,20 @@
           "published": "Nov 03, 2026 · 12:53 BRT",
           "pub_date": "2026-11-03",
           "pub_ts": 1793721196,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "War widens in the Black Sea in a test of NATO red lines - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWxiZGlMWkM0ZHpydTVPRmxnSkxaVEhRdHoybDV1QW5DWnJrZWZNRDlIODFubWVVWUtfN25DYkVsZzNDemNJcEc5MHRrWTdMMjhJRXZFOWlpaEVuYjgtek1kVjR0VUdrcXhYNGRBX2FlV18yY0U1d1Rqb2stSnlDWmNqb29DdG1ZbEVoMEpjUTBZNUk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 03:39 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793687940,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

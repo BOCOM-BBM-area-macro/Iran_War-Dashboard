@@ -3,7 +3,7 @@ Collecting feedparser
 Collecting beautifulsoup4
   Downloading beautifulsoup4-4.15.0-py3-none-any.whl.metadata (3.8 kB)
 Collecting dateparser
-  Downloading dateparser-1.4.3-py3-none-any.whl.metadata (25 kB)
+  Downloading dateparser-1.5.0-py3-none-any.whl.metadata (55 kB)
 Collecting feedparser-sgmllib<3,>=2 (from feedparser)
   Downloading feedparser_sgmllib-2.1.0-py3-none-any.whl.metadata (926 bytes)
 Collecting soupsieve>=1.6.1 (from beautifulsoup4)
@@ -25,11 +25,11 @@ Collecting tzdata (from python-dateutil>=2.7.0->dateparser)
 Downloading feedparser-6.0.14-py3-none-any.whl (80 kB)
 Downloading feedparser_sgmllib-2.1.0-py3-none-any.whl (11 kB)
 Downloading beautifulsoup4-4.15.0-py3-none-any.whl (109 kB)
-Downloading dateparser-1.4.3-py3-none-any.whl (322 kB)
+Downloading dateparser-1.5.0-py3-none-any.whl (373 kB)
 Downloading python_dateutil-3.0.0-py2.py3-none-any.whl (94 kB)
 Downloading pytz-2026.6-py2.py3-none-any.whl (506 kB)
 Downloading regex-2026.9.29-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (797 kB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 797.6/797.6 kB 68.0 MB/s  0:00:00
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 797.6/797.6 kB 153.8 MB/s  0:00:00
 Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
 Downloading soupsieve-2.10-py3-none-any.whl (38 kB)
 Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
@@ -37,4 +37,4 @@ Downloading tzlocal-5.4.5-py3-none-any.whl (18 kB)
 Downloading tzdata-2026.6-py2.py3-none-any.whl (348 kB)
 Installing collected packages: pytz, tzlocal, tzdata, typing-extensions, soupsieve, six, regex, feedparser-sgmllib, python-dateutil, feedparser, beautifulsoup4, dateparser
 
-Successfully installed beautifulsoup4-4.15.0 dateparser-1.4.3 feedparser-6.0.14 feedparser-sgmllib-2.1.0 python-dateutil-3.0.0 pytz-2026.6 regex-2026.9.29 six-1.17.0 soupsieve-2.10 typing-extensions-4.16.0 tzdata-2026.6 tzlocal-5.4.5
+Successfully installed beautifulsoup4-4.15.0 dateparser-1.5.0 feedparser-6.0.14 feedparser-sgmllib-2.1.0 python-dateutil-3.0.0 pytz-2026.6 regex-2026.9.29 six-1.17.0 soupsieve-2.10 typing-extensions-4.16.0 tzdata-2026.6 tzlocal-5.4.5

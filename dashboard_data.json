@@ -20024,7 +20024,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-03"
     },
     "https://www.reuters.com/business/clariant-lags-core-profit-forecast-iran-war-weighs-says-hit-is-easing-2026-11-03/": {
       "summary": "",
@@ -20198,6 +20198,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-03"
+    },
+    "https://www.wsj.com/politics/elections/trump-acknowledges-iran-war-is-partly-to-blame-for-republican-losses-c3cf572e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.reuters.com/world/us/trump-acknowledges-iran-played-role-republican-midterm-losses-2026-11-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.reuters.com/business/energy/oil-edges-down-investors-await-us-midterm-election-results-2026-11-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/asia-hopes-democrats-can-provide-relief-trumps-iran-war-tariffs-2026-11-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
     }
   },
   "last_digest_success": true,
@@ -20359,6 +20399,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 03, 2026 · 23:10 BRT",
+          "pub_date": "2026-11-03",
+          "pub_ts": 1793758200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5",
@@ -27729,6 +27783,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Trump admits Iran war played role in Republican losses: 'People weren't willing to pay more for gasoline' - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjJSaVhpVHdKeFpuc3ZVVkIwaXFkZGsxR3h0TW03TGtubmJUT01pQ005dl81dXNpTHhFeDZhTGRNQ2p2S2NGek5MLWlHOWFURFl5VlFzaS0tTXlkT0ZuYVI2UURPN1NtZGtrRUNSWHZ1Q3UySkxGQWN2WENBbWstNWVWX0xJcktZYlZnNDlrLS12bVU0UDR2MmRjNzYwMzlRTHo3YWFjS0RpZi1fUWJUa0IxalBrbXYxYmw5QzVpQVZhUTYwV0t0Sml2SXUwbVRlZVZSLW5VelhtVXUyVFFhXw?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 02:33 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793770386,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "TotalEnergies expects Iran war to accelerate energy transition - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNiSHhwUjBpRnJnUW4yZFM5NUp6QWlXOUJldXZ6ODRpZXdRbENpTFp3d2RJWG9tVVRTWXVzTDZQRjBLcXJOaU5EeWRBUTY2ZGJZQzJlaFVKaFJMckcwdkV2QTNSWFoyYkM4WFBlUEhwWThiS25XM2VObEJDalQyMmNLcmVPZXRBZmZNNVU3MWltVjRNNlZNcU1rcGFKLTNNWC05WDdhVGItRVpkTngxMw?oc=5",
           "source": "Reuters",
@@ -29133,6 +29201,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 01:54 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793768082,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: Qatar's US LNG bet signals a new energy order - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVklYbm1HdWRyRXdFc1lQT0h1Vi12N0ZuRldTZjVhN3VVUzUyeFcyeldnZ3djUnpWUU5YU25aRFFMbU1QSTZwQXNXRGxDN0wtV0hGMkF1d21IcDhtWlBPZm92NmFxc1RvVWZoVG9xSlJzSktmalpmaFNkZTFFUDBzREROdEUwNHlmRHowRWs1cnFPWmNYNGNfbHR0cmFhcndkQXBOcnQ5UkdFZzh1RjVqSw?oc=5",

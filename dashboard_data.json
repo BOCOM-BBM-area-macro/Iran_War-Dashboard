@@ -241,7 +241,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-03"
+      "pub_date": "2026-11-02"
     },
     "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/": {
       "summary": "",
@@ -415,6 +415,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-04"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-913868": {
+      "summary": "In past decades, Iranian officials have publicly endorsed the fatwa issued by supreme leader Ayatollah Ali Khamenei forbidding the development and use of nuclear weapons.",
+      "tags": [
+        "Iran",
+        "Ayatollah Ali Khamenei",
+        "Iran nuclear",
+        "Masoud Pezeshkian",
+        "Nuclear weapon"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html": {
+      "summary": "Some administration officials suggested Prime Minister Benjamin Netanyahu is trying to draw President Trump back into military action.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-03"
     }
   },
   "last_digest_success": true,
@@ -576,7 +599,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-04T23:09:22.669767+00:00",
   "last_generated_date": "2026-11-04",
-  "last_generated_time": "2026-11-04T22:02:14.093653+00:00",
+  "last_generated_time": "2026-11-04T23:02:24.705093+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -703,6 +726,20 @@
           "published": "Nov 04, 2026 · 13:31 BRT",
           "pub_date": "2026-11-04",
           "pub_ts": 1793809860,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi Budget Deficit More Than Doubles on War, Aramco Fees - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjRUOGlRYlNrUHVudVVKTnBFa295eTJ1bzJLOTA1cE1MTjZoR051dEV6aTVYd0p3dG5mcjVOa3hCQXRqN1RZMFh2VjYwaVhpRkM0amd3VnpKSFlyUEZqR1hDeFVsbzhFMFpKNkVnbmhxWldhZGJiM25UREt1Tl9SWkVPYmx1MzBJY0MyN2xsOVNHeEdWT0dTU1dFcFp4dXQ3XzVTWXZBTDBLeTRsdm5qUzJnQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 04:17 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793776620,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

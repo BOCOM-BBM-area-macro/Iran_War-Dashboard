@@ -558,6 +558,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-05"
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-05/boe-sees-case-for-another-hike-if-iran-war-doesn-t-end-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-05"
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-05/oil-pushes-lower-on-hopes-to-end-us-iran-war-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-05"
     }
   },
   "last_digest_success": true,
@@ -712,12 +732,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-05T11:09:26.411226+00:00",
   "last_generated_date": "2026-11-05",
-  "last_generated_time": "2026-11-05T10:02:23.860680+00:00",
+  "last_generated_time": "2026-11-05T11:02:19.778903+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Bank of England Raises Rates for First Time Since Start of Iran War - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWxNSDBnNUpaa2lla2pMTld5RWlaTG1JWFZQaGFZeV9BWnA4LWFXV0NIUFVhUkFZemNGTUVfLXVFUUtOaVNFSXpZU19NVEFvbjU0djdzdXg4cDEzQ2IyWkQxZ1o0YjZzOFNkaUlvc095aTVYYWhnWUtXYWt0YktTcm4yZ1ZDUXJ4N2F2N0w3QjBwSmVYdDRISzhyZE1ldkRRdDh4U2p1QzhtQ3E1X0RHZmVySDRVNWVlXzl3SA?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 05, 2026 · 10:24 BRT",
+          "pub_date": "2026-11-05",
+          "pub_ts": 1793885082,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Emirates Reports 66% Profit Slump on War, High Fuel Costs - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnNLNGNYUnZxNWU1M3ZLMlVmZXpLdDVwbERTY1ltNzRqZkxEVksyYWNEWHZIQS1CYXJNTWhJTFc0LTZHdmVSeUpBYktzbm16YkNLcFkyeTE4cUtac3RudktJVkhXc0hXbXpLNDRTMWU5N1ZCRk5Fb0tUN3FwaUpPVS1hSDdIUnNoSHFSMFFxM0VWTExoNDVwMlRHamdLakw0bDhfdGg3RnFiREZiTWVCamNYMlZBQXNzS2RBc3VB?oc=5",
@@ -1438,6 +1472,20 @@
           "published": "Nov 02, 2026 · 15:48 BRT",
           "pub_date": "2026-11-02",
           "pub_ts": 1793645300,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US, Israeli targets, timelines, priorities for a potential third Iran war - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 01, 2026 · 17:40 BRT",
+          "pub_date": "2026-11-01",
+          "pub_ts": 1793565643,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

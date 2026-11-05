@@ -241,7 +241,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-03"
+      "pub_date": "2026-11-02"
     },
     "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/": {
       "summary": "",
@@ -468,6 +468,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-04"
+    },
+    "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-05"
+    },
+    "https://www.reuters.com/legal/government/us-slaps-sanctions-indian-turkish-firms-people-aiding-iran-2026-11-04/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
     }
   },
   "last_digest_success": true,
@@ -635,6 +655,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Emirates Reports 66% Profit Slump on War, High Fuel Costs - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnNLNGNYUnZxNWU1M3ZLMlVmZXpLdDVwbERTY1ltNzRqZkxEVksyYWNEWHZIQS1CYXJNTWhJTFc0LTZHdmVSeUpBYktzbm16YkNLcFkyeTE4cUtac3RudktJVkhXc0hXbXpLNDRTMWU5N1ZCRk5Fb0tUN3FwaUpPVS1hSDdIUnNoSHFSMFFxM0VWTExoNDVwMlRHamdLakw0bDhfdGg3RnFiREZiTWVCamNYMlZBQXNzS2RBc3VB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 05, 2026 · 04:15 BRT",
+          "pub_date": "2026-11-05",
+          "pub_ts": 1793862900,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
@@ -812,6 +846,20 @@
           "published": "Nov 04, 2026 · 14:43 BRT",
           "pub_date": "2026-11-04",
           "pub_ts": 1793814219,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil tumbles below $100 on post-election peace hopes - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUloVnNnRl9TUnU0YzZvekNibnNSTGVjQ1N1d2pNRHBHSWwta2tra0N0MDdsYkNNT3FIbGV1cW5oMDgxVWk2RVVpcEpQaUkzTXpvaEVEd0FRSW50MUFvM0dNYnZhbzZodmtZQUJsYzJQOF9MeVFJSkRVb1dYVUVUbmlGM18?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 14:15 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793812523,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

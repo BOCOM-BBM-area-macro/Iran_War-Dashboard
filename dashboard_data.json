@@ -78,7 +78,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-05"
     },
     "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html": {
       "summary": "That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.",
@@ -354,7 +354,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-03"
     },
     "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1": {
       "summary": "",
@@ -414,7 +414,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-05"
     },
     "https://www.jpost.com/middle-east/iran-news/article-913868": {
       "summary": "In past decades, Iranian officials have publicly endorsed the fatwa issued by supreme leader Ayatollah Ali Khamenei forbidding the development and use of nuclear weapons.",
@@ -450,6 +450,16 @@
       "pub_date": "2026-11-04"
     },
     "https://www.reuters.com/world/india/rupee-rally-after-us-midterm-fallout-sinks-oil-iran-war-exit-hopes-2026-11-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.reuters.com/business/energy/oil-falls-fourth-day-expectations-lower-risk-iran-war-escalation-2026-11-05/": {
       "summary": "",
       "tags": [
         "extracted",
@@ -625,6 +635,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 23:20 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793845200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQME9GZlNzY1R1djlUYWZnQ2lQRXE3ZHoxQ1VhOEZhaVRyVTY3TWZIRXhNMDNaemNtb0NFNzJZeTZtYlRCX0FtbFlYenA4Z0gtSkZBZVFRQThHZkRtcHhsR09wWXVhdl9CLUQ2Z19JNWpFWlI0N013RFR4VDFrSTFoZzVQS3F5Y216eWdlMTlZbWxldWY4TXh0M09TLTBuX3lUZ1ZWRzVaRHhxSENxT3E4Qlpwd0E?oc=5",
@@ -1008,6 +1032,20 @@
           "published": "Nov 04, 2026 · 21:59 BRT",
           "pub_date": "2026-11-04",
           "pub_ts": 1793840349,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How Trump Lost the Midterms - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qOTh0RkcxVGtSeGtSUUFZVFJtQ1VpS1VjWDgwcTF2NGluYXdPdmd5VURDR2kwSlJCUl9Tcl82SzFPcFV3OWZrRnVEQ2doQjFUZjBLNVVWTi1TTk9QZDZOd0ZQLTl1VHA2YXF5aTRSR0FycnNyeS1J?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 21:04 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793837086,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

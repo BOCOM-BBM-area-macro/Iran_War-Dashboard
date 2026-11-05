@@ -241,7 +241,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/": {
       "summary": "",
@@ -488,6 +488,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-04"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-05/emirates-profit-drops-66-as-iran-war-high-oil-prices-hit-dubai-airline": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-05"
     }
   },
   "last_digest_success": true,
@@ -1025,6 +1035,20 @@
       "theme": "Refined Petroleum Products",
       "articles": [
         {
+          "title": "Explainer: How the Democratic sweep could change US energy policy - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVlEaW9lb05hT0RtOW5tUnZ1Yk5RUXV0aU5sTFlodXZ6T3dnVWdkUHpqdm45VU5mYlZIT1dFcmdCRmo1UmwxUHljMnMzX2w2S3lkMXdHQy1ZZFhCTlkyTTYzejluSF9GdXFoSEdnN0E3NjlSd0xWWEo1NEhzR1VNLWN1U21OamxGS2V6Nk5uTjZjWXAyVHNTVUhCdTJhRGRzR29Tcg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 19:16 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793830615,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "ANALYSIS | JD Vance blames war in Iran for Republicans' midterm disaster - CBC",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5LUUyQXVTYldYX2JENmVBT3FoX1E0ZHRaSFVhVzlydlhHVGpKbW9QWGlFWlJKNGZXUWlDcDdvb0JJc29zekRoZzk2T0taTGF3UE54aFlSR1EzeS1uUDBYb0lvTmFRcHBJSFBUSTljMUM1VjZLbjhndEllazA?oc=5",
           "source": "CBC",
@@ -1075,6 +1099,20 @@
           "published": "Nov 02, 2026 · 14:16 BRT",
           "pub_date": "2026-11-02",
           "pub_ts": 1793639772,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How High Are Gas Prices Where You Live? - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFFyMEw4dDc1S2JPR0dWakJ3ZHVweTNnX29SUl9KbUEtTnI1ZjVyME96MFRxdkZEY3pNNl85SDkyVklUdm5nTTBKTUdodmdKaDhXNENnX2V2MUlDZ3Jpcks3RTVRTWV6cHo3SjZfU1hKU0szdzhFRXZ2a0R5LUlCaHBUR0RyNl9tRzcwUlk1WWlwYzZKMXFVanA0aENpNFd1a3cw?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 02, 2026 · 08:20 BRT",
+          "pub_date": "2026-11-02",
+          "pub_ts": 1793618400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -81,7 +81,7 @@
       "pub_date": "2026-11-04"
     },
     "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html": {
-      "summary": "",
+      "summary": "That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -241,7 +241,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/": {
       "summary": "",
@@ -395,6 +395,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-01"
+    },
+    "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
+    },
+    "https://www.washingtonpost.com/national-security/2026/11/04/knives-out-pentagon-after-unpopular-iran-war-dooms-gop-midterms/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-04"
     }
   },
   "last_digest_success": true,
@@ -556,7 +576,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-04T23:09:22.669767+00:00",
   "last_generated_date": "2026-11-04",
-  "last_generated_time": "2026-11-04T21:02:27.493194+00:00",
+  "last_generated_time": "2026-11-04T22:02:14.093653+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -565,6 +585,20 @@
         {
           "title": "Oil Steadies After 8% Plunge on Hopes for End to US-Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 20:08 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793833681,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Steadies After 8% Plunge on Hopes for End to US-Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkFMSEhCUUFxYkdzRnlBY1lnRnNheWhMTXM1QVh1RG5uZEFZb0Z4TS1RWkZQQTZkbFVSalgzTHE2MnR3RVlLcGV4cm5mUUtiTTJJcWN4c2phYjFhQ25saFJNNGdKdXZnZDJEUXZHbHA3WVkzbGZGQmxhQzU4M3Jkc01ocWp4elZYVS1PRy15YnRhZ1FUSUJlNzFaV1k1MENkZXNOekt6VHNERnVDODltSjRaTXZCT2pr?oc=5",
           "source": "Bloomberg.com",
           "domain": "news.google.com",
           "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
@@ -1002,6 +1036,20 @@
           "published": "Nov 04, 2026 · 17:14 BRT",
           "pub_date": "2026-11-04",
           "pub_ts": 1793823296,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXl0RG9oOUJld0xCR2tyS2JuVTctdmVnZTdFM0h2aWZxQXRaWnNiNTJOMzZtOTVlQnNFTmVlNzZPUVFYLXp0UkxvS19sVjVwMl9KU0RNb1JCRW1HbW5LampiRTZfYXNyZHJkSk1OczVidThvQm5qLTRQR3gxSHUxZGNNVGU?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 04, 2026 · 15:34 BRT",
+          "pub_date": "2026-11-04",
+          "pub_ts": 1793817261,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

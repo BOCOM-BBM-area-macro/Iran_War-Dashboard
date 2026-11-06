@@ -38,7 +38,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-05"
+      "pub_date": "2026-11-04"
     },
     "https://www.reuters.com/world/middle-east/beaten-home-trump-faces-stark-choice-iran-deal-or-escalation-2026-11-04/": {
       "summary": "",
@@ -754,6 +754,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-06"
+    },
+    "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-05"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-06/iran-war-forces-gulf-states-to-rethink-oil-us-security-and-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
     }
   },
   "last_digest_success": true,
@@ -914,6 +944,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The Gulf Faces Three Choices It Can No Longer Avoid - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjRvUVdDMF8yMk5xYU9ZS0xucTlvSGR0c2ZVRmhvQ0ZEc0pJTHl6aS13WktoSTJCZ3NmR0VSLXRqTVF4MFozbi1XTnhrdUZKMWg3WTE1c2pxQkxhOVBrOHIxVGkxakJUTk5DVkJPX05JdHhhLWpabjBKVkVFcmNXZFBkQWYxUXdLV0NlSmhUdlpHVk5qWWlKRU01RXQ5WUdKUzdkWkdYOTRGUmV4SVB5RVRXZDcta0E?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 06, 2026 · 02:30 BRT",
+          "pub_date": "2026-11-06",
+          "pub_ts": 1793943000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "As high oil prices curb demand, fresh signs of glut appear - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR?oc=5",

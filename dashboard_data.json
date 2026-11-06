@@ -520,7 +520,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-05"
+      "pub_date": "2026-11-06"
     },
     "https://www.bloomberg.com/news/newsletters/2026-11-05/donald-trump-s-talk-of-war-in-iran-cooled-by-midterm-rout": {
       "summary": "",
@@ -880,6 +880,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-06"
+    },
+    "https://www.axios.com/2026/11/06/iran-war-renewables-iea-report": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.ft.com/content/7158f9d1-94b2-404f-b26e-7ebbf8cd1169?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.nytimes.com/2026/11/05/opinion/vance-trump-iran-midterms.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-05"
     }
   },
   "last_digest_success": true,
@@ -1035,7 +1065,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-06T11:10:22.850743+00:00",
   "last_generated_date": "2026-11-06",
-  "last_generated_time": "2026-11-06T10:01:59.032480+00:00",
+  "last_generated_time": "2026-11-06T11:02:18.707068+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1682,6 +1712,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "Iran's security chief discusses regional, bilateral affairs with Putin - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkR5dEUwb2FoSDZrZ2p1UVF1T3VzbjEwSmhUWFBSeElYM0lHamE3SE0zYVViRHNqZ2piYTBjbWtoZThDU01hQmpYRFlwMHJTTFl3S2MyWnFoZWh1VTRCdEFvckJZcHktYjNpMWxLbU1vOGp3N0k1Yi1FZ0xTMXYzU2I2OHVZeGZrVXdiUmJOZ0phb2dLTjVGTTQ4aGF0WEdOLTVzS2RLQzBYNXR5?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 05, 2026 · 15:59 BRT",
+          "pub_date": "2026-11-05",
+          "pub_ts": 1793905140,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "European Gas Drops as US Vote Spurs Hopes for Iran Resolution - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXFrakVrMkV5UVktbmFxTnZVNl93UEdqaWVOeTB2UTdOdDRJc1F0Ym5yekRSX2dfb1hQWDlyWkRVdmk2ZFFfUDNQU21CelVTaFF5a0h6X1lrVWI3Ull1ZWgzVk91eGRWVjVjTzVrNzZkTXRGRm5qcmV3OTVTclB0TnZ2UmhNUHpsS3Q3RUVWeDE1c043cldHVkJLcWhGTEhOTlVuVThpS3JMVThwN0V0OGxR?oc=5",
           "source": "Bloomberg.com",
@@ -1868,6 +1912,25 @@
           "published": "Nov 03, 2026 · 13:25 BRT",
           "pub_date": "2026-11-03",
           "pub_ts": 1793723107,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        }
+      ]
+    },
+    {
+      "theme": "Naphta/Petrochemical",
+      "articles": [
+        {
+          "title": "India October fuel demand hits highest since March - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNldNRVhtMkdWVEtEUjVPS0VkVzdET3RpSDg1U1pZemhOb3RIX3pUSFlhVWk0T1pCODFIdUxpUzRYLWZld29aUGFSVXQ1dTZxX29hQXFEeEJvUHJMaVF5UDhoeFpxeFpjczVWelZaQTNkVkxOa3h5R3BrekU3aFJnbDBoNGYtM3ZmaWZDWUFRNDdtbENiTUhrdmUyVmhjMjQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 06, 2026 · 10:17 BRT",
+          "pub_date": "2026-11-06",
+          "pub_ts": 1793971064,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

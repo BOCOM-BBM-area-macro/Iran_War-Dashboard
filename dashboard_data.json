@@ -28,7 +28,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-05"
+      "pub_date": "2026-11-04"
     },
     "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html": {
       "summary": "",
@@ -875,12 +875,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-05T11:09:26.411226+00:00",
   "last_generated_date": "2026-11-05",
-  "last_generated_time": "2026-11-05T21:02:14.730726+00:00",
+  "last_generated_time": "2026-11-05T22:02:08.165604+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Heads for Steep Weekly Loss as Mideast Peace Prospects Rise - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2FseVdkSnNlWHNYeDZGNFRzZ3pSXzZEb3RrV21OeE1qRUh4T1dad1Y1M25aSV9sODlETUU1TXQza3pjTGxhMFJ2TDdhdGJmZkJCbkk0eWJPTDdLRks0Z1lVemNXRmVobmtpNzJiYzE5SHQySHItWUlaTXJGSVpZUm9rSDhiOVdyLUw2UGpGbHV6LVFaRlhkXzZMXzE?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 05, 2026 · 21:08 BRT",
+          "pub_date": "2026-11-05",
+          "pub_ts": 1793923680,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "After US midterms, is there a time limit on the Iran war? - analysis - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGdZYUJiQUU4cFNFckZkUjJEX0tGWWZmSHNRYlZoN1Fpb3hzVkY5dTdiSlRvdTI0ZnZoZmN1cHVwRzlUOGpfcVFIVm54SDFHSFRNaTFYdTc3Tk9Xa2hMNmFadzV3bkJ6Vnc?oc=5",

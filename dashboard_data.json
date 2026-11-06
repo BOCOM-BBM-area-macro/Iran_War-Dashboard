@@ -510,10 +510,13 @@
       "pub_date": "2026-11-05"
     },
     "https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd": {
-      "summary": "",
+      "summary": "Plus, billions of dollars in orders are complicating an end to U.S. aid to Israel, and the blue wave sets off a potential regime change in markets.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Pharmaceuticals",
+        "Healthcare/Life Sciences",
+        "Manufacturing",
+        "Asia",
+        "Dragonfly - Middle East"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -737,6 +740,16 @@
       "tags": [
         "extracted",
         "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.reuters.com/video/watch/idRW627306112026RP1/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

@@ -920,6 +920,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-06"
+    },
+    "https://www.wsj.com/world/middle-east/whats-next-for-iran-peace-talks-after-the-midterms-a031003c": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-war-spurs-crackdown-on-clerics-in-tiny-gulf-state-bahrain/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
     }
   },
   "last_digest_success": true,
@@ -1075,7 +1095,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-06T11:10:22.850743+00:00",
   "last_generated_date": "2026-11-06",
-  "last_generated_time": "2026-11-06T12:02:10.466656+00:00",
+  "last_generated_time": "2026-11-06T13:02:17.255991+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1188,6 +1208,20 @@
           "published": "Nov 05, 2026 · 15:46 BRT",
           "pub_date": "2026-11-05",
           "pub_ts": 1793904386,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Tankers hit in Hormuz as Iran keeps up pressure after US vote - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 05, 2026 · 13:47 BRT",
+          "pub_date": "2026-11-05",
+          "pub_ts": 1793897249,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -241,7 +241,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-03"
+      "pub_date": "2026-11-02"
     },
     "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/": {
       "summary": "",
@@ -817,6 +817,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.jpost.com/international/article-914044": {
+      "summary": "One of the detainees attempted suicide once he learned he could be deported to Iran, according to the Iranian American Legal Defense Fund’s executive director Yasmine Chubin.",
+      "tags": [
+        "Iran",
+        "islamic regime",
+        "Donald Trump",
+        "immigration",
+        "Trump Administration"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.ft.com/content/d89a6369-7572-42e4-b3eb-413b462c587d?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-06/trump-holds-call-with-mediator-qatar-about-iran-de-escalation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
     }
   },
   "last_digest_success": true,
@@ -972,12 +1015,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-06T11:10:22.850743+00:00",
   "last_generated_date": "2026-11-06",
-  "last_generated_time": "2026-11-06T08:02:07.602285+00:00",
+  "last_generated_time": "2026-11-06T09:02:04.382300+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Declines on Signs of Moves Toward Gulf War De-Escalation - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXNmZnh6cENKbU1vdHBCWUxseFF6ZlpFenZlcFRxMjZjT0RveUdzRkdRZFpoMk5BWUN4SnNqRGJSbENOSGtlbHVDWFhOS1FmakR3WmJIRzhlNmVOYW5udGlCSGhVWW1rWU5zdVkxeFcwVEpfNG16SUIzQUswRDI3N2VSd3NKZnBtRmxaWmpBalZtXzFob2owdDZYUVJrbW5kMWhGd3loeERqdmpXVW00TA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 06, 2026 · 08:30 BRT",
+          "pub_date": "2026-11-06",
+          "pub_ts": 1793964655,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "IAG Says It Will Keep Rewarding Investors Even as Fuel Surges - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGluREF0VnBfUDRYc0pmMnlJaV95ZnpReDdTQ19zYUo3N0pYOVVaNVZHTXhtdHlBdXdYYjh0M2FkNzlxai1OM2ltbUlocGtvOS1RR3JUMUc1WGgxZEhmbUttWFpFVklnaG1BNnR5dUJUeHNwVE4zRktUaklOMk54d1BVQ0Z1YTNOQlFlWmpOZF9MenhyZl9JWlNqNk94TjY0dTZ0Z0thTHF6UTM3LWtRYm5B?oc=5",

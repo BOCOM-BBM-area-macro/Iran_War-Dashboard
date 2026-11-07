@@ -407,7 +407,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-04"
+      "pub_date": "2026-11-05"
     },
     "https://www.washingtonpost.com/national-security/2026/11/04/knives-out-pentagon-after-unpopular-iran-war-dooms-gop-midterms/": {
       "summary": "",
@@ -983,6 +983,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-06"
+    },
+    "https://www.washingtonpost.com/politics/2026/11/06/iran-war-nuclear-program-negotiations-trump/f9983220-da2f-11f1-930a-e08f8086f5ac_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.reuters.com/world/middle-east/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-says-2026-11-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
     }
   },
   "last_digest_success": true,
@@ -1138,7 +1158,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-06T11:10:22.850743+00:00",
   "last_generated_date": "2026-11-06",
-  "last_generated_time": "2026-11-06T20:02:05.900256+00:00",
+  "last_generated_time": "2026-11-06T21:02:13.213809+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1989,6 +2009,20 @@
           "published": "Nov 03, 2026 · 22:33 BRT",
           "pub_date": "2026-11-03",
           "pub_ts": 1793756015,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "America Is Making a ‘Freaking Fortune’ in an Energy Crisis - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG5ja0ZiLURDZnZwLUVyQlhzVjlkR1hCUVpvRHJrTjBtejdmemREelI3QVBUS05BQmFlVVlZeV9SaHZ0S2lwVFN3LUxJd3ZWQ2xvNlpXbGRSdUp0ZFN2U1hUSHVNUDFPRmdWUXZhZlpuQjM2cjFYdC11cU9EMmJYZWc0emppeEQ4UTZsZlM1UnRILVZkdlBmT0Zac21ncnh1Sng0Wm4wRi1GNUZwOU5xQQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 02, 2026 · 02:00 BRT",
+          "pub_date": "2026-11-02",
+          "pub_ts": 1793595600,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

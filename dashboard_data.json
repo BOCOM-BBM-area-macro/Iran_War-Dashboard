@@ -480,7 +480,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-06"
+      "pub_date": "2026-11-05"
     },
     "https://www.reuters.com/legal/government/us-slaps-sanctions-indian-turkish-firms-people-aiding-iran-2026-11-04/": {
       "summary": "",
@@ -1019,6 +1019,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-06"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iranian-military-claims-its-now-stronger-than-at-start-of-war-with-israel-and-us/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

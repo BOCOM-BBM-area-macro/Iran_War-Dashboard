@@ -1086,6 +1086,38 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-07"
+    },
+    "https://www.washingtonpost.com/opinions/2026/11/06/trumps-wounded-presidency-turns-two-iran-ukraine-wars/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-07"
+    },
+    "https://www.timesofisrael.com/trump-us-launched-minor-strikes-on-iran-targeting-a-little-bit-of-an-anti-aircraft-device/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914130": {
+      "summary": "Task Force Iron Gate, as it will be called, will be based in Tampa, Florida, and will coordinate with other US government agencies.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "CENTCOM"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-07"
     }
   },
   "last_digest_success": true,
@@ -1241,7 +1273,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-07T11:08:37.513869+00:00",
   "last_generated_date": "2026-11-07",
-  "last_generated_time": "2026-11-07T11:02:13.034260+00:00",
+  "last_generated_time": "2026-11-07T12:02:11.397836+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -1053,6 +1053,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914097": {
+      "summary": "Iran's semi-official Tasnim news agency said earlier that initial reports indicated that two missiles had struck Qeshm Island, adding that there was no official information on possible damage.",
+      "tags": [
+        "Iran",
+        "iran missiles",
+        "us iran",
+        "missiles",
+        "Hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-07"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/bessent-said-to-reach-out-to-china-to-help-end-iran-war-after-republicans-midterm-election-defeat/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-07"
     }
   },
   "last_digest_success": true,
@@ -1208,7 +1231,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-07T11:08:37.513869+00:00",
   "last_generated_date": "2026-11-07",
-  "last_generated_time": "2026-11-07T08:01:50.253660+00:00",
+  "last_generated_time": "2026-11-07T09:02:09.735631+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -1293,6 +1316,20 @@
           "published": "Nov 06, 2026 · 02:30 BRT",
           "pub_date": "2026-11-06",
           "pub_ts": 1793943000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Crude gains on worries about renewed US attacks on Iran - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 05, 2026 · 23:49 BRT",
+          "pub_date": "2026-11-05",
+          "pub_ts": 1793933340,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

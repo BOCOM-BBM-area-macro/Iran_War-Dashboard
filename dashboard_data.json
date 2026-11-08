@@ -244,7 +244,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/": {
       "summary": "",
@@ -1428,6 +1428,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-08"
+    },
+    "https://www.jpost.com/middle-east/article-914263": {
+      "summary": "Iraqi oil will move through the Strait of Hormuz via a shipping lane near Oman, Foreign Minister Fuad Hussein said, under understandings reached with Washington.",
+      "tags": [
+        "Iran",
+        "United States",
+        "oil",
+        "Oman",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
     }
   },
   "last_digest_success": true,
@@ -1592,12 +1605,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-08T11:07:16.462812+00:00",
   "last_generated_date": "2026-11-08",
-  "last_generated_time": "2026-11-08T16:01:55.719257+00:00",
+  "last_generated_time": "2026-11-08T17:02:11.341289+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iraq FM: Iran war cost $60b in lost oil exports, reaches understanding with US - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 08, 2026 · 16:35 BRT",
+          "pub_date": "2026-11-08",
+          "pub_ts": 1794166551,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LTWpLTkZ0UWxqZ2NwbFhhMDlnRG0ycHlxdmdzYWNMOTJDUndtM0lQUFIyTWR1OTBleXVlQTlpcTBvVlpvM0dZNlZ2UVhkaEJJQlZuMmt3TUdPcHRjVElsNXVBVVNFaHhUQ2NVWGZXM1hJbGtsYm5F?oc=5",
@@ -1733,6 +1760,20 @@
           "published": "Nov 06, 2026 · 02:30 BRT",
           "pub_date": "2026-11-06",
           "pub_ts": 1793943000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Markets fret over growth and inflation, just as tech rout gains speed - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 06, 2026 · 02:09 BRT",
+          "pub_date": "2026-11-06",
+          "pub_ts": 1793941740,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

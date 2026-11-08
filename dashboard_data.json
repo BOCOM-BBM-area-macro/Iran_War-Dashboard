@@ -1341,6 +1341,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-08"
+    },
+    "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.reuters.com/world/americas/pope-leo-heads-mileis-argentina-tensions-loom-over-austerity-iran-2026-11-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
     }
   },
   "last_digest_success": true,
@@ -1505,12 +1525,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-08T11:07:16.462812+00:00",
   "last_generated_date": "2026-11-08",
-  "last_generated_time": "2026-11-08T12:01:57.567283+00:00",
+  "last_generated_time": "2026-11-08T13:01:55.855576+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LTWpLTkZ0UWxqZ2NwbFhhMDlnRG0ycHlxdmdzYWNMOTJDUndtM0lQUFIyTWR1OTBleXVlQTlpcTBvVlpvM0dZNlZ2UVhkaEJJQlZuMmt3TUdPcHRjVElsNXVBVVNFaHhUQ2NVWGZXM1hJbGtsYm5F?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 08, 2026 · 12:39 BRT",
+          "pub_date": "2026-11-08",
+          "pub_ts": 1794152352,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How the Iran war has made it harder to buy a home - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHVoTGdnOFNMV0VBclNuWW5EX3lZb19lWG9HcXFtaHBNdzZTYzBCNk9sMXJndTVabVk5b0VZSXItblJlWHo3Sl9VcnQtU0VocEI2cW4zejJ0eHljbDY0cm4yNFlILThPRnUyUmtlWlJNYzBTdkJKcWhhSF9VM3ozbHJrSndyME54eDBBaVprOTNKUFF0NUxyY1R6TlRJcHpkNmNrN2xR?oc=5",

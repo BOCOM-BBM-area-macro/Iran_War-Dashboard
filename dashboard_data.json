@@ -932,7 +932,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-06"
+      "pub_date": "2026-11-08"
     },
     "https://www.timesofisrael.com/liveblog_entry/iran-war-spurs-crackdown-on-clerics-in-tiny-gulf-state-bahrain/": {
       "summary": "",
@@ -1012,7 +1012,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-08"
+      "pub_date": "2026-11-06"
     },
     "https://www.bloomberg.com/news/articles/2026-11-07/australia-s-albanese-urges-iran-de-escalation-after-us-midterms": {
       "summary": "",
@@ -1214,52 +1214,92 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914189": {
+      "summary": "A broader offensive, continued pressure, negotiated compromise, or a limited strike are potential options, according to Raz Zimmit, director of the Iran and the Shiite Axis research program at INSS.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "Tehran",
+        "iran and us"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914191": {
+      "summary": "The Iranian representative reportedly ignored Brot and his associates and tried to walk away, prompting the team to chase him through the streets of Manhattan until Brot had read the lawsuit.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United Nations",
+        "bat yam",
+        "missiles"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/katz-urges-unity-in-light-of-iran-nuclear-threat-at-memorial-for-1956-suez-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-07T11:08:29.208657+00:00",
+  "last_digest_time": "2026-11-08T11:07:01.915055+00:00",
   "digest": {
-    "digest": "Recent developments indicate ongoing diplomatic efforts to de-escalate the Iran war, with Qatar actively mediating between the US and Iran. These efforts aim to prevent further escalation and potentially lead to a deal to end the conflict. Concurrently, military actions have been reported, including missile strikes on Iran's Qeshm Island. Iran's military has also made claims regarding its strengthened position relative to Israel and the US. The conflict's impact extends to regional dynamics, influencing the renewables landscape and prompting a crackdown on clerics in Bahrain. Discussions surrounding the nuclear issue have resurfaced, suggesting a potential pathway towards a deal. Oil prices have shown declines, reflecting signs of moves toward de-escalation in the Gulf. Advisers are reportedly pressing the US President on decisions regarding the Iran war, while calls for the removal of a commentator defending the war have also emerged. Peace talks are being considered in the context of post-midterm election political landscapes.",
+    "digest": "Recent developments indicate a multi-faceted escalation in the Iran conflict. The US military has expanded its strategy beyond a naval blockade to include disrupting Iranian land commerce routes, as evidenced by actions in the Gulf of Oman. Concurrently, diplomatic efforts appear stalled, with Iran viewing the US midterm election results as a sign of political cost for its adversaries, potentially strengthening its domestic narrative of resistance rather than opening new diplomatic avenues. Israel faces its own political uncertainty following its recent election, though its core security concerns regarding Iran's nuclear capabilities remain paramount. A notable event involved the Bat Yam mayor serving a NIS 250 million lawsuit to an Iranian diplomat in New York over alleged damages from missile attacks, highlighting a legal dimension to the conflict. Experts suggest that despite political shifts, the immediate threat of military action against Iran remains, with options ranging from continued pressure to limited strikes, though the effectiveness and risks of each are debated. The core issue of Iran's nuclear program and its opaque stockpile continues to be a significant concern, with the IAEA facing challenges in verification. The conflict's economic impact is also noted, affecting regions like Alaska. The failure to dismantle Iran's missile and drone capabilities is identified as a significant strategic failure by former military officials.",
     "top_themes": [
-      "Diplomatic Mediation Efforts",
-      "Military Developments",
-      "Economic Impact"
+      "US-Iran Military Confrontation",
+      "Iran Nuclear Program",
+      "Geopolitical Ramifications of US Midterm Elections"
     ],
     "next_events": [
       {
-        "title": "US Policy Direction on Iran War",
-        "description": "With Trump's advisors reportedly clashing over the Iran war decision and key figures defending the conflict, analysts should closely watch for any definitive policy shifts or statements from the US administration. This will indicate whether the US intends to escalate, de-escalate, or maintain its current posture, significantly influencing the conflict's trajectory."
+        "title": "US Executive Actions Before New Congress",
+        "description": "With President Trump retaining full executive power until January 3, 2027, despite the Democratic midterm victory, there's a critical window for potential unilateral military actions or significant policy shifts against Iran. Analysts should closely monitor any such moves, as congressional oversight will be limited during this transitional period."
       },
       {
-        "title": "Progress in US-Iran Diplomatic Talks",
-        "description": "Qatar's continued mediation efforts and reports of the US and Iran edging closer to a deal, particularly on the nuclear issue, signal potential diplomatic breakthroughs. Monitor any official announcements from mediators or involved parties regarding peace talks, as a successful resolution or even a partial agreement could lead to significant de-escalation."
+        "title": "Iran's Nuclear Program Status and IAEA Access",
+        "description": "The International Atomic Energy Agency (IAEA) has lost access to key Iranian facilities, leaving the current state of Iran's enriched uranium stockpile and potential undeclared sites uncertain. Watch for any new intelligence, satellite imagery, or IAEA statements that could shed light on Iran's nuclear advancements, which remain a primary concern for regional stability."
       },
       {
-        "title": "Escalation of Regional Military Incidents",
-        "description": "Recent missile strikes on Iran's Qeshm Island and Iran's claims of increased military strength highlight ongoing tensions. Analysts must watch for any further military actions, retaliatory strikes, or clashes in the region, as these incidents could quickly escalate the conflict and draw in additional actors."
+        "title": "Expansion of US Military's Anti-Iran Blockade",
+        "description": "The US military is reportedly planning to expand its strategy beyond naval blockades to disrupt Iran's land commerce routes. Observe any concrete actions or policy announcements regarding these new restrictions, as their implementation could significantly escalate regional tensions and impact Iran's economy."
       },
       {
-        "title": "Regional Spillover and Internal Stability",
-        "description": "The Iran war is already impacting regional stability, evidenced by crackdowns on clerics in Bahrain. Monitor other Gulf states and the broader Middle East for signs of increased internal dissent, government responses, or proxy conflicts, as the war's ripple effects could destabilize allied nations and create new flashpoints."
+        "title": "Future of US-Iran Diplomatic Engagement",
+        "description": "Despite ongoing discussions, Iran remains hesitant to accept substantial compromises, preferring to strengthen its domestic resistance narrative and encourage Arab states to reduce reliance on Washington. Monitor for any renewed diplomatic overtures from either the US or Iran, and assess Iran's specific conditions for re-engagement, which could signal a shift towards de-escalation or further entrenchment."
       },
       {
-        "title": "Impact on Global Energy Markets",
-        "description": "The conflict has already influenced oil prices and the renewables landscape, with signs of de-escalation leading to oil declines. Watch for continued volatility in global oil prices, disruptions to energy supply chains, and shifts in investment towards renewable energy, as these economic indicators will reflect market perceptions of the war's intensity and duration."
+        "title": "Israeli Government Formation and Iran Policy",
+        "description": "Prime Minister Netanyahu's weakened political position following the Israeli election creates uncertainty in government formation, though Israel's core assessment of the Iranian nuclear threat is unlikely to change. Watch for developments in coalition talks and any public statements from incoming or caretaker Israeli leaders regarding their strategy towards Iran, particularly concerning potential military options."
+      },
+      {
+        "title": "International Legal Challenges Against Iran",
+        "description": "The Bat Yam municipality has initiated a NIS 250 million lawsuit against Iran for missile attack damages, with Iran having 60 days to respond. Observe Iran's official reaction to this unprecedented legal action and the potential for similar lawsuits, which could open new avenues for international pressure and accountability against the regime."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-07T11:08:36.974908+00:00",
+  "last_watch_time": "2026-11-08T11:07:15.918536+00:00",
   "relevant_news": [
     {
-      "title": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-says-2026-11-06/",
+      "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/expanding-naval-blockade-us-military-looks-restrict-iranian-land-commerce-2026-11-07/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 06, 2026 · 20:04 BRT",
-      "pub_date": "2026-11-06",
-      "pub_ts": 1794006252,
+      "published": "Nov 07, 2026 · 10:36 BRT",
+      "pub_date": "2026-11-07",
+      "pub_ts": 1794058560,
       "summary": "",
       "tags": [
         "extracted",
@@ -1271,14 +1311,54 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran war spurs crackdown on clerics in tiny Gulf state Bahrain - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-war-spurs-crackdown-clerics-tiny-gulf-state-bahrain-2026-11-06/",
+      "title": "U.S. military seeks to disrupt Iran’s land routes, expanding on naval blockade - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/11/07/us-military-seeks-disrupt-irans-land-routes-expanding-naval-blockade/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Nov 07, 2026 · 21:08 BRT",
+      "pub_date": "2026-11-07",
+      "pub_ts": 1794096528,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Not destroying Iran's missiles, drones 'most significant failure,' former CENTCOM deputy cmdr. says - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914131",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 07, 2026 · 12:58 BRT",
+      "pub_date": "2026-11-07",
+      "pub_ts": 1794067130,
+      "summary": "He stressed that any Iranian regime loyal to the Islamic Revolution \"will always have the motivation to restore its capabilities,\" warning that this would include nuclear weapons if given the chance.",
+      "tags": [
+        "Iran",
+        "United States",
+        "president",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "US military says it disabled cargo vessel in Gulf of Oman - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-disabled-cargo-vessel-gulf-oman-2026-11-07/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 06, 2026 · 11:21 BRT",
-      "pub_date": "2026-11-06",
-      "pub_ts": 1793974904,
+      "published": "Nov 07, 2026 · 18:22 BRT",
+      "pub_date": "2026-11-07",
+      "pub_ts": 1794086520,
       "summary": "",
       "tags": [
         "extracted",
@@ -1290,52 +1370,36 @@
       "sentiment_success": false
     },
     {
-      "title": "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-and-iran-edge-closer-to-deal-with-nuclear-issue-back-in-play",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 06, 2026 · 14:30 BRT",
-      "pub_date": "2026-11-06",
-      "pub_ts": 1793986224,
-      "summary": "",
+      "title": "'No good options' for Iran war after Trump's midterm defeat, Israeli election results - analysis - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914189",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 08, 2026 · 07:18 BRT",
+      "pub_date": "2026-11-08",
+      "pub_ts": 1794133099,
+      "summary": "A broader offensive, continued pressure, negotiated compromise, or a limited strike are potential options, according to Raz Zimmit, director of the Iran and the Shiite Axis research program at INSS.",
       "tags": [
-        "extracted",
-        "bloomberg.com"
+        "Benjamin Netanyahu",
+        "Iran",
+        "United States",
+        "Tehran",
+        "iran and us"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
+      "full_text": "Iran\nwar\ncaught\nbetween\nTrump's\nmidterm\ntroubles,\nIsrael's\nelection\nshake-up\n|\nThe\nJerusalem\nPost\n‘No\ngood\noptions’:\nIran\nwar\ncaught\nbetween\nTrump's\nmidterm\ntroubles,\nIsrael's\nelection\nshake-up\nA\nbroader\noffensive,\ncontinued\npressure,\nnegotiated\ncompromise,\nor\na\nlimited\nstrike\nare\npotential\noptions,\naccording\nto\nRaz\nZimmit,\ndirector\nof\nthe\nIran\nand\nthe\nShiite\nAxis\nresearch\nprogram\nat\nINSS.\nFollow\nus\non\nGoogle\nA\npedestrian\nwalks\npast\na\nbillboard\ndepicting\nUS\nPresident\nDonald\nTrump\ninside\na\ncatering\ncontainer,\ninstalled\non\na\nbuilding\nalong\na\nstreet\nin\ndowntown\nof\nTehran\non\nAugust\n31,\n2026.\n(\nphoto\ncredit\n:\nATTA\nKENARE\n/\nAFP\nvia\nGetty\nImages\n)\nBy\nGIORGIA\nVALENTE/THE\nMEDIA\nLINE\nNOVEMBER\n8,\n2026\n12:18\nUpdated\n:\nNOVEMBER\n8,\n2026\n12:37\nThe\nDemocratic\nvictory\nin\nthe\nUnited\nStates\nmidterm\nelections\nhas\nreshaped\nthe\nbalance\nof\npower\nin\nWashington,\nbut\nit\nhas\nnot\nresolved\nthe\nconfrontation\nwith\nIran.\nUS\nPresident\nDonald\nTrump\nstill\ncontrols\nthe\nWhite\nHouse,\nPrime\nMinister\nBenjamin\nNetanyahu\nremains\nin\noffice\namid\na\ndifficult\ngovernment-formation\nprocess,\nand\nTehran\nis\ntreating\nthe\nRepublican\ndefeat\nas\nevidence\nthat\nthe\nwar\nhas\nimposed\npolitical\ncosts\non\nits\nadversaries.\nWhether\nthe\nnew\npolitical\nlandscape\nencourages\nescalation\nor\nnegotiation\nremains\nuncertain.\nFor\nmore\nstories\nfrom\nThe\nMedia\nLine\ngo\nto\nthemedialine.org\nThe\nfragility\nof\nthe\nsituation\nwas\ndemonstrated\non\nMonday,\nwhen\nUS\nforces\nconducted\nlimited\nstrikes\nagainst\nIranian\ntargets\non\nQeshm\nIsland,\ndescribed\nby\nAmerican\nofficials\nas\ndefensive\noperations\nrather\nthan\nthe\nresumption\nof\nmajor\nhostilities.\nOn\nThursday,\nIran's\nRevolutionary\nGuards\nCorps\n(IRGC)\nreported\nthat\ntwo\noil\ntankers\nand\na\ntugboat\nhad\ncaught\nfire\nin\nseparate\nincidents\nin\nthe\nStrait\nof\nHormuz,\nincluding\none\ntanker\nallegedly\nstriking\na\nmine.\nThe\nIranian\naccount\nhas\nnot\nbeen\nindependently\nverified.\nThe\nNovember\n3\nvote\nhanded\nDemocrats\ncontrol\nof\nboth\nthe\nHouse\nof\nRepresentatives\nand\nthe\nSenate,\nafter\na\ncampaign\nin\nwhich\nthe\neconomic\nconsequences\nof\nthe\nIran\nwar\nbecame\na\nsignificant\nliability\nfor\nRepublicans.\nBut\nthe\nnewly\nelected\nCongress\nwill\nnot\ntake\noffice\nuntil\nJanuary\n3,\n2027.\nUntil\nthen,\nRepublicans\nretain\ntheir\nexisting\ncongressional\nmajorities,\nand\neven\nafterward,\nDemocratic\ncontrol\nwould\nnot\nautomatically\nremove\nthe\npresident’s\nability\nto\norder\nmilitary\naction.\nCongress\ncan\ncontest\nfunding\nand\nauthorizations,\nbut\nthe\nscope\nof\npresidential\nwar\npowers\nremains\ndisputed.\nThe\nquestion\nis\nwhether\nanother\ncampaign\nwould\nachieve\nwhat\nprevious\noperations\nfailed\nto\nsettle\nor\nreproduce\nthe\nsame\nstalemate.\nA\nprotester\nholds\na\nbanner\nopposing\nthe\nwar\nwith\nIran\nduring\nUS\nDefense\nSecretary\nPete\nHegseth's\nopening\nremarks\nat\na\nSenate\nArmed\nServices\nCommittee\nhearing\non\nUS\nPresident\nDonald\nTrump's\nFY2027\nbudget\nrequest\nfor\nthe\nDepartment\nof\nDefence\non\nCapitol\nHill\nin\nWashington,\nDC,\nUS,\nApril\n30,\n20\n(credit:\nREUTERS/Eric\nLee)\nFor\nDr.\nNabi\nSonboli,\na\nsenior\nexpert\nat\nIran’s\nInstitute\nfor\nPolitical\nand\nInternational\nStudies,\nthe\ncentral\nuncertainty\nis\nTrump\nhimself.\n“I\nprefer\nnot\nto\nexpect\nany\nwise\ndecisions\nfrom\nTrump\nand\nhis\nteam.\nConfrontation\nis\nstill\npossible,”\nhe\ntold\nThe\nMedia\nLine.\nSonboli\nalso\ndoubts\nthat\ncongressional\nopposition\ncould\ncontain\nan\nescalation.\n“The\nUS\nCongress\nis\nnot\nable\nto\ncontrol\nTrump/Netanyahu\naxis\nno\nmatter\nhow\nmuch\ncosts\nthey\nimpose\non\nthe\nUS.”\nDr.\nRaz\nZimmt,\ndirector\nof\nthe\nIran\nand\nthe\nShiite\nAxis\nresearch\nprogram\nat\nIsrael’s\nInstitute\nfor\nNational\nSecurity\nStudies,\nsees\nthe\nUS\nadministration\nconfronting\na\nseries\nof\nimperfect\nchoices.\n“It's\nvery\ndifficult\nto\nassess,\nfirst\nof\nall,\nwhat\nwill\nbe\nthe\ndecision\nby\nPresident\nTrump,”\nhe\ntold\nThe\nMedia\nLine.\nHe\nidentified\na\nbroader\noffensive,\ncontinued\npressure,\na\nnegotiated\ncompromise,\nor\na\nlimited\nstrike\nas\npotential\noptions.\n“One\nis\nto\ncontinue\nwith\nhis\nplans\nto\nstrike\nIran.\nI\nthink\nhe\nrealizes\nthat\nthere\nare\nmany\nrisks\ninvolved\nin\nthis\nthird\nround\nof\nwar\nagainst\nIran,”\nZimmt\nsaid.\n“The\nsecond\noption\nis\nto\ncontinue\nwith\nthe\nstatus\nquo,\nputting\nmore\npressure\non\nIran.\nBut\nagain,\nthere\nis\nno\nguarantee\nthat\nat\nthe\nend\nof\nthe\nday\nit\nwill\nconvince\nIran\nto\noffer\nmore\nconcessions.”\nIran\nunlikely\nto\naccept\ncompromises\nUS\nlooking\nfor,\nanalyst\nsays\nA\ndiplomatic\nalternative\nalso\nfaces\nobstacles.\nZimmt\nsaid\nIran\nmight\naccept\nlimited\nconcessions\nconcerning\nthe\nsequence\nof\na\npossible\nagreement,\nbut\nnot\nthe\nsubstantial\ncompromises\nWashington\nseeks.\nA\nnarrower\nmilitary\noption\nwould\ncarry\nits\nown\ndanger:\neven\nan\nattack\nintended\nto\nend\nthe\nconfrontation\ncould\ntrigger\nan\nIranian\nresponse\nthat\nprolongs\nit.\n“But\nagain,\nnobody\ncan\nguarantee\nthat\nthe\nIranians\nwill\nnot\nrespond\nin\na\nway\nwhich\nwould\nescalate\nthings\neven\nfurther,”\nhe\nsaid.\n“So,\nwhat\nwe\nsee\ncurrently\nis\nthat\nthe\nimmediate\nthreat\nof\nstriking\nIran\nseems\nto\nbe\non\nhold,\nboth\nbecause\nof\nthe\npolitical\ncalculations\nin\nthe\nUS,\nbut\nalso\nbecause\nof\nthe\ncontinued\nnegotiations,”\nZimmt\nsaid.\nLimited\nclashes\naround\nthe\nStrait\nof\nHormuz\nand\nunresolved\ndisputes\nover\nsanctions,\nshipping,\nand\nnuclear\nactivity\ncontinue\nto\nmake\nescalation\npossible.\nTehran’s\ninterpretation\nof\nthe\nAmerican\nvote\nis\ndifferent.\nDr.\nEbrahim\nRoshandel,\na\nformer\nIranian\ndiplomat\nand\nstrategic\naffairs\nanalyst\nnow\nbased\nin\nthe\nUS,\nsaid\nthe\nelection\nresult\nhas\nprompted\nthe\nIslamic\nRepublic\nto\nstrengthen\nits\ndomestic\nnarrative\nof\nresistance.\n“Now,\nafter\nthis\nresult\ncame\nfrom\nthe\nelection,\nIranian\nleader\nand\nthe\nIRGC\ncommanders\nstrongly\ntry\nto\nchange\nthe\nnarrative\ninside\nof\nIran,”\nhe\ntold\nThe\nMedia\nLine.\n“At\nthe\nsame\ntime,\nit\ndoesn't\nmean\nthat\nthey\nare\ngoing\nto\nopen\nthe\nnew\ndoor\nin\ndiplomatic\nway\nto\nnegotiate\nor\nrespond\nto\nthe\nUnited\nStates,\nbecause\nthey\nhave\nsome\nconditions\nalready.”\nRoshandel\nbelieves\nTehran\nwants\nArab\nstates\nto\nreassess\ntheir\nreliance\non\nWashington,\npreferring\nthat\nthey\nsee\naccommodation\nwith\nIran\nas\nan\nalternative.\n“The\nfirst\nthings,\nI\nbelieve,\nthey\ntry\nto\ngive\nthe\nmessage\nto\nregional\ncountries,\nmostly\nArab\ncountries,\nto\nmake\na\nbig\ngap\nbetween\nUnited\nStates\nand\nthe\nArab\ncountries,”\nhe\nsaid.\nUS\nsoldier\nafter\nboarding\nan\nIranian\nship\nin\nthe\nStrait\nof\nHormuz,\nJuly\n17,\n2026.\n(credit:\nScreenshot/X/@PeteHegseth)\nHe\nalso\nargued\nthat\nTehran\nis\nattentive\nto\ndivisions\nwithin\nthe\nadministration\nover\nthe\nwar,\nnaming\nsenior\nofficials\nwhom\nhe\nbelieves\nfavor\ndifferent\napproaches\nto\nnegotiations\nand\nmilitary\nforce.\nThose\nare\nhis\ninterpretations,\nnot\nverified\naccounts\nof\nthe\nofficials’\npositions.\nZimmt\ncautioned\nthat\nthe\nRepublican\ndefeat\ndoes\nnot\nremove\nthe\nmilitary\nthreat\nto\nIran.\n“There's\nno\ndoubt\nthat\nthe\nIranians\nconsider\nthe\nfailure,\nthe\ndefeat\nof\nthe\nRepublicans\nas\na\nmajor\nsuccess,\nbut\nwe\nstill\nhave\nto\nremember,\nand\nthe\nIranians\nrealize\nthat,\nthat\nit\ndoesn't\nsolve\nthe\nIranian\nproblem,”\nhe\nsaid.\n“Trump\nis\nstill\nvery\nmuch\ncapable\nof\nstriking\nIran.\nThe\nIranians\ncertainly\ndon't\nwant\nthat\nto\nhappen.”\nIsraeli\nelection\nleaves\nNetanyahu\nweaker\nthan\nbefore\nA\nparallel\npolitical\nuncertainty\nis\nunfolding\nin\nIsrael.\nThe\nOctober\n27\nKnesset\nelection\nleft\nNetanyahu’s\nallied\nparties\nwith\n53\nof\n120\nseats,\ncompared\nwith\n48\nfor\na\nbloc\nassociated\nwith\nopposition\nfigure\nGadi\nEisenkot\n.\nThe\ntwo\nArab-led\nparties\nwon\n19\nseats,\nleaving\nno\nobvious\ngoverning\nmajority\nand\nnegotiations\nover\nthe\nnext\ngovernment\nunresolved.\nNetanyahu\ncontinues\nto\nlead\nthe\ncountry\non\na\ncaretaker\nbasis,\nbut\nhis\npolitical\nposition\nis\nweaker\nthan\nbefore\nthe\nvote.\nEven\nso,\nZimmt\ncautioned\nagainst\nassuming\nthat\na\nchange\nof\ngovernment\nwould\nfundamentally\ntransform\nIsrael’s\nassessment\nof\nIran.\n“Eisenkot\nmight\ncertainly\nadopt\na\nless\nhawkish\nposition,\nbut\nwhen\nit\ncomes\nto\nthe\nperception\nin\nIsrael,\nwhen\nit\ncomes\nto\nthe\nIranian\nthreats,\nthe\nnuclear\nthreat,\nthere\nis\nno\nreal\ndifference\nbetween\nEisenkot\nand\nNetanyahu,”\nhe\nsaid.\n“And\nagain,\nat\nthe\nend\nof\nthe\nday,\neveryone\nrealizes\nthat\nthe\ndecision\nis\nmade\nwhen\nit\ncomes\nto\nthe\nIranian\nfile\nin\nWashington,\nnot\nin\nJerusalem.”\nHe\nwas\nequally\ndirect\nabout\nNetanyahu’s\ninfluence\nover\nTrump.\n“First\nof\nall,\nNetanyahu\ndoesn't\nmake\nthe\ndecisions.\nWith\nall\ndue\nrespect\nto\nNetanyahu,\nhe\nprobably\ntried\nto\nconvince\nPresident\nTrump\nto\nstrike\nIran\nbefore\nthe\nelections.\nHe\nfailed\nto\ndo\nthat,\nand\ncurrently\nhe\ndoesn't\nhave\nany\nability\nto\nmake\nTrump\ndo\nanything,”\nhe\nsaid.\nOn\nelection\nday,\nTrump\nsaid\nhe\nand\nNetanyahu\nhad\nagreed\nthat\nWashington\nwould\nstop\nproviding\nwhat\nhe\ndescribed\nas\n$4\nbillion\na\nyear\nto\nIsrael\nafter\nthe\nend\nof\n2026.\nIt\nwas\nunclear\nwhich\nfunding\nhe\nmeant\nor\nhow\nthe\nchange\nwould\nbe\nimplemented.\nThe\nexisting\nmemorandum\nproviding\n$3.8\nbillion\nin\nannual\nmilitary\nassistance\nruns\nthrough\nSeptember\n2028.\nBeyond\nthese\npolitical\nchanges,\nIsrael’s\nunderlying\nsecurity\nconcerns\nremain.\nZimmt\ndisputes\nthe\nidea\nthat\nmissile\nproduction\nshould\nbe\nthe\nprincipal\nmeasure\nof\nwhether\nanother\noperation\nis\nnecessary.\n“Yes,\nIran\nstill\nhas\na\nlot\nof\nmissile\ncapabilities,\nbut\nthis\nis\nnot\nthe\nmain\nproblem,”\nhe\nsaid.\n“The\nmain\nproblem\nright\nnow\nis\nthat\nwe\nstill\nhave\nno\nsolution\nwhatsoever\nto\nthe\nnuclear\ncapabilities\nwhich\nare\nstill\nheld\nby\nIran.”\nIran\nuranium\nstockpile\nstill\nin\nunknown\nsite\nHe\ndescribed\ntwo\nunsatisfactory\npaths:\na\nnegotiated\nagreement\nthat\ncould\ndeliver\neconomic\nbenefits\nto\nthe\nIranian\ngovernment,\nor\nmilitary\naction\nthat\nmight\ndamage\nfacilities\nwithout\neliminating\nthe\nknowledge,\nequipment,\nand\nmaterial\nassociated\nwith\nthe\nprogram.\nThe\nInternational\nAtomic\nEnergy\nAgency\nhas\nbeen\nunable\nto\nverify\nthe\npresent\nlocation\nand\ncomposition\nof\nmuch\nof\nIran’s\nenriched-uranium\nstockpile\nafter\nlosing\naccess\nto\nkey\nfacilities.\nThe\nagency\nestimated\nthat\nIran\nheld\n440.9\nkilograms\nof\nuranium\nenriched\nup\nto\n60%\nas\nof\nJune\n13,\n2025.\nThat\nenrichment\nlevel\nis\nfar\nabove\nthe\nlevel\nused\nin\nordinary\ncivilian\npower\ngeneration,\nbut\nit\ndoes\nnot\nestablish\nthat\nIran\npossesses\na\nnuclear\nweapon.\nThe\nfigure\nis\na\nhistorical\nestimate,\nnot\na\nverified\nmeasure\nof\nthe\ncurrent\nstockpile.\nOne\nproposed\ntarget\nis\nPickaxe\nMountain\n,\nthe\ndeeply\nburied\ncomplex\nnear\nNatanz.\nIts\noperational\nstatus\nremains\ndifficult\nto\nverify\nindependently.\nFor\nZimmt,\nan\naerial\nattack\nmight\ndelay\nthe\nsite’s\nuse\nbut\nwould\nnot\ns",
       "sentiment_success": false
     },
     {
-      "title": "Oil Declines on Signs of Moves Toward Gulf War De-Escalation - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 06, 2026 · 17:49 BRT",
-      "pub_date": "2026-11-06",
-      "pub_ts": 1793998166,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iranian military claims it’s now ‘stronger’ than at start of war with Israel and US - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/iranian-military-claims-its-now-stronger-than-at-start-of-war-with-israel-and-us/",
+      "title": "Katz urges unity in light of Iran nuclear threat at memorial for 1956 Suez War - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/katz-urges-unity-in-light-of-iran-nuclear-threat-at-memorial-for-1956-suez-war/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 06, 2026 · 23:31 BRT",
-      "pub_date": "2026-11-06",
-      "pub_ts": 1794018696,
+      "published": "Nov 08, 2026 · 07:07 BRT",
+      "pub_date": "2026-11-08",
+      "pub_ts": 1794132453,
       "summary": "",
       "tags": [
         "extracted",
@@ -1345,31 +1409,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "Qatar’s emir holds call with Trump as mediators push for deal to end Iran war - Financial Times",
-      "url": "https://www.ft.com/content/d89a6369-7572-42e4-b3eb-413b462c587d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Nov 06, 2026 · 07:18 BRT",
-      "pub_date": "2026-11-06",
-      "pub_ts": 1793960314,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-07T11:08:37.513869+00:00",
-  "last_generated_date": "2026-11-07",
-  "last_generated_time": "2026-11-07T23:01:55.487073+00:00",
+  "last_relevant_time": "2026-11-08T11:07:16.462812+00:00",
+  "last_generated_date": "2026-11-08",
+  "last_generated_time": "2026-11-08T08:01:47.175154+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

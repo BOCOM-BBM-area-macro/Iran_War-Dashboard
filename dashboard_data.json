@@ -244,7 +244,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-02"
+      "pub_date": "2026-11-03"
     },
     "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/": {
       "summary": "",
@@ -1012,7 +1012,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-08"
+      "pub_date": "2026-11-06"
     },
     "https://www.bloomberg.com/news/articles/2026-11-07/australia-s-albanese-urges-iran-de-escalation-after-us-midterms": {
       "summary": "",
@@ -1537,6 +1537,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-08"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/trump-repeats-that-he-was-fine-with-vances-comments-tying-iran-war-to-midterms-loss/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
     }
   },
   "last_digest_success": true,
@@ -1701,7 +1721,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-08T11:07:16.462812+00:00",
   "last_generated_date": "2026-11-08",
-  "last_generated_time": "2026-11-08T21:02:04.500478+00:00",
+  "last_generated_time": "2026-11-08T22:02:09.759978+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

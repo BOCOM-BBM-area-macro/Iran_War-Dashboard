@@ -1740,6 +1740,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-09"
+    },
+    "https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
     }
   },
   "last_digest_success": true,
@@ -1893,12 +1903,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-09T11:08:14.080636+00:00",
   "last_generated_date": "2026-11-09",
-  "last_generated_time": "2026-11-09T13:02:08.148033+00:00",
+  "last_generated_time": "2026-11-09T14:02:07.488627+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Extends Slump as Diplomatic Efforts to End the War with Iran Continue - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUlyWVBkN2dvcG9mSlhHSlF5YkI3Mi1NTUZ5U1c0elJRVU41QlF6ZnZxbW5VY2hlQ21faGc4Z0EwREQweGtQSnI1bVJmMUpUeWxyd0FRM1ZnY1AwZlhoZmRBajNPc0IyZVFoRDBNX2gxZVRja0NWaGV4bTB4ZWE0SUEtbUFZNVpDMzZ5dU44YU04Vm1TbHdJYURMX2RYcnJ4N19pWmk4NUhFenR0bXY5UFhNOElueHFJWmdaTUdaUnNMUkFHenc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 14:00 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794243601,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW93cEFyUFVLaWRELUxWYWlfVEF4MVgwT1JBZ1lSMmF0N3dFSjdJWGJ3aUVkTEhHN3VZSVFqVER5QkRSTHFWM1pGZUJJazUwTmJjaEJtbTB6TVNjdjg3d0FhaG05QnhLeU9rWGVieU0yV2Z5aXlPVXNIeFFpckt3b1dIU19wRHFOTVdDaEhoNjVYYWx6QkVQMDgxUmEzWFBHYkdUdjBONlB2dFQ3elhyYUkwUQ?oc=5",

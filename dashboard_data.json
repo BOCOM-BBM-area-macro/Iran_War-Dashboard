@@ -1494,6 +1494,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-08"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914276": {
+      "summary": "Ahead of a G7 meeting in France, Rubio said Iran talks have made no progress, calling Tehran's demands \"unacceptable\" and warning that the US could respond to threats against its forces.",
+      "tags": [
+        "Iran Conflict",
+        "iran negotiations",
+        "Iran nuclear",
+        "Iran nuclear talks",
+        "Iran US Conflict"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.washingtonpost.com/politics/2026/11/08/ice-iran-war-iranians-deported-judge-lawsuit/ecb634aa-dbcc-11f1-912c-4fbb80d73f7f_story.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.timesofisrael.com/trump-says-new-iran-offensive-highly-unlikely-but-it-depends-on-progress-in-talks/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
     }
   },
   "last_digest_success": true,
@@ -1658,12 +1701,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-08T11:07:16.462812+00:00",
   "last_generated_date": "2026-11-08",
-  "last_generated_time": "2026-11-08T20:02:05.394013+00:00",
+  "last_generated_time": "2026-11-08T21:02:04.500478+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Extends Biggest Weekly Drop Since 2020 With Focus on Iran - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUNGR2lBYkJramVOVjNteUMtWXNxZVBGWmEteFM5WG5Yb0pPYnpXTUZLM2ZVc280ampyejdfTkgzckNob1gzcUFyY293SnRVbWhlOHJmQ2Rzck05YVRwSlpKb0xXMVZKZUp5MVZjTmVWNjB5cjVSWWQxNmREUjNpTGdlY3FjcFhBY1VKLWhQdHBzaEFYaWNMeDRYUDE?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 08, 2026 · 20:03 BRT",
+          "pub_date": "2026-11-08",
+          "pub_ts": 1794179007,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iraq FM: Iran war cost $60b in lost oil exports, reaches understanding with US - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",

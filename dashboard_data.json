@@ -1670,6 +1670,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-09"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
+    },
+    "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
     }
   },
   "last_digest_success": true,
@@ -1823,12 +1843,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-09T11:08:14.080636+00:00",
   "last_generated_date": "2026-11-09",
-  "last_generated_time": "2026-11-09T08:02:07.870492+00:00",
+  "last_generated_time": "2026-11-09T09:02:04.446701+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW93cEFyUFVLaWRELUxWYWlfVEF4MVgwT1JBZ1lSMmF0N3dFSjdJWGJ3aUVkTEhHN3VZSVFqVER5QkRSTHFWM1pGZUJJazUwTmJjaEJtbTB6TVNjdjg3d0FhaG05QnhLeU9rWGVieU0yV2Z5aXlPVXNIeFFpckt3b1dIU19wRHFOTVdDaEhoNjVYYWx6QkVQMDgxUmEzWFBHYkdUdjBONlB2dFQ3elhyYUkwUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 08:34 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794224047,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: Middle East oil price war heralds post-conflict glut - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWdUbTZOMkxOdnRzOHBPdHRWSFBmNG1jZnFISWQ0MVFaWEc1MUlkTjRuNlhSQzdMQWQxaXQzYTBOTGtBd0NkYnRNTFNHaDlNZ0xwVU1JODVSMFdLZnREeGttWWlEdmE3ZnJwODdnMG5iQnJwRlZBbDZvOEU5UjczRC1UcGo5S0p4U01KZWMzcVBjNEdnWW42clRaR1U5QXpoMHh1bnE0T2phU1I1OEpUVFJJUHN2LThoMFd3WGJR?oc=5",

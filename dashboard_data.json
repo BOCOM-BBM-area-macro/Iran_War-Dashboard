@@ -1820,6 +1820,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-09"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914386": {
+      "summary": "Trump told Reuters that Qatar and Saudi Arabia favor a peaceful resolution to the Iran conflict, but warned that US military strikes remain an option.",
+      "tags": [
+        "Iran Conflict",
+        "Iran Deal",
+        "iran negotiations",
+        "Iran News",
+        "Iran nuclear talks"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
+    },
+    "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
+    },
+    "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
     }
   },
   "last_digest_success": true,
@@ -1973,7 +2006,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-09T11:08:14.080636+00:00",
   "last_generated_date": "2026-11-09",
-  "last_generated_time": "2026-11-09T17:02:09.475180+00:00",
+  "last_generated_time": "2026-11-09T18:02:05.815527+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

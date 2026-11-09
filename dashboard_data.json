@@ -1557,6 +1557,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-08"
+    },
+    "https://www.jpost.com/international/article-914282": {
+      "summary": "Asked to explain the defeat, Trump insisted that his personal popularity remained strong and suggested that Republican candidates had failed to translate his support into votes.",
+      "tags": [
+        "Iran",
+        "Congress",
+        "US Israel",
+        "Donald Trump",
+        "Marco Rubio"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/rubio-trumps-war-on-iran-not-necessarily-popular-but-needed-to-stop-nuclear-threat/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-08"
     }
   },
   "last_digest_success": true,
@@ -1721,7 +1744,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-08T11:07:16.462812+00:00",
   "last_generated_date": "2026-11-08",
-  "last_generated_time": "2026-11-08T22:02:09.759978+00:00",
+  "last_generated_time": "2026-11-08T23:02:14.550759+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

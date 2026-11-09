@@ -1600,6 +1600,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
     }
   },
   "last_digest_success": true,
@@ -1770,6 +1780,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Philippine Economic Slump Worsens on Iran War, Bad Weather - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDIwYjBTLXNybWI4blZPcGZPRlVIdjNROU0zTDIxRUc4NUFfX2drMDJ4bXp6a3UxVC01a0NDWGJ4NlE5SHZSY3I5dFZ2VS1jbVkwa3B5eUVkTGlfZUt4YmhxNWdmaFlodmdXTnJjb3Q2d0I2a0dqMHhreHh4dWNlNFJUbnktRU85dTNVazlOMmZOelNvYzFfTk8wZHFVSUdRTnpOT0tRWGJndWJadTNKMlhB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 00:20 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794194400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Extends Biggest Weekly Drop Since 2020 With Focus on Iran - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUNGR2lBYkJramVOVjNteUMtWXNxZVBGWmEteFM5WG5Yb0pPYnpXTUZLM2ZVc280ampyejdfTkgzckNob1gzcUFyY293SnRVbWhlOHJmQ2Rzck05YVRwSlpKb0xXMVZKZUp5MVZjTmVWNjB5cjVSWWQxNmREUjNpTGdlY3FjcFhBY1VKLWhQdHBzaEFYaWNMeDRYUDE?oc=5",

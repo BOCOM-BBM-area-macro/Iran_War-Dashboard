@@ -1965,7 +1965,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-09"
     },
     "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/": {
       "summary": "",
@@ -2201,6 +2201,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-914434": {
+      "summary": "Israeli defense officials assess that US President Donald Trump would prefer to avoid a military confrontation and resolve tensions through diplomacy.",
+      "tags": [
+        "Israel",
+        "IDF",
+        "Iran",
+        "diplomacy",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.axios.com/2026/11/10/hegseth-impeachment-iran-jd-vance": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2356,7 +2379,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T14:02:03.398100+00:00",
+  "last_generated_time": "2026-11-10T15:02:06.799507+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

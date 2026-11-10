@@ -2066,6 +2066,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.reuters.com/world/us/most-americans-want-new-democratic-congress-end-trumps-iran-war-reutersipsos-2026-11-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-10/gulf-arab-states-approve-joint-forward-command-center-in-kuwait": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2221,7 +2241,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T08:01:57.768007+00:00",
+  "last_generated_time": "2026-11-10T09:01:49.091608+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2306,6 +2326,20 @@
           "published": "Nov 09, 2026 · 22:01 BRT",
           "pub_date": "2026-11-09",
           "pub_ts": 1794272460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "FirstFT: Oil price falls below $90 a barrel - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUdENlJqZ3VySjdWLTdlT1BpN2k1c3pnaG5UMGJtRVFNa2NkT1c4RjdlelJXZFh6RTltVDgxVC1Pa3lYckZCcTNkNFVnZlhqY3d2SnQzeDJ3eW5xNG11clFIdlU1Tk12M3Z2S2tJRGJjOW9mTWZsNHdPeUo5bnQ5NEdHcnI?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 18:59 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794261543,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

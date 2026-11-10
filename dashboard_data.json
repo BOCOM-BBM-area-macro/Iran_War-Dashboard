@@ -2178,6 +2178,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.timesofisrael.com/71-of-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914484": {
+      "summary": "\"If some people believe they have evidence that China is transporting lethal weapons to Iran, which would pose a serious threat to Israel's security, I think the Israeli government will let us know.\"",
+      "tags": [
+        "Iran",
+        "Russia",
+        "China",
+        "diplomacy",
+        "iran missiles"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2333,7 +2356,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T12:02:05.742346+00:00",
+  "last_generated_time": "2026-11-10T13:02:33.658358+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

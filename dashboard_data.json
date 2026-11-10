@@ -1965,7 +1965,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-09"
+      "pub_date": "2026-11-10"
     },
     "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/": {
       "summary": "",
@@ -2224,6 +2224,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.wsj.com/business/energy-oil/global-co-emissions-to-fall-as-iran-war-cuts-fossil-fuel-use-04bfc01b": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914491": {
+      "summary": "Shine, a former Mossad division head, stressed that negotiations could still fall through if the US refused to bend on giving Iran the right to uranium enrichment or if personal egos got in the way.",
+      "tags": [
+        "Iran",
+        "Mossad",
+        "diplomacy",
+        "uranium",
+        "us iran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2379,12 +2402,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T15:02:06.799507+00:00",
+  "last_generated_time": "2026-11-10T16:02:10.246597+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Global CO² Emissions to Fall as Iran War Cuts Fossil-Fuel Use - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjhhMUM1cElaaFRUR3htVjdCdjQ5aXo4N3hSdXJQMlVseXEyNkdVLUN6U3o3VEFTaG5obTE5N2RUUnlXWVpBZlpmNEI2T0ZPYm5XMXJMX3pFamc2MnVHVVNHZ0lOQ1ZZa0FvSGJRMmdISG5jbzFsQmFmSTZXYzRvTFNmMWtKbklFMmVNZFQ0bzVkOGJqTVFKbzFiOWhUTlBGcUtuajRRVEE3bHVGdXc?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 15:29 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794335340,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: China's crude oil imports recover, fuel exports not so much - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazhScG1vNWotRURNakQ0YTRxZ2JXY180M3hPQ2VpdDF3UnBRXy1RSHcxSWRvOFJqTERXSDMteGZuSGVOYzI5Y0x3c1VPQlZpSDBJN255X3UxdGQybXFPNWw2N1BfR2l3azB4ang1Z29LMzU4MXo5RVNrMFR2XzRndDdqU3BfOHNWZ0xfNGhJOXZPV3ROXzBJWW9XSUtfWW9ja1VrU0RZQ2ZKVG9Pa0Frc0lSbnoxUkYwTFhLTnBfc05sTUxm?oc=5",

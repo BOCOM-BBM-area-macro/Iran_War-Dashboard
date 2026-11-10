@@ -2297,6 +2297,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.wsj.com/opinion/u-k-mildenhall-air-base-u-s-iran-threat-9140d544": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-defeat-04608ab0": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2452,7 +2472,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T19:02:18.040249+00:00",
+  "last_generated_time": "2026-11-10T20:02:17.902117+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3490,6 +3510,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Tracking Trump: Hegseth defends record; Trump aims for ‘status quo’ with Iran; gas drops below $4; and more - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTmI3dm5GLXE3Q3BmRzF6TTZ1V01QYW95dFl3S0NtLUNUUUp0cFEtT3IzWS1QOHA5M3ExZkZsbWFGS0RtZUxUNW9LM1dpRDlBZGFYVFlPREdROGRaNEZ1dy05dUFwQVFBcUluVFBYNnY2TG9EM3RaMERCR1h1VnVjSEZwZklGdkdOZlVnTTdrUG9jejQ4V0otT2Z6dnI1d016QlNyRWlWZFlKdDFlWlBTQjExR3BtSUJ4QUtRSU85RDJHdjhGdTVpbG9HZ1BnUW9OOEE3QkFGTGtCZ2ZuRFVLVzF5bnRCUQ?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 19:14 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794348898,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "European Gas Prices Dip as Trump Downplays Iran War Escalation - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWhveWF6aFh3LUNiQi14X0pVTHp0Vks5WHFBM3Q4aFJEZDN6MWJPTHBEdFB6RGJNRlV2SE5TSDhKU0QzQWl5VDdOOF9iczZxa25SakVIRUNGNU83OVBpQjdFWnZhREFJTC1PMzNXYmlHTWxCSFYzcG1WQmZ2UkVwZFZ2ckhaQlJvT0FZTUZwU0sySHV2ODlEVGZ5eWtsYlZiQk1KZGdSZHdHd3QwVzlBQk56NA?oc=5",

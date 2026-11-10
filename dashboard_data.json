@@ -1956,6 +1956,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-09"
+    },
+    "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
+    },
+    "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-10/global-carbon-emissions-set-to-dip-in-2026-after-iran-war-oil-surge": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-09"
     }
   },
   "last_digest_success": true,
@@ -2109,12 +2139,54 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-09T11:08:14.080636+00:00",
   "last_generated_date": "2026-11-09",
-  "last_generated_time": "2026-11-09T22:02:17.431510+00:00",
+  "last_generated_time": "2026-11-09T23:02:14.216911+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil falls as Trump downplays prospect of escalation with Iran - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 22:43 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794274980,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 22:01 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794272465,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Global Carbon Emissions Set to Dip in 2026 After Iran War Oil Surge - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlhvZ2xNV3BjQzh5RUJic2FzdHRWclZhV0dZMHh4QnNlRHl3a1I1NzR5Qm1yNk9HQzM1Unl1VmpOdktUa2tlWlpUaTZQNFFqR25RblRETnZjY2U3QUNmMEVldVUxdndyWGVMYy1MaENpMDlaUGtWOGQxbVFWSWE0M3hwOGljeEhTS3VnMm4xc3c3Vl9RVVFqamljYjU4b3pwd3V2cUw4bm5lTkYyUW5lNHNaQVRLR2JZVEE?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 22:01 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794272460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Extends Slump as Diplomatic Efforts to End the War with Iran Continue - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUlyWVBkN2dvcG9mSlhHSlF5YkI3Mi1NTUZ5U1c0elJRVU41QlF6ZnZxbW5VY2hlQ21faGc4Z0EwREQweGtQSnI1bVJmMUpUeWxyd0FRM1ZnY1AwZlhoZmRBajNPc0IyZVFoRDBNX2gxZVRja0NWaGV4bTB4ZWE0SUEtbUFZNVpDMzZ5dU44YU04Vm1TbHdJYURMX2RYcnJ4N19pWmk4NUhFenR0bXY5UFhNOElueHFJWmdaTUdaUnNMUkFHenc?oc=5",

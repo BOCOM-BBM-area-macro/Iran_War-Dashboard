@@ -2056,48 +2056,100 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.reuters.com/world/middle-east/vanishing-vessels-missing-sailors-iran-wars-human-cost-sea-2026-11-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-09T11:08:06.151401+00:00",
+  "last_digest_time": "2026-11-10T11:07:45.554260+00:00",
   "digest": {
-    "digest": "Recent reports indicate a significant shift in the US stance regarding potential strikes on Iran, with President Trump repeatedly stating he is highly unlikely to order such attacks if diplomatic talks progress. This signal has positively impacted Gulf stocks. Despite these de-escalatory signals, diplomatic efforts face hurdles, with Iranian demands described as \"outrageous\" and \"unacceptable\" by US officials, leading to stalled talks. Mediators, including Qatar and its Prime Minister, are actively engaged in discussions with the US. Meanwhile, the economic repercussions of the conflict continue to be felt across the region. Iraq has reported substantial losses, estimated at $60 billion, due to the Iran war, though it has reached understandings with the US regarding oil movement through the Strait of Hormuz. The broader Mideast dealmaking boom has been derailed, and GCC firms are rethinking IPOs. The conflict's influence extends to domestic US politics, with discussions linking the Iran war to potential Medicaid cuts and midterm election losses. The ongoing regional uncertainty is expected to be prolonged, with a US-Iran settlement appearing difficult.",
+    "digest": "Recent reports indicate a significant shift in the United States' posture regarding military engagement with Iran. President Trump has repeatedly signaled that further airstrikes are unlikely to be necessary at this point, suggesting a potential de-escalation of the conflict. This stance has been reinforced following meetings, including one in Qatar, and has been linked to positive momentum towards ending the war. Concurrently, the economic repercussions of the ongoing situation are becoming apparent. Oil prices have fallen below $90 per barrel as the prospect of escalation with Iran diminishes. Similarly, European gas prices have dipped due to this downplaying of conflict. However, the human cost at sea, marked by vanishing vessels and missing sailors, remains a critical aspect of the war. In a surprising development, the Iran war has also been associated with a decrease in carbon emissions this year. Despite the apparent de-escalation signals, the U.S. has taken precautionary measures, including the evacuation of aircraft from a U.K. base due to perceived threats from Iran. The situation at sea, specifically concerning Hormuz LNG traffic, has reached its highest point in October since the conflict began, highlighting the persistent maritime dimension of the war.",
     "top_themes": [
-      "US-Iran Diplomacy and Potential Strikes",
-      "Economic Impacts of the Iran Conflict",
-      "Regional Instability and Diplomatic Efforts"
+      "US Stance on Iran Conflict",
+      "Economic Impact of Iran War",
+      "Potential De-escalation"
     ],
     "next_events": [
       {
-        "title": "US-Iran Diplomatic Breakthrough or Stalemate",
-        "description": "Multiple reports indicate ongoing mediation efforts, particularly involving Qatar, and Trump's conditional willingness to avoid strikes if talks advance. Analysts should monitor the substance of these discussions, specifically Iran's 'outrageous' demands cited by Rubio, and whether mediators can bridge the gap to prevent further escalation. A failure in talks could quickly revert to heightened tensions and increased risk of conflict."
+        "title": "US De-escalation Strategy and Diplomatic Initiatives",
+        "description": "President Trump has repeatedly signaled a desire to de-escalate the conflict and avoid further military action, even mentioning 'positive momentum' towards ending the war. Analysts should monitor official statements, diplomatic engagements, and any concrete steps taken by the US administration that indicate a shift towards a less confrontational approach or the pursuit of a diplomatic resolution."
       },
       {
-        "title": "Potential for Renewed US Military Strikes",
-        "description": "Despite Trump's statements about being 'highly unlikely' to order strikes if talks progress, Israel's preparedness for a US strike indicates the option remains on the table. Watch for any breakdown in diplomatic efforts or new provocations that could trigger a shift in US policy, leading to military intervention. The threshold for such action remains a critical unknown."
+        "title": "Iran's Reaction and Regional Stability",
+        "description": "Despite US signals of de-escalation, the underlying geopolitical tensions persist, and the human cost at sea continues. Analysts should closely observe Iran's official responses, military posture, and proxy activities in the region to gauge their reaction to the US stance and assess the potential for continued regional instability or retaliatory actions."
       },
       {
-        "title": "Economic Fallout and Oil Market Volatility",
-        "description": "The ongoing uncertainty has already impacted GCC firm IPOs, Mideast dealmaking, and global housing markets. Analysts should closely track oil prices, the stability of shipping routes like the Strait of Hormuz (especially after Iraq's new understandings), and broader investment trends in the region. A prolonged conflict or a resolution could significantly alter global energy supply and demand dynamics."
+        "title": "Energy Market Volatility and Shipping Security",
+        "description": "Recent signals of de-escalation have already led to dips in oil and European gas prices, while Hormuz LNG traffic hit a high in October. Analysts must monitor global energy markets for continued volatility, shipping routes in the Persian Gulf for security developments, and any changes in insurance premiums or transit volumes that reflect evolving perceptions of risk."
       },
       {
-        "title": "Regional Stability and Shifting Alliances",
-        "description": "The UAE warns of prolonged regional uncertainty, while Iraq has reached understandings with the US regarding oil transit through Hormuz. Monitor how regional players like Israel, Iraq, and Gulf states adjust their strategies and alliances in response to the evolving US-Iran dynamic. Any new security agreements or shifts in regional power balances could indicate future flashpoints or de-escalation."
+        "title": "US Domestic Political Landscape and War Policy",
+        "description": "An impeachment effort focused on the Iran war highlights significant domestic political pressure on the US administration. Analysts should track congressional actions, public opinion, and internal political debates within the US, as these factors could influence President Trump's foreign policy decisions regarding Iran and potentially alter the course of the conflict."
+      },
+      {
+        "title": "US Military Posture and Readiness in the Region",
+        "description": "While President Trump downplays immediate military action, he has also stated the US remains 'locked and loaded' and ready for any change in circumstances, with US aircraft previously evacuated from a UK base due to the Iran threat. Analysts should monitor US military deployments, intelligence assessments, and any changes in readiness levels in the region, as these indicate the potential for rapid escalation if conditions shift."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-09T11:08:13.473723+00:00",
+  "last_watch_time": "2026-11-10T11:07:53.329721+00:00",
   "relevant_news": [
     {
-      "title": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uaes-gargash-warns-prolonged-regional-uncertainty-says-us-iran-settlement-2026-11-09/",
+      "title": "Hormuz LNG traffic hits highest in October since Iran war began - Reuters",
+      "url": "https://www.reuters.com/business/energy/hormuz-lng-traffic-hits-highest-october-since-iran-war-began-2026-11-10/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 09, 2026 · 04:01 BRT",
+      "published": "Nov 10, 2026 · 01:26 BRT",
+      "pub_date": "2026-11-10",
+      "pub_ts": 1794284760,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Vanishing vessels and missing sailors: The Iran war's human cost at sea - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/vanishing-vessels-missing-sailors-iran-wars-human-cost-sea-2026-11-10/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 10, 2026 · 07:52 BRT",
+      "pub_date": "2026-11-10",
+      "pub_ts": 1794307961,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil falls below $90 as Trump downplays prospect of escalation with Iran - Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 09, 2026 · 22:43 BRT",
       "pub_date": "2026-11-09",
-      "pub_ts": 1794207660,
+      "pub_ts": 1794274980,
       "summary": "",
       "tags": [
         "extracted",
@@ -2109,18 +2161,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran - The New York Times",
-      "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Nov 08, 2026 · 20:49 BRT",
-      "pub_date": "2026-11-08",
-      "pub_ts": 1794181793,
+      "title": "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Nov 10, 2026 · 01:41 BRT",
+      "pub_date": "2026-11-10",
+      "pub_ts": 1794285660,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -2128,54 +2180,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump says he is highly unlikely to order Iran strikes if talks progress - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-suggests-blasts-are-not-us-attacks-both-sides-report-ships-hit-2026-11-08/",
+      "title": "Trump says he will hold off on fresh Iran strikes for now - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 08, 2026 · 11:20 BRT",
-      "pub_date": "2026-11-08",
-      "pub_ts": 1794147600,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iraq says it lost $60b from Iran war, reaches understandings with US on Hormuz oil route - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-914263",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Nov 08, 2026 · 16:43 BRT",
-      "pub_date": "2026-11-08",
-      "pub_ts": 1794167023,
-      "summary": "Iraqi oil will move through the Strait of Hormuz via a shipping lane near Oman, Foreign Minister Fuad Hussein said, under understandings reached with Washington.",
-      "tags": [
-        "Iran",
-        "United States",
-        "oil",
-        "Oman",
-        "strait of hormuz"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Gulf stocks gain on Trump's signal against renewed Iran strikes - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/gulf-stocks-gain-trumps-signal-against-renewed-iran-strikes-2026-11-09/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 09, 2026 · 05:21 BRT",
+      "published": "Nov 09, 2026 · 08:16 BRT",
       "pub_date": "2026-11-09",
-      "pub_ts": 1794212505,
+      "pub_ts": 1794222960,
       "summary": "",
       "tags": [
         "extracted",
@@ -2187,18 +2199,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-meet-qatars-prime-minister-iran-diplomacy-faces-hurdles-2026-11-09/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 08, 2026 · 22:42 BRT",
-      "pub_date": "2026-11-08",
-      "pub_ts": 1794188520,
+      "title": "Trump hails ‘positive momentum’ towards ending Iran war - Financial Times",
+      "url": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Nov 09, 2026 · 17:56 BRT",
+      "pub_date": "2026-11-09",
+      "pub_ts": 1794257768,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "ft.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -2207,9 +2219,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-09T11:08:14.080636+00:00",
-  "last_generated_date": "2026-11-09",
-  "last_generated_time": "2026-11-09T23:02:14.216911+00:00",
+  "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
+  "last_generated_date": "2026-11-10",
+  "last_generated_time": "2026-11-10T08:01:57.768007+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3214,6 +3226,20 @@
           "published": "Nov 10, 2026 · 04:55 BRT",
           "pub_date": "2026-11-10",
           "pub_ts": 1794297300,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Qatar LNG Loadings Pick Up to Around Half of Pre-War Levels - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWllPMVhWZEExZDFHQ1NtOGlObEw0dzRJVXQ5VHZ2SjBlWDVPNXVIa1RBSXgxMVBMTUhHVVM1U3VVSWhlMUlIU2V0NTJtbHl1UVFZUXlpTkhoQUtEMG9HYmI0UWRDOGhSclRMWGN5eXdYaEM5VlZBYXoxWnVVQTRhTWctZDVXYUtSOUFvbm9aVHhZOE1KR1kwZFh5Z3N6bm1UTng1VjVCTmxKWWdjcWY0?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 04:25 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794295500,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

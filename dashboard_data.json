@@ -2247,6 +2247,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-10/iran-producing-50-missiles-per-month-despite-crippled-industry": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2402,7 +2422,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T16:02:10.246597+00:00",
+  "last_generated_time": "2026-11-10T17:02:10.259976+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2501,6 +2521,20 @@
           "published": "Nov 09, 2026 · 22:01 BRT",
           "pub_date": "2026-11-09",
           "pub_ts": 1794272460,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "‘Nonsense Rate’: Inside Weeks of Turmoil Over Key Oil Benchmark - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdF9kQ25ZUUF6bUhRZUZPWWoxS2lnbGdUb25yNHUxYUk2V3JYT2xNQnVOTjFiU3B0R2JxaFdVbXB1aURVOURUWXJ0cGRxYm8xaXZYejl5M2V6NDk4Rk41MTlkOEt5ZmFrUmpsSFNqaXFDLVNNOU9JMTZ3Rl9sLXNQY2JmTXdnUXBHekh5Q2o3dTBRZTJWRWdaUGRJMkFoMVBvdFpGNW1pRFpCc1l5cTlvU2dKUGJzb3lHSnc?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 09, 2026 · 21:01 BRT",
+          "pub_date": "2026-11-09",
+          "pub_ts": 1794268860,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -2138,6 +2138,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.cbc.ca/news/world/trump-will-hold-off-on-fresh-iran-strikes-9.7416010": {
+      "summary": "U.S. President Donald Trump said on Monday he plans to hold off on new military strikes against Iran for the time being after appeals from countries in the region, including from Qatar's prime minister in White House talks.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.reuters.com/world/rubio-says-no-need-major-combat-operations-iran-given-us-economic-campaign-2026-11-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2293,7 +2333,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T11:02:22.174963+00:00",
+  "last_generated_time": "2026-11-10T12:02:05.742346+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3673,6 +3713,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Tight stocks drive premium for near-term LME aluminium to five-month high - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05hSGhIUWVqSXAzR3FTQkg5bVowRFZIN2NLT1dOeGQ0NzM1YjRKdkJ4RWxMRy1jd2kyYXB1WWllZ0VDV1Q1VkpBNzZHMmVtZUp1MzZnNmdNZURoQWZDM2dlZGJlcERIMXZ2UlFVcE5oNnZQeFlobkFRZzRXTUlrTXp2cEY1YkxkUnhaTVdIVGpqelE1bUl1Y1ZucTV5UzhOWFE4Zm1XMThvNTJZRy1VMkFGNTQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 10:46 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794318369,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "‘No good options’: Iran war caught between Trump's midterm troubles, Israel's election shake-up - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QM1VwazJFcmdvM3pZNktGY2MtcEduUDRkY2g4aXlqaFV3Rm84MmVjcW9hSkRiSHRhd1VuREtlVkI5d0VORk9IWnNyWWJxV0ZHRDVRbnZQRTNlVW1aUHZVRGRtMXhCYXUtWUE?oc=5",

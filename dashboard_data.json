@@ -2596,6 +2596,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.wsj.com/world/middle-east/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-0c2e3ea4": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-president-accuses-us-israel-of-causing-environmental-damage-during-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.jpost.com/american-politics/article-914616": {
+      "summary": "The president said he would not settle for a \"93% victory\", while praising Defense Secretary Pete Hegseth a day after the House blocked an impeachment effort against him.",
+      "tags": [
+        "Donald Trump",
+        "Trump Administration",
+        "House of Representatives",
+        "US Department of Defense",
+        "Pete Hegseth"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2748,7 +2781,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T16:02:12.827264+00:00",
+  "last_generated_time": "2026-11-11T17:02:18.647606+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

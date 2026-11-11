@@ -2326,7 +2326,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-11"
     },
     "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html": {
       "summary": "",
@@ -2513,6 +2513,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.reuters.com/business/energy/saudi-arabia-leads-further-jump-opec-oil-output-despite-war-2026-11-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.timesofisrael.com/iran-producing-up-to-50-ballistic-missiles-a-month-half-its-prewar-rate-report/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.jpost.com/opinion/article-914312": {
+      "summary": "Sanctions and a blockade buy time. Israel should use it to help an Iranian-led opposition establish a protected foothold inside the country.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Kurds",
+        "Tehran",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2665,7 +2708,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T12:02:25.999183+00:00",
+  "last_generated_time": "2026-11-11T13:02:25.355278+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2680,6 +2723,20 @@
           "published": "Nov 11, 2026 · 11:33 BRT",
           "pub_date": "2026-11-11",
           "pub_ts": 1794407580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 11:14 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794406471,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

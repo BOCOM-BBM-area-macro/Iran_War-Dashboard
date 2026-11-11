@@ -2223,7 +2223,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-11"
     },
     "https://www.wsj.com/business/energy-oil/global-co-emissions-to-fall-as-iran-war-cuts-fossil-fuel-use-04bfc01b": {
       "summary": "",
@@ -2326,7 +2326,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-11"
+      "pub_date": "2026-11-10"
     },
     "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html": {
       "summary": "",
@@ -2503,6 +2503,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.bloomberg.com/graphics/2026-europe-energy-woes/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2655,12 +2665,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T11:02:05.471171+00:00",
+  "last_generated_time": "2026-11-11T12:02:25.999183+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 11:33 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794407580,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",

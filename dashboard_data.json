@@ -2326,7 +2326,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-11"
     },
     "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html": {
       "summary": "",
@@ -2642,6 +2642,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-11/bessent-moved-to-military-housing-following-iranian-threats": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2794,7 +2804,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T18:02:14.986181+00:00",
+  "last_generated_time": "2026-11-11T19:02:17.140100+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

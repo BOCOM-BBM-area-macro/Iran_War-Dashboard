@@ -1965,7 +1965,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-09"
+      "pub_date": "2026-11-10"
     },
     "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/": {
       "summary": "",
@@ -2347,6 +2347,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914534": {
+      "summary": "The newspaper reported that US officials have noted that Iran's ability to carry out large-scale attacks in the US and other territories overseas is limited.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Tehran",
+        "Scott Bessent",
+        "US Treasury Department"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
+    },
+    "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2502,7 +2525,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-10T11:07:53.833299+00:00",
   "last_generated_date": "2026-11-10",
-  "last_generated_time": "2026-11-10T22:02:21.448831+00:00",
+  "last_generated_time": "2026-11-10T23:02:20.205996+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -2517,6 +2540,20 @@
           "published": "Nov 10, 2026 · 15:29 BRT",
           "pub_date": "2026-11-10",
           "pub_ts": 1794335340,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 04:40 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794296422,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -3540,6 +3577,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "US Inflation Keeps Rising Amid Iran War, AI - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmZ1TDQ3WXRVOHNfNDBBdzdXQ2p4YkViMkstMnNnT3QwSU1ldFp3cVBqaWZ3TFFuNXd6R1lRM1FiN2xHay1jRHB1WWRqS245RGt2UjJWdjJmSmN3ZG9KQWloUTJJd25iWHRCZ3pFdkxnUTI5NU1DcWlkU21VY1lWWVFaUVIzd2MxM3pNZ3hkOXA2c3lHb21GMldrZVZGdlZTVU03SF9oZXhuQUlKUFV5ZFctLVIyZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 23:01 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794362476,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Tracking Trump: Hegseth defends record; Trump aims for ‘status quo’ with Iran; gas drops below $4; and more - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTmI3dm5GLXE3Q3BmRzF6TTZ1V01QYW95dFl3S0NtLUNUUUp0cFEtT3IzWS1QOHA5M3ExZkZsbWFGS0RtZUxUNW9LM1dpRDlBZGFYVFlPREdROGRaNEZ1dy05dUFwQVFBcUluVFBYNnY2TG9EM3RaMERCR1h1VnVjSEZwZklGdkdOZlVnTTdrUG9jejQ4V0otT2Z6dnI1d016QlNyRWlWZFlKdDFlWlBTQjExR3BtSUJ4QUtRSU85RDJHdjhGdTVpbG9HZ1BnUW9OOEE3QkFGTGtCZ2ZuRFVLVzF5bnRCUQ?oc=5",

@@ -1965,7 +1965,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-09"
     },
     "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/": {
       "summary": "",
@@ -2326,7 +2326,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-11"
+      "pub_date": "2026-11-10"
     },
     "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html": {
       "summary": "",
@@ -2629,6 +2629,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914601": {
+      "summary": "Qatar and other mediators are working to bridge major differences in talks between the US and Iran, two sources familiar with the details told the Post.",
+      "tags": [
+        "Iran",
+        "Nuclear",
+        "uranium",
+        "Tehran",
+        "Vladimir Putin"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2781,12 +2794,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T17:02:18.647606+00:00",
+  "last_generated_time": "2026-11-11T18:02:14.986181+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Saudis Tell OPEC Output Surged 26% to Highest Since War Began - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMU1UZzFGcHVQTS1lNzJZVXZKeFlhS3ltbjcwcDAyVGZOWkZsUkFobUhoT2d6TTMxN2l3Y0NGQ1lsZDJ0Y0Fzcl9lNkR0Q0o5ZmpCRnRERnVBSDhHVnEwNXcxQmJBZy1ZTHEySzh3TkkwMmpmZDRxTkVhUUw0SnNkXzJCd0NsZWpsQzJSRzl0dHpaMU9hQXZ4ZUtqc1FJSVpvbWZlcVpueTByUjk1akZr?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 13:06 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794413202,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",

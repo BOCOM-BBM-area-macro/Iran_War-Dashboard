@@ -2015,7 +2015,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-11"
     },
     "https://www.reuters.com/world/europe/us-aircraft-evacuated-second-uk-base-due-iran-threat-wsj-reports-2026-11-10/": {
       "summary": "",
@@ -2379,7 +2379,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-11"
+      "pub_date": "2026-11-10"
     },
     "https://www.reuters.com/world/middle-east/us-treasury-chief-bessent-moved-military-base-after-iranian-threats-nyt-reports-2026-11-11/": {
       "summary": "",
@@ -2425,6 +2425,26 @@
       "pub_date": "2026-11-11"
     },
     "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.reuters.com/commentary/reuters-open-interest/trumps-iran-war-pause-is-costly-new-strikes-2026-11-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-11/european-gas-prices-rise-as-uncertainty-swirls-over-iran-war": {
       "summary": "",
       "tags": [
         "extracted",
@@ -3753,6 +3773,20 @@
       "theme": "LNG",
       "articles": [
         {
+          "title": "European Gas Prices Rise as Uncertainty Swirls Over Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUpOQTZVMUc3R01JeFBWa1VXa0RkVFBLWTljbFg5WkM4aWU4UjYxZGhzWHNvV3hGYUJodFZtYUR3eHJTMUdmX2RQRGY5WjZTNG03REFwdnhlaW9PSGxSdjhwX1dUT3JpUzZlRlJMYkZHaGIwcUt6bEVTaW1ObnFFZkpSNjl5d3NrT2RYd29FZlJ1SE4tQVBLVEY2eU45bUw4eU43QVJGMjhjZjJZY1RjTw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 05:03 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794384206,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Poland’s Orlen Terminates LNG Supply Deal with Qatar Amid War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDZlLU1sVU5HbmVvd3dCTWRUalRBWW1PbDNBYUFlUWtaRGxhWUktYl9ZWm8wZC1KajR1ZnFycUlXZl9mVk8xcllfSmtNN1ZGY29IbHpvSHNNU25DOG9SUHNmUUVJNjV4RVVremRELXNVRFB0RmdXZkZRUmVGLWkxUFJIaXZyQy1xanN5a2oydnR5clZYM0xScDJscDF2QXJyRGlqOWlDS0ZqWVJseVJGbERB?oc=5",
           "source": "Bloomberg.com",
@@ -4070,6 +4104,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "Drone Attack Sparks Fire at Russia’s Ust-Luga Port, Injures 3 - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVBpTVFoTUNkQTN1NXVZZ0hFNHRuazFhMURyWGttRkZYWEhydC03NWRxa2JSLVRTN3poQ2pLNGN5WUgzeGxtaGZkZy1QYWxycFNKaEh3Vk9BVEZDYm1pdXZMZTVwX0ZNSUV3Z0xiblJtWlpWVDlxcXJZdW9ySnd3VVYyRG5pbTRpRWNsTFdVdlpyT1UzTE9IUVlySlB1dkgzTEFNbExORkFrZ1ZRdEJUaw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 04:35 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794382500,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",

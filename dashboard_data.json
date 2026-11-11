@@ -2652,6 +2652,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.wsj.com/opinion/it-matters-how-the-iran-war-ends-a739f2ce": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.washingtonpost.com/the-seven-trump/2026/11/11/tracking-trump-trump-defends-iran-war-veterans-day-speech-hegseth-impeachment-fails-kennedy-family-sues-trump-more/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2804,7 +2834,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T19:02:17.140100+00:00",
+  "last_generated_time": "2026-11-11T20:02:04.105625+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4010,6 +4040,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Watch Iran War Leaves Europe Vulnerable To Harsh Winter - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2NxelFkZGVtc2VSRWFVUVdFYW1GRkUycmFNWmtQZG9BLWxobkt4U0Rwdjh6YmNldUNkYXVMb3B2OEdMMEMzeFdwVF8tYmFLa01MV3RoNXloZzZhN1Aya2V2eXVWc1A0ZHl0S1dNRmhibjhVbGxSSS1PdUN4Y3l1Z1NxVW51a2tsTTFiU01zdEZnMVJVTE4yVDZ1ZEZhZHQwcmprTTJYUQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 13:50 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794415833,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran warns of domestic gas shortages from war this winter - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3B2QUtVb1RONHlUbVpOQ205bWNETVBsZVY3Zkx1VVNkWVU5RklIdW9jeTlYWmdRVFZLVE1VRnVrOVVDc1p4a3BKbS1BbE5pVkg2MFAwbE5pb0NjdzBBRDNoNWJDeWFnbkNRZFFRUWRTREFjSURxZnlZeWxVem4zVVprNkpMS1pYWWhMMFpMSzlaakh5X0NmX1FxdXRkajd0TFlF?oc=5",

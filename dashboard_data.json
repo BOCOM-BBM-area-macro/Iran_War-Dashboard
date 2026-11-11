@@ -2493,6 +2493,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-11-11/world-war-ii-has-lessons-for-iran-and-ukraine-conflicts": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2645,7 +2655,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T09:02:11.808672+00:00",
+  "last_generated_time": "2026-11-11T10:02:12.817976+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3809,6 +3819,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iran warns of domestic gas shortages from war this winter - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3B2QUtVb1RONHlUbVpOQ205bWNETVBsZVY3Zkx1VVNkWVU5RklIdW9jeTlYWmdRVFZLVE1VRnVrOVVDc1p4a3BKbS1BbE5pVkg2MFAwbE5pb0NjdzBBRDNoNWJDeWFnbkNRZFFRUWRTREFjSURxZnlZeWxVem4zVVprNkpMS1pYWWhMMFpMSzlaakh5X0NmX1FxdXRkajd0TFlF?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 08:21 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794396103,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "European Gas Prices Rise as Uncertainty Swirls Over Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUpOQTZVMUc3R01JeFBWa1VXa0RkVFBLWTljbFg5WkM4aWU4UjYxZGhzWHNvV3hGYUJodFZtYUR3eHJTMUdmX2RQRGY5WjZTNG03REFwdnhlaW9PSGxSdjhwX1dUT3JpUzZlRlJMYkZHaGIwcUt6bEVTaW1ObnFFZkpSNjl5d3NrT2RYd29FZlJ1SE4tQVBLVEY2eU45bUw4eU43QVJGMjhjZjJZY1RjTw?oc=5",

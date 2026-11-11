@@ -2379,7 +2379,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-11"
     },
     "https://www.reuters.com/world/middle-east/us-treasury-chief-bessent-moved-military-base-after-iranian-threats-nyt-reports-2026-11-11/": {
       "summary": "",
@@ -2400,6 +2400,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-11/oil-edges-higher-as-us-iran-war-outlook-in-focus-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-10"
     }
   },
   "last_digest_success": true,
@@ -2562,6 +2572,34 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Global fossil fuel emissions to fall 0.4% in 2026 amid US-Iran war - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbF90TDRkMU5lQWpfd3dmeUxqMVo5akQzS21qX3pWelBYalNmYWF6Z1NyZVl1eWxyOHlkbXVuMU80Qm9NWHdUSzRiRTZrRzZMVWNQajVEQjNtUUxHU015am41dDFFRTBaZUh4bXRjLXNfNlhhVUE?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 03:42 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794379322,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Gains After Two-Day Drop With Focus on US-Iran War Outlook - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUG52OHo5cm9HSnBEZjAxWWFudlYyS09oQk1vTnFTenZ3QVdVTkVHeDZzRXE3TFV6Q2xQY1NmclNvWjk2ZjJxZGdyLUxkck1hSUVWMU1XcHA1RkVWVGxPZF9jT0RuQ2haZWttcnAyTEJtbmlqYkh0eGhHVzUxQjVuRFN1eG9uUGdUb0JnZ2VoUnY1dFg4UWN2U2VRUnZuZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 02:24 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794374640,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Oil Is Stuck in Limbo, With No More Iran War But No Peace - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2F5dklIUm9LbGw1WUJ6c2NKMEpZMkVGdnkzekZJUkVHWTFCWXdwdHpJbnVLQU5hRXY5V3dycEltY1p5VVpCWHBJM0JaUlktcVh6c3FKZWpHdXdqN0RLanVDc2VXVUc1dmN1aThRZjI4OUdEZ19KUm93Vm1wMklHRVFuMkhvemFGNnhrVTk4MkRraUhvT0hqVGRSRDhJdl9UYk9pTGxDc2hkVEg3cWRz?oc=5",
           "source": "Bloomberg.com",
@@ -2584,6 +2622,20 @@
           "published": "Nov 10, 2026 · 23:10 BRT",
           "pub_date": "2026-11-10",
           "pub_ts": 1794363000,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Watch Oil Edges Higher as US-Iran War Outlook in Focus - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlBsVkpidG5rdHNQSGk5eVJ1WUd6QlItTzFtMUpIUGdwMUJOX3JyLVJTRk1nV1ZlWllBREUxcmVTWEFxRUtOS21ZRDVRdlFNbG51ZVhZc2VMT1M1MWxrSEx2elJ6UGVUeml6RW1fZzNGZy1BUXZ1TjBNeFVHNjlIY0pSd3QxZEJ6T1JUZlFwUVh2aXRzaWhPQ2JZMmZPMm1ndXdiN2pR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 21:00 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794355200,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",
@@ -3490,6 +3542,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Why the Iran War Means Europe Can’t Afford A Severe Winter - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzZnhMdmJXS3Q4ZXVyMW04UWk5ZERWdmdMQlh3TVk3ZVQ1bm9DZDgxQW5zU2ZkOWpHeFkyQVhDV2RyTUJkV0xiY3ZPYnVJclF2UlNGa1JxUHJBZ0xrZG5JUWxPZmQyeTctWGl3?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 02:00 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794373200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump cites dislike of Israel as key factor in GOP midterm losses alongside war with Iran - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4T0xHTHdmU1VxTGp0ZUhfWGN3bW9jUHNsRUFiMzZpMVRlUnk2OUJWV0drdXdKa1NpSkFHcHlRZkhoT05fYThFSGdCZzNyb29Sa3pzUTM4Q1pIckhyTnVv?oc=5",

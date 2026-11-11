@@ -1965,7 +1965,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-10"
+      "pub_date": "2026-11-09"
     },
     "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/": {
       "summary": "",
@@ -2410,6 +2410,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-10"
+    },
+    "https://www.jpost.com/environment-and-climate-change/article-914549": {
+      "summary": "Global fossil fuel emissions are projected to fall 0.4% in 2026, the first drop since 2020, partly as the Iran war cut oil and gas use. Researchers warn the decline is unlikely to last.",
+      "tags": [
+        "Iran",
+        "environment",
+        "natural gas",
+        "sanctions",
+        "oil"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2572,6 +2595,20 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 04:00 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794380400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Global fossil fuel emissions to fall 0.4% in 2026 amid US-Iran war - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbF90TDRkMU5lQWpfd3dmeUxqMVo5akQzS21qX3pWelBYalNmYWF6Z1NyZVl1eWxyOHlkbXVuMU80Qm9NWHdUSzRiRTZrRzZMVWNQajVEQjNtUUxHU015am41dDFFRTBaZUh4bXRjLXNfNlhhVUE?oc=5",
           "source": "The Jerusalem Post",
@@ -2650,6 +2687,20 @@
           "published": "Nov 10, 2026 · 15:29 BRT",
           "pub_date": "2026-11-10",
           "pub_ts": 1794335340,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXVTWTJrd1dRMmt1X2R2cFNGa1pXUjNxVTNOakZIbXlLRnp3NVlVM0lHYUVKcWZuR0FXTm51SU9iUm5uWVFpNm9YeWJiNGtRNklpZkprNnUzVlhnRHAzMExUMFNMbDNzNEVha194MWVlc2hJdnJSdHlqNHZqU2xTZ1BkalQ?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 10, 2026 · 07:08 BRT",
+          "pub_date": "2026-11-10",
+          "pub_ts": 1794305316,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

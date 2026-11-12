@@ -2742,7 +2742,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-12"
+      "pub_date": "2026-11-11"
     },
     "https://www.bloomberg.com/news/articles/2026-11-12/india-gulf-oil-imports-surpass-russia-for-first-time-in-iran-war?srnd=homepage-americas": {
       "summary": "",
@@ -2818,6 +2818,16 @@
         "IDF",
         "Iran",
         "Washington"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2987,7 +2997,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-12T11:07:55.140146+00:00",
   "last_generated_date": "2026-11-12",
-  "last_generated_time": "2026-11-12T10:02:02.583188+00:00",
+  "last_generated_time": "2026-11-12T11:02:13.360912+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

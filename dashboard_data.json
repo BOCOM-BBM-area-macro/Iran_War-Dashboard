@@ -2915,6 +2915,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-12"
+    },
+    "https://www.washingtonpost.com/opinions/2026/11/12/midterms-defeat-wont-define-donald-trumps-legacy-iran-will/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
     }
   },
   "last_digest_success": true,
@@ -3080,7 +3090,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-12T11:07:55.140146+00:00",
   "last_generated_date": "2026-11-12",
-  "last_generated_time": "2026-11-12T17:01:56.422138+00:00",
+  "last_generated_time": "2026-11-12T18:01:58.186709+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3221,6 +3231,20 @@
           "published": "Nov 11, 2026 · 11:14 BRT",
           "pub_date": "2026-11-11",
           "pub_ts": 1794406471,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Saudi oil production rebounds close to prewar levels - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2R3YVI3eXRmWWFQMHFxdzQ4ekM1US10TDlYQWJHUXlvZmtYQ25nSnN0MXR3ZFZ3T3JocHJpUDEzcTNfWldBa2Z2MEFWRlQyMEd0Y09SdW1wbnU3MWJIZDdMX2R0dy1LM3liekZlcjg0NjdGSXFsWGpZVl9aRG1iSHo0MU4?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 10:29 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794403773,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

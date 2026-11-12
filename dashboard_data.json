@@ -2788,68 +2788,80 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-12"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-11-11T11:08:23.202832+00:00",
-  "digest": {
-    "digest": "Recent developments indicate heightened security measures within the US, with Treasury Secretary Bessent being moved to a military base due to Iranian threats, a move also seen with US aircraft evacuated from a UK base. Despite these tensions, diplomatic signals are mixed; one former Mossad official suggests a deal to end the war is more likely, contingent on US flexibility regarding Iran's uranium enrichment rights and avoiding ego-driven impasses. Conversely, other reports suggest Iran will not permit enriched nuclear material to leave the country, indicating a potential sticking point. The ongoing conflict continues to influence global energy markets, with oil prices fluctuating based on the outlook of US-Iran war developments and concerns over Hormuz shipping lanes, while European gas prices rise due to related uncertainty. Some analyses suggest that major combat operations against Iran may no longer be necessary due to the existing US economic campaign, though Iran itself reportedly does not believe the war is over. Unexpectedly, the Iran war has been linked to a projected decrease in global fossil fuel emissions, though this trend is not expected to be sustained.",
-    "top_themes": [
-      "Iran War Impact on Oil Markets",
-      "US Security Measures Amidst Threats",
-      "Diplomatic Efforts and Stalemates",
-      "Global Emissions and Energy Uncertainty"
-    ],
-    "next_events": [
-      {
-        "title": "Iran Nuclear Program and Diplomatic Prospects",
-        "description": "Despite hopes for a deal, Iran's firm stance on not allowing enriched nuclear material to leave the country remains a significant hurdle. Analysts should monitor any shifts in negotiation positions, particularly regarding uranium enrichment rights, and signs of direct talks between the US and Iran."
-      },
-      {
-        "title": "Escalation of Iranian Threats and Regional Security",
-        "description": "Recent evacuations of US personnel and aircraft, coupled with ongoing attacks in the Strait of Hormuz, indicate Iran's continued perception of an active conflict. Watch for further direct threats against US interests, military movements, or proxy actions that could destabilize the region and impact shipping."
-      },
-      {
-        "title": "US Policy Shifts and Economic Campaign Effectiveness",
-        "description": "The US continues to favor economic pressure over major combat operations, but public and congressional sentiment could influence future strategies. Observe any new sanctions, changes in US military posture, or legislative efforts that might alter the current 'no war, no peace' equilibrium."
-      },
-      {
-        "title": "Global Energy Market Response to Geopolitical Tensions",
-        "description": "The lingering uncertainty surrounding the Iran conflict continues to drive volatility in global oil and gas markets. Analysts should track price fluctuations, potential disruptions to critical shipping lanes like the Strait of Hormuz, and market reactions to any diplomatic breakthroughs or renewed hostilities."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-11-11T11:08:45.309546+00:00",
-  "relevant_news": [
-    {
-      "title": "Bessent Is Moved From D.C.-Area Home to Military Base Amid Iranian Threats - The New York Times",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Nov 10, 2026 · 21:31 BRT",
-      "pub_date": "2026-11-10",
-      "pub_ts": 1794357116,
+    },
+    "https://www.reuters.com/world/africa/south-africas-citrus-exports-fall-iran-war-disruption-bad-weather-2026-11-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html": {
       "summary": "",
       "tags": [
         "extracted",
         "nytimes.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-11-12T11:07:39.107368+00:00",
+  "digest": {
+    "digest": "Diplomatic efforts to resolve the conflict appear to be stalled, with talks making little progress and the US considering direct engagement with Iranian leadership. South Africa has reported a decline in citrus exports directly attributed to the war's disruption, while India's oil imports from the Gulf have surpassed those from Russia for the first time since the conflict began. OPEC+ oil production is nearing pre-war levels, led by Saudi Arabia. Iran's domestic situation is also affected, with warnings of gas shortages anticipated for the winter. Despite significant damage to its military infrastructure from US-Israeli strikes, Iran is reportedly capable of producing approximately 50 ballistic missiles per month and retains a substantial existing stockpile. The US is seeking to tighten its blockade of Iran, though this relies on the cooperation of reluctant neighboring countries. Former President Trump has claimed victory in the war and is advocating for 'total victory,' while also defending his war policies. Concerns have been raised regarding the limits of a caretaker government's authority in launching new military actions, specifically in relation to actions against Iran. Additionally, there are reports of Iranian threats leading to the relocation of individuals to military housing.",
+    "top_themes": [
+      "Diplomatic Efforts",
+      "Economic Impact",
+      "Military Capabilities"
+    ],
+    "next_events": [
+      {
+        "title": "Progress of Direct Talks and Diplomatic Initiatives",
+        "description": "Closely monitor any direct talks or diplomatic overtures between international actors and Iranian hard-liners, as well as broader efforts to de-escalate the conflict. The success or failure of these negotiations will be crucial in determining the future trajectory of the war and potential for a peaceful resolution."
+      },
+      {
+        "title": "Israeli Government's War Powers and Potential Actions",
+        "description": "Analysts should closely watch the Israeli caretaker government's decision-making regarding military action against Iran, particularly given legal questions about its authority to launch a new war. Any preemptive strikes or significant escalations by Israel would be a critical development with regional implications."
+      },
+      {
+        "title": "Iran's Ballistic Missile Production and Military Resilience",
+        "description": "Despite reported strikes, Iran continues to produce ballistic missiles and maintain a significant inventory. Monitoring intelligence reports on Iran's ongoing military production, inventory, and resilience will be key to assessing its offensive capabilities and potential for regional threats."
+      },
+      {
+        "title": "Global Economic and Energy Market Realignments",
+        "description": "Observe how the conflict continues to disrupt global trade, supply chains, and energy markets, including shifts in oil import patterns and OPEC+ output decisions. These economic indicators will reveal the broader financial strain and potential for cascading effects on international stability."
+      },
+      {
+        "title": "US Sanctions Enforcement and Regional Cooperation",
+        "description": "Track the success of US efforts to tighten the blockade on Iran and the willingness of neighboring countries to comply with sanctions. The degree of regional cooperation will directly impact Iran's economy and could escalate tensions if compliance is forced or resisted."
+      },
+      {
+        "title": "Iran's Domestic Stability and Resource Shortages",
+        "description": "Monitor reports of internal repression, asset seizures, and domestic resource shortages (e.g., gas) within Iran. These internal pressures could exacerbate social unrest, challenge the regime's legitimacy, and potentially influence its foreign policy decisions."
+      },
+      {
+        "title": "Escalation of Iranian Threats and Counter-Security Measures",
+        "description": "Pay close attention to any credible threats emanating from Iran against individuals, assets, or international interests, and the subsequent security responses. Such incidents highlight the direct risks of the conflict and could signal a broadening scope of engagement beyond conventional warfare."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-11-12T11:07:54.667371+00:00",
+  "relevant_news": [
     {
-      "title": "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58",
+      "title": "Vance Considers Direct Talks With Iran Hard-Liner in Push to End War - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-0c2e3ea4",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 11, 2026 · 07:53 BRT",
+      "published": "Nov 11, 2026 · 16:25 BRT",
       "pub_date": "2026-11-11",
-      "pub_ts": 1794394382,
+      "pub_ts": 1794425100,
       "summary": "",
       "tags": [
         "extracted",
@@ -2861,52 +2873,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil Is Stuck in Limbo, With No More Iran War But No Peace - Bloomberg.com",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-11/oil-is-stuck-in-limbo-with-no-more-iran-war-but-no-peace",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 11, 2026 · 01:00 BRT",
-      "pub_date": "2026-11-11",
-      "pub_ts": 1794369600,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "European Gas Prices Rise as Uncertainty Swirls Over Iran War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/european-gas-prices-rise-as-uncertainty-swirls-over-iran-war",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 11, 2026 · 05:03 BRT",
-      "pub_date": "2026-11-11",
-      "pub_ts": 1794384206,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed - The New York Times",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors - The New York Times",
+      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Nov 10, 2026 · 16:33 BRT",
-      "pub_date": "2026-11-10",
-      "pub_ts": 1794339228,
+      "published": "Nov 11, 2026 · 14:18 BRT",
+      "pub_date": "2026-11-11",
+      "pub_ts": 1794417517,
       "summary": "",
       "tags": [
         "extracted",
@@ -2918,14 +2892,73 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil Gains After Two-Day Drop With Focus on US-Iran War Outlook - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
+      "title": "Iran can still produce 50 ballistic missiles a month, despite US-Israeli strikes - report - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914657",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 12, 2026 · 05:36 BRT",
+      "pub_date": "2026-11-12",
+      "pub_ts": 1794472608,
+      "summary": "Despite major damage to its military infrastructure, the Islamic Republic of Iran \"likely has at least 1,700 ballistic missiles remaining,\" and is building more every day, according to reports.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Iran",
+        "Nuclear",
+        "CIA",
+        "iran military"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil Steadies After Slump as Iran War Talks Make Little Progress - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 11, 2026 · 07:25 BRT",
+      "published": "Nov 12, 2026 · 06:51 BRT",
+      "pub_date": "2026-11-12",
+      "pub_ts": 1794477108,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran warns of domestic gas shortages from war this winter - Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-warns-domestic-gas-shortages-war-this-winter-2026-11-11/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 11, 2026 · 08:21 BRT",
       "pub_date": "2026-11-11",
-      "pub_ts": 1794392738,
+      "pub_ts": 1794396103,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Bessent Moved to Military Housing Following Iranian Threats - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/bessent-moved-to-military-housing-following-iranian-threats",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Nov 11, 2026 · 18:09 BRT",
+      "pub_date": "2026-11-11",
+      "pub_ts": 1794431345,
       "summary": "",
       "tags": [
         "extracted",
@@ -2938,9 +2971,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
-  "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T23:02:19.259364+00:00",
+  "last_relevant_time": "2026-11-12T11:07:55.140146+00:00",
+  "last_generated_date": "2026-11-12",
+  "last_generated_time": "2026-11-12T08:01:52.302919+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

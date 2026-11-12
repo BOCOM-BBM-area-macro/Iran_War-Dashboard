@@ -2832,6 +2832,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-12"
+    },
+    "https://www.reuters.com/world/us/trump-says-vance-should-focus-domestic-corruption-we-dont-need-deal-with-iran-2026-11-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-12/trump-says-no-need-for-iran-deal-vance-should-focus-on-us": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html": {
+      "summary": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
     }
   },
   "last_digest_success": true,
@@ -2997,12 +3037,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-12T11:07:55.140146+00:00",
   "last_generated_date": "2026-11-12",
-  "last_generated_time": "2026-11-12T11:02:13.360912+00:00",
+  "last_generated_time": "2026-11-12T12:02:08.110881+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Jumps After Trump Says US Doesn’t Need Deal With Iran - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmpyTWJjZ3NxT0J2V3FvcUxPX2ZjblNzWjJVZUhjXzZmTk1mWmV4ODI4WEFYZlNocG1abkp4Q3BNbTlRNFZCZm1KY19LY2xpSWIxMlE2UWpQclhpYlhVcXhndnk4aC1tTFdVUUNBNHpWNnJua0FkLXdyYjJ5T2czbkFFMlhkelBJTVd6NzFucXdZbHhjSVp2emRnd1l4RklZQ1J3Wm1US1E0eHlq?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 12, 2026 · 11:07 BRT",
+          "pub_date": "2026-11-12",
+          "pub_ts": 1794492467,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "India Gulf Oil Imports Surpass Russia for First Time in Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmxFWjRZMzNORENWTzhDeUl5UW5WaFRWbTk1ZllEcHdfVEN5ckwzTW4zZnVWOE5DaVN3VWMzS0xUXzRyaTZDV3VCY3NHTUU3ZG8zakdXR0t3QW5DMDNuRkxsSWVkLXo3blhSUGFndkJlX25vNVlaaUJxa0lXR2xFZHlMTW5XUzE2M0xnU1Y0Vnl4Y2QyaFUxX2kzaFoxc1BTRk1jRDdHSkp1aEZ2d0ZUWVJDcnZFZw?oc=5",

@@ -2682,6 +2682,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-11"
+    },
+    "https://www.reuters.com/sustainability/cop/iran-tells-cop31-it-wants-compensation-environmental-damage-us-israeli-strikes-2026-11-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-11"
     }
   },
   "last_digest_success": true,
@@ -2834,12 +2844,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-11T11:08:45.839106+00:00",
   "last_generated_date": "2026-11-11",
-  "last_generated_time": "2026-11-11T20:02:04.105625+00:00",
+  "last_generated_time": "2026-11-11T21:02:11.995289+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Steadies After Slump as Iran War Talks Make Little Progress - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWElpeDdPeHVLZml3Zmdzd2RzeDBEXzFCLWpwUFpNbUVXWFNiWWtIdzhua1dfbk9yZTNSQmJucHd0Q1c3WU5qb3lRS1hZV0w0b3dCcmpLbkhqdzEwbWNmS1ZiWjFFUmpudlZ1cHluR3JkOWtZUXM2eGE0a2l5QXV5TE5kdktGald4cHM4bUJJRDItZjk1Zm9xSUhCeldPQQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 11, 2026 · 20:04 BRT",
+          "pub_date": "2026-11-11",
+          "pub_ts": 1794438246,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Saudis Tell OPEC Output Surged 26% to Highest Since War Began - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMU1UZzFGcHVQTS1lNzJZVXZKeFlhS3ltbjcwcDAyVGZOWkZsUkFobUhoT2d6TTMxN2l3Y0NGQ1lsZDJ0Y0Fzcl9lNkR0Q0o5ZmpCRnRERnVBSDhHVnEwNXcxQmJBZy1ZTHEySzh3TkkwMmpmZDRxTkVhUUw0SnNkXzJCd0NsZWpsQzJSRzl0dHpaMU9hQXZ4ZUtqc1FJSVpvbWZlcVpueTByUjk1akZr?oc=5",

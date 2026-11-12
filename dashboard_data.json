@@ -2742,7 +2742,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-11"
+      "pub_date": "2026-11-12"
     },
     "https://www.bloomberg.com/news/articles/2026-11-12/india-gulf-oil-imports-surpass-russia-for-first-time-in-iran-war?srnd=homepage-americas": {
       "summary": "",
@@ -2868,6 +2868,29 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.jpost.com/american-politics/article-914725": {
+      "summary": "Trump is expected to veto any measure to stop the fighting. It takes two-thirds majorities in both chambers to override a veto, meaning Democrats would need Republican support to overcome Trump.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Congress",
+        "us iran",
+        "republicans"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3037,7 +3060,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-12T11:07:55.140146+00:00",
   "last_generated_date": "2026-11-12",
-  "last_generated_time": "2026-11-12T12:02:08.110881+00:00",
+  "last_generated_time": "2026-11-12T13:02:14.253227+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

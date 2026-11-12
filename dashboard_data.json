@@ -1958,7 +1958,7 @@
       "pub_date": "2026-11-09"
     },
     "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html": {
-      "summary": "",
+      "summary": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2249,7 +2249,7 @@
       "pub_date": "2026-11-10"
     },
     "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html": {
-      "summary": "",
+      "summary": "The U.S. secretary of state said that American economic pressure is doing sufficient damage to the leadership in Tehran.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2329,7 +2329,7 @@
       "pub_date": "2026-11-10"
     },
     "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html": {
-      "summary": "",
+      "summary": "The Treasury secretary, who is leading an economic pressure campaign against Iran, is the latest Trump official to leave his home over security concerns.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2485,10 +2485,11 @@
       "pub_date": "2026-11-11"
     },
     "https://www.nytimes.com/athletic/7771507/2026/11/11/fiba-world-cup-qatar-trump-iran-war-safety-concerns/": {
-      "summary": "",
+      "summary": "The U.S. war against Iran has prompted safety concerns across the global basketball community for the 2027 FIBA World Cup in Qatar.",
       "tags": [
-        "extracted",
-        "nytimes.com"
+        "Global Sports",
+        "NBA",
+        "Sports Business"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2535,7 +2536,7 @@
       "pub_date": "2026-11-11"
     },
     "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html": {
-      "summary": "",
+      "summary": "Military families are navigating feelings of grief, pride and anger, as well as seeking answers about the deaths of their loved ones.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2568,7 +2569,7 @@
       "pub_date": "2026-11-11"
     },
     "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html": {
-      "summary": "",
+      "summary": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -2800,10 +2801,23 @@
       "pub_date": "2026-11-12"
     },
     "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html": {
-      "summary": "",
+      "summary": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-914665": {
+      "summary": "Yashar party leader MK Gadi Eisenkot is set to receive a diplomatic and security briefing from Netanyahu and his military secretary at the Prime Minister's Office on Thursday.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Defense Ministry",
+        "IDF",
+        "Iran",
+        "Washington"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -2973,7 +2987,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-12T11:07:55.140146+00:00",
   "last_generated_date": "2026-11-12",
-  "last_generated_time": "2026-11-12T08:01:52.302919+00:00",
+  "last_generated_time": "2026-11-12T09:02:05.211889+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

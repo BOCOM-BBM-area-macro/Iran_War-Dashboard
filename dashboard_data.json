@@ -3043,6 +3043,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-12"
+    },
+    "https://www.nytimes.com/2026/11/13/opinion/america-iran-war-middle-east.html": {
+      "summary": "A smaller footprint means lower costs and more responsibility from Gulf allies.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-13"
     }
   },
   "last_digest_success": true,
@@ -3214,6 +3224,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil prices set for second weekly decline as Trump sticks with Iran blockade - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 13, 2026 · 00:01 BRT",
+          "pub_date": "2026-11-13",
+          "pub_ts": 1794538860,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Holds Gain as Trump Says US Doesn’t Need a Deal With Iran - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUZPalZVeXJPblBWRk9oeUJmUlpLanVvemFJWlJaWm16RGxYSWE3UE44czR3N09QaXVLTFFkOTdQMjJrd2NDVTYxZld3Y2MwLW14d2ZmTFhHNHZTVDhCMU9GMlN1aXZITEllYkplLUFTZDJWbGNBSk9IY1kwSFN6cUY4aEVab2lNYUEtOEZpWXlkaHR4V2Q0OE9UbmEwUQ?oc=5",

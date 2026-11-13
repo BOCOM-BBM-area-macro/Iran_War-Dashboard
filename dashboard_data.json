@@ -2967,7 +2967,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-12"
+      "pub_date": "2026-11-13"
     },
     "https://www.jpost.com/middle-east/iran-news/article-914775": {
       "summary": "Iranian state media claimed on Tuesday that the Islamic Revolutionary Guard Corps had carried out strikes destroying \"enemy navigation systems\" on Didamar island.",
@@ -3049,6 +3049,16 @@
       "tags": [
         "extracted",
         "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-13"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-13/iran-extends-blackout-of-nuclear-work-with-us-war-deadlocked": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4989,6 +4999,20 @@
           "published": "Nov 08, 2026 · 10:14 BRT",
           "pub_date": "2026-11-08",
           "pub_ts": 1794143648,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Wheat Hits Lowest Since June Ahead of Black Sea Peace Talks - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ05PeG5xbzVvZmNNSk9rekZ5RjJCa0NhQTlFai1EN0w0WTNDR2J1dFZwdXlQdlJjaGxVdmxNTHJRbVNhZUxvQWRTZ3J4Y1hSalY3VkZZM0dDcXBzYlU2OWZub0RpYXVwU0lfb2JRcHItTF9GOFQ4YmN1M3p5amRjVGEzaTZTRW1hb0pJS0RMLXpqUFNqR1BMYldLRnc1cXM4TkFzYmNmWlM1S1EyNWlnRVEwZDA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 06, 2026 · 12:48 BRT",
+          "pub_date": "2026-11-06",
+          "pub_ts": 1793980138,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

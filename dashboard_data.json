@@ -2990,6 +2990,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-12"
+    },
+    "https://www.jpost.com/international/article-914787": {
+      "summary": "In an interview, Trump said Gulf states had urged him to delay further strikes on Iran, acknowledged the war's political cost, and discussed Obama and his plans for a Democratic-controlled Congress.",
+      "tags": [
+        "Iran",
+        "White House",
+        "Donald Trump",
+        "Democrats",
+        "midterm elections"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
+    },
+    "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-12"
     }
   },
   "last_digest_success": true,

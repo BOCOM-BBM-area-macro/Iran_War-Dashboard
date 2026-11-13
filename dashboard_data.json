@@ -3199,6 +3199,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-13"
+    },
+    "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-13"
+    },
+    "https://www.washingtonpost.com/the-seven-trump/2026/11/13/tracking-trump-trumps-false-iran-war-death-count-supreme-court-considers-asylum-policy-trump-praises-colom-more/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-13"
+    },
+    "https://www.timesofisrael.com/negotiators-from-us-iran-and-qatar-fear-netanyahu-could-torpedo-talks-to-end-the-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-13"
     }
   },
   "last_digest_success": true,
@@ -3353,7 +3383,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-13T11:06:26.587935+00:00",
   "last_generated_date": "2026-11-13",
-  "last_generated_time": "2026-11-13T19:02:00.723137+00:00",
+  "last_generated_time": "2026-11-13T20:02:02.548115+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -3424,6 +3454,20 @@
           "published": "Nov 12, 2026 · 20:02 BRT",
           "pub_date": "2026-11-12",
           "pub_ts": 1794524529,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Prices Rebound as Trump Questions Need for Iran Deal - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 12, 2026 · 18:01 BRT",
+          "pub_date": "2026-11-12",
+          "pub_ts": 1794517260,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

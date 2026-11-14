@@ -3198,7 +3198,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-13"
+      "pub_date": "2026-11-14"
     },
     "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html": {
       "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
@@ -3218,7 +3218,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-13"
+      "pub_date": "2026-11-14"
     },
     "https://www.timesofisrael.com/negotiators-from-us-iran-and-qatar-fear-netanyahu-could-torpedo-talks-to-end-the-war/": {
       "summary": "",
@@ -3235,6 +3235,16 @@
       "tags": [
         "extracted",
         "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-14"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/us-official-says-trump-will-discuss-iran-but-not-ukraine-in-meeting-with-putin-and-xi/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

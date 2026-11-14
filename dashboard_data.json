@@ -3002,7 +3002,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-12"
+      "pub_date": "2026-11-13"
     },
     "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847": {
       "summary": "",
@@ -3249,6 +3249,32 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-13"
+    },
+    "https://www.jpost.com/american-politics/article-914851": {
+      "summary": "The midterm defeat was a loss 'of biblical proportions,' Dr. Kobi Barda explained, adding that Trump is now betting on a two-year economic siege of Tehran rather than renewed strikes.",
+      "tags": [
+        "Iran",
+        "republican",
+        "Donald Trump",
+        "midterm elections",
+        "JD Vance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-14"
+    },
+    "https://www.jpost.com/american-politics/article-914849": {
+      "summary": "Allies say the vice president is wrestling with the fracturing of the MAGA coalition, the demands of fatherhood, and whether any Republican can win while the Iran war drags on.",
+      "tags": [
+        "president",
+        "Iran US Conflict",
+        "republican",
+        "Donald Trump",
+        "US politics"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-14"
     }
   },
   "last_digest_success": true,

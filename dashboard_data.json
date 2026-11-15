@@ -3470,6 +3470,32 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-15"
+    },
+    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914958": {
+      "summary": "The Democrats chairman said the opposition must form a government quickly, warning that “history will judge us” if it fails to prevent another war.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Benny Gantz",
+        "israeli politics",
+        "Israel Elections"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
+    },
+    "https://www.jpost.com/middle-east/article-914920": {
+      "summary": "The government's retreat from the Bab el-Mandeb area hands the Houthis greater leverage over the maritime chokepoint, creating a potent pressure point on global shipping.",
+      "tags": [
+        "Iran",
+        "Saudi Arabia",
+        "Yemen",
+        "Gulf",
+        "Strait of Hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
     }
   },
   "last_digest_success": true,
@@ -3628,7 +3654,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-15T11:05:12.843120+00:00",
   "last_generated_date": "2026-11-15",
-  "last_generated_time": "2026-11-15T10:01:50.904716+00:00",
+  "last_generated_time": "2026-11-15T11:02:06.662597+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5488,6 +5514,20 @@
     {
       "theme": "Fertilizers/food",
       "articles": [
+        {
+          "title": "The 20-day odyssey to get cheese to Dubai - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1N5Nkl2Z2pnaU1FamhmUF9XbG1wM1NtUjViZ3Y0T3hJTnpkMTI2NlI3VUE5a1hMejZKZlA1aHMxX3I5ZjA1T0dmRXFlVnhjUEdmclVJRDNfeGFHeHdZNGJmcjhwOThuZmRReFB0QVJ1UEYtZ2RDeERyUk5GRzdON05ON0o?oc=5",
+          "source": "Financial Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 15, 2026 · 02:03 BRT",
+          "pub_date": "2026-11-15",
+          "pub_ts": 1794719003,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Drone Attack Sparks Fire at Russia’s Ust-Luga Port, Injures 3 - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVBpTVFoTUNkQTN1NXVZZ0hFNHRuazFhMURyWGttRkZYWEhydC03NWRxa2JSLVRTN3poQ2pLNGN5WUgzeGxtaGZkZy1QYWxycFNKaEh3Vk9BVEZDYm1pdXZMZTVwX0ZNSUV3Z0xiblJtWlpWVDlxcXJZdW9ySnd3VVYyRG5pbTRpRWNsTFdVdlpyT1UzTE9IUVlySlB1dkgzTEFNbExORkFrZ1ZRdEJUaw?oc=5",

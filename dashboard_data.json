@@ -3238,7 +3238,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-15"
+      "pub_date": "2026-11-13"
     },
     "https://www.timesofisrael.com/liveblog_entry/us-official-says-trump-will-discuss-iran-but-not-ukraine-in-meeting-with-putin-and-xi/": {
       "summary": "",
@@ -3397,52 +3397,93 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-15"
+    },
+    "https://www.reuters.com/world/middle-east/bahrains-interior-ministry-issues-alerts-potential-threats-2026-11-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
+    },
+    "https://www.reuters.com/world/middle-east/irans-navy-says-oil-tanker-fire-after-hitting-mine-hormuz-2026-11-14/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-14"
+    },
+    "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-14T11:05:50.338162+00:00",
+  "last_digest_time": "2026-11-15T11:05:03.605603+00:00",
   "digest": {
-    "digest": "Recent reports indicate a shift in US strategy towards Iran, with President Trump signaling a 'waiting game' focused on a long-term economic pressure campaign rather than immediate negotiations for a nuclear agreement. This approach is characterized by a stated belief that a deal is unnecessary and a withdrawal of key personnel from talks, such as JD Vance, to focus on other initiatives. Despite this, there are indications of internal debate and external pressure regarding the ongoing conflict. Israeli intelligence officials and Prime Minister Netanyahu are actively lobbying the US to resume military action against Iran, contrasting with the current US administration's alignment with Gulf countries on maintaining the status quo. The effectiveness of economic pressure as a victory metric is being highlighted, alongside claims of the war's minimal casualties, which have been factually disputed. The broader implications of the protracted conflict are also being considered in relation to domestic political factors, such as the impact on potential presidential candidacies. Iran has reportedly escalated its actions beyond the Middle East, including a direct shot at Bahrain, suggesting a widening of the conflict's scope.",
+    "digest": "Recent reports indicate a significant escalation in Iran's regional activities, with multiple sources confirming attacks targeting Bahrain. These actions have been described as aerial attacks and strikes on a base, prompting Bahrain to intercept Iranian aerial threats. Concurrently, Iran has stated its intention to attack a US base, contributing to heightened tensions. In Europe, a sense of anxiety is growing as prosecutors and officials attribute security breaches and threats in Britain and across the continent to Iran or its proxies. US intelligence estimates suggest Iran possesses a substantial missile arsenal, potentially up to 2,500 missiles, though precise tracking remains challenging. Amidst these developments, there are indications that the US may hold off on further attacks against Iran unless new provocations occur. The Israeli Defense Forces are reportedly concerned about a potential surprise US attack on Iran and are increasing coordination with the US military and enhancing their intelligence monitoring and air defense systems. Additionally, three tankers were reported on fire in the Strait of Hormuz after striking mines, an event attributed to Iran's navy.",
     "top_themes": [
-      "US-Iran Relations",
-      "Economic Pressure Strategy",
-      "Israeli Influence on US Policy"
+      "Iran's regional aggression",
+      "US-Iran tensions",
+      "Missile capabilities",
+      "European security concerns"
     ],
     "next_events": [
       {
-        "title": "Evolution of US Economic Pressure Campaign",
-        "description": "President Trump has signaled a 'waiting game' and a 'long-term economic pressure campaign,' betting on a 'two-year economic siege' rather than renewed strikes. Analysts should monitor the effectiveness of these sanctions, their impact on Iran's economy, and whether this strategy leads to desired behavioral changes or further Iranian escalation."
+        "title": "Escalation of Iranian Attacks on US Allies and Bases",
+        "description": "Iran has repeatedly targeted Bahrain and potentially US bases, signaling a willingness to escalate regional hostilities. Analysts should monitor the frequency, targets, and methods of these attacks, as well as any direct US casualties or significant damage, to gauge the immediate threat level and potential for broader conflict."
       },
       {
-        "title": "Iran's Response and Regional Escalation",
-        "description": "Iran has demonstrated a willingness to take the conflict 'beyond the Middle East' and escalate low-level conflicts, as seen with a recent shot at Bahrain. Watch for any new provocations, attacks by Iranian proxies, or expansion of its activities geographically as a response to sustained US economic pressure."
+        "title": "US Retaliation and De-escalation Signals",
+        "description": "Despite ongoing provocations, there are indications of internal US debate regarding military action, with some advisors suggesting restraint. Watch for any official statements or military movements from the US, particularly regarding retaliatory strikes or diplomatic overtures, which will dictate the immediate trajectory of the conflict."
       },
       {
-        "title": "Israeli Pressure for Renewed Military Action",
-        "description": "Prime Minister Netanyahu and Israeli intelligence chiefs are actively lobbying the US to 'resume war' with Iran, with fears that Netanyahu could 'torpedo talks.' Analysts should observe continued high-level Israeli visits to Washington and any signs of President Trump shifting from his current 'status quo' stance due to this persistent pressure."
+        "title": "Iran's Strategic Missile Deployment and Use",
+        "description": "US intelligence confirms Iran maintains a substantial missile arsenal, posing a significant threat to regional stability. Analysts should track any intelligence on the deployment, testing, or actual use of these missiles, as their application could dramatically alter the conflict's dynamics and target scope."
       },
       {
-        "title": "Future of US-Iran Diplomatic Engagement",
-        "description": "Despite President Trump's declaration that 'We don’t need a deal with Iran' and pulling JD Vance off talks, the potential for some form of negotiation remains. Look for any back-channel communications, new intermediaries, or shifts in rhetoric from either side that could indicate a willingness to engage in talks, even if not for a comprehensive nuclear agreement."
+        "title": "Expansion of Iranian Proxy Operations in Europe",
+        "description": "Iran or its proxies are increasingly linked to security breaches and threats across Europe, indicating a widening geographical scope of its destabilizing actions. Monitor European law enforcement and intelligence reports for further incidents, arrests, or official condemnations, which could trigger international diplomatic responses beyond the Gulf."
       },
       {
-        "title": "Impact of Iran Policy on US Domestic Politics",
-        "description": "The ongoing Iran situation is influencing US political figures, contributing to rifts within the MAGA coalition, and impacting political careers like JD Vance's. Monitor how the Iran issue plays out in upcoming US elections and its role in internal Republican party dynamics, as this could shape future policy decisions."
+        "title": "Renewed Threats to Shipping in the Strait of Hormuz",
+        "description": "Recent incidents involving tankers hitting mines in the Strait of Hormuz highlight Iran's capability and willingness to disrupt vital shipping lanes. Watch for any further maritime incidents, increased naval presence from international forces, or disruptions to oil transit, as these could have significant global economic repercussions."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-14T11:05:58.818834+00:00",
+  "last_watch_time": "2026-11-15T11:05:12.433519+00:00",
   "relevant_news": [
     {
-      "title": "Iran Takes the War Beyond the Middle East - WSJ",
-      "url": "https://www.wsj.com/video/series/opinion-review-and-outlook/wsj-opinion-iran-takes-the-war-beyond-the-middle-east/7DA7C554-4090-4E67-BB06-51298E4F659C",
+      "title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 13, 2026 · 21:20 BRT",
-      "pub_date": "2026-11-13",
-      "pub_ts": 1794615650,
+      "published": "Nov 15, 2026 · 05:03 BRT",
+      "pub_date": "2026-11-15",
+      "pub_ts": 1794729780,
       "summary": "",
       "tags": [
         "extracted",
@@ -3454,18 +3495,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war - The Times of Israel",
-      "url": "https://www.timesofisrael.com/negotiators-from-us-iran-and-qatar-fear-netanyahu-could-torpedo-talks-to-end-the-war/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 13, 2026 · 20:03 BRT",
-      "pub_date": "2026-11-13",
-      "pub_ts": 1794611017,
+      "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/bahrains-interior-ministry-issues-alerts-potential-threats-2026-11-15/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 15, 2026 · 01:25 BRT",
+      "pub_date": "2026-11-15",
+      "pub_ts": 1794716700,
       "summary": "",
       "tags": [
         "extracted",
-        "timesofisrael.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -3473,75 +3514,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran Escalates Low-Level Conflict With a Shot at Bahrain - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-escalates-low-level-conflict-with-a-shot-at-bahrain-73ff9b51",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 13, 2026 · 14:13 BRT",
-      "pub_date": "2026-11-13",
-      "pub_ts": 1794589980,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war - Axios",
-      "url": "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump",
-      "source": "Axios",
-      "domain": "axios.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
-      "published": "Nov 13, 2026 · 12:00 BRT",
-      "pub_date": "2026-11-13",
-      "pub_ts": 1794582031,
-      "summary": "The president has so far sided with Gulf countries in maintaining the status quo.",
-      "tags": [
-        "Iran deal",
-        "Spies",
-        "Iran",
-        "Israel",
-        "Benjamin Netanyahu"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Mossad Director Gofman visits Washington, meets CIA director, pushes to resume war with Iran - The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914818",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Nov 13, 2026 · 16:52 BRT",
-      "pub_date": "2026-11-13",
-      "pub_ts": 1794599546,
-      "summary": "Gofman's visit comes as Prime Minister Benjamin Netanyahu is pushing US President Donald Trump to return to fighting against Iran.",
-      "tags": [
-        "Israel",
-        "Mossad",
-        "CIA",
-        "Israel Iran War",
-        "Mossad Director"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Watch Patterson: For now, Iran has won the war - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-13/patterson-for-now-iran-has-won-the-war-video",
+      "title": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 13, 2026 · 13:00 BRT",
-      "pub_date": "2026-11-13",
-      "pub_ts": 1794585618,
+      "published": "Nov 15, 2026 · 05:14 BRT",
+      "pub_date": "2026-11-15",
+      "pub_ts": 1794730444,
       "summary": "",
       "tags": [
         "extracted",
@@ -3551,17 +3531,90 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
+    },
+    {
+      "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/irans-navy-says-oil-tanker-fire-after-hitting-mine-hormuz-2026-11-14/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 14, 2026 · 19:54 BRT",
+      "pub_date": "2026-11-14",
+      "pub_ts": 1794696859,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran attacks Bahrain in escalation of Gulf hostilities - Financial Times",
+      "url": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "domain": "ft.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
+      "published": "Nov 15, 2026 · 07:50 BRT",
+      "pub_date": "2026-11-15",
+      "pub_ts": 1794739805,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran still has thousands of missiles despite war, US intelligence says - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914896",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 15, 2026 · 02:36 BRT",
+      "pub_date": "2026-11-15",
+      "pub_ts": 1794721018,
+      "summary": "The officials said that it was difficult to track the exact number of missiles Iran possesses, including both those in storage and those ready for immediate launch.",
+      "tags": [
+        "Iran",
+        "iran military",
+        "iran missiles",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-14T11:05:59.251956+00:00",
-  "last_generated_date": "2026-11-14",
-  "last_generated_time": "2026-11-14T23:02:11.615078+00:00",
+  "last_relevant_time": "2026-11-15T11:05:12.843120+00:00",
+  "last_generated_date": "2026-11-15",
+  "last_generated_time": "2026-11-15T08:01:51.650592+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 14, 2026 · 19:54 BRT",
+          "pub_date": "2026-11-14",
+          "pub_ts": 1794696859,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONXlnM3BjMUpwcTRWWVRmMmlnYkpfczB1bVFkRURBcnE4UXA3eGhtVXZWajk3N1NGbm95VWIyNlREN1hWLXo0Y3ZGeGxWcmtXN2drOTBVWGN2R1lZS3k1YkJfZWlOSHFZMXpWX2w1OHFMRGliOVJTR1dMRGRRV0hPbkF0OUFURENSWmRCX0ZfOFh3Z0s2alFjUlFyWXJ4R21Ib0h3UV9ia2xRbUxZM1h5WA?oc=5",

@@ -3351,6 +3351,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-15"
+    },
+    "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html": {
+      "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
+    },
+    "https://www.reuters.com/world/middle-east/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province-2026-11-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-14"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-914896": {
+      "summary": "The officials said that it was difficult to track the exact number of missiles Iran possesses, including both those in storage and those ready for immediate launch.",
+      "tags": [
+        "Iran",
+        "iran military",
+        "iran missiles",
+        "Middle East",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
     }
   },
   "last_digest_success": true,

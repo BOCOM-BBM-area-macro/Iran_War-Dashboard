@@ -3607,7 +3607,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-15"
+      "pub_date": "2026-11-16"
     },
     "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html": {
       "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
@@ -3634,6 +3634,16 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-16"
+    },
+    "https://www.reuters.com/business/energy/iranian-leaders-fret-over-public-mood-gas-shortages-add-war-ills-2026-11-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -3800,7 +3810,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-16T11:05:10.793537+00:00",
   "last_generated_date": "2026-11-16",
-  "last_generated_time": "2026-11-16T11:01:39.543190+00:00",
+  "last_generated_time": "2026-11-16T12:01:36.998555+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5314,6 +5324,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Iranian leaders fret over public mood as gas shortages add to war ills - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVZUbUF0OWE4QmgxWkRxLS1rbDYwYk9Oc1pBOFI5V081cFdZaGZGT3FEbExZTE9ZZTdYUWh0Y2F2TmlMMi1TdS1lSzhLakhETGJaUTR0Mk90Y0NvM0dXdW1tWEdrWVNtVElTWWtITzZPWjhySnZ5ZXFLRWNsWWh5ZGc2cTZDc3lQYkhlOC1CU1pFbUxweGIzOE5yMVo4NFZmVVJoREVvV0puUzFjQlIzRVVST3lWNTQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 16, 2026 · 11:35 BRT",
+          "pub_date": "2026-11-16",
+          "pub_ts": 1794839759,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Dropping Qatar LNG deal seen saving Poland's Orlen up to $2 billion - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1VDUEhWSkFqTWNNdGpGWE53QkxKMVJkUF9EcXlTZlE1TVN5cEo5djllWXNPMEU4UUMwdmdGdWUwY2lRLXhNN2pRTFlib3lDRmJIZDJrazlHTlA4bUVIY1N5LWZrcUhSMXZVcURBUEFHNHZxeXR2OHlqcXAwZ1FEa2ZsdUE2NTE1YzVjOTVaYTRzeEEyMnk0a295ek1OaVlnX3RZNFY4dHBFdWMzbE9KZ3JLVWM?oc=5",

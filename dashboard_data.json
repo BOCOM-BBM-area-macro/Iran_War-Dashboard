@@ -3547,7 +3547,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-15"
+      "pub_date": "2026-11-16"
     },
     "https://www.bloomberg.com/news/articles/2026-11-16/peak-energy-eyes-korea-green-projects-as-war-upends-fuel-flows": {
       "summary": "",
@@ -3598,6 +3598,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-16"
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-16/linkedin-uae-hiring-rebounds-after-iran-war-slump-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
     }
   },
   "last_digest_success": true,
@@ -3762,6 +3772,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil edges up as Hormuz tanker incidents highlight shipping risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 15, 2026 · 23:00 BRT",
+          "pub_date": "2026-11-15",
+          "pub_ts": 1794794400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Yemeni forces withdraw from Bab el-Mandeb Strait, leaving Iran-backed Houthis in control - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1veDRhSGo3MzlUbE16eEVLczZKd1RUX1NpMFREdUJoNlk3UWRsZ1poLWd0MmpublBqdlhSVkc3d3p2d3dMRk1MQXFQUnVHVlVIRUJ2dzBzTnJxYUI3?oc=5",

@@ -3678,6 +3678,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-16"
+    },
+    "https://www.jpost.com/middle-east/article-915088": {
+      "summary": "Three US aircraft carriers are now operating in the Middle East under CENTCOM's command. This is a situation not seen since April and, before that, since 2003, during the Second Gulf War.",
+      "tags": [
+        "Benjamin Netanyahu",
+        "IDF",
+        "Iran",
+        "United States",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-16"
+    },
+    "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-15"
     }
   },
   "last_digest_success": true,
@@ -3840,7 +3863,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-16T11:05:10.793537+00:00",
   "last_generated_date": "2026-11-16",
-  "last_generated_time": "2026-11-16T15:01:36.032087+00:00",
+  "last_generated_time": "2026-11-16T16:01:34.389917+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

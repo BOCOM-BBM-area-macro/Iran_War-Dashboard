@@ -3607,7 +3607,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-16"
+      "pub_date": "2026-11-15"
     },
     "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html": {
       "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
@@ -3640,6 +3640,16 @@
       "pub_date": "2026-11-16"
     },
     "https://www.reuters.com/business/energy/iranian-leaders-fret-over-public-mood-gas-shortages-add-war-ills-2026-11-16/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-16"
+    },
+    "https://www.reuters.com/world/middle-east/houthis-seize-ground-yemens-southern-coast-edge-closer-aden-2026-11-16/": {
       "summary": "",
       "tags": [
         "extracted",
@@ -3810,7 +3820,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-16T11:05:10.793537+00:00",
   "last_generated_date": "2026-11-16",
-  "last_generated_time": "2026-11-16T12:01:36.998555+00:00",
+  "last_generated_time": "2026-11-16T13:01:33.170446+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -5871,6 +5881,20 @@
           "published": "Nov 15, 2026 · 23:30 BRT",
           "pub_date": "2026-11-15",
           "pub_ts": 1794796200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Mossad Director Gofman visits Washington, meets CIA director, pushes to resume war with Iran - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZWZSRzZ2dktlYU1HMXRSWjdDSkNJRnhnbzdhX3ZRemExUUNrVXZmOXBKU0RfV1h1U1QyaHdhbmQ5MkVRbzhxNDBGdHBDNFI1U0ZENXpCX0VzYmE4Q3Rn?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 13, 2026 · 16:52 BRT",
+          "pub_date": "2026-11-13",
+          "pub_ts": 1794599546,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

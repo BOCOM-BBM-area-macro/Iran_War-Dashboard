@@ -3721,6 +3721,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-16"
+    },
+    "https://www.wsj.com/opinion/donald-trump-iran-war-jd-vance-marco-rubio-ae8618de": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-16"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915095": {
+      "summary": "With gas shortages expected to worsen this winter, Iranian officials fear rising economic pressure could deepen public anger over the war.",
+      "tags": [
+        "Iran",
+        "winter",
+        "natural gas",
+        "us iran",
+        "gas"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-16"
     }
   },
   "last_digest_success": true,
@@ -3883,12 +3906,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-16T11:05:10.793537+00:00",
   "last_generated_date": "2026-11-16",
-  "last_generated_time": "2026-11-16T21:01:39.179769+00:00",
+  "last_generated_time": "2026-11-16T22:01:17.222496+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Extends Fall on Signs of Revived Supplies and Vance Outlook - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWticDVnRnhZcGNMcDNaRTJYNlZMUmd3NHZkbE9jRVV5TDV6bG5EX09rMndHQ0RUZXY3RHh0X0lzcXQ3UWE1OHY2djdGNmVnUWhwcU1fLURMNk9xVmZndmQzVHdNd04xTFpMbTZldURsQmRaanRsLXhocHcwSEhySnNNeEx5VjhTbk5NUWlySHQtWUhuOVJmekM2aVhQdw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 16, 2026 · 20:33 BRT",
+          "pub_date": "2026-11-16",
+          "pub_ts": 1794872037,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil edges up as Hormuz tanker incidents highlight shipping risks - Reuters",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",

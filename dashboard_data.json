@@ -3766,7 +3766,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-16"
+      "pub_date": "2026-11-17"
     },
     "https://www.reuters.com/world/middle-east/us-condemns-iranian-strikes-bahrain-rubio-holds-call-with-bahraini-counterpart-2026-11-16/": {
       "summary": "",
@@ -3777,6 +3777,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-16"
+    },
+    "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
     }
   },
   "last_digest_success": true,

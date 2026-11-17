@@ -3980,6 +3980,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-17"
+    },
+    "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
     }
   },
   "last_digest_success": true,
@@ -4145,7 +4155,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-17T11:05:19.943943+00:00",
   "last_generated_date": "2026-11-17",
-  "last_generated_time": "2026-11-17T19:01:53.905227+00:00",
+  "last_generated_time": "2026-11-17T20:01:55.463156+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

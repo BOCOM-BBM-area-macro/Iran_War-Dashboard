@@ -3710,7 +3710,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-17"
+      "pub_date": "2026-11-16"
     },
     "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51": {
       "summary": "",
@@ -3807,80 +3807,90 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-17"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-11-16T11:05:01.135940+00:00",
-  "digest": {
-    "digest": "Iran has resumed attacks, targeting Bahrain twice in the past day, claiming retaliation against the U.S. This follows a period of quiet and escalates tensions with the U.S. ally. In response to these actions and the broader regional instability, a third U.S. aircraft carrier strike group has arrived in the Middle East, increasing the U.S. naval presence. Concurrently, Iran has stated that UN inspectors will not be permitted to visit damaged nuclear sites until the current conflict concludes. Uncertainty surrounding a potential U.S.-Iran deal is impacting regional financial markets, with effects noted on the rupee and bonds. Separately, analysis suggests a potential link between Iran's extensive water infrastructure projects, such as dams, and its previously concealed missile sites, with airstrikes on missile locations coinciding with areas of significant water development. This raises questions about the dual use of such infrastructure for military purposes. The ongoing conflict is also casting a shadow over Saudi Arabia's long-term economic diversification plans beyond oil.",
-    "top_themes": [
-      "Iran's military actions and targets",
-      "US military presence in the Middle East",
-      "Iran's nuclear program and inspections",
-      "Geopolitical implications of the conflict"
-    ],
-    "next_events": [
-      {
-        "title": "Escalation of Iranian Regional Attacks",
-        "description": "Iran has resumed targeting US allies like Bahrain after a period of quiet, indicating a potential shift in its regional strategy. Analysts should monitor the frequency, targets, and methods of these attacks, as well as the responses from the US and its allies, to gauge the risk of broader military confrontation."
-      },
-      {
-        "title": "Iran's Nuclear Program Transparency",
-        "description": "Iran's refusal to allow UN inspectors access to damaged nuclear sites until the 'war ends' raises significant concerns about its nuclear activities. Watch for any changes in Iran's stance on inspections or further intelligence regarding its nuclear development, which could trigger international diplomatic or military reactions."
-      },
-      {
-        "title": "US Military Posture in the Mideast",
-        "description": "The deployment of a third US aircraft carrier strike group to the Middle East signals a significant military buildup and heightened deterrence against Iran. Observe any further military deployments, exercises, or shifts in US rhetoric, as these could indicate an impending response or a stronger deterrent posture in the region."
-      },
-      {
-        "title": "Iran's Concealed Military Infrastructure",
-        "description": "Recent airstrikes on Iranian missile sites have revealed a potential, albeit speculative, link between Iran's extensive water infrastructure (dams) and its concealed military buildup. Future intelligence efforts should focus on uncovering the true extent of this dual-use infrastructure and its implications for Iran's military capabilities and regional security."
-      },
-      {
-        "title": "Prospects for US-Iran Diplomatic Engagement",
-        "description": "Despite escalating regional tensions and military posturing, there are conflicting signals regarding a potential US-Iran deal, with some sources indicating an 'open path' while others highlight uncertainty. Analysts should monitor any diplomatic overtures, back-channel communications, or shifts in negotiation positions that could lead to de-escalation or a new agreement."
-      },
-      {
-        "title": "Israeli Political Stability and Regional Conflict",
-        "description": "An Israeli politician has warned that a caretaker government could lead to a new war with Iran, underscoring the link between internal political stability and regional conflict. Watch for political developments in Israel, particularly regarding government formation, as internal dynamics could influence decisions regarding potential military actions against Iran."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-11-16T11:05:10.316934+00:00",
-  "relevant_news": [
-    {
-      "title": "Iran Targets Bahrain Base But Says Path to US Deal Is Open - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 16, 2026 · 06:17 BRT",
-      "pub_date": "2026-11-16",
-      "pub_ts": 1794820626,
+    },
+    "https://www.reuters.com/world/middle-east/bahrain-says-it-intercepts-iranian-air-attacks-irgc-says-it-targets-us-radar-2026-11-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began": {
       "summary": "",
       "tags": [
         "extracted",
         "bloomberg.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
     },
-    {
-      "title": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S. - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/11/15/iran-targets-bahrain-twice-after-months-quiet-claiming-retaliation-against-us/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Nov 15, 2026 · 23:18 BRT",
-      "pub_date": "2026-11-15",
-      "pub_ts": 1794795493,
+    "https://www.wsj.com/economy/central-banking/german-investor-confidence-rises-to-highest-level-since-start-of-iran-war-957cb844": {
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-11-17T11:04:09.939876+00:00",
+  "digest": {
+    "digest": "Recent developments indicate heightened military activity in the context of the Iran war, with reports of Iran attacking a US military radar system in Bahrain using drones, and Bahrain intercepting these attacks. The US has significantly increased its naval presence in the Middle East, deploying multiple aircraft carriers, a scale not seen since 2003. This military buildup is accompanied by discussions regarding the duration of US involvement, with statements suggesting the US will not engage in a prolonged conflict. Economically, the war is impacting regional infrastructure and global markets; Iran faces a winter gas crisis due to damage to energy plants, potentially increasing public discontent. Conversely, some economic indicators, such as German investor outlook, have shown improvement, possibly linked to expectations of oil supply recovery. Diplomatic stances suggest a focus on weighing options between ending the conflict or increasing pressure, with assurances against an indefinite US military presence.",
+    "top_themes": [
+      "Military Deployments and Actions",
+      "Economic Impacts",
+      "Diplomatic Stance"
+    ],
+    "next_events": [
+      {
+        "title": "US Military Buildup and Strategic Intent",
+        "description": "The deployment of multiple US aircraft carriers and tens of thousands of troops to the Middle East signals a significant escalation of military presence. Analysts should monitor any further deployments, changes in readiness levels, and official statements from CENTCOM or the Pentagon to gauge the immediate strategic objectives and potential for offensive operations."
+      },
+      {
+        "title": "Iranian Retaliation and Asymmetric Warfare",
+        "description": "Iran's reported drone attacks on US military radar systems in Bahrain indicate a continued willingness to engage in asymmetric warfare against US assets. Watch for further Iranian strikes, particularly against critical infrastructure or military installations, and observe the effectiveness of US and allied interception capabilities and any retaliatory actions taken."
+      },
+      {
+        "title": "US Political Stance on War Duration",
+        "description": "Statements from US officials like Vance, emphasizing a commitment to avoid a 'forever war' and weighing options for the conflict's future, highlight internal debate within the US administration. Analysts should closely follow any shifts in US diplomatic or military policy, public statements from key political figures, and potential timelines for de-escalation or withdrawal."
+      },
+      {
+        "title": "Iran's Internal Stability Amid Energy Crisis",
+        "description": "The ongoing war has reportedly damaged Iranian energy plants, leading to an anticipated winter gas crisis and fears of deepening public anger. Monitor reports of energy shortages, public protests, and the Iranian government's response to these internal pressures, as they could significantly impact the regime's stability and its approach to the conflict."
+      },
+      {
+        "title": "Airstrikes on Iranian Strategic Infrastructure",
+        "description": "Reports of airstrikes targeting Iranian missile sites, potentially linked to previously unexplained water projects, suggest a focus on degrading Iran's strategic capabilities. Observe any further reports of targeted strikes, assess the nature of the targets, and analyze Iran's response to these attacks, which could indicate a shift in the conflict's intensity or scope."
+      },
+      {
+        "title": "Regional Economic and Trade Impacts",
+        "description": "The conflict has already shown impacts on regional economies, such as reduced traffic at Dubai Airport and fluctuations in oil prices. Analysts should track key economic indicators across the Middle East, including trade volumes, investment flows, and energy market stability, to assess the broader economic fallout and potential for recovery or further disruption."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-11-17T11:05:19.549383+00:00",
+  "relevant_news": [
+    {
+      "title": "Iran attacks US military radar system in Bahrain with drones - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 17, 2026 · 02:45 BRT",
+      "pub_date": "2026-11-17",
+      "pub_ts": 1794894300,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -3888,33 +3898,96 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran says UN inspectors not allowed to visit damaged nuclear sites until war ends - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-un-inspectors-not-allowed-to-visit-damaged-nuclear-sites-until-war-ends/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 16, 2026 · 04:40 BRT",
+      "title": "Bahrain says it intercepts Iranian air attacks, IRGC says it targets US radar - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/bahrain-says-it-intercepts-iranian-air-attacks-irgc-says-it-targets-us-radar-2026-11-17/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 17, 2026 · 04:47 BRT",
+      "pub_date": "2026-11-17",
+      "pub_ts": 1794901620,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Three aircraft carriers, 53,000 troops in Middle East as US, Israel prepare for possible Iran war - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-915088",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 16, 2026 · 16:15 BRT",
       "pub_date": "2026-11-16",
-      "pub_ts": 1794814806,
-      "summary": "",
+      "pub_ts": 1794856543,
+      "summary": "Three US aircraft carriers are now operating in the Middle East under CENTCOM's command. This is a situation not seen since April and, before that, since 2003, during the Second Gulf War.",
       "tags": [
-        "extracted",
-        "timesofisrael.com"
+        "Benjamin Netanyahu",
+        "IDF",
+        "Iran",
+        "United States",
+        "Middle East"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3",
+      "title": "Iran faces winter gas crisis after US war damages energy plants - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915095",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 16, 2026 · 16:58 BRT",
+      "pub_date": "2026-11-16",
+      "pub_ts": 1794859126,
+      "summary": "With gas shortages expected to worsen this winter, Iranian officials fear rising economic pressure could deepen public anger over the war.",
+      "tags": [
+        "Iran",
+        "winter",
+        "natural gas",
+        "us iran",
+        "gas"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "‘No daylight’: Vance denies rift with Trump over Iran war, vows no ‘forever war’ - The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-915112",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 16, 2026 · 22:25 BRT",
+      "pub_date": "2026-11-16",
+      "pub_ts": 1794878758,
+      "summary": "Vance said Trump is weighing whether to end the conflict or increase military and diplomatic pressure on Tehran, but insists the US will not remain involved indefinitely.",
+      "tags": [
+        "Iran",
+        "White House",
+        "Donald Trump",
+        "midterm elections",
+        "JD Vance"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Fifth U.S. Carrier Deploys for Iran War: How They Work - WSJ",
+      "url": "https://www.wsj.com/video/series/equipped/fifth-us-carrier-deploys-for-iran-war-how-they-work/B2BF930E-DDFF-4A39-ADDF-96277F35C121",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 15, 2026 · 05:03 BRT",
-      "pub_date": "2026-11-15",
-      "pub_ts": 1794729780,
+      "published": "Nov 16, 2026 · 16:16 BRT",
+      "pub_date": "2026-11-16",
+      "pub_ts": 1794856574,
       "summary": "",
       "tags": [
         "extracted",
@@ -3924,52 +3997,12 @@
       "_rank": 0,
       "full_text": "",
       "sentiment_success": false
-    },
-    {
-      "title": "Third US aircraft carrier arrives in Mideast as Iran rules out nuclear inspections - The Times of Israel",
-      "url": "https://www.timesofisrael.com/third-us-aircraft-carrier-arrives-in-mideast-as-iran-rules-out-nuclear-inspections/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 16, 2026 · 07:30 BRT",
-      "pub_date": "2026-11-16",
-      "pub_ts": 1794825055,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Golan rules out unity government with Netanyahu, warns of new Iran war by caretaker government - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914958",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Nov 15, 2026 · 10:48 BRT",
-      "pub_date": "2026-11-15",
-      "pub_ts": 1794750511,
-      "summary": "The Democrats chairman said the opposition must form a government quickly, warning that “history will judge us” if it fails to prevent another war.",
-      "tags": [
-        "Israel",
-        "Benjamin Netanyahu",
-        "Benny Gantz",
-        "israeli politics",
-        "Israel Elections"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-16T11:05:10.793537+00:00",
-  "last_generated_date": "2026-11-16",
-  "last_generated_time": "2026-11-16T23:01:25.792971+00:00",
+  "last_relevant_time": "2026-11-17T11:05:19.943943+00:00",
+  "last_generated_date": "2026-11-17",
+  "last_generated_time": "2026-11-17T08:01:48.903866+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

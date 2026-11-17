@@ -3756,7 +3756,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-16"
+      "pub_date": "2026-11-17"
     },
     "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17": {
       "summary": "",
@@ -3863,6 +3863,36 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    },
+    "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686": {
+      "summary": "Iran fired drones at a U.S. military radar system in Bahrain on Tuesday, even as talks between Iran and mediators Oman and Qatar to end the nearly nine-month war were taking place.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-17/trump-says-us-looking-into-any-iran-attack-plan-for-washington": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    },
+    "https://www.reuters.com/world/middle-east/iraqi-leaders-planned-crackdown-pro-iran-militias-is-riskiest-move-yet-2026-11-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4032,7 +4062,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-17T11:05:19.943943+00:00",
   "last_generated_date": "2026-11-17",
-  "last_generated_time": "2026-11-17T11:01:55.285173+00:00",
+  "last_generated_time": "2026-11-17T12:01:50.645575+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

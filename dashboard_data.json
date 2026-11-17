@@ -3710,7 +3710,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-17"
+      "pub_date": "2026-11-16"
     },
     "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51": {
       "summary": "",
@@ -3843,6 +3843,26 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    },
+    "https://www.reuters.com/world/middle-east/tehran-denies-report-potential-iranian-plan-detonate-dirty-bomb-washington-2026-11-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    },
+    "https://www.timesofisrael.com/us-intel-said-to-indicate-iran-planning-potential-dirty-bomb-attack-in-washington/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4012,7 +4032,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-17T11:05:19.943943+00:00",
   "last_generated_date": "2026-11-17",
-  "last_generated_time": "2026-11-17T10:01:58.181320+00:00",
+  "last_generated_time": "2026-11-17T11:01:55.285173+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

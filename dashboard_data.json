@@ -3949,7 +3949,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-18"
+      "pub_date": "2026-11-17"
     },
     "https://www.timesofisrael.com/liveblog_entry/us-military-official-says-fighter-jets-hit-iranian-missile-launch-site-on-qeshm-island-earlier-today/": {
       "summary": "",
@@ -4098,6 +4098,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-18"
+    },
+    "https://www.reuters.com/world/middle-east/trumps-board-peace-faults-israel-hamas-failure-end-gaza-war-2026-11-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915324": {
+      "summary": "Iranian missile and drone attacks on Kuwait and Bahrain raise questions about Tehran's strategy, US retaliation and the risk of a wider regional conflict.",
+      "tags": [
+        "Iran",
+        "bahrain",
+        "kuwait",
+        "drone attack",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
     }
   },
   "last_digest_success": true,
@@ -4234,7 +4257,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-18T11:03:57.268614+00:00",
   "last_generated_date": "2026-11-18",
-  "last_generated_time": "2026-11-18T11:01:53.658307+00:00",
+  "last_generated_time": "2026-11-18T12:02:08.364794+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6356,6 +6379,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Metals in the Age of AI - Game-changer or hyperscale hype? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11eXNCSUMzMEJvTDBteFd3SHpLLUhaWklpX0FfNlFTbGhTSWlMQWpRTmVUWDdlSnZfTlhEUHRvRjM2dDlqcDhnZTVBemx4LVVnZ2hEOVhpUG9QZDNjMTJHM2diNUVyRWc?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 18, 2026 · 11:23 BRT",
+          "pub_date": "2026-11-18",
+          "pub_ts": 1795011829,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Chinese Aluminum Output Drops But Still On Course for Record - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3VLbldsMWlZX2xjb2NEdUdVUjR0WF9aemtuNU9EVXQwZmNObVhTY1ZheTJuMW5TM1YwMkt2cG5zVUxCRmVZb0J2TnpDcEFGR2lZUE12YmhBUEhRZlpwemtfLURfMWFnT1pVMlFzNld0QXBlSmdTZEFkWHYtRGp1dXBldFhjSlJyYktra3Rtc3NHZDJoMERiN09MTEZyU1lQVWdpa3FwLWNSYi0zT1ZqbA?oc=5",

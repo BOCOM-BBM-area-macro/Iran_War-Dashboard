@@ -3710,7 +3710,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-17"
+      "pub_date": "2026-11-16"
     },
     "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51": {
       "summary": "",
@@ -4121,6 +4121,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-18"
+    },
+    "https://www.wsj.com/pro/central-banking/boes-bailey-sees-length-of-iran-war-as-key-to-rate-path-09d96fce": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
+    },
+    "https://www.reuters.com/world/middle-east/israeli-spy-chief-lobbied-joint-iran-strikes-us-visit-sources-say-2026-11-18/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
+    },
+    "https://www.nytimes.com/2026/11/18/nyregion/masih-alinejad-lawsuit-iran-assassination-attempts.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
     }
   },
   "last_digest_success": true,
@@ -4257,12 +4287,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-18T11:03:57.268614+00:00",
   "last_generated_date": "2026-11-18",
-  "last_generated_time": "2026-11-18T12:02:08.364794+00:00",
+  "last_generated_time": "2026-11-18T13:02:07.880745+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 18, 2026 · 11:56 BRT",
+          "pub_date": "2026-11-18",
+          "pub_ts": 1795013760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Watch Vance Says US Won’t Stay in Iran War for Years as Oil Drops on Supply Recovery - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0pRc1I4U2F0T1lWU2NtVTRCZk9YZ0U5SHdRc0xyNWpVUVJuWTlSRXdXQ2lYdkpfeTUya082eHQtRTMwRWVnc1JfMnBibFExTEh0SU4yamZvYklWa3ktSDRfbTZkbnY3ZWtuNzVUUXRWNmttbDZ6UllPRlZzS2RvbGJNbXdHS0ZyZlVBbFl5RFItZVJtQW5iRQ?oc=5",
@@ -5640,6 +5684,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "U.S. drivers are just absorbing high gasoline prices - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EeWIxOTZobWlhN2U1WElkRGNhR1FYbWh4OHRBMVFsRW1fd2JtNGd6M1hhVk95aFZkLTFpZXF5eklSQjlwaDRJQURScFhiU3BlYkVMYjlEZjc0cV9jSTVzcDRMWHdfdw?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 18, 2026 · 10:58 BRT",
+          "pub_date": "2026-11-18",
+          "pub_ts": 1795010329,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Why the Iran War Means Europe Can’t Afford A Severe Winter - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzZnhMdmJXS3Q4ZXVyMW04UWk5ZERWdmdMQlh3TVk3ZVQ1bm9DZDgxQW5zU2ZkOWpHeFkyQVhDV2RyTUJkV0xiY3ZPYnVJclF2UlNGa1JxUHJBZ0xrZG5JUWxPZmQyeTctWGl3?oc=5",

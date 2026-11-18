@@ -4003,6 +4003,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-17"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915254": {
+      "summary": "Tehran has formulated plans to escalate the war in order to push Washington back to the negotiating table, which could include stepping up attacks against tankers in Hormuz.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "New York Times"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
+    },
+    "https://www.reuters.com/world/middle-east/bahrain-warns-potential-threat-urges-residents-seek-safety-2026-11-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
     }
   },
   "last_digest_success": true,
@@ -5710,6 +5733,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "US, Iran exchange fire despite talks with mediators - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV29iM2xvSHBZbjBVTy1QTFd3aUVKb2ZnMjY3a2wzWWo5eGRGV2UxSTcwTUJCeVFUaDc5TFhoaE1HbC14UVg5NUtRLUE4bXB5M0o2UnhCOXoxVEFLd29QYmJYdWg2M2h5NG80Rkk4X1BaOE5fTUpJVUctOTBIZEltS2FfSXRXeEFFOVNqaFNBaGljVmxubGJnWERTUC05ek5vX0tubUt6cUd2Qi1SZ3NSMUFtVnlHLUtqSzRiUVl3?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 17, 2026 · 02:45 BRT",
+          "pub_date": "2026-11-17",
+          "pub_ts": 1794894300,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran faces winter gas crisis after US war damages energy plants - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1WEFHT3RfRlRkNkFxQi00TjhQRDMzN2VHODdIaUZxaXhkaFJBM0xaU0pFaTZsV2N4b3FjSmduRkdkRUNPSVZKdTZqZGwtZ0cwMkhWNlpjcFZLRHQxRVVTeFRBY3g2cjB3YkE?oc=5",

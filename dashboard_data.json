@@ -3667,7 +3667,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-17"
+      "pub_date": "2026-11-16"
     },
     "https://www.washingtonpost.com/world/2026/11/16/critics-blame-us-iran-war-crackdown-clerics-bahrain/": {
       "summary": "",
@@ -4036,6 +4036,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-18"
+    },
+    "https://www.reuters.com/world/us/hearing-us-navy-chief-blasted-over-iran-war-its-toll-sailors-2026-11-17/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-17"
     }
   },
   "last_digest_success": true,

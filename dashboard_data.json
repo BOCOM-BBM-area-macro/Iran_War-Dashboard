@@ -4035,7 +4035,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-19"
+      "pub_date": "2026-11-18"
     },
     "https://www.reuters.com/world/us/hearing-us-navy-chief-blasted-over-iran-war-its-toll-sailors-2026-11-17/": {
       "summary": "",
@@ -4353,6 +4353,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-19/iran-war-has-permanently-redrawn-global-energy-markets-iea-says?srnd=phx-green": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4560,6 +4570,20 @@
           "published": "Nov 19, 2026 · 02:00 BRT",
           "pub_date": "2026-11-19",
           "pub_ts": 1795064400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 18, 2026 · 23:47 BRT",
+          "pub_date": "2026-11-18",
+          "pub_ts": 1795056420,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

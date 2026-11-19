@@ -4247,6 +4247,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-18"
+    },
+    "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
+    },
+    "https://www.jpost.com/international/article-915383": {
+      "summary": "The disruption affected the agency’s cryptologic center in Georgia, a facility that oversees signals intelligence and cybersecurity operations focused on the Middle East.",
+      "tags": [
+        "Iran",
+        "United States",
+        "NSA",
+        "us iran",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
+    },
+    "https://www.timesofisrael.com/saudi-arabia-said-readying-for-war-against-yemens-houthis-to-last-well-into-2027/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-18"
     }
   },
   "last_digest_success": true,
@@ -4383,7 +4416,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-18T11:03:57.268614+00:00",
   "last_generated_date": "2026-11-18",
-  "last_generated_time": "2026-11-18T20:02:09.138487+00:00",
+  "last_generated_time": "2026-11-18T21:02:01.758432+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

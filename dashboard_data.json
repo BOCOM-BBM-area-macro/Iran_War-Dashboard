@@ -4310,6 +4310,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-18"
+    },
+    "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.wsj.com/business/energy-oil/the-iran-war-could-permanently-slash-reliance-on-hormuz-iea-says-eefd69b3": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4452,6 +4472,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkRNTmVJRC1mZzYtOE1lWkpzLUYybFdUbTdtRmItWjJCZFBlMXpNQkJ5cDdpX3Z0dlp3MFhaOTFCU1Rmczg1MWs1SUhOY3B1cVp5UDlQM0ZkQ3dWd2dsZldjdWo4cHQyQk5CWDZkWHlkRGp5RmJrNm5NSWRyZEJNLTlsVHhSbWd5akdWNVNzVlNUSGRFNVVtcHJDOVRSbWxScFJGWmFjdWx5ZkQyejhTNWxYYw?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 02:55 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795067700,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "How the War in Iran Will Remake the Global Energy Order - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yU0FMWnlOQ0Q5ajRGOTRXcGczQzJkSmo5VzlBOEJCOU9OVlluNXZNQmNTZzFlN0dLV1N4b1o0SmxBTVBka2EyejU1Q2xkVHRnWGRjUl84LTRtSlJpUU9sSjBYNERPbk9RNDJWOFBrZm43UHM?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 02:00 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795064406,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Steadies as Supply, US Inventories Offset Mideast Tensions - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXlwQndZSEVFRGU0OXNRTjk5d19faVN6T1pTcVFidDVfblppSDU4UU0xU0o1QnNGbHhDRW1CbG5VSU9OVWpDWEpEd1Jpa3NOQ1RxZkZiUS1LRXc0d2lZV2oxekdHZEhXVjcyemhwSEVnbHNDUGZKRXl5OFNXczJxNU11b25EQy0tM3U3cEVqUWY3aDBHbnBCOWQxTFZCUQ?oc=5",

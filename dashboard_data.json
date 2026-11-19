@@ -3350,7 +3350,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-15"
+      "pub_date": "2026-11-16"
     },
     "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html": {
       "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
@@ -4532,6 +4532,17 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.jpost.com/american-politics/article-915540": {
+      "summary": "The Senate voted 51 to 48, largely along party lines, to defeat a war powers resolution that had previously passed the House of Representatives.",
+      "tags": [
+        "us iran",
+        "Donald Trump",
+        "senate"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4694,7 +4705,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-19T11:05:36.532699+00:00",
   "last_generated_date": "2026-11-19",
-  "last_generated_time": "2026-11-19T16:01:59.534626+00:00",
+  "last_generated_time": "2026-11-19T17:02:24.461410+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4737,6 +4748,20 @@
           "published": "Nov 19, 2026 · 11:36 BRT",
           "pub_date": "2026-11-19",
           "pub_ts": 1795099004,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0xLbmVSbGZvbm5GVkFJaGNGUzFDLXc3Rkh6b0RwR1BWVHRvV0taRVJIV2Z2NWROX3djNTl0LUdGXzliWm96bXA1VFRfT2ZMNUNPRElqRXp5eF9ObHZZeVFvOVROY3NwSlNBUV8xUzM2U091bnY5d1J0LUlSUmZlMjhTU05fTzFjQmg1eVg2SjBIV0tkQzRVSGVjX3BrSVJlYXJVMlZFTXkyZUFHQWZKa3NPQUM?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 10:28 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795094939,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

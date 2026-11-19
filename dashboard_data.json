@@ -4583,6 +4583,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.washingtonpost.com/national-security/2026/11/19/gao-report-finds-iran-war-has-worsened-us-munitions-shortage/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/backing-trump-us-senate-republicans-block-iran-war-resolution/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915545": {
+      "summary": "Iran’s Foreign Ministry spokesman asked whether the world had learned from 2003 or was “about to let them deceive the public on a grand scale all over again.”",
+      "tags": [
+        "Iran",
+        "Iraq",
+        "chemical weapons",
+        "wmd",
+        "Donald Trump"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4745,12 +4788,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-19T11:05:36.532699+00:00",
   "last_generated_date": "2026-11-19",
-  "last_generated_time": "2026-11-19T19:02:07.837268+00:00",
+  "last_generated_time": "2026-11-19T20:02:18.906388+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Unexpected Fallout From the Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUVreHFPd0U0ZGxSQ1NJT3YzazIwVEdYRHJIa1B1Zm9keXdqOC1EalpXRW1CQjNsaWl1Z1Q4UkVJdEhkTnBOVVFDdEtFVHdEaWZBU3RVNEJjYXRyMUk5QUFxam1BSnl6REJZNTBPWnpNZGx6RXNwdkNZbS1nN29pY3VXWWpkaVVsMkp3?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 18:40 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795124437,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEoxaHJPaXd5UXlkcXc4S0ZUcGtZMm9aS3VYSWE5ZjRXaDlFUWk4RVdhdFZPdUR2cnZaazktcmlQYmtDUzRZdHlLRnhyclFHTU9JNVJOT1EyQXlLX1BwMVM4ZDg0V0c0dnZERURRRzBrb1FWTndScXdLM0pJTlZOaHJsRkdkRVljcjN4NTZXNExUMnVxOEZVS0FlQ05GQQ?oc=5",
@@ -6319,6 +6376,20 @@
           "published": "Nov 18, 2026 · 10:58 BRT",
           "pub_date": "2026-11-18",
           "pub_ts": 1795010329,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Average diesel prices are under $6 per gallon for the first time in months - Axios",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IMkdKSVJkV2xvM0Itc3BVUFpUOUVkeDBuejRBVDdjRDZkRHhNRm9kcUN5d0F1Nk9CMnFETllSb3U2amthQjJQdHEwZjRlcWNsQ00yMXJ6OGZnV1FTZUpQSUtwR3J2LU40Wk81X1BGdEU?oc=5",
+          "source": "Axios",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 16, 2026 · 14:14 BRT",
+          "pub_date": "2026-11-16",
+          "pub_ts": 1794849242,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

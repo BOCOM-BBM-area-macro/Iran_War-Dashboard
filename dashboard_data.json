@@ -4035,7 +4035,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-18"
+      "pub_date": "2026-11-19"
     },
     "https://www.reuters.com/world/us/hearing-us-navy-chief-blasted-over-iran-war-its-toll-sailors-2026-11-17/": {
       "summary": "",
@@ -4330,6 +4330,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.timesofisrael.com/iran-war-sparked-largest-threat-to-energy-security-in-history-says-energy-agency/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.jpost.com/business-and-innovation/article-915413": {
+      "summary": "Energy markets have been rattled this year by the conflict, which has curbed shipping through the Strait of Hormuz, a route that typically carries about a fifth of global oil and natural gas.",
+      "tags": [
+        "Iran",
+        "natural gas",
+        "oil",
+        "iran war scenario",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4473,6 +4496,34 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Iran war could slash global oil demand by over 4% by 2035, IEA says - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53UzVIWkdLUUpFaFJyMTk5N0JweUJfVVAtSG9jWl9Va3JCeXRSbXY1dEVFX1d6VExvTTY4a2hTM1QyOUxENVhWTWZMZFg0NGpaZ3RDdVdZZktEc1hDRWF0MWY3bElTbGp2a3RxSQ?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 04:43 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795074199,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran war sparked ‘largest threat’ to energy security in history, says energy agency - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlFIQm1fcV9kOG9KZjQzRWhobmgtczdYYnVjMFVwUm9udUJwSk4taHloWmQwcjJqbGw4R2NHSmdFNWlMV3VpRVlaWm1uSy1KQXFvYmdSeHNQYnFFb2ZyTWRFX3FILXo0ckkyUmpIbVo5XzhGWTg0cDdSdEJtSjI1NldaY1J5N0dYMnlzZEh0SHhKcS1MSW4yaUFMWjljZlN0aW9mZlFHMHd6Ujl6aVRXStIBtgFBVV95cUxPam9ReE5JN3B5N2Zqd3F4bDlFRFdZVmdyNDFCdGU4Nmw2SnpqbFRoTlYxcVRsZ0dlbno0aTBlWWVIaDFYLTBjMVF4MXJDZUdZWWl5aVl0QVNKdDRLY0dFdXp1dEROdENGblhFeFRFSEZzVk5rbDZIREJydG9YWDNONkpfdF9WZlNkNnhwc0F6Y1B4NVlXcklBbGVyUUtMNHpFcV96bmFKa3hNRHZ3b1VHVm9QWUhpQQ?oc=5",
+          "source": "The Times of Israel",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 04:04 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795071872,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkRNTmVJRC1mZzYtOE1lWkpzLUYybFdUbTdtRmItWjJCZFBlMXpNQkJ5cDdpX3Z0dlp3MFhaOTFCU1Rmczg1MWs1SUhOY3B1cVp5UDlQM0ZkQ3dWd2dsZldjdWo4cHQyQk5CWDZkWHlkRGp5RmJrNm5NSWRyZEJNLTlsVHhSbWd5akdWNVNzVlNUSGRFNVVtcHJDOVRSbWxScFJGWmFjdWx5ZkQyejhTNWxYYw?oc=5",
           "source": "WSJ",
@@ -4495,6 +4546,20 @@
           "published": "Nov 19, 2026 · 02:00 BRT",
           "pub_date": "2026-11-19",
           "pub_ts": 1795064406,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran War Has Permanently Redrawn Global Energy Markets, IEA Says - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkMxTFBmT3huaHNaNW4yQm9mblZaZmp1YUx6eFliYWpHVy1LNkxWVmpobW0wNzV5SDktYUlIbFpWMDE5VFZnSUxHdXI1SVhObG5BNlVNQ2xqRUt2ZGFUNDlvY1NCR0FRRlR4dmRoSTZJenVRX3BfOHNLWXJqdnI0NXVFbTZoa1N0UDNDQkYwWEl2Tm9kMWtoV3FhX1JTRWNFQ3dzeG9sLXRKNHdPMEY4Z0d0LUREOEVmam5fMnVNUTJGNE4wZ0x1eQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 02:00 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795064400,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

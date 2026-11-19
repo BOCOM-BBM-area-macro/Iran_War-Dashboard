@@ -4469,6 +4469,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.jpost.com/opinion/article-915199": {
+      "summary": "US intelligence now points to possible Iranian plans for a radiological attack in Washington. Tehran's threats should be taken seriously, whatever the damage to its nuclear program.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "Nuclear",
+        "Washington",
+        "Tehran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4631,12 +4644,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-19T11:05:36.532699+00:00",
   "last_generated_date": "2026-11-19",
-  "last_generated_time": "2026-11-19T14:02:15.528301+00:00",
+  "last_generated_time": "2026-11-19T15:02:08.825940+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US Sour Crude’s War Premium Vanishes as Supply Surges - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0E4SzBJeVR5Zm9EdEI5Uk5GNTB5cGFDblVvTGxPeUtTME9wRVVtT05wZExkNkR4X000QUdNdTVVNVFIS1ZLbTZjcFZrLVZmRGt6WGJ1cEt5RVJSTkozeEVsb3lSSHlGQmJMTVF4TkxhR1dMV3RBcGJ4Y2gtN0Eybkl4djVTOVBDVkVzLW5GeFh1dWs4c1ZfRmpXRE9wWDlza0xlYk9HSQ?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 13:45 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795106706,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Canada Producer Prices Rise Again in October, Buoyed by Energy Products - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSk5XNXA3b2xDdS1GeklUYTB6SE9jN1RKYkFBeHNVd2VjSGwtejVWVXJXZnRFWWFfYmxXM0ItWEdNNlRHVURFR0RvZktMd3dlLWlYLXlGS2xzbmlrOUd3R3lQbTFvVE03TVp0cm1McVJyOVl3anJYRnpWLWdSOG1zNGtNZ25EMXpqdlMxRlFEWGVQd3E5TFVTQWl6T3VLbDN2dXY4ZVJwemtwd0E?oc=5",
@@ -6313,6 +6340,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It. - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlhOSFhnS0gxeWJ6VmVuUWJENWVFMUFfZVlVd25TQnJRUEpRS0hJWHppUHZYbno5bURZZ0lBM19CclJNQ2VvNDlZR2o0ZVFyVHFfcnE2ODl2X25BMVdGaHRjZG1hVUo0T0MtWHIxSlBVOUF4X2Ruc2JneGtnUmxpYmFXbmVHNWFoc3FOQTVuSTV1cERpRzE5ZzJwWjExOWdGWmhjZHFn?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 02:00 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795064413,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US, Iran exchange fire despite talks with mediators - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV29iM2xvSHBZbjBVTy1QTFd3aUVKb2ZnMjY3a2wzWWo5eGRGV2UxSTcwTUJCeVFUaDc5TFhoaE1HbC14UVg5NUtRLUE4bXB5M0o2UnhCOXoxVEFLd29QYmJYdWg2M2h5NG80Rkk4X1BaOE5fTUpJVUctOTBIZEltS2FfSXRXeEFFOVNqaFNBaGljVmxubGJnWERTUC05ek5vX0tubUt6cUd2Qi1SZ3NSMUFtVnlHLUtqSzRiUVl3?oc=5",

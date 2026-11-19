@@ -4035,7 +4035,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-19"
+      "pub_date": "2026-11-18"
     },
     "https://www.reuters.com/world/us/hearing-us-navy-chief-blasted-over-iran-war-its-toll-sailors-2026-11-17/": {
       "summary": "",
@@ -4449,6 +4449,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4611,12 +4621,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-19T11:05:36.532699+00:00",
   "last_generated_date": "2026-11-19",
-  "last_generated_time": "2026-11-19T11:02:16.458813+00:00",
+  "last_generated_time": "2026-11-19T12:01:45.380758+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Canada Producer Prices Rise Again in October, Buoyed by Energy Products - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSk5XNXA3b2xDdS1GeklUYTB6SE9jN1RKYkFBeHNVd2VjSGwtejVWVXJXZnRFWWFfYmxXM0ItWEdNNlRHVURFR0RvZktMd3dlLWlYLXlGS2xzbmlrOUd3R3lQbTFvVE03TVp0cm1McVJyOVl3anJYRnpWLWdSOG1zNGtNZ25EMXpqdlMxRlFEWGVQd3E5TFVTQWl6T3VLbDN2dXY4ZVJwemtwd0E?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 11:36 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795099004,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war could slash global oil demand by over 4% by 2035, IEA says - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53UzVIWkdLUUpFaFJyMTk5N0JweUJfVVAtSG9jWl9Va3JCeXRSbXY1dEVFX1d6VExvTTY4a2hTM1QyOUxENVhWTWZMZFg0NGpaZ3RDdVdZZktEc1hDRWF0MWY3bElTbGp2a3RxSQ?oc=5",

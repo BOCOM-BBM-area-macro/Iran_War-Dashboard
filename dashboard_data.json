@@ -4035,7 +4035,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-19"
+      "pub_date": "2026-11-18"
     },
     "https://www.reuters.com/world/us/hearing-us-navy-chief-blasted-over-iran-war-its-toll-sailors-2026-11-17/": {
       "summary": "",
@@ -4289,7 +4289,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-18"
+      "pub_date": "2026-11-19"
     },
     "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19": {
       "summary": "",
@@ -4363,52 +4363,155 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.reuters.com/graphics/IRAN-CRISIS/ILLUSTRATED/jnvwdgmnrpw/": {
+      "summary": "An immersive graphic memoir gives an inside look at an Iranian womanâs year of protest and war",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718": {
+      "summary": "U.S. President Donald Trump and Chinese and Russian counterparts Xi Jinping and Vladimir Putin met for an unprecedented three-way meeting on Thursday, concluding their talks after more than an hour.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-18T11:03:42.175861+00:00",
+  "last_digest_time": "2026-11-19T11:05:11.913687+00:00",
   "digest": {
-    "digest": "Recent developments indicate a significant escalation in the Iran conflict, with reports of US strikes on an IRGC site on Qeshm Island and subsequent Iranian retaliatory fire targeting Kuwait. This exchange of fire occurred despite ongoing mediation efforts. Iran has also reportedly attacked Bahrain, further widening the conflict's scope. The US Navy chief faced criticism regarding the war and its impact on sailors. Iran is reportedly drafting plans to escalate hostilities, potentially by increasing attacks on tankers in the Strait of Hormuz, in an effort to influence negotiations. Economic indicators, such as a fall in Dubai Airport traffic, reflect the ongoing instability. The situation highlights a period of heightened regional tensions and direct military engagement between the US and Iran.",
+    "digest": "The ongoing Iran War continues to significantly impact global energy markets, with projections indicating a permanent redrawing of these markets and a potential slash in reliance on the Strait of Hormuz. Reports suggest the conflict has already curbed shipping through this vital route, affecting global oil and natural gas supply. Amidst the war, the United States is reportedly weighing new strikes on Iran, with Israeli officials pressing for action and warning of potential chemical weapons use. Concurrently, internal dissent within Iran persists, with accounts detailing the harsh realities faced by citizens amidst protests and war, including significant casualties and arrests. Diplomatic efforts appear strained, as evidenced by faltering peace talks and Iran's missile and drone firings at Gulf Arab states. International engagements also saw a trilateral meeting between the US, China, and Russia, where discussions touched upon regional conflicts, including the Iran war, and the critical flow of oil through the Strait of Hormuz. Intelligence communications between the US and the Middle East were reportedly disrupted, impacting signals intelligence and cybersecurity operations. The duration of the Iran War is also being considered as a key factor in monetary policy decisions by central banks. Political tensions within the US have also surfaced regarding the handling of the Iran war. Finally, reports indicate that Iran has hit key infrastructure, though the US denies Iranian involvement in certain tech outages.",
     "top_themes": [
-      "Escalation of Hostilities",
-      "Regional Tensions",
-      "US-Iran Exchange of Fire"
+      "Iran War Impact on Energy Markets",
+      "US-Iran Tensions and Potential Strikes",
+      "Internal Iranian Unrest and Protests",
+      "International Diplomatic Engagements"
     ],
     "next_events": [
       {
-        "title": "Iranian Maritime Escalation in Hormuz",
-        "description": "Iran has explicitly drafted plans to escalate the war, including stepping up attacks against tankers in the Strait of Hormuz, to push Washington back to the negotiating table. This critical choke point for global oil supply could see increased maritime incidents, impacting energy markets and international shipping security."
+        "title": "Durability of the US-Iran Ceasefire",
+        "description": "A ceasefire agreement between the United States and Iran has reportedly been reached, with details to be ironed out. Analysts should closely monitor the implementation and adherence to this agreement, as well as any factors that could lead to its breakdown or renewed hostilities, especially given past escalations and Trump's prior threats."
       },
       {
-        "title": "Widening Regional Conflict and Targets",
-        "description": "Recent reports indicate Iran has fired at Kuwait and attacked Bahrain, widening its strikes beyond direct US targets. This suggests a potential for Iran to broaden its retaliatory actions to other Gulf states, increasing regional instability and the risk of broader conflict."
+        "title": "Future US and Israeli Military Posture",
+        "description": "Despite a reported ceasefire, previous reports indicated Trump weighed new strikes on Iran, with Israel pressing for action and warning of chemical weapons. Observers should watch for any shifts in US policy, Israeli lobbying efforts, and intelligence assessments regarding Iranian capabilities that could trigger renewed military interventions."
       },
       {
-        "title": "US Response to Iranian Escalation",
-        "description": "The US has already conducted strikes on IRGC sites, and further Iranian escalation, especially against shipping or regional allies, will likely prompt a significant US counter-response. Analysts should monitor US military deployments, official statements on red lines, and the nature of any retaliatory actions taken."
+        "title": "Long-Term Global Energy Market Restructuring",
+        "description": "The Iran War has been identified by the IEA as a permanent catalyst for slashing reliance on the Strait of Hormuz and redrawing global energy markets, posing the 'largest threat' to energy security in history. Analysts should track global investment in alternative energy routes and sources, changes in oil demand, and the long-term impact on energy prices and supply chains."
       },
       {
-        "title": "Status of US-Iran Mediation Efforts",
-        "description": "Despite ongoing exchanges of fire, talks with mediators are reportedly continuing. Iran's planned escalation could either completely derail these diplomatic efforts or intensify the urgency for a breakthrough, making the future of negotiations highly uncertain."
+        "title": "Internal Stability and Protests within Iran",
+        "description": "The conflict has exacerbated internal unrest in Iran, with widespread protests, government crackdowns, and deep societal divisions. Monitoring the frequency and scale of protests, the government's response, and the humanitarian situation will be crucial for understanding the regime's stability and the potential for further internal upheaval."
       },
       {
-        "title": "US Domestic Political Impact on War Strategy",
-        "description": "The US Navy chief is facing scrutiny over the war's toll on sailors, indicating growing domestic pressure. Analysts should watch for shifts in public opinion, congressional debates, and how these internal dynamics might influence the administration's strategic decisions regarding military engagement and diplomatic efforts."
+        "title": "Regional Escalation and Diplomatic Efforts",
+        "description": "Iran has fired missiles and drones at Gulf Arab states, and peace talks have faltered, indicating a risk of broader regional conflict. Watch for further military actions by Iran or its proxies, the status of any renewed peace initiatives, and the involvement of major powers like the US, China, and Russia in mediating or influencing regional dynamics."
+      },
+      {
+        "title": "Cybersecurity and Intelligence Infrastructure Resilience",
+        "description": "Reports of an NSA outage disrupting classified US intelligence communications in the Mideast during the war, alongside Iranian hits on key infrastructure, highlight vulnerabilities. Future events to watch include efforts to bolster cybersecurity defenses, the attribution of cyberattacks, and the potential for intelligence gaps to impact strategic decision-making."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-18T11:03:56.750555+00:00",
+  "last_watch_time": "2026-11-19T11:05:35.921798+00:00",
   "relevant_news": [
     {
-      "title": "US Strikes IRGC Site on Qeshm Island as Iran War Flares Anew - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/iran-says-us-attacked-qeshm-island-in-latest-exchange-of-strikes",
+      "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ",
+      "url": "https://www.wsj.com/business/energy-oil/the-iran-war-could-permanently-slash-reliance-on-hormuz-iea-says-eefd69b3",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Nov 19, 2026 · 02:55 BRT",
+      "pub_date": "2026-11-19",
+      "pub_ts": 1795067700,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "NSA outage disrupted classified US intelligence communications with Mideast amid Iran war - report - The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-915383",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 19, 2026 · 01:36 BRT",
+      "pub_date": "2026-11-19",
+      "pub_ts": 1795062970,
+      "summary": "The disruption affected the agency’s cryptologic center in Georgia, a facility that oversees signals intelligence and cybersecurity operations focused on the Middle East.",
+      "tags": [
+        "Iran",
+        "United States",
+        "NSA",
+        "us iran",
+        "Middle East"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran war sparked ‘largest threat’ to energy security in history, says energy agency - The Times of Israel",
+      "url": "https://www.timesofisrael.com/iran-war-sparked-largest-threat-to-energy-security-in-history-says-energy-agency/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Nov 19, 2026 · 04:04 BRT",
+      "pub_date": "2026-11-19",
+      "pub_ts": 1795071872,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter - The New York Times",
+      "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Nov 18, 2026 · 12:37 BRT",
+      "pub_date": "2026-11-18",
+      "pub_ts": 1795016231,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran War Has Permanently Redrawn Global Energy Markets, IEA Says - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/iran-war-has-permanently-redrawn-global-energy-markets-iea-says?srnd=phx-green",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 18, 2026 · 04:40 BRT",
-      "pub_date": "2026-11-18",
-      "pub_ts": 1794987600,
+      "published": "Nov 19, 2026 · 02:00 BRT",
+      "pub_date": "2026-11-19",
+      "pub_ts": 1795064400,
       "summary": "",
       "tags": [
         "extracted",
@@ -4420,75 +4523,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran fires at Kuwait, widening strikes after US hit Iranian island - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/bahrain-warns-potential-threat-urges-residents-seek-safety-2026-11-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 17, 2026 · 20:15 BRT",
-      "pub_date": "2026-11-17",
-      "pub_ts": 1794957300,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "US, Iran exchange fire despite talks with mediators - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 17, 2026 · 02:45 BRT",
-      "pub_date": "2026-11-17",
-      "pub_ts": 1794894300,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran attacks Bahrain and Kuwait as Middle East tensions flare - Financial Times",
-      "url": "https://www.ft.com/content/8a46c15b-3671-49fc-b367-a7ddd5b1a4f4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Nov 18, 2026 · 06:13 BRT",
+      "title": "Iran Hit Key Infrastructure, Isn’t Behind Tech Outages, US Says - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/iran-has-targeted-us-energy-and-finance-networks-mullin-says",
+      "source": "Bloomberg",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Nov 18, 2026 · 21:17 BRT",
       "pub_date": "2026-11-18",
-      "pub_ts": 1794993199,
+      "pub_ts": 1795047420,
       "summary": "",
       "tags": [
         "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War - WSJ",
-      "url": "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 17, 2026 · 04:08 BRT",
-      "pub_date": "2026-11-17",
-      "pub_ts": 1794899280,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -4497,9 +4543,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-18T11:03:57.268614+00:00",
-  "last_generated_date": "2026-11-18",
-  "last_generated_time": "2026-11-18T23:02:02.635992+00:00",
+  "last_relevant_time": "2026-11-19T11:05:36.532699+00:00",
+  "last_generated_date": "2026-11-19",
+  "last_generated_time": "2026-11-19T08:02:09.813107+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -4482,6 +4482,56 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.reuters.com/world/trump-says-us-will-see-what-happens-conflict-with-iran-after-january-1-2026-11-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.reuters.com/business/energy/energy-security-response-iran-war-could-cut-oil-demand-by-4-by-2035-iea-says-2026-11-19/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-war-has-cost-us-more-than-48-billion-pentagon-official-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
+    },
+    "https://www.timesofisrael.com/netanyahu-reportedly-tells-aides-renewed-war-with-iran-unavoidable-as-trump-weighs-options/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4644,12 +4694,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-19T11:05:36.532699+00:00",
   "last_generated_date": "2026-11-19",
-  "last_generated_time": "2026-11-19T15:02:08.825940+00:00",
+  "last_generated_time": "2026-11-19T16:01:59.534626+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEoxaHJPaXd5UXlkcXc4S0ZUcGtZMm9aS3VYSWE5ZjRXaDlFUWk4RVdhdFZPdUR2cnZaazktcmlQYmtDUzRZdHlLRnhyclFHTU9JNVJOT1EyQXlLX1BwMVM4ZDg0V0c0dnZERURRRzBrb1FWTndScXdLM0pJTlZOaHJsRkdkRVljcjN4NTZXNExUMnVxOEZVS0FlQ05GQQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 14:25 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795109117,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US Sour Crude’s War Premium Vanishes as Supply Surges - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0E4SzBJeVR5Zm9EdEI5Uk5GNTB5cGFDblVvTGxPeUtTME9wRVVtT05wZExkNkR4X000QUdNdTVVNVFIS1ZLbTZjcFZrLVZmRGt6WGJ1cEt5RVJSTkozeEVsb3lSSHlGQmJMTVF4TkxhR1dMV3RBcGJ4Y2gtN0Eybkl4djVTOVBDVkVzLW5GeFh1dWs4c1ZfRmpXRE9wWDlza0xlYk9HSQ?oc=5",
@@ -4715,6 +4779,20 @@
           "published": "Nov 19, 2026 · 02:55 BRT",
           "pub_date": "2026-11-19",
           "pub_ts": 1795067700,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlVLekJsV1lXTGsxOWFDNkJLTDZhV3JSeFRQWS1zNXlobWJ6cDB0dXdhUE5IZ2VBY3N1THJOdVFtNmhEcnVTcUpWS2x4cVJRV1BscHJ2cVRmbGxtUEJLd0xvRUhkYlpUZU1PcnZpUzJ5cWx5R3ZnWFN5VXdiWmkwczJpci1yQkpVWWtMNV9yY3JHc3NfNzc0V2R2ZWlkSDVaa3V1MUhJVUNoSV9MQl91ckE5c2J4c1c2VFlPSHBIYzAxX2RZYXpZ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 02:05 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795064700,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

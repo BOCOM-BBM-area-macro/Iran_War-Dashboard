@@ -4645,7 +4645,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-20"
+      "pub_date": "2026-11-19"
     },
     "https://www.reuters.com/markets/europe/vallourecs-core-profit-falls-26-hit-by-iran-war-disruption-us-2026-11-20/": {
       "summary": "",
@@ -4712,6 +4712,39 @@
       "tags": [
         "extracted",
         "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-20"
+    },
+    "https://www.ft.com/content/2fd462dc-a8fe-412e-a05f-226f9d7a0028?syn-25a6b1a6=1": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-20"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/idf-spokesman-says-no-changes-to-guidelines-amid-reports-of-plans-to-renew-war-with-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-20"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915595": {
+      "summary": "Israel and the US are weighing another attack on Iran, while Democrats are seeking to restrict war funding ahead of taking control of Congress.",
+      "tags": [
+        "Israel",
+        "Iran",
+        "United States",
+        "Donald Trump",
+        "Democrats"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -4848,7 +4881,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-20T11:07:46.263150+00:00",
   "last_generated_date": "2026-11-20",
-  "last_generated_time": "2026-11-20T14:02:15.773353+00:00",
+  "last_generated_time": "2026-11-20T15:02:22.450245+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

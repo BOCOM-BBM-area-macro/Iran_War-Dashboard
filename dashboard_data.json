@@ -4789,6 +4789,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-20"
+    },
+    "https://www.reuters.com/business/energy/oil-prices-edge-higher-houthi-attacks-riyadh-raise-supply-concerns-2026-11-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-19"
     }
   },
   "last_digest_success": true,
@@ -4921,7 +4931,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-20T11:07:46.263150+00:00",
   "last_generated_date": "2026-11-20",
-  "last_generated_time": "2026-11-20T18:01:35.433014+00:00",
+  "last_generated_time": "2026-11-20T19:01:48.528782+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -4936,6 +4946,20 @@
           "published": "Nov 20, 2026 · 05:52 BRT",
           "pub_date": "2026-11-20",
           "pub_ts": 1795164757,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 23:00 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795140000,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

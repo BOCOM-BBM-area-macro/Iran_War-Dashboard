@@ -4799,6 +4799,48 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-19"
+    },
+    "https://www.reuters.com/world/us/us-vice-president-vance-declines-say-he-would-have-ordered-iran-strikes-2026-11-20/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-20"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915613": {
+      "summary": "Araghchi added that Iran was seeking \"an agreement that would ensure there was no further war.\"",
+      "tags": [
+        "Iran",
+        "United States",
+        "us iran",
+        "Abbas Araghchi"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-20"
+    },
+    "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-20"
+    },
+    "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-20"
     }
   },
   "last_digest_success": true,
@@ -4931,7 +4973,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-20T11:07:46.263150+00:00",
   "last_generated_date": "2026-11-20",
-  "last_generated_time": "2026-11-20T19:01:48.528782+00:00",
+  "last_generated_time": "2026-11-20T20:02:28.399021+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7389,6 +7431,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Canadian Stocks Head for Correction as Metals, Tech Push Lower - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXdsRW5kNGg0c3BaSWlOMkJ5MUN5MGMtQ1dpSTdFQ3hSd2dSb1Q5TmNnbG1pM0RKUXA0WC1udkVrU1ZEaDNZUDlDUEFFSmc3NlUwUmI1dWZXMFpDdzFBMGYtMzdCWDBqVktlQlk1cXlGVlhWeHJBeFViZ2RUbVU4cElfS3VINkdUVGxnWG9DMzBVWEZSanNFdFFoSjJWUTZ1NGRFbUtTY2JMdG9YMDlGZXBR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 20, 2026 · 18:37 BRT",
+          "pub_date": "2026-11-20",
+          "pub_ts": 1795210653,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "NSA outage disrupted classified US intelligence communications with Mideast amid Iran war - report - The Jerusalem Post",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaDJURjU0X29VVHpZZnl1a3FvSk5xQnRpcDJSR0NDM3FJcWZ5SF9JeGc3YjFqLUxvZ3ZSMDFaWmtnZEdmSXFJMlJabVMtN0FUamRzM1JYYUNOczZKblVz?oc=5",

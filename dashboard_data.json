@@ -4562,7 +4562,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-19"
+      "pub_date": "2026-11-20"
     },
     "https://www.washingtonpost.com/politics/2026/11/19/senate-rejects-resolution-block-trump-striking-iran/": {
       "summary": "",
@@ -5020,6 +5020,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-22"
+    },
+    "https://www.timesofisrael.com/idf-said-to-warn-netanyahu-an-israeli-attack-on-iran-could-spark-multi-front-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-22"
     }
   },
   "last_digest_success": true,
@@ -5175,7 +5185,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-22T11:09:35.796919+00:00",
   "last_generated_date": "2026-11-22",
-  "last_generated_time": "2026-11-22T18:01:55.820768+00:00",
+  "last_generated_time": "2026-11-22T19:02:05.507068+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7034,6 +7044,20 @@
           "published": "Nov 19, 2026 · 02:00 BRT",
           "pub_date": "2026-11-19",
           "pub_ts": 1795064413,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Trump Says Iran Looking at Gas, Bioweapons But Downplays Threat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNENfYnNDRjVaNEkzT3h5NUpwdHZPNGF0aVhpXy0tYURiaURpSURxSGN4anlFNTJTR2hlTnVSUGptTk1RSzNFenlEdmwxSnQyTG5TWmNNWW96ZndhaHNDYk9TRUVWUEw1VlBQVnEtS3VvZEdGRDZXVmlyajR3LXMzRnZkMVZ5bFhPelB6RC11NEVTc0ZQMXltRkpaSGFjekhPTFNWeHdnZHJCQUUwVlpGaERCNA?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 18, 2026 · 23:07 BRT",
+          "pub_date": "2026-11-18",
+          "pub_ts": 1795054020,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

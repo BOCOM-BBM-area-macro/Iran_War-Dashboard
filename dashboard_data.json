@@ -4970,40 +4970,116 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-21T11:06:23.703091+00:00",
+  "last_digest_time": "2026-11-22T11:09:26.993364+00:00",
   "digest": {
-    "digest": "Recent reports indicate ongoing discussions and considerations regarding potential new strikes against Iran, even as the US military expresses concerns about the strain on its forces. Lawmakers are divided, complicating efforts to avert a government shutdown, with the Iran war emerging as a significant point of contention. US officials have stated that Iran desires a deal, but finds the proposed terms unacceptable. In parallel, Iran's Foreign Minister has conveyed that the nation is pursuing an agreement to prevent further conflict, suggesting a diplomatic avenue remains open. Political figures are navigating questions about the justification and outcomes of past military actions, with some expressing support for current administration decisions while sidestepping direct approval of prior engagements. The broader geopolitical landscape includes concerns linking US foreign policy, specifically concerning Iran, to other significant international issues.",
+    "digest": "Bahrain reported that Iran struck an industrial facility, with air defenses intercepting other attacks. The IRGC claimed responsibility for targeting US positions in relation to this incident. The US has denied Iranian accounts of a missile damaging an F-16 over the Gulf. Separately, the UAE is conducting oil shipments through the Strait of Hormuz, navigating risks associated with Iranian presence. In diplomatic developments, Iran's allies, China and Russia, have expressed opposition to any changes in Iran's nuclear doctrine. Discussions regarding potential government shutdowns in the US have been framed within the context of the ongoing Iran war, with political figures expressing support for past administrations' policies without necessarily endorsing specific actions. The broader geopolitical landscape indicates continued regional tensions and strategic maneuvering by various international actors.",
     "top_themes": [
-      "US-Iran Relations",
-      "Congressional Politics",
-      "Military Operations"
+      "Regional Military Activity",
+      "Geopolitical Stances",
+      "Naval Operations"
     ],
     "next_events": [
       {
-        "title": "Potential US Military Escalation",
-        "description": "President Trump is reportedly 'considering new Iran strikes' (Article 3). Analysts should closely monitor any intelligence, rhetoric, or troop movements that could indicate an imminent military action, as this would significantly escalate tensions and potentially trigger a broader conflict."
+        "title": "Escalation of Direct or Proxy Attacks on Gulf States",
+        "description": "Recent reports indicate Iranian strikes on Bahraini industrial facilities, with the IRGC claiming US targets. Analysts should monitor for further direct or proxy attacks by Iran on Gulf Cooperation Council (GCC) states or US assets in the region, and assess the veracity of Iranian claims versus actual impact and potential for broader conflict."
       },
       {
-        "title": "Congressional Stance on Iran War and Funding",
-        "description": "The US Congress is divided over the Iran war, impacting efforts to avert a government shutdown (Article 4). Watch how these divisions influence defense spending, authorization for military action, and overall US policy towards Iran, as congressional action or inaction could constrain or enable future executive decisions."
+        "title": "US Military and Diplomatic Posture Towards Iran",
+        "description": "The US has denied Iranian claims of damaging an F-16, while domestic political discussions acknowledge an ongoing 'Iran war' despite internal issues. Watch for the US's official responses to alleged attacks, its military deployments, and any shifts in diplomatic strategy towards Iran, especially concerning its regional activities and nuclear program."
       },
       {
-        "title": "Iran's Diplomatic Overtures and Conditions",
-        "description": "Iran's Foreign Minister Araghchi states Iran 'hopes diplomacy can end war with US' and seeks 'an agreement that would ensure there was no further war' (Article 6). Analysts should look for specific proposals, conditions, or willingness from Iran to engage in negotiations, contrasting with President Trump's view of current Iranian terms as 'unacceptable' (Article 2)."
+        "title": "Iran's Nuclear Program and International Support",
+        "description": "Iran asserts that its allies, China and Russia, oppose changes to its nuclear doctrine, suggesting a firm stance on its nuclear ambitions. Analysts should closely track any developments in Iran's nuclear enrichment activities, its cooperation with international inspectors, and the diplomatic support it receives from key allies, which could impact regional stability."
       },
       {
-        "title": "US Military Readiness and Strain",
-        "description": "The US military has warned of 'strain on forces' (Article 3). Any consideration of new strikes or prolonged engagement will put further pressure on military resources. Analysts should assess reports on troop deployments, equipment readiness, and the long-term sustainability of US military operations in the region."
+        "title": "Maritime Security in the Strait of Hormuz",
+        "description": "The UAE is reportedly conducting risky oil shuttling operations past Iran in the Strait of Hormuz, a critical chokepoint. Monitor for any Iranian interference with international shipping, naval confrontations, or increased tensions in this vital waterway, which could disrupt global energy markets and trigger broader conflict."
       },
       {
-        "title": "Evolution of US-Iran Deal Terms",
-        "description": "While Trump says Iran wants a deal but its terms are 'unacceptable' (Article 2), Iran is actively seeking an agreement to prevent further conflict (Article 6). Analysts should watch for any shifts in the stated conditions or 'red lines' from either the US or Iran that could open a pathway for renewed negotiations or, conversely, harden positions leading to continued stalemate or conflict."
+        "title": "Iranian Disinformation and Information Warfare",
+        "description": "Iran has made claims about damaging a US F-16, which the US has denied, highlighting an ongoing information war. Analysts should watch for further Iranian propaganda, false claims of military successes, or attempts to sow discord, and assess their impact on regional perceptions and international responses."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-21T11:06:31.266348+00:00",
+  "last_watch_time": "2026-11-22T11:09:35.263097+00:00",
   "relevant_news": [
+    {
+      "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 21, 2026 · 16:15 BRT",
+      "pub_date": "2026-11-21",
+      "pub_ts": 1795288500,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions - The Times of Israel",
+      "url": "https://www.timesofisrael.com/bahrain-says-iranian-attack-hit-industrial-facility-irgc-says-it-targeted-us-positions/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Nov 21, 2026 · 22:10 BRT",
+      "pub_date": "2026-11-21",
+      "pub_ts": 1795309845,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "US denies Iranian account that missile damaged F-16 over Gulf - Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 21, 2026 · 13:23 BRT",
+      "pub_date": "2026-11-21",
+      "pub_ts": 1795278226,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Opinion | A government shutdown won’t stop the Iran war - The Washington Post",
+      "url": "https://www.washingtonpost.com/opinions/2026/11/21/democrats-can-fight-stop-trumps-iran-war-without-shutdown/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Nov 21, 2026 · 17:15 BRT",
+      "pub_date": "2026-11-21",
+      "pub_ts": 1795292100,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "Vance declines to say Iran war was worth it, but says he supports Trump - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/",
@@ -5024,76 +5100,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump considering new Iran strikes as US military warns of strain on forces - Financial Times",
-      "url": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Nov 20, 2026 · 17:19 BRT",
-      "pub_date": "2026-11-20",
-      "pub_ts": 1795205989,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "ft.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Congress struggles to avert US shutdown as Iran war divides lawmakers - Reuters",
-      "url": "https://www.reuters.com/legal/transactional/congress-struggles-avert-us-shutdown-iran-war-divides-lawmakers-2026-11-20/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 20, 2026 · 15:01 BRT",
-      "pub_date": "2026-11-20",
-      "pub_ts": 1795197701,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran still hopes diplomacy can end war with US, Foreign Minister Araghchi tells newspaper - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-915613",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Nov 20, 2026 · 20:14 BRT",
-      "pub_date": "2026-11-20",
-      "pub_ts": 1795216470,
-      "summary": "Araghchi added that Iran was seeking \"an agreement that would ensure there was no further war.\"",
-      "tags": [
-        "Iran",
-        "United States",
-        "us iran",
-        "Abbas Araghchi"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Burnham’s Big Worry Isn’t Brexit or Welfare, It’s Trump and Iran - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/burnham-s-big-worry-isn-t-brexit-or-welfare-it-s-trump-and-iran",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 21, 2026 · 03:00 BRT",
+      "title": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Nov 21, 2026 · 14:00 BRT",
       "pub_date": "2026-11-21",
-      "pub_ts": 1795240800,
+      "pub_ts": 1795280400,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5102,9 +5120,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-21T11:06:31.699599+00:00",
-  "last_generated_date": "2026-11-21",
-  "last_generated_time": "2026-11-21T23:02:03.850017+00:00",
+  "last_relevant_time": "2026-11-22T11:09:35.796919+00:00",
+  "last_generated_date": "2026-11-22",
+  "last_generated_time": "2026-11-22T08:02:11.724005+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -4309,7 +4309,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-19"
+      "pub_date": "2026-11-18"
     },
     "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html": {
       "summary": "",
@@ -4329,7 +4329,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-21"
+      "pub_date": "2026-11-19"
     },
     "https://www.timesofisrael.com/iran-war-sparked-largest-threat-to-energy-security-in-history-says-energy-agency/": {
       "summary": "",
@@ -4944,6 +4944,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-21"
+    },
+    "https://www.timesofisrael.com/iran-says-its-allies-china-and-russia-oppose-change-in-nuclear-doctrine/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-22"
     }
   },
   "last_digest_success": true,

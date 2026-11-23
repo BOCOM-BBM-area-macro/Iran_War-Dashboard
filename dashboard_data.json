@@ -3667,7 +3667,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-18"
+      "pub_date": "2026-11-16"
     },
     "https://www.washingtonpost.com/world/2026/11/16/critics-blame-us-iran-war-crackdown-clerics-bahrain/": {
       "summary": "",
@@ -5218,6 +5218,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-23"
+    },
+    "https://www.timesofisrael.com/iran-says-it-will-use-all-available-tools-against-us-naval-blockade/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-23"
     }
   },
   "last_digest_success": true,
@@ -5379,7 +5389,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-23T11:06:37.530057+00:00",
   "last_generated_date": "2026-11-23",
-  "last_generated_time": "2026-11-23T12:02:26.162968+00:00",
+  "last_generated_time": "2026-11-23T13:02:19.942351+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7739,6 +7749,20 @@
           "_rank": 0
         },
         {
+          "title": "Nigeria's Arik Air to add capacity in 2027 after spike in jet fuel eases - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2JtUTVDUzl3T1d1QTNZeFZESldlMmpvSnpZYUdLUS1wRURUTlhpcG5kSnpyUi10QXo4T3psY3NQSkRvN2VOZ3U1dWg2Z1pVazd5ZUdpZGdJTy1Sb1BRMjZNVl9yb18wc1A4T2NvMlpjaTdzcU5FZEhIcWhNMENMei1IaUFuUmt2Qktxd3dfS043dUNQVHYxOGFQQVFlY2F6akthRXdYMElKM1hnZ2w3V041MXM?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 19, 2026 · 14:09 BRT",
+          "pub_date": "2026-11-19",
+          "pub_ts": 1795108191,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Wizz Air warns of higher costs on top of fuel pressures - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXEyX2JOOWVveWNUalVoVEcyd08zcXZnZXJ5QmY4ZTBKSkNjSU5Za3dmQ3h2QnVXNktEN2ZrUUwxN0JndHRWNWg2WE9YNERsOHdsZ2RLa05wR2kxUndHUmNIQzNzTF95TERJRTM1SjBIZUJwZ2FrSUdJaEtvN2FSUjYtNDA4OE0tTHlBVXhCVHJQeTNhbUxybmZNdHV4ZW44UEZCZXNrbDB1TkJnSUJuNA?oc=5",
           "source": "Reuters",
@@ -7963,6 +7987,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 23, 2026 · 11:22 BRT",
+          "pub_date": "2026-11-23",
+          "pub_ts": 1795443766,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Canadian Stocks Head for Correction as Metals, Tech Push Lower - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXdsRW5kNGg0c3BaSWlOMkJ5MUN5MGMtQ1dpSTdFQ3hSd2dSb1Q5TmNnbG1pM0RKUXA0WC1udkVrU1ZEaDNZUDlDUEFFSmc3NlUwUmI1dWZXMFpDdzFBMGYtMzdCWDBqVktlQlk1cXlGVlhWeHJBeFViZ2RUbVU4cElfS3VINkdUVGxnWG9DMzBVWEZSanNFdFFoSjJWUTZ1NGRFbUtTY2JMdG9YMDlGZXBR?oc=5",

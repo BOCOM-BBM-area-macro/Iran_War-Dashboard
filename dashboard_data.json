@@ -4890,7 +4890,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-21"
+      "pub_date": "2026-11-23"
     },
     "https://www.timesofisrael.com/liveblog_entry/irans-army-claims-it-damaged-us-f-16-over-gulf-forcing-emergency-landing-no-immediate-comment-from-us-military/": {
       "summary": "",
@@ -5139,6 +5139,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-23"
+    },
+    "https://www.washingtonpost.com/business/2026/11/23/senate-gop-leaders-signal-openness-cutting-off-iran-war-funding/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-23/fake-iran-tanker-highlights-uncertainty-around-hormuz-traffic": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-23"
     }
   },
   "last_digest_success": true,
@@ -5300,12 +5320,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-23T11:06:37.530057+00:00",
   "last_generated_date": "2026-11-23",
-  "last_generated_time": "2026-11-23T08:02:14.992127+00:00",
+  "last_generated_time": "2026-11-23T09:02:05.838478+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjhUVlhiN1o4Y294bTNYVmxvSXZYWWJGUXNYNGVzY1h5Tms0Nkh1VmFCdkdIeWxRd2FQZG1va3BuUW9EanM5b1RTYU1ZZlAxQ3dzWnNVdkJhXzBjazRybXg4REI4NmFSc3p4WldYT0tGT1BGXzhFamtmYmpWR29xdFdoOXNpdXhlWE9mb2xVQVNZUDRTd0wwRG1jLXhuVDZ1dTI5elF4T0NGTUR5cmxwV2xB?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 23, 2026 · 05:09 BRT",
+          "pub_date": "2026-11-23",
+          "pub_ts": 1795421340,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage - Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",

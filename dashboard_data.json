@@ -4890,7 +4890,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-23"
+      "pub_date": "2026-11-21"
     },
     "https://www.timesofisrael.com/liveblog_entry/irans-army-claims-it-damaged-us-f-16-over-gulf-forcing-emergency-landing-no-immediate-comment-from-us-military/": {
       "summary": "",
@@ -5142,53 +5142,57 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-22T11:09:26.993364+00:00",
+  "last_digest_time": "2026-11-23T11:06:25.845832+00:00",
   "digest": {
-    "digest": "Bahrain reported that Iran struck an industrial facility, with air defenses intercepting other attacks. The IRGC claimed responsibility for targeting US positions in relation to this incident. The US has denied Iranian accounts of a missile damaging an F-16 over the Gulf. Separately, the UAE is conducting oil shipments through the Strait of Hormuz, navigating risks associated with Iranian presence. In diplomatic developments, Iran's allies, China and Russia, have expressed opposition to any changes in Iran's nuclear doctrine. Discussions regarding potential government shutdowns in the US have been framed within the context of the ongoing Iran war, with political figures expressing support for past administrations' policies without necessarily endorsing specific actions. The broader geopolitical landscape indicates continued regional tensions and strategic maneuvering by various international actors.",
+    "digest": "Recent reports indicate a heightened focus on potential military actions against Iran, with former Israeli diplomat Yaki Dayan suggesting a political window for a strike before the new Congress convenes. Concurrently, former President Trump has indicated that Iran strikes may resume next year if talks fail, and has also claimed Iran has increased attacks following the Democratic midterm victory. In the maritime domain, Iranian attacks in the Hormuz area have reached their highest level since the start of the war, coinciding with data showing Iran's oil on water has hit zero due to the ongoing US blockade. This blockade is prompting Iran to state it will utilize all available tools to confront the US naval presence. Meanwhile, concerns are being raised that an agreement with Iran could pose a greater long-term threat to Israel than war itself. The economic repercussions extend to global markets, with oil prices experiencing fluctuations influenced by Middle Eastern flows, and a commentary highlighting a stubborn diesel shortage despite an Iran war recovery narrative. Furthermore, the US power advantage over China is reportedly diminishing due to the effects of the Iran war, underscoring the broader geopolitical and economic implications of the conflict.",
     "top_themes": [
-      "Regional Military Activity",
-      "Geopolitical Stances",
-      "Naval Operations"
+      "Iran's nuclear ambitions",
+      "US-Iran relations",
+      "Oil market impact"
     ],
     "next_events": [
       {
-        "title": "Escalation of Direct or Proxy Attacks on Gulf States",
-        "description": "Recent reports indicate Iranian strikes on Bahraini industrial facilities, with the IRGC claiming US targets. Analysts should monitor for further direct or proxy attacks by Iran on Gulf Cooperation Council (GCC) states or US assets in the region, and assess the veracity of Iranian claims versus actual impact and potential for broader conflict."
+        "title": "Potential for Pre-emptive US Strikes",
+        "description": "Trump has suggested that strikes against Iran could resume next year if talks fail, with some analysts identifying a political window for action before a new US Congress takes office. Analysts should closely monitor US-Iran diplomatic engagements, any shifts in Trump's rhetoric, and military movements, particularly in the lead-up to January."
       },
       {
-        "title": "US Military and Diplomatic Posture Towards Iran",
-        "description": "The US has denied Iranian claims of damaging an F-16, while domestic political discussions acknowledge an ongoing 'Iran war' despite internal issues. Watch for the US's official responses to alleged attacks, its military deployments, and any shifts in diplomatic strategy towards Iran, especially concerning its regional activities and nuclear program."
+        "title": "Escalation of Maritime Conflict in Hormuz",
+        "description": "Iranian attacks on ships in the Strait of Hormuz are at their highest level, driven by increasing economic pressure from the US naval blockade. Watch for further Iranian actions against international shipping and potential direct confrontations with US naval forces, as Iran has vowed to use all its tools to confront the blockade."
       },
       {
-        "title": "Iran's Nuclear Program and International Support",
-        "description": "Iran asserts that its allies, China and Russia, oppose changes to its nuclear doctrine, suggesting a firm stance on its nuclear ambitions. Analysts should closely track any developments in Iran's nuclear enrichment activities, its cooperation with international inspectors, and the diplomatic support it receives from key allies, which could impact regional stability."
+        "title": "Israel's Response to Iran's Nuclear Ambitions",
+        "description": "Israel views a potential agreement with Iran as a greater long-term threat than war, and its intelligence has warned against unilateral strikes sparking a multifront conflict. Analysts must closely track Israeli government decisions, public statements, and any indications of pre-emptive military action, which could rapidly escalate regional tensions."
       },
       {
-        "title": "Maritime Security in the Strait of Hormuz",
-        "description": "The UAE is reportedly conducting risky oil shuttling operations past Iran in the Strait of Hormuz, a critical chokepoint. Monitor for any Iranian interference with international shipping, naval confrontations, or increased tensions in this vital waterway, which could disrupt global energy markets and trigger broader conflict."
+        "title": "Iran's Nuclear Program Advancement",
+        "description": "Reports indicate that Iran is doubling down on its nuclear ambitions, posing a significant proliferation risk. Monitor IAEA reports on Iran's enrichment levels, any breaches of international agreements, and the effectiveness of diplomatic efforts to curb its nuclear program."
       },
       {
-        "title": "Iranian Disinformation and Information Warfare",
-        "description": "Iran has made claims about damaging a US F-16, which the US has denied, highlighting an ongoing information war. Analysts should watch for further Iranian propaganda, false claims of military successes, or attempts to sow discord, and assess their impact on regional perceptions and international responses."
+        "title": "Global Energy Market Volatility",
+        "description": "While oil prices react to Mideast flows, a persistent diesel shortage masks broader energy market vulnerabilities exacerbated by the Iran situation. Analysts should track global oil and diesel supply, price fluctuations, and the impact of any further disruptions in the Strait of Hormuz on international energy security."
+      },
+      {
+        "title": "Shifting Global Power Dynamics",
+        "description": "The ongoing Iran conflict is reportedly contributing to a shrinking US power advantage over China, impacting broader geopolitical competition. Observe how the US allocates resources and attention between the Middle East and the Indo-Pacific, and how China leverages these dynamics to advance its strategic interests."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-22T11:09:35.263097+00:00",
+  "last_watch_time": "2026-11-23T11:06:36.933301+00:00",
   "relevant_news": [
     {
-      "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 21, 2026 · 16:15 BRT",
-      "pub_date": "2026-11-21",
-      "pub_ts": 1795288500,
+      "title": "Trump Suggests Iran Strikes Will Resume Next Year If Talks Fail - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-iran-talks-continue-year-end-republican-party-midterms-middle-east-arab",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Nov 23, 2026 · 03:55 BRT",
+      "pub_date": "2026-11-23",
+      "pub_ts": 1795416900,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5196,14 +5200,35 @@
       "sentiment_success": false
     },
     {
-      "title": "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions - The Times of Israel",
-      "url": "https://www.timesofisrael.com/bahrain-says-iranian-attack-hit-industrial-facility-irgc-says-it-targeted-us-positions/",
+      "title": "Iranian attacks on ships in Hormuz area at highest level since start of war, maritime data shows - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915773",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 23, 2026 · 03:24 BRT",
+      "pub_date": "2026-11-23",
+      "pub_ts": 1795415056,
+      "summary": "Iran is feeling increasing economic effects as the US blockade continues to stop the country's export of oil, with Kpler reporting that Iran's oil on water has hit zero.",
+      "tags": [
+        "Iran",
+        "Persian Gulf",
+        "oil",
+        "us iran",
+        "Gulf of Oman"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "sentiment_success": false
+    },
+    {
+      "title": "IDF said to warn Netanyahu an Israeli attack on Iran could spark multifront war - The Times of Israel",
+      "url": "https://www.timesofisrael.com/idf-said-to-warn-netanyahu-an-israeli-attack-on-iran-could-spark-multi-front-war/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 21, 2026 · 22:10 BRT",
-      "pub_date": "2026-11-21",
-      "pub_ts": 1795309845,
+      "published": "Nov 22, 2026 · 18:42 BRT",
+      "pub_date": "2026-11-22",
+      "pub_ts": 1795383720,
       "summary": "",
       "tags": [
         "extracted",
@@ -5215,14 +5240,33 @@
       "sentiment_success": false
     },
     {
-      "title": "US denies Iranian account that missile damaged F-16 over Gulf - Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/",
+      "title": "Opinion | Iran Doubles Down on Its Nuclear Ambitions - WSJ",
+      "url": "https://www.wsj.com/opinion/iran-doubles-down-on-its-nuclear-ambitions-3d3ca7d3",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Nov 22, 2026 · 13:43 BRT",
+      "pub_date": "2026-11-22",
+      "pub_ts": 1795365780,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran says it will use all its tools to confront US naval blockade - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 21, 2026 · 13:23 BRT",
-      "pub_date": "2026-11-21",
-      "pub_ts": 1795278226,
+      "published": "Nov 23, 2026 · 07:01 BRT",
+      "pub_date": "2026-11-23",
+      "pub_ts": 1795428064,
       "summary": "",
       "tags": [
         "extracted",
@@ -5234,56 +5278,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Opinion | A government shutdown won’t stop the Iran war - The Washington Post",
-      "url": "https://www.washingtonpost.com/opinions/2026/11/21/democrats-can-fight-stop-trumps-iran-war-without-shutdown/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Nov 21, 2026 · 17:15 BRT",
-      "pub_date": "2026-11-21",
-      "pub_ts": 1795292100,
+      "title": "US Power Advantage Over China Shrinks Further on Iran War Effect - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Nov 22, 2026 · 08:30 BRT",
+      "pub_date": "2026-11-22",
+      "pub_ts": 1795347000,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Vance declines to say Iran war was worth it, but says he supports Trump - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Nov 21, 2026 · 03:09 BRT",
-      "pub_date": "2026-11-21",
-      "pub_ts": 1795241372,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 21, 2026 · 14:00 BRT",
-      "pub_date": "2026-11-21",
-      "pub_ts": 1795280400,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5292,9 +5298,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-22T11:09:35.796919+00:00",
-  "last_generated_date": "2026-11-22",
-  "last_generated_time": "2026-11-22T23:02:02.677335+00:00",
+  "last_relevant_time": "2026-11-23T11:06:37.530057+00:00",
+  "last_generated_date": "2026-11-23",
+  "last_generated_time": "2026-11-23T08:02:14.992127+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

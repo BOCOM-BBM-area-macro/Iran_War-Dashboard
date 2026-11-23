@@ -4890,7 +4890,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-21"
+      "pub_date": "2026-11-23"
     },
     "https://www.timesofisrael.com/liveblog_entry/irans-army-claims-it-damaged-us-f-16-over-gulf-forcing-emergency-landing-no-immediate-comment-from-us-military/": {
       "summary": "",
@@ -5116,6 +5116,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-23"
+    },
+    "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-23"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915785": {
+      "summary": "Former Israeli diplomat Yaki Dayan says Trump has a political window to strike Iran before January, despite opposition from Qatar and JD Vance.",
+      "tags": [
+        "Iran",
+        "Congress",
+        "Iran nuclear",
+        "Donald Trump",
+        "Strait of Hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-23"
     }
   },
   "last_digest_success": true,
@@ -5286,6 +5309,20 @@
           "published": "Nov 23, 2026 · 04:00 BRT",
           "pub_date": "2026-11-23",
           "pub_ts": 1795417200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iranian attacks on ships in Hormuz area at highest level since start of war, maritime data shows - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSWDJ3dGtDQ1RaWjFnbXZ5VEdJZVR3T1IwSW5RaUpqSDdJOW5KN3h3QXFKY3Q3UW1IVUhEOXBienRvRlZLUDREaXlGSC1PM2N0aWc2eXEzMGdVS2xGeUFoX1ZSY09yUzhENmc?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 23, 2026 · 03:24 BRT",
+          "pub_date": "2026-11-23",
+          "pub_ts": 1795415056,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

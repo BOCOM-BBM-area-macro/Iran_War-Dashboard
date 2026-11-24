@@ -5337,6 +5337,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-24"
+    },
+    "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-24"
     }
   },
   "last_digest_success": true,
@@ -5494,7 +5504,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-24T11:05:46.763858+00:00",
   "last_generated_date": "2026-11-24",
-  "last_generated_time": "2026-11-24T09:02:19.068595+00:00",
+  "last_generated_time": "2026-11-24T10:02:03.546183+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -3786,7 +3786,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-23"
+      "pub_date": "2026-11-24"
     },
     "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/": {
       "summary": "",
@@ -5283,7 +5283,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-23"
+      "pub_date": "2026-11-24"
     },
     "https://www.jpost.com/middle-east/iran-news/article-915899": {
       "summary": "The statement to IRNA claimed that the tankers were being escorted and protected by the US military, but support \"failed to prevent the incidents from occuring.\"",
@@ -5316,7 +5316,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-23"
+      "pub_date": "2026-11-24"
     },
     "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23": {
       "summary": "",
@@ -5327,6 +5327,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-23"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-11-24/the-world-is-underpricing-more-us-iran-war": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-24"
     }
   },
   "last_digest_success": true,
@@ -5494,6 +5504,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "The World Is Underpricing the Risk of More War in Iran - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDlDRW0teFE3cHprZUY1clo0bjRCck5QZUJNY3hERFpsS1ZBWEJhRnV5ZWUxb1NYQzhVcWtDalBuV0ZzVDRvM193MG80bkRWUG1SWmVnRGVaQ1pCeGtUT2JkMWtram03WGhoWlQwRlBjbXNIa2JMTTE5YVdNUTRTWnRRbG0tZ0RqTDRWOFpyWnYtTmVZUTQ5Z1pkOGg?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 24, 2026 · 02:00 BRT",
+          "pub_date": "2026-11-24",
+          "pub_ts": 1795496400,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVqRHVCelVPeW5pSEVHY2NRTVVFNUVLemNoM3M5a0N1MERHM2t6OEdOUGlSRVA5VW5wYzhuNVUzTlFYYzBXMmlIbmZ4bkNVT09ON280dld0WFBPbnJpaG1NODN0XzJZV1ZTRFcyR3hUZGZ3NW5Pc04zZ1JIaG5mR2hicHdTcGxuYTNhNE1LemwtclRGTllHQ04wcng4Zw?oc=5",

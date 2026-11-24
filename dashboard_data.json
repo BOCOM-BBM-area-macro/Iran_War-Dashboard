@@ -4798,7 +4798,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-20"
+      "pub_date": "2026-11-19"
     },
     "https://www.reuters.com/world/us/us-vice-president-vance-declines-say-he-would-have-ordered-iran-strikes-2026-11-20/": {
       "summary": "",
@@ -5274,6 +5274,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-23"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-23"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-915899": {
+      "summary": "The statement to IRNA claimed that the tankers were being escorted and protected by the US military, but support \"failed to prevent the incidents from occuring.\"",
+      "tags": [
+        "Iran",
+        "United States",
+        "blockade",
+        "Iranian Revolutionary Guards",
+        "Hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-23"
     }
   },
   "last_digest_success": true,
@@ -5435,12 +5458,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-23T11:06:37.530057+00:00",
   "last_generated_date": "2026-11-23",
-  "last_generated_time": "2026-11-23T20:02:20.881641+00:00",
+  "last_generated_time": "2026-11-23T21:06:27.965196+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVqRHVCelVPeW5pSEVHY2NRTVVFNUVLemNoM3M5a0N1MERHM2t6OEdOUGlSRVA5VW5wYzhuNVUzTlFYYzBXMmlIbmZ4bkNVT09ON280dld0WFBPbnJpaG1NODN0XzJZV1ZTRFcyR3hUZGZ3NW5Pc04zZ1JIaG5mR2hicHdTcGxuYTNhNE1LemwtclRGTllHQ04wcng4Zw?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 23, 2026 · 20:20 BRT",
+          "pub_date": "2026-11-23",
+          "pub_ts": 1795476052,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Steadies as Middle East Tensions Vie With Ample Supply - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZldpS0pzSnV4MTFveW5XYzJmeGg5MTIzNm9RVWZka25nb05xbmU0T2s4Sm5vbllUTnZTLVNpUnEyUk01a1otTVpKQ20zU2l5VmhsNkdSWV9EMExoa0VaVWpYUXZVREoxdjk5Mk1wN2Q2QkswQmU5aUY1T2pBUTRyVnVmOHg2b05YNmxSaDdZYzZKbWM5UTFUVndxUGlwQQ?oc=5",

@@ -5424,6 +5424,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-24"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-916036": {
+      "summary": "In an Oval Office interview with the New York Post, Trump said the US war effort was funded until roughly the end of January and acknowledged that the new Congress could limit his military options.",
+      "tags": [
+        "Iran",
+        "chemical weapons",
+        "iran missiles",
+        "Donald Trump",
+        "blockade"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-24"
+    },
+    "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-24"
     }
   },
   "last_digest_success": true,

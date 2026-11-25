@@ -5517,43 +5517,116 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-25"
+    },
+    "https://www.washingtonpost.com/world/2026/11/25/eisenkot-pushing-oust-netanyahu-sharpens-warnings-over-new-strikes-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-25"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/easyjet-annual-net-profit-plunges-96-as-fuel-prices-soar-amid-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-25"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-24T11:04:59.203616+00:00",
+  "last_digest_time": "2026-11-25T11:03:33.541128+00:00",
   "digest": {
-    "digest": "The global market may be underpricing the escalating risk of further conflict involving Iran, with recent reports indicating potential Iranian involvement in numerous cyberattacks targeting maritime vessels. Concurrently, discussions within the US Senate suggest a potential shift in funding for the Iran war, influenced by ongoing government shutdown negotiations. Despite facing significant internal challenges, including food shortages, Iran's regime is assessed as unlikely to collapse during the current conflict, though its future structure, potentially leaning towards a more militarized or religious form, remains uncertain following leadership changes. Diplomatic efforts are ongoing, with signs of continuing US-Iran diplomacy potentially contributing to a decline in oil prices. However, a persistent diesel shortage complicates the oil market's recovery from war-related impacts. In a separate development, intelligence suggests Israel's Mossad played a role in thwarting an Islamic State-linked terror plot targeting public events.",
+    "digest": "President Trump has stated that the war effort in Iran is funded through January, indicating a potential limited window for new military operations before the new Congress convenes. This funding timeline suggests that legislative changes could impact future military options. Discussions within the Trump administration have included the possibility of targeted killings of senior Iranian leaders as a strategy to conclude the conflict, though opponents caution this could harden Tehran's stance and hinder diplomatic efforts. Concurrently, concerns are rising globally about the underpricing of risks associated with further conflict in Iran. The economic repercussions of the war are becoming increasingly apparent, with significant impacts on corporate profits and consumer costs. EasyJet's annual net profit has seen a substantial decline, attributed to soaring fuel prices exacerbated by the ongoing conflict. British household energy bills are also projected to increase significantly due to the war. These economic pressures, coupled with potential political constraints on military action, highlight a complex and evolving situation surrounding the Iran war.",
     "top_themes": [
-      "Geopolitical Risk",
-      "Cyber Warfare",
-      "Economic Impact"
+      "US War Funding and Political Constraints",
+      "Economic Impacts of the Iran War",
+      "Potential Escalation Strategies"
     ],
     "next_events": [
       {
-        "title": "US-Iran Diplomatic & Military Posture",
-        "description": "Analysts should closely monitor the status of US-Iran diplomatic engagements, as signs of continued dialogue can temper market volatility. Simultaneously, watch for any US legislative actions regarding Iran war funding, which could signal a shift in Washington's approach and potentially escalate tensions."
+        "title": "US Military Action Window Closes in January",
+        "description": "President Trump has indicated that current war funding for operations related to Iran expires by the end of January. This creates a potential limited window for significant military action before a new Democratic Congress, which may seek to constrain presidential military options, takes office. Analysts should monitor any accelerated military planning or rhetoric leading up to this deadline."
       },
       {
-        "title": "Iran's Internal Stability & Regime Trajectory",
-        "description": "Despite growing food shortages, experts suggest Iran's regime is resilient to collapse during conflict. Key indicators to watch include public unrest over economic conditions and any internal power shifts that could determine whether the regime leans more military-oriented or religious in its future form."
+        "title": "Potential for Targeted Strikes on Iranian Leadership",
+        "description": "Reports indicate the Trump administration is actively debating the possibility of targeted killings of senior Iranian leaders. This highly escalatory measure could be seen as an attempt to swiftly end the conflict but risks hardening Tehran's stance and undermining future diplomatic efforts. Watch for any intelligence leaks or official statements regarding such operations, and the international community's reaction."
       },
       {
-        "title": "Iran's Cyber & Asymmetric Warfare",
-        "description": "The US is investigating Iran's potential involvement in numerous cyberattacks against ships, indicating a growing threat in maritime security. Analysts should track attribution of these attacks and any retaliatory measures, as they could signify an escalation in non-conventional conflict."
+        "title": "New Congress to Reshape US Iran Policy",
+        "description": "With a new Democratic Congress approaching, President Trump has acknowledged that his military options regarding Iran could be limited. The incoming legislative body may push for a more diplomatic approach or seek to restrict executive authority on military engagements. Watch for early legislative initiatives, committee hearings, and statements from key congressional leaders that signal a shift in US Iran policy and potential constraints on military action."
       },
       {
-        "title": "Global Energy Market Response",
-        "description": "While oil prices may show recovery from war fears, a persistent global diesel shortage remains a critical concern. Monitor crude oil and refined product prices, as well as supply chain disruptions, for signs of broader economic impact stemming from regional instability."
-      },
-      {
-        "title": "Israel's Strategic Actions Against Iran",
-        "description": "Former Mossad leadership explicitly states Israel's objective to 'defeat Iran,' highlighting a proactive stance. Watch for increased intelligence operations, military rhetoric, and any direct or indirect actions taken by Israel that could escalate regional tensions."
+        "title": "Escalating Global Economic Disruptions",
+        "description": "The ongoing conflict is already impacting global markets, causing delays in IPOs, significant profit drops for airlines, and rising energy costs for households. Analysts should continue to monitor key economic indicators, commodity prices (especially oil), and corporate earnings reports for further signs of widespread economic disruption and potential recessionary pressures stemming from the conflict."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-24T11:05:46.339520+00:00",
+  "last_watch_time": "2026-11-25T11:03:40.090814+00:00",
   "relevant_news": [
+    {
+      "title": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op - The Times of Israel",
+      "url": "https://www.timesofisrael.com/trump-says-iran-war-funded-through-january-suggesting-limited-window-for-new-op/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Nov 25, 2026 · 06:00 BRT",
+      "pub_date": "2026-11-25",
+      "pub_ts": 1795597200,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump administration mulls targeted killings of Iranian leaders to end war – report - The Times of Israel",
+      "url": "https://www.timesofisrael.com/trump-administration-mulls-targeted-killings-of-iranian-leaders-to-end-war-report/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Nov 24, 2026 · 16:18 BRT",
+      "pub_date": "2026-11-24",
+      "pub_ts": 1795547880,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Eisenkot, pushing to oust Netanyahu, sharpens warnings over new strikes on Iran - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/11/25/eisenkot-pushing-oust-netanyahu-sharpens-warnings-over-new-strikes-iran/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Nov 25, 2026 · 07:46 BRT",
+      "pub_date": "2026-11-25",
+      "pub_ts": 1795603600,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "The World Is Underpricing the Risk of More War in Iran - Bloomberg.com",
       "url": "https://www.bloomberg.com/opinion/articles/2026-11-24/the-world-is-underpricing-more-us-iran-war",
@@ -5574,18 +5647,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Senate GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/11/23/senate-gop-leaders-signal-openness-cutting-off-iran-war-funding/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Nov 23, 2026 · 16:00 BRT",
-      "pub_date": "2026-11-23",
-      "pub_ts": 1795460401,
+      "title": "British household energy bills to jump 26% amid Iran war, regulator says - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/british-household-energy-bills-to-jump-26-amid-iran-war-regulator-says/",
+      "source": "The Times of Israel",
+      "domain": "timesofisrael.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
+      "published": "Nov 25, 2026 · 04:30 BRT",
+      "pub_date": "2026-11-25",
+      "pub_ts": 1795591830,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "timesofisrael.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5593,88 +5666,30 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran faces growing food shortages, but regime collapse unlikely during war, expert warns - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-915875",
+      "title": "Donald Trump administration debates strikes on senior Iranian leaders - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915997",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Nov 23, 2026 · 13:56 BRT",
-      "pub_date": "2026-11-23",
-      "pub_ts": 1795452983,
-      "summary": "The country has managed to overcome the killing of Khamenei, but questions remain over what form the regime will take, particularly whether it will become more military-oriented or more religious.",
+      "published": "Nov 24, 2026 · 13:39 BRT",
+      "pub_date": "2026-11-24",
+      "pub_ts": 1795538390,
+      "summary": "Supporters say strikes against hardliners could help bring the war to a close, while opponents warn they could harden Tehran’s position and undermine future talks.",
       "tags": [
         "Iran",
         "Tehran",
-        "israel defense news",
-        "Middle East",
-        "War"
+        "Donald Trump",
+        "IRGC"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-eyes-iran-possible-culprit-dozens-new-cyberattacks-against-ships-wsj-reports-2026-11-24/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 23, 2026 · 21:18 BRT",
-      "pub_date": "2026-11-23",
-      "pub_ts": 1795479480,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage - Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/oils-iran-war-recovery-masks-stubborn-diesel-shortage-2026-11-23/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 23, 2026 · 04:00 BRT",
-      "pub_date": "2026-11-23",
-      "pub_ts": 1795417200,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 24, 2026 · 05:01 BRT",
-      "pub_date": "2026-11-24",
-      "pub_ts": 1795507317,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-24T11:05:46.763858+00:00",
-  "last_generated_date": "2026-11-24",
-  "last_generated_time": "2026-11-24T23:02:15.419584+00:00",
+  "last_relevant_time": "2026-11-25T11:03:40.586921+00:00",
+  "last_generated_date": "2026-11-25",
+  "last_generated_time": "2026-11-25T08:01:29.541901+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

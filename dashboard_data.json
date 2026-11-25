@@ -5436,7 +5436,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-25"
+      "pub_date": "2026-11-24"
     },
     "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html": {
       "summary": "",
@@ -5752,12 +5752,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-25T11:03:40.586921+00:00",
   "last_generated_date": "2026-11-25",
-  "last_generated_time": "2026-11-25T15:02:00.375077+00:00",
+  "last_generated_time": "2026-11-25T16:02:04.244916+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Yemen's Houthis claim attack on major Saudi oil refinery - CBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10XzNGbllicGZQM29nWlVLYk5rRXozbVVtZktuQW9zQmdPWG91UUhoYnliRXZVNXZjSzlzX0VHVEFVMFFOZUxfcnhPS0t4bVBieE1UREh0ZUpsV1BmRjFpYVEwdTlONWVvVkhyVnhvUFNLNk95NDF1dzFvQXE2UQ?oc=5",
+          "source": "CBC",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 25, 2026 · 12:04 BRT",
+          "pub_date": "2026-11-25",
+          "pub_ts": 1795619070,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakM0aVEtei1RVzZkTUVZYlFabWlDYWpzTktyaGU2WHZqaGRkU0hJOHdsNDFUdU5GYzNOYzdZYnkwWnFYZ2daNlNvYkJ3ZWNjeDNTRm5HOUFtNW5nRjNYSVpaaGF0SF9xbjN6S1FpbVJ6MmFBYkdUeF9CMTZKRUdJT2RITmVSelAzWUJtTEIxQTN5Ry1YZEczX29iOHVuc0Q1bllidlBoN0VDNWVzYzZqU2RaNm5JRUctRDdsdGt2ZkEydWRVMV9wQUdHYw?oc=5",
@@ -5767,6 +5781,20 @@
           "published": "Nov 25, 2026 · 04:24 BRT",
           "pub_date": "2026-11-25",
           "pub_ts": 1795591440,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEl6LThLbVZLWTlSU3lNdHJLa2dnanBPQjdqRGdaeDd2bGU4VmpzVnRRZ1VETzdRelFLWnI0QVVkUE0tUUE0TDkyR2lpcEMzUGNFS09iWW1LREpvOHJkb25Fdkd2MWFSYWZQRkwwbGpQR21sYkxvRXI5ZHBJTGcxTzVDdGNWdjktUFQ2OTRsYmlUSEkyRU5qUWJKeTNkbF9FX2dYNTJsdXN1RlBsVDZVc3EzUGxOeFNZNm53?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 24, 2026 · 06:05 BRT",
+          "pub_date": "2026-11-24",
+          "pub_ts": 1795511144,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

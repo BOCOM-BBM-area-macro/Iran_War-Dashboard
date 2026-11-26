@@ -5708,6 +5708,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-26"
+    },
+    "https://www.wsj.com/world/middle-east/iranian-drone-attack-kills-two-italians-in-kuwait-5e360a35": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-26"
     }
   },
   "last_digest_success": true,
@@ -5855,12 +5865,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-26T11:07:50.232350+00:00",
   "last_generated_date": "2026-11-26",
-  "last_generated_time": "2026-11-26T14:01:27.584551+00:00",
+  "last_generated_time": "2026-11-26T15:01:57.846157+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Refining Profits Crash With Global Fuel Supply Rebounding - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDVHN1JxdmF2Z1JaVjhkTmtXQWtMcU1mSjZxeU5rem1GQ1hpc0tycFBZX251Z3dReGJwTTRxQURhOHBaVFdDTmttcF9GU2xpYXE4T3BkcWVORVF5akR4UC12TnFwRzVob3JTVTlOdk10eS1wQThYODZFeWIwWDFpWUNSbk5qTy0wQXJJbG0wcWIyTmZvVk1USDBpMEFJMTRLaEJxMFl4d0pwQ0Z5Mzd1ajJ3?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Nov 26, 2026 · 11:14 BRT",
+          "pub_date": "2026-11-26",
+          "pub_ts": 1795702483,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Holds Two-Day Gain as Mideast Tensions Fuel Market Jitters - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWM5bTBpVVdXcm1DeXd5eTFMWXRUWVFIalFzYnE5bGVqS3dVbldzMXFralFtOWdoaXZDS0NtbE83ME5ZS3cwZkdaRFJsTFlzcFlhQnhmbGF3a1hSdmVsUU9Dc1VLWXJmV2J2aTlETkhSWXd1dlNCamZOeEdlSnN6dXdCN3p5TUd5bDJsVlVpM0J6UVN3TzNEd2wyQ2ZpQQ?oc=5",

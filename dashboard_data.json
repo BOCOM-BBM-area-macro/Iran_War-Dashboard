@@ -5436,7 +5436,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-11-24"
+      "pub_date": "2026-11-25"
     },
     "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html": {
       "summary": "",
@@ -5673,6 +5673,41 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-11-26"
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-26/iran-attack-on-kuwait-kills-two-italian-rheinmetall-workers": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-916225": {
+      "summary": "The Islamic Republic’s Basij paramilitary organization has become one of Iran's main means of ideological indoctrination and an important part of its suppression of anti-regime sentiment.",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "IRGC",
+        "Mojtaba Khamenei",
+        "Basij"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-26"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-916219": {
+      "summary": "According to an assessment by the Institute for the Study of War and the Critical Threats Project at the American Enterprise Institute, Iran has continued efforts to improve its missile arsenal.",
+      "tags": [
+        "Iran",
+        "iran missiles",
+        "ballistic missile",
+        "IRGC"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-11-26"
     }
   },
   "last_digest_success": true,
@@ -5820,7 +5855,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-11-26T11:07:50.232350+00:00",
   "last_generated_date": "2026-11-26",
-  "last_generated_time": "2026-11-26T12:01:31.633261+00:00",
+  "last_generated_time": "2026-11-26T13:02:13.103239+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

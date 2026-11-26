@@ -5636,45 +5636,60 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-25T11:03:33.541128+00:00",
+  "last_digest_time": "2026-11-26T11:07:42.205628+00:00",
   "digest": {
-    "digest": "President Trump has stated that the war effort in Iran is funded through January, indicating a potential limited window for new military operations before the new Congress convenes. This funding timeline suggests that legislative changes could impact future military options. Discussions within the Trump administration have included the possibility of targeted killings of senior Iranian leaders as a strategy to conclude the conflict, though opponents caution this could harden Tehran's stance and hinder diplomatic efforts. Concurrently, concerns are rising globally about the underpricing of risks associated with further conflict in Iran. The economic repercussions of the war are becoming increasingly apparent, with significant impacts on corporate profits and consumer costs. EasyJet's annual net profit has seen a substantial decline, attributed to soaring fuel prices exacerbated by the ongoing conflict. British household energy bills are also projected to increase significantly due to the war. These economic pressures, coupled with potential political constraints on military action, highlight a complex and evolving situation surrounding the Iran war.",
+    "digest": "Recent reports indicate Iran's economy is under significant strain due to a U.S. blockade, with the nation stating its preparedness to withstand these pressures and efforts to curb price rises. A potential limited window for a new operation against Iran is suggested, with funding noted through January. Within Israel, political figures are sharpening warnings regarding potential new strikes on Iran, while simultaneously, internal political maneuvering is occurring. Separately, an Iranian ally has reportedly gained an upper hand in Yemen's war, highlighting regional proxy dynamics. Conflicting predictions regarding an Iran war are being offered by Israeli psychics, with some foreseeing an imminent confrontation and others advising normalcy. Disruptions from the Iran war are also impacting business plans, with one company targeting an IPO after such disruptions. Diplomatic efforts are focused on preventing the widening of the Ukraine war, with calls made to Russia to avoid actions that could escalate the conflict.",
     "top_themes": [
-      "US War Funding and Political Constraints",
-      "Economic Impacts of the Iran War",
-      "Potential Escalation Strategies"
+      "Iran's Economic Strain",
+      "Potential Iran Conflict Window",
+      "Regional Proxy Dynamics"
     ],
     "next_events": [
       {
-        "title": "US Military Action Window Closes in January",
-        "description": "President Trump has indicated that current war funding for operations related to Iran expires by the end of January. This creates a potential limited window for significant military action before a new Democratic Congress, which may seek to constrain presidential military options, takes office. Analysts should monitor any accelerated military planning or rhetoric leading up to this deadline."
+        "title": "US and Israeli Military Action Window",
+        "description": "Analysts should closely monitor the period leading up to and through January, as former President Trump's statement suggests a potential limited window for new operations against Iran. Simultaneously, watch for escalating warnings from Israeli military figures like Eisenkot, which could signal an imminent strike or increased pressure on the Netanyahu government regarding Iran."
       },
       {
-        "title": "Potential for Targeted Strikes on Iranian Leadership",
-        "description": "Reports indicate the Trump administration is actively debating the possibility of targeted killings of senior Iranian leaders. This highly escalatory measure could be seen as an attempt to swiftly end the conflict but risks hardening Tehran's stance and undermining future diplomatic efforts. Watch for any intelligence leaks or official statements regarding such operations, and the international community's reaction."
+        "title": "Iran's Economic Resilience and Internal Stability",
+        "description": "The ongoing 'silent war' of economic strain under the U.S. blockade is critical. Observe Iran's success in curbing price rises and its ability to withstand sanctions, as significant economic deterioration could lead to increased internal unrest or a more aggressive external posture."
       },
       {
-        "title": "New Congress to Reshape US Iran Policy",
-        "description": "With a new Democratic Congress approaching, President Trump has acknowledged that his military options regarding Iran could be limited. The incoming legislative body may push for a more diplomatic approach or seek to restrict executive authority on military engagements. Watch for early legislative initiatives, committee hearings, and statements from key congressional leaders that signal a shift in US Iran policy and potential constraints on military action."
-      },
-      {
-        "title": "Escalating Global Economic Disruptions",
-        "description": "The ongoing conflict is already impacting global markets, causing delays in IPOs, significant profit drops for airlines, and rising energy costs for households. Analysts should continue to monitor key economic indicators, commodity prices (especially oil), and corporate earnings reports for further signs of widespread economic disruption and potential recessionary pressures stemming from the conflict."
+        "title": "Escalation of Iranian Proxy Activities",
+        "description": "The success of Iranian allies in regional conflicts, such as in Yemen, indicates Iran's continued projection of power through proxies. Watch for further consolidation of influence or new destabilizing actions by these groups, which could trigger broader regional conflicts or international responses."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-25T11:03:40.090814+00:00",
+  "last_watch_time": "2026-11-26T11:07:49.735041+00:00",
   "relevant_news": [
+    {
+      "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Nov 26, 2026 · 00:00 BRT",
+      "pub_date": "2026-11-26",
+      "pub_ts": 1795662000,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
     {
       "title": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op - The Times of Israel",
       "url": "https://www.timesofisrael.com/trump-says-iran-war-funded-through-january-suggesting-limited-window-for-new-op/",
       "source": "The Times of Israel",
       "domain": "timesofisrael.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 25, 2026 · 06:00 BRT",
+      "published": "Nov 25, 2026 · 05:55 BRT",
       "pub_date": "2026-11-25",
-      "pub_ts": 1795597200,
+      "pub_ts": 1795596900,
       "summary": "",
       "tags": [
         "extracted",
@@ -5686,33 +5701,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump administration mulls targeted killings of Iranian leaders to end war – report - The Times of Israel",
-      "url": "https://www.timesofisrael.com/trump-administration-mulls-targeted-killings-of-iranian-leaders-to-end-war-report/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 24, 2026 · 16:18 BRT",
-      "pub_date": "2026-11-24",
-      "pub_ts": 1795547880,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Eisenkot, pushing to oust Netanyahu, sharpens warnings over new strikes on Iran - The Washington Post",
+      "title": "Eisenkot, pushing to oust Netanyahu, sharpens warnings over new Iran strikes - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2026/11/25/eisenkot-pushing-oust-netanyahu-sharpens-warnings-over-new-strikes-iran/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Nov 25, 2026 · 07:46 BRT",
+      "published": "Nov 25, 2026 · 15:00 BRT",
       "pub_date": "2026-11-25",
-      "pub_ts": 1795603600,
+      "pub_ts": 1795629600,
       "summary": "",
       "tags": [
         "extracted",
@@ -5724,37 +5720,18 @@
       "sentiment_success": false
     },
     {
-      "title": "The World Is Underpricing the Risk of More War in Iran - Bloomberg.com",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-24/the-world-is-underpricing-more-us-iran-war",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Nov 24, 2026 · 02:00 BRT",
-      "pub_date": "2026-11-24",
-      "pub_ts": 1795496400,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "British household energy bills to jump 26% amid Iran war, regulator says - The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/british-household-energy-bills-to-jump-26-amid-iran-war-regulator-says/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 25, 2026 · 04:30 BRT",
+      "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-it-is-prepared-withstand-us-blockade-seeks-curb-price-rises-2026-11-25/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 25, 2026 · 05:29 BRT",
       "pub_date": "2026-11-25",
-      "pub_ts": 1795591830,
+      "pub_ts": 1795595362,
       "summary": "",
       "tags": [
         "extracted",
-        "timesofisrael.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5762,30 +5739,48 @@
       "sentiment_success": false
     },
     {
-      "title": "Donald Trump administration debates strikes on senior Iranian leaders - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-915997",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Nov 24, 2026 · 13:39 BRT",
-      "pub_date": "2026-11-24",
-      "pub_ts": 1795538390,
-      "summary": "Supporters say strikes against hardliners could help bring the war to a close, while opponents warn they could harden Tehran’s position and undermine future talks.",
+      "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War - The New York Times",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Nov 25, 2026 · 07:04 BRT",
+      "pub_date": "2026-11-25",
+      "pub_ts": 1795601047,
+      "summary": "",
       "tags": [
-        "Iran",
-        "Tehran",
-        "Donald Trump",
-        "IRGC"
+        "extracted",
+        "nytimes.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "India's Chartered Speed targets December IPO after Iran war disruption - Reuters",
+      "url": "https://www.reuters.com/world/india/indias-chartered-speed-targets-december-ipo-after-iran-war-disruption-2026-11-25/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 25, 2026 · 03:12 BRT",
+      "pub_date": "2026-11-25",
+      "pub_ts": 1795587120,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-25T11:03:40.586921+00:00",
-  "last_generated_date": "2026-11-25",
-  "last_generated_time": "2026-11-25T23:02:07.742397+00:00",
+  "last_relevant_time": "2026-11-26T11:07:50.232350+00:00",
+  "last_generated_date": "2026-11-26",
+  "last_generated_time": "2026-11-26T08:01:53.312153+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

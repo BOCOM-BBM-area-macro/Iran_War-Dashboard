@@ -5771,41 +5771,41 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-26T11:07:42.205628+00:00",
+  "last_digest_time": "2026-11-27T11:03:59.786365+00:00",
   "digest": {
-    "digest": "Recent reports indicate Iran's economy is under significant strain due to a U.S. blockade, with the nation stating its preparedness to withstand these pressures and efforts to curb price rises. A potential limited window for a new operation against Iran is suggested, with funding noted through January. Within Israel, political figures are sharpening warnings regarding potential new strikes on Iran, while simultaneously, internal political maneuvering is occurring. Separately, an Iranian ally has reportedly gained an upper hand in Yemen's war, highlighting regional proxy dynamics. Conflicting predictions regarding an Iran war are being offered by Israeli psychics, with some foreseeing an imminent confrontation and others advising normalcy. Disruptions from the Iran war are also impacting business plans, with one company targeting an IPO after such disruptions. Diplomatic efforts are focused on preventing the widening of the Ukraine war, with calls made to Russia to avoid actions that could escalate the conflict.",
+    "digest": "Iran is experiencing significant economic strain due to U.S. sanctions, leading to the imposition of sweeping austerity measures. This economic pressure is described as a 'silent war' impacting the nation. In parallel, regional security incidents are escalating, with reports of an Iranian drone attack in Kuwait resulting in the deaths of two Italian nationals. Additionally, two oil tankers were reportedly struck by sea mines near Oman. Internally, Iran's supreme leader is urging the Revolutionary Guards-linked Basij volunteers to expand their social influence, indicating a focus on internal mobilization amidst external pressures. The conflict's impact is also felt globally, with airlines experiencing strain due to fuel price shocks related to the war. These events collectively highlight a period of heightened economic pressure, increased regional tensions, and internal consolidation within Iran.",
     "top_themes": [
-      "Iran's Economic Strain",
-      "Potential Iran Conflict Window",
-      "Regional Proxy Dynamics"
+      "Economic Strain",
+      "Regional Security Incidents",
+      "Internal Mobilization"
     ],
     "next_events": [
       {
-        "title": "US and Israeli Military Action Window",
-        "description": "Analysts should closely monitor the period leading up to and through January, as former President Trump's statement suggests a potential limited window for new operations against Iran. Simultaneously, watch for escalating warnings from Israeli military figures like Eisenkot, which could signal an imminent strike or increased pressure on the Netanyahu government regarding Iran."
+        "title": "Escalation of Direct Attacks on Foreign Interests",
+        "description": "The killing of Italian workers in Kuwait by an Iranian drone strike signals a dangerous escalation in targeting foreign nationals and assets. Analysts should monitor for further direct attacks on international personnel, infrastructure, or shipping, and assess the potential for retaliatory actions from affected nations or their allies."
       },
       {
-        "title": "Iran's Economic Resilience and Internal Stability",
-        "description": "The ongoing 'silent war' of economic strain under the U.S. blockade is critical. Observe Iran's success in curbing price rises and its ability to withstand sanctions, as significant economic deterioration could lead to increased internal unrest or a more aggressive external posture."
+        "title": "Intensified Maritime Disruptions and Global Economic Fallout",
+        "description": "Attacks on oil tankers near Oman’s Khasab, coupled with rising fuel prices straining airlines, indicate a growing threat to maritime security and global supply chains. Watch for increased naval presence in key waterways, potential for further attacks on shipping, and the broader economic repercussions on international markets and industries."
       },
       {
-        "title": "Escalation of Iranian Proxy Activities",
-        "description": "The success of Iranian allies in regional conflicts, such as in Yemen, indicates Iran's continued projection of power through proxies. Watch for further consolidation of influence or new destabilizing actions by these groups, which could trigger broader regional conflicts or international responses."
+        "title": "Internal Instability and Regime Consolidation in Iran",
+        "description": "Mounting U.S. economic pressure and sweeping austerity measures are straining Iran's economy, risking increased public discontent and potential unrest. Analysts should observe the regime's efforts to consolidate power through groups like the Basij, and assess the likelihood of internal protests or a shift in the government's domestic and foreign policy to alleviate pressure."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-11-26T11:07:49.735041+00:00",
+  "last_watch_time": "2026-11-27T11:04:07.552513+00:00",
   "relevant_news": [
     {
-      "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4",
+      "title": "Iranian Drone Attack Kills Two Italians in Kuwait - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iranian-drone-attack-kills-two-italians-in-kuwait-5e360a35",
       "source": "WSJ",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 26, 2026 · 00:00 BRT",
+      "published": "Nov 26, 2026 · 15:24 BRT",
       "pub_date": "2026-11-26",
-      "pub_ts": 1795662000,
+      "pub_ts": 1795717440,
       "summary": "",
       "tags": [
         "extracted",
@@ -5817,33 +5817,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op - The Times of Israel",
-      "url": "https://www.timesofisrael.com/trump-says-iran-war-funded-through-january-suggesting-limited-window-for-new-op/",
-      "source": "The Times of Israel",
-      "domain": "timesofisrael.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=timesofisrael.com",
-      "published": "Nov 25, 2026 · 05:55 BRT",
-      "pub_date": "2026-11-25",
-      "pub_ts": 1795596900,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "timesofisrael.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Eisenkot, pushing to oust Netanyahu, sharpens warnings over new Iran strikes - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/11/25/eisenkot-pushing-oust-netanyahu-sharpens-warnings-over-new-strikes-iran/",
+      "title": "Iran imposes sweeping austerity measures as U.S. economic pressure mounts - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/",
       "source": "The Washington Post",
       "domain": "washingtonpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Nov 25, 2026 · 15:00 BRT",
-      "pub_date": "2026-11-25",
-      "pub_ts": 1795629600,
+      "published": "Nov 26, 2026 · 15:00 BRT",
+      "pub_date": "2026-11-26",
+      "pub_ts": 1795716000,
       "summary": "",
       "tags": [
         "extracted",
@@ -5855,14 +5836,14 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-it-is-prepared-withstand-us-blockade-seeks-curb-price-rises-2026-11-25/",
+      "title": "Airlines strained by Iran-war fuel price shock - Reuters",
+      "url": "https://www.reuters.com/legal/litigation/airlines-strained-by-iran-war-fuel-price-shock-2026-11-26/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 25, 2026 · 05:29 BRT",
-      "pub_date": "2026-11-25",
-      "pub_ts": 1795595362,
+      "published": "Nov 26, 2026 · 09:50 BRT",
+      "pub_date": "2026-11-26",
+      "pub_ts": 1795697413,
       "summary": "",
       "tags": [
         "extracted",
@@ -5874,18 +5855,18 @@
       "sentiment_success": false
     },
     {
-      "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War - The New York Times",
-      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Nov 25, 2026 · 07:04 BRT",
-      "pub_date": "2026-11-25",
-      "pub_ts": 1795601047,
+      "title": "Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach - Reuters",
+      "url": "https://www.reuters.com/world/irans-supreme-leader-urges-guards-linked-basij-volunteers-broaden-social-reach-2026-11-26/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 26, 2026 · 10:47 BRT",
+      "pub_date": "2026-11-26",
+      "pub_ts": 1795700864,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -5893,14 +5874,33 @@
       "sentiment_success": false
     },
     {
-      "title": "India's Chartered Speed targets December IPO after Iran war disruption - Reuters",
-      "url": "https://www.reuters.com/world/india/indias-chartered-speed-targets-december-ipo-after-iran-war-disruption-2026-11-25/",
+      "title": "Two Italian workers killed in Iranian strike in Kuwait, source says - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/two-italian-workers-killed-iranian-strike-kuwait-source-says-2026-11-26/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 25, 2026 · 03:12 BRT",
-      "pub_date": "2026-11-25",
-      "pub_ts": 1795587120,
+      "published": "Nov 26, 2026 · 11:02 BRT",
+      "pub_date": "2026-11-26",
+      "pub_ts": 1795701739,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman’s Khasab - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-2026-11-26/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Nov 26, 2026 · 09:06 BRT",
+      "pub_date": "2026-11-26",
+      "pub_ts": 1795694778,
       "summary": "",
       "tags": [
         "extracted",
@@ -5913,9 +5913,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-26T11:07:50.232350+00:00",
-  "last_generated_date": "2026-11-26",
-  "last_generated_time": "2026-11-26T23:02:14.264850+00:00",
+  "last_relevant_time": "2026-11-27T11:04:07.970404+00:00",
+  "last_generated_date": "2026-11-27",
+  "last_generated_time": "2026-11-27T08:01:31.805991+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

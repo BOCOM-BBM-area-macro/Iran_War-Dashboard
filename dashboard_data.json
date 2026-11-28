@@ -5850,13 +5850,13 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-11-27T11:03:59.786365+00:00",
+  "last_digest_time": "2026-11-28T12:02:31.520274+00:00",
   "digest": {
-    "digest": "Iran is experiencing significant economic strain due to U.S. sanctions, leading to the imposition of sweeping austerity measures. This economic pressure is described as a 'silent war' impacting the nation. In parallel, regional security incidents are escalating, with reports of an Iranian drone attack in Kuwait resulting in the deaths of two Italian nationals. Additionally, two oil tankers were reportedly struck by sea mines near Oman. Internally, Iran's supreme leader is urging the Revolutionary Guards-linked Basij volunteers to expand their social influence, indicating a focus on internal mobilization amidst external pressures. The conflict's impact is also felt globally, with airlines experiencing strain due to fuel price shocks related to the war. These events collectively highlight a period of heightened economic pressure, increased regional tensions, and internal consolidation within Iran.",
+    "digest": "Recent reports indicate ongoing Iranian attacks targeting areas near a US military base in Bahrain, despite ongoing diplomatic negotiations between the US and Iran. These attacks have led to a significant decrease in civilian presence in the vicinity of the base. Concurrently, US administration officials have reportedly relocated to military housing due to direct threats against their lives stemming from Iranian actions. This move has prompted scrutiny from Democratic lawmakers, who are demanding justification from the Pentagon by Spring 2027. The situation highlights persistent security concerns and the direct impact of Iran's military activities on US personnel and infrastructure in the region.",
     "top_themes": [
-      "Economic Strain",
-      "Regional Security Incidents",
-      "Internal Mobilization"
+      "Iran Military Actions",
+      "US Military Presence in Bahrain",
+      "US Official Security Measures"
     ],
     "next_events": [
       {
@@ -5873,129 +5873,57 @@
       }
     ]
   },
-  "last_watch_success": true,
+  "last_watch_success": false,
   "last_watch_time": "2026-11-27T11:04:07.552513+00:00",
   "relevant_news": [
     {
-      "title": "Iranian Drone Attack Kills Two Italians in Kuwait - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/iranian-drone-attack-kills-two-italians-in-kuwait-5e360a35",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Nov 26, 2026 · 15:24 BRT",
-      "pub_date": "2026-11-26",
-      "pub_ts": 1795717440,
-      "summary": "",
+      "title": "Areas near Bahrain US military base largely deserted months after Iran attacks - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-916352",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 27, 2026 · 22:30 BRT",
+      "pub_date": "2026-11-27",
+      "pub_ts": 1795829451,
+      "summary": "Despite negotiations between Washington and Tehran, Iranian attacks on Bahrain have not stopped, with the most recent attack targeting an undisclosed US military base in the country.",
       "tags": [
-        "extracted",
-        "wsj.com"
+        "Iran",
+        "United States",
+        "iran missiles",
+        "Middle East",
+        "US Navy"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     },
     {
-      "title": "Iran imposes sweeping austerity measures as U.S. economic pressure mounts - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Nov 26, 2026 · 15:00 BRT",
-      "pub_date": "2026-11-26",
-      "pub_ts": 1795716000,
-      "summary": "",
+      "title": "Trump admin. officials move into military housing amid Iranian threats to their lives - report - The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-916351",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Nov 27, 2026 · 21:04 BRT",
+      "pub_date": "2026-11-27",
+      "pub_ts": 1795824275,
+      "summary": "Democratic lawmakers have scrutinized the move, declaring that the the Pentagon must justify the new living arrangements by Spring 2027.",
       "tags": [
-        "extracted",
-        "washingtonpost.com"
+        "Iran",
+        "United States",
+        "Washington",
+        "White House",
+        "Donald Trump"
       ],
       "sentiment": "neutral",
       "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Airlines strained by Iran-war fuel price shock - Reuters",
-      "url": "https://www.reuters.com/legal/litigation/airlines-strained-by-iran-war-fuel-price-shock-2026-11-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 26, 2026 · 09:50 BRT",
-      "pub_date": "2026-11-26",
-      "pub_ts": 1795697413,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach - Reuters",
-      "url": "https://www.reuters.com/world/irans-supreme-leader-urges-guards-linked-basij-volunteers-broaden-social-reach-2026-11-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 26, 2026 · 10:47 BRT",
-      "pub_date": "2026-11-26",
-      "pub_ts": 1795700864,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Two Italian workers killed in Iranian strike in Kuwait, source says - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/two-italian-workers-killed-iranian-strike-kuwait-source-says-2026-11-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 26, 2026 · 11:02 BRT",
-      "pub_date": "2026-11-26",
-      "pub_ts": 1795701739,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman’s Khasab - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-2026-11-26/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Nov 26, 2026 · 09:06 BRT",
-      "pub_date": "2026-11-26",
-      "pub_ts": 1795694778,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-11-27T11:04:07.970404+00:00",
-  "last_generated_date": "2026-11-27",
-  "last_generated_time": "2026-11-27T23:01:38.550543+00:00",
-  "last_run_success": true,
+  "last_relevant_time": "2026-11-28T12:05:04.691205+00:00",
+  "last_generated_date": "2026-11-28",
+  "last_generated_time": "2026-11-28T09:01:38.914474+00:00",
+  "last_run_success": false,
   "themed_news_cache": [
     {
       "theme": "Oil",
